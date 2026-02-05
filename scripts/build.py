@@ -1,0 +1,196 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Build JSON files in ./data from public RSS/Atom feeds.
+- No secrets required; safe for GitHub Actions.
+- Exits non‑zero on failure so the workflow fails visibly.
+"""
+import json, time, re, os, html as ihtml
+from datetime import datetime, timezone
+import requests, feedparser
+from lxml import html as lxml_html
+
+OUTPUT_DIR = "data"
+MAX_ITEMS = 30
+TIMEOUT = 20
+RETRIES = 3
+BACKOFF = 1.6
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120 StreamicBot/1.0"
+    ),
+    "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"
+}
+
+SOURCES = {
+    "broadcast-systems": [
+        "https://theiabm.org/feed/",
+        "https://www.tvbeurope.com/feed",
+        "https://www.tvtechnology.com/.rss/full/",
+        "https://www.newsshooter.com/feed/",
+    ],
+    "ai-in-media": [
+        "https://venturebeat.com/category/ai/feed/",
+    ],
+    "cloud-production": [
+        "https://aws.amazon.com/blogs/media/feed/",
+        "https://www.tvunetworks.com/blog/feed/",
+        "https://www.live-production.tv/rss.xml",
+        "https://www.broadcastbeat.com/feed/",
+    ],
+    "graphics": [
+        "https://www.rossvideo.com/feed/",
+        "https://www.vizrt.com/feed/",
+        "https://www.avid.com/rss/press-releases.xml",
+        "https://tvnewscheck.com/feed/",
+        "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    ],
+    "streaming": [
+        "https://feeds.infotoday.com/StreamingMediaMagazine-FeaturedNews",
+        "https://feeds.infotoday.com/StreamingMediaMagazine-IndustryNews",
+        "https://bitmovin.com/feed/",
+        "https://www.telestream.net/blog/feed/",
+        "https://www.evs.com/news/rss",
+        "https://www.mog-technologies.com/feed/",
+        "https://blog.cloudflare.com/rss/",
+        "https://blog.fastly.com/rss.xml",
+        "https://aws.amazon.com/blogs/media/feed/",
+    ],
+    "security": [
+        "https://feeds.feedburner.com/TheHackersNews",
+    ],
+}
+
+
+def _fetch(url: str) -> str:
+    last = None
+    for attempt in range(RETRIES):
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
+            return r.text
+        except Exception as e:
+            last = e
+            time.sleep(BACKOFF * (attempt + 1))
+    raise last
+
+
+def _clean_html(txt: str) -> str:
+    if not txt:
+        return ""
+    try:
+        node = lxml_html.fromstring(txt)
+        return " ".join(node.text_content().split())
+    except Exception:
+        return re.sub(r"<[^>]+>", " ", ihtml.unescape(txt)).strip()
+
+
+def _extract_image(e) -> str:
+    try:
+        if 'media_thumbnail' in e and e.media_thumbnail:
+            u = e.media_thumbnail[0].get('url')
+            if u: return u
+    except Exception: pass
+    try:
+        if 'media_content' in e and e.media_content:
+            u = e.media_content[0].get('url')
+            if u: return u
+    except Exception: pass
+    try:
+        for l in e.get('links', []):
+            if l.get('rel') == 'enclosure':
+                href = l.get('href')
+                if href and not href.lower().endswith(('.mp3', '.wav')):
+                    return href
+    except Exception: pass
+    for field in ('content', 'summary', 'description'):
+        blob = e.get(field)
+        if not blob: continue
+        if isinstance(blob, list) and blob and isinstance(blob[0], dict) and 'value' in blob[0]:
+            blob = blob[0]['value']
+        try:
+            doc = lxml_html.fromstring(blob)
+            for tag in doc.xpath('//img[@src]'):
+                src = (tag.get('src') or '').strip(); low = src.lower()
+                if src and not any(x in low for x in ('pixel', '1x1', '.svg', 'tracking', 'ads.')):
+                    return src
+        except Exception: pass
+    try:
+        if 'image' in e and e.image.get('href'):
+            return e.image.get('href')
+    except Exception: pass
+    return ""
+
+
+def _ts_of(e) -> float:
+    for k in ('published_parsed','updated_parsed','created_parsed'):
+        v = getattr(e, k, None)
+        if v:
+            try:
+                return time.mktime(v)
+            except Exception:
+                pass
+    return time.time()
+
+
+def _iso(ts: float) -> str:
+    return datetime.fromtimestamp(ts, tz=timezone.utc).isoformat()
+
+
+def main() -> None:
+    print('Building Streamic JSON…')
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    total_items = 0
+
+    for cat, feeds in SOURCES.items():
+        print(f"
+CAT: {cat}")
+        bucket = []
+        for url in feeds:
+            print(' -', url)
+            try:
+                raw = _fetch(url)
+                parsed = feedparser.parse(raw)
+                title = (getattr(parsed, 'feed', {}) or {}).get('title', cat)
+                for e in parsed.entries[:MAX_ITEMS]:
+                    t = _ts_of(e)
+                    s_full = _clean_html(e.get('summary') or e.get('description') or '')
+                    s = s_full[:240] + ('…' if len(s_full) > 240 else '')
+                    bucket.append({
+                        'title': e.get('title','Untitled'),
+                        'link': e.get('link','#'),
+                        'summary': s,
+                        'source': title,
+                        'category': cat,
+                        'timeAgo': e.get('published','Recent'),
+                        'timestamp': t,
+                        'isoDate': _iso(t),
+                        'imageUrl': _extract_image(e)
+                    })
+            except Exception as err:
+                print('   ERR', err)
+                continue
+        # dedupe by link
+        uniq = {}
+        for it in bucket:
+            lk = it.get('link')
+            if lk and lk not in uniq:
+                uniq[lk] = it
+        out = os.path.join(OUTPUT_DIR, f"{cat}.json")
+        items = sorted(uniq.values(), key=lambda x: x['timestamp'], reverse=True)
+        with open(out, 'w', encoding='utf-8') as f:
+            json.dump(items, f, indent=2, ensure_ascii=False)
+        print(f"  -> {out} ({len(items)} items)")
+        total_items += len(items)
+
+    print(f"
+Done. Total items: {total_items}")
+    # Exit non-zero if nothing was built, so the workflow shows a red X
+    if total_items == 0:
+        raise SystemExit(2)
+
+if __name__ == '__main__':
+    main()
