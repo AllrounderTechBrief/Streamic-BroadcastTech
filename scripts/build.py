@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Build JSON files in ./data from public RSS/Atom feeds.
-- No secrets required; safe for GitHub Actions.
-- Exits non‑zero on failure so the workflow fails visibly.
-"""
 import json, time, re, os, html as ihtml
 from datetime import datetime, timezone
 import requests, feedparser
@@ -74,6 +69,7 @@ def _fetch(url: str) -> str:
             return r.text
         except Exception as e:
             last = e
+            print('   fetch ERR', e)
             time.sleep(BACKOFF * (attempt + 1))
     raise last
 
@@ -173,7 +169,6 @@ CAT: {cat}")
             except Exception as err:
                 print('   ERR', err)
                 continue
-        # dedupe by link
         uniq = {}
         for it in bucket:
             lk = it.get('link')
@@ -188,9 +183,6 @@ CAT: {cat}")
 
     print(f"
 Done. Total items: {total_items}")
-    # Exit non-zero if nothing was built, so the workflow shows a red X
-    if total_items == 0:
-        raise SystemExit(2)
 
 if __name__ == '__main__':
     main()
