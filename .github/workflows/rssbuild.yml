@@ -1,27 +1,68 @@
 name: Build RSS JSON
+
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # hourly
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      TZ: UTC
+
     steps:
-      - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
       - name: Install deps
         run: |
-          pip install --upgrade pip
-          pip install feedparser requests lxml
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ensure data dir
+        run: mkdir -p data
+
       - name: Build JSON
-        run: python scripts/build.py
-      - name: Commit JSON
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          set -e
+          python scripts/build.py
+
+      - name: List outputs
+        run: ls -lah data || true
+
+      - name: Upload artifact (debug)
+        uses: actions/upload-artifact@v4
+        with:
+          name: rss-json
+          path: data/*.json
+          if-no-files-found: warn
+
+      - name: Configure git
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory $GITHUB_WORKSPACE
+
+      - name: Pull latest (rebase)
+        run: git pull --rebase || true
+
+      - name: Commit & push
+        run: |
           git add data/*.json || true
-          if git diff --staged --quiet; then echo "No changes"; else git commit -m "Automated RSS Update"; git push; fi
+          if git diff --staged --quiet; then
+            echo "No JSON changes to commit."
+          else
+            git commit -m "Automated RSS Update"
+            git push
+          fi
