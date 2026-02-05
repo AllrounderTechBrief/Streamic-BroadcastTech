@@ -59,7 +59,6 @@ SOURCES = {
     ],
 }
 
-
 def _fetch(url: str) -> str:
     last = None
     for attempt in range(RETRIES):
@@ -69,10 +68,9 @@ def _fetch(url: str) -> str:
             return r.text
         except Exception as e:
             last = e
-            print('   fetch ERR', e)
+            print("   fetch ERR:", e)
             time.sleep(BACKOFF * (attempt + 1))
     raise last
-
 
 def _clean_html(txt: str) -> str:
     if not txt:
@@ -83,46 +81,51 @@ def _clean_html(txt: str) -> str:
     except Exception:
         return re.sub(r"<[^>]+>", " ", ihtml.unescape(txt)).strip()
 
-
 def _extract_image(e) -> str:
     try:
-        if 'media_thumbnail' in e and e.media_thumbnail:
-            u = e.media_thumbnail[0].get('url')
+        if "media_thumbnail" in e and e.media_thumbnail:
+            u = e.media_thumbnail[0].get("url")
             if u: return u
-    except Exception: pass
+    except Exception:
+        pass
     try:
-        if 'media_content' in e and e.media_content:
-            u = e.media_content[0].get('url')
+        if "media_content" in e and e.media_content:
+            u = e.media_content[0].get("url")
             if u: return u
-    except Exception: pass
+    except Exception:
+        pass
     try:
-        for l in e.get('links', []):
-            if l.get('rel') == 'enclosure':
-                href = l.get('href')
-                if href and not href.lower().endswith(('.mp3', '.wav')):
+        for l in e.get("links", []):
+            if l.get("rel") == "enclosure":
+                href = l.get("href")
+                if href and not href.lower().endswith((".mp3", ".wav")):
                     return href
-    except Exception: pass
-    for field in ('content', 'summary', 'description'):
+    except Exception:
+        pass
+    for field in ("content", "summary", "description"):
         blob = e.get(field)
-        if not blob: continue
-        if isinstance(blob, list) and blob and isinstance(blob[0], dict) and 'value' in blob[0]:
-            blob = blob[0]['value']
+        if not blob:
+            continue
+        if isinstance(blob, list) and blob and isinstance(blob[0], dict) and "value" in blob[0]:
+            blob = blob[0]["value"]
         try:
             doc = lxml_html.fromstring(blob)
-            for tag in doc.xpath('//img[@src]'):
-                src = (tag.get('src') or '').strip(); low = src.lower()
-                if src and not any(x in low for x in ('pixel', '1x1', '.svg', 'tracking', 'ads.')):
+            for tag in doc.xpath("//img[@src]"):
+                src = (tag.get("src") or "").strip()
+                low = src.lower()
+                if src and not any(x in low for x in ("pixel", "1x1", ".svg", "tracking", "ads.")):
                     return src
-        except Exception: pass
+        except Exception:
+            pass
     try:
-        if 'image' in e and e.image.get('href'):
-            return e.image.get('href')
-    except Exception: pass
+        if "image" in e and e.image.get("href"):
+            return e.image.get("href")
+    except Exception:
+        pass
     return ""
 
-
 def _ts_of(e) -> float:
-    for k in ('published_parsed','updated_parsed','created_parsed'):
+    for k in ("published_parsed","updated_parsed","created_parsed"):
         v = getattr(e, k, None)
         if v:
             try:
@@ -131,58 +134,57 @@ def _ts_of(e) -> float:
                 pass
     return time.time()
 
-
 def _iso(ts: float) -> str:
     return datetime.fromtimestamp(ts, tz=timezone.utc).isoformat()
 
-
 def main() -> None:
-    print('Building Streamic JSON…')
+    print("Building Streamic JSON…")
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     total_items = 0
 
     for cat, feeds in SOURCES.items():
-        print(f"
-CAT: {cat}")
+        print(f"\nCAT: {cat}")
         bucket = []
         for url in feeds:
-            print(' -', url)
+            print(" -", url)
             try:
                 raw = _fetch(url)
                 parsed = feedparser.parse(raw)
-                title = (getattr(parsed, 'feed', {}) or {}).get('title', cat)
+                title = (getattr(parsed, "feed", {}) or {}).get("title", cat)
                 for e in parsed.entries[:MAX_ITEMS]:
                     t = _ts_of(e)
-                    s_full = _clean_html(e.get('summary') or e.get('description') or '')
-                    s = s_full[:240] + ('…' if len(s_full) > 240 else '')
+                    s_full = _clean_html(e.get("summary") or e.get("description") or "")
+                    s = s_full[:240] + ("…" if len(s_full) > 240 else "")
                     bucket.append({
-                        'title': e.get('title','Untitled'),
-                        'link': e.get('link','#'),
-                        'summary': s,
-                        'source': title,
-                        'category': cat,
-                        'timeAgo': e.get('published','Recent'),
-                        'timestamp': t,
-                        'isoDate': _iso(t),
-                        'imageUrl': _extract_image(e)
+                        "title": e.get("title","Untitled"),
+                        "link": e.get("link","#"),
+                        "summary": s,
+                        "source": title,
+                        "category": cat,
+                        "timeAgo": e.get("published","Recent"),
+                        "timestamp": t,
+                        "isoDate": _iso(t),
+                        "imageUrl": _extract_image(e),
                     })
             except Exception as err:
-                print('   ERR', err)
+                print("   ERR", err)
                 continue
+
+        # dedupe by link
         uniq = {}
         for it in bucket:
-            lk = it.get('link')
+            lk = it.get("link")
             if lk and lk not in uniq:
                 uniq[lk] = it
+
         out = os.path.join(OUTPUT_DIR, f"{cat}.json")
-        items = sorted(uniq.values(), key=lambda x: x['timestamp'], reverse=True)
-        with open(out, 'w', encoding='utf-8') as f:
+        items = sorted(uniq.values(), key=lambda x: x["timestamp"], reverse=True)
+        with open(out, "w", encoding="utf-8") as f:
             json.dump(items, f, indent=2, ensure_ascii=False)
         print(f"  -> {out} ({len(items)} items)")
         total_items += len(items)
 
-    print(f"
-Done. Total items: {total_items}")
+    print(f"\nDone. Total items: {total_items}")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
