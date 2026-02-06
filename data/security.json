@@ -1,5 +1,16 @@
 [
   {
+    "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+    "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+    "summary": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019. The framework comprises seven Linux-based i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 06 Feb 2026 20:26:00 +0530",
+    "timestamp": 1770389760.0,
+    "isoDate": "2026-02-06T14:56:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyMn4uLO-VZgiUrwRtAtJIOgkMnxpxz8eAMF1qozW3TT6F7vTTebQnOZu_ZHcioB-mqEHV7AT35sHZPKp5X2W6kJj0l8fZDPZoS11oLDOMh3v8_6rX_C5IiLlxrlv0eCEPFUZ2Nv6VG4BNcEiDH7yJ0HyJ-5CvN2EL-VsQP85QydfaaLQ62BME9d_-frU/s1600/hijacking.jpg"
+  },
+  {
     "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
     "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive securit…",
@@ -317,16 +328,5 @@
     "timestamp": 1770047940.0,
     "isoDate": "2026-02-02T15:59:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOf9qxdul5asVTIVQe4P6l_tPfVmbnsfVrt3cNmU3_q5qDeFcqXdve4AgXe-z7gCGozXQ3z0wDZnXn_-bynodpDfeUQaM5T4CFWpZUcGsbD-R-JS93Jp_1R37WQkCU4gLLpFjDxkN6T2DpAXXthKXl4QDIe_D486n18bp4_yyxt2DuVz2-zLjTybVQFDS/s1600/windows.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
-    "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
-    "summary": "Every week brings new discoveries, attacks, and defenses that shape the state of cybersecurity. Some threats are stopped quickly, while others go unseen until they cause real damage. Sometimes a single update, exploit, or mistake changes ho…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Feb 2026 17:29:00 +0530",
-    "timestamp": 1770033540.0,
-    "isoDate": "2026-02-02T11:59:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9uSby99DCwswXd6TJFvm-PoprW_CRTBw9ybmBUQv9frf03WLoy6wgTB5IhjjulguZSLvc72tXk-6OrsFDjg5_Ab1QivwnXKZY16oC4sJ9iKE39MyxSXmXdWZ8o3XdAc4X3vB6-ed7x5WvNt149AgZ7EI7sTg2FDqcWU5HkI9Mli-dDUPUzj_ub_-umx0/s1600/recap.jpg"
   }
 ]
