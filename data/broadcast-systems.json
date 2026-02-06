@@ -1,5 +1,49 @@
 [
   {
+    "title": "TLS Vega65",
+    "link": "https://www.newsshooter.com/2026/02/06/tls-vega65/?utm_source=rss&utm_medium=rss&utm_campaign=tls-vega65",
+    "summary": "The TLS Vega65 is touted to be where modern imaging meets character. The lenses were conceived, engineered, and built in-house by the TLS design team. According to TLS, every decision is deliberate and every tolerance exact. The material wa…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 06 Feb 2026 10:50:53 +0000",
+    "timestamp": 1770375053.0,
+    "isoDate": "2026-02-06T10:50:53+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "UK high-end television production spend passes £4 billion",
+    "link": "https://www.tvbeurope.com/production-post/uk-high-end-television-production-spend-passes-4-billion",
+    "summary": "The figure rose by 17 per cent compared to the previous year, and was the third highest annual spend since tax relief was introduced in 2013 The post UK high-end television production spend passes £4 billion appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 06 Feb 2026 10:29:44 +0000",
+    "timestamp": 1770373784.0,
+    "isoDate": "2026-02-06T10:29:44+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/Harry-Potter-HBO.jpg"
+  },
+  {
+    "title": "More than 175 cameras touch down for Super Bowl LX",
+    "link": "https://www.tvbeurope.com/live-production/more-than-175-cameras-touch-down-for-super-bowl-lx",
+    "summary": "Building on a long-standing technical partnership with the NFL, Sony's solutions will help deliver the most-watched live broadcast in America The post More than 175 cameras touch down for Super Bowl LX appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 06 Feb 2026 10:27:04 +0000",
+    "timestamp": 1770373624.0,
+    "isoDate": "2026-02-06T10:27:04+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/Sony_Broadcast_Camera.jpg"
+  },
+  {
+    "title": "Best of Show Awards at ISE 2026 winners announced",
+    "link": "https://www.tvbeurope.com/business/best-of-show-awards-at-ise-2026-winners-announced",
+    "summary": "The TVBEurope category recognises broadcast-grade technology products on show in Barcelona The post Best of Show Awards at ISE 2026 winners announced appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 06 Feb 2026 09:08:58 +0000",
+    "timestamp": 1770368938.0,
+    "isoDate": "2026-02-06T09:08:58+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/Copy-of-ISE-BOS-Awards-UK-2026_Oct25_1200x627_TW_72_1200-x-627-726x379.png"
+  },
+  {
     "title": "Blackmagic Design recalls PYXIS 12K cameras with serial numbers earlier than 14221337",
     "link": "https://www.newsshooter.com/2026/02/05/blackmagic-design-recalls-pyxis-12k-cameras-with-serial-numbers-earlier-than-14221337/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-design-recalls-pyxis-12k-cameras-with-serial-numbers-earlier-than-14221337",
     "summary": "Blackmagic Design is recalling some Blackmagic PYXIS 12K cameras with serial numbers earlier than 14221337. The recall of all Blackmagic PYXIS 12K cameras that were manufactured before serial number 14221337 is for a free sensor board upgra…",
@@ -41,17 +85,6 @@
     "timeAgo": "Fri, 06 Feb 2026 00:07:42 +0000",
     "timestamp": 1770336462.0,
     "isoDate": "2026-02-06T00:07:42+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Aputure Firmware Updates for Aputure STORM, NOVA II, & NOVA 9° Families",
-    "link": "https://www.newsshooter.com/2026/02/05/aputure-firmware-updates-for-aputure-storm-nova-ii-nova-9-families/?utm_source=rss&utm_medium=rss&utm_campaign=aputure-firmware-updates-for-aputure-storm-nova-ii-nova-9-families",
-    "summary": "Aputure has released a ton of new firmware updates for all fixtures in the Aputure STORM, NOVA II, and NOVA 9° families. The NOVA II 2×1 and STORM XT52 both receive major updates with numerous improvements, while all other lights in the fam…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 05 Feb 2026 18:00:55 +0000",
-    "timestamp": 1770314455.0,
-    "isoDate": "2026-02-05T18:00:55+00:00",
     "imageUrl": ""
   },
   {
@@ -240,39 +273,6 @@
     "timestamp": 1770115981.0,
     "isoDate": "2026-02-03T10:53:01+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2022/02/CAN123.profile.38_PREVIEW-726x484.jpg"
-  },
-  {
-    "title": "Grabyo and Lingopal partner on scalable real-time AI-driven localisation",
-    "link": "https://www.tvbeurope.com/live-production/grabyo-and-lingopal-partner-on-scalable-real-time-ai-driven-localisation",
-    "summary": "The partnership brings broadcast-quality, real-time language translation and dubbing directly into Grabyo’s cloud production platform The post Grabyo and Lingopal partner on scalable real-time AI-driven localisation appeared first on TVBEur…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 03 Feb 2026 10:09:42 +0000",
-    "timestamp": 1770113382.0,
-    "isoDate": "2026-02-03T10:09:42+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Farrah Charles named general manager of Shepperton Studios",
-    "link": "https://www.tvbeurope.com/business/people/farrah-charles-named-general-manager-of-shepperton-studios",
-    "summary": "The appointment, effective from this month, sees Charles return to Pinewood following a career spanning more than 20 years in the business The post Farrah Charles named general manager of Shepperton Studios appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 03 Feb 2026 09:23:12 +0000",
-    "timestamp": 1770110592.0,
-    "isoDate": "2026-02-03T09:23:12+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/unnamed-copy-726x424.jpg"
-  },
-  {
-    "title": "Audiotonix gets sound deal with DPA Microphones, Wisycom and Austrian Audio acquisitions",
-    "link": "https://www.tvbeurope.com/audio/audiotonix-gets-sound-deal-with-dpa-microphones-wisycom-and-austrian-audio-acquisitions",
-    "summary": "All three brands join the growing Audiotonix portfolio, which includes Allen & Heath, Calrec, DiGiCo, and Solid State Logic The post Audiotonix gets sound deal with DPA Microphones, Wisycom and Austrian Audio acquisitions appeared first on …",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 03 Feb 2026 08:57:57 +0000",
-    "timestamp": 1770109077.0,
-    "isoDate": "2026-02-03T08:57:57+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2019/01/wisycom-482.jpg"
   },
   {
     "title": "Tedial – Composable NoCode UI Design",
