@@ -1,46 +1,105 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>STREAMIC — About</title>
-  <meta name="description" content="Streamic — headlines for media engineers." />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/main.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="About The Streamic - Independent broadcast technology news aggregator for media engineers and systems architects.">
+  <title>About - The Streamic</title>
+  <link rel="canonical" href="https://www.thestreamic.in/about.html">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="site-header container">
-  <a class="brand" href="index.html" aria-label="Streamic Home">
-    <span class="logo" aria-hidden="true"></span>
-    <span class="wordmark">STREAMIC</span>
-  </a>
-  <nav class="top-nav">
-    <a href="broadcast-systems.html">Broadcast Systems</a>
-    <a href="ai-media.html">AI & Media</a>
-    <a href="cloud.html">Cloud</a>
-    <a href="graphics.html">Graphics</a>
-    <a href="streaming.html">Streaming</a>
-    <a href="security.html">Security</a>
-    <a href="about.html">About</a>
-    <a class="btn-join" href="mailto:technodate3@gmail.com?subject=Join Streamic">Join</a>
+  <nav class="site-nav">
+    <div class="nav-inner">
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
+      <ul class="nav-links">
+        <li><a href="newsroom.html">Newsroom (NRCS & MAM)</a></li>
+        <li><a href="playout.html">Playout (Automation & MCR)</a></li>
+        <li><a href="infrastructure.html">Infrastructure (ST 2110 & SDI/IP)</a></li>
+        <li><a href="graphics.html">Graphics (Vizrt, Ross, & 3D)</a></li>
+        <li><a href="cloud.html">Cloud (Remote Edit & SaaS)</a></li>
+        <li><a href="streaming.html">Streaming (CDN, OTT, & AWS)</a></li>
+        <li><a href="audio-ai.html">Audio & AI (AoIP & Captions)</a></li>
+      </ul>
+    </div>
   </nav>
-</header>
-<section class="hero container" aria-label="Intro">
-  <h1 class="hero-title">Inside Broadcast Technology.</h1>
-  <p class="hero-sub">The definitive platform for media engineers. Tracking signal flow, cloud workflows, and AI infrastructure.</p>
-</section>
-
-<main class="container narrow">
-  <section class="prose">
-    <h2>About Streamic</h2>
-    <p>Streamic is a minimalist news front that curates headlines from trusted publishers via public RSS/Atom feeds. We link to the originals and do not host full text.</p>
-    <p>Want to suggest a feed or join the effort? Email <a href="mailto:technodate3@gmail.com">technodate3@gmail.com</a>.</p>
-  </section>
-</main>
-<footer class="site-footer container">
-  <small>© <span id="year"></span> Streamic</small>
-</footer>
-<script src="assets/js/main.js"></script>
+  
+  <main class="about-container">
+    <div class="about-header">
+      <h1>About The Streamic</h1>
+      <p class="subtitle">Your independent hub for broadcast technology updates.</p>
+    </div>
+    
+    <div class="about-section">
+      <h2>🌐 The Streamic</h2>
+      <p>
+        The Streamic is an independent technology-news aggregator that curates the latest updates from trusted global publishers. Our platform displays headlines, excerpts, and links sourced through publicly available RSS feeds. All full articles remain on the original publishers' websites.
+      </p>
+      <p>
+        We do not reproduce full text, claim ownership of external content, or represent any of the publishers featured on this site. Each headline links directly to the source, ensuring proper attribution and supporting the original creators.
+      </p>
+      <p>
+        Our goal is simple: provide a fast, clean, and modern way to follow breaking technology news across the broadcast industry — all in one place.
+      </p>
+    </div>
+    
+    <div class="about-section">
+      <h2>🎯 2026 Features</h2>
+      <p><strong>AI Impact Briefs:</strong> Each news item includes a brief explanation of why it matters to broadcast engineers and systems architects.</p>
+      <p><strong>Automated Updates:</strong> Content refreshes every 6 hours via GitHub Actions, ensuring you always see the latest developments.</p>
+      <p><strong>100-Item Sliding Window:</strong> Our intelligent deduplication system maintains the most recent 100 unique stories across all categories.</p>
+      <p><strong>GEO-Optimized:</strong> Structured data ensures AI search engines can easily discover and cite our curated content.</p>
+    </div>
+    
+    <div class="about-section">
+      <h2>👤 About the Creator</h2>
+      <p>
+        My name is <strong>Prerak Mehta</strong>. I've spent my career working across production IT systems and broadcast operations, developing a deep interest in broadcast engineering, cloud-based workflows, and emerging media technologies.
+      </p>
+      <p>
+        I created Streamic to build a clean, automated, editorial-style hub for global broadcast-tech updates. This platform reflects my passion for modern media workflows, system design, and the evolving future of broadcast technology.
+      </p>
+      <p>
+        For collaboration, feedback, or industry conversations, feel free to <a href="contact.html">reach out</a>.
+      </p>
+    </div>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="footer-grid">
+      <div class="foot-col">
+        <h4>The Streamic</h4>
+        <p>An independent resource for systems architects and media technologists. Tracking the migration of signal flow to software-defined environments.</p>
+      </div>
+      <div class="foot-col">
+        <h4>Navigation</h4>
+        <a href="newsroom.html">Newsroom (NRCS & MAM)</a>
+        <a href="playout.html">Playout (Automation & MCR)</a>
+        <a href="infrastructure.html">Infrastructure (ST 2110 & SDI/IP)</a>
+        <a href="graphics.html">Graphics (Vizrt, Ross, & 3D)</a>
+        <a href="cloud.html">Cloud (Remote Edit & SaaS)</a>
+        <a href="streaming.html">Streaming (CDN, OTT, & AWS)</a>
+        <a href="audio-ai.html">Audio & AI (AoIP & Captions)</a>
+      </div>
+      <div class="foot-col">
+        <h4>Information</h4>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms & Conditions</a>
+        <a href="disclaimer.html">Disclaimer</a>
+      </div>
+    </div>
+    <p class="footer-note">© 2026 The Streamic – All rights reserved.</p>
+  </footer>
+  
+  <script>
+    document.querySelector('.nav-toggle')?.addEventListener('click', function() {
+      const links = document.querySelector('.nav-links');
+      const expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', !expanded);
+      links.classList.toggle('active');
+    });
+  </script>
 </body>
 </html>

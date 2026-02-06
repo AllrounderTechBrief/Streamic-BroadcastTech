@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Disclaimer - The Streamic</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="site-nav">
+    <div class="nav-inner">
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  <main class="about-container">
+    <h1>Disclaimer</h1>
+    <p class="subtitle">Last Updated: February 2026</p>
+    
+    <h2>Content Attribution</h2>
+    <p>The Streamic aggregates content from publicly available RSS feeds provided by third-party publishers. We display headlines, excerpts, and links to the original sources.</p>
+    
+    <h2>Accuracy</h2>
+    <p>While we strive to provide accurate information, we cannot guarantee the accuracy, completeness, or timeliness of aggregated content. Always verify information with the original source.</p>
+    
+    <h2>Third-Party Websites</h2>
+    <p>Links to external websites are provided for convenience. We have no control over and assume no responsibility for the content of third-party sites.</p>
+    
+    <h2>Professional Advice</h2>
+    <p>Content on this website is for informational purposes only and should not be considered professional advice. Consult appropriate professionals for specific guidance.</p>
+    
+    <h2>Changes</h2>
+    <p>We reserve the right to modify this disclaimer at any time. Continued use of the website constitutes acceptance of changes.</p>
+    
+    <h2>Contact</h2>
+    <p>For questions about this disclaimer, contact: itabmum@gmail.com</p>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="footer-grid">
+      <div class="foot-col">
+        <h4>The Streamic</h4>
+        <p>An independent resource for systems architects and media technologists.</p>
+      </div>
+      <div class="foot-col">
+        <h4>Information</h4>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms & Conditions</a>
+        <a href="disclaimer.html">Disclaimer</a>
+      </div>
+    </div>
+    <p class="footer-note">© 2026 The Streamic – All rights reserved.</p>
+  </footer>
+  
+  <script>
+    document.querySelector('.nav-toggle')?.addEventListener('click', function() {
+      const links = document.querySelector('.nav-links');
+      const expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', !expanded);
+      links.classList.toggle('active');
+    });
+  </script>
+</body>
+</html>

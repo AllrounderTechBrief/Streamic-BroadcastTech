@@ -1,65 +1,168 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>STREAMIC — Headlines</title>
-  <meta name="description" content="Streamic — headlines for media engineers." />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/main.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="The Streamic - Your independent hub for broadcast technology news. Track newsroom systems, playout automation, IP infrastructure, graphics, cloud, streaming, and audio/AI updates.">
+  <meta name="keywords" content="broadcast technology, NRCS, MAM, playout automation, SMPTE 2110, ST 2110, IP video, Vizrt, Ross, cloud production, CDN, OTT, AWS, audio over IP, AI captions">
+  <title>The Streamic - Inside Broadcast Technology</title>
+  <link rel="canonical" href="https://www.thestreamic.in/">
+  <link rel="stylesheet" href="style.css">
+  
+  <!-- GEO: JSON-LD Schema for AI Search Engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "The Streamic",
+    "description": "Independent broadcast technology news aggregator tracking industry developments across newsroom systems, playout automation, IP infrastructure, graphics, cloud, streaming, and audio/AI.",
+    "url": "https://www.thestreamic.in/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Streamic",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.thestreamic.in/assets/logo.png"
+      }
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.thestreamic.in/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://www.dalet.com">
+  <link rel="dns-prefetch" href="https://www.rossvideo.com">
 </head>
 <body>
-<header class="site-header container">
-  <a class="brand" href="index.html" aria-label="Streamic Home">
-    <span class="logo" aria-hidden="true"></span>
-    <span class="wordmark">STREAMIC</span>
-  </a>
-  <nav class="top-nav">
-    <a href="broadcast-systems.html">Broadcast Systems</a>
-    <a href="ai-media.html">AI & Media</a>
-    <a href="cloud.html">Cloud</a>
-    <a href="graphics.html">Graphics</a>
-    <a href="streaming.html">Streaming</a>
-    <a href="security.html">Security</a>
-    <a href="about.html">About</a>
-    <a class="btn-join" href="mailto:technodate3@gmail.com?subject=Join Streamic">Join</a>
+  
+  <!-- Navigation - Refined 2026 Layout -->
+  <nav class="site-nav">
+    <div class="nav-inner">
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
+      <ul class="nav-links">
+        <li><a href="newsroom.html">Newsroom (NRCS & MAM)</a></li>
+        <li><a href="playout.html">Playout (Automation & MCR)</a></li>
+        <li><a href="infrastructure.html">Infrastructure (ST 2110 & SDI/IP)</a></li>
+        <li><a href="graphics.html">Graphics (Vizrt, Ross, & 3D)</a></li>
+        <li><a href="cloud.html">Cloud (Remote Edit & SaaS)</a></li>
+        <li><a href="streaming.html">Streaming (CDN, OTT, & AWS)</a></li>
+        <li><a href="audio-ai.html">Audio & AI (AoIP & Captions)</a></li>
+      </ul>
+    </div>
   </nav>
-</header>
-<section class="hero container" aria-label="Intro">
-  <h1 class="hero-title">Inside Broadcast Technology.</h1>
-  <p class="hero-sub">The definitive platform for media engineers. Tracking signal flow, cloud workflows, and AI infrastructure.</p>
-</section>
-
-<main class="container">
-  <section class="section">
-    <h2 class="section-title">Broadcast Systems</h2>
-    <div class="card-grid" data-grid data-feed="data/broadcast-systems.json"></div>
-  </section>
-  <section class="section">
-    <h2 class="section-title">AI in Media</h2>
-    <div class="card-grid" data-grid data-feed="data/ai-in-media.json"></div>
-  </section>
-  <section class="section">
-    <h2 class="section-title">Cloud Production</h2>
-    <div class="card-grid" data-grid data-feed="data/cloud-production.json"></div>
-  </section>
-  <section class="section">
-    <h2 class="section-title">Graphics</h2>
-    <div class="card-grid" data-grid data-feed="data/graphics.json"></div>
-  </section>
-  <section class="section">
-    <h2 class="section-title">Streaming</h2>
-    <div class="card-grid" data-grid data-feed="data/streaming.json"></div>
-  </section>
-  <section class="section">
-    <h2 class="section-title">Security</h2>
-    <div class="card-grid" data-grid data-feed="data/security.json"></div>
-  </section>
-</main>
-<footer class="site-footer container">
-  <small>© <span id="year"></span> Streamic</small>
-</footer>
-<script src="assets/js/main.js"></script>
+  
+  <!-- Hero Section -->
+  <header class="page-hero">
+    <div class="hero-inner">
+      <h1>Inside Broadcast Technology</h1>
+      <p>The definitive platform for media engineers. Tracking signal flow, cloud workflows, and AI infrastructure.</p>
+    </div>
+  </header>
+  
+  <!-- Main Content -->
+  <main class="home">
+    
+    <!-- Newsroom (NRCS & MAM) -->
+    <section class="home-section">
+      <div class="section-head">
+        <h2>Newsroom (NRCS & MAM)</h2>
+        <a href="newsroom.html">View all</a>
+      </div>
+      <div class="card-grid" id="grid-newsroom"></div>
+    </section>
+    
+    <!-- Playout (Automation & MCR) -->
+    <section class="home-section">
+      <div class="section-head">
+        <h2>Playout (Automation & MCR)</h2>
+        <a href="playout.html">View all</a>
+      </div>
+      <div class="card-grid" id="grid-playout"></div>
+    </section>
+    
+    <!-- Infrastructure (ST 2110 & SDI/IP) -->
+    <section class="home-section">
+      <div class="section-head">
+        <h2>Infrastructure (ST 2110 & SDI/IP)</h2>
+        <a href="infrastructure.html">View all</a>
+      </div>
+      <div class="card-grid" id="grid-infrastructure"></div>
+    </section>
+    
+    <!-- Graphics (Vizrt, Ross, & 3D) -->
+    <section class="home-section">
+      <div class="section-head">
+        <h2>Graphics (Vizrt, Ross, & 3D)</h2>
+        <a href="graphics.html">View all</a>
+      </div>
+      <div class="card-grid" id="grid-graphics"></div>
+    </section>
+    
+    <!-- Cloud (Remote Edit & SaaS) -->
+    <section class="home-section">
+      <div class="section-head">
+        <h2>Cloud (Remote Edit & SaaS)</h2>
+        <a href="cloud.html">View all</a>
+      </div>
+      <div class="card-grid" id="grid-cloud"></div>
+    </section>
+    
+    <!-- Streaming (CDN, OTT, & AWS) -->
+    <section class="home-section">
+      <div class="section-head">
+        <h2>Streaming (CDN, OTT, & AWS)</h2>
+        <a href="streaming.html">View all</a>
+      </div>
+      <div class="card-grid" id="grid-streaming"></div>
+    </section>
+    
+    <!-- Audio & AI (AoIP & Captions) -->
+    <section class="home-section">
+      <div class="section-head">
+        <h2>Audio & AI (AoIP & Captions)</h2>
+        <a href="audio-ai.html">View all</a>
+      </div>
+      <div class="card-grid" id="grid-audio-ai"></div>
+    </section>
+    
+  </main>
+  
+  <!-- Footer with About & Contact -->
+  <footer class="site-footer">
+    <div class="footer-grid">
+      <div class="foot-col">
+        <h4>The Streamic</h4>
+        <p>An independent resource for systems architects and media technologists. Tracking the migration of signal flow to software-defined environments.</p>
+      </div>
+      <div class="foot-col">
+        <h4>Navigation</h4>
+        <a href="newsroom.html">Newsroom (NRCS & MAM)</a>
+        <a href="playout.html">Playout (Automation & MCR)</a>
+        <a href="infrastructure.html">Infrastructure (ST 2110 & SDI/IP)</a>
+        <a href="graphics.html">Graphics (Vizrt, Ross, & 3D)</a>
+        <a href="cloud.html">Cloud (Remote Edit & SaaS)</a>
+        <a href="streaming.html">Streaming (CDN, OTT, & AWS)</a>
+        <a href="audio-ai.html">Audio & AI (AoIP & Captions)</a>
+      </div>
+      <div class="foot-col">
+        <h4>Information</h4>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms & Conditions</a>
+        <a href="disclaimer.html">Disclaimer</a>
+      </div>
+    </div>
+    <p class="footer-note">© 2026 The Streamic – All rights reserved.</p>
+  </footer>
+  
+  <!-- Scripts -->
+  <script src="app.js"></script>
+  
 </body>
 </html>

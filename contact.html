@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Cloud (Remote Edit & SaaS) - Latest broadcast technology updates.">
-  <title>Cloud (Remote Edit & SaaS) - The Streamic</title>
-  <link rel="canonical" href="https://www.thestreamic.in/cloud.html">
+  <meta name="description" content="Contact The Streamic for feedback, collaboration, or industry conversations.">
+  <title>Contact - The Streamic</title>
+  <link rel="canonical" href="https://www.thestreamic.in/contact.html">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -23,18 +23,22 @@
       </ul>
     </div>
   </nav>
-  <header class="page-hero">
-    <div class="hero-inner">
-      <h1>Cloud (Remote Edit & SaaS)</h1>
-      <p>Latest updates in broadcast technology.</p>
+  
+  <main class="contact-container">
+    <div class="contact-header">
+      <h1>Get in Touch</h1>
     </div>
-  </header>
-  <main>
-    <section class="category-wrap">
-      <div id="content" class="card-grid"></div>
-      <div class="load-more-wrap"><button id="loadMoreBtn" class="btn">Load More</button></div>
-    </section>
+    
+    <div class="contact-box">
+      <h2>Contact Us</h2>
+      <p>For collaboration, feedback, or industry conversations, reach out via email.</p>
+      <a href="mailto:itabmum@gmail.com" class="contact-email">
+        <span class="icon">✉</span>
+        itabmum@gmail.com
+      </a>
+    </div>
   </main>
+  
   <footer class="site-footer">
     <div class="footer-grid">
       <div class="foot-col">
@@ -60,7 +64,14 @@
     </div>
     <p class="footer-note">© 2026 The Streamic – All rights reserved.</p>
   </footer>
-  <script src="category.js"></script>
-  <script>loadSingleCategory('cloud');</script>
+  
+  <script>
+    document.querySelector('.nav-toggle')?.addEventListener('click', function() {
+      const links = document.querySelector('.nav-links');
+      const expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', !expanded);
+      links.classList.toggle('active');
+    });
+  </script>
 </body>
 </html>

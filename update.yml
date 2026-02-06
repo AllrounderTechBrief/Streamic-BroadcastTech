@@ -1,0 +1,48 @@
+name: Update RSS Feeds
+
+on:
+  # Run every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'
+  # Allow manual trigger from Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to push updated JSON files
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Create data directory
+        run: mkdir -p data
+      
+      - name: Run RSS aggregator
+        run: |
+          python scripts/fetch_rss.py
+      
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Commit and push changes
+        run: |
+          git add data/*.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Auto-update RSS feeds - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
+      
+      - name: Display metrics
+        if: always()
+        run: |
+          if [ -f data/metrics.json ]; then
+            echo "=== Feed Update Metrics ==="
+            cat data/metrics.json
+          fi
