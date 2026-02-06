@@ -1,5 +1,16 @@
 [
   {
+    "title": "A Winter Blanket Covers North Carolina",
+    "link": "https://science.nasa.gov/earth/earth-observatory/a-winter-blanket-covers-north-carolina/",
+    "summary": "In late January 2026, a strong, moisture-laden storm dropped snow across nearly the entire state, spanning from the Appalachians to the Atlantic Coast.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 06 Feb 2026 05:00:00 +0000",
+    "timestamp": 1770354000.0,
+    "isoDate": "2026-02-06T05:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-winter-blanket-covers-north-carolina/carolinasnow_tmo_20260202.jpg?w=1440&h=1120&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Have a Federal Registration Number? Better Update It Now",
     "link": "https://tvnewscheck.com/regulation/article/have-a-federal-registration-number-better-update-it-now/",
     "summary": "Let’s state the obvious. The FCC’s use of mandatory Federal Registration Numbers was a bad idea from the start. It became monumentally worse Thursday, when the FCC quietly announced that anyone whose Federal Registration Number contact info…",
@@ -427,17 +438,6 @@
     "timestamp": 1770228575.0,
     "isoDate": "2026-02-04T18:09:35+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "ARMD Research Solicitations (Updated Feb. 4)",
-    "link": "https://www.nasa.gov/aeronautics/armd-solicitations/",
-    "summary": "THIS PAGE WAS UPDATED ON FEBRUARY 4, 2026 This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable ne…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 04 Feb 2026 18:00:00 +0000",
-    "timestamp": 1770228000.0,
-    "isoDate": "2026-02-04T18:00:00+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=2048"
   },
   {
     "title": "Vizrt revolutionizes corporate communications with AI-powered augmented reality in Zoom",
