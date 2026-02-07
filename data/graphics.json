@@ -1,5 +1,16 @@
 [
   {
+    "title": "A Grand, Snow-Rimmed Canyon",
+    "link": "https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/",
+    "summary": "A dusting of white highlighted the Colorado Plateau around the deep gorge, while shadows created a visual illusion.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Sat, 07 Feb 2026 05:01:00 +0000",
+    "timestamp": 1770440460.0,
+    "isoDate": "2026-02-07T05:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-grand,-snow-rimmed-canyon/ISS074-E-208838.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Dow Rallies 1,207, S&P Climbs 491, S&P 500 Jumps 134",
     "link": "https://tvnewscheck.com/business/article/dow-rallies-1207-sp-climbs-491-sp-500-jumps-134/",
     "summary": "U.S. stocks soared to their best day since May Friday as the Dow topped 50,000 and bitcoin stopped plunging. The post Dow Rallies 1,207, S&P Climbs 491, S&P 500 Jumps 134 appeared first on TV News Check.",
@@ -427,17 +438,6 @@
     "timestamp": 1770267660.0,
     "isoDate": "2026-02-05T05:01:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/milano-cortina-2026/milan_oli_20261208.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
-    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/",
-    "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, Jan. 30, 2026 Mars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 04 Feb 2026 23:05:07 +0000",
-    "timestamp": 1770246307.0,
-    "isoDate": "2026-02-04T23:05:07+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/january/https___mars.nasa.gov_msl-raw-images_msss_04789_mcam_4789ML1087390100509312C00_DXXX.jpg?w=672&h=896&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Vizrt revolutionizes corporate communications with AI-powered augmented reality in Zoom",
