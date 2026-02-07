@@ -1,5 +1,16 @@
 [
   {
+    "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
+    "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
+    "summary": "Germany's Federal Office for the Protection of the Constitution (aka Bundesamt für Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a malicious cyber campaign undertaken by …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 07 Feb 2026 16:45:00 +0530",
+    "timestamp": 1770462900.0,
+    "isoDate": "2026-02-07T11:15:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLxiSHzgB4jnGhqSTb5U-LmLyQn1DAEdjL73NAKb8oapBTIPlINZbiOL3pHZNBlOHYI9yuZgxV8aRvGefuo5OzaP8TVtvoHYznKe-5Lr493T9s7hOHGCqNqXhgm-4r_biXNbYjuaRGDTcfNNwqoZNVBkKwfdAud8ropOXgONMa7xizOHOWM0DCpDQaFZ9/s1600/signal.jpg"
+  },
+  {
     "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
     "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
     "summary": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019. The framework comprises seven Linux-based i…",
@@ -317,16 +328,5 @@
     "timestamp": 1770049680.0,
     "isoDate": "2026-02-02T16:28:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4fXSwhiW0Eb2lGzmNue91AjKZ-c420l6qWRP0mQkVZWlxxe_Iq0MkDlUYw7GrvFfd2UqhpLGsSYc9H3-o33nWGXEUX_OPcTWpzn3lQNvZTVyzEx1CJw2r2UQMfkFdNiHJF4_x8mLAkOy7st09Siko8G8KTlPyNkVNeLDf2xTKVgCFLnumaeT4v7Q_f27J/s1600/openclaw.jpg"
-  },
-  {
-    "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
-    "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
-    "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options. The development comes more than two years after the …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Feb 2026 21:29:00 +0530",
-    "timestamp": 1770047940.0,
-    "isoDate": "2026-02-02T15:59:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOf9qxdul5asVTIVQe4P6l_tPfVmbnsfVrt3cNmU3_q5qDeFcqXdve4AgXe-z7gCGozXQ3z0wDZnXn_-bynodpDfeUQaM5T4CFWpZUcGsbD-R-JS93Jp_1R37WQkCU4gLLpFjDxkN6T2DpAXXthKXl4QDIe_D486n18bp4_yyxt2DuVz2-zLjTybVQFDS/s1600/windows.jpg"
   }
 ]
