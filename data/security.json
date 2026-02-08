@@ -1,5 +1,16 @@
 [
   {
+    "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
+    "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
+    "summary": "OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the age…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 08 Feb 2026 13:02:00 +0530",
+    "timestamp": 1770535920.0,
+    "isoDate": "2026-02-08T07:32:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUWaEYK5yvPD9ZZdP6cMRMXduyDlAE77-447kgI9rd6ASyC1rDEnZKMIvcbYLsEs1vaXIH6lXLOjMF-JktVNvjhfPy1_5YmWcXXoXQagMLUW5uuXy8gFMyxgEK9ZA4ve51Q95p_9gi5EJpq-IISmuSFkEX1hfuK1CNiXS1Bqf_GZbjE8r80ZN_JJkyq_r/s1600/openclaw-virustotal.jpg"
+  },
+  {
     "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
     "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
     "summary": "Germany's Federal Office for the Protection of the Constitution (aka Bundesamt für Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a malicious cyber campaign undertaken by …",
@@ -317,16 +328,5 @@
     "timestamp": 1770054540.0,
     "isoDate": "2026-02-02T17:49:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrHsgrh_iIHVwJdfZ-6tSVag1fs71bd15QISN82bzqvxchcyJGuWdbtZRqQ25tJC_HoeaGAMI3phpFy_TAy2NYbSpJTwuTJ5jIz_QKmNPTv_zqA2GNvuozLGpKCqTa-OI1Hp-zOy_B8wjkvoYcBn56g09PpoQOMd568LfGiH7J0Ee0hg65eBaHSWxDe92m/s1600/OpenClaw-skills.jpg"
-  },
-  {
-    "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
-    "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
-    "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link. The issue, which is tracked as CVE-2026-25253 (CVSS s…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Feb 2026 21:58:00 +0530",
-    "timestamp": 1770049680.0,
-    "isoDate": "2026-02-02T16:28:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4fXSwhiW0Eb2lGzmNue91AjKZ-c420l6qWRP0mQkVZWlxxe_Iq0MkDlUYw7GrvFfd2UqhpLGsSYc9H3-o33nWGXEUX_OPcTWpzn3lQNvZTVyzEx1CJw2r2UQMfkFdNiHJF4_x8mLAkOy7st09Siko8G8KTlPyNkVNeLDf2xTKVgCFLnumaeT4v7Q_f27J/s1600/openclaw.jpg"
   }
 ]
