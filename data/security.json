@@ -1,5 +1,38 @@
 [
   {
+    "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
+    "link": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
+    "summary": "The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT. Cybersecurity vendor Kaspersky is tracking the activity under the mon…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Feb 2026 16:28:00 +0530",
+    "timestamp": 1770634680.0,
+    "isoDate": "2026-02-09T10:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehyphenhyphenizf_EezYiQzf7tUgHJUYqd7k7zumWKSqP1n8K5YoJMRzmHjxJHdnN0GydURXFuwrRJd2qyTQSuH8TWPo_Wfh7SX0_1ljHcMjQGMQrDCtW23OLow6w7rPv4Uemxrd7vnQtGsWBzdUrhnrEtl914RxUcNeqKxVl81xXI9pVOFNaTh6UCLgkKw7QQYqeI/s1600/rat-attack.jpg"
+  },
+  {
+    "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
+    "link": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
+    "summary": "Cybersecurity researchers have called attention to a \"massive campaign\" that has systematically targeted cloud native environments to set up malicious infrastructure for follow-on exploitation. The activity, observed around December 25, 202…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Feb 2026 14:07:00 +0530",
+    "timestamp": 1770626220.0,
+    "isoDate": "2026-02-09T08:37:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiW_jUJE_4sQRwRYF1TXG-rmM3C4nC_15zd82rYQuuLdwncMPrT8M2X-45Ap_KPH09DynvlzyzTd62EEy9116zPjR4FAO92QedrPRA6jxz9pgXSlUi_TsryFlxVcApwV89bUUTWmFuFx-nbXDBBt2WPi-RO6_Iaq3II98RcOqL4XaedeBVKoKX4vb3dQr6/s1600/cloud-infra.jpg"
+  },
+  {
+    "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
+    "link": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
+    "summary": "BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution. \"BeyondTrust Remote Suppo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Feb 2026 13:33:00 +0530",
+    "timestamp": 1770624180.0,
+    "isoDate": "2026-02-09T08:03:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSFjfJhHXUMJ0_vAj8LwmTeAMOkqVJomqws8hEaofSam7jnpED75EtkDhrEkofhEd0o_z-gZngp5Ue2kgvyhX3GrQA3gUp3v2H4OmEvpjYQb93gmQNeSppy5WIH6LJNg97OIEAsMXmelNMrq9VR5sN3ZrCnWwgfum_0MUCW5hHoqPQ2gmVxWFGwdr5l2t/s1600/bt.jpg"
+  },
+  {
     "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
     "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
     "summary": "OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the age…",
@@ -295,38 +328,5 @@
     "timestamp": 1770109920.0,
     "isoDate": "2026-02-03T09:12:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8WToLgQKoSrd-Jg_YD7OJQSJIx2IjJPdhMLYQNTuE9_0bNVo7rwzOdJ0fj0x8oy7-1i4OcXxRbB4nDF502wV5Jwxl5mKPZRpjz5kWijxGRixX2jaewHQHmxGAWVguAFni_muFJNsk610Gaa4JMCCvJMQ7j9kmKgww3U3-z8olchagQGw6cGXxte_4tyPS/s1600/office.jpg"
-  },
-  {
-    "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
-    "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
-    "summary": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features. \"It provides a single place to block current and future…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Feb 2026 11:09:00 +0530",
-    "timestamp": 1770097140.0,
-    "isoDate": "2026-02-03T05:39:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJFREHntU9jE2vdgmfzAVYrexFXt9MeruM4HiYozg9V4r-x4KdVLieGy3RgN40mWiE7m_U-d-rinldqoyYhf7hETgMSb-JI6pzdyOyCqm-Xogscv90ZTzis-Hfxe3LwKTWOLoLF52CZz6yVKTVX4Dk6AF4Ad_UwTaDQjqUw7J3DafVFVomKMVyEnoLjioB/s1600/firefox.jpg"
-  },
-  {
-    "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-    "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-    "summary": "A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++. The attack enabled the state-sponsored hacking group to deliver a p…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Feb 2026 10:25:00 +0530",
-    "timestamp": 1770094500.0,
-    "isoDate": "2026-02-03T04:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMhF4Q5Le-vJfovBcsvDHI-V4XTT-ZlCDveT5a3ibTH_5_USxu3yKbxTyY86_7HfbI0Lfcvl9zXpIWost8jehkxJ83EEkTpJNxySNjlntsGoxQtgJompW0iNQdpylvHAc5GkY-7L8X4iebatDHQUhMYFspiAKemuy_iPqtjz3NCwLXzIRC4xFOeiq6Ea5/s1600/notepad.jpg"
-  },
-  {
-    "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
-    "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
-    "summary": "A security audit of 2,857 skills on ClawHub has found 341 malicious skills across multiple campaigns, according to new findings from Koi Security, exposing users to new supply chain risks. ClawHub is a marketplace designed to make it easy f…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Feb 2026 23:19:00 +0530",
-    "timestamp": 1770054540.0,
-    "isoDate": "2026-02-02T17:49:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrHsgrh_iIHVwJdfZ-6tSVag1fs71bd15QISN82bzqvxchcyJGuWdbtZRqQ25tJC_HoeaGAMI3phpFy_TAy2NYbSpJTwuTJ5jIz_QKmNPTv_zqA2GNvuozLGpKCqTa-OI1Hp-zOy_B8wjkvoYcBn56g09PpoQOMd568LfGiH7J0Ee0hg65eBaHSWxDe92m/s1600/OpenClaw-skills.jpg"
   }
 ]
