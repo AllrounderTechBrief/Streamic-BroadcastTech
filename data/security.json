@@ -1,5 +1,16 @@
 [
   {
+    "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
+    "link": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html",
+    "summary": "The Cyber Security Agency (CSA) of Singapore on Monday revealed that the China-nexus cyber espionage group known as UNC3886 targeted its telecommunications sector. \"UNC3886 had launched a deliberate, targeted, and well-planned campaign agai…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Feb 2026 22:31:00 +0530",
+    "timestamp": 1770656460.0,
+    "isoDate": "2026-02-09T17:01:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitWC7fuHQt0LEMJmwl8Nv8meCzOQQJ4XuPacIEsqxLrSxPLslJjapg-02Nmzb8ngITdSXT-C_cLn1JYF4KDUAH3bpuFyb9qznZkD8A3m-wotkulB0yflFBcAFgPuU0Ci8DYloAZGFJecZyrByApcTSCSB8Kqg6wki4UYqTt9pQPXmnkqVOMxZyfWx9820Z/s1600/chinese-telecom.jpg"
+  },
+  {
     "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
     "link": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html",
     "summary": "Microsoft has revealed that it observed a multi‑stage intrusion that involved the threat actors exploiting internet‑exposed SolarWinds Web Help Desk (WHD) instances to obtain initial access and move laterally across the organization's netwo…",
@@ -317,16 +328,5 @@
     "timestamp": 1770136860.0,
     "isoDate": "2026-02-03T16:41:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjMkaXhS9INevCSOPI_fOpweXt3g4TvjWQWZiUuxYDziaTNIsIk5vg-FCGf2sVKw6xzckOoHmfEODI5gJR_PzcUDayWZTEit09jkkb5QVxZNWtTg8ULumP2aiJc0ae6Km_eKzQwaZzp1EFrVcDm7PND2VjtV7VH7PyA3r5qwlReoDAoH38LVHcX9qjH3G/s1600/gordon.jpg"
-  },
-  {
-    "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-    "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-    "summary": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress. Every vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretc…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Feb 2026 19:44:00 +0530",
-    "timestamp": 1770128040.0,
-    "isoDate": "2026-02-03T14:14:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94yPJzbFbdUMoIM3dTA8goVdCA24p4PPkHSWX3VTTV5kl4XNJD_hz4_NrZb0XjG_tHMdyLMSWJIawj8PTJcqal7TpfSJ0_3jeGzZFn7dTa0_ecTHkRtPzSKBP1VlUaeuv_ErmIMZF08OiQxQPZ73I-A5AmbcUyLGtt2dsYI7RWEBUMie7rqn_EjnC_5aQ/s1600/soc-webinar.jpg"
   }
 ]
