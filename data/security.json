@@ -1,5 +1,38 @@
 [
   {
+    "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
+    "link": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html",
+    "summary": "Microsoft has revealed that it observed a multi‑stage intrusion that involved the threat actors exploiting internet‑exposed SolarWinds Web Help Desk (WHD) instances to obtain initial access and move laterally across the organization's netwo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Feb 2026 20:12:00 +0530",
+    "timestamp": 1770648120.0,
+    "isoDate": "2026-02-09T14:42:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1coFDcJGaV6fnBzpBs3TXSas4-odFMjYTlXPM-cyQcpzDyCshc0pH8HMEo1XmNUoVPRU4J56lg3ApR_-KpFn8L6aiATW4A5Xx_cIUbCYO1MI9W6lTiW-vlJWPK7Bc-SkXNcjQ-CnP7_HCOwhRYn1HsJnuE6sCOQZ6S4m-LC3zySGT_mHorlhwwJA4SLlO/s1600/1000054453.jpg"
+  },
+  {
+    "title": "⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
+    "link": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
+    "summary": "Cyber threats are no longer coming from just malware or exploits. They’re showing up inside the tools, platforms, and ecosystems organizations use every day. As companies connect AI, cloud apps, developer tools, and communication systems, a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Feb 2026 18:29:00 +0530",
+    "timestamp": 1770641940.0,
+    "isoDate": "2026-02-09T12:59:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQI___vJxIaWlqG1lWOUAxD5Ur1U6VZA2denhtk0dqfyI4yIlzqTGJkg1vqQVn5twAhjY9JraokCa2Ly2xBoZ4wXwX5XRncJcZpbANC1j8RtIBi9-jezYgF56QIny6kJRuqCXqgVGXQWX935VYiaLlPqu88xmqmg5n2_PJgtFZsx75cnOAlgWcyp0A_SK/s1600/recap-main.jpg"
+  },
+  {
+    "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
+    "link": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
+    "summary": "Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip thr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Feb 2026 16:53:00 +0530",
+    "timestamp": 1770636180.0,
+    "isoDate": "2026-02-09T11:23:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEWlaquUArR-GMqukRCHWrs9_HN46zhN8-clTeBqbAGOl5ABkSUp-YEe32I-Da1P0TY8LZ7zbS-k9iYploghqd07vgWNP-JW71E5xH6uOHVFctuRCfRCZ_iC6oWEVdcWPexxoc-WTgl9DNZTKiTcPuAzFJ_ytpDC_u7mNZBaFBE4w4EXhOHcvV5ZTVuKs/s1600/anyrun-soc.jpg"
+  },
+  {
     "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
     "link": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
     "summary": "The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT. Cybersecurity vendor Kaspersky is tracking the activity under the mon…",
@@ -295,38 +328,5 @@
     "timestamp": 1770128040.0,
     "isoDate": "2026-02-03T14:14:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94yPJzbFbdUMoIM3dTA8goVdCA24p4PPkHSWX3VTTV5kl4XNJD_hz4_NrZb0XjG_tHMdyLMSWJIawj8PTJcqal7TpfSJ0_3jeGzZFn7dTa0_ecTHkRtPzSKBP1VlUaeuv_ErmIMZF08OiQxQPZ73I-A5AmbcUyLGtt2dsYI7RWEBUMie7rqn_EjnC_5aQ/s1600/soc-webinar.jpg"
-  },
-  {
-    "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-    "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-    "summary": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package. Cybersecurity company VulnCheck said it first observed exploitation of CVE…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Feb 2026 19:30:00 +0530",
-    "timestamp": 1770127200.0,
-    "isoDate": "2026-02-03T14:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoY39EkJj9fch5nmhH8FbZrt87Lvt1bszbWtMThQ0yaemkia0K_avsYUK1pNT5jcN7vYoL0rK_y-17LQ3silMU-Jg0UixiFlceBjUcwng2z17B-W4HZnUEzoMHuecgNwRezisydmEGOG26RxF9u9UEof0KPmQIp4Y2QlDLaxPb6TFq7C8rkAn1CzW9y18Z/s1600/react.jpg"
-  },
-  {
-    "title": "When Cloud Outages Ripple Across the Internet",
-    "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
-    "summary": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems d…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Feb 2026 16:30:00 +0530",
-    "timestamp": 1770116400.0,
-    "isoDate": "2026-02-03T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5A2lK2hBXnibuGwyEFh23Ff9v06u07aDA_n1I1aJJjghSJHfGa1BQ5kmELI2inX855kRwZI0r2XTRWGZ95rMvJNTiz98WNTA_8P2fI-oZll8vvvT_OlDgOPef1iBU4Hlq7j3ZcSQnLf_8aWYXW5FebN8rML3yEpOP-EKS6wlagaNu4jOBt4U0ET89Whg/s1600/cloud.jpg"
-  },
-  {
-    "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
-    "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
-    "summary": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenamed Operation Neusploit. Zscaler ThreatLa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Feb 2026 14:42:00 +0530",
-    "timestamp": 1770109920.0,
-    "isoDate": "2026-02-03T09:12:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8WToLgQKoSrd-Jg_YD7OJQSJIx2IjJPdhMLYQNTuE9_0bNVo7rwzOdJ0fj0x8oy7-1i4OcXxRbB4nDF502wV5Jwxl5mKPZRpjz5kWijxGRixX2jaewHQHmxGAWVguAFni_muFJNsk610Gaa4JMCCvJMQ7j9kmKgww3U3-z8olchagQGw6cGXxte_4tyPS/s1600/office.jpg"
   }
 ]
