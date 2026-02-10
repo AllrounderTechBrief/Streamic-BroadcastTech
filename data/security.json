@@ -1,5 +1,16 @@
 [
   {
+    "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+    "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+    "summary": "Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems. The vulnerability, tracked as CVE-2026-21643, has a CVSS rating of 9.1 out…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Feb 2026 10:08:00 +0530",
+    "timestamp": 1770698280.0,
+    "isoDate": "2026-02-10T04:38:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnvpWlJDRcbb7ljfQfr3-cgxfkViTJBw0bxfA9YRZxbXS7GWlhhOdByicULU6alislJQMfCcRjKjB3T_WJXNSH4EnAYMPHbg7G2WxCD3bug8W1aCPOsUCqG2p9_y4NGvKSpwGio3xsAbCsGALZtdn72ervcYQjY9eDhasnbDprcYmxUI-A-10PHaVtSdok/s1600/fort.jpg"
+  },
+  {
     "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
     "link": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html",
     "summary": "The Cyber Security Agency (CSA) of Singapore on Monday revealed that the China-nexus cyber espionage group known as UNC3886 targeted its telecommunications sector. \"UNC3886 had launched a deliberate, targeted, and well-planned campaign agai…",
@@ -317,16 +328,5 @@
     "timestamp": 1770184200.0,
     "isoDate": "2026-02-04T05:50:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYyskJSpKQz4MscPjTNveStRrjYgHDTsZffWZld_xrrWTRQzAJC52KvI8uTEhbysHizeZ14HTRrrlbpxTjUUMIMnwPqYBBVu_FgJcIWtw1r-fWL3RHz-pzr-eSX-6bmL3N7ZO30ZCSLoYkzAOWTBrnQd0NXFBHyZWlJ-ib9ghgCNbeXbdiYUYFSu7dss5/s1600/solarwinds-exploit.jpg"
-  },
-  {
-    "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-    "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-    "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Feb 2026 22:11:00 +0530",
-    "timestamp": 1770136860.0,
-    "isoDate": "2026-02-03T16:41:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjMkaXhS9INevCSOPI_fOpweXt3g4TvjWQWZiUuxYDziaTNIsIk5vg-FCGf2sVKw6xzckOoHmfEODI5gJR_PzcUDayWZTEit09jkkb5QVxZNWtTg8ULumP2aiJc0ae6Km_eKzQwaZzp1EFrVcDm7PND2VjtV7VH7PyA3r5qwlReoDAoH38LVHcX9qjH3G/s1600/gordon.jpg"
   }
 ]
