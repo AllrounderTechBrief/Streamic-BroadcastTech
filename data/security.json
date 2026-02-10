@@ -1,5 +1,27 @@
 [
   {
+    "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
+    "link": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html",
+    "summary": "SmarterTools confirmed last week that the Warlock (aka Storm-2603) ransomware gang breached its network by exploiting an unpatched SmarterMail instance. The incident took place on January 29, 2026, when a mail server that was not updated to…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Feb 2026 15:54:00 +0530",
+    "timestamp": 1770719040.0,
+    "isoDate": "2026-02-10T10:24:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQg_RBFvjX4CSOktzf6QU0KcmxaSjFhOLkaPXZkzfoqHaq2A4TUCu-GxQCBQsKTK3PoDM-RLpolaRFIdbityIpVRtZA-5-VK2aYjRQZl0NWsHCpw-VrIkgUOYvOi4Pg0Le44LPnmMb5xQYQ4r3V6WT8Ukll2rt6mTBCRCFE3f3OD1LJCBK6G0XBAExHTw0/s1600/smart.jpg"
+  },
+  {
+    "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
+    "link": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
+    "summary": "The Netherlands' Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited the recently disclosed security flaws in …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Feb 2026 13:52:00 +0530",
+    "timestamp": 1770711720.0,
+    "isoDate": "2026-02-10T08:22:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkGwO0dfI4hVFSzIpnPbDAGzLfh0FJh-3jiKa-mSrkIRuXECaLjAb1Yh9nM8I4KrZ40fAX4eYwHyQyVNRGJDCXkq6uzf5Tm0L0uiMb8buN2iEs-x4bw6ywRLTvaO5eLyiXr614f_0ekstIPre9e_Yw576ptePRbRqcjmxcmu4hxlJ5O9UHPa79j9PGi3vg/s1600/Ivanti.jpg"
+  },
+  {
     "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
     "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
     "summary": "Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems. The vulnerability, tracked as CVE-2026-21643, has a CVSS rating of 9.1 out…",
@@ -306,27 +328,5 @@
     "timestamp": 1770190920.0,
     "isoDate": "2026-02-04T07:42:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitGprkuP7SdfHIWnVVo7pZJ941c_TOVgrrZCPM9BosshMNfva3UbHAZG791-XufHdEc6hGRcFX3Ucak4XRDOgoSa4KCyPHeuxwWKr8y_LNLmo6mOqxgKvLOfbcAVDoACJ9MTSDkq25noRCdjHTBZVtGCulkPK5cjRBsQGf0LQQQkUujppEe6K4i0lq7VZF/s1600/macos-malware.jpg"
-  },
-  {
-    "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-    "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-    "summary": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threat…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Feb 2026 11:56:00 +0530",
-    "timestamp": 1770186360.0,
-    "isoDate": "2026-02-04T06:26:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHoCQzirCKCGciIltPFi7LbjpANR75gNFmH6Lbsm5FOdl40UHJT4Xd3aWxxSdUe6r7wlqMWKuLSkUWmg11yfF7pnvIcETtkv5S5gtEeYFaHh8hKUoSicCcMvUn8UO9WUTVUDzSpEyXEaS01P6Wza6weGp2iqIbAnQKlN3I3f2_F2bGXSyssfhG2iIE591/s1600/openvsx.jpg"
-  },
-  {
-    "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-    "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Feb 2026 11:20:00 +0530",
-    "timestamp": 1770184200.0,
-    "isoDate": "2026-02-04T05:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYyskJSpKQz4MscPjTNveStRrjYgHDTsZffWZld_xrrWTRQzAJC52KvI8uTEhbysHizeZ14HTRrrlbpxTjUUMIMnwPqYBBVu_FgJcIWtw1r-fWL3RHz-pzr-eSX-6bmL3N7ZO30ZCSLoYkzAOWTBrnQd0NXFBHyZWlJ-ib9ghgCNbeXbdiYUYFSu7dss5/s1600/solarwinds-exploit.jpg"
   }
 ]
