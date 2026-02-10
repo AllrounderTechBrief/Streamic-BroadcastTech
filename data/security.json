@@ -1,5 +1,49 @@
 [
   {
+    "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
+    "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html",
+    "summary": "Cybersecurity researchers have disclosed details of an emergent ransomware family dubbed Reynolds that comes embedded with a built-in bring your own vulnerable driver (BYOVD) component for defense evasion purposes within the ransomware payl…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Feb 2026 20:06:00 +0530",
+    "timestamp": 1770734160.0,
+    "isoDate": "2026-02-10T14:36:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqTeSYoXhnTy-zKDDdC_mNC4M0z32QT7sAvTipDACRrlUcGRFE2rWJ3wGacGPtT8n9evbDa7H2cL0GRj8ABmUgdMvaS9UBi8fhZMkvoXV8BhfCGYeCMvmReDOgrTzB6hVf0dEZ6V_cA9wDhkwzDFdqhBtMOtibNJsge2YkohfspG3Z-y45_ysTjatb2M6F/s1600/edr.jpg"
+  },
+  {
+    "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
+    "link": "https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html",
+    "summary": "Are ransomware and encryption still the defining signals of modern cyberattacks, or has the industry been too fixated on noise while missing a more dangerous shift happening quietly all around them? According to Picus Labs’ new Red Report 2…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Feb 2026 19:29:00 +0530",
+    "timestamp": 1770731940.0,
+    "isoDate": "2026-02-10T13:59:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQoj8tRn4h4a-02GeyaLk1WyJz3XGX4AjYVezcSfqmsaz0v-9DZj6F1Tb6v7cAv7QaxHfnrZQtSZoOa1R5dwFLyNNhY369Lni0PKU-tfPndW0No6o9_wBUCLZpKVFdD762JQuhWRqmcLua6DqCBXbsvtVjtnIF7J_3JOL3h_7zl8nDP1qhv-C5H4Gqs1Y/s1600/picus.jpg"
+  },
+  {
+    "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+    "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+    "summary": "Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems. The vulnerability, tracked as CVE-2026-21643, has a CVSS rating of 9.1 out…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Feb 2026 19:00:00 +0530",
+    "timestamp": 1770730200.0,
+    "isoDate": "2026-02-10T13:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnvpWlJDRcbb7ljfQfr3-cgxfkViTJBw0bxfA9YRZxbXS7GWlhhOdByicULU6alislJQMfCcRjKjB3T_WJXNSH4EnAYMPHbg7G2WxCD3bug8W1aCPOsUCqG2p9_y4NGvKSpwGio3xsAbCsGALZtdn72ervcYQjY9eDhasnbDprcYmxUI-A-10PHaVtSdok/s1600/fort.jpg"
+  },
+  {
+    "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
+    "link": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
+    "summary": "January 5, 2026, Seattle, USA — ZAST.AI announced the completion of a $6 million Pre-A funding round. This investment came from the well-known investment firm Hillhouse Capital, bringing ZAST.AI's total funding close to $10 million. This ma…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Feb 2026 17:10:00 +0530",
+    "timestamp": 1770723600.0,
+    "isoDate": "2026-02-10T11:40:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiHKbU6u4lVkqpxF5kGQqL_tox5POYTtIOFqB3eSIifgkcdHqwrcHFmpalRBqZnEMMDAvTrtmoNBIq368ZKLCLOHZLQu7zZAsJMUje1bGwcvbdywaNs25e84labbIA72VFmtB3YmyBi-9yJPMqdDu48Kf_5BfLraAS1JlzR9AXSD3TrKmwIITpje0AkgI/s1600/zast.gif"
+  },
+  {
     "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
     "link": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html",
     "summary": "SmarterTools confirmed last week that the Warlock (aka Storm-2603) ransomware gang breached its network by exploiting an unpatched SmarterMail instance. The incident took place on January 29, 2026, when a mail server that was not updated to…",
@@ -20,17 +64,6 @@
     "timestamp": 1770711720.0,
     "isoDate": "2026-02-10T08:22:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkGwO0dfI4hVFSzIpnPbDAGzLfh0FJh-3jiKa-mSrkIRuXECaLjAb1Yh9nM8I4KrZ40fAX4eYwHyQyVNRGJDCXkq6uzf5Tm0L0uiMb8buN2iEs-x4bw6ywRLTvaO5eLyiXr614f_0ekstIPre9e_Yw576ptePRbRqcjmxcmu4hxlJ5O9UHPa79j9PGi3vg/s1600/Ivanti.jpg"
-  },
-  {
-    "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
-    "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
-    "summary": "Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems. The vulnerability, tracked as CVE-2026-21643, has a CVSS rating of 9.1 out…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Feb 2026 10:08:00 +0530",
-    "timestamp": 1770698280.0,
-    "isoDate": "2026-02-10T04:38:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnvpWlJDRcbb7ljfQfr3-cgxfkViTJBw0bxfA9YRZxbXS7GWlhhOdByicULU6alislJQMfCcRjKjB3T_WJXNSH4EnAYMPHbg7G2WxCD3bug8W1aCPOsUCqG2p9_y4NGvKSpwGio3xsAbCsGALZtdn72ervcYQjY9eDhasnbDprcYmxUI-A-10PHaVtSdok/s1600/fort.jpg"
   },
   {
     "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
@@ -295,38 +328,5 @@
     "timestamp": 1770214140.0,
     "isoDate": "2026-02-04T14:09:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnDkrWZsbnchuoTSKHJzBamJKGb-b_h8TY-BhcWP6QeO0n9s3DQ0WGyzcZhUOET1mMZ66n_jNrwRSU7X759cKKsmNYPobdzRk-55snSEVZTS3hq_0le0ulcDFqwncn9SsXwWVDxTVEBoa0r1y0Hz4zdMKKmuW_XNrfsRqOBh4Zd34ylZt2aKdWF8XtjN_s/s1600/chinese-winrar.jpg"
-  },
-  {
-    "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
-    "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
-    "summary": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls. The Challenge: Identity Lives Outside the Identity Stack Identity and access management tools were built to govern users and dir…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Feb 2026 17:28:00 +0530",
-    "timestamp": 1770206280.0,
-    "isoDate": "2026-02-04T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghboJKP_ilIImzDjyOOa4B8E7ROaXqrkh3DC6nIy_UixMApqE53tBrehqcGNDE0YlAl2jHW-t4hWtNqSIIlM8YDgBqb4vLS9Em9quvWdzN8xsrh6KkkGGI3lAHSqitDBH0u1RXDmCXrXU_zbRUjGgtBI4scsiYTHycXXb3Fjzk3ozHYsTw2zMFb-_KgWc/s1600/mai.gif"
-  },
-  {
-    "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
-    "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
-    "summary": "Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete. I have seen IR teams recover…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Feb 2026 15:30:00 +0530",
-    "timestamp": 1770199200.0,
-    "isoDate": "2026-02-04T10:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnx0YyMmcxNjnpByxI1Ox1uYPj-VK1XhaTm_BWuyumyZGTDH9njGAT0tc95n736kaWAVeRD9ptaw5XJZoNSuIeVBgU8bBXXMlu-zlyZxXq8AjftysB21xcTcM5U-mtX6-jdtRAYuAhkLTb2k2inxlvvI4vXevI8knxLpst2BeGfY6LI0bHj7U87-VwxQ/s1600/malware-attack.jpg"
-  },
-  {
-    "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
-    "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
-    "summary": "Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale. The…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Feb 2026 13:12:00 +0530",
-    "timestamp": 1770190920.0,
-    "isoDate": "2026-02-04T07:42:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitGprkuP7SdfHIWnVVo7pZJ941c_TOVgrrZCPM9BosshMNfva3UbHAZG791-XufHdEc6hGRcFX3Ucak4XRDOgoSa4KCyPHeuxwWKr8y_LNLmo6mOqxgKvLOfbcAVDoACJ9MTSDkq25noRCdjHTBZVtGCulkPK5cjRBsQGf0LQQQkUujppEe6K4i0lq7VZF/s1600/macos-malware.jpg"
   }
 ]
