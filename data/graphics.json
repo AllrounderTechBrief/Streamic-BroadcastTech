@@ -1,5 +1,16 @@
 [
   {
+    "title": "Winter Grips Japan",
+    "link": "https://science.nasa.gov/earth/earth-observatory/winter-grips-japan/",
+    "summary": "The country’s northern regions are accustomed to snow, but unrelenting storms have snarled transportation and caused other challenges this winter.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 10 Feb 2026 05:01:00 +0000",
+    "timestamp": 1770699660.0,
+    "isoDate": "2026-02-10T05:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter-grips-japan/japansnow_tmo_20260205.jpg?w=1439&h=1199&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "What You Need to Know About NASA’s SpaceX Crew-12 Mission",
     "link": "https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-12-mission/",
     "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-12 mission, where they will conduct research, technology demonstrations, and maintenance aboard the orbiting laboratory. The crew will lift…",
@@ -427,17 +438,6 @@
     "timestamp": 1770325814.0,
     "isoDate": "2026-02-05T21:10:14+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048"
-  },
-  {
-    "title": "Career Spotlight: Welder (Ages 14-18)",
-    "link": "https://www.nasa.gov/learning-resources/career-spotlight-welder-ages-14-18/",
-    "summary": "What does a welder do? A welder uses tools that join two or more parts through forces such as heat or pressure. Metals are the materials most commonly used in welding, but it’s also possible to weld thermoplastics or wood. Welders use their…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Thu, 05 Feb 2026 19:35:15 +0000",
-    "timestamp": 1770320115.0,
-    "isoDate": "2026-02-05T19:35:15+00:00",
-    "imageUrl": "https://images-assets.nasa.gov/image/KSC-20181026-PH_JBS01_0029/KSC-20181026-PH_JBS01_0029~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Vizrt revolutionizes corporate communications with AI-powered augmented reality in Zoom",
