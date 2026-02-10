@@ -1,5 +1,16 @@
 [
   {
+    "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
+    "link": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html",
+    "summary": "The information technology (IT) workers associated with the Democratic People's Republic of Korea (DPRK) are now applying to remote positions using real LinkedIn accounts of individuals they're impersonating, marking a new escalation of the…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Feb 2026 23:14:00 +0530",
+    "timestamp": 1770745440.0,
+    "isoDate": "2026-02-10T17:44:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjscdCXMOfFpYO0PkKXPhVwQXvjc7RNeTs0Wc79qPF6svrIVTW9mUaMX1qvJkDnuX7vpqcjjQoB6QRgA26lBjbjdTn12UPEOSHoWL0GTWWjsjdj1YsaGu3KpqZrfr-uFu21KDDlY3-mL8RfUzOaOjt_8wWFWB0yYAlscPY18sDhngfWTg_xsF2Wz7QEqfuj/s1600/northkorean.jpg"
+  },
+  {
     "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
     "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html",
     "summary": "Cybersecurity researchers have disclosed details of an emergent ransomware family dubbed Reynolds that comes embedded with a built-in bring your own vulnerable driver (BYOVD) component for defense evasion purposes within the ransomware payl…",
@@ -206,7 +217,7 @@
     "timeAgo": "Fri, 06 Feb 2026 16:00:00 +0530",
     "timestamp": 1770373800.0,
     "isoDate": "2026-02-06T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYbHuhB2klNlaHkYykLYRjMjQVPrFD5GjaSmTiLJPzDkOGBVufabhBs2akKWk8RV3LBOvEqj2ANFmVcfqfixnoHAlShEtg6FZvSviNFYX1xmLxdRZwK3M87ElFVhJbArR7ZELSje8MoaPW2FnbHHIWFTpjSOxlPaP5KWEXzIJ8YkkMlzdUE01DTeDPKUw/s1600/samsung.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhL8qHtWkV3N41iX2FEaxWOHlc1dDTKD_PdaF7KgoI1B8iHz6xEv3UAE-hzQPMmBmh0X2abLf-ZtqrZ8WrqoIqCoakc9nEH4wF8eFyyod1i1mVqc01cK_ChittnUxffDrk91tGNYA9f61mZ1f15fp-n3ZIR8xiAnQoYrOwTyhlaOlUCQrowPhOJn1evYFJ/s1600/samsung.png"
   },
   {
     "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
@@ -317,16 +328,5 @@
     "timestamp": 1770225840.0,
     "isoDate": "2026-02-04T17:24:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq4HVk4ciPlJyef53_1ZqrcfFGmEY0t3LucRl-DSVWgMuVfBt7fc8LULklQ4Bc-8Tk6Wc9tGbL46vMwvb1CAsBNv3I5ZevSrFE67JGzn9v6VocRSrTscsmesuhc-1cS_ZlUsanT1x92ul38nd29xGW7HnJnlb6WgzzTO-kE5YSn3sLu5U6Lfi1Ra7zEaPd/s1600/windows-malware.jpg"
-  },
-  {
-    "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-    "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-    "summary": "Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025. Check Point Research is tracking the previously un…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Feb 2026 19:39:00 +0530",
-    "timestamp": 1770214140.0,
-    "isoDate": "2026-02-04T14:09:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnDkrWZsbnchuoTSKHJzBamJKGb-b_h8TY-BhcWP6QeO0n9s3DQ0WGyzcZhUOET1mMZ66n_jNrwRSU7X759cKKsmNYPobdzRk-55snSEVZTS3hq_0le0ulcDFqwncn9SsXwWVDxTVEBoa0r1y0Hz4zdMKKmuW_XNrfsRqOBh4Zd34ylZt2aKdWF8XtjN_s/s1600/chinese-winrar.jpg"
   }
 ]
