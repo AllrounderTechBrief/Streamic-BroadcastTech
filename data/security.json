@@ -1,5 +1,27 @@
 [
   {
+    "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
+    "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html",
+    "summary": "Microsoft on Tuesday released security updates to address a set of 59 flaws across its software, including six vulnerabilities that it said have been exploited in the wild. Of the 59 flaws, five are rated Critical, 52 are rated Important, a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Feb 2026 15:52:00 +0530",
+    "timestamp": 1770805320.0,
+    "isoDate": "2026-02-11T10:22:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXD1L5ieHEU_h9-eg9LNbLb5-NpNemZK7bZbgYQS5MAeiHtGT2NyiQWOda0XOYhmj3wH_C0Bh4Nk8OzsXqAFaTCsja2EuPd_6t-V2R5PZjtwUQ2-74OWfUJKrJbRLy5n5qwchKcwcZ2Ns8DzYM_bE04nY9l3ntTbUXDi6OYxWO9EZmf8Ibv9YNBhUv6ejv/s1600/windows-updates.jpg"
+  },
+  {
+    "title": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits",
+    "link": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new botnet operation called SSHStalker that relies on the Internet Relay Chat (IRC) communication protocol for command-and-control (C2) purposes. \"The toolset blends stealth helpers with…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Feb 2026 15:26:00 +0530",
+    "timestamp": 1770803760.0,
+    "isoDate": "2026-02-11T09:56:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWksXdbZ0O2Uys7zlFHh363x_928N5gROvDQuqYlRb952YgIX5wXoIOhRZy6ZBS0Lswnax_SfsXm77mjIojyvIYLn8PQID-pGysGygXRuDj4MPbLlxHnwjVJ48IeW0Yf4K0Yw8mwxXkmFjYF3JnLoms3GbRYZbjWX28y2FuV2xyLFTaDM1NgQafp_j1uS/s1600/linux-botnet.jpg"
+  },
+  {
     "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
     "link": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html",
     "summary": "The North Korea-linked threat actor known as UNC1069 has been observed targeting the cryptocurrency sector to steal sensitive data from Windows and macOS systems with the ultimate goal of facilitating financial theft. \"The intrusion relied …",
@@ -306,27 +328,5 @@
     "timestamp": 1770272160.0,
     "isoDate": "2026-02-05T06:16:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeDfUJ3dcvTHnszlPkp_8RQkKpjpHIbWHPCfPjGf16CK3oGHnoDK4gkT5aAlsOX8xzlqoXjO607ZI5hGGrfcEcx7sVF4GPhGRAM_CzLIpjeo8x2bnmulJeGj1EcCvfXciADxkSoVB3E2EDxAfIv6SLjeWoNl073KrVdkVeSVt-VTwMoLGgApT46oEYK9-/s1600/n8n-hacking.jpg"
-  },
-  {
-    "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
-    "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
-    "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker's infrastructure. Datado…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 05 Feb 2026 10:26:00 +0530",
-    "timestamp": 1770267360.0,
-    "isoDate": "2026-02-05T04:56:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1rduNeKuuHUpRierQx1jig2SMH0dhcoENNLniZavZ25JgD68fkxRwp3s4H42sJrL7OXa4r0QublDt9VQ2mjh1uIBuQsvPi4iHtrY2JHw4res_AZQc3pf-AQ610FvG6o_TcXxDliH5JlNJbaVN0AXj3De60H669V9fTQIyqNRNHHMgSfwbjZe8xt3cPhIy/s1600/nginx-hacked.jpg"
-  },
-  {
-    "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-    "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-    "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems. The tech giant's AI Security tea…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Feb 2026 23:22:00 +0530",
-    "timestamp": 1770227520.0,
-    "isoDate": "2026-02-04T17:52:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZPWiqEqWIj0fKQtxyusGomOmOzx4xkp4zh-TUGEtbgZP0yDEl91QHC-tP-8fiufd0Nue-dUYt1ajpkSkJZfV9_7M03gegp2LZaiIAyDJ1B03MCQVSn77Q8zH8x7UVq3Lir0uMWEvB7rzMEZ5jz1w3rfwTwM59h-_paVKuEdozFOAsjPb7e6aND1KapHV/s1600/llm-scanner.jpg"
   }
 ]
