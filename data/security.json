@@ -1,5 +1,16 @@
 [
   {
+    "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
+    "link": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html",
+    "summary": "The North Korea-linked threat actor known as UNC1069 has been observed targeting the cryptocurrency sector to steal sensitive data from Windows and macOS systems with the ultimate goal of facilitating financial theft. \"The intrusion relied …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Feb 2026 12:20:00 +0530",
+    "timestamp": 1770792600.0,
+    "isoDate": "2026-02-11T06:50:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1AmCdVPjXcdbUKaHP1fGGR1tT5hO6LUKR9OuPot9_CKjgucWXED-ta6q76tazonthjXXE6rpHZNiNbWi_V5XKJwfUX8Pqhciop7XuyOnQMnKMRTY1L3dp8ba1n4vkhi1W7MH1ZPKA1nnGxGCrBjjvBbjoHVCgRHgyamF5b_V_p276-aJ9_w6nR3f-qiNQ/s1600/crypto.jpg"
+  },
+  {
     "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
     "link": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html",
     "summary": "The information technology (IT) workers associated with the Democratic People's Republic of Korea (DPRK) are now applying to remote positions using real LinkedIn accounts of individuals they're impersonating, marking a new escalation of the…",
@@ -317,16 +328,5 @@
     "timestamp": 1770227520.0,
     "isoDate": "2026-02-04T17:52:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZPWiqEqWIj0fKQtxyusGomOmOzx4xkp4zh-TUGEtbgZP0yDEl91QHC-tP-8fiufd0Nue-dUYt1ajpkSkJZfV9_7M03gegp2LZaiIAyDJ1B03MCQVSn77Q8zH8x7UVq3Lir0uMWEvB7rzMEZ5jz1w3rfwTwM59h-_paVKuEdozFOAsjPb7e6aND1KapHV/s1600/llm-scanner.jpg"
-  },
-  {
-    "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-    "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-    "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Feb 2026 22:54:00 +0530",
-    "timestamp": 1770225840.0,
-    "isoDate": "2026-02-04T17:24:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq4HVk4ciPlJyef53_1ZqrcfFGmEY0t3LucRl-DSVWgMuVfBt7fc8LULklQ4Bc-8Tk6Wc9tGbL46vMwvb1CAsBNv3I5ZevSrFE67JGzn9v6VocRSrTscsmesuhc-1cS_ZlUsanT1x92ul38nd29xGW7HnJnlb6WgzzTO-kE5YSn3sLu5U6Lfi1Ra7zEaPd/s1600/windows-malware.jpg"
   }
 ]

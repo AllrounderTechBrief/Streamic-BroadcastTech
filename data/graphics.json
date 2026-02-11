@@ -1,5 +1,16 @@
 [
   {
+    "title": "Summer Heat Hits Southeastern Australia",
+    "link": "https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/",
+    "summary": "January brought blistering extremes Down Under as record temperatures scorched the nation’s southeast.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 11 Feb 2026 05:00:00 +0000",
+    "timestamp": 1770786000.0,
+    "isoDate": "2026-02-11T05:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/summer-heat-hits-southeastern-australia/austheat_gmao_20260129.jpg?w=720&h=570&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Dow Rises 52, Nasdaq Falls 136, S&P 500 Drops 23",
     "link": "https://tvnewscheck.com/business/article/dow-rises-52-nasdaq-falls-136-sp-500-drops-23/",
     "summary": "U.S. stocks drifted to a mixed finish as yields fell Tuesday after a discouraging report on U.S. shoppers. The post Dow Rises 52, Nasdaq Falls 136, S&P 500 Drops 23 appeared first on TV News Check.",
@@ -427,17 +438,6 @@
     "timestamp": 1770652541.0,
     "isoDate": "2026-02-09T15:55:41+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/02/nycicy-oli-20260128-lrg.jpg?w=2048"
-  },
-  {
-    "title": "A Grand, Snow-Rimmed Canyon",
-    "link": "https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/",
-    "summary": "A dusting of white highlighted the Colorado Plateau around the deep gorge, while shadows created a visual illusion.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 09 Feb 2026 05:01:00 +0000",
-    "timestamp": 1770613260.0,
-    "isoDate": "2026-02-09T05:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-grand,-snow-rimmed-canyon/ISS074-E-208838.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Vizrt revolutionizes corporate communications with AI-powered augmented reality in Zoom",
