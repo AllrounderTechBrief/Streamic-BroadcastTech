@@ -1,5 +1,27 @@
 [
   {
+    "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
+    "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
+    "summary": "Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponiz…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Feb 2026 23:27:00 +0530",
+    "timestamp": 1770919020.0,
+    "isoDate": "2026-02-12T17:57:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH-X2QIhuzxjBzIZ8BlpGUbA-K-Wr-eqGI4bYJD_BMYP8z3FHI65tVA3Oe5vVANpMVHx1f6f3i0sKT-yjmYq9SmCkixMEQVbhRn2PjPEaYnauJYX_wi0i-3phvUCBWW4IQ2KI9o417JKW6h9z5coqLQAiEUCZSk_Bq5nEAqPqSEpVPH2Q46JQU4RTBuNcf/s1600/google-ai.jpg"
+  },
+  {
+    "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
+    "link": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
+    "summary": "Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake recruitment-themed campaign orchestrated by the North Korea-linked Lazarus Group. The coo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Feb 2026 22:25:00 +0530",
+    "timestamp": 1770915300.0,
+    "isoDate": "2026-02-12T16:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48-Bb1617Je211tmVOc4BKdYLJjIst0IBibAqJyCaHUi1ZpHQd0EW_idmBrAbIlMm8fDx9yciZ0HiC4WdvabpudTHGJsa_5sOEfHf6idS0Lwv86Zk3Bb9tVvyQJrJ5d0PkByBASbHpjWr5hLU5aWWBeUH3pjMyPhEZtE5WxbpQNRbzhWTSUSSCFGwg1mU/s1600/nkorea-hacker-code.jpg"
+  },
+  {
     "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
     "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
     "summary": "Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked e…",
@@ -33,7 +55,7 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYfLBzwwr9ktW_359N5SPDJT-xhZCrJtOdq8gEomlVklbw7KMji47zmZbTKbToZYTw9PY7xIu3p6K6XFXOgE6UvQ2stu1BK5RrGrypa9YSeN2-XM0hGvp8fr_1CCrJSuWx2azFgjZGxd6kwY6sx2RhYQt2ZOh0ogsKHnL3pI_V6EafPtbS36xciBAUHOJh/s1600/Bulletproof-Hosting-Infrastructure.jpg"
   },
   {
-    "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices",
+    "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
     "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
     "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N…",
     "source": "The Hacker News",
@@ -306,27 +328,5 @@
     "timestamp": 1770389760.0,
     "isoDate": "2026-02-06T14:56:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyMn4uLO-VZgiUrwRtAtJIOgkMnxpxz8eAMF1qozW3TT6F7vTTebQnOZu_ZHcioB-mqEHV7AT35sHZPKp5X2W6kJj0l8fZDPZoS11oLDOMh3v8_6rX_C5IiLlxrlv0eCEPFUZ2Nv6VG4BNcEiDH7yJ0HyJ-5CvN2EL-VsQP85QydfaaLQ62BME9d_-frU/s1600/hijacking.jpg"
-  },
-  {
-    "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
-    "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive securit…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 06 Feb 2026 19:13:00 +0530",
-    "timestamp": 1770385380.0,
-    "isoDate": "2026-02-06T13:43:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge1uFwm_WzT-KegdpNHP4BZ8lVr18AxaDHJOg7q82ToP6qmFMnQyBFVEFSnIO4vOPNF0vKBCZyllAPnBsWALveRbuPV9J-vZClRVCbp8_5dmKpPsrYghHm_ONMIxi-gatCoDpkHqCExbcZiMyGPzXV0TzqBJlXcraIeCWwEeyEk4pBChWP8iHuWAOuUzOV/s1600/cisa.jpg"
-  },
-  {
-    "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
-    "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
-    "summary": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 06 Feb 2026 17:37:00 +0530",
-    "timestamp": 1770379620.0,
-    "isoDate": "2026-02-06T12:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJXKdHXB2KDlczzJtz-jzXDWo2g659AlM7wEMe5ZqLyV2xBZlvoO3uEyL25wwkvVZ1VLoKF6nZ_KJY5M8uHOb0c5Jon9VcLakImOaWVnCt_3LaR22nrrpZK9SmQZifDzmSB5NpaUikQeAhPP5nvgyK53vaJVSAkBRdpmpJA81kghRzC49Hwg2F0NzUfO6/s1600/cyberattack.jpg"
   }
 ]
