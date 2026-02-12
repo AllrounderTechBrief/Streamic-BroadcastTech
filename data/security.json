@@ -1,5 +1,16 @@
 [
   {
+    "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
+    "link": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
+    "summary": "Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild. In this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associ…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Feb 2026 23:15:00 +0530",
+    "timestamp": 1770831900.0,
+    "isoDate": "2026-02-11T17:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGH5OFCdEH8WLDQvMuU6qAbaI73kVMtx4uASqujZ12UAb3Q-yJX3ZsFCpc1uJuUE4ah_z24WgRv_1JhOem_ISHdoYtPzZPy6o5HwRuoBGjThyru3WAtrcOqyA9hDvSNgSKIgaYUTdIOUJHL7HCRUEZgt9Z8fP6F8oINDt4LkeziTnTW6cx_Qw_DJ2FLMmo/s1600/outlook.jpg"
+  },
+  {
     "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
     "link": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html",
     "summary": "Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring co…",
@@ -317,16 +328,5 @@
     "timestamp": 1770312300.0,
     "isoDate": "2026-02-05T17:25:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQbTqDN-_b5elqPIFownbT3lOVYJRL4StGkEByqXJ9cFpW_3FZ112yglt38w0cRmOEt9yjBq7iViP5_KQHiGrtZW2FoquBUb8TYk-EcyohYRSteaPMF2jBiIlShX-YF5D1WFi4gAHeCLh2IBF-FCPetINbYSC5-MMxr5co9Pghjz4V-fL0PaYNxtcX3J7d/s1600/ddos.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
-    "summary": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next. Researchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 05 Feb 2026 18:27:00 +0530",
-    "timestamp": 1770296220.0,
-    "isoDate": "2026-02-05T12:57:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYa_2XB7ryXippAp9zUFVo52pAx1ApwoiVUwGxURxVTNIji0VO33VdciwulLXVslQ90-eSYknrIr8KSJMDEjC2uHK92e1Iin45YEI3IN5LvHAp5AJif7FqHJ-hsZ_WlmiOlXemsLpQWZ5KBSvKKZGoQ6AqePah4TWVcwbu2aFAKgugkK6SA8YglMDW5kUx/s1600/threatsday-main.jpg"
   }
 ]

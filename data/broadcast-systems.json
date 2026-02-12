@@ -1,5 +1,60 @@
 [
   {
+    "title": "Blackmagic Cloud Store 1.8.1 Update",
+    "link": "https://www.newsshooter.com/2026/02/11/blackmagic-cloud-store-1-8-1-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-cloud-store-1-8-1-update",
+    "summary": "Blackmagic Design has released the Blackmagic Cloud Store 1.8.1 Update that now lets you format disks on Blackmagic Cloud Dock, Cloud Backup 8, Cloud Pod, and Media Dock, as well as access individual disks straight from the utility in Mac F…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 02:15:27 +0000",
+    "timestamp": 1770862527.0,
+    "isoDate": "2026-02-12T02:15:27+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Powering Mobile Filmmaking Rigs– Core SWX & Beastgrip",
+    "link": "https://www.newsshooter.com/2026/02/11/powering-mobile-filmmaking-rigs-core-swx-beastgrip/?utm_source=rss&utm_medium=rss&utm_campaign=powering-mobile-filmmaking-rigs-core-swx-beastgrip",
+    "summary": "Core SWX and Beastgrip have put out a video that shows how the Blackmagic Camera ProDock can be integrated into iPhone-based rigs, from minimal mobile configurations to more advanced builds. By using locking DC power from Core SWX batteries…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 01:19:44 +0000",
+    "timestamp": 1770859184.0,
+    "isoDate": "2026-02-12T01:19:44+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "The Sound of Guillermo del Toro’s Frankenstein",
+    "link": "https://www.newsshooter.com/2026/02/11/the-sound-of-guillermo-del-toros-frankenstein/?utm_source=rss&utm_medium=rss&utm_campaign=the-sound-of-guillermo-del-toros-frankenstein",
+    "summary": "In the latest Dolby Creator Talks Podcast, they sit down with the Oscar-nominated sound team behind Guillermo del Toro’s “Frankenstein” to explore the film’s epic and deeply expressive soundtrack. Key topics discussed Working with Guillermo…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 01:00:02 +0000",
+    "timestamp": 1770858002.0,
+    "isoDate": "2026-02-12T01:00:02+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "How to Control Sony FR7 PTZ with ATEM Switchers",
+    "link": "https://www.newsshooter.com/2026/02/11/how-to-control-sony-fr7-ptz-with-atem-switchers/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-control-sony-fr7-ptz-with-atem-switchers",
+    "summary": "Middle Things has put out a tutorial demonstrating how to connect a Sony FR7 PTZ camera to their Middle Control app to enable enhanced control through various devices. This same process also applies to the Sony BRC-AM7 PTZ camera. Key steps…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 00:34:17 +0000",
+    "timestamp": 1770856457.0,
+    "isoDate": "2026-02-12T00:34:17+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "How to Use LUTs on the Atomos Ninja TX",
+    "link": "https://www.newsshooter.com/2026/02/11/how-to-use-luts-on-the-atomos-ninja-tx/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-luts-on-the-atomos-ninja-tx",
+    "summary": "In the fifth episode of a 10‑part educational series from Atomos, you can learn how to use LUTs on the Atomos Ninja TX for monitoring. Atomos has already released three episodes in a 10‑part educational series created with Christine Shaw of…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 00:10:18 +0000",
+    "timestamp": 1770855018.0,
+    "isoDate": "2026-02-12T00:10:18+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "One small step: NASA astronauts given smartphones to stream from space",
     "link": "https://www.tvbeurope.com/media-delivery/one-small-step-nasa-astronauts-given-smartphones-to-stream-live-from-space",
     "summary": "NASA said the crew of Artemis II will take smartphones to capture footage of their 10-day return flight to the Moon The post One small step: NASA astronauts given smartphones to stream from space appeared first on TVBEurope.",
@@ -33,17 +88,6 @@
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/TV-Packs-5-panels-V1-726x408.jpg"
   },
   {
-    "title": "C7 Adapters Minolta SR mount adapter",
-    "link": "https://www.newsshooter.com/2026/02/11/c7-adapters-minolta-sr-mount-adapter/?utm_source=rss&utm_medium=rss&utm_campaign=c7-adapters-minolta-sr-mount-adapter",
-    "summary": "C7 Adapters has introduced a new version of the Minolta SR mount adapter. This allows you to use MD/MC Rokkor lenses with digital cameras. It features a positive lock and adjustable flange distance. It is made from Stainless steel and Dural…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 11 Feb 2026 10:18:43 +0000",
-    "timestamp": 1770805123.0,
-    "isoDate": "2026-02-11T10:18:43+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "LiveU spotlights three broadcast priorities at NAB Show 2026",
     "link": "https://www.tvbeurope.com/news-releases/liveu-spotlights-three-broadcast-priorities-at-nab-show-2026",
     "summary": "At NAB Show, LiveU will showcase its broadest IP-video EcoSystem to date, designed to help broadcasters and content creators embrace digital first operations, dramatically simplify live production workflows through AI-enabled automation, an…",
@@ -52,28 +96,6 @@
     "timeAgo": "Wed, 11 Feb 2026 10:01:39 +0000",
     "timestamp": 1770804099.0,
     "isoDate": "2026-02-11T10:01:39+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Tilta Sony Alpha 7V, 7IV, & 7RV Camera Cages",
-    "link": "https://www.newsshooter.com/2026/02/11/tilta-sony-alpha-7v-7iv-7rv-camera-cages/?utm_source=rss&utm_medium=rss&utm_campaign=tilta-sony-alpha-7v-7iv-7rv-camera-cages",
-    "summary": "Designed for the Sony Alpha 7V, 7IV, and 7R V, Tilta’s new cage options feature an adjustable sliding design for a precise, secure fit across multiple bodies. They come with versatile 1/4″-20 mounting points, cold shoe receivers, and a dual…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 11 Feb 2026 09:56:55 +0000",
-    "timestamp": 1770803815.0,
-    "isoDate": "2026-02-11T09:56:55+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "MagStand",
-    "link": "https://www.newsshooter.com/2026/02/11/magstand/?utm_source=rss&utm_medium=rss&utm_campaign=magstand",
-    "summary": "MagStand is being touted as a professional light stand built for photographers, videographers, and creators who want stability, fast setup, and travel-ready portability. It looks like an interesting concept, but without actually seeing one,…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 11 Feb 2026 09:29:24 +0000",
-    "timestamp": 1770802164.0,
-    "isoDate": "2026-02-11T09:29:24+00:00",
     "imageUrl": ""
   },
   {
@@ -86,17 +108,6 @@
     "timestamp": 1770802090.0,
     "isoDate": "2026-02-11T09:28:10+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/ImagineComms-SNP-MV-copy-2-726x428.jpg"
-  },
-  {
-    "title": "Aputure drops the price of the STORM 1000c by $1,000 USD",
-    "link": "https://www.newsshooter.com/2026/02/10/aputure-drops-the-price-of-the-storm-1000c-by-1000-usd/?utm_source=rss&utm_medium=rss&utm_campaign=aputure-drops-the-price-of-the-storm-1000c-by-1000-usd",
-    "summary": "Aputure has dropped the price of the STORM 1000c to $2,990 USD, which makes it the same price as the STORM 1200x. It was previously $3,990 USD. This is a very aggressive pricing move from Aputure, and it is good to see the prices of more hi…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 10 Feb 2026 18:00:43 +0000",
-    "timestamp": 1770746443.0,
-    "isoDate": "2026-02-10T18:00:43+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Could a potential ITV sale to Comcast be imminent?",
@@ -119,17 +130,6 @@
     "timestamp": 1770717852.0,
     "isoDate": "2026-02-10T10:04:12+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/Audio-Technica_Middle_East_1001493-copy-726x514.jpg"
-  },
-  {
-    "title": "ZEISS Aatma Prime T1.5 Cine Lenses",
-    "link": "https://www.newsshooter.com/2026/02/10/zeiss-aatma-prime-t1-5-cine-lenses/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-aatma-prime-t1-5-cine-lenses",
-    "summary": "ZEISS has announced its new Aatma Prime T1.5 Cine Lenses. The new Aatma Prime series consists of nine focal lengths, and they are said to draw inspiration from the classic Planar, Distagon, and Sonnar photo lenses. The lenses cover large-fo…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 10 Feb 2026 10:02:24 +0000",
-    "timestamp": 1770717744.0,
-    "isoDate": "2026-02-10T10:02:24+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Opinion: SMPTE’s Young Innovators showed me that being a broadcast engineer is exciting",
