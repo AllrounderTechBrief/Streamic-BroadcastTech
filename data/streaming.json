@@ -1,5 +1,16 @@
 [
   {
+    "title": "Introducing Markdown for Agents",
+    "link": "https://blog.cloudflare.com/markdown-for-agents/",
+    "summary": "The way content is discovered online is shifting, from traditional search engines to AI agents that need structured data from a Web built for humans. It’s time to consider not just human visitors, but start to treat agents as first-class ci…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 12 Feb 2026 14:03:12 GMT",
+    "timestamp": 1770904992.0,
+    "isoDate": "2026-02-12T14:03:12+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6Zw1Q5kBBqTrouN1362H5I/3080d74a2a971be1f1e7e0ba79611998/BLOG-3162_2.png"
+  },
+  {
     "title": "Set up LucidLink with service managed fleet scripts for AWS Deadline Cloud",
     "link": "https://aws.amazon.com/blogs/media/set-up-lucidlink-with-service-managed-fleet-scripts-for-aws-deadline-cloud/",
     "summary": "Modern creative workflows demand high-performance rendering capabilities that can scale on demand without the operational overhead of managing infrastructure. AWS Deadline Cloud service-managed fleets address this challenge. It handles the …",
@@ -273,17 +284,6 @@
     "timestamp": 1765807200.0,
     "isoDate": "2025-12-15T14:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3EqqyX4A0PI27tBdVijUq2/9102522d8661d7d5911ece00c1b1e678/BLOG-3077_2.png"
-  },
-  {
-    "title": "ChatGPT's rivals, Kwai's quiet rise: the top Internet services of 2025",
-    "link": "https://blog.cloudflare.com/radar-2025-year-in-review-internet-services/",
-    "summary": "AI competition intensified in 2025 as ChatGPT gained strong challengers. Instagram climbed, X declined, and platforms like Shopee, Temu, and Kwai reshaped global Internet usage. Our 2025 DNS data shows how Internet patterns evolved.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 15 Dec 2025 14:00:00 GMT",
-    "timestamp": 1765807200.0,
-    "isoDate": "2025-12-15T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7Jjm9FRa7YPVSviBV9APob/e9485d5203a4099f4d3a3cb8fd50d560/BLOG-3095_1_Overall_top_10.png"
   },
   {
     "title": "Accelerating creative workflows with the AWS Creative Innovation Hub in London",

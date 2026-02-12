@@ -1,5 +1,16 @@
 [
   {
+    "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
+    "summary": "Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked e…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Feb 2026 17:21:00 +0530",
+    "timestamp": 1770897060.0,
+    "isoDate": "2026-02-12T11:51:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Nc_7NCkh6b_GnhFP3euTAuace33F0nRMsZfDoe-xx5pN0Wm5kDPdUQhqxqfMIs_Y7MgXIBUAqAeRIk8lwfY8CsOqC27RxU9MH03DMNRpt56mJGU_okNrnEwdqFkaApUrObEBFmDnCHQXXJe_VdkUMbMXsa356WODvfsU4FPvciKR2CcIpNAHsrWGSe0a/s1600/threatsday-main-1.jpg"
+  },
+  {
     "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
     "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
     "summary": "A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a sing…",
@@ -317,16 +328,5 @@
     "timestamp": 1770379620.0,
     "isoDate": "2026-02-06T12:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJXKdHXB2KDlczzJtz-jzXDWo2g659AlM7wEMe5ZqLyV2xBZlvoO3uEyL25wwkvVZ1VLoKF6nZ_KJY5M8uHOb0c5Jon9VcLakImOaWVnCt_3LaR22nrrpZK9SmQZifDzmSB5NpaUikQeAhPP5nvgyK53vaJVSAkBRdpmpJA81kghRzC49Hwg2F0NzUfO6/s1600/cyberattack.jpg"
-  },
-  {
-    "title": "How Samsung Knox Helps Stop Your Network Security Breach",
-    "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
-    "summary": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it’s …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 06 Feb 2026 16:00:00 +0530",
-    "timestamp": 1770373800.0,
-    "isoDate": "2026-02-06T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhL8qHtWkV3N41iX2FEaxWOHlc1dDTKD_PdaF7KgoI1B8iHz6xEv3UAE-hzQPMmBmh0X2abLf-ZtqrZ8WrqoIqCoakc9nEH4wF8eFyyod1i1mVqc01cK_ChittnUxffDrk91tGNYA9f61mZ1f15fp-n3ZIR8xiAnQoYrOwTyhlaOlUCQrowPhOJn1evYFJ/s1600/samsung.png"
   }
 ]
