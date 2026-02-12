@@ -1,5 +1,27 @@
 [
   {
+    "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
+    "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
+    "summary": "A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a sing…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Feb 2026 16:00:00 +0530",
+    "timestamp": 1770892200.0,
+    "isoDate": "2026-02-12T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Y-YsMsEZEaAST2HjBLPOIzmYNnp_eVs86gMuTbqJbVwF158EvQL9q9rL1a70OEUBIjCdDVnxDplv4zCXMSdqauKR-t_qENqr8G3yNCXQH5Mbq8H4CsPD2vLXMBq3iwoInmaKtvKbGs-TC0SiL0q1-4VoWxGpl7CTarAuQNInAaRieusoULkPAKgTU5g/s1600/ctem.jpg"
+  },
+  {
+    "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
+    "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
+    "summary": "A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO. Threat …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Feb 2026 13:02:00 +0530",
+    "timestamp": 1770881520.0,
+    "isoDate": "2026-02-12T07:32:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYfLBzwwr9ktW_359N5SPDJT-xhZCrJtOdq8gEomlVklbw7KMji47zmZbTKbToZYTw9PY7xIu3p6K6XFXOgE6UvQ2stu1BK5RrGrypa9YSeN2-XM0hGvp8fr_1CCrJSuWx2azFgjZGxd6kwY6sx2RhYQt2ZOh0ogsKHnL3pI_V6EafPtbS36xciBAUHOJh/s1600/Bulletproof-Hosting-Infrastructure.jpg"
+  },
+  {
     "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices",
     "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
     "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N…",
@@ -8,7 +30,7 @@
     "timeAgo": "Thu, 12 Feb 2026 11:09:00 +0530",
     "timestamp": 1770874740.0,
     "isoDate": "2026-02-12T05:39:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjyk4RBhw7ZLa79jfuotCrBx0CSEp-EFKyO90NFkT728W0TaMEf4Rc50U3FFEx_EiZ3D1-RoiEWHWYb-EDeECBP6R2Es2rhNSyM0HqT03lX94UlFdLizO6qfkD1f-FyVmco9XwzO0fE6draieYuLHM0Vcsapjj9jl2phHIAMOF_2kvnNAeHJWoupqjgPhu/s1600/apple.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXXnmQ69hHRCiUryP62cYqb4c5ShYwdmXYG1eTU8ujwrWwGICQBUVPzWAAqAW2fvWYURCEtEsBnhwDXKzV6oMBKSCFhfGMTsIRAoVrqRTHgHebhPRIMMPIBvNsvP8jwzh3ts578kUFyLiIs2mgKUiMQgoUmINM8JOOEVWMWA-W3_wAx07J-nm3oGihE_0v/s1600/apple.gif"
   },
   {
     "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
@@ -306,27 +328,5 @@
     "timestamp": 1770373800.0,
     "isoDate": "2026-02-06T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhL8qHtWkV3N41iX2FEaxWOHlc1dDTKD_PdaF7KgoI1B8iHz6xEv3UAE-hzQPMmBmh0X2abLf-ZtqrZ8WrqoIqCoakc9nEH4wF8eFyyod1i1mVqc01cK_ChittnUxffDrk91tGNYA9f61mZ1f15fp-n3ZIR8xiAnQoYrOwTyhlaOlUCQrowPhOJn1evYFJ/s1600/samsung.png"
-  },
-  {
-    "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
-    "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
-    "summary": "Cybersecurity researchers have discovered a new supply chain attack in which legitimate packages on npm and the Python Package Index (PyPI) repository have been compromised to push malicious versions to facilitate wallet credential theft an…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 06 Feb 2026 14:10:00 +0530",
-    "timestamp": 1770367200.0,
-    "isoDate": "2026-02-06T08:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyIStnp-bU9hiGHInOzCOAghM-ycI6Ji3sPnUabHcJU_9vmQMCof5MKezvR6uly1jV9qfrPwynL5PZjrifXYWIBJB31wQDTv70h31WQuGzptuPUE_iUkS99qMlcN1QHvbDaqtlAOu8Gy65Ge45FaApAUNqP2DtXhOBAPmtAjyijUbX3kWSb8NgygWtIsQA/s1600/npm-pypi.jpg"
-  },
-  {
-    "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
-    "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
-    "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, Op…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 06 Feb 2026 11:19:00 +0530",
-    "timestamp": 1770356940.0,
-    "isoDate": "2026-02-06T05:49:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3INhSQ0eqV1r5O9Q_JGSGDCw6r657lTF_JXgvwnA7iHLRer8FgbUzV37ALPlKD0MNHNUltUI8BjJNLOb2iL8FRZ3xlBO74k2HCxEsTcY8z0wN6xfNacnOK7eRHDmrw0mEbBvYINLHTQs7AEDhffz2DRXd2uOJgPh7tJg-xVZFx070Lo36hdfu7HpEEeRO/s1600/claude-opus-4.6.jpg"
   }
 ]

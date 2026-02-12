@@ -1,5 +1,60 @@
 [
   {
+    "title": "Framestore aims to revolutionise production with AI platform",
+    "link": "https://www.tvbeurope.com/production-post/framestore-aims-to-revolutionise-production-with-ai-platform",
+    "summary": "According to the partners, unifying assets, standards, and governance into a single foundation will allow productions in all media formats to work in tandem, rather than as independent silos The post Framestore aims to revolutionise product…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 10:55:34 +0000",
+    "timestamp": 1770893734.0,
+    "isoDate": "2026-02-12T10:55:34+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "NATO upgrades broadcast studio to 4K",
+    "link": "https://www.tvbeurope.com/live-production/nato-upgrades-broadcast-studio-to-4k",
+    "summary": "The requirements called for a 4K/HD portable studio camera system with SMPTE fibre connectivity The post NATO upgrades broadcast studio to 4K appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 10:48:46 +0000",
+    "timestamp": 1770893326.0,
+    "isoDate": "2026-02-12T10:48:46+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/NATO-1-pr-copy-726x437.jpg"
+  },
+  {
+    "title": "FA Cup delivered via IP for the first time",
+    "link": "https://www.tvbeurope.com/ip-migration/fa-cup-delivered-via-ip-for-the-first-time",
+    "summary": "Combining Globecast's Connect Live SRT platform with Synamedia's SaaS Quortex Live provides rights holders with a best-of-both-worlds delivery approach The post FA Cup delivered via IP for the first time appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 10:09:38 +0000",
+    "timestamp": 1770890978.0,
+    "isoDate": "2026-02-12T10:09:38+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Assimilate Live FX Studio – Virtual Production: Unreal Engine Workflow – Single Machine",
+    "link": "https://www.newsshooter.com/2026/02/12/assimilate-live-fx-studio-virtual-production-unreal-engine-workflow-single-machine/?utm_source=rss&utm_medium=rss&utm_campaign=assimilate-live-fx-studio-virtual-production-unreal-engine-workflow-single-machine",
+    "summary": "Assimilate has put up its first video (of 3), where you can learn the basics of a simple single-machine Unreal Engine VP workflow with Live FX Studio. This video provides a comprehensive tutorial, and it covers various aspects, including wo…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 09:52:38 +0000",
+    "timestamp": 1770889958.0,
+    "isoDate": "2026-02-12T09:52:38+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Elevating the next generation of senior leadership through new Rise initiative",
+    "link": "https://www.tvbeurope.com/business/elevating-the-next-generation-of-senior-leadership-through-new-rise-initiative",
+    "summary": "Aiming to support women in media and entertainment, the six-week programme will strengthen leadership capabilities, build networks and drive behavioural change The post Elevating the next generation of senior leadership through new Rise ini…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 09:19:03 +0000",
+    "timestamp": 1770887943.0,
+    "isoDate": "2026-02-12T09:19:03+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/RiseAV1-726x545.jpeg"
+  },
+  {
     "title": "DaVinci Resolve 20.3.2 Update",
     "link": "https://www.newsshooter.com/2026/02/11/davinci-resolve-20-3-2-update/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-20-3-2-update",
     "summary": "Blackmagic Design has released the DaVinci Resolve 20.3.2 Update that adds a new trim editor option for dynamic trimming, improved kerning for subtitles, and better magic mask caching. What’s new in DaVinci Resolve 20.3.1 The following feat…",
@@ -41,17 +96,6 @@
     "timeAgo": "Thu, 12 Feb 2026 01:00:02 +0000",
     "timestamp": 1770858002.0,
     "isoDate": "2026-02-12T01:00:02+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "How to Control Sony FR7 PTZ with ATEM Switchers",
-    "link": "https://www.newsshooter.com/2026/02/11/how-to-control-sony-fr7-ptz-with-atem-switchers/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-control-sony-fr7-ptz-with-atem-switchers",
-    "summary": "Middle Things has put out a tutorial demonstrating how to connect a Sony FR7 PTZ camera to their Middle Control app to enable enhanced control through various devices. This same process also applies to the Sony BRC-AM7 PTZ camera. Key steps…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 12 Feb 2026 00:34:17 +0000",
-    "timestamp": 1770856457.0,
-    "isoDate": "2026-02-12T00:34:17+00:00",
     "imageUrl": ""
   },
   {
@@ -229,50 +273,6 @@
     "timestamp": 1770373624.0,
     "isoDate": "2026-02-06T10:27:04+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/Sony_Broadcast_Camera.jpg"
-  },
-  {
-    "title": "Best of Show Awards at ISE 2026 winners announced",
-    "link": "https://www.tvbeurope.com/business/best-of-show-awards-at-ise-2026-winners-announced",
-    "summary": "The TVBEurope category recognises broadcast-grade technology products on show in Barcelona The post Best of Show Awards at ISE 2026 winners announced appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 06 Feb 2026 09:08:58 +0000",
-    "timestamp": 1770368938.0,
-    "isoDate": "2026-02-06T09:08:58+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/Copy-of-ISE-BOS-Awards-UK-2026_Oct25_1200x627_TW_72_1200-x-627-726x379.png"
-  },
-  {
-    "title": "XXV Winter Olympics: OBS on decentralisation, cloud and AI innovations",
-    "link": "https://www.tvbeurope.com/live-production/xxv-winter-olympics-obs-on-decentralisation-cloud-and-ai-innovations",
-    "summary": "Olympic Broadcasting Services head of engineering Isidoro Moreno takes David Davies through the innovations on and off screen at this year’s Winter Olympics The post XXV Winter Olympics: OBS on decentralisation, cloud and AI innovations app…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 05 Feb 2026 14:43:40 +0000",
-    "timestamp": 1770302620.0,
-    "isoDate": "2026-02-05T14:43:40+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/Anterselva-©Milano-Cortina-2026-726x545.jpg"
-  },
-  {
-    "title": "WBD’s Winter Olympics: 47 markets, 21 languages, and a purpose-built technology platform",
-    "link": "https://www.tvbeurope.com/live-production/wbds-winter-olympics-47-markets-21-languages-and-a-purpose-built-technology-platform",
-    "summary": "Warner Bros Discovery Sports Europe is leveraging a new, purpose-built technology platform, iBuild, and unique on-site studios, including an 'igloo-style' snow dome, to bring every moment of the Milano Cortina Winter Olympics to European vi…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 05 Feb 2026 14:31:59 +0000",
-    "timestamp": 1770301919.0,
-    "isoDate": "2026-02-05T14:31:59+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/Scott-Young-EVP-at-WBD-Sports-Europe-726x484.jpg"
-  },
-  {
-    "title": "Creating appointment-to-view television",
-    "link": "https://www.tvbeurope.com/live-production/creating-appointment-to-view-television",
-    "summary": "TVBEurope recently caught up with Marco Balich, creative director of Milano Cortina 2026's Opening Ceremony, to hear how he has been working with OBS to deliver an event for fans watching around the world The post Creating appointment-to-vi…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 05 Feb 2026 14:22:14 +0000",
-    "timestamp": 1770301334.0,
-    "isoDate": "2026-02-05T14:22:14+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/Milano_Cortina_2026_Cauldron_1-726x408.jpg"
   },
   {
     "title": "Tedial – Composable NoCode UI Design",
