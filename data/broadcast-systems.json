@@ -1,5 +1,16 @@
 [
   {
+    "title": "DaVinci Resolve 20.3.2 Update",
+    "link": "https://www.newsshooter.com/2026/02/11/davinci-resolve-20-3-2-update/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-20-3-2-update",
+    "summary": "Blackmagic Design has released the DaVinci Resolve 20.3.2 Update that adds a new trim editor option for dynamic trimming, improved kerning for subtitles, and better magic mask caching. What’s new in DaVinci Resolve 20.3.1 The following feat…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 12 Feb 2026 06:07:46 +0000",
+    "timestamp": 1770876466.0,
+    "isoDate": "2026-02-12T06:07:46+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Blackmagic Cloud Store 1.8.1 Update",
     "link": "https://www.newsshooter.com/2026/02/11/blackmagic-cloud-store-1-8-1-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-cloud-store-1-8-1-update",
     "summary": "Blackmagic Design has released the Blackmagic Cloud Store 1.8.1 Update that now lets you format disks on Blackmagic Cloud Dock, Cloud Backup 8, Cloud Pod, and Media Dock, as well as access individual disks straight from the utility in Mac F…",
@@ -41,17 +52,6 @@
     "timeAgo": "Thu, 12 Feb 2026 00:34:17 +0000",
     "timestamp": 1770856457.0,
     "isoDate": "2026-02-12T00:34:17+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "How to Use LUTs on the Atomos Ninja TX",
-    "link": "https://www.newsshooter.com/2026/02/11/how-to-use-luts-on-the-atomos-ninja-tx/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-luts-on-the-atomos-ninja-tx",
-    "summary": "In the fifth episode of a 10‑part educational series from Atomos, you can learn how to use LUTs on the Atomos Ninja TX for monitoring. Atomos has already released three episodes in a 10‑part educational series created with Christine Shaw of…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 12 Feb 2026 00:10:18 +0000",
-    "timestamp": 1770855018.0,
-    "isoDate": "2026-02-12T00:10:18+00:00",
     "imageUrl": ""
   },
   {

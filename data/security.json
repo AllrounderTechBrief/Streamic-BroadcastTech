@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices",
+    "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
+    "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Feb 2026 11:09:00 +0530",
+    "timestamp": 1770874740.0,
+    "isoDate": "2026-02-12T05:39:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjyk4RBhw7ZLa79jfuotCrBx0CSEp-EFKyO90NFkT728W0TaMEf4Rc50U3FFEx_EiZ3D1-RoiEWHWYb-EDeECBP6R2Es2rhNSyM0HqT03lX94UlFdLizO6qfkD1f-FyVmco9XwzO0fE6draieYuLHM0Vcsapjj9jl2phHIAMOF_2kvnNAeHJWoupqjgPhu/s1600/apple.jpg"
+  },
+  {
     "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
     "link": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
     "summary": "Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild. In this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associ…",
@@ -317,16 +328,5 @@
     "timestamp": 1770356940.0,
     "isoDate": "2026-02-06T05:49:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3INhSQ0eqV1r5O9Q_JGSGDCw6r657lTF_JXgvwnA7iHLRer8FgbUzV37ALPlKD0MNHNUltUI8BjJNLOb2iL8FRZ3xlBO74k2HCxEsTcY8z0wN6xfNacnOK7eRHDmrw0mEbBvYINLHTQs7AEDhffz2DRXd2uOJgPh7tJg-xVZFx070Lo36hdfu7HpEEeRO/s1600/claude-opus-4.6.jpg"
-  },
-  {
-    "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
-    "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
-    "summary": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds. Cloudflare, which automatically detected and m…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 05 Feb 2026 22:55:00 +0530",
-    "timestamp": 1770312300.0,
-    "isoDate": "2026-02-05T17:25:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQbTqDN-_b5elqPIFownbT3lOVYJRL4StGkEByqXJ9cFpW_3FZ112yglt38w0cRmOEt9yjBq7iViP5_KQHiGrtZW2FoquBUb8TYk-EcyohYRSteaPMF2jBiIlShX-YF5D1WFi4gAHeCLh2IBF-FCPetINbYSC5-MMxr5co9Pghjz4V-fL0PaYNxtcX3J7d/s1600/ddos.jpg"
   }
 ]
