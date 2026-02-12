@@ -1,5 +1,16 @@
 [
   {
+    "title": "HiBid brings the excitement of auctions online with Amazon IVS",
+    "link": "https://aws.amazon.com/blogs/media/hibid-brings-the-excitement-of-auctions-online-with-amazon-ivs/",
+    "summary": "For over 15 years, HiBid has helped auctioneers reach bidders beyond their local markets, enabling auction houses to expand from local-only events to national and global participation. Most recently, with a switch to Amazon Interactive Vide…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 12 Feb 2026 21:40:25 +0000",
+    "timestamp": 1770932425.0,
+    "isoDate": "2026-02-12T21:40:25+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Mavis Announces External Camera Support with Accsoon SeeMo Integration at BSC Expo 2026",
     "link": "https://www.broadcastbeat.com/mavis-announces-external-camera-support-with-accsoon-seemo-integration-at-bsc-expo-2026/",
     "summary": "February 12, 2026 Mavis announced full support for the Accsoon SeeMo series of iOS camera adapters across the Mavis Camera and Mavis Monitor apps. This new integration enables filmmakers, broadcasters, and content creators to connect profes…",
@@ -372,16 +383,5 @@
     "timestamp": 1760128809.0,
     "isoDate": "2025-10-10T20:40:09+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/10/03/CMCD-Image-1.jpg"
-  },
-  {
-    "title": "Hawk-Eye Innovations Powers Real-Time Sports Data with Flink and Amazon MSK",
-    "link": "https://aws.amazon.com/blogs/media/hawk-eye-innovations-powers-real-time-sports-data-with-flink-and-amazon-msk/",
-    "summary": "This blog is co-authored by Brent Evans, Gergely Jahn, Alex Manning, and Marco Lorenzi, from Sony Sports Businesses. The world of professional sports has entered a new era where continuous data streams power every aspect of the game from of…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 09 Oct 2025 21:07:05 +0000",
-    "timestamp": 1760044025.0,
-    "isoDate": "2025-10-09T21:07:05+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/10/06/HE-Image-1-1.jpg"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "title": "HiBid brings the excitement of auctions online with Amazon IVS",
+    "link": "https://aws.amazon.com/blogs/media/hibid-brings-the-excitement-of-auctions-online-with-amazon-ivs/",
+    "summary": "For over 15 years, HiBid has helped auctioneers reach bidders beyond their local markets, enabling auction houses to expand from local-only events to national and global participation. Most recently, with a switch to Amazon Interactive Vide…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 12 Feb 2026 21:40:25 +0000",
+    "timestamp": 1770932425.0,
+    "isoDate": "2026-02-12T21:40:25+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Introducing Markdown for Agents",
     "link": "https://blog.cloudflare.com/markdown-for-agents/",
     "summary": "The way content is discovered online is shifting, from traditional search engines to AI agents that need structured data from a Web built for humans. It’s time to consider not just human visitors, but start to treat agents as first-class ci…",
@@ -427,16 +438,5 @@
     "timestamp": 1760128809.0,
     "isoDate": "2025-10-10T20:40:09+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/10/03/CMCD-Image-1.jpg"
-  },
-  {
-    "title": "Hawk-Eye Innovations Powers Real-Time Sports Data with Flink and Amazon MSK",
-    "link": "https://aws.amazon.com/blogs/media/hawk-eye-innovations-powers-real-time-sports-data-with-flink-and-amazon-msk/",
-    "summary": "This blog is co-authored by Brent Evans, Gergely Jahn, Alex Manning, and Marco Lorenzi, from Sony Sports Businesses. The world of professional sports has entered a new era where continuous data streams power every aspect of the game from of…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 09 Oct 2025 21:07:05 +0000",
-    "timestamp": 1760044025.0,
-    "isoDate": "2025-10-09T21:07:05+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/10/06/HE-Image-1-1.jpg"
   }
 ]
