@@ -1,5 +1,38 @@
 [
   {
+    "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
+    "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
+    "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL. Google Threat Intelligence Group (GTIG) described the hack group as possibly affiliated with Russian inte…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Feb 2026 22:57:00 +0530",
+    "timestamp": 1771003620.0,
+    "isoDate": "2026-02-13T17:27:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiesoKhsaUAZZj0bK1IJ7xmSmGHegLjyAfbLfxf6rngoAh3HKgRNVk_XxSGjwDPM-6nz_7bueRxN_icdflQ6bdwUptCiekeAMN67s-Ygdp6Ryk0S60X-gDQF_ZKADRxgLl7slbZKvHPSElrANxp23lKUwtselRObvGhmo_CMOqDXnF1B31y61LXkX6AB_fS/s1600/russian-hackers.jpg"
+  },
+  {
+    "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
+    "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
+    "summary": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Feb 2026 21:53:00 +0530",
+    "timestamp": 1770999780.0,
+    "isoDate": "2026-02-13T16:23:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTgbqgbztkZlUNEYQUOZixcqxUV-NpLNChacFNUwb2l5mdWsghckr5BS98pnTl2haLryjPeKX8tg0fvAmGcPjYfJIuD3EFaa-oWyEDf-FRqofQt0rBjACVqYXrUuTPLJa3gO-frhpoOgrnE9bxc2FKxoSx9bYOgxpQhrzj4Uh0DIGdyXkMRx18X008_v6m/s1600/google-attacks.jpg"
+  },
+  {
+    "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
+    "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
+    "summary": "A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos. \"Th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Feb 2026 20:53:00 +0530",
+    "timestamp": 1770996180.0,
+    "isoDate": "2026-02-13T15:23:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgixJrBY7kbFJ-Pj-CDd1ryd3ktnmh80-81Vc6MNVQ9PqO5RMGBsXR4G_Pr2sw1ev8C92hXckh1O_tC_B5apA8O9jCaE7THkDPmhqg5KiLM6vHT1kA73tXRxfRgWBKnARqQcqYekIqJUX0DV0zwqbNF9odwXvL6OERY6fdi0W92kPIMqiug7UbafCcUXQqQ/s1600/banks.jpg"
+  },
+  {
     "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
     "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
     "summary": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager. The extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcn…",
@@ -295,38 +328,5 @@
     "timestamp": 1770636180.0,
     "isoDate": "2026-02-09T11:23:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEWlaquUArR-GMqukRCHWrs9_HN46zhN8-clTeBqbAGOl5ABkSUp-YEe32I-Da1P0TY8LZ7zbS-k9iYploghqd07vgWNP-JW71E5xH6uOHVFctuRCfRCZ_iC6oWEVdcWPexxoc-WTgl9DNZTKiTcPuAzFJ_ytpDC_u7mNZBaFBE4w4EXhOHcvV5ZTVuKs/s1600/anyrun-soc.jpg"
-  },
-  {
-    "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
-    "link": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
-    "summary": "The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT. Cybersecurity vendor Kaspersky is tracking the activity under the mon…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Feb 2026 16:28:00 +0530",
-    "timestamp": 1770634680.0,
-    "isoDate": "2026-02-09T10:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehyphenhyphenizf_EezYiQzf7tUgHJUYqd7k7zumWKSqP1n8K5YoJMRzmHjxJHdnN0GydURXFuwrRJd2qyTQSuH8TWPo_Wfh7SX0_1ljHcMjQGMQrDCtW23OLow6w7rPv4Uemxrd7vnQtGsWBzdUrhnrEtl914RxUcNeqKxVl81xXI9pVOFNaTh6UCLgkKw7QQYqeI/s1600/rat-attack.jpg"
-  },
-  {
-    "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
-    "link": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
-    "summary": "Cybersecurity researchers have called attention to a \"massive campaign\" that has systematically targeted cloud native environments to set up malicious infrastructure for follow-on exploitation. The activity, observed around December 25, 202…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Feb 2026 14:07:00 +0530",
-    "timestamp": 1770626220.0,
-    "isoDate": "2026-02-09T08:37:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiW_jUJE_4sQRwRYF1TXG-rmM3C4nC_15zd82rYQuuLdwncMPrT8M2X-45Ap_KPH09DynvlzyzTd62EEy9116zPjR4FAO92QedrPRA6jxz9pgXSlUi_TsryFlxVcApwV89bUUTWmFuFx-nbXDBBt2WPi-RO6_Iaq3II98RcOqL4XaedeBVKoKX4vb3dQr6/s1600/cloud-infra.jpg"
-  },
-  {
-    "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
-    "link": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
-    "summary": "BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution. \"BeyondTrust Remote Suppo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Feb 2026 13:33:00 +0530",
-    "timestamp": 1770624180.0,
-    "isoDate": "2026-02-09T08:03:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSFjfJhHXUMJ0_vAj8LwmTeAMOkqVJomqws8hEaofSam7jnpED75EtkDhrEkofhEd0o_z-gZngp5Ue2kgvyhX3GrQA3gUp3v2H4OmEvpjYQb93gmQNeSppy5WIH6LJNg97OIEAsMXmelNMrq9VR5sN3ZrCnWwgfum_0MUCW5hHoqPQ2gmVxWFGwdr5l2t/s1600/bt.jpg"
   }
 ]
