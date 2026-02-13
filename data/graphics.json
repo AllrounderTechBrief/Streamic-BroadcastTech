@@ -1,5 +1,16 @@
 [
   {
+    "title": "Stonebreen’s Beating Heart",
+    "link": "https://science.nasa.gov/earth/earth-observatory/stonebreens-beating-heart/",
+    "summary": "The glacier in southeastern Svalbard pulses with the changing seasons, speeding up and slowing its flow toward the sea.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 13 Feb 2026 05:00:00 +0000",
+    "timestamp": 1770958800.0,
+    "isoDate": "2026-02-13T05:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/stonebreen’s-beating-heart/stonebreen_hls_2025_hires.gif?w=1662&h=1470&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Roku Breezes Past Wall Street’s Q4 Earnings Outlook",
     "link": "https://tvnewscheck.com/business/article/roku-breezes-past-wall-streets-q4-earnings-outlook/",
     "summary": "The company posted revenue of $1.4 billion in the fourth quarter, up 16%, with adjusted earnings per share of 53 cents, a reversal of the year-ago quarter’s loss of 24 cents a share. Analysts had been calling for earnings of 28 cents a shar…",
@@ -438,17 +449,6 @@
     "timestamp": 1770786000.0,
     "isoDate": "2026-02-11T05:00:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/summer-heat-hits-southeastern-australia/austheat_gmao_20260129.jpg?w=720&h=570&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Curiosity Blog, Sols 4798-4803: Back for More Science",
-    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4798-4803-back-for-more-science/",
-    "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Feb. 6, 2026 The results from our first visit to the “Nevado Sajama” drill location were intriguing enough to motivate our return to do a deeper d…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 10 Feb 2026 18:47:27 +0000",
-    "timestamp": 1770749247.0,
-    "isoDate": "2026-02-10T18:47:27+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/january/https___mars.nasa.gov_msl-raw-images_msss_04795_mcam_4795ML1087520020509328E01_DXXX.jpg?w=672&h=896&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Vizrt revolutionizes corporate communications with AI-powered augmented reality in Zoom",
