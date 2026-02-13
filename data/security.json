@@ -1,5 +1,16 @@
 [
   {
+    "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
+    "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
+    "summary": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager. The extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcn…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Feb 2026 16:55:00 +0530",
+    "timestamp": 1770981900.0,
+    "isoDate": "2026-02-13T11:25:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDcg8kBvyrdu22dNN8lKs3vJ_Nhk_nEuuZtq0Q-EcpvUKlRbXSHVssro3qio1_12lWV-dcFQ_O94jO4KAzh_mbdS0MKJ7REEcNSrPr5hon0iUNDcP91cFAqcNUl3EwPIVqhgOTss5ntc4x1BpfXldEBmCm1BzRNsPQMxqMsqTtNc6jZm4hN0vS3T9K3yj/s1600/chrome-hacks.jpg"
+  },
+  {
     "title": "npm’s Update to Harden Their Supply Chain, and Points to Consider",
     "link": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
     "summary": "In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from sup…",
@@ -317,16 +328,5 @@
     "timestamp": 1770624180.0,
     "isoDate": "2026-02-09T08:03:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSFjfJhHXUMJ0_vAj8LwmTeAMOkqVJomqws8hEaofSam7jnpED75EtkDhrEkofhEd0o_z-gZngp5Ue2kgvyhX3GrQA3gUp3v2H4OmEvpjYQb93gmQNeSppy5WIH6LJNg97OIEAsMXmelNMrq9VR5sN3ZrCnWwgfum_0MUCW5hHoqPQ2gmVxWFGwdr5l2t/s1600/bt.jpg"
-  },
-  {
-    "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
-    "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
-    "summary": "OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the age…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 08 Feb 2026 13:02:00 +0530",
-    "timestamp": 1770535920.0,
-    "isoDate": "2026-02-08T07:32:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUWaEYK5yvPD9ZZdP6cMRMXduyDlAE77-447kgI9rd6ASyC1rDEnZKMIvcbYLsEs1vaXIH6lXLOjMF-JktVNvjhfPy1_5YmWcXXoXQagMLUW5uuXy8gFMyxgEK9ZA4ve51Q95p_9gi5EJpq-IISmuSFkEX1hfuK1CNiXS1Bqf_GZbjE8r80ZN_JJkyq_r/s1600/openclaw-virustotal.jpg"
   }
 ]
