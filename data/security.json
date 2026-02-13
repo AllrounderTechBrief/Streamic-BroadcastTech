@@ -1,5 +1,27 @@
 [
   {
+    "title": "npm’s Update to Harden Their Supply Chain, and Points to Consider",
+    "link": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
+    "summary": "In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from sup…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Feb 2026 16:15:00 +0530",
+    "timestamp": 1770979500.0,
+    "isoDate": "2026-02-13T10:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2f7TicFSKUe4LQJy82mhhepyMplbLHU-VNYpY_gxLvTILbFCviVqGKP4thBHnPvHWaw1EdFBuqDcDePYX1Z76KaB2j0pC8rWGM4eyu8tNLDcy0HChASJSx2zZufWVktAvzIR2yAJGDC0eIpVPV5u5OaAJsYohGS77dRTUcm_q3kl3D-N5hhCJ6XWxz-w/s1600/npm-security.jpg"
+  },
+  {
+    "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
+    "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
+    "summary": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr. \"Overnight we observed first in-the-wild exploi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Feb 2026 14:04:00 +0530",
+    "timestamp": 1770971640.0,
+    "isoDate": "2026-02-13T08:34:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZHJd8VBVRuvpR0hMimwS1UYAG3EGKxE8Hu0P_euvkATyd3AmpT5SHvzwvwsAw6CpYuSfSPevYl9xub_RLkKB7hW8W8LBSG5Q-MmyV0QpOhi6BrqwlFgkQWylECioAlH1mcW5W2ChldLxlgHXVrEWeaaY25jhnAbLWzgeRXVLfhdXMLFlt7jC_fmh6E7Si/s1600/beyond.jpg"
+  },
+  {
     "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
     "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
     "summary": "Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponiz…",
@@ -57,7 +79,7 @@
   {
     "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
     "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
-    "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N…",
+    "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: 7…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Thu, 12 Feb 2026 11:09:00 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1770535920.0,
     "isoDate": "2026-02-08T07:32:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUWaEYK5yvPD9ZZdP6cMRMXduyDlAE77-447kgI9rd6ASyC1rDEnZKMIvcbYLsEs1vaXIH6lXLOjMF-JktVNvjhfPy1_5YmWcXXoXQagMLUW5uuXy8gFMyxgEK9ZA4ve51Q95p_9gi5EJpq-IISmuSFkEX1hfuK1CNiXS1Bqf_GZbjE8r80ZN_JJkyq_r/s1600/openclaw-virustotal.jpg"
-  },
-  {
-    "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
-    "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
-    "summary": "Germany's Federal Office for the Protection of the Constitution (aka Bundesamt für Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a malicious cyber campaign undertaken by …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 07 Feb 2026 16:45:00 +0530",
-    "timestamp": 1770462900.0,
-    "isoDate": "2026-02-07T11:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLxiSHzgB4jnGhqSTb5U-LmLyQn1DAEdjL73NAKb8oapBTIPlINZbiOL3pHZNBlOHYI9yuZgxV8aRvGefuo5OzaP8TVtvoHYznKe-5Lr493T9s7hOHGCqNqXhgm-4r_biXNbYjuaRGDTcfNNwqoZNVBkKwfdAud8ropOXgONMa7xizOHOWM0DCpDQaFZ9/s1600/signal.jpg"
-  },
-  {
-    "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
-    "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
-    "summary": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019. The framework comprises seven Linux-based i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 06 Feb 2026 20:26:00 +0530",
-    "timestamp": 1770389760.0,
-    "isoDate": "2026-02-06T14:56:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyMn4uLO-VZgiUrwRtAtJIOgkMnxpxz8eAMF1qozW3TT6F7vTTebQnOZu_ZHcioB-mqEHV7AT35sHZPKp5X2W6kJj0l8fZDPZoS11oLDOMh3v8_6rX_C5IiLlxrlv0eCEPFUZ2Nv6VG4BNcEiDH7yJ0HyJ-5CvN2EL-VsQP85QydfaaLQ62BME9d_-frU/s1600/hijacking.jpg"
   }
 ]
