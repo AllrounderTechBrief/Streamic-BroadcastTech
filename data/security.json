@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
+    "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
+    "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage pay…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 15 Feb 2026 19:40:00 +0530",
+    "timestamp": 1771164600.0,
+    "isoDate": "2026-02-15T14:10:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTITWEvp6Fk_BovXCLk1PaSAb0HJBzETmOcgn9ZPlY81ojfvKU3aoqM3BO_mtyqpL1idL2F1TY7e_3dAJiW6_DMDUAK5Q-zGKUnQvP1POiFDB_M0HwKiMQK2DuIihygT7Hpar1KtZ5KYCDISM2E98kRCBNxxt27oBWDX2hS0Qres6xc_0wFdaNbrxp92fj/s1600/dns.jpg"
+  },
+  {
     "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
     "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
     "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL. Google Threat Intelligence Group (GTIG) described the hacking group as possibly affiliated with Russian i…",
@@ -317,16 +328,5 @@
     "timestamp": 1770641940.0,
     "isoDate": "2026-02-09T12:59:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQI___vJxIaWlqG1lWOUAxD5Ur1U6VZA2denhtk0dqfyI4yIlzqTGJkg1vqQVn5twAhjY9JraokCa2Ly2xBoZ4wXwX5XRncJcZpbANC1j8RtIBi9-jezYgF56QIny6kJRuqCXqgVGXQWX935VYiaLlPqu88xmqmg5n2_PJgtFZsx75cnOAlgWcyp0A_SK/s1600/recap-main.jpg"
-  },
-  {
-    "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
-    "link": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
-    "summary": "Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip thr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Feb 2026 16:53:00 +0530",
-    "timestamp": 1770636180.0,
-    "isoDate": "2026-02-09T11:23:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEWlaquUArR-GMqukRCHWrs9_HN46zhN8-clTeBqbAGOl5ABkSUp-YEe32I-Da1P0TY8LZ7zbS-k9iYploghqd07vgWNP-JW71E5xH6uOHVFctuRCfRCZ_iC6oWEVdcWPexxoc-WTgl9DNZTKiTcPuAzFJ_ytpDC_u7mNZBaFBE4w4EXhOHcvV5ZTVuKs/s1600/anyrun-soc.jpg"
   }
 ]
