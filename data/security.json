@@ -1,5 +1,27 @@
 [
   {
+    "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
+    "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
+    "summary": "Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim's OpenClaw (formerly Clawdbot and Moltbot) configuration environment. \"This finding marks a significant mil…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Feb 2026 00:13:00 +0530",
+    "timestamp": 1771267380.0,
+    "isoDate": "2026-02-16T18:43:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeWsmjwrJY11WFbrvqG71cU065qr7gt-yAQRQv18KoDqnPG5x-HWXkFR1wwAmGNT2ujE6p0mlp1VsqvuDBnEokfqkSFtQX0bVdqdOxiZMZ2WXmqqVc1wrPOdZQ8kFgssie0Cs-1dmmyA7_QZzMhMTM0hcFjbXZtrhoTCwJFupvEgmLEYInUaGST-dmzAOz/s1600/openclaw-hacked.jpg"
+  },
+  {
+    "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
+    "link": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
+    "summary": "A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions. \"The attacks range in severity from integrity violations …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 16 Feb 2026 23:36:00 +0530",
+    "timestamp": 1771265160.0,
+    "isoDate": "2026-02-16T18:06:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBPbskdafjFepjzUnEOcPNFvk1UceqE9lVwhurVxvrqJ3_1VhbKg-XcZjTrVpt2aqk_uv6Sodg9NMcoTvkVEeoAhNUU9X_0ltI9oHpnTIA-a28iDGnudnxJklcADpfz5llcUEStKI7Nt7IjW3vhA_DyO7rKG03dgj8KTFfrpxamTqy7xEciFwLzeS-lXEb/s1600/password-managers.jpg"
+  },
+  {
     "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
     "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
     "summary": "This week’s recap shows how small gaps are turning into big entry points. Not always through new exploits, often through tools, add-ons, cloud setups, or workflows that people already trust and rarely question. Another signal: attackers are…",
@@ -306,27 +328,5 @@
     "timestamp": 1770730200.0,
     "isoDate": "2026-02-10T13:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnvpWlJDRcbb7ljfQfr3-cgxfkViTJBw0bxfA9YRZxbXS7GWlhhOdByicULU6alislJQMfCcRjKjB3T_WJXNSH4EnAYMPHbg7G2WxCD3bug8W1aCPOsUCqG2p9_y4NGvKSpwGio3xsAbCsGALZtdn72ervcYQjY9eDhasnbDprcYmxUI-A-10PHaVtSdok/s1600/fort.jpg"
-  },
-  {
-    "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
-    "link": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
-    "summary": "January 5, 2026, Seattle, USA — ZAST.AI announced the completion of a $6 million Pre-A funding round. This investment came from the well-known investment firm Hillhouse Capital, bringing ZAST.AI's total funding close to $10 million. This ma…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Feb 2026 17:10:00 +0530",
-    "timestamp": 1770723600.0,
-    "isoDate": "2026-02-10T11:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiHKbU6u4lVkqpxF5kGQqL_tox5POYTtIOFqB3eSIifgkcdHqwrcHFmpalRBqZnEMMDAvTrtmoNBIq368ZKLCLOHZLQu7zZAsJMUje1bGwcvbdywaNs25e84labbIA72VFmtB3YmyBi-9yJPMqdDu48Kf_5BfLraAS1JlzR9AXSD3TrKmwIITpje0AkgI/s1600/zast.gif"
-  },
-  {
-    "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
-    "link": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html",
-    "summary": "SmarterTools confirmed last week that the Warlock (aka Storm-2603) ransomware gang breached its network by exploiting an unpatched SmarterMail instance. The incident took place on January 29, 2026, when a mail server that was not updated to…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Feb 2026 15:54:00 +0530",
-    "timestamp": 1770719040.0,
-    "isoDate": "2026-02-10T10:24:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQg_RBFvjX4CSOktzf6QU0KcmxaSjFhOLkaPXZkzfoqHaq2A4TUCu-GxQCBQsKTK3PoDM-RLpolaRFIdbityIpVRtZA-5-VK2aYjRQZl0NWsHCpw-VrIkgUOYvOi4Pg0Le44LPnmMb5xQYQ4r3V6WT8Ukll2rt6mTBCRCFE3f3OD1LJCBK6G0XBAExHTw0/s1600/smart.jpg"
   }
 ]
