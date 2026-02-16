@@ -1,5 +1,27 @@
 [
   {
+    "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
+    "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
+    "summary": "This week’s recap shows how small gaps are turning into big entry points. Not always through new exploits, often through tools, add-ons, cloud setups, or workflows that people already trust and rarely question. Another signal: attackers are…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 16 Feb 2026 18:25:00 +0530",
+    "timestamp": 1771246500.0,
+    "isoDate": "2026-02-16T12:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkMGhmz-GyqlBgWLqr4q8O_WMowIYyItP0DG0jxeAvGw8ob_fAPWwSoQoKHbsFYCruaXH8xJss4OechIdlkf7MKf0ohaTnqUacvNTJqG727FIWeBYnN6vTiIJuzYwbyzA-OhIBl0nCZPXfgQbbfWgoydzQvT1DSB9FAe1vMOKy5N2p82kP7tmcKbEcxik2/s1600/recap-fb-main.jpg"
+  },
+  {
+    "title": "Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud",
+    "link": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html",
+    "summary": "Presentation of the KTU Consortium Mission ‘A Safe and Inclusive Digital Society’ at the Innovation Agency event ‘Innovation Breakfast: How Mission-Oriented Science and Innovation Programmes Will Address Societal Challenges’. Technologies a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 16 Feb 2026 17:25:00 +0530",
+    "timestamp": 1771242900.0,
+    "isoDate": "2026-02-16T11:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaQMkOZ4LU6CZ8n18IsKjwDkAUD8JoJd1olUzJVMGAL8AaIYykJXUXhSTgYjfm-ef1dnECVrx75mxhM4yctREjm7RikhDo1qOrt4uQ8DWMcDf78TyaiE16PIg6DVIAJvvWkJ3TS3pzYJyt5NoQ5TcJ4ckj3ZTOZ_c9J-3kgRJC5DaavIPqamzRw8qYAhs/s1600/aicp-fimi.png"
+  },
+  {
     "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
     "link": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
     "summary": "Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices. \"The d…",
@@ -306,27 +328,5 @@
     "timestamp": 1770719040.0,
     "isoDate": "2026-02-10T10:24:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQg_RBFvjX4CSOktzf6QU0KcmxaSjFhOLkaPXZkzfoqHaq2A4TUCu-GxQCBQsKTK3PoDM-RLpolaRFIdbityIpVRtZA-5-VK2aYjRQZl0NWsHCpw-VrIkgUOYvOi4Pg0Le44LPnmMb5xQYQ4r3V6WT8Ukll2rt6mTBCRCFE3f3OD1LJCBK6G0XBAExHTw0/s1600/smart.jpg"
-  },
-  {
-    "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
-    "link": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
-    "summary": "The Netherlands' Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited the recently disclosed security flaws in …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Feb 2026 13:52:00 +0530",
-    "timestamp": 1770711720.0,
-    "isoDate": "2026-02-10T08:22:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkGwO0dfI4hVFSzIpnPbDAGzLfh0FJh-3jiKa-mSrkIRuXECaLjAb1Yh9nM8I4KrZ40fAX4eYwHyQyVNRGJDCXkq6uzf5Tm0L0uiMb8buN2iEs-x4bw6ywRLTvaO5eLyiXr614f_0ekstIPre9e_Yw576ptePRbRqcjmxcmu4hxlJ5O9UHPa79j9PGi3vg/s1600/Ivanti.jpg"
-  },
-  {
-    "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
-    "link": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html",
-    "summary": "The Cyber Security Agency (CSA) of Singapore on Monday revealed that the China-nexus cyber espionage group known as UNC3886 targeted its telecommunications sector. \"UNC3886 had launched a deliberate, targeted, and well-planned campaign agai…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Feb 2026 22:31:00 +0530",
-    "timestamp": 1770656460.0,
-    "isoDate": "2026-02-09T17:01:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitWC7fuHQt0LEMJmwl8Nv8meCzOQQJ4XuPacIEsqxLrSxPLslJjapg-02Nmzb8ngITdSXT-C_cLn1JYF4KDUAH3bpuFyb9qznZkD8A3m-wotkulB0yflFBcAFgPuU0Ci8DYloAZGFJecZyrByApcTSCSB8Kqg6wki4UYqTt9pQPXmnkqVOMxZyfWx9820Z/s1600/chinese-telecom.jpg"
   }
 ]
