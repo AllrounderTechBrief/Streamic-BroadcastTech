@@ -1,5 +1,16 @@
 [
   {
+    "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
+    "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
+    "summary": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild. The high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a u…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 16 Feb 2026 12:08:00 +0530",
+    "timestamp": 1771223880.0,
+    "isoDate": "2026-02-16T06:38:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFT4HoaSQbeCeLfXBXoGeq1zFeqdug4-I0sb9l4cbhjD9-84AWZx3KdM0pprDWqB9U673WmwexIudqWWrT4Fg44evASMxLYfTdwK43jwJyaL667fZDdQBB2vsFWXqE2XH8pNLp1TzgWhPxsqm9FuNrpClWdtGZ81t1gzbmcTJXTmFYsK8tcOG84mqzOKgr/s1600/chrome-0day.jpg"
+  },
+  {
     "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
     "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
     "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage pay…",
@@ -317,16 +328,5 @@
     "timestamp": 1770648120.0,
     "isoDate": "2026-02-09T14:42:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1coFDcJGaV6fnBzpBs3TXSas4-odFMjYTlXPM-cyQcpzDyCshc0pH8HMEo1XmNUoVPRU4J56lg3ApR_-KpFn8L6aiATW4A5Xx_cIUbCYO1MI9W6lTiW-vlJWPK7Bc-SkXNcjQ-CnP7_HCOwhRYn1HsJnuE6sCOQZ6S4m-LC3zySGT_mHorlhwwJA4SLlO/s1600/1000054453.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
-    "link": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
-    "summary": "Cyber threats are no longer coming from just malware or exploits. They’re showing up inside the tools, platforms, and ecosystems organizations use every day. As companies connect AI, cloud apps, developer tools, and communication systems, a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Feb 2026 18:29:00 +0530",
-    "timestamp": 1770641940.0,
-    "isoDate": "2026-02-09T12:59:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQI___vJxIaWlqG1lWOUAxD5Ur1U6VZA2denhtk0dqfyI4yIlzqTGJkg1vqQVn5twAhjY9JraokCa2Ly2xBoZ4wXwX5XRncJcZpbANC1j8RtIBi9-jezYgF56QIny6kJRuqCXqgVGXQWX935VYiaLlPqu88xmqmg5n2_PJgtFZsx75cnOAlgWcyp0A_SK/s1600/recap-main.jpg"
   }
 ]
