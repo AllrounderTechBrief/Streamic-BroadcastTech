@@ -1,5 +1,16 @@
 [
   {
+    "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
+    "link": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices. \"The d…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 16 Feb 2026 15:54:00 +0530",
+    "timestamp": 1771237440.0,
+    "isoDate": "2026-02-16T10:24:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKaEDCa0YvJa9oAIavVh9Rz9NN1Cj0XVy8fKroTXMBQp7rYGL14oiZ14iCTMk0ToBg1wWx-iTClSpoZ_wg4hSAgPvFyatlGddSFgnaqdREUK24NW6xdnVgajR703vH_UpbjnLC4_NdFy1RC4pETcSTaxekLpAXNfz0n8ME7s9nyIco15DjjTiZwm7Tkhs/s1600/android-spyware.jpg"
+  },
+  {
     "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
     "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
     "summary": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild. The high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a u…",
@@ -317,16 +328,5 @@
     "timestamp": 1770656460.0,
     "isoDate": "2026-02-09T17:01:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitWC7fuHQt0LEMJmwl8Nv8meCzOQQJ4XuPacIEsqxLrSxPLslJjapg-02Nmzb8ngITdSXT-C_cLn1JYF4KDUAH3bpuFyb9qznZkD8A3m-wotkulB0yflFBcAFgPuU0Ci8DYloAZGFJecZyrByApcTSCSB8Kqg6wki4UYqTt9pQPXmnkqVOMxZyfWx9820Z/s1600/chinese-telecom.jpg"
-  },
-  {
-    "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
-    "link": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html",
-    "summary": "Microsoft has revealed that it observed a multi‑stage intrusion that involved the threat actors exploiting internet‑exposed SolarWinds Web Help Desk (WHD) instances to obtain initial access and move laterally across the organization's netwo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Feb 2026 20:12:00 +0530",
-    "timestamp": 1770648120.0,
-    "isoDate": "2026-02-09T14:42:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1coFDcJGaV6fnBzpBs3TXSas4-odFMjYTlXPM-cyQcpzDyCshc0pH8HMEo1XmNUoVPRU4J56lg3ApR_-KpFn8L6aiATW4A5Xx_cIUbCYO1MI9W6lTiW-vlJWPK7Bc-SkXNcjQ-CnP7_HCOwhRYn1HsJnuE6sCOQZ6S4m-LC3zySGT_mHorlhwwJA4SLlO/s1600/1000054453.jpg"
   }
 ]
