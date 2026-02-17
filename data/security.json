@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
+    "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html",
+    "summary": "Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages. The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Feb 2026 12:14:00 +0530",
+    "timestamp": 1771310640.0,
+    "isoDate": "2026-02-17T06:44:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPp_YwVMP8UedNu9MRj7UCji7JQ8xfTP29sqz2wXhr5sFnGWNTCM_KOIPJnzD9rNqQjp5O08Oe2LNpns6GYVkQOyjYxQIadGQ4Z5cEclR1Nl40D1_Dr5p8A0sXa4-rFnmmoWkHiVGKCvQ7iXnXZ8O7cdHXLSwBUXvby_SkTuLGj7vqfMP148Wx_5qryIux/s1600/iphone.jpg"
+  },
+  {
     "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
     "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
     "summary": "Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim's OpenClaw (formerly Clawdbot and Moltbot) configuration environment. \"This finding marks a significant mil…",
@@ -317,16 +328,5 @@
     "timestamp": 1770731940.0,
     "isoDate": "2026-02-10T13:59:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQoj8tRn4h4a-02GeyaLk1WyJz3XGX4AjYVezcSfqmsaz0v-9DZj6F1Tb6v7cAv7QaxHfnrZQtSZoOa1R5dwFLyNNhY369Lni0PKU-tfPndW0No6o9_wBUCLZpKVFdD762JQuhWRqmcLua6DqCBXbsvtVjtnIF7J_3JOL3h_7zl8nDP1qhv-C5H4Gqs1Y/s1600/picus.jpg"
-  },
-  {
-    "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
-    "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
-    "summary": "Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems. The vulnerability, tracked as CVE-2026-21643, has a CVSS rating of 9.1 out…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Feb 2026 19:00:00 +0530",
-    "timestamp": 1770730200.0,
-    "isoDate": "2026-02-10T13:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnvpWlJDRcbb7ljfQfr3-cgxfkViTJBw0bxfA9YRZxbXS7GWlhhOdByicULU6alislJQMfCcRjKjB3T_WJXNSH4EnAYMPHbg7G2WxCD3bug8W1aCPOsUCqG2p9_y4NGvKSpwGio3xsAbCsGALZtdn72ervcYQjY9eDhasnbDprcYmxUI-A-10PHaVtSdok/s1600/fort.jpg"
   }
 ]
