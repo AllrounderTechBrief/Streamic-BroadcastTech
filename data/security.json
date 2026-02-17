@@ -1,5 +1,16 @@
 [
   {
+    "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
+    "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
+    "summary": "A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky. The Russian cybersecurity vendor said it discovered the backdoor, du…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Feb 2026 22:11:00 +0530",
+    "timestamp": 1771346460.0,
+    "isoDate": "2026-02-17T16:41:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Wza_QsQzhfPQCPUG6GYFEMc6xpel-E8wWXPSZlSeSLIHLRkxcgj-XxdItkZjBJSg7CW26jOr0gtstF5MjAeAumhISRoOJatq0Bss2rNv4f35PVZcwrrxlvhXqBwjtqCt6mL06qZJJZWFNTmLdCBkuL74UCB3O8rN1mC2UOulCvFIs37CyUl9v00zx1OD/s1600/android-firmware.jpg"
+  },
+  {
     "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
     "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
     "summary": "Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as S…",
@@ -8,7 +19,7 @@
     "timeAgo": "Tue, 17 Feb 2026 18:12:00 +0530",
     "timestamp": 1771332120.0,
     "isoDate": "2026-02-17T12:42:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf-aCPeJyWMmZFMBCN1oNlo2CYXDsURMrqEjTyJTi0CnWzuOFBZBeDWwvDx-jvdC42-9Doi4LEw0e3URAcR99JHpI6GsvmbK6Qghq5VG_rTpx9vL5k4Cm96Uvm9iodlXhRV7PzIyTX5MXfcRzFFzNJ2my5DS4lFnHgvpMnsIOsKCwY1PKBHdXW_ecf3a3P/s1600/mpc-server.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTqbI3s_iPxMUClWM1mAlNmZ1XoIGvcr_s7qE8slqSkSFCyPIU50Ml0XsqsxGAnsMt1Ys4v9Z2MYWapLXIB9bvkvXw7pPt8NvS05UotSaichBUZjw-WaoUwIlUCMjk1elkTOAFdwFfZyNCufWdiNoL2CmhbuW79HpBxWDELf1mqDC6ZA3BShpMK8C8sUbL/s1600/mcp-hack.jpg"
   },
   {
     "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
@@ -317,16 +328,5 @@
     "timestamp": 1770805320.0,
     "isoDate": "2026-02-11T10:22:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXD1L5ieHEU_h9-eg9LNbLb5-NpNemZK7bZbgYQS5MAeiHtGT2NyiQWOda0XOYhmj3wH_C0Bh4Nk8OzsXqAFaTCsja2EuPd_6t-V2R5PZjtwUQ2-74OWfUJKrJbRLy5n5qwchKcwcZ2Ns8DzYM_bE04nY9l3ntTbUXDi6OYxWO9EZmf8Ibv9YNBhUv6ejv/s1600/windows-updates.jpg"
-  },
-  {
-    "title": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits",
-    "link": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new botnet operation called SSHStalker that relies on the Internet Relay Chat (IRC) communication protocol for command-and-control (C2) purposes. \"The toolset blends stealth helpers with…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 11 Feb 2026 15:26:00 +0530",
-    "timestamp": 1770803760.0,
-    "isoDate": "2026-02-11T09:56:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWksXdbZ0O2Uys7zlFHh363x_928N5gROvDQuqYlRb952YgIX5wXoIOhRZy6ZBS0Lswnax_SfsXm77mjIojyvIYLn8PQID-pGysGygXRuDj4MPbLlxHnwjVJ48IeW0Yf4K0Yw8mwxXkmFjYF3JnLoms3GbRYZbjWX28y2FuV2xyLFTaDM1NgQafp_j1uS/s1600/linux-botnet.jpg"
   }
 ]
