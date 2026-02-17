@@ -1,5 +1,27 @@
 [
   {
+    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+    "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+    "summary": "Cloud attacks move fast — faster than most incident response teams. In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compro…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Feb 2026 00:38:00 +0530",
+    "timestamp": 1771355280.0,
+    "isoDate": "2026-02-17T19:08:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4miUFC2VRtb2QbEjK8NcEvIZXEvwWMtG-FJdc87p3-LqV7rxBsXHJh3WTgqy8xKUtOJ30qlqn7LP3FjAEQpEQRbi_XxDS9r9te8ipkxyFO9Xeo9Eems4WSEcpLEzD4j9IVCGl_74w6uvOrA8_eC-rpbE7A9D_kqsGogEgqqKxR8mV1pNSlzfnIZKFMBZ/s1600/cloud-forensics-webinar.jpg"
+  },
+  {
+    "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+    "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+    "summary": "Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Feb 2026 23:38:00 +0530",
+    "timestamp": 1771351680.0,
+    "isoDate": "2026-02-17T18:08:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYX37QWNtfn6KjpvO-G2qEj3m_ARN3yOl6MgQKaMMAAAw_EUE2o_zASrY9uGyYZhUXJbSY6n3nmo-hXvpBHnG7LL6Qm4KJi0GUv8eoRlSSqLQAQVU_pbSp6FzsJTrcNVdZef3J4L9HrK-kwm5oiT7_Hx6Perm-y-P0saLA9gsmp16shesbIqeBsG-WD6Z/s1600/grok-ai.jpg"
+  },
+  {
     "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
     "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
     "summary": "A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky. The Russian cybersecurity vendor said it discovered the backdoor, du…",
@@ -20,17 +42,6 @@
     "timestamp": 1771332120.0,
     "isoDate": "2026-02-17T12:42:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTqbI3s_iPxMUClWM1mAlNmZ1XoIGvcr_s7qE8slqSkSFCyPIU50Ml0XsqsxGAnsMt1Ys4v9Z2MYWapLXIB9bvkvXw7pPt8NvS05UotSaichBUZjw-WaoUwIlUCMjk1elkTOAFdwFfZyNCufWdiNoL2CmhbuW79HpBxWDELf1mqDC6ZA3BShpMK8C8sUbL/s1600/mcp-hack.jpg"
-  },
-  {
-    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-    "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-    "summary": "Cloud attacks move fast — faster than most incident response teams. In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compro…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Feb 2026 17:29:00 +0530",
-    "timestamp": 1771329540.0,
-    "isoDate": "2026-02-17T11:59:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4miUFC2VRtb2QbEjK8NcEvIZXEvwWMtG-FJdc87p3-LqV7rxBsXHJh3WTgqy8xKUtOJ30qlqn7LP3FjAEQpEQRbi_XxDS9r9te8ipkxyFO9Xeo9Eems4WSEcpLEzD4j9IVCGl_74w6uvOrA8_eC-rpbE7A9D_kqsGogEgqqKxR8mV1pNSlzfnIZKFMBZ/s1600/cloud-forensics-webinar.jpg"
   },
   {
     "title": "My Day Getting My Hands Dirty with an NDR System",
@@ -317,16 +328,5 @@
     "timestamp": 1770809400.0,
     "isoDate": "2026-02-11T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQeF3lExyDyGEAtnZylF2A30qkeG6Yoa-GxL_guF46TWzDUEyX7jg-j-PSO7VwdSUlFIalEmV2nCGE4KyntCePcUgW6qEBX6Mmj3rOpo5iTEqIjkQYd0YdeEOWjnpg5AWhfK0jO0wDksHchtMgjF8pq-lwcO-eHoyw2EqAGGqc48_UZRQsZ2R4ZxFG0bc/s1600/pentera.jpg"
-  },
-  {
-    "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
-    "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html",
-    "summary": "Microsoft on Tuesday released security updates to address a set of 59 flaws across its software, including six vulnerabilities that it said have been exploited in the wild. Of the 59 flaws, five are rated Critical, 52 are rated Important, a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 11 Feb 2026 15:52:00 +0530",
-    "timestamp": 1770805320.0,
-    "isoDate": "2026-02-11T10:22:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXD1L5ieHEU_h9-eg9LNbLb5-NpNemZK7bZbgYQS5MAeiHtGT2NyiQWOda0XOYhmj3wH_C0Bh4Nk8OzsXqAFaTCsja2EuPd_6t-V2R5PZjtwUQ2-74OWfUJKrJbRLy5n5qwchKcwcZ2Ns8DzYM_bE04nY9l3ntTbUXDi6OYxWO9EZmf8Ibv9YNBhUv6ejv/s1600/windows-updates.jpg"
   }
 ]
