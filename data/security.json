@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
+    "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
+    "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine p…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Feb 2026 15:01:00 +0530",
+    "timestamp": 1771320660.0,
+    "isoDate": "2026-02-17T09:31:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh0FV5y7nlXl9cJspXtL5CZNMf2-ftHbx-kv0fjJ54M7A5FWTCUgzmscihQebjqcp3c9VXNPK784ZocV5_sG_5eizK2Kp1FeCbVvKuOlpi0vVOMUCUiSUCkdMpU8UWuworyKKXQLL0NAqkoFlBCnjxyB4UsLsEOqRx0hJzXZcWs998ANw_dyKyeip3I6ah/s1600/thn.jpg"
+  },
+  {
     "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
     "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html",
     "summary": "Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages. The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is…",
@@ -317,16 +328,5 @@
     "timestamp": 1770734160.0,
     "isoDate": "2026-02-10T14:36:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqTeSYoXhnTy-zKDDdC_mNC4M0z32QT7sAvTipDACRrlUcGRFE2rWJ3wGacGPtT8n9evbDa7H2cL0GRj8ABmUgdMvaS9UBi8fhZMkvoXV8BhfCGYeCMvmReDOgrTzB6hVf0dEZ6V_cA9wDhkwzDFdqhBtMOtibNJsge2YkohfspG3Z-y45_ysTjatb2M6F/s1600/edr.jpg"
-  },
-  {
-    "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
-    "link": "https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html",
-    "summary": "Are ransomware and encryption still the defining signals of modern cyberattacks, or has the industry been too fixated on noise while missing a more dangerous shift happening quietly all around them? According to Picus Labs’ new Red Report 2…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Feb 2026 19:29:00 +0530",
-    "timestamp": 1770731940.0,
-    "isoDate": "2026-02-10T13:59:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQoj8tRn4h4a-02GeyaLk1WyJz3XGX4AjYVezcSfqmsaz0v-9DZj6F1Tb6v7cAv7QaxHfnrZQtSZoOa1R5dwFLyNNhY369Lni0PKU-tfPndW0No6o9_wBUCLZpKVFdD762JQuhWRqmcLua6DqCBXbsvtVjtnIF7J_3JOL3h_7zl8nDP1qhv-C5H4Gqs1Y/s1600/picus.jpg"
   }
 ]
