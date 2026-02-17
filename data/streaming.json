@@ -1,5 +1,16 @@
 [
   {
+    "title": "TV 2 Norway scales to support 20,000 live sports streams with AWS",
+    "link": "https://aws.amazon.com/blogs/media/tv-2-norway-scales-to-support-20000-live-sports-streams-with-aws/",
+    "summary": "Live sports production and delivery have changed tremendously in the past decade, backed by cloud and streaming advancements making it more accessible to a broader range of organizations. TV 2 Norway has helped pioneer this incredible trans…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 16 Feb 2026 23:16:33 +0000",
+    "timestamp": 1771283793.0,
+    "isoDate": "2026-02-16T23:16:33+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/13/T2-arena.png"
+  },
+  {
     "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
     "link": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
     "summary": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
@@ -427,16 +438,5 @@
     "timestamp": 1760510083.0,
     "isoDate": "2025-10-15T06:34:43+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/09/22/WBDDA-Image-1.png"
-  },
-  {
-    "title": "Build an intelligent video streaming monitoring solution with CMCD and MCP",
-    "link": "https://aws.amazon.com/blogs/media/build-an-intelligent-video-streaming-monitoring-solution-with-cmcd-and-mcp/",
-    "summary": "Are you struggling to diagnose video streaming issues across your content delivery network (CDN)? Video streaming operators often spend hours analyzing complex log data to identify and resolve playback problems that impact the user experien…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 10 Oct 2025 20:40:09 +0000",
-    "timestamp": 1760128809.0,
-    "isoDate": "2025-10-10T20:40:09+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/10/03/CMCD-Image-1.jpg"
   }
 ]
