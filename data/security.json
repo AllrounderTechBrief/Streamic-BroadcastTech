@@ -1,5 +1,38 @@
 [
   {
+    "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
+    "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as S…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Feb 2026 18:12:00 +0530",
+    "timestamp": 1771332120.0,
+    "isoDate": "2026-02-17T12:42:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf-aCPeJyWMmZFMBCN1oNlo2CYXDsURMrqEjTyJTi0CnWzuOFBZBeDWwvDx-jvdC42-9Doi4LEw0e3URAcR99JHpI6GsvmbK6Qghq5VG_rTpx9vL5k4Cm96Uvm9iodlXhRV7PzIyTX5MXfcRzFFzNJ2my5DS4lFnHgvpMnsIOsKCwY1PKBHdXW_ecf3a3P/s1600/mpc-server.jpg"
+  },
+  {
+    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+    "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+    "summary": "Cloud attacks move fast — faster than most incident response teams. In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compro…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Feb 2026 17:29:00 +0530",
+    "timestamp": 1771329540.0,
+    "isoDate": "2026-02-17T11:59:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4miUFC2VRtb2QbEjK8NcEvIZXEvwWMtG-FJdc87p3-LqV7rxBsXHJh3WTgqy8xKUtOJ30qlqn7LP3FjAEQpEQRbi_XxDS9r9te8ipkxyFO9Xeo9Eems4WSEcpLEzD4j9IVCGl_74w6uvOrA8_eC-rpbE7A9D_kqsGogEgqqKxR8mV1pNSlzfnIZKFMBZ/s1600/cloud-forensics-webinar.jpg"
+  },
+  {
+    "title": "My Day Getting My Hands Dirty with an NDR System",
+    "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+    "summary": "My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now? My objec…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Feb 2026 17:00:00 +0530",
+    "timestamp": 1771327800.0,
+    "isoDate": "2026-02-17T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNtu8YGAogyismJs9M9YdnRhGbjScyVHZkNmeiwAafRQFLjFy4FzEajb_1HcQsiPSO6jEbkgBNdsxL3lrRaK05f8qY32TIUmkz67ue-LShVtui5dKxwGG78GPwvvM7hdftNkCd0KsVfNPapBB9DD7qvZgwSRYtC84kIzPOFUBreckXSDXHkXhGsA1ju-A/s1600/corelight.jpg"
+  },
+  {
     "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
     "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
     "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine p…",
@@ -295,38 +328,5 @@
     "timestamp": 1770803760.0,
     "isoDate": "2026-02-11T09:56:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWksXdbZ0O2Uys7zlFHh363x_928N5gROvDQuqYlRb952YgIX5wXoIOhRZy6ZBS0Lswnax_SfsXm77mjIojyvIYLn8PQID-pGysGygXRuDj4MPbLlxHnwjVJ48IeW0Yf4K0Yw8mwxXkmFjYF3JnLoms3GbRYZbjWX28y2FuV2xyLFTaDM1NgQafp_j1uS/s1600/linux-botnet.jpg"
-  },
-  {
-    "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
-    "link": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html",
-    "summary": "The North Korea-linked threat actor known as UNC1069 has been observed targeting the cryptocurrency sector to steal sensitive data from Windows and macOS systems with the ultimate goal of facilitating financial theft. \"The intrusion relied …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 11 Feb 2026 12:20:00 +0530",
-    "timestamp": 1770792600.0,
-    "isoDate": "2026-02-11T06:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1AmCdVPjXcdbUKaHP1fGGR1tT5hO6LUKR9OuPot9_CKjgucWXED-ta6q76tazonthjXXE6rpHZNiNbWi_V5XKJwfUX8Pqhciop7XuyOnQMnKMRTY1L3dp8ba1n4vkhi1W7MH1ZPKA1nnGxGCrBjjvBbjoHVCgRHgyamF5b_V_p276-aJ9_w6nR3f-qiNQ/s1600/crypto.jpg"
-  },
-  {
-    "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
-    "link": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html",
-    "summary": "The information technology (IT) workers associated with the Democratic People's Republic of Korea (DPRK) are now applying to remote positions using real LinkedIn accounts of individuals they're impersonating, marking a new escalation of the…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Feb 2026 23:14:00 +0530",
-    "timestamp": 1770745440.0,
-    "isoDate": "2026-02-10T17:44:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjscdCXMOfFpYO0PkKXPhVwQXvjc7RNeTs0Wc79qPF6svrIVTW9mUaMX1qvJkDnuX7vpqcjjQoB6QRgA26lBjbjdTn12UPEOSHoWL0GTWWjsjdj1YsaGu3KpqZrfr-uFu21KDDlY3-mL8RfUzOaOjt_8wWFWB0yYAlscPY18sDhngfWTg_xsF2Wz7QEqfuj/s1600/northkorean.jpg"
-  },
-  {
-    "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
-    "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html",
-    "summary": "Cybersecurity researchers have disclosed details of an emergent ransomware family dubbed Reynolds that comes embedded with a built-in bring your own vulnerable driver (BYOVD) component for defense evasion purposes within the ransomware payl…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Feb 2026 20:06:00 +0530",
-    "timestamp": 1770734160.0,
-    "isoDate": "2026-02-10T14:36:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqTeSYoXhnTy-zKDDdC_mNC4M0z32QT7sAvTipDACRrlUcGRFE2rWJ3wGacGPtT8n9evbDa7H2cL0GRj8ABmUgdMvaS9UBi8fhZMkvoXV8BhfCGYeCMvmReDOgrTzB6hVf0dEZ6V_cA9wDhkwzDFdqhBtMOtibNJsge2YkohfspG3Z-y45_ysTjatb2M6F/s1600/edr.jpg"
   }
 ]
