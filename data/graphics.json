@@ -11,9 +11,20 @@
     "imageUrl": ""
   },
   {
+    "title": "Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer",
+    "link": "https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/",
+    "summary": "The CSDA Program added three digital elevation and digital terrain products from Vantor’s Precision3D Product Line to the Satellite Data Explorer.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 18 Feb 2026 21:05:58 +0000",
+    "timestamp": 1771448758.0,
+    "isoDate": "2026-02-18T21:05:58+00:00",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/02/peoria-vantor-dsm.jpg?w=859"
+  },
+  {
     "title": "Vantor Archive Imagery Added to Satellite Data Explorer",
     "link": "https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/",
-    "summary": "NASA’s Commercial Satellite Data Acquisition (CSDA) Program announces the addition of imagery from Vantor to its Satellite Data Explorer (SDX) data access and discovery tool.",
+    "summary": "The CSDA Program has added imagery from Vantor to its Satellite Data Explorer (SDX) data access and discovery tool.",
     "source": "NASA",
     "category": "graphics",
     "timeAgo": "Wed, 18 Feb 2026 20:54:31 +0000",
@@ -46,7 +57,7 @@
   {
     "title": "CSDA Program Announces Eight New Data Agreements",
     "link": "https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/",
-    "summary": "NASA’s Commercial Satellite Data Acquisition (CSDA) Program announced eight new agreements with seven of its commercial partners to give users more access to near‑global multispectral and synthetic aperture radar data.",
+    "summary": "The CSDA Program announced eight new agreements that will give users more access to multispectral and synthetic aperture radar data.",
     "source": "NASA",
     "category": "graphics",
     "timeAgo": "Wed, 18 Feb 2026 20:23:53 +0000",
@@ -185,17 +196,6 @@
     "timestamp": 1771442447.0,
     "isoDate": "2026-02-18T19:20:47+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/engineering/nircam1.jpg?w=720&h=653&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "The Gestation of the Hubble",
-    "link": "https://science.nasa.gov/missions/explorer/the-gestation-of-the-hubble/",
-    "summary": "By Nancy Grace Roman Looking through the atmosphere is like looking through a piece of old stained glass. The glass has defects that distort the image. The atmosphere also has defects that distort the image, but the defects in the atmospher…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 18 Feb 2026 19:19:57 +0000",
-    "timestamp": 1771442397.0,
-    "isoDate": "2026-02-18T19:19:57+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/hubble.jpg?w=640&h=350&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Exasperated Colbert Reveals Tensions With CBS Legal Team",
