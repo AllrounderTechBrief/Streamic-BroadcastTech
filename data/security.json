@@ -1,5 +1,27 @@
 [
   {
+    "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
+    "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
+    "summary": "New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident's phone, making it the latest case of abuse …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Feb 2026 23:00:00 +0530",
+    "timestamp": 1771435800.0,
+    "isoDate": "2026-02-18T17:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKg1ustDlFg4Z8PIFRlPPO6LEfnuCsAZRD59FSKmiMZuhKtTrL6mOL43EJt1_iczcPYcYlwaEqf8xNFE6suEy3qtcXhv3vBAizeuenRGoan22ouXKyetDLoHME-y3wr0vKLr0OFAPkOuEjVjhokDssNgQpXnvauTbjQvDo2p31Cwv7s0qmr7pMG-ajXSY/s1600/sam.jpg"
+  },
+  {
+    "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
+    "summary": "Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to seize control of susceptible devices. The vulnerability, tracked as CVE-2026-2329, carries a …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Feb 2026 22:05:00 +0530",
+    "timestamp": 1771432500.0,
+    "isoDate": "2026-02-18T16:35:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJkDWw2o7gwfV4NseVpa6WnSALfRD1COOQfDjRYsORg5EN_NXyMNj43q0uSXkGZbgNC6kUJx-suEri4OMmg1v9UULThdAImIdK04DyIkj4iabnRcDqfl2bUXFWz-nsGeR7y8W0YC1ykqt3VauFhW7saH9iblk6kA8KTEKcG74A4fPWPf9BAmH4ifiiu2Hv/s1600/root.jpg"
+  },
+  {
     "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
     "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
     "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code re…",
@@ -112,7 +134,7 @@
   {
     "title": "My Day Getting My Hands Dirty with an NDR System",
     "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
-    "summary": "My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now? My objec…",
+    "summary": "My objective As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (NDR) system. My goal was to understand how NDR is used in hunting and incident re…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Tue, 17 Feb 2026 17:00:00 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1770915300.0,
     "isoDate": "2026-02-12T16:55:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48-Bb1617Je211tmVOc4BKdYLJjIst0IBibAqJyCaHUi1ZpHQd0EW_idmBrAbIlMm8fDx9yciZ0HiC4WdvabpudTHGJsa_5sOEfHf6idS0Lwv86Zk3Bb9tVvyQJrJ5d0PkByBASbHpjWr5hLU5aWWBeUH3pjMyPhEZtE5WxbpQNRbzhWTSUSSCFGwg1mU/s1600/nkorea-hacker-code.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
-    "summary": "Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked e…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Feb 2026 17:21:00 +0530",
-    "timestamp": 1770897060.0,
-    "isoDate": "2026-02-12T11:51:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Nc_7NCkh6b_GnhFP3euTAuace33F0nRMsZfDoe-xx5pN0Wm5kDPdUQhqxqfMIs_Y7MgXIBUAqAeRIk8lwfY8CsOqC27RxU9MH03DMNRpt56mJGU_okNrnEwdqFkaApUrObEBFmDnCHQXXJe_VdkUMbMXsa356WODvfsU4FPvciKR2CcIpNAHsrWGSe0a/s1600/threatsday-main-1.jpg"
-  },
-  {
-    "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
-    "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
-    "summary": "A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a sing…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Feb 2026 16:00:00 +0530",
-    "timestamp": 1770892200.0,
-    "isoDate": "2026-02-12T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Y-YsMsEZEaAST2HjBLPOIzmYNnp_eVs86gMuTbqJbVwF158EvQL9q9rL1a70OEUBIjCdDVnxDplv4zCXMSdqauKR-t_qENqr8G3yNCXQH5Mbq8H4CsPD2vLXMBq3iwoInmaKtvKbGs-TC0SiL0q1-4VoWxGpl7CTarAuQNInAaRieusoULkPAKgTU5g/s1600/ctem.jpg"
   }
 ]
