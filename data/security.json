@@ -1,5 +1,16 @@
 [
   {
+    "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
+    "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Feb 2026 12:22:00 +0530",
+    "timestamp": 1771397520.0,
+    "isoDate": "2026-02-18T06:52:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMthhoYB21iUycGm4t9Z8XBCzBHeEBnyGAy0VYV_szV8cL19wb2nn0OSqFBl35b7viP2cIkWdNIULp3eZHNPXMAjdyL67hvTY7wlYizhDDysYKzSinMqCJrh44qfrrdTmfT3Dx9H_gJlFayVV0NoDAP_JSPHDLo0WQjM4d7AGdA-wo8mf1vmoZIPrjBZQY/s1600/cisa-kev.jpg"
+  },
+  {
     "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
     "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
     "summary": "Cloud attacks move fast — faster than most incident response teams. In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compro…",
@@ -317,16 +328,5 @@
     "timestamp": 1770816480.0,
     "isoDate": "2026-02-11T13:28:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn9BjSz22uW2NPDNZhkDs7Ygjb5lTP5jFhXbGlk3oBRgpncWsp6pu42-c0T7TXDPviwihS5GuwedI6ULAmI6Zp8NKWOMzS-wJlSjVkd02cB6rM0uLbi-ZU1oxKsSQIpesNLkaA13EDcht62GZgjQbG2nffYeQPhXOWJHUBKhRwKm4s_-_ukeKZuno8I7Iv/s1600/patches.jpg"
-  },
-  {
-    "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
-    "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
-    "summary": "Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are designed to be insecure by default, making th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 11 Feb 2026 17:00:00 +0530",
-    "timestamp": 1770809400.0,
-    "isoDate": "2026-02-11T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQeF3lExyDyGEAtnZylF2A30qkeG6Yoa-GxL_guF46TWzDUEyX7jg-j-PSO7VwdSUlFIalEmV2nCGE4KyntCePcUgW6qEBX6Mmj3rOpo5iTEqIjkQYd0YdeEOWjnpg5AWhfK0jO0wDksHchtMgjF8pq-lwcO-eHoyw2EqAGGqc48_UZRQsZ2R4ZxFG0bc/s1600/pentera.jpg"
   }
 ]
