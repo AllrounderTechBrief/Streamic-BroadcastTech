@@ -1,5 +1,16 @@
 [
   {
+    "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
+    "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
+    "summary": "Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest. The version 8.9.2 update incorporat…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Feb 2026 13:10:00 +0530",
+    "timestamp": 1771400400.0,
+    "isoDate": "2026-02-18T07:40:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnUIBjnkM8vDKW8rzCxxcgMWr_JOn1xaK8xH5xku5lsBeo469b7FGGw1ISjQqGlqBx03FN5hUMlphyphenhyphenlnMu5K5WMCwX7kEWwIh3TbnBzORYiVkrfK_hBYvxkeprBtiBeVAylAY7daVwaQtI6WKi_lzkTC1D9zBJ7NQ9F-PboFNdNtLjJvfR_EOdkcU0ats/s1600/notepad-hack.jpg"
+  },
+  {
     "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
     "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is a…",
@@ -317,16 +328,5 @@
     "timestamp": 1770821520.0,
     "isoDate": "2026-02-11T14:52:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbazpuuwU1rJbldu2fNhcDhnmgmpygU-Ci4lvjJXXo3TlmbV06oWZJ-FEJjMtQnkzg9-cBOt9h8aCA5d2EuO3gRaDlbzzc1w4cZRsdDUY1YwMTXv9f3ebp4CrZ-0jIar70HO_pyuhzHdClzTo85wpHJF8wiabXv8ko9fxQbp5WFmWdVwvtqqAkh5mk2_hv/s1600/india.jpg"
-  },
-  {
-    "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
-    "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html",
-    "summary": "It's Patch Tuesday, which means a number of software vendors have released patches for various security vulnerabilities impacting their products and services. Microsoft issued fixes for 59 flaws, including six actively exploited zero-days i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 11 Feb 2026 18:58:00 +0530",
-    "timestamp": 1770816480.0,
-    "isoDate": "2026-02-11T13:28:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn9BjSz22uW2NPDNZhkDs7Ygjb5lTP5jFhXbGlk3oBRgpncWsp6pu42-c0T7TXDPviwihS5GuwedI6ULAmI6Zp8NKWOMzS-wJlSjVkd02cB6rM0uLbi-ZU1oxKsSQIpesNLkaA13EDcht62GZgjQbG2nffYeQPhXOWJHUBKhRwKm4s_-_ukeKZuno8I7Iv/s1600/patches.jpg"
   }
 ]
