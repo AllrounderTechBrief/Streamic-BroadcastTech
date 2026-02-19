@@ -1,5 +1,27 @@
 [
   {
+    "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
+    "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft. The malware, according to ThreatFabric, masquerades as seemingly harmles…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Feb 2026 15:54:00 +0530",
+    "timestamp": 1771496640.0,
+    "isoDate": "2026-02-19T10:24:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj67LPvqhfl_NCfP1wUAUN8p7ISQ_x3wCwavSYjJJkMl9jkcDnk0gP2Om7d1O0UqaQnwqeU4GzTfpLxUok2ei5tiNhArCqldBzaS6yzNe_mudDAbzllZcD1BA0FOfbn1LQRSiK36eB69u4hfK_Pa0XA0eZti_KN8Q43d_k1xRmp_LQCW6gA9ZWNvdrBx_py/s1600/android-banking.jpg"
+  },
+  {
+    "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
+    "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage. The Acronis Threat Research Unit (TRU) s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Feb 2026 13:43:00 +0530",
+    "timestamp": 1771488780.0,
+    "isoDate": "2026-02-19T08:13:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFD_PtNViVDHZuayLVtVYwd7N2scLLqDjTvVq8WGWrnvOCZ7tt92yiynt44EBuHUv2Y4b-sujz_BlBBx2Vl9af8ZzAXzTJH2UzFpsqC5KyxWWvB6FD-Ini78yxU9MsffuVeYsU2wQQCP5mTPs7xlI73PBSZ3RYj1RUMbjxfH06NhmoNjHkpapxBNwyEMrI/s1600/protest.jpg"
+  },
+  {
     "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
     "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
     "summary": "New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident's phone, making it the latest case of abuse …",
@@ -306,27 +328,5 @@
     "timestamp": 1770971640.0,
     "isoDate": "2026-02-13T08:34:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZHJd8VBVRuvpR0hMimwS1UYAG3EGKxE8Hu0P_euvkATyd3AmpT5SHvzwvwsAw6CpYuSfSPevYl9xub_RLkKB7hW8W8LBSG5Q-MmyV0QpOhi6BrqwlFgkQWylECioAlH1mcW5W2ChldLxlgHXVrEWeaaY25jhnAbLWzgeRXVLfhdXMLFlt7jC_fmh6E7Si/s1600/beyond.jpg"
-  },
-  {
-    "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
-    "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
-    "summary": "Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponiz…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Feb 2026 23:27:00 +0530",
-    "timestamp": 1770919020.0,
-    "isoDate": "2026-02-12T17:57:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH-X2QIhuzxjBzIZ8BlpGUbA-K-Wr-eqGI4bYJD_BMYP8z3FHI65tVA3Oe5vVANpMVHx1f6f3i0sKT-yjmYq9SmCkixMEQVbhRn2PjPEaYnauJYX_wi0i-3phvUCBWW4IQ2KI9o417JKW6h9z5coqLQAiEUCZSk_Bq5nEAqPqSEpVPH2Q46JQU4RTBuNcf/s1600/google-ai.jpg"
-  },
-  {
-    "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
-    "link": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
-    "summary": "Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake recruitment-themed campaign orchestrated by the North Korea-linked Lazarus Group. The coo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Feb 2026 22:25:00 +0530",
-    "timestamp": 1770915300.0,
-    "isoDate": "2026-02-12T16:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48-Bb1617Je211tmVOc4BKdYLJjIst0IBibAqJyCaHUi1ZpHQd0EW_idmBrAbIlMm8fDx9yciZ0HiC4WdvabpudTHGJsa_5sOEfHf6idS0Lwv86Zk3Bb9tVvyQJrJ5d0PkByBASbHpjWr5hLU5aWWBeUH3pjMyPhEZtE5WxbpQNRbzhWTSUSSCFGwg1mU/s1600/nkorea-hacker-code.jpg"
   }
 ]
