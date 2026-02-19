@@ -1,5 +1,38 @@
 [
   {
+    "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
+    "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
+    "summary": "Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google's generative artificial intelligence (AI) chatbot, as part of its execution flow and achieves persistence. The malware has been …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Feb 2026 23:22:00 +0530",
+    "timestamp": 1771523520.0,
+    "isoDate": "2026-02-19T17:52:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidDhkNjYF9Khe4u-ECtSVv3ezo7dUK80WV06lgCNtOdV51GuCKCMmxgdm10lbAhP7MRPVY7Pq5yMuiYPAJ0Opk2xPijnkjHOWfPqiD9oR6k56GqDX6l5IgjYa_9ZTnvxvN6KnazUB0LBZ3aZMOnVrtoodDr-Hx_JTTNjMyzm-u1alcCL6VXeqoeTl12jFE/s1600/android-ai.jpg"
+  },
+  {
+    "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
+    "link": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html",
+    "summary": "An international cybercrime operation against online scams has led to 651 arrests and recovered more than $4.3 million as part of an effort led by law enforcement agencies from 16 African countries. The initiative, codenamed Operation Red C…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Feb 2026 23:20:00 +0530",
+    "timestamp": 1771523400.0,
+    "isoDate": "2026-02-19T17:50:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhltf-8sYx4UcRPT_qBv92hmitOenRSgB2OctxYx4hdCPglcMJzeHR8Dmffrt5xjjtp0Tz2ur0wPSbvig7cnEyrdtJrOx8V4Z2sTGeR6eBlFwOO4pgPUISeLWGuMbUO4bnruvRWx-O6zYRUy_xw1F1CohPk2fZDkpM1YGXusO-8h8rgwQhLvZSlfp4ho5RJ/s1600/interpol.jpg"
+  },
+  {
+    "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center",
+    "link": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html",
+    "summary": "Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges. Windows Admin Center is a locally deployed, browser-based management tool set that lets users manage thei…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Feb 2026 23:10:00 +0530",
+    "timestamp": 1771522800.0,
+    "isoDate": "2026-02-19T17:40:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTYrWKU78qUjsLRxRje4c7MEejHM-e4bg7D2mFbFEomGbCI39Um78JNkCJKcjrcH2FYinO-dVUiV0_rB60jmErrc4lyMkYOK-qIX3HnYCFJ8aWfFwcnaZOHe_38JSgbLPnVqWrQaXhvbXmMCAaJpb6qnANjxjsqB3S4NM89kemycwHA8kDGlwrS-306oP8/s1600/windows-admin.jpg"
+  },
+  {
     "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
     "link": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html",
     "summary": "The cyber threat space doesn’t pause, and this week makes that clear. New risks, new tactics, and new security gaps are showing up across platforms, tools, and industries — often all at the same time. Some developments are headline-level. O…",
@@ -295,38 +328,5 @@
     "timestamp": 1771003620.0,
     "isoDate": "2026-02-13T17:27:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiesoKhsaUAZZj0bK1IJ7xmSmGHegLjyAfbLfxf6rngoAh3HKgRNVk_XxSGjwDPM-6nz_7bueRxN_icdflQ6bdwUptCiekeAMN67s-Ygdp6Ryk0S60X-gDQF_ZKADRxgLl7slbZKvHPSElrANxp23lKUwtselRObvGhmo_CMOqDXnF1B31y61LXkX6AB_fS/s1600/russian-hackers.jpg"
-  },
-  {
-    "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
-    "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
-    "summary": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Feb 2026 21:53:00 +0530",
-    "timestamp": 1770999780.0,
-    "isoDate": "2026-02-13T16:23:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTgbqgbztkZlUNEYQUOZixcqxUV-NpLNChacFNUwb2l5mdWsghckr5BS98pnTl2haLryjPeKX8tg0fvAmGcPjYfJIuD3EFaa-oWyEDf-FRqofQt0rBjACVqYXrUuTPLJa3gO-frhpoOgrnE9bxc2FKxoSx9bYOgxpQhrzj4Uh0DIGdyXkMRx18X008_v6m/s1600/google-attacks.jpg"
-  },
-  {
-    "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
-    "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
-    "summary": "A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos. \"Th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Feb 2026 20:53:00 +0530",
-    "timestamp": 1770996180.0,
-    "isoDate": "2026-02-13T15:23:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgixJrBY7kbFJ-Pj-CDd1ryd3ktnmh80-81Vc6MNVQ9PqO5RMGBsXR4G_Pr2sw1ev8C92hXckh1O_tC_B5apA8O9jCaE7THkDPmhqg5KiLM6vHT1kA73tXRxfRgWBKnARqQcqYekIqJUX0DV0zwqbNF9odwXvL6OERY6fdi0W92kPIMqiug7UbafCcUXQqQ/s1600/banks.jpg"
-  },
-  {
-    "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
-    "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
-    "summary": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager. The extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcn…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Feb 2026 16:55:00 +0530",
-    "timestamp": 1770981900.0,
-    "isoDate": "2026-02-13T11:25:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDcg8kBvyrdu22dNN8lKs3vJ_Nhk_nEuuZtq0Q-EcpvUKlRbXSHVssro3qio1_12lWV-dcFQ_O94jO4KAzh_mbdS0MKJ7REEcNSrPr5hon0iUNDcP91cFAqcNUl3EwPIVqhgOTss5ntc4x1BpfXldEBmCm1BzRNsPQMxqMsqTtNc6jZm4hN0vS3T9K3yj/s1600/chrome-hacks.jpg"
   }
 ]
