@@ -1,5 +1,27 @@
 [
   {
+    "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html",
+    "summary": "The cyber threat space doesn’t pause, and this week makes that clear. New risks, new tactics, and new security gaps are showing up across platforms, tools, and industries — often all at the same time. Some developments are headline-level. O…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Feb 2026 20:05:00 +0530",
+    "timestamp": 1771511700.0,
+    "isoDate": "2026-02-19T14:35:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDev4RfdUfQ-WwS6a7aV2qVZ6Ftgydw2v8Q-0QDbcmjjnfwjMGcDNG5xV_Za_CJ8nyVFFzuMHVZ5wpspAJV48qF6WLVKQ3UhDZEh7r5rJXkM8IekmUtu1Q_ZroATC7mX6ThW14oaVvTuhyPeRT5v4mJNuZX_ZLSuuAb3aZQYlHRrVKkBzLPb4phQuxN2YS/s1600/threatsday-feb.jpg"
+  },
+  {
+    "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
+    "link": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
+    "summary": "We’ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer generates a \"temporary\" API key for testing and forgets to revoke it. In the past, these we…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Feb 2026 17:25:00 +0530",
+    "timestamp": 1771502100.0,
+    "isoDate": "2026-02-19T11:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_HhBr5JTth2HIHXAOha965hOsCQC65r8Ph2nbqKuUKXq4ZCYCcNyQcJfsrTNt8GyE-Qj96if2MInfyDIiWtKneSPLGx9VKGYxawKZlRHoAJXkALwdHKymqdRy93dCBA1mBZSDSuWuTUtMZI7twCidZB0H2fVm5l3uFzs4OJVQNNMUtpwaVAtznoI2P80/s1600/xmcyber.jpg"
+  },
+  {
     "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
     "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
     "summary": "Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft. The malware, according to ThreatFabric, masquerades as seemingly harmles…",
@@ -306,27 +328,5 @@
     "timestamp": 1770981900.0,
     "isoDate": "2026-02-13T11:25:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDcg8kBvyrdu22dNN8lKs3vJ_Nhk_nEuuZtq0Q-EcpvUKlRbXSHVssro3qio1_12lWV-dcFQ_O94jO4KAzh_mbdS0MKJ7REEcNSrPr5hon0iUNDcP91cFAqcNUl3EwPIVqhgOTss5ntc4x1BpfXldEBmCm1BzRNsPQMxqMsqTtNc6jZm4hN0vS3T9K3yj/s1600/chrome-hacks.jpg"
-  },
-  {
-    "title": "npm’s Update to Harden Their Supply Chain, and Points to Consider",
-    "link": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
-    "summary": "In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from sup…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Feb 2026 16:15:00 +0530",
-    "timestamp": 1770979500.0,
-    "isoDate": "2026-02-13T10:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2f7TicFSKUe4LQJy82mhhepyMplbLHU-VNYpY_gxLvTILbFCviVqGKP4thBHnPvHWaw1EdFBuqDcDePYX1Z76KaB2j0pC8rWGM4eyu8tNLDcy0HChASJSx2zZufWVktAvzIR2yAJGDC0eIpVPV5u5OaAJsYohGS77dRTUcm_q3kl3D-N5hhCJ6XWxz-w/s1600/npm-security.jpg"
-  },
-  {
-    "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
-    "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
-    "summary": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr. \"Overnight we observed first in-the-wild exploi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Feb 2026 14:04:00 +0530",
-    "timestamp": 1770971640.0,
-    "isoDate": "2026-02-13T08:34:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZHJd8VBVRuvpR0hMimwS1UYAG3EGKxE8Hu0P_euvkATyd3AmpT5SHvzwvwsAw6CpYuSfSPevYl9xub_RLkKB7hW8W8LBSG5Q-MmyV0QpOhi6BrqwlFgkQWylECioAlH1mcW5W2ChldLxlgHXVrEWeaaY25jhnAbLWzgeRXVLfhdXMLFlt7jC_fmh6E7Si/s1600/beyond.jpg"
   }
 ]
