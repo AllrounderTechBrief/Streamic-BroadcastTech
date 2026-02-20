@@ -1,5 +1,16 @@
 [
   {
+    "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+    "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+    "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Feb 2026 21:15:00 +0530",
+    "timestamp": 1771602300.0,
+    "isoDate": "2026-02-20T15:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMKRB_5ww1tcCh0no0OxbE4Bhcg4nVEe4y-cHBLi03rhgJFM_8y6EatBQ_L00yCHRNRJmaiVq3fMGo2NUAjPLCbcXdWG2wqAG4qZtT0MAedKcFEiXHr_g2gRd0GuTc_wD8X5_Ss0Azn1YhZnEXO88hApw52GJI3_6hnJmf8aNueuEYFCLtdhaHBSg8i0a/s1600/bt-main.jpg"
+  },
+  {
     "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
     "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
     "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular …",
@@ -317,16 +328,5 @@
     "timestamp": 1771267380.0,
     "isoDate": "2026-02-16T18:43:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeWsmjwrJY11WFbrvqG71cU065qr7gt-yAQRQv18KoDqnPG5x-HWXkFR1wwAmGNT2ujE6p0mlp1VsqvuDBnEokfqkSFtQX0bVdqdOxiZMZ2WXmqqVc1wrPOdZQ8kFgssie0Cs-1dmmyA7_QZzMhMTM0hcFjbXZtrhoTCwJFupvEgmLEYInUaGST-dmzAOz/s1600/openclaw-hacked.jpg"
-  },
-  {
-    "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
-    "link": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
-    "summary": "A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions. \"The attacks range in severity from integrity violations …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 16 Feb 2026 23:36:00 +0530",
-    "timestamp": 1771265160.0,
-    "isoDate": "2026-02-16T18:06:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBPbskdafjFepjzUnEOcPNFvk1UceqE9lVwhurVxvrqJ3_1VhbKg-XcZjTrVpt2aqk_uv6Sodg9NMcoTvkVEeoAhNUU9X_0ltI9oHpnTIA-a28iDGnudnxJklcADpfz5llcUEStKI7Nt7IjW3vhA_DyO7rKG03dgj8KTFfrpxamTqy7xEciFwLzeS-lXEb/s1600/password-managers.jpg"
   }
 ]

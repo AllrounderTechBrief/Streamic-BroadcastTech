@@ -1,5 +1,16 @@
 [
   {
+    "title": "qibb and AWS redefine media workflows",
+    "link": "https://aws.amazon.com/blogs/media/qibb-and-aws-redefine-media-workflows/",
+    "summary": "Today, media companies (such as broadcasters, streaming platforms, news and sports media outlets, and major film and television studios) face an increasingly complex content landscape. Under pressure to create more content with fewer resour…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 20 Feb 2026 16:26:49 +0000",
+    "timestamp": 1771604809.0,
+    "isoDate": "2026-02-20T16:26:49+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/17/FIGURE-1_quib-blog.png"
+  },
+  {
     "title": "Code Mode: give agents an entire API in 1,000 tokens",
     "link": "https://blog.cloudflare.com/code-mode-mcp/",
     "summary": "The Cloudflare API has over 2,500 endpoints. Exposing each one as an MCP tool would consume over 2 million tokens. With Code Mode, we collapsed all of it into two tools and roughly 1,000 tokens of context.",
@@ -427,16 +438,5 @@
     "timestamp": 1761148355.0,
     "isoDate": "2025-10-22T15:52:35+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/10/20/PBS-Metadata-for-Search-Fire-TV-and-mobile.jpg"
-  },
-  {
-    "title": "Warner Bros. Discovery Sports engages fans using scaled audio data analysis on AWS",
-    "link": "https://aws.amazon.com/blogs/media/warner-bros-discovery-sports-engages-fans-using-scaled-audio-data-analysis-on-aws/",
-    "summary": "This blog is co-authored by Steve Cockett, Sports Data Adviser – Tech, at Warner Bros. Discovery and Andrea Fanfani, Principal Product Manager – Tech, at Warner Bros. Discovery. Feed latency and marker accuracy are two critical challenges i…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 15 Oct 2025 06:34:43 +0000",
-    "timestamp": 1760510083.0,
-    "isoDate": "2025-10-15T06:34:43+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/09/22/WBDDA-Image-1.png"
   }
 ]
