@@ -1,5 +1,16 @@
 [
   {
+    "title": "Scale global live reach with AWS powered real-time WebVTT multilingual subtitling",
+    "link": "https://aws.amazon.com/blogs/media/scale-global-live-reach-with-aws-powered-real-time-webvtt-multilingual-subtitling/",
+    "summary": "Live streaming now reaches audiences across continents in real time, but language barriers still limit how many people can engage with this content. Traditional subtitle generation methods, which rely on manual translation services or prere…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 20 Feb 2026 21:55:17 +0000",
+    "timestamp": 1771624517.0,
+    "isoDate": "2026-02-20T21:55:17+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/18/Figure1_webvtt.jpg"
+  },
+  {
     "title": "qibb and AWS redefine media workflows",
     "link": "https://aws.amazon.com/blogs/media/qibb-and-aws-redefine-media-workflows/",
     "summary": "Today, media companies (such as broadcasters, streaming platforms, news and sports media outlets, and major film and television studios) face an increasingly complex content landscape. Under pressure to create more content with fewer resour…",
@@ -427,16 +438,5 @@
     "timestamp": 1761240894.0,
     "isoDate": "2025-10-23T17:34:54+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/10/14/AQ-Image-1.png"
-  },
-  {
-    "title": "PBS enhances search on digital platforms using Amazon Bedrock",
-    "link": "https://aws.amazon.com/blogs/media/pbs-enhances-search-on-digital-platforms-using-amazon-bedrock/",
-    "summary": "Generative AI is transforming how audiences discover and consume content across streaming platforms, unlocking more personalized viewing experiences. The Public Broadcasting Service (PBS), the beloved network behind popular US programs like…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 22 Oct 2025 15:52:35 +0000",
-    "timestamp": 1761148355.0,
-    "isoDate": "2025-10-22T15:52:35+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/10/20/PBS-Metadata-for-Search-Fire-TV-and-mobile.jpg"
   }
 ]
