@@ -1,5 +1,16 @@
 [
   {
+    "title": "Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
+    "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html",
+    "summary": "Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the information to unauthorized locations, includin…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Feb 2026 10:57:00 +0530",
+    "timestamp": 1771565220.0,
+    "isoDate": "2026-02-20T05:27:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjPkindvHhAkTNady5lI22zPkPfSqmVuaxvfEwnLVFvhSVUe_rhMjzTQ3c6sVpvLw_RB1YXtEPoqO1Uq1diOtZ3FC-oudy7x826CjtJE-Y0nxnJtvZBdXmOqfGgLwcJfGC3vN4xODBXTW_vSkg6oAVnVzUekFFe1YJaH5_YBDfAqG4W-tJOw3Oe1GXIL2/s1600/google-iran.jpg"
+  },
+  {
     "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
     "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
     "summary": "Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google's generative artificial intelligence (AI) chatbot, as part of its execution flow and achieves persistence. The malware has been …",
@@ -317,16 +328,5 @@
     "timestamp": 1771164600.0,
     "isoDate": "2026-02-15T14:10:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTITWEvp6Fk_BovXCLk1PaSAb0HJBzETmOcgn9ZPlY81ojfvKU3aoqM3BO_mtyqpL1idL2F1TY7e_3dAJiW6_DMDUAK5Q-zGKUnQvP1POiFDB_M0HwKiMQK2DuIihygT7Hpar1KtZ5KYCDISM2E98kRCBNxxt27oBWDX2hS0Qres6xc_0wFdaNbrxp92fj/s1600/dns.jpg"
-  },
-  {
-    "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
-    "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
-    "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL. Google Threat Intelligence Group (GTIG) described the hacking group as possibly affiliated with Russian i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Feb 2026 22:57:00 +0530",
-    "timestamp": 1771003620.0,
-    "isoDate": "2026-02-13T17:27:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiesoKhsaUAZZj0bK1IJ7xmSmGHegLjyAfbLfxf6rngoAh3HKgRNVk_XxSGjwDPM-6nz_7bueRxN_icdflQ6bdwUptCiekeAMN67s-Ygdp6Ryk0S60X-gDQF_ZKADRxgLl7slbZKvHPSElrANxp23lKUwtselRObvGhmo_CMOqDXnF1B31y61LXkX6AB_fS/s1600/russian-hackers.jpg"
   }
 ]
