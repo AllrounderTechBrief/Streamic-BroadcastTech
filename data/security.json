@@ -1,6 +1,17 @@
 [
   {
-    "title": "Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
+    "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
+    "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025. The agency said 1,900 ATM jackpotting incidents have been reported…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Feb 2026 13:35:00 +0530",
+    "timestamp": 1771574700.0,
+    "isoDate": "2026-02-20T08:05:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiXPVDmMVgDgvY95KLoB6_26_t5Kwrx7BSZ4ZReWQo8tfOw2DKA5juhnpWoX0DZNeATur1aceTliNyPR6QoBPIY_ur5fFBmVaJIv022Z_2v6s6AQQczflmpczLHtjFtSIAM63etJp9ClLbZkGD2ZIqWbSDu5XBQofkvD3bc1UpJTsbKo0NcvwCciTUkDGK/s1600/atm-hacking.jpg"
+  },
+  {
+    "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
     "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html",
     "summary": "Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the information to unauthorized locations, includin…",
     "source": "The Hacker News",
@@ -317,16 +328,5 @@
     "timestamp": 1771223880.0,
     "isoDate": "2026-02-16T06:38:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFT4HoaSQbeCeLfXBXoGeq1zFeqdug4-I0sb9l4cbhjD9-84AWZx3KdM0pprDWqB9U673WmwexIudqWWrT4Fg44evASMxLYfTdwK43jwJyaL667fZDdQBB2vsFWXqE2XH8pNLp1TzgWhPxsqm9FuNrpClWdtGZ81t1gzbmcTJXTmFYsK8tcOG84mqzOKgr/s1600/chrome-0day.jpg"
-  },
-  {
-    "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-    "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-    "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage pay…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 15 Feb 2026 19:40:00 +0530",
-    "timestamp": 1771164600.0,
-    "isoDate": "2026-02-15T14:10:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTITWEvp6Fk_BovXCLk1PaSAb0HJBzETmOcgn9ZPlY81ojfvKU3aoqM3BO_mtyqpL1idL2F1TY7e_3dAJiW6_DMDUAK5Q-zGKUnQvP1POiFDB_M0HwKiMQK2DuIihygT7Hpar1KtZ5KYCDISM2E98kRCBNxxt27oBWDX2hS0Qres6xc_0wFdaNbrxp92fj/s1600/dns.jpg"
   }
 ]
