@@ -1,5 +1,16 @@
 [
   {
+    "title": "Code Mode: give agents an entire API in 1,000 tokens",
+    "link": "https://blog.cloudflare.com/code-mode-mcp/",
+    "summary": "The Cloudflare API has over 2,500 endpoints. Exposing each one as an MCP tool would consume over 2 million tokens. With Code Mode, we collapsed all of it into two tools and roughly 1,000 tokens of context.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 20 Feb 2026 14:00:00 GMT",
+    "timestamp": 1771596000.0,
+    "isoDate": "2026-02-20T14:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7KqjQiI09KubtUSe9Dgf0N/6f37896084c7f34abca7dc36ab18d8e0/image2.png"
+  },
+  {
     "title": "TV 2 Norway scales to support 20,000 live sports streams with AWS",
     "link": "https://aws.amazon.com/blogs/media/tv-2-norway-scales-to-support-20000-live-sports-streams-with-aws/",
     "summary": "Live sports production and delivery have changed tremendously in the past decade, backed by cloud and streaming advancements making it more accessible to a broader range of organizations. TV 2 Norway has helped pioneer this incredible trans…",
@@ -295,17 +306,6 @@
     "timestamp": 1766152800.0,
     "isoDate": "2025-12-19T14:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/74JGtoTseoNdxz0xLIW4AK/55545650ab85002692ca9bb07ba6a2a9/image3.png"
-  },
-  {
-    "title": "Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL",
-    "link": "https://blog.cloudflare.com/r2-sql-aggregations/",
-    "summary": "Cloudflare’s R2 SQL, a distributed query engine, now supports aggregations. Explore how we built distributed GROUP BY execution, using scatter-gather and shuffling strategies to run analytics directly over your R2 Data Catalog.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 18 Dec 2025 14:00:00 GMT",
-    "timestamp": 1766066400.0,
-    "isoDate": "2025-12-18T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2Vh0x4qHkjOuQTrxSzkVKx/84c05ebf590cb4949b188f5856a4e951/image2.png"
   },
   {
     "title": "Accelerating creative workflows with the AWS Creative Innovation Hub in London",
