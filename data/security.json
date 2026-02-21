@@ -1,5 +1,16 @@
 [
   {
+    "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
+    "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
+    "summary": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries. That's according to n…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 21 Feb 2026 20:19:00 +0530",
+    "timestamp": 1771685340.0,
+    "isoDate": "2026-02-21T14:49:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJ0OGjlNTnrjpx23D3iKXHFeEEDiGO2GRCI-o4SmtGRuXcl5S4rAcjOqOBrfuI1g8E_pj6UQjQP-R2qfAsV08Oukshw6Inq8fUK83I9sLd3LwnPyWazzaQ3yUghSA3UL0j-BNz0tn2dCEQsG3MpACZKSXoKnM6nhyphenhyphenf727_4S_f3L8EU3fxDc332_6Swkm/s1600/FortiGate.jpg"
+  },
+  {
     "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
     "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
     "summary": "Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches. The capability, called Claude Code Security, is cu…",
@@ -317,16 +328,5 @@
     "timestamp": 1771332120.0,
     "isoDate": "2026-02-17T12:42:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTqbI3s_iPxMUClWM1mAlNmZ1XoIGvcr_s7qE8slqSkSFCyPIU50Ml0XsqsxGAnsMt1Ys4v9Z2MYWapLXIB9bvkvXw7pPt8NvS05UotSaichBUZjw-WaoUwIlUCMjk1elkTOAFdwFfZyNCufWdiNoL2CmhbuW79HpBxWDELf1mqDC6ZA3BShpMK8C8sUbL/s1600/mcp-hack.jpg"
-  },
-  {
-    "title": "My Day Getting My Hands Dirty with an NDR System",
-    "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
-    "summary": "My objective As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (NDR) system. My goal was to understand how NDR is used in hunting and incident re…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Feb 2026 17:00:00 +0530",
-    "timestamp": 1771327800.0,
-    "isoDate": "2026-02-17T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNtu8YGAogyismJs9M9YdnRhGbjScyVHZkNmeiwAafRQFLjFy4FzEajb_1HcQsiPSO6jEbkgBNdsxL3lrRaK05f8qY32TIUmkz67ue-LShVtui5dKxwGG78GPwvvM7hdftNkCd0KsVfNPapBB9DD7qvZgwSRYtC84kIzPOFUBreckXSDXHkXhGsA1ju-A/s1600/corelight.jpg"
   }
 ]
