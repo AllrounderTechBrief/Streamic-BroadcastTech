@@ -1,5 +1,38 @@
 [
   {
+    "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
+    "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
+    "summary": "Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches. The capability, called Claude Code Security, is cu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 21 Feb 2026 13:28:00 +0530",
+    "timestamp": 1771660680.0,
+    "isoDate": "2026-02-21T07:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUd8T_I-xQKNmoLh2WLznpTvsH2JGWkhRJOOcjgUxat1PSS3OKl-z5P-OYhbJssm5DqAP8B3Dye8Z298RAqvSKibFo-ISDmF0qPlOpUdUVKJRO9Gy5MxDZP4A2uUxmoqBpfK95Z4u-hvqmNqsRE42ivsIc2H-NQYubExbmPug9WbHkVpuqry9hO9nNG4y/s1600/ai-code-scan.jpg"
+  },
+  {
+    "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
+    "link": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulne…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 21 Feb 2026 12:51:00 +0530",
+    "timestamp": 1771658460.0,
+    "isoDate": "2026-02-21T07:21:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZg49iJDSf0QXV_lj9uqgkcevxHhncfWJrejyCIdGb2hlzcVefAWXETqflE7uEUTuAGKkqfSpa9_w1FoNTZ-67YU4H-iUio2DfhF7o2qIMIbx8BewvMG8rHsq8eh7gBwjVckasb5Qj8jsGY_3wRjBaYTh-nL10wAWFI5PbCu62cfJFk9Y8ucUBDyQNkEh/s1600/roundcube.jpg"
+  },
+  {
+    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+    "link": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
+    "summary": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness. EC-Council, creator of the world-ren…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 21 Feb 2026 10:00:00 +0530",
+    "timestamp": 1771648200.0,
+    "isoDate": "2026-02-21T04:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNtB3q8UY8WtPavGisP57bq3aRlFLsQJSfTpwuLP0E1eqcPNAtjaI2_YeTjOxEi4GGQbFUOu-sYuTLRB_WnoQNAKfiwUIJqmU5G8GrhPjsmKCx_03Ecyid-28wg-nWj4RjV8YWVXM4unbx9uhtxBz-b7crRhe03y4fH8up6O3q2k5Gdjx-r4-9Yk4QCM/s1600/ec.jpg"
+  },
+  {
     "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
     "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
     "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying …",
@@ -295,38 +328,5 @@
     "timestamp": 1771327800.0,
     "isoDate": "2026-02-17T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNtu8YGAogyismJs9M9YdnRhGbjScyVHZkNmeiwAafRQFLjFy4FzEajb_1HcQsiPSO6jEbkgBNdsxL3lrRaK05f8qY32TIUmkz67ue-LShVtui5dKxwGG78GPwvvM7hdftNkCd0KsVfNPapBB9DD7qvZgwSRYtC84kIzPOFUBreckXSDXHkXhGsA1ju-A/s1600/corelight.jpg"
-  },
-  {
-    "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
-    "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
-    "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine p…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Feb 2026 15:01:00 +0530",
-    "timestamp": 1771320660.0,
-    "isoDate": "2026-02-17T09:31:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh0FV5y7nlXl9cJspXtL5CZNMf2-ftHbx-kv0fjJ54M7A5FWTCUgzmscihQebjqcp3c9VXNPK784ZocV5_sG_5eizK2Kp1FeCbVvKuOlpi0vVOMUCUiSUCkdMpU8UWuworyKKXQLL0NAqkoFlBCnjxyB4UsLsEOqRx0hJzXZcWs998ANw_dyKyeip3I6ah/s1600/thn.jpg"
-  },
-  {
-    "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
-    "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html",
-    "summary": "Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages. The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Feb 2026 12:14:00 +0530",
-    "timestamp": 1771310640.0,
-    "isoDate": "2026-02-17T06:44:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPp_YwVMP8UedNu9MRj7UCji7JQ8xfTP29sqz2wXhr5sFnGWNTCM_KOIPJnzD9rNqQjp5O08Oe2LNpns6GYVkQOyjYxQIadGQ4Z5cEclR1Nl40D1_Dr5p8A0sXa4-rFnmmoWkHiVGKCvQ7iXnXZ8O7cdHXLSwBUXvby_SkTuLGj7vqfMP148Wx_5qryIux/s1600/iphone.jpg"
-  },
-  {
-    "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
-    "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
-    "summary": "Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim's OpenClaw (formerly Clawdbot and Moltbot) configuration environment. \"This finding marks a significant mil…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Feb 2026 00:13:00 +0530",
-    "timestamp": 1771267380.0,
-    "isoDate": "2026-02-16T18:43:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeWsmjwrJY11WFbrvqG71cU065qr7gt-yAQRQv18KoDqnPG5x-HWXkFR1wwAmGNT2ujE6p0mlp1VsqvuDBnEokfqkSFtQX0bVdqdOxiZMZ2WXmqqVc1wrPOdZQ8kFgssie0Cs-1dmmyA7_QZzMhMTM0hcFjbXZtrhoTCwJFupvEgmLEYInUaGST-dmzAOz/s1600/openclaw-hacked.jpg"
   }
 ]
