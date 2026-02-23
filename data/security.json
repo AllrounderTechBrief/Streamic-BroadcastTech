@@ -1,5 +1,16 @@
 [
   {
+    "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
+    "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
+    "summary": "Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 23 Feb 2026 15:50:00 +0530",
+    "timestamp": 1771842000.0,
+    "isoDate": "2026-02-23T10:20:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuEqzksJuTTXCDhdqgtAIFwGij7CiTa9hyGtjvNUn3wVoFYnH9_f0F-ILQlJhaACL9g1sNbdxCptyn_HwKxFha-yhWgnEph96LK390IGibwSZ3x2iwNeB_JEbhgLCL1lonRUtIU8ubyI7TprS8mbmNrpB7f6_fAhtaJQG3frpu4N6MTzwcrmEF5TpnwuqO/s1600/npm-stealer.jpg"
+  },
+  {
     "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
     "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
     "summary": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campa…",
@@ -317,16 +328,5 @@
     "timestamp": 1771351680.0,
     "isoDate": "2026-02-17T18:08:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYX37QWNtfn6KjpvO-G2qEj3m_ARN3yOl6MgQKaMMAAAw_EUE2o_zASrY9uGyYZhUXJbSY6n3nmo-hXvpBHnG7LL6Qm4KJi0GUv8eoRlSSqLQAQVU_pbSp6FzsJTrcNVdZef3J4L9HrK-kwm5oiT7_Hx6Perm-y-P0saLA9gsmp16shesbIqeBsG-WD6Z/s1600/grok-ai.jpg"
-  },
-  {
-    "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
-    "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
-    "summary": "A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky. The Russian cybersecurity vendor said it discovered the backdoor, du…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Feb 2026 22:11:00 +0530",
-    "timestamp": 1771346460.0,
-    "isoDate": "2026-02-17T16:41:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Wza_QsQzhfPQCPUG6GYFEMc6xpel-E8wWXPSZlSeSLIHLRkxcgj-XxdItkZjBJSg7CW26jOr0gtstF5MjAeAumhISRoOJatq0Bss2rNv4f35PVZcwrrxlvhXqBwjtqCt6mL06qZJJZWFNTmLdCBkuL74UCB3O8rN1mC2UOulCvFIs37CyUl9v00zx1OD/s1600/android-firmware.jpg"
   }
 ]
