@@ -1,5 +1,27 @@
 [
   {
+    "title": "⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
+    "link": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
+    "summary": "Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are famili…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 23 Feb 2026 18:30:00 +0530",
+    "timestamp": 1771851600.0,
+    "isoDate": "2026-02-23T13:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD4zrmWnbbBtQZsZm7orVyVisAR_ymd6dfSG7kPtgEo-CxVEphY0ZZXuQL4IiXd3ISaSR-qhY2uALIOlVgLCCZNyBiLd-WSfzR3x7NWo0xQWpwi6kTIZaZDHzwPzulQmWzndoAd-HDhPLtEYg-OrNyl-5FjPpDKSm1hPXVBnu-p6e8wtvpOFiWRUd1-pF9/s1600/cyber-recap.jpg"
+  },
+  {
+    "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
+    "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+    "summary": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 23 Feb 2026 17:28:00 +0530",
+    "timestamp": 1771847880.0,
+    "isoDate": "2026-02-23T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sXBbFbgAhWn7fFcyznMrutXhMfRWKQzw6aFcQwiJ-ViGLqg_Vse2wGKgGrAkyXTh2y9XtufC9otYEoUyIPsV6FB1ktgNSVQ15UFYNKN8HVzncL6tYLNYtzqX6rqhgVIfThhll1TxO1627pxBguwt4J1QRKGMOHx7_jBRlhhebK-yq1LMnCAIetPNw1E/s1600/keeper.jpg"
+  },
+  {
     "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
     "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
     "summary": "Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft…",
@@ -306,27 +328,5 @@
     "timestamp": 1771397520.0,
     "isoDate": "2026-02-18T06:52:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMthhoYB21iUycGm4t9Z8XBCzBHeEBnyGAy0VYV_szV8cL19wb2nn0OSqFBl35b7viP2cIkWdNIULp3eZHNPXMAjdyL67hvTY7wlYizhDDysYKzSinMqCJrh44qfrrdTmfT3Dx9H_gJlFayVV0NoDAP_JSPHDLo0WQjM4d7AGdA-wo8mf1vmoZIPrjBZQY/s1600/cisa-kev.jpg"
-  },
-  {
-    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-    "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-    "summary": "Cloud attacks move fast — faster than most incident response teams. In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compro…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Feb 2026 00:38:00 +0530",
-    "timestamp": 1771355280.0,
-    "isoDate": "2026-02-17T19:08:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4miUFC2VRtb2QbEjK8NcEvIZXEvwWMtG-FJdc87p3-LqV7rxBsXHJh3WTgqy8xKUtOJ30qlqn7LP3FjAEQpEQRbi_XxDS9r9te8ipkxyFO9Xeo9Eems4WSEcpLEzD4j9IVCGl_74w6uvOrA8_eC-rpbE7A9D_kqsGogEgqqKxR8mV1pNSlzfnIZKFMBZ/s1600/cloud-forensics-webinar.jpg"
-  },
-  {
-    "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
-    "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
-    "summary": "Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Feb 2026 23:38:00 +0530",
-    "timestamp": 1771351680.0,
-    "isoDate": "2026-02-17T18:08:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYX37QWNtfn6KjpvO-G2qEj3m_ARN3yOl6MgQKaMMAAAw_EUE2o_zASrY9uGyYZhUXJbSY6n3nmo-hXvpBHnG7LL6Qm4KJi0GUv8eoRlSSqLQAQVU_pbSp6FzsJTrcNVdZef3J4L9HrK-kwm5oiT7_Hx6Perm-y-P0saLA9gsmp16shesbIqeBsG-WD6Z/s1600/grok-ai.jpg"
   }
 ]
