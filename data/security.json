@@ -1,5 +1,16 @@
 [
   {
+    "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
+    "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts. \"Analysis of the recovered dropper, persistence trigg…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 23 Feb 2026 23:29:00 +0530",
+    "timestamp": 1771869540.0,
+    "isoDate": "2026-02-23T17:59:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSN4m24uNLL9rLCwHv89KIT-P1ExHG8D2EAk0TBI7XClmXn4JxBe0NWurC0iazjhxVKll6ZmSfMPbfD3ohlUDAXCscVdXkLmFicuwIoz9ya4Lvx6FCcgAdu75R72rx_W1-1I5UGbtgJMkSCR1MaZAGUxzHM5uSDAhNj5FBHGpCq__7yUclLAQg7IGhUhdW/s1600/miners.jpg"
+  },
+  {
     "title": "⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
     "link": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
     "summary": "Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are famili…",
@@ -317,16 +328,5 @@
     "timestamp": 1771400400.0,
     "isoDate": "2026-02-18T07:40:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnUIBjnkM8vDKW8rzCxxcgMWr_JOn1xaK8xH5xku5lsBeo469b7FGGw1ISjQqGlqBx03FN5hUMlphyphenhyphenlnMu5K5WMCwX7kEWwIh3TbnBzORYiVkrfK_hBYvxkeprBtiBeVAylAY7daVwaQtI6WKi_lzkTC1D9zBJ7NQ9F-PboFNdNtLjJvfR_EOdkcU0ats/s1600/notepad-hack.jpg"
-  },
-  {
-    "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
-    "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Feb 2026 12:22:00 +0530",
-    "timestamp": 1771397520.0,
-    "isoDate": "2026-02-18T06:52:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMthhoYB21iUycGm4t9Z8XBCzBHeEBnyGAy0VYV_szV8cL19wb2nn0OSqFBl35b7viP2cIkWdNIULp3eZHNPXMAjdyL67hvTY7wlYizhDDysYKzSinMqCJrh44qfrrdTmfT3Dx9H_gJlFayVV0NoDAP_JSPHDLo0WQjM4d7AGdA-wo8mf1vmoZIPrjBZQY/s1600/cisa-kev.jpg"
   }
 ]
