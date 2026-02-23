@@ -1,5 +1,16 @@
 [
   {
+    "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
+    "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
+    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe. The activity, per S2 Grupo's LAB52 threat intelligence team, was active between…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Feb 2026 01:11:00 +0530",
+    "timestamp": 1771875660.0,
+    "isoDate": "2026-02-23T19:41:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSwbKDzax_Hh_RHSU7qEInhqGvzoEncnUbB3WgxiRorJPzrvWGo2GCCC0_94YDAdaIs3gBMgO8N4iM4FoMzMiaM1icI-NX2qTf5Dflmv25XR66ni1JEcMl0HxwApTpA5W48R9KLgF5oo7uB8FAjoUrI3h7FxPgoER_FCPPgJ2gHZQyk3BR4kZkt-tU6CFG/s1600/malware-attack-eu.jpg"
+  },
+  {
     "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
     "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
     "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts. \"Analysis of the recovered dropper, persistence trigg…",
@@ -317,16 +328,5 @@
     "timestamp": 1771410600.0,
     "isoDate": "2026-02-18T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqEDKNxnbOcXaXVgDSSwTmvAj0925uBaCpS6NSGhH8G2FVGF_slC9Asa2SFPWBht3ZyF3rFB53zoqJiHVoK3cfMkjBpneFJjmkDB5j4XOqyHO5JLft27dzrb5R4U-D7VYBn3RQOoA5s6OupWYPcSaksjDsAaBl83eKB226AxF9L_zc4Tw3hyupEiVKxY0N/s1600/tines.jpg"
-  },
-  {
-    "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
-    "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
-    "summary": "Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest. The version 8.9.2 update incorporat…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Feb 2026 13:10:00 +0530",
-    "timestamp": 1771400400.0,
-    "isoDate": "2026-02-18T07:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnUIBjnkM8vDKW8rzCxxcgMWr_JOn1xaK8xH5xku5lsBeo469b7FGGw1ISjQqGlqBx03FN5hUMlphyphenhyphenlnMu5K5WMCwX7kEWwIh3TbnBzORYiVkrfK_hBYvxkeprBtiBeVAylAY7daVwaQtI6WKi_lzkTC1D9zBJ7NQ9F-PboFNdNtLjJvfR_EOdkcU0ats/s1600/notepad-hack.jpg"
   }
 ]
