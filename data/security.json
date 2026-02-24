@@ -1,5 +1,16 @@
 [
   {
+    "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+    "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+    "summary": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Feb 2026 19:51:00 +0530",
+    "timestamp": 1771942860.0,
+    "isoDate": "2026-02-24T14:21:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMR8uMyTA6j9P1KBgNFXf7uKvuD9CpolHGiMuaTIMOc87IKSqoGXWxea4Hs3unk1kLewzUd0hyOxpk6AsnEy1WmKwQwW8QV2zFBJiCi6PLOMi5zxAD_C2_DZytczAcPCSA_JGN9Se8arByQlLzoTiDaX1qJiA0Q6IT2Sfeg7BgkeQZ2ptQcjo_RX8jMgs1/s1600/bank-cyberattack.jpg"
+  },
+  {
     "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
     "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
     "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded. In moder…",
@@ -317,16 +328,5 @@
     "timestamp": 1771435800.0,
     "isoDate": "2026-02-18T17:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKg1ustDlFg4Z8PIFRlPPO6LEfnuCsAZRD59FSKmiMZuhKtTrL6mOL43EJt1_iczcPYcYlwaEqf8xNFE6suEy3qtcXhv3vBAizeuenRGoan22ouXKyetDLoHME-y3wr0vKLr0OFAPkOuEjVjhokDssNgQpXnvauTbjQvDo2p31Cwv7s0qmr7pMG-ajXSY/s1600/sam.jpg"
-  },
-  {
-    "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
-    "link": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
-    "summary": "Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to seize control of susceptible devices. The vulnerability, tracked as CVE-2026-2329, carries a …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Feb 2026 22:05:00 +0530",
-    "timestamp": 1771432500.0,
-    "isoDate": "2026-02-18T16:35:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJkDWw2o7gwfV4NseVpa6WnSALfRD1COOQfDjRYsORg5EN_NXyMNj43q0uSXkGZbgNC6kUJx-suEri4OMmg1v9UULThdAImIdK04DyIkj4iabnRcDqfl2bUXFWz-nsGeR7y8W0YC1ykqt3VauFhW7saH9iblk6kA8KTEKcG74A4fPWPf9BAmH4ifiiu2Hv/s1600/root.jpg"
   }
 ]
