@@ -1,5 +1,16 @@
 [
   {
+    "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+    "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
+    "summary": "A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue. The artificial intelligence (AI)-driven vulnerability has been code…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 25 Feb 2026 00:22:00 +0530",
+    "timestamp": 1771959120.0,
+    "isoDate": "2026-02-24T18:52:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCSgjd-Xezu42fOKahjOxnhqntkclItoP8FmMfyjjKTmelK3eHoUEi6_75n6ORgD650By4wESNP8yDP2WWENzqI5T9Gl-NhYPPTiAQgkFykZv1d_MsCECcu0ZgQWt29JiGmH1zCmwNWSin8AQMWmsOm6r4ZdS8EOIC9Xtdw7FrRlN8kQs7o2s_whiNtcSH/s1600/github-copilot.jpg"
+  },
+  {
     "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
     "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
     "summary": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat a…",
@@ -317,16 +328,5 @@
     "timestamp": 1771488780.0,
     "isoDate": "2026-02-19T08:13:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFD_PtNViVDHZuayLVtVYwd7N2scLLqDjTvVq8WGWrnvOCZ7tt92yiynt44EBuHUv2Y4b-sujz_BlBBx2Vl9af8ZzAXzTJH2UzFpsqC5KyxWWvB6FD-Ini78yxU9MsffuVeYsU2wQQCP5mTPs7xlI73PBSZ3RYj1RUMbjxfH06NhmoNjHkpapxBNwyEMrI/s1600/protest.jpg"
-  },
-  {
-    "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
-    "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
-    "summary": "New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident's phone, making it the latest case of abuse …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Feb 2026 23:00:00 +0530",
-    "timestamp": 1771435800.0,
-    "isoDate": "2026-02-18T17:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKg1ustDlFg4Z8PIFRlPPO6LEfnuCsAZRD59FSKmiMZuhKtTrL6mOL43EJt1_iczcPYcYlwaEqf8xNFE6suEy3qtcXhv3vBAizeuenRGoan22ouXKyetDLoHME-y3wr0vKLr0OFAPkOuEjVjhokDssNgQpXnvauTbjQvDo2p31Cwv7s0qmr7pMG-ajXSY/s1600/sam.jpg"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "title": "How we rebuilt Next.js with AI in one week",
+    "link": "https://blog.cloudflare.com/vinext/",
+    "summary": "One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 24 Feb 2026 20:00:00 GMT",
+    "timestamp": 1771963200.0,
+    "isoDate": "2026-02-24T20:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7BCYnb6nCnc9oRBPQnuES5/d217b3582f4fe30597a3b4bf000d9bd7/BLOG-3194_2.png"
+  },
+  {
     "title": "Cloudflare One is the first SASE offering modern post-quantum encryption across the full platform",
     "link": "https://blog.cloudflare.com/post-quantum-sase/",
     "summary": "We’ve upgraded Cloudflare One to support post-quantum encryption by implementing the latest IETF drafts for hybrid ML-KEM into our Cloudflare IPsec product. This extends post-quantum encryption across all major Cloudflare One on-ramps and o…",
@@ -317,17 +328,6 @@
     "timestamp": 1767686400.0,
     "isoDate": "2026-01-06T08:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/16jXNbH5R5Q4evGm4oRY5p/08d0474000111923f37a7e53b809b5c2/BLOG-3107_2.png"
-  },
-  {
-    "title": "How Workers powers our internal maintenance scheduling pipeline",
-    "link": "https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/",
-    "summary": "Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph int…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 22 Dec 2025 14:00:00 GMT",
-    "timestamp": 1766412000.0,
-    "isoDate": "2025-12-22T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2vHCauxOGRXzhrO6DNDr2S/cf38b93ac9b812e5e064f800e537e549/image4.png"
   },
   {
     "title": "Accelerating creative workflows with the AWS Creative Innovation Hub in London",
