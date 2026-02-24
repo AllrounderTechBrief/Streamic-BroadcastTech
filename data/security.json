@@ -1,5 +1,16 @@
 [
   {
+    "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
+    "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
+    "summary": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities. The attacks involve the deploy…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Feb 2026 15:24:00 +0530",
+    "timestamp": 1771926840.0,
+    "isoDate": "2026-02-24T09:54:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNzH9FCcwXlaHaCt3zQfmpwV3uesrW_2ISdcvbuKMl7PIENe9w6dhzBVpj19_BmgHKcZIzxBLSBFOmwNx2ahUast29Tk_LJoY8qz-SrJziWhHTHURX8HTvJuIVvMJourUJ0Hw8RKnXYUFcz9wsaO7_halOZmw3gof1-N1-jI-MtNsztV5YYP4WvQdPBcY/s1600/TELECOM.jpg"
+  },
+  {
     "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
     "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
     "summary": "Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models. The dis…",
@@ -317,16 +328,5 @@
     "timestamp": 1771415880.0,
     "isoDate": "2026-02-18T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMesQzVUB1p32eXrWtBaOoM_KiArzTzal0BZlOZe_3eDVZE4uteEEIuG-VPAdCT3ViO1gErpC_GoD5mNBzdYbHBuPg3CEGXbYGLSU_P3cprd1UWds_sQGv7FBqz_FkV5hlvx2twmi25eTFgkHqcipFofDfDXYMTo7-wCgjNTGnotzhX4XZ8MVI1X2LIqPy/s1600/dsm.jpg"
-  },
-  {
-    "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
-    "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
-    "summary": "A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Feb 2026 16:02:00 +0530",
-    "timestamp": 1771410720.0,
-    "isoDate": "2026-02-18T10:32:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglP0IZeQtwdci4qHI-mURnUorsnmYa0U0QjsNNttYhyphenhyphen0k7qSnq3I7FURoEE-E0SmiD7lhX86uUDYWbZtIrPpS5CjJPK0NdZnFzB_UMHMpIlgzUiffF5iZm_cRqE7ilkwI4ItLHjm65VhJiV_BNisAZcga-hhYjJEiEarDcuwBCek6Vdc36_WS_bx4G_Q0W/s1600/dell-hack.jpg"
   }
 ]
