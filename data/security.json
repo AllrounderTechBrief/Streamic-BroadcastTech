@@ -1,5 +1,16 @@
 [
   {
+    "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
+    "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
+    "summary": "Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models. The dis…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Feb 2026 11:34:00 +0530",
+    "timestamp": 1771913040.0,
+    "isoDate": "2026-02-24T06:04:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtOj1fS7tAn4wMRrrGDi48Wc6VXmI3R9vUy-2LGuDSk18ewlkxWrs9-vG7NLgIjMybAk8USxFfrfegmjLA7lGZ7vK57qY79qaxgriIm8kGMP-kuzLyu_JMU85xJXQ_hA151ZzI1mZkcfVCiDRw7oYbIwLGYg5tCe90C0etlJ5KrgnDkNT028R_AL1qtec1/s1600/claude-ai.jpg"
+  },
+  {
     "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
     "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
     "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe. The activity, per S2 Grupo's LAB52 threat intelligence team, was active between…",
@@ -317,16 +328,5 @@
     "timestamp": 1771410720.0,
     "isoDate": "2026-02-18T10:32:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglP0IZeQtwdci4qHI-mURnUorsnmYa0U0QjsNNttYhyphenhyphen0k7qSnq3I7FURoEE-E0SmiD7lhX86uUDYWbZtIrPpS5CjJPK0NdZnFzB_UMHMpIlgzUiffF5iZm_cRqE7ilkwI4ItLHjm65VhJiV_BNisAZcga-hhYjJEiEarDcuwBCek6Vdc36_WS_bx4G_Q0W/s1600/dell-hack.jpg"
-  },
-  {
-    "title": "3 Ways to Start Your Intelligent Workflow Program",
-    "link": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html",
-    "summary": "Security, IT, and engineering teams today are under relentless pressure to accelerate outcomes, cut operational drag, and unlock the full potential of AI and automation. But simply investing in tools isn’t enough. 88% of AI proofs-of-concep…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Feb 2026 16:00:00 +0530",
-    "timestamp": 1771410600.0,
-    "isoDate": "2026-02-18T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqEDKNxnbOcXaXVgDSSwTmvAj0925uBaCpS6NSGhH8G2FVGF_slC9Asa2SFPWBht3ZyF3rFB53zoqJiHVoK3cfMkjBpneFJjmkDB5j4XOqyHO5JLft27dzrb5R4U-D7VYBn3RQOoA5s6OupWYPcSaksjDsAaBl83eKB226AxF9L_zc4Tw3hyupEiVKxY0N/s1600/tines.jpg"
   }
 ]
