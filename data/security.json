@@ -1,5 +1,27 @@
 [
   {
+    "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
+    "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
+    "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded. In moder…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Feb 2026 17:28:00 +0530",
+    "timestamp": 1771934280.0,
+    "isoDate": "2026-02-24T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMTMMgXEuUSPrdURyFMOZE-RcFyvZCBxQS7hyphenhyphenRvjSZ2FVcKyDWdsHgAmWv5qQg72UCTBEwWtlNs8FDhNnhh8u_-tmcAa9hLAljsN8sezEmXwujJ5Gc12LLbC8tA_OkxnpQPNjPUxQj0516b7Nbz_ahD8yX9K2RWbSSK7bu_dtBLVhA0EjxGsSp6Dic9jI/s1600/main.gif"
+  },
+  {
+    "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
+    "link": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
+    "summary": "The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat H…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Feb 2026 17:22:00 +0530",
+    "timestamp": 1771933920.0,
+    "isoDate": "2026-02-24T11:52:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8IcEeHdjKVhbeZP0v5G8x6EkPm5eEyUw_3q4XGAUEy3-i6xxFe2YEBJK7BuSzLVxVw5QbvTTBuxGecX4hcqC0wpunXm_GaMIrGPL7CJVyHGysCjvpJOiA7srjnhPROT8Gsd-9jWKxW8O0f37D1yzvXxPuVvGIEp1ZJyNQGALU2md2PhvcRvmlINS7Ah6G/s1600/locked.jpg"
+  },
+  {
     "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
     "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
     "summary": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities. The attacks involve the deploy…",
@@ -306,27 +328,5 @@
     "timestamp": 1771432500.0,
     "isoDate": "2026-02-18T16:35:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJkDWw2o7gwfV4NseVpa6WnSALfRD1COOQfDjRYsORg5EN_NXyMNj43q0uSXkGZbgNC6kUJx-suEri4OMmg1v9UULThdAImIdK04DyIkj4iabnRcDqfl2bUXFWz-nsGeR7y8W0YC1ykqt3VauFhW7saH9iblk6kA8KTEKcG74A4fPWPf9BAmH4ifiiu2Hv/s1600/root.jpg"
-  },
-  {
-    "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
-    "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
-    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code re…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Feb 2026 18:46:00 +0530",
-    "timestamp": 1771420560.0,
-    "isoDate": "2026-02-18T13:16:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWiS4R3zdQ6nAaXW6ITobd-w2duq9sy9VGi6Jn8fBYafy_ZIL0Yvr_vssObakMIWi_2m5RT-ZP6m_G5J6sS9ivV1fj6Qj98iDtdGtdUm2o-uh1sLAxOgQmVeFpBeqBxoohezNZwJFxnJRkO1aMB2H19iYLJQ9BtJFjLkC_JbIpOqfrEobgwBU-jJkFHNVI/s1600/vscode-malware.jpg"
-  },
-  {
-    "title": "Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability",
-    "link": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html",
-    "summary": "In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance. In 2026, the seas are no longer c…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Feb 2026 17:28:00 +0530",
-    "timestamp": 1771415880.0,
-    "isoDate": "2026-02-18T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMesQzVUB1p32eXrWtBaOoM_KiArzTzal0BZlOZe_3eDVZE4uteEEIuG-VPAdCT3ViO1gErpC_GoD5mNBzdYbHBuPg3CEGXbYGLSU_P3cprd1UWds_sQGv7FBqz_FkV5hlvx2twmi25eTFgkHqcipFofDfDXYMTo7-wCgjNTGnotzhX4XZ8MVI1X2LIqPy/s1600/dsm.jpg"
   }
 ]
