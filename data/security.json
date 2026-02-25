@@ -1,5 +1,27 @@
 [
   {
+    "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
+    "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
+    "summary": "Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data. The campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 25 Feb 2026 18:13:00 +0530",
+    "timestamp": 1772023380.0,
+    "isoDate": "2026-02-25T12:43:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-bjDoQWaHQbmh17EY0EzAbNkQxh3AHTCEBNjNpdXsBeuuuHPycl9tIzC9msasA7ZwhewkuMMk-MAJvrV5EVSgOrn8FdHnAxdkiGA1YRNL4pHJ3QUSoreUf6d9VIRagp9oi26XKEYgsdon3wDf81fE5mjkq8yJmhC2wSkIK3emLP_xHvAJ2eC3uanvXEW/s1600/coding.jpg"
+  },
+  {
+    "title": "Manual Processes Are Putting National Security at Risk",
+    "link": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
+    "summary": "Why automating sensitive data transfers is now a mission-critical priority More than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the Digital Battles…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 25 Feb 2026 16:30:00 +0530",
+    "timestamp": 1772017200.0,
+    "isoDate": "2026-02-25T11:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTbttsBjbdKdXIOeHSFgfUVWVU-b7OHEjeyjoeKSBCV3Hnw9ecKqS8Eg2Hhx-VTaFgdjd1-UvFSgZkjkYNnLICgEKQy9-J_lseukUyEr_Q3HV-CuJyZ5OxK64-qtnMYduhtorZyKCnxboOUCitv9mOQhFEGt9cytBNNiyO92J5Qlt9JOTYCN0zH_kKdg/s1600/national-security.jpg"
+  },
+  {
     "title": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker",
     "link": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html",
     "summary": "A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in prison for selling eight zero-day exploits to Russian exploit broker Operation Zero in exch…",
@@ -306,27 +328,5 @@
     "timestamp": 1771523400.0,
     "isoDate": "2026-02-19T17:50:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhltf-8sYx4UcRPT_qBv92hmitOenRSgB2OctxYx4hdCPglcMJzeHR8Dmffrt5xjjtp0Tz2ur0wPSbvig7cnEyrdtJrOx8V4Z2sTGeR6eBlFwOO4pgPUISeLWGuMbUO4bnruvRWx-O6zYRUy_xw1F1CohPk2fZDkpM1YGXusO-8h8rgwQhLvZSlfp4ho5RJ/s1600/interpol.jpg"
-  },
-  {
-    "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center",
-    "link": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html",
-    "summary": "Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges. Windows Admin Center is a locally deployed, browser-based management tool set that lets users manage thei…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 19 Feb 2026 23:10:00 +0530",
-    "timestamp": 1771522800.0,
-    "isoDate": "2026-02-19T17:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTYrWKU78qUjsLRxRje4c7MEejHM-e4bg7D2mFbFEomGbCI39Um78JNkCJKcjrcH2FYinO-dVUiV0_rB60jmErrc4lyMkYOK-qIX3HnYCFJ8aWfFwcnaZOHe_38JSgbLPnVqWrQaXhvbXmMCAaJpb6qnANjxjsqB3S4NM89kemycwHA8kDGlwrS-306oP8/s1600/windows-admin.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html",
-    "summary": "The cyber threat space doesn’t pause, and this week makes that clear. New risks, new tactics, and new security gaps are showing up across platforms, tools, and industries — often all at the same time. Some developments are headline-level. O…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 19 Feb 2026 20:05:00 +0530",
-    "timestamp": 1771511700.0,
-    "isoDate": "2026-02-19T14:35:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDev4RfdUfQ-WwS6a7aV2qVZ6Ftgydw2v8Q-0QDbcmjjnfwjMGcDNG5xV_Za_CJ8nyVFFzuMHVZ5wpspAJV48qF6WLVKQ3UhDZEh7r5rJXkM8IekmUtu1Q_ZroATC7mX6ThW14oaVvTuhyPeRT5v4mJNuZX_ZLSuuAb3aZQYlHRrVKkBzLPb4phQuxN2YS/s1600/threatsday-feb.jpg"
   }
 ]
