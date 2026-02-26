@@ -1,5 +1,16 @@
 [
   {
+    "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+    "link": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new botnet loader called Aeternum C2 that uses a blockchain-based command-and-control (C2) infrastructure to make it resilient to takedown efforts. \"Instead of relying on traditional ser…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Feb 2026 23:30:00 +0530",
+    "timestamp": 1772128800.0,
+    "isoDate": "2026-02-26T18:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQlH8RQUmcg8IWqV76NL0o4uRe86gJ6kxLV3DRYppBAVrfFR_gMPQBFn6GIl2jd9ZgzsuwRGAGTVUbaWCj795-XZ8I3eSBDLz6Q_0w4Alef6GNA3NtpK4po_WVC6p9o4aNVHqgCAEb3a7CqL_x7oBGWQ7N4z0IMyzOX3aZoI_TUZenfdAm0LZojDIkumG0/s1600/botnet.jpg"
+  },
+  {
     "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
     "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
     "summary": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025. The campaign is being tracked by Cisco Talos under t…",
@@ -317,16 +328,5 @@
     "timestamp": 1771660680.0,
     "isoDate": "2026-02-21T07:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUd8T_I-xQKNmoLh2WLznpTvsH2JGWkhRJOOcjgUxat1PSS3OKl-z5P-OYhbJssm5DqAP8B3Dye8Z298RAqvSKibFo-ISDmF0qPlOpUdUVKJRO9Gy5MxDZP4A2uUxmoqBpfK95Z4u-hvqmNqsRE42ivsIc2H-NQYubExbmPug9WbHkVpuqry9hO9nNG4y/s1600/ai-code-scan.jpg"
-  },
-  {
-    "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
-    "link": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulne…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 21 Feb 2026 12:51:00 +0530",
-    "timestamp": 1771658460.0,
-    "isoDate": "2026-02-21T07:21:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZg49iJDSf0QXV_lj9uqgkcevxHhncfWJrejyCIdGb2hlzcVefAWXETqflE7uEUTuAGKkqfSpa9_w1FoNTZ-67YU4H-iUio2DfhF7o2qIMIbx8BewvMG8rHsq8eh7gBwjVckasb5Qj8jsGY_3wRjBaYTh-nL10wAWFI5PbCu62cfJFk9Y8ucUBDyQNkEh/s1600/roundcube.jpg"
   }
 ]
