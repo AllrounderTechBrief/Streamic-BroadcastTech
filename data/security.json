@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
+    "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+    "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates ba…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Feb 2026 11:43:00 +0530",
+    "timestamp": 1772086380.0,
+    "isoDate": "2026-02-26T06:13:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguuaG3Zn05bu2DRYkpxdcKrvugskd4bWxOdVfAIk2Yeaz_haffll_p9cgQ9DvoIID6Qyihvpq0q9M8NZFBOFprN-7ILllTeAs7Y5WJ5kqUPsBblknz376nPPxRa04vGkCKNVfLSUgTfweasJd9Q533msiw6SdqGP0K61_ZZYMhR9QD_sueS-R9vftPtheu/s1600/cisco.jpg"
+  },
+  {
     "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
     "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
     "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries. \"This prolifi…",
@@ -317,16 +328,5 @@
     "timestamp": 1771583400.0,
     "isoDate": "2026-02-20T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2H1-xKGMb4Q70WJNrlk_Mgup1cfHNGRRmnZxhOaJLcfWBq_audXpVc5TAUsyT9MRS5hST-fI7ZaH59FVMzAzYubjo7YdUoRcmtEs8v3ck9J8jhJdnEq9mtU4FqTYA-ikCBGQ4edCU47t9pN-ljEQO00-e1ZNMrxQYuyev9uLfv9VQU_KOhJQUFSa6YWF/s1600/OUT.jpg"
-  },
-  {
-    "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
-    "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
-    "summary": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme. In November 2025, Oleksandr \"Alexander\" Didenko pleaded…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Feb 2026 15:22:00 +0530",
-    "timestamp": 1771581120.0,
-    "isoDate": "2026-02-20T09:52:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7SAlrXjwZQ5XcgI0VvKJ13Np81mBpx_kV5bcRCdUERu1dffmFSpnVoQxYFSC5pURrbqYF4roBPOUvaiG8oa5NimxrYTLdbUYboTyDfRCdgCPf0qGUwaCgUx7lb31vHJb1pB8Y83YGG0WaNwlLsBCPdp0t22HxMdyo2v_rRES5X5nL752HSPyMS3cAKBZ9/s1600/IT-Worker-Fraud.jpg"
   }
 ]
