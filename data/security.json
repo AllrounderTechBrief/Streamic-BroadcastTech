@@ -1,5 +1,16 @@
 [
   {
+    "title": "Expert Recommends: Prepare for PQC Right Now",
+    "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
+    "summary": "Introduction: Steal It Today, Break It in a Decade Digital evolution is unstoppable, and though the pace may vary, things tend to fall into place sooner rather than later. That, of course, applies to adversaries as well. The rise of ransomw…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Feb 2026 17:36:00 +0530",
+    "timestamp": 1772107560.0,
+    "isoDate": "2026-02-26T12:06:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbha1Dn4Cs6KDeIqB93o3v5IPZazLflMBbkksxJYpdpzls5i-Fjrad95dyanzHqJutFNRtXCJk5XwNwXgRkftD-WjS4hApwBThXGAqq2wuxShyphenhyphenM91hUGYQTRJxNsOvzMDV6BugC0uskLr-XtvxztLgxDTaAAws6HTCew20TScLA5kO0Zz2xEXQ1SH65dlq/s1600/encrypt.jpg"
+  },
+  {
     "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
     "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
     "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines. \"T…",
@@ -317,16 +328,5 @@
     "timestamp": 1771602300.0,
     "isoDate": "2026-02-20T15:45:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMKRB_5ww1tcCh0no0OxbE4Bhcg4nVEe4y-cHBLi03rhgJFM_8y6EatBQ_L00yCHRNRJmaiVq3fMGo2NUAjPLCbcXdWG2wqAG4qZtT0MAedKcFEiXHr_g2gRd0GuTc_wD8X5_Ss0Azn1YhZnEXO88hApw52GJI3_6hnJmf8aNueuEYFCLtdhaHBSg8i0a/s1600/bt-main.jpg"
-  },
-  {
-    "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-    "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-    "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Feb 2026 19:50:00 +0530",
-    "timestamp": 1771597200.0,
-    "isoDate": "2026-02-20T14:20:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvPoczCRsYg15Y2soZNAfhG8r-8FhwlnlnpNANn6DmZ9WPYJo203gJTPDaWyrBoK8eRtHTBE2Xl5hBEIka4d0PcU2zQX5T6bl1tM1bt8Kq2sDFEplKhMlrSMWbJUhGw3nvlUbN9_3zMqrv9o8SlUdCGIea3rV2u4Z_KdV1PrGBDIcT1GYnfzsozeUy54ee/s1600/cline.jpg"
   }
 ]
