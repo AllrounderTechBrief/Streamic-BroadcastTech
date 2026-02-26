@@ -1,5 +1,27 @@
 [
   {
+    "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+    "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
+    "summary": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025. The campaign is being tracked by Cisco Talos under t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Feb 2026 20:47:00 +0530",
+    "timestamp": 1772119020.0,
+    "isoDate": "2026-02-26T15:17:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAVofZLLo1DEzVLXd9ahr2wbZLNqwM8K5eVDE8pDM5ossDzBi_U34YB81lu7LBProqz1SirGb7brANr4AQ83_k9Y0RhlcrsKKpl0IBovDLdy1awHNR_dxEV0umYpWUWLWkx7vQqCbunXZ7WnnJooiCvhchGXFwLAdT0LljMY_4MVRGfv2gM8uofci2J7E/s1600/healthcare-cyberattack.jpg"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
+    "summary": "Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update. Behind the scenes, the tactics are sharper. Access happens faster.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Feb 2026 19:58:00 +0530",
+    "timestamp": 1772116080.0,
+    "isoDate": "2026-02-26T14:28:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuAB1iliom9nCE1t4EFFYCBDxr2FCZGZdPmUPVcHQVgdceDeSaCHS-tZsa7cSiorDkcU4MUItEpiQLxV7WrQcBduGuhtahmM44kjWtZ9P31HwKqJd-dBL4jGP4uBzz6HHWbnOptpUVRMkjkUW8JfTBJWvY0S_HPMDcELDXdFysRvn-4o3IYf2kRq-tHIi9/s1600/th.jpg"
+  },
+  {
     "title": "Expert Recommends: Prepare for PQC Right Now",
     "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
     "summary": "Introduction: Steal It Today, Break It in a Decade Digital evolution is unstoppable, and though the pace may vary, things tend to fall into place sooner rather than later. That, of course, applies to adversaries as well. The rise of ransomw…",
@@ -306,27 +328,5 @@
     "timestamp": 1771658460.0,
     "isoDate": "2026-02-21T07:21:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZg49iJDSf0QXV_lj9uqgkcevxHhncfWJrejyCIdGb2hlzcVefAWXETqflE7uEUTuAGKkqfSpa9_w1FoNTZ-67YU4H-iUio2DfhF7o2qIMIbx8BewvMG8rHsq8eh7gBwjVckasb5Qj8jsGY_3wRjBaYTh-nL10wAWFI5PbCu62cfJFk9Y8ucUBDyQNkEh/s1600/roundcube.jpg"
-  },
-  {
-    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-    "link": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
-    "summary": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness. EC-Council, creator of the world-ren…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 21 Feb 2026 10:00:00 +0530",
-    "timestamp": 1771648200.0,
-    "isoDate": "2026-02-21T04:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNtB3q8UY8WtPavGisP57bq3aRlFLsQJSfTpwuLP0E1eqcPNAtjaI2_YeTjOxEi4GGQbFUOu-sYuTLRB_WnoQNAKfiwUIJqmU5G8GrhPjsmKCx_03Ecyid-28wg-nWj4RjV8YWVXM4unbx9uhtxBz-b7crRhe03y4fH8up6O3q2k5Gdjx-r4-9Yk4QCM/s1600/ec.jpg"
-  },
-  {
-    "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
-    "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
-    "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Feb 2026 21:15:00 +0530",
-    "timestamp": 1771602300.0,
-    "isoDate": "2026-02-20T15:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMKRB_5ww1tcCh0no0OxbE4Bhcg4nVEe4y-cHBLi03rhgJFM_8y6EatBQ_L00yCHRNRJmaiVq3fMGo2NUAjPLCbcXdWG2wqAG4qZtT0MAedKcFEiXHr_g2gRd0GuTc_wD8X5_Ss0Azn1YhZnEXO88hApw52GJI3_6hnJmf8aNueuEYFCLtdhaHBSg8i0a/s1600/bt-main.jpg"
   }
 ]
