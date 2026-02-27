@@ -1,5 +1,16 @@
 [
   {
+    "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
+    "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
+    "summary": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025. Of these, 401 instances ar…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Feb 2026 23:29:00 +0530",
+    "timestamp": 1772215140.0,
+    "isoDate": "2026-02-27T17:59:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVfnqoWodxrya2TOd7lDLrZ23Bvo_FZhrnRLTnOO-Y4zvouKylIpkT7KE_LKo8lQGBCwMo3GCldGiyqSJobUKHLxmKx6hja0EBG6K3DCtQG-bmDDapu2el8CnQMMs971cJ3dICyw4-T1I8o0W7-XNHKzRBO8U48USZlO8MmtJkKKaOkweEzgKZF2PyaUt9/s1600/freepbx.jpg"
+  },
+  {
     "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
     "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
     "summary": "Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe. The Go module, github[.]com/xinfeisoft/crypto, imp…",
@@ -317,16 +328,5 @@
     "timestamp": 1771851600.0,
     "isoDate": "2026-02-23T13:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD4zrmWnbbBtQZsZm7orVyVisAR_ymd6dfSG7kPtgEo-CxVEphY0ZZXuQL4IiXd3ISaSR-qhY2uALIOlVgLCCZNyBiLd-WSfzR3x7NWo0xQWpwi6kTIZaZDHzwPzulQmWzndoAd-HDhPLtEYg-OrNyl-5FjPpDKSm1hPXVBnu-p6e8wtvpOFiWRUd1-pF9/s1600/cyber-recap.jpg"
-  },
-  {
-    "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
-    "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
-    "summary": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Feb 2026 17:28:00 +0530",
-    "timestamp": 1771847880.0,
-    "isoDate": "2026-02-23T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sXBbFbgAhWn7fFcyznMrutXhMfRWKQzw6aFcQwiJ-ViGLqg_Vse2wGKgGrAkyXTh2y9XtufC9otYEoUyIPsV6FB1ktgNSVQ15UFYNKN8HVzncL6tYLNYtzqX6rqhgVIfThhll1TxO1627pxBguwt4J1QRKGMOHx7_jBRlhhebK-yq1LMnCAIetPNw1E/s1600/keeper.jpg"
   }
 ]
