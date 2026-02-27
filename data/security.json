@@ -1,5 +1,16 @@
 [
   {
+    "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+    "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
+    "summary": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removabl…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Feb 2026 18:13:00 +0530",
+    "timestamp": 1772196180.0,
+    "isoDate": "2026-02-27T12:43:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGnWXXVXx1WeEkTWrq3_CCY922KPE3hV_pg-UYgx86QO76S5DomWi6TxZZQSGZ1Jpf2Rp2riR41Ld7zqWhjfdniLJthYBBDJx3eyNFMPQn5ph9kmmRyrib3HpIe1o5oEp6htOMFVe-m9UQNaXhhoY6MkHeXk1oM4UfctRDC5piMbIZGdjr2bApPUzXMQXK/s1600/keys.jpg"
+  },
+  {
     "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
     "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
     "summary": "Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT). \"A malicious downloader staged a portable Java runtime and…",
@@ -317,16 +328,5 @@
     "timestamp": 1771842000.0,
     "isoDate": "2026-02-23T10:20:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuEqzksJuTTXCDhdqgtAIFwGij7CiTa9hyGtjvNUn3wVoFYnH9_f0F-ILQlJhaACL9g1sNbdxCptyn_HwKxFha-yhWgnEph96LK390IGibwSZ3x2iwNeB_JEbhgLCL1lonRUtIU8ubyI7TprS8mbmNrpB7f6_fAhtaJQG3frpu4N6MTzwcrmEF5TpnwuqO/s1600/npm-stealer.jpg"
-  },
-  {
-    "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
-    "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
-    "summary": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Feb 2026 12:55:00 +0530",
-    "timestamp": 1771831500.0,
-    "isoDate": "2026-02-23T07:25:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6M5M47ZmJ-KuhYC2JC8UwHjdNPLoS3oSeT38cnI8sCmd9NbNFmjNh8qCUXxC7XexLVdUBTBsEIELNLfj2nM-LTRKJajmvwbdehC_bNch-kE98Py-CaDoSAZHCxQztFszsWePupECSqKuasUv8lu9IXYhg8qAS2V7ojLqicNp_HRnyhnc74n_vWYHeEQ-/s1600/muddy.jpg"
   }
 ]
