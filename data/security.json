@@ -1,5 +1,16 @@
 [
   {
+    "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
+    "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
+    "summary": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam. As part of the effort, the advertisers' methods of payment h…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Feb 2026 13:26:00 +0530",
+    "timestamp": 1772178960.0,
+    "isoDate": "2026-02-27T07:56:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwKH9i7LZ3Jt6juj9BX2MCjTNRBKuvKX58L2mWuQN1teRdCwExZsz5LLZNBRvRri4BtJW1ECj92EU42c1XJfy1vBdLXZoxIfjzKEca7ST3Fw-jhU0_XakPBZfgQF1huHepkdAUFmrRtXWUsdnBf-W6cYEtWehaJ1Ca41-6DK414TB_2QwF9M5sm-ofmOuG/s1600/facebook-ads.jpg"
+  },
+  {
     "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
     "link": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
     "summary": "Cybersecurity researchers have disclosed details of a new botnet loader called Aeternum C2 that uses a blockchain-based command-and-control (C2) infrastructure to make it resilient to takedown efforts. \"Instead of relying on traditional ser…",
@@ -317,16 +328,5 @@
     "timestamp": 1771685340.0,
     "isoDate": "2026-02-21T14:49:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJ0OGjlNTnrjpx23D3iKXHFeEEDiGO2GRCI-o4SmtGRuXcl5S4rAcjOqOBrfuI1g8E_pj6UQjQP-R2qfAsV08Oukshw6Inq8fUK83I9sLd3LwnPyWazzaQ3yUghSA3UL0j-BNz0tn2dCEQsG3MpACZKSXoKnM6nhyphenhyphenf727_4S_f3L8EU3fxDc332_6Swkm/s1600/FortiGate.jpg"
-  },
-  {
-    "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
-    "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
-    "summary": "Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches. The capability, called Claude Code Security, is cu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 21 Feb 2026 13:28:00 +0530",
-    "timestamp": 1771660680.0,
-    "isoDate": "2026-02-21T07:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUd8T_I-xQKNmoLh2WLznpTvsH2JGWkhRJOOcjgUxat1PSS3OKl-z5P-OYhbJssm5DqAP8B3Dye8Z298RAqvSKibFo-ISDmF0qPlOpUdUVKJRO9Gy5MxDZP4A2uUxmoqBpfK95Z4u-hvqmNqsRE42ivsIc2H-NQYubExbmPug9WbHkVpuqry9hO9nNG4y/s1600/ai-code-scan.jpg"
   }
 ]
