@@ -1,5 +1,16 @@
 [
   {
+    "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
+    "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
+    "summary": "Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT). \"A malicious downloader staged a portable Java runtime and…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Feb 2026 15:36:00 +0530",
+    "timestamp": 1772186760.0,
+    "isoDate": "2026-02-27T10:06:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillKgTghwZEhxrFFKb47xsniaaZYeDlISTMJYxMDr_82YETlHvM5M0XWXjizlkv1MgSAzkIEDbOcvfPsjsOaxRHvzl4-7LWTmKR6awOPB_FidaOgq0xhHslZbEJ7zh0Hq6CV0NJ8LUY-SDyA-nF6SeQ6Zzu-qrlWWMFsVg2n3yDRj0hcIPYEPLw6eAmadL/s1600/remote.jpg"
+  },
+  {
     "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
     "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
     "summary": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam. As part of the effort, the advertisers' methods of payment h…",
@@ -317,16 +328,5 @@
     "timestamp": 1771831500.0,
     "isoDate": "2026-02-23T07:25:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6M5M47ZmJ-KuhYC2JC8UwHjdNPLoS3oSeT38cnI8sCmd9NbNFmjNh8qCUXxC7XexLVdUBTBsEIELNLfj2nM-LTRKJajmvwbdehC_bNch-kE98Py-CaDoSAZHCxQztFszsWePupECSqKuasUv8lu9IXYhg8qAS2V7ojLqicNp_HRnyhnc74n_vWYHeEQ-/s1600/muddy.jpg"
-  },
-  {
-    "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
-    "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
-    "summary": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries. That's according to n…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 21 Feb 2026 20:19:00 +0530",
-    "timestamp": 1771685340.0,
-    "isoDate": "2026-02-21T14:49:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJ0OGjlNTnrjpx23D3iKXHFeEEDiGO2GRCI-o4SmtGRuXcl5S4rAcjOqOBrfuI1g8E_pj6UQjQP-R2qfAsV08Oukshw6Inq8fUK83I9sLd3LwnPyWazzaQ3yUghSA3UL0j-BNz0tn2dCEQsG3MpACZKSXoKnM6nhyphenhyphenf727_4S_f3L8EU3fxDc332_6Swkm/s1600/FortiGate.jpg"
   }
 ]
