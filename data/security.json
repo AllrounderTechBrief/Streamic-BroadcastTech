@@ -1,5 +1,16 @@
 [
   {
+    "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
+    "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
+    "summary": "New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data. The findings come from Truffle Secur…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 28 Feb 2026 15:26:00 +0530",
+    "timestamp": 1772272560.0,
+    "isoDate": "2026-02-28T09:56:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1wA-JoARjvd0BYW-3G0XMdHXcWpWdkWk3bIkWV2myMGfRRsp4Dl8A24cpj8Elpe5lJO6KdyS36Nsts7_o0Xx70HSxwY3se4RuNPRzfFmodMhX-jU_lkCefaathP6uan4UGLWmuQvxjerq6_H-z16vFY3h4pCeVqDBGA13ne12uRZfuU7fHW2pQVAtuM4E/s1600/gemini.jpg"
+  },
+  {
     "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
     "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
     "summary": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\" \"This action follows months of negotiations that reached an impa…",
@@ -317,16 +328,5 @@
     "timestamp": 1771913040.0,
     "isoDate": "2026-02-24T06:04:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtOj1fS7tAn4wMRrrGDi48Wc6VXmI3R9vUy-2LGuDSk18ewlkxWrs9-vG7NLgIjMybAk8USxFfrfegmjLA7lGZ7vK57qY79qaxgriIm8kGMP-kuzLyu_JMU85xJXQ_hA151ZzI1mZkcfVCiDRw7oYbIwLGYg5tCe90C0etlJ5KrgnDkNT028R_AL1qtec1/s1600/claude-ai.jpg"
-  },
-  {
-    "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
-    "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
-    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe. The activity, per S2 Grupo's LAB52 threat intelligence team, was active between…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 24 Feb 2026 01:11:00 +0530",
-    "timestamp": 1771875660.0,
-    "isoDate": "2026-02-23T19:41:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSwbKDzax_Hh_RHSU7qEInhqGvzoEncnUbB3WgxiRorJPzrvWGo2GCCC0_94YDAdaIs3gBMgO8N4iM4FoMzMiaM1icI-NX2qTf5Dflmv25XR66ni1JEcMl0HxwApTpA5W48R9KLgF5oo7uB8FAjoUrI3h7FxPgoER_FCPPgJ2gHZQyk3BR4kZkt-tU6CFG/s1600/malware-attack-eu.jpg"
   }
 ]
