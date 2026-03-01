@@ -1,27 +1,5 @@
 [
   {
-    "title": "Advanced Systems Group Promotes Jody Boatwright to Chief Strategy Officer",
-    "link": "https://www.broadcastbeat.com/advanced-systems-group-promotes-jody-boatwright-to-chief-strategy-officer/",
-    "summary": "Emeryville, Calif., February 23, 2025 – Advanced Systems Group, LLC (ASG), a technology and services provider for media creatives and content owners, has appointed Jody Boatwright as Chief Strategy Officer where he’ll lead research and guid…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Fri, 27 Feb 2026 18:17:18 +0000",
-    "timestamp": 1772216238.0,
-    "isoDate": "2026-02-27T18:17:18+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Stephen Arnold Music Creates Sonic Brand Identity for TMRW Sports",
-    "link": "https://www.broadcastbeat.com/stephen-arnold-music-creates-sonic-brand-identity-for-tmrw-sports/",
-    "summary": "DALLAS— Stephen Arnold Music (SAM), the world leader in sonic branding, announces the creation of a bold new sonic identity for TMRW Sports. At the heart of the new sonic brand is a distinctive four-note mnemonic designed to accompany a new…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Fri, 27 Feb 2026 16:01:45 +0000",
-    "timestamp": 1772208105.0,
-    "isoDate": "2026-02-27T16:01:45+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Asynchronous media processing on AWS: achieving broadcast quality at scale",
     "link": "https://aws.amazon.com/blogs/media/asynchronous-media-processing-on-aws-achieving-broadcast-quality-at-scale/",
     "summary": "Introduction The media and entertainment industry is undergoing a fundamental shift toward cloud-based live production workflows. Broadcasters want to realize new avenues of revenue by unlocking global workflows, produce more content with f…",
@@ -33,83 +11,6 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/22/Figure-1-Live-broadcast-workflow-with-2-inputs-a-mixer-and-an-output.png"
   },
   {
-    "title": "Foundry releases Nuke 17.0",
-    "link": "https://www.broadcastbeat.com/foundry-releases-nuke-17-0/",
-    "summary": "London – February 26, 2026 – Creative software developer Foundry today released Nuke 17.0, the latest version of its powerful compositing tool for visual effects and animation. Marking one of the toolset’s most significant evolutions, Nuke …",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 26 Feb 2026 20:08:17 +0000",
-    "timestamp": 1772136497.0,
-    "isoDate": "2026-02-26T20:08:17+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "KRK helps Kryz Reid Keep Third Eye Blind Sounding Sharp Online, in the Studio, and on the Road",
-    "link": "https://www.broadcastbeat.com/krk-helps-kryz-reid-keep-third-eye-blind-sounding-sharp-online-in-the-studio-and-on-the-road/",
-    "summary": "LOS ANGELES, FEBRUARY 25, 2026 ― In a sun-drenched Los Angeles studio filled with guitars, laughter, and the low thrum of KRK monitors, Third Eye Blind’s Kryz Reid balances rockstar energy with producer precision. As the lead guitarist for …",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 26 Feb 2026 19:27:33 +0000",
-    "timestamp": 1772134053.0,
-    "isoDate": "2026-02-26T19:27:33+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Atomos Announces the new Ninja RAW Monitor-Recorder",
-    "link": "https://www.broadcastbeat.com/atomos-announces-the-new-ninja-raw-monitor-recorder/",
-    "summary": "February 26, 2026 Atomos announces the launch of Ninja RAW, a 5-inch HDR monitor-recorder designed to give filmmakers, content creators, and broadcasters an uncompromising and affordable tool for high-quality acquisition and precise on-set …",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 26 Feb 2026 19:10:54 +0000",
-    "timestamp": 1772133054.0,
-    "isoDate": "2026-02-26T19:10:54+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Neutrik Group Americas Makes a Strong Connection With the Latest NETGEAR Switch",
-    "link": "https://www.broadcastbeat.com/neutrik-group-americas-makes-a-strong-connection-with-the-latest-netgear-switch/",
-    "summary": "CHARLOTTE, NC, FEBRUARY 26, 2026 – Neutrik Group Americas, a subsidiary of Neutrik AG and the leading supplier of robust and reliable professional AVL connectivity solutions, which includes NEUTRIK®, REAN®, and CONTRIK® brands, partnered wi…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 26 Feb 2026 18:55:38 +0000",
-    "timestamp": 1772132138.0,
-    "isoDate": "2026-02-26T18:55:38+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Marshall Electronics CV228 Lipstick Cameras Capture Critical Fire Testing Data Inside FM’s Burn Labs",
-    "link": "https://www.broadcastbeat.com/marshall-electronics-cv228-lipstick-cameras-capture-critical-fire-testing-data-inside-fms-burn-labs/",
-    "summary": "CRANSTON, RI, FEBRUARY 26, 2026 — FM, leaders in commercial property insurance, is utilizing Marshall Electronics CV228 Weatherproof Lipstick Cameras to capture critical fire testing data inside its state-of-the-art burn labs. FM’s Fire Tec…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 26 Feb 2026 18:34:50 +0000",
-    "timestamp": 1772130890.0,
-    "isoDate": "2026-02-26T18:34:50+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Telestream Advances Production-Ready AI Across Its Product Portfolio",
-    "link": "https://www.broadcastbeat.com/telestream-advances-production-ready-ai-across-its-product-portfolio/",
-    "summary": "New AI capabilities drive smarter automation, enriched metadata, and assisted workflow design for live and file-based workflows on-premises and in the cloud Nevada City, California – February 26, 2026 – Telestream, global leader in media wo…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 26 Feb 2026 15:50:54 +0000",
-    "timestamp": 1772121054.0,
-    "isoDate": "2026-02-26T15:50:54+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Teatro alla Scala Elevates Backstage Communication with Riedel’s Bolero Wireless Intercom System",
-    "link": "https://www.broadcastbeat.com/teatro-alla-scala-elevates-backstage-communication-with-riedels-bolero-wireless-intercom-system/",
-    "summary": "WUPPERTAL, Germany — Feb. 26, 2026 — Riedel Communications today announced that Fondazione Teatro alla Scala has deployed a comprehensive wireless intercom solution, leveraging Riedel’s Bolero, NSA, RiFace, and PunQtum systems to unify and …",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 26 Feb 2026 14:17:02 +0000",
-    "timestamp": 1772115422.0,
-    "isoDate": "2026-02-26T14:17:02+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "How AWS Built a Live AI-Powered Vertical Video Capability for Fox Sports with AWS Elemental Inference",
     "link": "https://aws.amazon.com/blogs/media/how-aws-built-a-live-ai-powered-vertical-video-capability-for-fox-sports-with-aws-elemental-inference/",
     "summary": "For media companies, delivering highlights to social platforms quickly is a competitive advantage that directly drives viewership and monetization. With hundreds of live events across multiple leagues, many organizations lack resources for …",
@@ -119,72 +20,6 @@
     "timestamp": 1772044446.0,
     "isoDate": "2026-02-25T18:34:06+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/23/Example-of-video-editor-view-with-time-shifted-playback.png"
-  },
-  {
-    "title": "Studio Technologies Dante-Based Solutions Power High-Profile Sports Productions for Veteran Broadcast Engineer Daryl Doss",
-    "link": "https://www.broadcastbeat.com/studio-technologies-dante-based-solutions-power-high-profile-sports-productions-for-veteran-broadcast-engineer-daryl-doss/",
-    "summary": "LEXINGTON, KY, FEBRUARY 25, 2026 – With more than four decades of experience in radio broadcasting and live sports production, Daryl Doss, owner of Doss Technical Services and a contract engineer for SiriusXM and Westwood One Sports, has bu…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 25 Feb 2026 18:16:07 +0000",
-    "timestamp": 1772043367.0,
-    "isoDate": "2026-02-25T18:16:07+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "BCNEXXT Deploys Live HLG-Based HDR Playout Within Vipe Platform",
-    "link": "https://www.broadcastbeat.com/bcnexxt-deploys-live-hlg-based-hdr-playout-within-vipe-platform/",
-    "summary": "Designed to Enable Seamless HDR and SDR Coexistence The Netherlands – February 25, 2026 – BCNEXXT has deployed live HLG-based HDR playout capabilities within its Vipe platform, enabling broadcasters to integrate High Dynamic Range into live…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 25 Feb 2026 17:12:23 +0000",
-    "timestamp": 1772039543.0,
-    "isoDate": "2026-02-25T17:12:23+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Less Tools, More Visibility: TAG Video Systems at NAB 2026",
-    "link": "https://www.broadcastbeat.com/less-tools-more-visibility-tag-video-systems-at-nab-2026/",
-    "summary": "TAG’s IP-native Realtime Media Platform evolves with actionable visibility, open integrations, and audio intelligence, all in software New York, February 25, 2026 – TAG Video Systems (Booth W2323) will unveil new capabilities across its IP-…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 25 Feb 2026 16:30:34 +0000",
-    "timestamp": 1772037034.0,
-    "isoDate": "2026-02-25T16:30:34+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "IBC2026 unveils strategic partnership with EIT Culture & Creativity to drive next-generation innovation",
-    "link": "https://www.broadcastbeat.com/ibc2026-unveils-strategic-partnership-with-eit-culture-creativity-to-drive-next-generation-innovation/",
-    "summary": "IBC today announced a new strategic partnership with EIT Culture & Creativity – the institutional partnership for culture and creativity, supported by the European Institute of Innovation and Technology (EIT) – appointing it as its European…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 25 Feb 2026 14:38:43 +0000",
-    "timestamp": 1772030323.0,
-    "isoDate": "2026-02-25T14:38:43+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Clear-Com’s Arcadia Central Station and FreeSpeak Icon Beltpacks Keep Red Bull’s Wheels Spinning",
-    "link": "https://www.broadcastbeat.com/clear-coms-arcadia-central-station-and-freespeak-icon-beltpacks-keep-red-bulls-wheels-spinning/",
-    "summary": "Clear-Com® kept the action on track at Red Bull Shay’iMoto, an adrenaline-fueled motorsport spinning event that transformed the streets of Durban, South Africa into a live performance arena. To manage communications in the extreme noise, sp…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 25 Feb 2026 14:13:19 +0000",
-    "timestamp": 1772028799.0,
-    "isoDate": "2026-02-25T14:13:19+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Alcom Elevates Headend Video Service with Harmonic to Drive Growth",
-    "link": "https://www.broadcastbeat.com/alcom-elevates-headend-video-service-with-harmonic-to-drive-growth/",
-    "summary": "Harmonic’s XOS Advanced Media Processor Leverages AI-Powered Encoding to Deliver Exceptional Video Quality to Alcom Customers SAN JOSE, Calif. — Feb. 25, 2026 — Harmonic (NASDAQ: HLIT) today announced that Alcom, a leading telco operator in…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 25 Feb 2026 13:45:10 +0000",
-    "timestamp": 1772027110.0,
-    "isoDate": "2026-02-25T13:45:10+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Scale global live reach with AWS powered real-time WebVTT multilingual subtitling",
