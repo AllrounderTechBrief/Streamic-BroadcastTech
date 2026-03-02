@@ -1,5 +1,16 @@
 [
   {
+    "title": "⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+    "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+    "summary": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are bei…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 02 Mar 2026 18:56:00 +0530",
+    "timestamp": 1772457960.0,
+    "isoDate": "2026-03-02T13:26:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu0K0gzfLNadrVS1pk-FHUr-YKau70_2AMjFqoEQn73Mycfa1L3KJO_qQw4Iy83xZ4N8CIj4at04Eh4RDW8FBqza_Ob59078iWjuUKiRYDmlBsKka28GnhpwY680JoRjiO_6LGSU56CLbbj58UKANlY57dUOuQSG18lHn1kBtnn6oEaypA0DcdPypgylsI/s1600/recap-main.jpg"
+  },
+  {
     "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
     "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
     "summary": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them. On paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off: S…",
@@ -317,16 +328,5 @@
     "timestamp": 1771959120.0,
     "isoDate": "2026-02-24T18:52:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCSgjd-Xezu42fOKahjOxnhqntkclItoP8FmMfyjjKTmelK3eHoUEi6_75n6ORgD650By4wESNP8yDP2WWENzqI5T9Gl-NhYPPTiAQgkFykZv1d_MsCECcu0ZgQWt29JiGmH1zCmwNWSin8AQMWmsOm6r4ZdS8EOIC9Xtdw7FrRlN8kQs7o2s_whiNtcSH/s1600/github-copilot.jpg"
-  },
-  {
-    "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
-    "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
-    "summary": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 24 Feb 2026 19:51:00 +0530",
-    "timestamp": 1771942860.0,
-    "isoDate": "2026-02-24T14:21:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMR8uMyTA6j9P1KBgNFXf7uKvuD9CpolHGiMuaTIMOc87IKSqoGXWxea4Hs3unk1kLewzUd0hyOxpk6AsnEy1WmKwQwW8QV2zFBJiCi6PLOMi5zxAD_C2_DZytczAcPCSA_JGN9Se8arByQlLzoTiDaX1qJiA0Q6IT2Sfeg7BgkeQZ2ptQcjo_RX8jMgs1/s1600/bank-cyberattack.jpg"
   }
 ]
