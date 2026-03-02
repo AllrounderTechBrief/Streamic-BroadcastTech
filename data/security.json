@@ -1,5 +1,16 @@
 [
   {
+    "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
+    "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
+    "summary": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry. The packages masquerade as develo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 02 Mar 2026 14:14:00 +0530",
+    "timestamp": 1772441040.0,
+    "isoDate": "2026-03-02T08:44:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB4nJ8ODWGAqDEjQl4cCSKOtIJoGood2beXae5mc7MKzZbAYl1Ij2AX0L3CNCuUc4R4TL-DOR6bIHU6yzHfoFir_gl6jbUf_0w69pGg3tsXI92smKf02pmQPqkbyBs-eOUp0SqdGSrBH68os3R2lkTDGvGpi3R3-EThgOy_ATJKTXVqr0_ug-otA6FkeAo/s1600/npm.jpg"
+  },
+  {
     "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
     "link": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
     "summary": "OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take over control. \"Our vulnerability lives in …",
@@ -317,16 +328,5 @@
     "timestamp": 1771933920.0,
     "isoDate": "2026-02-24T11:52:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8IcEeHdjKVhbeZP0v5G8x6EkPm5eEyUw_3q4XGAUEy3-i6xxFe2YEBJK7BuSzLVxVw5QbvTTBuxGecX4hcqC0wpunXm_GaMIrGPL7CJVyHGysCjvpJOiA7srjnhPROT8Gsd-9jWKxW8O0f37D1yzvXxPuVvGIEp1ZJyNQGALU2md2PhvcRvmlINS7Ah6G/s1600/locked.jpg"
-  },
-  {
-    "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
-    "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
-    "summary": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities. The attacks involve the deploy…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 24 Feb 2026 15:24:00 +0530",
-    "timestamp": 1771926840.0,
-    "isoDate": "2026-02-24T09:54:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNzH9FCcwXlaHaCt3zQfmpwV3uesrW_2ISdcvbuKMl7PIENe9w6dhzBVpj19_BmgHKcZIzxBLSBFOmwNx2ahUast29Tk_LJoY8qz-SrJziWhHTHURX8HTvJuIVvMJourUJ0Hw8RKnXYUFcz9wsaO7_halOZmw3gof1-N1-jI-MtNsztV5YYP4WvQdPBcY/s1600/TELECOM.jpg"
   }
 ]
