@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
+    "link": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
+    "summary": "Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers. The activity, the company said, targets government…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 03 Mar 2026 14:50:00 +0530",
+    "timestamp": 1772529600.0,
+    "isoDate": "2026-03-03T09:20:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaGXK9F-m4oJx6H9HD0gQaOmONLT8sEFgtKmoGO4k6MzjQY-bfbtoGrUcG2k7tH571M_K6Ej7P5Z5vtjuCYsrKU3tRpOE2fkZv_ViiEmjpUeYwwHTB_8oKlQZd2-VysqvPgdvaofwFi13iPjMSe1pjf0nudP2s4YvheFQHwvsQT8neGjKTPq7nA_PPn0x/s1600/ms-login.jpg"
+  },
+  {
     "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
     "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
     "summary": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild. The vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer ov…",
@@ -317,16 +328,5 @@
     "timestamp": 1772023380.0,
     "isoDate": "2026-02-25T12:43:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-bjDoQWaHQbmh17EY0EzAbNkQxh3AHTCEBNjNpdXsBeuuuHPycl9tIzC9msasA7ZwhewkuMMk-MAJvrV5EVSgOrn8FdHnAxdkiGA1YRNL4pHJ3QUSoreUf6d9VIRagp9oi26XKEYgsdon3wDf81fE5mjkq8yJmhC2wSkIK3emLP_xHvAJ2eC3uanvXEW/s1600/coding.jpg"
-  },
-  {
-    "title": "Manual Processes Are Putting National Security at Risk",
-    "link": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
-    "summary": "Why automating sensitive data transfers is now a mission-critical priority More than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the Digital Battles…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 25 Feb 2026 16:30:00 +0530",
-    "timestamp": 1772017200.0,
-    "isoDate": "2026-02-25T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTbttsBjbdKdXIOeHSFgfUVWVU-b7OHEjeyjoeKSBCV3Hnw9ecKqS8Eg2Hhx-VTaFgdjd1-UvFSgZkjkYNnLICgEKQy9-J_lseukUyEr_Q3HV-CuJyZ5OxK64-qtnMYduhtorZyKCnxboOUCitv9mOQhFEGt9cytBNNiyO92J5Qlt9JOTYCN0zH_kKdg/s1600/national-security.jpg"
   }
 ]
