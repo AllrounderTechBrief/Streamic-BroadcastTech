@@ -1,5 +1,16 @@
 [
   {
+    "title": "Inside NFL IQ: The Analytics Engine Behind the NFL Offseason",
+    "link": "https://aws.amazon.com/blogs/media/inside-nfl-iq-the-analytics-engine-behind-the-nfl-offseason/",
+    "summary": "The biggest decisions in the National Football League (NFL) don’t always happen under stadium lights. More often, they’re made weeks later — when scouts are replaying drills frame by frame, analysts are running probability models late into …",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 03 Mar 2026 02:04:32 +0000",
+    "timestamp": 1772503472.0,
+    "isoDate": "2026-03-03T02:04:32+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/02/nfl-blog-seahawks.png"
+  },
+  {
     "title": "Modernizing with agile SASE: a Cloudflare One blog takeover",
     "link": "https://blog.cloudflare.com/modernize-agile-sase/",
     "summary": "In 2026, agile SASE is the engine for modernization. Discover how Cloudflare One secures humans, devices, and AI agents on a single, programmable connectivity cloud.",
@@ -427,16 +438,5 @@
     "timestamp": 1762451045.0,
     "isoDate": "2025-11-06T17:44:05+00:00",
     "imageUrl": "https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png"
-  },
-  {
-    "title": "France Télévisions transformed Paris 2024 Olympic Games advertising using AWS",
-    "link": "https://aws.amazon.com/blogs/media/france-televisions-transformed-paris-2024-olympic-games-advertising-using-aws/",
-    "summary": "In the dynamic world of sports broadcasting, a subtle revolution was unfolding behind the scenes during the Paris 2024 Olympic Games. While millions of viewers watched the athletes’ feats on their screens, few suspected the technological ma…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 04 Nov 2025 17:17:24 +0000",
-    "timestamp": 1762276644.0,
-    "isoDate": "2025-11-04T17:17:24+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/11/04/FTAD-Image-1-2.png"
   }
 ]
