@@ -1,5 +1,16 @@
 [
   {
+    "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
+    "link": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 04 Mar 2026 10:05:00 +0530",
+    "timestamp": 1772598900.0,
+    "isoDate": "2026-03-04T04:35:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSnIflppBRH5X_FxN5pZcibA3-KyhW9iDiNGlD76L9B8dFwzLtP5i7FHFzf73XpTAhCLtmQn0JD_fUqgXceUlrCwPgJqbmlkPXi2e_IDggrIHDyJ5HoDzr191LxAbe08arokXZ4FXH5k9NxErepVgiaEkGVfWDWQ2ZWJ8h3mGjySQ-QqTzo02oBdh01Up/s1600/vmware.jpg"
+  },
+  {
     "title": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations",
     "link": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
     "summary": "Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack. The intrusio…",
@@ -317,16 +328,5 @@
     "timestamp": 1772100540.0,
     "isoDate": "2026-02-26T10:09:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOA0ov4ywkdj7FrYHif0WbJFrQ04THhkLcOL83R7ggXvtpTTMUeO8-3e-YOobbh_5hGpdNbnXr1pbeU4Uj1DfBd7HLLefvr3fbmKeNnmxknerJm4TDUvvNUL1uJT0MN5frpDoVizcBh5KuEtiU-zq2rhZhZmLJ3iVOauRaHqBUf3k5DnZU8MUq7WHE8fX/s1600/Stripe-malware.jpg"
-  },
-  {
-    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-    "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-    "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates ba…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Feb 2026 11:43:00 +0530",
-    "timestamp": 1772086380.0,
-    "isoDate": "2026-02-26T06:13:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguuaG3Zn05bu2DRYkpxdcKrvugskd4bWxOdVfAIk2Yeaz_haffll_p9cgQ9DvoIID6Qyihvpq0q9M8NZFBOFprN-7ILllTeAs7Y5WJ5kqUPsBblknz376nPPxRa04vGkCKNVfLSUgTfweasJd9Q533msiw6SdqGP0K61_ZZYMhR9QD_sueS-R9vftPtheu/s1600/cisco.jpg"
   }
 ]
