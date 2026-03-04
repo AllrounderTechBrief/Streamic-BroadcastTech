@@ -1,5 +1,16 @@
 [
   {
+    "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
+    "link": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
+    "summary": "Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion. \"The hacktivist threat in the Middle East is hig…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 04 Mar 2026 22:51:00 +0530",
+    "timestamp": 1772644860.0,
+    "isoDate": "2026-03-04T17:21:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjabhLtgN_k3Zm7rY2cHxMPh9Py-QdY1pESzIEtJbo45w5Y744g5nEtkc9z6tmPaXh_wB0pgzxbFwTzM7C0whbwEbbSopd-CZy98ANNcLF5k7orHTEMlkLSN5JegxMAMPEyeXPE2VXurPv4npqtKkvuay4ZltoPMk47uR-eqP6LsFHp3SqxAeu8tthDyZMa/s1600/ddos.jpg"
+  },
+  {
     "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1",
     "link": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html",
     "summary": "Google said it identified a \"new and powerful\" exploit kit dubbed Coruna (aka CryptoWaters) targeting Apple iPhone models running iOS versions between 13.0 and 17.2.1. The exploit kit featured five full iOS exploit chains and a total of 23 …",
@@ -317,16 +328,5 @@
     "timestamp": 1772128800.0,
     "isoDate": "2026-02-26T18:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQlH8RQUmcg8IWqV76NL0o4uRe86gJ6kxLV3DRYppBAVrfFR_gMPQBFn6GIl2jd9ZgzsuwRGAGTVUbaWCj795-XZ8I3eSBDLz6Q_0w4Alef6GNA3NtpK4po_WVC6p9o4aNVHqgCAEb3a7CqL_x7oBGWQ7N4z0IMyzOX3aZoI_TUZenfdAm0LZojDIkumG0/s1600/botnet.jpg"
-  },
-  {
-    "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
-    "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
-    "summary": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025. The campaign is being tracked by Cisco Talos under t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Feb 2026 20:47:00 +0530",
-    "timestamp": 1772119020.0,
-    "isoDate": "2026-02-26T15:17:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAVofZLLo1DEzVLXd9ahr2wbZLNqwM8K5eVDE8pDM5ossDzBi_U34YB81lu7LBProqz1SirGb7brANr4AQ83_k9Y0RhlcrsKKpl0IBovDLdy1awHNR_dxEV0umYpWUWLWkx7vQqCbunXZ7WnnJooiCvhchGXFwLAdT0LljMY_4MVRGfv2gM8uofci2J7E/s1600/healthcare-cyberattack.jpg"
   }
 ]
