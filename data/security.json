@@ -1,5 +1,16 @@
 [
   {
+    "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
+    "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
+    "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024. \"Silver Dragon…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 04 Mar 2026 13:44:00 +0530",
+    "timestamp": 1772612040.0,
+    "isoDate": "2026-03-04T08:14:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPaqQJe-7ak-qgx29_h6G7zUiJhGiBSHZEiydrRzZzuKVlVMBzrJNLFndAvmu15EzX2SXQ8NUHKyH9ZJDQRQMnXukmrUfdPor35gswSxUuTNGGXo7h8eOhDNBVAaCGEo_ohNYv2-8W-zpOuSSHYqCB5iURwesotjNTK9a3926UdkuqI2uz-zUBMzNP5cU/s1600/dragon.jpg"
+  },
+  {
     "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
     "link": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation …",
@@ -317,16 +328,5 @@
     "timestamp": 1772102100.0,
     "isoDate": "2026-02-26T10:35:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GaeyxU6qnAMuRiZnc2gbSF7-tg-keCAzXjwtDBtKJhuZ0wcqxbPb_N-NyXBTrZ85M3dGuMYgk8qV4-QfSELGQ5o3NxoNAqeKfeoILZRrvkx72BJeTqvrVtnedsfUHTjl1Gn6NRQt2_dnJpnxV-PhKEekQXgqO1SZWyG_tRi1Jhjt5m87iDhABGq85pXt/s1600/software-hacker.jpg"
-  },
-  {
-    "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
-    "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector. The package, codenamed St…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Feb 2026 15:39:00 +0530",
-    "timestamp": 1772100540.0,
-    "isoDate": "2026-02-26T10:09:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOA0ov4ywkdj7FrYHif0WbJFrQ04THhkLcOL83R7ggXvtpTTMUeO8-3e-YOobbh_5hGpdNbnXr1pbeU4Uj1DfBd7HLLefvr3fbmKeNnmxknerJm4TDUvvNUL1uJT0MN5frpDoVizcBh5KuEtiU-zq2rhZhZmLJ3iVOauRaHqBUf3k5DnZU8MUq7WHE8fX/s1600/Stripe-malware.jpg"
   }
 ]
