@@ -1,5 +1,49 @@
 [
   {
+    "title": "Mind the gap: new tools for continuous enforcement from boot to login",
+    "link": "https://blog.cloudflare.com/mandatory-authentication-mfa/",
+    "summary": "Cloudflare’s mandatory authentication and independent MFA protect organizations by ensuring continuous enforcement, from the moment a machine boots until sensitive resources are accessed.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 04 Mar 2026 14:00:00 GMT",
+    "timestamp": 1772632800.0,
+    "isoDate": "2026-03-04T14:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/soh6QIt80EoRsWAaTKLIc/9398094837a2ef71025f012f28ffbd2e/image2.jpg"
+  },
+  {
+    "title": "Defeating the deepfake: stopping laptop farms and insider threats",
+    "link": "https://blog.cloudflare.com/deepfakes-insider-threats-identity-verification/",
+    "summary": "Cloudflare One is partnering with Nametag to combat laptop farms and AI-enhanced identity fraud by requiring identity verification during employee onboarding and via continuous authentication.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 04 Mar 2026 06:00:00 GMT",
+    "timestamp": 1772604000.0,
+    "isoDate": "2026-03-04T06:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6qMAEp4s6PAD9zEBrbDYMF/dc269f1553141e7ee2b6cf9adb44caa0/image2.png"
+  },
+  {
+    "title": "Moving from license plates to badges: the Gateway Authorization Proxy",
+    "link": "https://blog.cloudflare.com/gateway-authorization-proxy-identity-aware-policies/",
+    "summary": "Cloudflare’s Gateway Authorization Proxy adds support for identity-aware policies for clientless devices, securing virtual desktops, and guest networks without a device client.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 04 Mar 2026 06:00:00 GMT",
+    "timestamp": 1772604000.0,
+    "isoDate": "2026-03-04T06:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4keaUmegcmKUc2WxgcbTym/50b4a5fd446a7ad5a3bd0e12d2d2fb8d/image2.png"
+  },
+  {
+    "title": "Stop reacting to breaches and start preventing them with User Risk Scoring",
+    "link": "https://blog.cloudflare.com/adaptive-access-user-risk-scoring/",
+    "summary": "Cloudflare One now incorporates dynamic User Risk Scores into Access policies to enable automated, adaptive security responses. This update allows teams to move beyond binary \"allow/deny\" rules by evaluating continuous behavior signals from…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 04 Mar 2026 06:00:00 GMT",
+    "timestamp": 1772604000.0,
+    "isoDate": "2026-03-04T06:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/15N4TzN0c5kYtPjlpMWYDa/e8c621ba2c2c253c04e6d6dbff992117/image1.png"
+  },
+  {
     "title": "Introducing the 2026 Cloudflare Threat Report",
     "link": "https://blog.cloudflare.com/2026-threat-report/",
     "summary": "There has been a fundamental shift toward industrialized cyber threats, highlighted by a record 31.4 Tbps DDoS attack and sophisticated session token theft. Our new report examines how nation-states and criminal actors have moved beyond tra…",
@@ -231,17 +275,6 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/17/FIGURE-1_quib-blog.png"
   },
   {
-    "title": "Code Mode: give agents an entire API in 1,000 tokens",
-    "link": "https://blog.cloudflare.com/code-mode-mcp/",
-    "summary": "The Cloudflare API has over 2,500 endpoints. Exposing each one as an MCP tool would consume over 2 million tokens. With Code Mode, we collapsed all of it into two tools and roughly 1,000 tokens of context.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 20 Feb 2026 14:00:00 GMT",
-    "timestamp": 1771596000.0,
-    "isoDate": "2026-02-20T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7KqjQiI09KubtUSe9Dgf0N/6f37896084c7f34abca7dc36ab18d8e0/image2.png"
-  },
-  {
     "title": "TV 2 Norway scales to support 20,000 live sports streams with AWS",
     "link": "https://aws.amazon.com/blogs/media/tv-2-norway-scales-to-support-20000-live-sports-streams-with-aws/",
     "summary": "Live sports production and delivery have changed tremendously in the past decade, backed by cloud and streaming advancements making it more accessible to a broader range of organizations. TV 2 Norway has helped pioneer this incredible trans…",
@@ -251,17 +284,6 @@
     "timestamp": 1771283793.0,
     "isoDate": "2026-02-16T23:16:33+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/13/T2-arena.png"
-  },
-  {
-    "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
-    "link": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-    "summary": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 13 Feb 2026 14:00:00 GMT",
-    "timestamp": 1770991200.0,
-    "isoDate": "2026-02-13T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4QK8GY1s30C8RUovBQnqbD/525094478911eda96c7877a10753159f/image3.png"
   },
   {
     "title": "HiBid brings the excitement of auctions online with Amazon IVS",
@@ -275,17 +297,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Introducing Markdown for Agents",
-    "link": "https://blog.cloudflare.com/markdown-for-agents/",
-    "summary": "The way content is discovered online is shifting, from traditional search engines to AI agents that need structured data from a Web built for humans. It’s time to consider not just human visitors, but start to treat agents as first-class ci…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 12 Feb 2026 14:03:00 GMT",
-    "timestamp": 1770904980.0,
-    "isoDate": "2026-02-12T14:03:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6Zw1Q5kBBqTrouN1362H5I/3080d74a2a971be1f1e7e0ba79611998/BLOG-3162_2.png"
-  },
-  {
     "title": "Set up LucidLink with service managed fleet scripts for AWS Deadline Cloud",
     "link": "https://aws.amazon.com/blogs/media/set-up-lucidlink-with-service-managed-fleet-scripts-for-aws-deadline-cloud/",
     "summary": "Modern creative workflows demand high-performance rendering capabilities that can scale on demand without the operational overhead of managing infrastructure. AWS Deadline Cloud service-managed fleets address this challenge. It handles the …",
@@ -295,17 +306,6 @@
     "timestamp": 1770730610.0,
     "isoDate": "2026-02-10T13:36:50+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/06/Lucid-Image-1.png"
-  },
-  {
-    "title": "2025 Q4 DDoS threat report: A record-setting 31.4 Tbps attack caps a year of massive DDoS assaults",
-    "link": "https://blog.cloudflare.com/ddos-threat-report-2025-q4/",
-    "summary": "The number of DDoS attacks more than doubled in 2025. The network layer is under particular threat as hyper-volumetric attacks grew 700%.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 05 Feb 2026 14:00:00 GMT",
-    "timestamp": 1770300000.0,
-    "isoDate": "2026-02-05T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7gWz9fvMGvTVL30YfnFL55/57749a329c2be23e45f87227221aa440/BLOG-3098_2.png"
   },
   {
     "title": "How DoveRunner Multi-DRM Cloud integrates with AWS media services",
