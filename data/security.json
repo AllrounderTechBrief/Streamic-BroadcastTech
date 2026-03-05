@@ -1,5 +1,27 @@
 [
   {
+    "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
+    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
+    "summary": "Some weeks in cybersecurity feel routine. This one doesn’t. Several new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new f…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Mar 2026 19:14:00 +0530",
+    "timestamp": 1772718240.0,
+    "isoDate": "2026-03-05T13:44:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmX71oTh0PhBoeXrV6BUD7_jQe9VWPqHc60ijUxf4iv8wPE8UeWY8dlDrfbx3-Ut5aNoNQZJ8DH_ADNQGgFL4NbMMcw-IayIe9HXKG3l5EN3-og9LuNqBP452mXpm1HTn3ooWlJ-q4QRqvPJC4gmR0lstJ8KWdQYa2knQ5J69nneIwIRTKKG43fXtcWRXm/s1600/threatsday.jpg"
+  },
+  {
+    "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+    "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+    "summary": "Most organizations assume encrypted data is safe. But many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Mar 2026 18:43:00 +0530",
+    "timestamp": 1772716380.0,
+    "isoDate": "2026-03-05T13:13:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg"
+  },
+  {
     "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
     "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
     "summary": "A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware. Zscaler ThreatLabz, which…",
@@ -306,27 +328,5 @@
     "timestamp": 1772254620.0,
     "isoDate": "2026-02-28T04:57:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1VB5XjUzzozGARm5rLhXynwMUWvOhyS4BwO0WHVH6BWf7DhyphenhyphencjAx23XY3HJhDvtgaJ_nW31sVB9yejXl_h6PS1m-X2lbtohZZuJIiSkhRvFsgLASnaDT-PGlcqhsMX-0X7OkK865R0UlztioEsFS8vkdv73Sarw7_H6mvg14v_ovh6hk9NqW3tzlmZ8X/s1600/Anthropic.jpg"
-  },
-  {
-    "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-    "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-    "summary": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering. The confiscated funds were traced to cryptocurrenc…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 27 Feb 2026 23:41:00 +0530",
-    "timestamp": 1772215860.0,
-    "isoDate": "2026-02-27T18:11:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglF1nudH44Lr269ed-E49qDWqg7t-GFuybhyQ8-6oDnBn-CcFh7o21w44Cjxxw0cuZQDBXdHQCxuOrR_vOLEvON4DyGSPWbr-7l3XaHXInETTZLxm-BAfCxUCFZ-Wxek-TnFI8t1rJ3gew5p3BnztZeIXY0ePy6DUFqL5R9QlKHZaUOVPwdIuDLkCju83c/s1600/tether-scam.jpg"
-  },
-  {
-    "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
-    "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
-    "summary": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025. Of these, 401 instances ar…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 27 Feb 2026 23:29:00 +0530",
-    "timestamp": 1772215140.0,
-    "isoDate": "2026-02-27T17:59:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVfnqoWodxrya2TOd7lDLrZ23Bvo_FZhrnRLTnOO-Y4zvouKylIpkT7KE_LKo8lQGBCwMo3GCldGiyqSJobUKHLxmKx6hja0EBG6K3DCtQG-bmDDapu2el8CnQMMs971cJ3dICyw4-T1I8o0W7-XNHKzRBO8U48USZlO8MmtJkKKaOkweEzgKZF2PyaUt9/s1600/freepbx.jpg"
   }
 ]
