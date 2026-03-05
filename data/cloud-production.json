@@ -1,5 +1,38 @@
 [
   {
+    "title": "esRadio Advances with DHD RX2 Audio Production Consoles",
+    "link": "https://www.broadcastbeat.com/esradio-advances-with-dhd-rx2-audio-production-consoles/",
+    "summary": "Madrid, Spain, March 5th, 2026: Spanish FM and online broadcaster esRadio has selected DHD RX2 audio production consoles for use at its studio headquarters in Madrid. Part of the Libertad Digital media group, esRadio was launched on Septemb…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 05 Mar 2026 16:46:42 +0000",
+    "timestamp": 1772729202.0,
+    "isoDate": "2026-03-05T16:46:42+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "LucidLink launches Connect to extend instant access to data stores",
+    "link": "https://www.broadcastbeat.com/lucidlink-launches-connect-to-extend-instant-access-to-data-stores/",
+    "summary": "Emmy-winning file streaming platform introduces a new way to access and stream data from existing data stores, without migration, duplication or architectural changes. LucidLink, the cloud-native file streaming platform for instant, secure …",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 05 Mar 2026 16:14:56 +0000",
+    "timestamp": 1772727296.0,
+    "isoDate": "2026-03-05T16:14:56+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "BeckTV Launches BeckFlow at 2026 NAB Show While Highlighting Its Latest Design and Integration Projects",
+    "link": "https://www.broadcastbeat.com/becktv-launches-beckflow-at-2026-nab-show-while-highlighting-its-latest-design-and-integration-projects/",
+    "summary": "AUSTIN, Texas — March 5, 2026 — At the 2026 NAB Show, BeckTV, a premier systems integrator for the broadcast industry, is launching BeckFlow, the first web-based schematic documentation platform designed and developed specifically for the m…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 05 Mar 2026 16:02:56 +0000",
+    "timestamp": 1772726576.0,
+    "isoDate": "2026-03-05T16:02:56+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Net Insight sets a New Standard for Live Media Operations with Nimbra Live Intelligence",
     "link": "https://www.broadcastbeat.com/net-insight-sets-a-new-standard-for-live-media-operations-with-nimbra-live-intelligence/",
     "summary": "Stockholm, Sweden March 5, 2026 – At NAB Show 2026, Net Insight introduces Nimbra Live Intelligence defining a new category and setting a new standard for live operations: the Open Media Platform for Live. Built as one platform with three d…",
@@ -143,17 +176,6 @@
     "imageUrl": ""
   },
   {
-    "title": "DHD to Introduce Latest Generation Broadcast Audio Mixers at NAB 2026, Las Vegas",
-    "link": "https://www.broadcastbeat.com/dhd-to-introduce-latest-generation-broadcast-audio-mixers-at-nab-2026-las-vegas/",
-    "summary": "Leipzig, Germany, March 3rd, 2026: DHD is expanding the capabilities of its DX2, RX2, SX2 and TX2 broadcast audio mixers, RM1 portable production unit and XC3/XD3/XS2 processing cores with the introduction of Firmware 10.4. Exhibiting on Ce…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 03 Mar 2026 12:18:22 +0000",
-    "timestamp": 1772540302.0,
-    "isoDate": "2026-03-03T12:18:22+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Inside NFL IQ: The Analytics Engine Behind the NFL Offseason",
     "link": "https://aws.amazon.com/blogs/media/inside-nfl-iq-the-analytics-engine-behind-the-nfl-offseason/",
     "summary": "The biggest decisions in the National Football League (NFL) don’t always happen under stadium lights. More often, they’re made weeks later — when scouts are replaying drills frame by frame, analysts are running probability models late into …",
@@ -163,28 +185,6 @@
     "timestamp": 1772503472.0,
     "isoDate": "2026-03-03T02:04:32+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/02/nfl-blog-seahawks.png"
-  },
-  {
-    "title": "DoPchoice Introduces SNAPBAG® Round for the New Astera QuikBeam",
-    "link": "https://www.broadcastbeat.com/dopchoice-introduces-snapbag-round-for-the-new-astera-quikbeam/",
-    "summary": "Compact design delivers Bigger, Rounder, Brighter Output February 25, 2026—To expand the creative potential of the compact Astera QuikBeam, DoPchoice introduces the SNAPBAG® Round. The new light-shaping accessory transforms the powerful Fre…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 02 Mar 2026 09:07:35 +0000",
-    "timestamp": 1772442455.0,
-    "isoDate": "2026-03-02T09:07:35+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Douglas Dubler Master of Light: Five Decades Shooting with Zeiss",
-    "link": "https://www.broadcastbeat.com/douglas-dubler-master-of-light-five-decades-shooting-with-zeiss/",
-    "summary": "Douglas Dubler On a rooftop in New York City, veteran photographer Douglas Dubler watched the sun’s angle shift across the urban landscape, his internal clock fastidiously tracking the few minutes of perfect light. With a 13-person crew sta…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 02 Mar 2026 09:06:14 +0000",
-    "timestamp": 1772442374.0,
-    "isoDate": "2026-03-02T09:06:14+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Asynchronous media processing on AWS: achieving broadcast quality at scale",
