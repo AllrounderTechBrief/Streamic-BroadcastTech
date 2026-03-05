@@ -1,5 +1,16 @@
 [
   {
+    "title": "Building intelligent media supply chain automation using Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/media/building-intelligent-media-supply-chain-automation-using-amazon-bedrock-agentcore/",
+    "summary": "The media industry is experiencing a fundamental shift in how content is processed, analyzed, and monetized. Recent breakthroughs in vision-based generative AI models have dramatically reduced both the cost and complexity of understanding v…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 05 Mar 2026 01:54:08 +0000",
+    "timestamp": 1772675648.0,
+    "isoDate": "2026-03-05T01:54:08+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/03/Figure-1-Solution-architecture.png"
+  },
+  {
     "title": "Always-on detections: eliminating the WAF “log versus block” trade-off",
     "link": "https://blog.cloudflare.com/attack-signature-detection/",
     "summary": "Cloudflare is introducing Attack Signature Detection and Full-Transaction Detection to provide continuous, high-fidelity security insights without the manual tuning of traditional WAFs. By correlating request payloads with server responses,…",
@@ -427,16 +438,5 @@
     "timestamp": 1762969446.0,
     "isoDate": "2025-11-12T17:44:06+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/11/04/ARD-Image-1.png"
-  },
-  {
-    "title": "Optimizing TV and radio media buying using SmartSpot360 on AWS",
-    "link": "https://aws.amazon.com/blogs/media/optimizing-tv-and-radio-media-buying-using-smartspot360-on-aws/",
-    "summary": "This blog post was co-authored by Jhon Valencia (SVP of Technology & Data), Preston Porter (Vice President of Operations), and Claire McCue (Director of Marketing) at BMG360. When you depend on high-volume lead generation, media buying effi…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 06 Nov 2025 17:44:05 +0000",
-    "timestamp": 1762451045.0,
-    "isoDate": "2025-11-06T17:44:05+00:00",
-    "imageUrl": "https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png"
   }
 ]
