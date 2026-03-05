@@ -165,6 +165,17 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3PiutZ0tTvG7uFxBiAARwl/1231223aacc84fc635b77450df48a4ec/image2.png"
   },
   {
+    "title": "Hackathon Spotlight – Natural Language Player Configuration in the Bitmovin Player Playground",
+    "link": "https://bitmovin.com/blog/natural-language-player-configuration-hackathon/",
+    "summary": "At Bitmovin, hackathons are an opportunity to explore ideas that improve developer experience and reduce friction when working with video technology. In this hackathon, we focused on a challenge many developers encounter when using the Bitm…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Sat, 28 Feb 2026 22:54:47 +0000",
+    "timestamp": 1772319287.0,
+    "isoDate": "2026-02-28T22:54:47+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/02/image.jpeg"
+  },
+  {
     "title": "Toxic combinations: when small signals add up to a security incident",
     "link": "https://blog.cloudflare.com/toxic-combinations-security/",
     "summary": "Minor misconfigurations or request anomalies often seem harmless in isolation. But when these small signals converge, they can trigger a security incident known as a toxic combination. Here’s how to spot the signs.",
@@ -253,6 +264,17 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7BCYnb6nCnc9oRBPQnuES5/d217b3582f4fe30597a3b4bf000d9bd7/BLOG-3194_2.png"
   },
   {
+    "title": "Hackathon Spotlight: AI-Assisted Jira Workflows and One-Shot Fixes with Kotlin Koog and OpenAI Codex",
+    "link": "https://bitmovin.com/blog/ai-developer-workflows-jira-to-pull-request/",
+    "summary": "During a recent company-wide hackathon at Bitmovin, teams across the organization explored how AI could be used to improve internal workflows and prototype ideas that may influence future product directions. One area that consistently slows…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Mon, 23 Feb 2026 23:13:07 +0000",
+    "timestamp": 1771888387.0,
+    "isoDate": "2026-02-23T23:13:07+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Cloudflare One is the first SASE offering modern post-quantum encryption across the full platform",
     "link": "https://blog.cloudflare.com/post-quantum-sase/",
     "summary": "We’ve upgraded Cloudflare One to support post-quantum encryption by implementing the latest IETF drafts for hybrid ML-KEM into our Cloudflare IPsec product. This extends post-quantum encryption across all major Cloudflare One on-ramps and o…",
@@ -319,6 +341,17 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/06/Lucid-Image-1.png"
   },
   {
+    "title": "ICYMI: Q4 2025 Product Updates Across Playback, Encoding, and AI Scene Analysis",
+    "link": "https://bitmovin.com/blog/icymi-q4-2025-streaming-product-updates/",
+    "summary": "Over the last quarter, we continued expanding automation, observability intelligence, and workflow control across playback, encoding, and AI-driven metadata workflows. Many of these updates focus on helping teams reduce manual investigation…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Wed, 04 Feb 2026 16:32:37 +0000",
+    "timestamp": 1770222757.0,
+    "isoDate": "2026-02-04T16:32:37+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "How DoveRunner Multi-DRM Cloud integrates with AWS media services",
     "link": "https://aws.amazon.com/blogs/media/how-doverunner-multi-drm-cloud-integrates-with-aws-media-services/",
     "summary": "This blog post was co-authored by Erik Peña, Multi-DRM Product Manager at DoveRunner Viewers, content owners and over-the-top (OTT) services face a significant challenge: balancing content accessibility with strong security measures, partic…",
@@ -328,6 +361,28 @@
     "timestamp": 1770147606.0,
     "isoDate": "2026-02-03T19:40:06+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/16/DR-Image-1.png"
+  },
+  {
+    "title": "The Importance of Observability in Live Video Streaming",
+    "link": "https://bitmovin.com/blog/live-streaming-observability/",
+    "summary": "TL;DR Originally published August 5, 2024. Added new section on live streaming for social platforms. In today’s digital age, live video streaming has become an essential medium for communication, entertainment, and information dissemination…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Mon, 26 Jan 2026 16:23:11 +0000",
+    "timestamp": 1769444591.0,
+    "isoDate": "2026-01-26T16:23:11+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2024/07/AdobeStock_110297291-min-3000x2000.jpeg"
+  },
+  {
+    "title": "When Ads Are Shaped by the Scene: Exploring Generative AI",
+    "link": "https://bitmovin.com/blog/when-ads-are-shaped-by-the-scene-generative-ai/",
+    "summary": "TL;DR At Bitmovin, we believe that the best products often start as “bold ideas” born out of curiosity, especially when exploring how new technologies like generative AI could shape video workflows. That is why we host quarterly two-day hac…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Mon, 26 Jan 2026 14:37:20 +0000",
+    "timestamp": 1769438240.0,
+    "isoDate": "2026-01-26T14:37:20+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/01/image.png"
   },
   {
     "title": "Cosm scales high-resolution Shared Reality experiences with AWS",
@@ -363,6 +418,17 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/14/MLEB-Image-1.png"
   },
   {
+    "title": "Understanding MCP: A New Way to Access Your Data with Agentic Workflows",
+    "link": "https://bitmovin.com/blog/understanding-mcp-agentic-ai-data-access/",
+    "summary": "TL;DR Table of Contents Understanding MCP: A New Way to Access Your Data What is MCP? Why MCP Matters: Democratizing Data Access When MCP Shines When Not to Use MCP Technical Considerations: Context Windows Beyond MCP: Agentic Workflows Who…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Mon, 12 Jan 2026 16:13:51 +0000",
+    "timestamp": 1768234431.0,
+    "isoDate": "2026-01-12T16:13:51+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/01/AI-MCP-comparison.png"
+  },
+  {
     "title": "From flat to full immersion: The AWS path to Dolby Vision and Dolby Atmos",
     "link": "https://aws.amazon.com/blogs/media/from-flat-to-full-immersion-the-aws-path-to-dolby-vision-and-dolby-atmos/",
     "summary": "This blog post was co-authored by José Luis Tamez de Gyves, Client Executive Manager, Dolby. Remember watching grainy web videos in tiny windows that constantly paused to buffer? How about those streaming videos with washed-out colors, inac…",
@@ -372,6 +438,17 @@
     "timestamp": 1767894536.0,
     "isoDate": "2026-01-08T17:48:56+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/06/Dolby-Image-1.jpg"
+  },
+  {
+    "title": "How Bitmovin’s Player Learned to Look Sideways: Client-Side Smart Cropping on iOS",
+    "link": "https://bitmovin.com/blog/client-side-smart-cropping-ios-bitmovin-player/",
+    "summary": "TL;DR Repurposing landscape content into vertical formats such as 9:16 is now a common requirement for short‑form and mobile experiences. As more viewing shifts to phones held in portrait, teams want their existing video catalog to look goo…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Tue, 16 Dec 2025 18:04:11 +0000",
+    "timestamp": 1765908251.0,
+    "isoDate": "2025-12-16T18:04:11+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2025/12/Screen-Shot-2025-12-16-at-6.50.33-PM.png"
   },
   {
     "title": "Accelerating creative workflows with the AWS Creative Innovation Hub in London",
@@ -405,6 +482,39 @@
     "timestamp": 1765314574.0,
     "isoDate": "2025-12-09T21:09:34+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/12/08/MediaTailor-SSAI-WBD-EMEA.png"
+  },
+  {
+    "title": "Bringing Content Authenticity to Video Streaming: C2PA Integration with Bitmovin’s Player",
+    "link": "https://bitmovin.com/blog/bringing-content-authenticity-to-video-streaming-c2pa-integration-with-bitmovins-player/",
+    "summary": "TL;DR In today’s digital landscape, AI-generated content and deep fakes are becoming increasingly sophisticated, making it harder for viewers and platforms to trust what they see on screen and increasing the need for clear, verifiable authe…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Tue, 02 Dec 2025 14:07:07 +0000",
+    "timestamp": 1764684427.0,
+    "isoDate": "2025-12-02T14:07:07+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2025/12/image.png"
+  },
+  {
+    "title": "A Tale of Two AI Failures: Debugging a Simple Bug with LLMs",
+    "link": "https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/",
+    "summary": "TL;DR During a recent internal Bitmovin hackathon focused on experimenting with AI tools, I decided to work on a project I had been wanting to explore, even though it was outside of our usual video focus. I gave myself a simple solo project…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Thu, 27 Nov 2025 12:35:07 +0000",
+    "timestamp": 1764246907.0,
+    "isoDate": "2025-11-27T12:35:07+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Demuxed London 2025: Smarter players for better quality and more inclusive streaming",
+    "link": "https://bitmovin.com/blog/bitmovin-demuxed-2025-player/",
+    "summary": "TL;DR Demuxed London 2025 brought together the people who actually build video, not just talk about it. For two days in October, playback engineers, encoding specialists, player developers and streaming platform teams filled a room to trade…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Fri, 21 Nov 2025 22:58:49 +0000",
+    "timestamp": 1763765929.0,
+    "isoDate": "2025-11-21T22:58:49+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2025/11/image-2.png"
   },
   {
     "title": "Holstein Kiel transforms scouting with OpenAI models on Amazon Bedrock",

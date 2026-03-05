@@ -1,5 +1,16 @@
 [
   {
+    "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+    "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
+    "summary": "A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware. Zscaler ThreatLabz, which…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Mar 2026 17:31:00 +0530",
+    "timestamp": 1772712060.0,
+    "isoDate": "2026-03-05T12:01:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWg0441avqEutKSymEsuuVP_gKz7kiss4jZesCHLwD4731n135lf6jhJdT2X5CPIWISsByG0RsJoH7eXSyGVOI6RNmo1QkE8Z24lPdiFTLni79c2EoiLGlAurQsIHqn7j_-MDPlL9F98XAsRtrBD17V7YXRYikdcET0hnw897ButkFyI1T4JmzxpJdwM8y/s1600/iran-attack.jpg"
+  },
+  {
     "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
     "link": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
     "summary": "Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day us…",
@@ -317,16 +328,5 @@
     "timestamp": 1772215140.0,
     "isoDate": "2026-02-27T17:59:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVfnqoWodxrya2TOd7lDLrZ23Bvo_FZhrnRLTnOO-Y4zvouKylIpkT7KE_LKo8lQGBCwMo3GCldGiyqSJobUKHLxmKx6hja0EBG6K3DCtQG-bmDDapu2el8CnQMMs971cJ3dICyw4-T1I8o0W7-XNHKzRBO8U48USZlO8MmtJkKKaOkweEzgKZF2PyaUt9/s1600/freepbx.jpg"
-  },
-  {
-    "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
-    "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
-    "summary": "Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe. The Go module, github[.]com/xinfeisoft/crypto, imp…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 27 Feb 2026 21:03:00 +0530",
-    "timestamp": 1772206380.0,
-    "isoDate": "2026-02-27T15:33:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdXNmYRKw13_BHE7B7MMtqTTpJXBkgDzl2sH31t0L0_VCl9uJbWPS2yg0j0jz0XJovSYryM4NcSCAZdtTDsoRa2d6y3U84K9TDQYJSObLgaJXXh8juWmP6liqj_uirhZvKjR0dqYZ-J2mwTnmEIYIKfAoC9BY3yL2xhfLD_NbwVKzekKwoI3u4iSzU44Xn/s1600/hackers.jpg"
   }
 ]
