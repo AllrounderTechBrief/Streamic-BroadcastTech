@@ -1,5 +1,16 @@
 [
   {
+    "title": "How AWS powers Dramaze AI-enhanced streaming platform",
+    "link": "https://aws.amazon.com/blogs/media/how-aws-powers-dramaze-ai-enhanced-streaming-platform/",
+    "summary": "Netmedias recently launched Dramaze.com, a groundbreaking freemium video-on-demand (VOD) streaming platform that brings short-form drama episodes to audiences across Asia and the Middle East. In an increasingly competitive streaming landsca…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 06 Mar 2026 15:45:16 +0000",
+    "timestamp": 1772811916.0,
+    "isoDate": "2026-03-06T15:45:16+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/02/Dramaze-Blog-Figure-1.jpg"
+  },
+  {
     "title": "From the endpoint to the prompt: a unified data security vision in Cloudflare One",
     "link": "https://blog.cloudflare.com/unified-data-security/",
     "summary": "Cloudflare One unifies data security from endpoint to prompt: RDP clipboard controls, operation-mapped logs, on-device DLP, and Microsoft 365 Copilot scanning via API CASB.",
@@ -427,16 +438,5 @@
     "timestamp": 1763577179.0,
     "isoDate": "2025-11-19T18:32:59+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/11/18/reInvent_Banner_2000x246_no-date.png"
-  },
-  {
-    "title": "ARD ensures content provenance with C2PA and AWS",
-    "link": "https://aws.amazon.com/blogs/media/ard-ensures-content-provenance-with-c2pa-and-aws/",
-    "summary": "This blog post was co-authored by Martin Grohme, Streaming Architect, WDR. The digital age has brought unprecedented challenges in verifying the authenticity of media content. ARD, Germany’s leading public broadcaster, faced a critical chal…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 12 Nov 2025 17:44:06 +0000",
-    "timestamp": 1762969446.0,
-    "isoDate": "2025-11-12T17:44:06+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/11/04/ARD-Image-1.png"
   }
 ]
