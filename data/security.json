@@ -1,5 +1,27 @@
 [
   {
+    "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+    "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
+    "summary": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware. The activit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 06 Mar 2026 12:14:00 +0530",
+    "timestamp": 1772779440.0,
+    "isoDate": "2026-03-06T06:44:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8H7sofZNyrZMv3vcKOeRa7Rw948uDto8VgAXNO8ZKLjUdzhpZW-ub4M_fxuM631fZplWm8BkPK8OifkblZnbNgFKXUB4PoFXXSeg1D0_olC5lAxQ0KtidSFQHlUvxVn1subQyQtI2qbzhChm0Sm3ADLs9C120EfhvLoBtNLbbtrSiyl3AKcss7u-WT-lS/s1600/clickfix.jpg"
+  },
+  {
+    "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
+    "link": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active explo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 06 Mar 2026 12:00:00 +0530",
+    "timestamp": 1772778600.0,
+    "isoDate": "2026-03-06T06:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dAatoZKBR1txy7hG-8XLixhMv5jhZEjgT_asHnTfyxS1KK9tOrJNwk2MSbXOL1ZoH8-18chWJUuLnegz6ByTRQuljhmqPu9W_BxQSQR7n45B1M3D1XHrwkne4uzqurGVkqDhyphenhyphendkfISqLjawr0HzRQX7ZhfXa-jB3hJ5V0oMr3TOebv_rcpcw9I3ym6v1/s1600/cisa.jpg"
+  },
+  {
     "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
     "link": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
     "summary": "Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild. The vulnerabilities in question are listed below - CVE-2026-20122 (CVSS score: 7.…",
@@ -306,27 +328,5 @@
     "timestamp": 1772441040.0,
     "isoDate": "2026-03-02T08:44:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB4nJ8ODWGAqDEjQl4cCSKOtIJoGood2beXae5mc7MKzZbAYl1Ij2AX0L3CNCuUc4R4TL-DOR6bIHU6yzHfoFir_gl6jbUf_0w69pGg3tsXI92smKf02pmQPqkbyBs-eOUp0SqdGSrBH68os3R2lkTDGvGpi3R3-EThgOy_ATJKTXVqr0_ug-otA6FkeAo/s1600/npm.jpg"
-  },
-  {
-    "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
-    "link": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
-    "summary": "OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take over control. \"Our vulnerability lives in …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 28 Feb 2026 22:51:00 +0530",
-    "timestamp": 1772299260.0,
-    "isoDate": "2026-02-28T17:21:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMEZ7gMViZ9XlXs35FiyviBZR19FbDXmatfjhNRw59daWLw41ScorGKG3xXYWFD6dDuYHajwoUnkWgQV9SrPe9iiV8UqDVjw4K5hX8cng7VDPTsljAZazuxUDdk7_hZ7SFV9rDCxNcYNWjmEY_lUVj01-PEI9D9rY5tMYJZTP5X887UuXOsDD90UOvo_mG/s1600/opem.jpg"
-  },
-  {
-    "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
-    "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
-    "summary": "New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data. The findings come from Truffle Secur…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 28 Feb 2026 15:26:00 +0530",
-    "timestamp": 1772272560.0,
-    "isoDate": "2026-02-28T09:56:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1wA-JoARjvd0BYW-3G0XMdHXcWpWdkWk3bIkWV2myMGfRRsp4Dl8A24cpj8Elpe5lJO6KdyS36Nsts7_o0Xx70HSxwY3se4RuNPRzfFmodMhX-jU_lkCefaathP6uan4UGLWmuQvxjerq6_H-z16vFY3h4pCeVqDBGA13ne12uRZfuU7fHW2pQVAtuM4E/s1600/gemini.jpg"
   }
 ]
