@@ -1,5 +1,16 @@
 [
   {
+    "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
+    "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
+    "summary": "Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla. Of these, 14 have been classified as high, seven have been classified as moderate, and one has…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 07 Mar 2026 16:51:00 +0530",
+    "timestamp": 1772882460.0,
+    "isoDate": "2026-03-07T11:21:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2DaQuy20IkM7M8iL7NBmzJhI9m5KDEpf6CBgxcI9rAhiVLO1VyfdAeQKaInOY3dlIiwy1FWtusinpu8Yyj1fChemLiVCTLnMLRtKaKNvDbOOa0ZjVFt5zoT7yON1ljb2DAlgki_aVmVuWSmAPn2jFszCpJdjzN7DGGRzeEzD5OYcSn2oeLzcaBARYzmOS/s1600/firefox-claude.jpg"
+  },
+  {
     "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
     "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
     "summary": "The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various implants. The activity is designed to produce a \"hi…",
@@ -317,16 +328,5 @@
     "timestamp": 1772520780.0,
     "isoDate": "2026-03-03T06:53:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg"
-  },
-  {
-    "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
-    "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
-    "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system. The vulnerability, tracked as CVE-2026…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Mar 2026 22:38:00 +0530",
-    "timestamp": 1772471280.0,
-    "isoDate": "2026-03-02T17:08:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGvdv2as5vfPUJybxkOOX1bDflJKOb5b1uVw9SHrVOo6TD5GKc0JbMB2p2yxxpwj4UlZK680ZnF4J8Ccie6G13W8cklnxDOs-E74-jy3fuIyr53UWuGuwhSM8HvHUIhilChdeRdF3yz9ObuHMHlKGUHI4TMWachzuvWJ3aZdEmz_fPNaIRm_IYDKiqUl1G/s1600/gemini-chrome.jpg"
   }
 ]
