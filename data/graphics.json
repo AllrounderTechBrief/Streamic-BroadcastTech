@@ -143,6 +143,17 @@
     "imageUrl": ""
   },
   {
+    "title": "Lake Coatepeque",
+    "link": "https://science.nasa.gov/earth/earth-observatory/lake-coatepeque/",
+    "summary": "Set amid El Salvador’s modern, active volcanic landscape, tranquil blue waters fill a caldera formed by ancient eruptions.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 09 Mar 2026 04:00:00 +0000",
+    "timestamp": 1773028800.0,
+    "isoDate": "2026-03-09T04:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-coatepeque/ISS074-E-312810.jpg?w=2160&h=1440&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Meteorologist Damien Lodes Joins KTVT Dallas",
     "link": "https://mikemcguff.blogspot.com/2026/03/damien-lodes-joins-cbs-news-texas.html",
     "summary": "The post Meteorologist Damien Lodes Joins KTVT Dallas appeared first on TV News Check.",
@@ -427,17 +438,6 @@
     "timestamp": 1772771342.0,
     "isoDate": "2026-03-06T04:29:02+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/08_future_airspace_1.gif?w=900"
-  },
-  {
-    "title": "About Advanced Air Mobility Pathfinders Project",
-    "link": "https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/",
-    "summary": "The Advanced Air Mobility Pathfinders (AAMP) project accelerates advanced air mobility technologies for wildfire response and urban transportation through real-world demonstrations and strategic partnerships. AAMP researches emerging techno…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 06 Mar 2026 02:59:34 +0000",
-    "timestamp": 1772765974.0,
-    "isoDate": "2026-03-06T02:59:34+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/02_healthcare_ops_web.gif?w=900"
   },
   {
     "title": "Doing more with less: What’s driving change in live production",
