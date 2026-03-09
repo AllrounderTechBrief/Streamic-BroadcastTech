@@ -1,5 +1,16 @@
 [
   {
+    "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
+    "link": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
+    "summary": "Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and steal sensitive data from compromised hosts. The package, named \"@openclaw-ai/openclawai,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Mar 2026 00:01:00 +0530",
+    "timestamp": 1773081060.0,
+    "isoDate": "2026-03-09T18:31:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWahQ89p408qBpZO2cmP-m44fNG_BRHT34hjfmDGn2WhALZRls9d94ap8uK0ZYXj1JjAgxdDogTHv_1PHloweK3RtglJheCsgulTB0-KrYOgUFI3Gvp4FJiPaV33FVa8I5bl-v92O1IephSEiV_FMU010of5pnmgMQ0ZmBuvY4yC0Bl0ndth42P924uxR/s1600/openclaw.jpg"
+  },
+  {
     "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
     "link": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
     "summary": "The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars in cryptocurrency. The activity has been attribu…",
@@ -317,16 +328,5 @@
     "timestamp": 1772558100.0,
     "isoDate": "2026-03-03T17:15:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMxXTslXwVQy4UDmwQOi39oPLz0gBjk3E_mUL0hONp_uAbe2mkCooBcTU3zE6nArVycOldRPm5jMHfzTAI_plrX1jvn5o8zmSGKTH794N2tpztPyTLW-TBZqfHaa4nbHLMY2LHhW0l1J4wzmg8lCRXOFWdAQSSn1Qb4iR8PIeRUE9K1NvpCtluT69-y7By/s1600/outlook.jpg"
-  },
-  {
-    "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
-    "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
-    "summary": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Mar 2026 20:00:00 +0530",
-    "timestamp": 1772548200.0,
-    "isoDate": "2026-03-03T14:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYwVezgvocYpgSVlObttlWWj69Wzly716Z1gfPOUjTsEL1TqBXiWSSexSIR2o96ji1cbMuxtxZVETQ7oN6klFQ2do3WCjhmiVLt1BXlMekcMlJSGxTD6XffjEZRWsc3q8eo0HmRc1IV8p777ZLFW4wOXPsDNaCetHqmCkMLILYOAsmDgSaVwerAUtS0A/s1600/tier1.jpg"
   }
 ]
