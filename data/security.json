@@ -1,5 +1,16 @@
 [
   {
+    "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
+    "link": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
+    "summary": "Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply chain attacks, your customers and business partners are defining the security level you mu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Mar 2026 17:15:00 +0530",
+    "timestamp": 1773056700.0,
+    "isoDate": "2026-03-09T11:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VI1qz4KwHldnHqAJcopF23x8Jtybzn4Obme0AQPvuP_SDx-vwFks8V70CSb-Gn_BBlONDV7BoK3IrxzxGfUd_3va58XjeoXX81Ix1E7JkcgC2kikZ-nWAawWhE0uU8bURJs1ggtbIG1N_F8VsYIYyjDe5NuF3SAholWy_u6Evu5ROpWGAaIShHZMNiA/s1600/bit.jpg"
+  },
+  {
     "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
     "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
     "summary": "Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data. The extensions in…",
@@ -317,16 +328,5 @@
     "timestamp": 1772537400.0,
     "isoDate": "2026-03-03T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy66jCAP3njemOp9S0dnoRSikwWIk-OjV_6kygA0ubIpsczO3IWQf7SD3hcvCzRrDtiL6_2jOk3fWy2YtEWMwEyCmvzhw6QReN8cvfOlYuiXP4VzgeV_PaFRsylxXhR7akoqfkgxsD_oiNXSAabskwOrDoIJMSsAgr0VZO2UW-4odf7eAjioV1KX7mn3w/s1600/ormain.jpg"
-  },
-  {
-    "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
-    "link": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections. It's advertised as a cybercrime platform by a threat gro…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Mar 2026 16:40:00 +0530",
-    "timestamp": 1772536200.0,
-    "isoDate": "2026-03-03T11:10:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdnsC4miBmpXK8ZPV1kM1figMIfiqkQpUeAt8idIiZEFRCNt6AMaFSmpUaR215Hrw-XIGi6Zcl9vOgGO5ItB53gWlN_r8UxGz_yTrPTk9bFgCUudYbq2jETdm526DpMDaPyT8UFt7m5XUwlrYdJmUDyEmoQO6zcnGvUB4_W0mBiHJtWFqJk7udXMelfSu/s1600/star.jpg"
   }
 ]
