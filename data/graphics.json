@@ -1,5 +1,16 @@
 [
   {
+    "title": "Shades of a Lunar Eclipse",
+    "link": "https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/",
+    "summary": "A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 10 Mar 2026 04:01:00 +0000",
+    "timestamp": 1773115260.0,
+    "isoDate": "2026-03-10T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shades-of-a-lunar-eclipse/alaskalunar_vir2_20260303.jpg?w=2160&h=1640&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Dow Gains 239, Nasdaq Adds 308, S&P 500 Rises 56",
     "link": "https://tvnewscheck.com/business/article/dow-gains-239-nasdaq-adds-308-sp-500-rises-56/",
     "summary": "U.S. stocks erased a big early loss Monday and rose after oil prices whipped from nearly $120 back below $90. The post Dow Gains 239, Nasdaq Adds 308, S&P 500 Rises 56 appeared first on TV News Check.",
@@ -262,17 +273,6 @@
     "timestamp": 1773068977.0,
     "isoDate": "2026-03-09T15:09:37+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/55119277748-0ef8ca558f-o.png?w=1955"
-  },
-  {
-    "title": "NASA Astronauts to Answer Questions from Students in New York",
-    "link": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-3/",
-    "summary": "Students in New York will hear from NASA astronauts Jack Hathaway and Chris Williams as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-sp…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 09 Mar 2026 15:06:15 +0000",
-    "timestamp": 1773068775.0,
-    "isoDate": "2026-03-09T15:06:15+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/chris-williams-march-11-downlink.jpg?w=1920"
   },
   {
     "title": "A TV Empire Built On Humor And Heart",
