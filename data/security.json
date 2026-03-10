@@ -1,5 +1,38 @@
 [
   {
+    "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+    "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+    "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own. But there is a problem. While these …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Mar 2026 17:15:00 +0530",
+    "timestamp": 1773143100.0,
+    "isoDate": "2026-03-10T11:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9rQgRdibuFYsDbwmp3SukV8rvo2XAcrItRHJVuYOvQd5AQyUUNQlF254t_zArE0rjDNbI-ibkfkezQF394z9u2QQRwCk9vju1yDsQJjYGjbfoNAvvUfM7ZhYl134SLtAYSmx4CtP8n9n0Uyk-DYW9gJ-ci7nGhInnioZMyhH1xT5ySyaXTYJ3nmD_Xo/s1600/ai-agents.jpg"
+  },
+  {
+    "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
+    "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
+    "summary": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Secu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Mar 2026 16:30:00 +0530",
+    "timestamp": 1773140400.0,
+    "isoDate": "2026-03-10T11:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfoH6o4IkbYakx1lP-kILdg8glEenVOVdJFyn8cxnNYO9hRSMut-XrsII-HfqY_VuguC1b0yHPueeREjsdS0RpXViN0IhuFYzheblF8avbGI6GILTtyHMF5_nJYPIKFRRYL1staxa_9sYMHRjMkL995yoIJYRW072CQaIWh95cCsLXFFpqg769bN-KFA/s1600/INTRUDER.jpg"
+  },
+  {
+    "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
+    "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
+    "summary": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel. The two malware families have been pu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 10 Mar 2026 16:25:00 +0530",
+    "timestamp": 1773140100.0,
+    "isoDate": "2026-03-10T10:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-By3tHSMSOxuaRiOmtalZ7sltfDCZ-ZfA-SYEQ6RVae4iQoVJVeUZU380kIIgrdAnFkX516x6OdctG7NCgL3zNSSENMqgc1iNcSC48aIJ3sx7eAK1-5rGqPu00i5rfPpvxOQ9I9R-v1fPL-i_i0kreyvQ3a0WuneswNUZgnhaTKq6fFu3me-1TopHYcl1/s1600/Ukrainian-malware.jpg"
+  },
+  {
     "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
     "link": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
     "summary": "Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector. The …",
@@ -295,38 +328,5 @@
     "timestamp": 1772630880.0,
     "isoDate": "2026-03-04T13:28:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijM5GpGGT0LP6vQkv_yu-1sEWzgjTfk9OIdbMaYKiXdAVgK5DbybegA7hVb_XEgaAPPNAAXJNMh7K2jsH1uHltLp-6L_gOS5xWudR5Z4I76PI3Zv0h2tfvWgCUsq5LoiLMm4x_XXomAeWKVZJ_uNOmCL4cK8TlwNL_SxwwNX0XEr7I9D-ZK-JE1iwHsvM1/s1600/ios.jpg"
-  },
-  {
-    "title": "New RFP Template for AI Usage Control and AI Governance",
-    "link": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
-    "summary": "As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. But there’s a quiet crisis unfolding in the boardroom: many organizations know they need \"AI…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Mar 2026 17:00:00 +0530",
-    "timestamp": 1772623800.0,
-    "isoDate": "2026-03-04T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvS_eE1grWPn8hXdb-s4EpPUtevfmC487K-kpFLYJOHCw0vZ1A81bBjhZflx5zj8qY4KrWG3FbQ2dbSFOatzswmBbFxZJkX5vqJOpzyaCefDzEiOfca4ayNkY1ERY95TefFgfRj01keLjzjK_8NKr4OSO3B5vM4k9yY_J9dNtmc1Z7lXdqjawA22F2Zc/s1600/main-ai.jpg"
-  },
-  {
-    "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
-    "link": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
-    "summary": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems. The name…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Mar 2026 15:07:00 +0530",
-    "timestamp": 1772617020.0,
-    "isoDate": "2026-03-04T09:37:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDAkhOUNeGmbnO6-Wf7OTYmb_GbxBRyWPlLwHY_xWh2a3fWN3wqYQcNDK2z-ck6dCpYStrieeh79uwREaRnu7vXx3_1SqPqi0KYqdyMtPq45fbRFKtBdc_Vnbkh9mgOXSPu4GOPlkqQxfCX-mQ-62Jw5jsA8CybEImOOvdliNEOcPjnGQDEjKrunI4kOyG/s1600/php.jpg"
-  },
-  {
-    "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
-    "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
-    "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024. \"Silver Dragon…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Mar 2026 13:44:00 +0530",
-    "timestamp": 1772612040.0,
-    "isoDate": "2026-03-04T08:14:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPaqQJe-7ak-qgx29_h6G7zUiJhGiBSHZEiydrRzZzuKVlVMBzrJNLFndAvmu15EzX2SXQ8NUHKyH9ZJDQRQMnXukmrUfdPor35gswSxUuTNGGXo7h8eOhDNBVAaCGEo_ohNYv2-8W-zpOuSSHYqCB5iURwesotjNTK9a3926UdkuqI2uz-zUBMzNP5cU/s1600/dragon.jpg"
   }
 ]
