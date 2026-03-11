@@ -1,5 +1,27 @@
 [
   {
+    "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
+    "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
+    "summary": "SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems. The vulnerabilities in question listed below - CVE-2019-17571 (CVSS score: 9.8) - A co…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Mar 2026 17:56:00 +0530",
+    "timestamp": 1773231960.0,
+    "isoDate": "2026-03-11T12:26:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrrEElPNhJ9Cn51FnZPkh9XKFRVQzKwXGWqMzaKySW388TL56lNUbySAgOs9nxMbwCHVmFwxE3UvCVt_H9MtWZfS2euZz9zF-Wrh0mnVf-3kefawk-MvoqjSZd3MOcKzHVgjYWnkWy9iE2Ns-6kauXtWE4K9LJHQdBStJVJHjGCRS4om2dZIHDv7rw3zh/s1600/software-update.jpg"
+  },
+  {
+    "title": "What Boards Must Demand in the Age of AI-Automated Exploitation",
+    "link": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
+    "summary": "“You knew, and you could have acted. Why didn’t you?” This is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident. For years, many executive teams and boards have trea…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Mar 2026 17:00:00 +0530",
+    "timestamp": 1773228600.0,
+    "isoDate": "2026-03-11T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsE7iXMy1HxdiC1nv__LhHF82XPreFShxc1GUsFkX9zgXiLwfkFKnVKzKOIYxe3D8_-dQeigLmUpbojS2-9doGrKHcwXhV34J1S1qsK8TzWyo3kymXEHMtML-js6yobbKDk3DXCi7bV2tXjKs_p5KtbvHoyPXEANC0LI5h5fBqIw2poe_O2x-sh4tO4T4/s1600/ai-exploit.jpg"
+  },
+  {
     "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
     "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
     "summary": "Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known. Of these, eight are rated Critical, and 76 are rated Important …",
@@ -306,27 +328,5 @@
     "timestamp": 1772724120.0,
     "isoDate": "2026-03-05T15:22:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
-    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
-    "summary": "Some weeks in cybersecurity feel routine. This one doesn’t. Several new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new f…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 05 Mar 2026 19:14:00 +0530",
-    "timestamp": 1772718240.0,
-    "isoDate": "2026-03-05T13:44:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmX71oTh0PhBoeXrV6BUD7_jQe9VWPqHc60ijUxf4iv8wPE8UeWY8dlDrfbx3-Ut5aNoNQZJ8DH_ADNQGgFL4NbMMcw-IayIe9HXKG3l5EN3-og9LuNqBP452mXpm1HTn3ooWlJ-q4QRqvPJC4gmR0lstJ8KWdQYa2knQ5J69nneIwIRTKKG43fXtcWRXm/s1600/threatsday.jpg"
-  },
-  {
-    "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
-    "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
-    "summary": "A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware. Zscaler ThreatLabz, which…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 05 Mar 2026 17:31:00 +0530",
-    "timestamp": 1772712060.0,
-    "isoDate": "2026-03-05T12:01:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWg0441avqEutKSymEsuuVP_gKz7kiss4jZesCHLwD4731n135lf6jhJdT2X5CPIWISsByG0RsJoH7eXSyGVOI6RNmo1QkE8Z24lPdiFTLni79c2EoiLGlAurQsIHqn7j_-MDPlL9F98XAsRtrBD17V7YXRYikdcET0hnw897ButkFyI1T4JmzxpJdwM8y/s1600/iran-attack.jpg"
   }
 ]
