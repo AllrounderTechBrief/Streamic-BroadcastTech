@@ -1,5 +1,16 @@
 [
   {
+    "title": "Slashing agent token costs by 98% with RFC 9457-compliant error responses",
+    "link": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
+    "summary": "Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into effi…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 11 Mar 2026 13:05:00 GMT",
+    "timestamp": 1773234300.0,
+    "isoDate": "2026-03-11T13:05:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "AI Security for Apps is now generally available",
     "link": "https://blog.cloudflare.com/ai-security-for-apps-ga/",
     "summary": "Cloudflare AI Security for Apps is now generally available, providing a security layer to discover and protect AI-powered applications, regardless of the model or hosting provider. We are also making AI discovery free for all plans, to help…",
@@ -9,17 +20,6 @@
     "timestamp": 1773234000.0,
     "isoDate": "2026-03-11T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5xpmckBUupzELjYOSx5bAF/cace1ab2ed2dd54d8d7a7ff60587ef65/BLOG-3128_2.png"
-  },
-  {
-    "title": "Slashing agent token costs by 98% with RFC 9457-compliant error responses",
-    "link": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
-    "summary": "Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into effi…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "timestamp": 1773234000.0,
-    "isoDate": "2026-03-11T13:00:00+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Investigating multi-vector attacks in Log Explorer",
