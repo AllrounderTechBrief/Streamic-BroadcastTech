@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
+    "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
+    "summary": "Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known. Of these, eight are rated Critical, and 76 are rated Important …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Mar 2026 14:45:00 +0530",
+    "timestamp": 1773220500.0,
+    "isoDate": "2026-03-11T09:15:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipDVdeJebBFVnXLhsh2P4nBqmuh4R-UtLH7ZFvyw1W95zBU4YX4GF6I1WZ7g3ALEq596lEFr6q8iuGZ_PG2D12h67cLuNhCnSplkg_kDNbKyvTJnByhz2WAeAL9YHXCpJp0D3UOnhuydFZ6-jfXi6DLx5upod8egCtZ2lZhmbUzIprEusPyz0efzBMFzFI/s1600/windows-patch.jpg"
+  },
+  {
     "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
     "link": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
     "summary": "A threat actor known as UNC6426 leveraged keys stolen following the supply chain compromise of the nx npm package last year to completely breach a victim's cloud environment within a span of 72 hours. The attack started with the theft of a …",
@@ -317,16 +328,5 @@
     "timestamp": 1772712060.0,
     "isoDate": "2026-03-05T12:01:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWg0441avqEutKSymEsuuVP_gKz7kiss4jZesCHLwD4731n135lf6jhJdT2X5CPIWISsByG0RsJoH7eXSyGVOI6RNmo1QkE8Z24lPdiFTLni79c2EoiLGlAurQsIHqn7j_-MDPlL9F98XAsRtrBD17V7YXRYikdcET0hnw897ButkFyI1T4JmzxpJdwM8y/s1600/iran-attack.jpg"
-  },
-  {
-    "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
-    "link": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
-    "summary": "Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day us…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 05 Mar 2026 16:30:00 +0530",
-    "timestamp": 1772708400.0,
-    "isoDate": "2026-03-05T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh573fCRL7EMT-Piz1QEJizjMNdQH5G4eMHpLbuCGvm-PNF6-osRuSQF09DHGIuYS1EXDgZXUmWzVf1p3kHDH0_jE7_XDKuG0J7R9Yc3kP4XbaW3UoF3gLYCQ6ba63S0iYQf3Ftf7s0UkDD9QBbnzUcBPRDQXI401TzAVjET05OjgS38tiYgfWA79kS-8g/s1600/outpost.jpg"
   }
 ]
