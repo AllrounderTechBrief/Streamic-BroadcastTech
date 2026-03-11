@@ -1,5 +1,27 @@
 [
   {
+    "title": "AI Security for Apps is now generally available",
+    "link": "https://blog.cloudflare.com/ai-security-for-apps-ga/",
+    "summary": "Cloudflare AI Security for Apps is now generally available, providing a security layer to discover and protect AI-powered applications, regardless of the model or hosting provider. We are also making AI discovery free for all plans, to help…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "timestamp": 1773234000.0,
+    "isoDate": "2026-03-11T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5xpmckBUupzELjYOSx5bAF/cace1ab2ed2dd54d8d7a7ff60587ef65/BLOG-3128_2.png"
+  },
+  {
+    "title": "Slashing agent token costs by 98% with RFC 9457-compliant error responses",
+    "link": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
+    "summary": "Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into effi…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "timestamp": 1773234000.0,
+    "isoDate": "2026-03-11T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Investigating multi-vector attacks in Log Explorer",
     "link": "https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/",
     "summary": "Log Explorer customers can now identify and investigate multi-vector attacks. Log Explorer supports 14 additional Cloudflare datasets, enabling users to have a 360-degree view of their network.",
@@ -218,28 +240,6 @@
     "timestamp": 1772517600.0,
     "isoDate": "2026-03-03T06:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6dO9TV4MfE2R0YZ035QQ7/3693156d65a4c8aca4b2b9d57e77ce87/image1.png"
-  },
-  {
-    "title": "From reactive to proactive: closing the phishing gap with LLMs",
-    "link": "https://blog.cloudflare.com/email-security-phishing-gap-llm/",
-    "summary": "Email security is a constant arms race. Like WWII engineers reinforcing only the planes that returned, survivorship bias hides real gaps. But LLMs can help us find the invisible weaknesses.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 03 Mar 2026 06:00:00 GMT",
-    "timestamp": 1772517600.0,
-    "isoDate": "2026-03-03T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1NxyKOOVeVCGbOz7hY5AFU/c382fc6186bc98fe63a7de35720f3618/image3.png"
-  },
-  {
-    "title": "See risk, fix risk: introducing Remediation in Cloudflare CASB",
-    "link": "https://blog.cloudflare.com/remediation-in-cloudflare-casb/",
-    "summary": "Cloudflare CASB Remediation lets security teams go beyond visibility to fix risky file sharing in Microsoft 365 and Google Workspace directly from Cloudflare One, all in just a few clicks.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 03 Mar 2026 06:00:00 GMT",
-    "timestamp": 1772517600.0,
-    "isoDate": "2026-03-03T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3sl5Cse8hP3nZwE1deik09/1ee2d7d9f61eceb4a23868b9dab7bbbc/image4.png"
   },
   {
     "title": "Inside NFL IQ: The Analytics Engine Behind the NFL Offseason",
