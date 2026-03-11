@@ -1,5 +1,16 @@
 [
   {
+    "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
+    "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
+    "summary": "Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors. The Rust packages, published to crates.io, are listed below - chrono_anchor dnp3…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Mar 2026 10:42:00 +0530",
+    "timestamp": 1773205920.0,
+    "isoDate": "2026-03-11T05:12:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzAdo0qx6xgUYxpWZkp4v30357zGX7ojSkN1vbfazb6D_JiXd9ksAHFNZJzY6pleKYV_HeYZcgJ48U36zUMPSJFR9bPUvFz18THXzTTnvhembJW9wrCypxj_2ttelgwbBwOD__5Yr-WGIBw1XthSLi6UZy3QtLZfmt7j_P8fOxZmm0PQwPAMCtNKkQzz1n/s1600/rust.jpg"
+  },
+  {
     "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
     "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
     "summary": "Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks. The activity involves the exploitation of rece…",
@@ -317,16 +328,5 @@
     "timestamp": 1772705400.0,
     "isoDate": "2026-03-05T10:10:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihW1ns0JTT2vYUjdQEqTcDwytBGmTnID9xQkCxuT-WURhd71xeh9UD80hZiRL3WWBOg5dCVZKY2huOuElbB-QjczQquCirdpgVRjWNM426jLNF-U_s8RGs9CjNC1Qr2DJhQ532z6bz2hdMkzUjJ-vSKpJmBdvyy5qgkAuwB2armvVyx4HNsn4glFMWmupC/s1600/Ukraine.jpg"
-  },
-  {
-    "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
-    "link": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
-    "summary": "Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential harvesting attacks at scale, was dismantled by a coalition of law enforcement agencies an…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 05 Mar 2026 12:21:00 +0530",
-    "timestamp": 1772693460.0,
-    "isoDate": "2026-03-05T06:51:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8UTSWEMM2rFGJeOr4V1jcbj7LGdQOWonmvhfcbkNspvoCt-7wsBrnJoMuGgnyCZ-E4G5DqWRcPYrrTi3MF-nZWM3pke6JmFrnNlIrs99WF4ayKdghQxMVtvsxxkvv0FMHmKHWCA92klsfqy2fS4rD0_YcBTOapV-lsGCsZhnLHMCe3oMhEukpHaTgGQE/s1600/takedown.jpg"
   }
 ]
