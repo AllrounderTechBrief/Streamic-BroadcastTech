@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
+    "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
+    "summary": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit. The vulnerability, tracked as CVE-2023-43010, relates to an unspecif…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Mar 2026 15:28:00 +0530",
+    "timestamp": 1773309480.0,
+    "isoDate": "2026-03-12T09:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYxpx0H72-jraYxYXM_LUEtyv1M503LKgvsrmHcmXew61h2RfR4Q5uyuLKb6h6qltO1UedF9lMjEC3MoOgxDNO8zB4BzKjkVusHicqzNXSK3Tojlq10A7xDds9wDdyKTGtwWTKMAvoR5-l5nK7gnZQOUDbTbOXGWAezt1MjNJQpPh3MalEkI-nhOmTZ7fW/s1600/iphones.jpg"
+  },
+  {
     "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
     "link": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
     "summary": "Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud. The Android malware range from traditional banking trojans l…",
@@ -317,16 +328,5 @@
     "timestamp": 1772793000.0,
     "isoDate": "2026-03-06T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87js9FM5u5gJgNYbTJGym-RLvB-9rHWoeFBMkLbzvbBgY8aGaMtb_pX5i2-rQz34VbJsQfeOD-GvRJ0yNXUSGjR3vnV7CUt4APOPSwvBNpaF4m64z5OxmNVw0WDaCa3q_KlAjNecBrLurfYPNFC3xiASO71v6k23E77RKyyRujOXUMWHbymxtrVLatdI/s1600/cynomi.jpg"
-  },
-  {
-    "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
-    "link": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
-    "summary": "New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airports, non-profit, and the Israeli arm o…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 06 Mar 2026 15:53:00 +0530",
-    "timestamp": 1772792580.0,
-    "isoDate": "2026-03-06T10:23:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGoo0ChP6Wq4Hd0U_DeehQmIN-4DHpRX8YdIY6vSO3kEUeTeILUvJMbAZO2gplvYIYCG_q13wfn_So9SkmjHIFZdwyQZKf0uSyyUMpCV-0uUuptOsPsdAvQQbzBdTAG7zoeX2Zf5L2zrHoY0z-qd5RnNvHsm_R4qaVGKzY440Tkdv2zUJ7y9iUE-UP8Ddl/s1600/iran-hackers.jpg"
   }
 ]
