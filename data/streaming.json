@@ -1,5 +1,16 @@
 [
   {
+    "title": "Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans",
+    "link": "https://blog.cloudflare.com/account-abuse-protection/",
+    "summary": "Blocking bots isn’t enough anymore. Cloudflare’s new fraud prevention capabilities — now available in Early Access — help stop account abuse before it starts.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 12 Mar 2026 05:00:00 GMT",
+    "timestamp": 1773291600.0,
+    "isoDate": "2026-03-12T05:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3f2nQ5wBVQ2WqiKGsjVWJe/3c1011ced84e46f65938f32c88035de9/image5.png"
+  },
+  {
     "title": "Slashing agent token costs by 98% with RFC 9457-compliant error responses",
     "link": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
     "summary": "Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into effi…",
@@ -229,17 +240,6 @@
     "timestamp": 1772546400.0,
     "isoDate": "2026-03-03T14:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4n601oScdNL1BuQWIXGxXE/606035f846d159ac426d1dcb7d76d8de/diagrams.png"
-  },
-  {
-    "title": "How Cloudy translates complex security into human action",
-    "link": "https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/",
-    "summary": "Cloudy is our LLM-powered explanation layer built directly into Cloudflare One. Its explanations, now part of Phishnet and API CASB, can improve user decisions and SOC efficiency.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 03 Mar 2026 06:00:00 GMT",
-    "timestamp": 1772517600.0,
-    "isoDate": "2026-03-03T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6dO9TV4MfE2R0YZ035QQ7/3693156d65a4c8aca4b2b9d57e77ce87/image1.png"
   },
   {
     "title": "Inside NFL IQ: The Analytics Engine Behind the NFL Offseason",
