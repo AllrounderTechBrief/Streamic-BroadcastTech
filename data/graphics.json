@@ -385,17 +385,6 @@
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154772/tarimbasindust_vir2_20250901.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300"
   },
   {
-    "title": "2026 William T. Pecora Award Nominations Now Being Accepted",
-    "link": "https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/",
-    "summary": "The William T. Pecora Award is presented annually to individuals or teams using satellite or aerial remote sensing that make outstanding contributions toward understanding the Earth (land, oceans, and air), educating the next generation of …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 11 Mar 2026 20:18:22 +0000",
-    "timestamp": 1773260302.0,
-    "isoDate": "2026-03-11T20:18:22+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/03/WTPecora_PressPhoto1970.jpg?w=340&h=420&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
     "title": "About University Innovation Project (UI)",
     "link": "https://www.nasa.gov/directorates/armd/tacp/ui/about-ui/",
     "summary": "NASA’s University Innovation (UI) project funds university-led innovation to address the agency’s Aeronautics Research Mission Directorate’s system-level challenges via independent, NASA-alternate-path, multi-disciplinary awards. Strategic …",
@@ -438,6 +427,17 @@
     "timestamp": 1773201660.0,
     "isoDate": "2026-03-11T04:01:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-most-unusual-lake/lakeuntersee_oli2_20260216.jpg?w=1187&h=907&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "About Subsonic Vehicle Technologies and Tools Project",
+    "link": "https://www.nasa.gov/directorates/armd/aavp/svtt/about-svtt/",
+    "summary": "Project Overview NASA’s Subsonic Vehicle Technologies and Tools (SVTT) project develops technologies and tools for various types of aircraft that fly in different speed regimes, including next-generation vertical take-off and landing and fi…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 11 Mar 2026 02:32:09 +0000",
+    "timestamp": 1773196329.0,
+    "isoDate": "2026-03-11T02:32:09+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2016/07/hwb-artist-concept_1.jpg?w=1583"
   },
   {
     "title": "Doing more with less: What’s driving change in live production",
