@@ -1,5 +1,16 @@
 [
   {
+    "title": "Dust Outbreak Reaches Europe",
+    "link": "https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/",
+    "summary": "Clouds of dust lofted from the Sahara Desert brought hazy skies and muddy rain to Western Europe.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 12 Mar 2026 04:01:00 +0000",
+    "timestamp": 1773288060.0,
+    "isoDate": "2026-03-12T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154772/tarimbasindust_vir2_20250901.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300"
+  },
+  {
     "title": "Dow Drops 289, Nasdaq Rises 19, S&P 500 Falls 6",
     "link": "https://tvnewscheck.com/business/article/dow-drops-289-nasdaq-rises-19-sp-500-falls-6/",
     "summary": "U.S. stock market remained calm Wednesday, even as oil prices rise. The post Dow Drops 289, Nasdaq Rises 19, S&P 500 Falls 6 appeared first on TV News Check.",
@@ -427,17 +438,6 @@
     "timestamp": 1773169578.0,
     "isoDate": "2026-03-10T19:06:18+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/depiction-of-em-extension.png?w=1040"
-  },
-  {
-    "title": "Ice to Fuel: NASA Tests Technology for Refueling Landers",
-    "link": "https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/",
-    "summary": "The farther the destination, the more fuel a rocket needs. The more fuel the rocket carries, the heavier the spacecraft. The heavier the spacecraft, the more fuel it requires to launch. Experts at NASA’s Glenn Research Center in Cleveland a…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 10 Mar 2026 18:40:00 +0000",
-    "timestamp": 1773168000.0,
-    "isoDate": "2026-03-10T18:40:00+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/grc-2025-c-07229.jpg?w=2048"
   },
   {
     "title": "Doing more with less: What’s driving change in live production",
