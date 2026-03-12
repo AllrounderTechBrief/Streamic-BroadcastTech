@@ -1,5 +1,16 @@
 [
   {
+    "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
+    "link": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
+    "summary": "The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phishing investigation takes 12 hours instead of five minutes, the outcome can shift from a c…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Mar 2026 17:00:00 +0530",
+    "timestamp": 1773315000.0,
+    "isoDate": "2026-03-12T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyAymkVT6oOh3KGSa7rCPyMlrrye6CVfJ2XVCt_iVvuatelOJiFXIV5YnOzaGBJFs8et6STAZ67nRfN49Ac9aouuN7jDZWAum8Bdy3wfcj27lYGNcWTA_i5Rm4DYXLzKJyUGc2ZdS6AXasd0LTgdgx8PdqKRRo6s_hZ7FwXNFE6kGDmN6B1z5BYrcsxE/s1600/conf.jpg"
+  },
+  {
     "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
     "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
     "summary": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit. The vulnerability, tracked as CVE-2023-43010, relates to an unspecif…",
@@ -317,16 +328,5 @@
     "timestamp": 1772807580.0,
     "isoDate": "2026-03-06T14:33:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQjK1KC9p7VWWkeFycROhD4cXTkFws06lICtY2bwCh8m2G8vl20VKnurwKZGiqVLWKxZGBRREcIKUImgupySapsKegJcZjxIYuU5nmLtLBABpnxQIC0ShG0uUbiG0jfRH7IgBTj5COyPK090eD7qof5VnsI2gUG43uLkhdy3EqDCVPguAcBp7HSdASnA9Q/s1600/key-malware.jpg"
-  },
-  {
-    "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
-    "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
-    "summary": "Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale. Risk-based cybersecurity is the foundation of that model. When done right, it builds client trust, i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 06 Mar 2026 16:00:00 +0530",
-    "timestamp": 1772793000.0,
-    "isoDate": "2026-03-06T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87js9FM5u5gJgNYbTJGym-RLvB-9rHWoeFBMkLbzvbBgY8aGaMtb_pX5i2-rQz34VbJsQfeOD-GvRJ0yNXUSGjR3vnV7CUt4APOPSwvBNpaF4m64z5OxmNVw0WDaCa3q_KlAjNecBrLurfYPNFC3xiASO71v6k23E77RKyyRujOXUMWHbymxtrVLatdI/s1600/cynomi.jpg"
   }
 ]
