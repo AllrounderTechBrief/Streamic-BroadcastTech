@@ -1,5 +1,27 @@
 [
   {
+    "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
+    "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant departure from other known Delphi-based malware families associated with the Latin American cy…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Mar 2026 23:01:00 +0530",
+    "timestamp": 1773336660.0,
+    "isoDate": "2026-03-12T17:31:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjBG0q0txzazIOX6qmjJRAOlDmf27AY4QSQqf6Yqm4RUF6iNRgbo4T9mFhUoYDved5zs0MBrJYPTjpGhvs0ZWjUhlckqK97St9FlJrVT2BOKfslWcA_42FOySa0HT7razFyzHt2AKP76uwVzjDvYTwkNTs2M-TeC7Ospf0uLvbI6OGYhWh7Lf33DA9gCUt/s1600/banking-trojan.jpg"
+  },
+  {
+    "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
+    "summary": "Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a financially motivated threat actor named Hive0163. \"Although still relatively unspectacular, AI…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 12 Mar 2026 22:32:00 +0530",
+    "timestamp": 1773334920.0,
+    "isoDate": "2026-03-12T17:02:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAvQYbgT2Bzyhv6lldqV781Ec5C2EKl2Y-ezdEDwakAZnizcub5ZIyJxZKg-fouq4L04gr_sNDHb5JPVhoOYYRKLnzo_TQqAiOFCPycF2EfjVA2wpA3ak9ZgfUFXCi_O9Pwx2GdtCDo3u6PFlheeR9IC2OMfGF5XZ8Cr-53uP01xsQxEGDQ8AO3rbvka8e/s1600/ransomware-ai.jpg"
+  },
+  {
     "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
     "link": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
     "summary": "Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure, legitimate-looking authentication flows, and encrypted tra…",
@@ -306,27 +328,5 @@
     "timestamp": 1773040860.0,
     "isoDate": "2026-03-09T07:21:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBw-CldP1FbyOXvJqoX3p-J6QQbtYRACj95MIqX7KakiKKyLMYE4lYpQm6eY7S5sGhsAp8vYbM2ZwPJT59JdjSnGyybDhNucYaymCijGQfyx_cJwkpBZGQ7Mgk2kiCALQU4qZ6i6q0SPo2cBEQHt8j6XX8RQo3kvQ9mj1W3DVP2ZoNF7ZkF7dsdJD9gVZI/s1600/critical.png"
-  },
-  {
-    "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
-    "link": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
-    "summary": "OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities. The feature is available in a research preview to ChatGPT Pr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 07 Mar 2026 21:58:00 +0530",
-    "timestamp": 1772900880.0,
-    "isoDate": "2026-03-07T16:28:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzxRjA2uB_r2z4AtvhADiDGrxTc62766WI5jApivjtuLfb2aS2kz9RWk7f9P3Lm7Nj5HH3u-7Etx4-8xr_Y4PflexsuMsAzXjvPoPLSQaSt1O-t4U3yBAnKm4HLm-64dbHDsWF-EXYVMvaMrMnhfbhV_qn2cvwmJE6x-U42aTjGbIOTNOXxpiH3x15C6Ag/s1600/codex.jpg"
-  },
-  {
-    "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
-    "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
-    "summary": "Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla. Of these, 14 have been classified as high, seven have been classified as moderate, and one has…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 07 Mar 2026 16:51:00 +0530",
-    "timestamp": 1772882460.0,
-    "isoDate": "2026-03-07T11:21:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2DaQuy20IkM7M8iL7NBmzJhI9m5KDEpf6CBgxcI9rAhiVLO1VyfdAeQKaInOY3dlIiwy1FWtusinpu8Yyj1fChemLiVCTLnMLRtKaKNvDbOOa0ZjVFt5zoT7yON1ljb2DAlgki_aVmVuWSmAPn2jFszCpJdjzN7DGGRzeEzD5OYcSn2oeLzcaBARYzmOS/s1600/firefox-claude.jpg"
   }
 ]

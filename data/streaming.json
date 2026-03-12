@@ -1,5 +1,16 @@
 [
   {
+    "title": "Accelerating sports content creation using agentic AI: PGA TOUR",
+    "link": "https://aws.amazon.com/blogs/media/accelerating-sports-content-creation-usingagentic-ai-pga-tour/",
+    "summary": "In a sport where every stroke, statistic, and storyline unfolds in real time across hundreds of players and thousands of fans, the PGA TOUR is rewriting the rules of sports content. In this blog post, we’ll describe how PGA TOUR uses Amazon…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 12 Mar 2026 18:27:51 +0000",
+    "timestamp": 1773340071.0,
+    "isoDate": "2026-03-12T18:27:51+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/12/PGA-image-1.png"
+  },
+  {
     "title": "Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans",
     "link": "https://blog.cloudflare.com/account-abuse-protection/",
     "summary": "Blocking bots isn’t enough anymore. Cloudflare’s new fraud prevention capabilities — now available in Early Access — help stop account abuse before it starts.",
@@ -427,16 +438,5 @@
     "timestamp": 1763663631.0,
     "isoDate": "2025-11-20T18:33:51+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/11/18/HK-Image-1.png"
-  },
-  {
-    "title": "Agentic AI headlines AWS re:Invent 2025 across Media and Entertainment",
-    "link": "https://aws.amazon.com/blogs/media/agentic-ai-headlines-aws-reinvent-2025-across-media-and-entertainment/",
-    "summary": "Agentic AI is rapidly reshaping workloads across industries and is taking center stage at Amazon Web Services (AWS) re:Invent conference this year. In media and entertainment (M&E), AI is accelerating workflows, unlocking new capabilities, …",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 19 Nov 2025 18:32:59 +0000",
-    "timestamp": 1763577179.0,
-    "isoDate": "2025-11-19T18:32:59+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/11/18/reInvent_Banner_2000x246_no-date.png"
   }
 ]

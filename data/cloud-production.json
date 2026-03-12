@@ -1,5 +1,38 @@
 [
   {
+    "title": "Harmonic Redefines the Economics of Video Playout with New Spectrum X Plus Media Server",
+    "link": "https://www.broadcastbeat.com/harmonic-redefines-the-economics-of-video-playout-with-new-spectrum-x-plus-media-server/",
+    "summary": "Advanced Media Server Delivers Double the Channel Density at Half the Cost per Channel of Previous Generations SAN JOSE, Calif. — March 12, 2026 — Harmonic (NASDAQ: HLIT) today announced Spectrum™ X Plus, the newest generation of its Spectr…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 12 Mar 2026 18:45:08 +0000",
+    "timestamp": 1773341108.0,
+    "isoDate": "2026-03-12T18:45:08+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Accelerating sports content creation using agentic AI: PGA TOUR",
+    "link": "https://aws.amazon.com/blogs/media/accelerating-sports-content-creation-usingagentic-ai-pga-tour/",
+    "summary": "In a sport where every stroke, statistic, and storyline unfolds in real time across hundreds of players and thousands of fans, the PGA TOUR is rewriting the rules of sports content. In this blog post, we’ll describe how PGA TOUR uses Amazon…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 12 Mar 2026 18:27:51 +0000",
+    "timestamp": 1773340071.0,
+    "isoDate": "2026-03-12T18:27:51+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/12/PGA-image-1.png"
+  },
+  {
+    "title": "Historic Ewing Covenant Church Revitalizes Worship Experience With DPA Microphones",
+    "link": "https://www.broadcastbeat.com/historic-ewing-covenant-church-revitalizes-worship-experience-with-dpa-microphones/",
+    "summary": "EWING, NEW JERSEY, MARCH 12, 2026 ― When Ewing Covenant Church made the decision to return to its original, historic building, affectionately called “1867 Sanctuary” for weekly worship, the congregation faced the challenge of delivering cle…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 12 Mar 2026 17:26:21 +0000",
+    "timestamp": 1773336381.0,
+    "isoDate": "2026-03-12T17:26:21+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Marshall Electronics Launches CV574-WP, its First 4K, All-IP, All-weather NDI®|HX3 POV Camera at NAB 2026",
     "link": "https://www.broadcastbeat.com/marshall-electronics-launches-cv574-wp-its-first-4k-all-ip-all-weather-ndihx3-pov-camera-at-nab-2026/",
     "summary": "LAS VEGAS, MARCH 12, 2026 — Marshall Electronics introduces its first all-IP 4K POV camera, the CV574-WP, at NAB 2026 (Booth C8339). The CV574-WP supports NDI®|HX, providing ultra-efficient, low-latency video transport over standard Etherne…",
@@ -140,28 +173,6 @@
     "timeAgo": "Tue, 10 Mar 2026 21:03:51 +0000",
     "timestamp": 1773176631.0,
     "isoDate": "2026-03-10T21:03:51+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Matrox Video Enables the Next Era of Software-Defined Media Production at NAB 2026",
-    "link": "https://www.broadcastbeat.com/matrox-video-enables-the-next-era-of-software-defined-media-production-at-nab-2026/",
-    "summary": "MONTREAL — March 10, 2026 — Matrox Video will showcase its vision for the future of live production at NAB 2026 in Las Vegas, April 19-22, highlighting how broadcasters and media organizations can evolve toward modern, software-defined infr…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 10 Mar 2026 20:49:09 +0000",
-    "timestamp": 1773175749.0,
-    "isoDate": "2026-03-10T20:49:09+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "GlobalM Introduces Distributed Video Gateway Architecture, Advancing Scalable Live IP Transport for Broadcasters at NAB 2026",
-    "link": "https://www.broadcastbeat.com/globalm-introduces-distributed-video-gateway-architecture-advancing-scalable-live-ip-transport-for-broadcasters-at-nab-2026/",
-    "summary": "March 10, 2026 Geneva-based technology company, GlobalM SA, is presenting its GMX Distributed Video Gateway, a software-defined IP media transport platform designed to replace fixed, hardware-bound contribution and distribution systems. New…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 10 Mar 2026 19:45:18 +0000",
-    "timestamp": 1773171918.0,
-    "isoDate": "2026-03-10T19:45:18+00:00",
     "imageUrl": ""
   },
   {
@@ -372,16 +383,5 @@
     "timestamp": 1763663631.0,
     "isoDate": "2025-11-20T18:33:51+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/11/18/HK-Image-1.png"
-  },
-  {
-    "title": "Agentic AI headlines AWS re:Invent 2025 across Media and Entertainment",
-    "link": "https://aws.amazon.com/blogs/media/agentic-ai-headlines-aws-reinvent-2025-across-media-and-entertainment/",
-    "summary": "Agentic AI is rapidly reshaping workloads across industries and is taking center stage at Amazon Web Services (AWS) re:Invent conference this year. In media and entertainment (M&E), AI is accelerating workflows, unlocking new capabilities, …",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 19 Nov 2025 18:32:59 +0000",
-    "timestamp": 1763577179.0,
-    "isoDate": "2025-11-19T18:32:59+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/11/18/reInvent_Banner_2000x246_no-date.png"
   }
 ]
