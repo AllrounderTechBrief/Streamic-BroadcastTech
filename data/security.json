@@ -1,5 +1,16 @@
 [
   {
+    "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
+    "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
+    "summary": "A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud. \"SocksEscort infec…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Mar 2026 10:56:00 +0530",
+    "timestamp": 1773379560.0,
+    "isoDate": "2026-03-13T05:26:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVzS5AAXyP_Q8mGS7-ZejQUI5zUDhpgZ64cEqrWMzNKqSKhI1ruMBwk3fI_eOC0LA8CvuiQQjDlWbFm8PXgUilTaauAIv2pC5rM6pnZBLRqpE9AifLnZTbkkF4dXLf9Ngr30qtvowTYLqbH2sPF6sd6mgA74AbHqtZ9dVhjvvMW68luK5nuNCWbe3ftuLG/s1600/router.jpg"
+  },
+  {
     "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
     "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
     "summary": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup & Replication software that, if successfully exploited, could result in remote code execution. The vulnerabilities are as follows - CVE-2026-2166…",
@@ -317,16 +328,5 @@
     "timestamp": 1773056700.0,
     "isoDate": "2026-03-09T11:45:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VI1qz4KwHldnHqAJcopF23x8Jtybzn4Obme0AQPvuP_SDx-vwFks8V70CSb-Gn_BBlONDV7BoK3IrxzxGfUd_3va58XjeoXX81Ix1E7JkcgC2kikZ-nWAawWhE0uU8bURJs1ggtbIG1N_F8VsYIYyjDe5NuF3SAholWy_u6Evu5ROpWGAaIShHZMNiA/s1600/bit.jpg"
-  },
-  {
-    "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
-    "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
-    "summary": "Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data. The extensions in…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Mar 2026 15:58:00 +0530",
-    "timestamp": 1773052080.0,
-    "isoDate": "2026-03-09T10:28:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH49NW0X18R8bc0fzFm6aPt92f15pxPq-HLMfyFmsApiXvZEsCn4z9qNQErHHvW34SFXKUPWy7mK70hM06Ld6Cxa4DioW7xjV9jnMamMF3DDKIQ39VwJhvq7l4bO79yzGp8huA6ewRk-XdWvJSeYT8fs16PdOa9BSxdbzw0hIwC1PVxh9uY5L0Wx3nNMAL/s1600/chrome-malware.jpg"
   }
 ]
