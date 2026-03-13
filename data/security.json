@@ -1,5 +1,16 @@
 [
   {
+    "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
+    "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
+    "summary": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup & Replication software that, if successfully exploited, could result in remote code execution. The vulnerabilities are as follows - CVE-2026-2166…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Mar 2026 09:45:00 +0530",
+    "timestamp": 1773375300.0,
+    "isoDate": "2026-03-13T04:15:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVixoCttO0Li1BNrJG6s8rsycHEzgVh52YFA_RHnrq4QMjt3fPQuKCJfw8rqCMZtgrSGrXxpPvTyhWQ_rD0D44_3TvBfNC0Eq_VRSWIqDFpDFdKdHMwQIidTX8E4Kc4iiWt3xcwhW_YC8oKLTZFMWN-uyCUjtIavnhXRHbs3gJOLuTUI1zg79tkK4gpsaQ/s1600/veeam.png"
+  },
+  {
     "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
     "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
     "summary": "Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant departure from other known Delphi-based malware families associated with the Latin American cy…",
@@ -317,16 +328,5 @@
     "timestamp": 1773052080.0,
     "isoDate": "2026-03-09T10:28:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH49NW0X18R8bc0fzFm6aPt92f15pxPq-HLMfyFmsApiXvZEsCn4z9qNQErHHvW34SFXKUPWy7mK70hM06Ld6Cxa4DioW7xjV9jnMamMF3DDKIQ39VwJhvq7l4bO79yzGp8huA6ewRk-XdWvJSeYT8fs16PdOa9BSxdbzw0hIwC1PVxh9uY5L0Wx3nNMAL/s1600/chrome-malware.jpg"
-  },
-  {
-    "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
-    "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
-    "summary": "High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign. The activity, which has targeted aviation, energy, government, law enforcement, pharmaceutica…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Mar 2026 12:51:00 +0530",
-    "timestamp": 1773040860.0,
-    "isoDate": "2026-03-09T07:21:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBw-CldP1FbyOXvJqoX3p-J6QQbtYRACj95MIqX7KakiKKyLMYE4lYpQm6eY7S5sGhsAp8vYbM2ZwPJT59JdjSnGyybDhNucYaymCijGQfyx_cJwkpBZGQ7Mgk2kiCALQU4qZ6i6q0SPo2cBEQHt8j6XX8RQo3kvQ9mj1W3DVP2ZoNF7ZkF7dsdJD9gVZI/s1600/critical.png"
   }
 ]
