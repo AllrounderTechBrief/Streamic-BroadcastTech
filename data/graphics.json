@@ -1,5 +1,16 @@
 [
   {
+    "title": "Extra Extra! Extra Data Stream Added to the Daily Minor Planet!",
+    "link": "https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/",
+    "summary": "The Daily Minor Planet citizen science project is expanding! In addition to data received nightly from the Catalina Sky Survey’s Mt. Lemmon telescope in Arizona, the project’s science team is now processing images from the Bok 2.3-meter tel…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 13 Mar 2026 21:42:20 +0000",
+    "timestamp": 1773438140.0,
+    "isoDate": "2026-03-13T21:42:20+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&h=1488&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Dow Drops 119, Nasdaq Loses 207, S&P 500 Falls 40",
     "link": "https://tvnewscheck.com/business/article/dow-drops-119-nasdaq-loses-207-sp-500-falls-40/",
     "summary": "U.S. stocks lost ground Friday as war with Iran kept pressure on oil prices. The post Dow Drops 119, Nasdaq Loses 207, S&P 500 Falls 40 appeared first on TV News Check.",
@@ -317,17 +328,6 @@
     "timestamp": 1773413885.0,
     "isoDate": "2026-03-13T14:58:05+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "GVIS Virtual Systems Simulations",
-    "link": "https://www.nasa.gov/centers-and-facilities/glenn/gvis-virtual-systems-simulations/",
-    "summary": "The Graphics and Visualization Lab (GVIS) at NASA Glenn Research Center creates a variety of immersive visualizations and simulations in support of NASA’s missions, projects, and future innovations. These visual tools help scientists, engin…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 13 Mar 2026 14:54:32 +0000",
-    "timestamp": 1773413672.0,
-    "isoDate": "2026-03-13T14:54:32+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/hemm-still.png"
   },
   {
     "title": "‘Who Killed Jennifer?’ Special To Debut On WGN+ App",
