@@ -1,5 +1,27 @@
 [
   {
+    "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
+    "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
+    "summary": "Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild. The list of vulnerabilities is as follows - CVE-2026-3909 (CVSS score: 8.8) -…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Mar 2026 14:47:00 +0530",
+    "timestamp": 1773393420.0,
+    "isoDate": "2026-03-13T09:17:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV6RqjIMz8KqPQlA1cIBNewRR0jZi7h-6Hs9JFjyV_wT8SKGcY_CP6J-DsPjP1eFKUYDQIJ8wztGrSmiD3HSopChiVBV1mLfYcoZolAxeFL-bRHV79PuCEC1sQQE3KMz9u8c8jFx4WXL62e6KXGYcivKjnyTiuvFj7BYXNaPrbXACyCvTb1Y9xpfYvq-AK/s1600/chrome-exploit.png"
+  },
+  {
+    "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
+    "link": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
+    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Mar 2026 13:48:00 +0530",
+    "timestamp": 1773389880.0,
+    "isoDate": "2026-03-13T08:18:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq_iDZMyZB2yYcYrlFVa1dJoHT3mV0d9HfTPEpKmflkN-4zBDaSNIurPPADFGUW9GfTfMaCDlwUb6ywLpKiQa5CtSGSC6sPJIqfe-gRWhUa_z1B6Obazf_U5NuRX-ruWpomgMJQqcjD7XPeoyhgbVplGYCX3zQKFKmSIf0iSBwoUXhuE1ZZeZns9-fMlNr/s1600/linux-root.jpg"
+  },
+  {
     "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
     "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
     "summary": "A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud. \"SocksEscort infec…",
@@ -306,27 +328,5 @@
     "timestamp": 1773067800.0,
     "isoDate": "2026-03-09T14:50:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu3lqP8aiEKLJA-l7TChGGULVqWhyphenhyphenMc67vwAHHEK4LkpR5ZlZuFIYWFmmPqdA8VQpGbFPvjwGvDHxkhXmC9xhTWlRCccD9PyU3A08-ahTc87j__u6g7RvgkwNo85LmbffhVRly_r4Sd9iiVdEvjtVvpcw0NiwOM1NfjNFQXx5xquwbd9E1zUUr09SYv_-A/s1600/crypto.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
-    "summary": "Another week in cybersecurity. Another week of \"you've got to be kidding me.\" Attackers were busy. Defenders were busy. And somewhere in the middle, a whole lot of people had a very bad Monday morning. That's kind of just how it goes now. T…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Mar 2026 19:16:00 +0530",
-    "timestamp": 1773063960.0,
-    "isoDate": "2026-03-09T13:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoDPwegKSRDQPO8CYuOJ9gg-wqvYfrwW1Ne0kApS2regCVz9BAJVhPeGCxT8oMd8gnIfNm4-QdgqCXs6VHUDEoS4i66bGo7R52oYjURwGCyG5gPaM-MeWqgTrM5fmKSHJh42NYkPDYQX9v2x97Q2XP1l816qk17OL8ncXwGpRj3AQ-BTjjDZlG1WnbFKDz/s1600/recap-march.jpg"
-  },
-  {
-    "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
-    "link": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
-    "summary": "Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply chain attacks, your customers and business partners are defining the security level you mu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Mar 2026 17:15:00 +0530",
-    "timestamp": 1773056700.0,
-    "isoDate": "2026-03-09T11:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VI1qz4KwHldnHqAJcopF23x8Jtybzn4Obme0AQPvuP_SDx-vwFks8V70CSb-Gn_BBlONDV7BoK3IrxzxGfUd_3va58XjeoXX81Ix1E7JkcgC2kikZ-nWAawWhE0uU8bURJs1ggtbIG1N_F8VsYIYyjDe5NuF3SAholWy_u6Evu5ROpWGAaIShHZMNiA/s1600/bit.jpg"
   }
 ]
