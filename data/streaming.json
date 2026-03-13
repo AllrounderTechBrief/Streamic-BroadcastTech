@@ -1,5 +1,16 @@
 [
   {
+    "title": "From legacy architecture to Cloudflare One",
+    "link": "https://blog.cloudflare.com/legacy-to-agile-sase/",
+    "summary": "Learn how Cloudflare and CDW de-risk SASE migrations with a blueprint that treats legacy debt as an application modernization project.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 16 Mar 2026 05:00:00 GMT",
+    "timestamp": 1773637200.0,
+    "isoDate": "2026-03-16T05:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Accelerating sports content creation using agentic AI: PGA TOUR",
     "link": "https://aws.amazon.com/blogs/media/accelerating-sports-content-creation-usingagentic-ai-pga-tour/",
     "summary": "In a sport where every stroke, statistic, and storyline unfolds in real time across hundreds of players and thousands of fans, the PGA TOUR is rewriting the rules of sports content. In this blog post, we’ll describe how PGA TOUR uses Amazon…",
@@ -240,17 +251,6 @@
     "timestamp": 1772546400.0,
     "isoDate": "2026-03-03T14:00:00+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Evolving Cloudflare’s Threat Intelligence Platform: actionable, scalable, and ETL-less",
-    "link": "https://blog.cloudflare.com/cloudflare-threat-intelligence-platform/",
-    "summary": "Stop managing ETL pipelines and start threat hunting. Introducing new visualization, automation, and enrichment tools in the Cloudflare Threat Intelligence Platform to turn massive telemetry into instant security posture.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 03 Mar 2026 14:00:00 GMT",
-    "timestamp": 1772546400.0,
-    "isoDate": "2026-03-03T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4n601oScdNL1BuQWIXGxXE/606035f846d159ac426d1dcb7d76d8de/diagrams.png"
   },
   {
     "title": "Inside NFL IQ: The Analytics Engine Behind the NFL Offseason",

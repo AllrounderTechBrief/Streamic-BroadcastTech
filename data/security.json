@@ -1,5 +1,27 @@
 [
   {
+    "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
+    "link": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html",
+    "summary": "Microsoft has disclosed details of a credential theft campaign that employs fake virtual private network (VPN) clients distributed through search engine optimization (SEO) poisoning techniques. \"The campaign redirects users searching for le…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Mar 2026 19:08:00 +0530",
+    "timestamp": 1773409080.0,
+    "isoDate": "2026-03-13T13:38:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIHmOuzh2pt4Kd3D5FVJ3ryojQF5XMf6q51cdyxus7nMy4suicQ1RNW3_sjRA6OgE3H-JXTOoxz9wwMqEZQbJb9SXS7DOYTVUBK1MszgQoAR6rGGTgunHDAKM7NfOTkK-W2U9_5rT0Un6xn-cwMnGipbokPav0UoDL7eyQkKIrrKwa2h0BgCFqwuZe598R/s1600/vpn-download.jpg"
+  },
+  {
+    "title": "Investigating a New Click-Fix Variant",
+    "link": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
+    "summary": "Disclaimer: This report has been prepared by the Threat Research Center to enhance cybersecurity awareness and support the strengthening of defense capabilities. It is based on independent research and observations of the current threat lan…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Mar 2026 18:58:00 +0530",
+    "timestamp": 1773408480.0,
+    "isoDate": "2026-03-13T13:28:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAy3Jm9mBV4SvNdfv5AJ_ZIKoJSwtUVeXkiFUNwKFUN3F5j3kYJTpD1a65PEcgqX2cMT0DmtJJ7YCrYuhElQ9nhYtQkXRtQxnkpOqTgSUOCAJgO8Lv8HDWZxVuy74vgjErtUYrHPH-UrWLfLoL18i__L9a-6T1xdgMPjsTamIOab3KGcJE3kzxz5aR8tm8/s1600/eviden.jpg"
+  },
+  {
     "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
     "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
     "summary": "Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild. The list of vulnerabilities is as follows - CVE-2026-3909 (CVSS score: 8.8) -…",
@@ -306,27 +328,5 @@
     "timestamp": 1773123420.0,
     "isoDate": "2026-03-10T06:17:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3Jqmj7G6SohXnwkh-xbheyTYoylchcxew5kAJKo9InrbQ0QqVtNQ2hgFc5UuSyQ7sljAfkAlfMzlclT3LQetQdmpqqm3vyb9sZQO2QogQ55M8CpUjCAPMWXEYbtQHbT93Cg7cpWNH2Zq5RtU1T515FT_OAfFKj50HXF8Uwb1VgkLHIhjd-vNZWPRKQdf/s1600/cisa-kev.jpg"
-  },
-  {
-    "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
-    "link": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
-    "summary": "Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and steal sensitive data from compromised hosts. The package, named \"@openclaw-ai/openclawai,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Mar 2026 00:01:00 +0530",
-    "timestamp": 1773081060.0,
-    "isoDate": "2026-03-09T18:31:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWahQ89p408qBpZO2cmP-m44fNG_BRHT34hjfmDGn2WhALZRls9d94ap8uK0ZYXj1JjAgxdDogTHv_1PHloweK3RtglJheCsgulTB0-KrYOgUFI3Gvp4FJiPaV33FVa8I5bl-v92O1IephSEiV_FMU010of5pnmgMQ0ZmBuvY4yC0Bl0ndth42P924uxR/s1600/openclaw.jpg"
-  },
-  {
-    "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
-    "link": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
-    "summary": "The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars in cryptocurrency. The activity has been attribu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Mar 2026 20:20:00 +0530",
-    "timestamp": 1773067800.0,
-    "isoDate": "2026-03-09T14:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu3lqP8aiEKLJA-l7TChGGULVqWhyphenhyphenMc67vwAHHEK4LkpR5ZlZuFIYWFmmPqdA8VQpGbFPvjwGvDHxkhXmC9xhTWlRCccD9PyU3A08-ahTc87j__u6g7RvgkwNo85LmbffhVRly_r4Sd9iiVdEvjtVvpcw0NiwOM1NfjNFQXx5xquwbd9E1zUUr09SYv_-A/s1600/crypto.jpg"
   }
 ]
