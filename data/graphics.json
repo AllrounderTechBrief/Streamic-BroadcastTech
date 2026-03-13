@@ -1,5 +1,16 @@
 [
   {
+    "title": "Eruption at Mayon",
+    "link": "https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/",
+    "summary": "Activity at the volcano in the Philippines sent lava and pyroclastic flows down the volcano’s flanks and prompted evacuations in nearby communities.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 13 Mar 2026 04:01:00 +0000",
+    "timestamp": 1773374460.0,
+    "isoDate": "2026-03-13T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-at-mayon/mayonvolcano_oli_20260226.jpg?w=801&h=779&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "About Low Boom Flight Demonstrator (LBFD) Project",
     "link": "https://www.nasa.gov/directorates/armd/iasp/armd-iasp-lbfd/about-lbfd/",
     "summary": "The Low Boom Flight Demonstrator project (LBFD) is part of NASA’s effort to help enable new aircraft noise standards that are required to open the market to commercial supersonic flight over land. The federal government banned all civilian …",
@@ -427,17 +438,6 @@
     "timestamp": 1773248400.0,
     "isoDate": "2026-03-11T17:00:00+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2020/11/uli-books.jpg?w=1598"
-  },
-  {
-    "title": "Telescopes Team Up for New View of Cat’s Eye Nebula",
-    "link": "https://www.nasa.gov/image-article/telescopes-team-up-for-new-view-of-cats-eye-nebula/",
-    "summary": "This March 3, 2026, image combines views from ESA’s (European Space Agency) Euclid and NASA’s Hubble Space Telescope to feature one of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543. This …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 11 Mar 2026 15:53:43 +0000",
-    "timestamp": 1773244423.0,
-    "isoDate": "2026-03-11T15:53:43+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c.jpg?w=2048"
   },
   {
     "title": "Doing more with less: What’s driving change in live production",
