@@ -1,5 +1,27 @@
 [
   {
+    "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+    "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
+    "summary": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020. Palo Alto Networks Unit 42 is tracking the threat activity under t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Mar 2026 23:03:00 +0530",
+    "timestamp": 1773423180.0,
+    "isoDate": "2026-03-13T17:33:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrOk1hLgfo5WibM8DV2JEqpyhy4SAs-pmNPJ9lflvC8CLCTEGabnzpAk9XlUmyY3EmJI-_SnGCqDA4C-A1nwD7LKbC6SCiAyTziw9KtzqZWYkARHbidARtOH-SxtUh80Cy3WJrKRR_U1E2ETOr72gQGAEhTaM1WHTm-vTDwru1ypZmmMBlC6fmVQp6IPL/s1600/dll.jpg"
+  },
+  {
+    "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
+    "link": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
+    "summary": "Meta has announced plans to discontinue support for end-to-end encryption (E2EE) for chats on Instagram after May 8, 2026. \"If you have chats that are impacted by this change, you will see instructions on how you can download any media or m…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 13 Mar 2026 22:39:00 +0530",
+    "timestamp": 1773421740.0,
+    "isoDate": "2026-03-13T17:09:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw1H50jEav77qEtezzwtuvWZF5YuaWWn_kwLx0sOZn8SBXFrcsqI5fwRoubG8lKN5T3xX_L5nLkfuQl-lavBiPJVvzZKZyK_KC_SjMJPJBVRGiTqxRJ0cbwxWyMban16y1KTNLeRzbesp_cxbpbd2gB8mxKSfV3pgO66kQf3xoLDFQB7MpH3vNRhYYjeyw/s1600/instagram.jpg"
+  },
+  {
     "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
     "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
     "summary": "INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to dismantle criminal networks, disrupt emer…",
@@ -306,27 +328,5 @@
     "timestamp": 1773140400.0,
     "isoDate": "2026-03-10T11:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfoH6o4IkbYakx1lP-kILdg8glEenVOVdJFyn8cxnNYO9hRSMut-XrsII-HfqY_VuguC1b0yHPueeREjsdS0RpXViN0IhuFYzheblF8avbGI6GILTtyHMF5_nJYPIKFRRYL1staxa_9sYMHRjMkL995yoIJYRW072CQaIWh95cCsLXFFpqg769bN-KFA/s1600/INTRUDER.jpg"
-  },
-  {
-    "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
-    "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
-    "summary": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel. The two malware families have been pu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Mar 2026 16:25:00 +0530",
-    "timestamp": 1773140100.0,
-    "isoDate": "2026-03-10T10:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-By3tHSMSOxuaRiOmtalZ7sltfDCZ-ZfA-SYEQ6RVae4iQoVJVeUZU380kIIgrdAnFkX516x6OdctG7NCgL3zNSSENMqgc1iNcSC48aIJ3sx7eAK1-5rGqPu00i5rfPpvxOQ9I9R-v1fPL-i_i0kreyvQ3a0WuneswNUZgnhaTKq6fFu3me-1TopHYcl1/s1600/Ukrainian-malware.jpg"
-  },
-  {
-    "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
-    "link": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
-    "summary": "Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector. The …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Mar 2026 12:47:00 +0530",
-    "timestamp": 1773127020.0,
-    "isoDate": "2026-03-10T07:17:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg3WBGF42HjwJCk1bkljwrz8qAZRBc_WKGgu7SuNluRZBhSEGh3JelP6R_I9w64bbi9soVTwDerZux7tknJmttdOS024pbnsAG8a16SYaBubeRlhDIYboq-SBO53ARQ77uWWAUGX6yTZ8AaeWOQMydWFRP-nbunFtTDsmCpqcUvgFBsTpxHYqSi050MtYl/s1600/salesforce.jpg"
   }
 ]
