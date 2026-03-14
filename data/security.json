@@ -1,5 +1,16 @@
 [
   {
+    "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+    "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
+    "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry. \"Instead of requiring every malicious listing to embed …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 14 Mar 2026 18:25:00 +0530",
+    "timestamp": 1773492900.0,
+    "isoDate": "2026-03-14T12:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4d-2XpiCS0UYnMWh32sQEJP9LnlN_m7m2hok9CnY_vu05XXwWn4INodYCvrEdweEzpho7XqcuOFvEPnnEWlHCRa_q3HY3V5O_ii35MVWAimRwsgrpNQrvGqeUchhZ48FRUl91zTpYQdLMRxVvRjV_T8GEm-J9mnMesefzlgeaoE_EU7Ba32liTr63SsQq/s1600/open.jpg"
+  },
+  {
     "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
     "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
     "summary": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020. Palo Alto Networks Unit 42 is tracking the threat activity under t…",
@@ -317,16 +328,5 @@
     "timestamp": 1773148800.0,
     "isoDate": "2026-03-10T13:20:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2sHbLX0XUqPu9yr7S5g-qYzWmRx4m_RGqFl4wqfd87nzpCH4RbDGMzdvRIzXLHfGUFtESqDSbXjksDf73X6VqM9kdl0BsgoRGr6luzPooCoRR5oAzQzxyCPU7HMK_JrXS__l0h22_J0JNkveq_OA87M4MvaASKETRpM9lj57aLzm7znLU4OWz6Gs0ZmwT/s1600/looker.jpg"
-  },
-  {
-    "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
-    "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
-    "summary": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Secu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Mar 2026 16:30:00 +0530",
-    "timestamp": 1773140400.0,
-    "isoDate": "2026-03-10T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfoH6o4IkbYakx1lP-kILdg8glEenVOVdJFyn8cxnNYO9hRSMut-XrsII-HfqY_VuguC1b0yHPueeREjsdS0RpXViN0IhuFYzheblF8avbGI6GILTtyHMF5_nJYPIKFRRYL1staxa_9sYMHRjMkL995yoIJYRW072CQaIWh95cCsLXFFpqg769bN-KFA/s1600/INTRUDER.jpg"
   }
 ]
