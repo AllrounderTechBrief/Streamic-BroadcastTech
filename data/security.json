@@ -1,5 +1,27 @@
 [
   {
+    "title": "Why Security Validation Is Becoming Agentic",
+    "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
+    "summary": "If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scan…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 16 Mar 2026 17:28:00 +0530",
+    "timestamp": 1773662280.0,
+    "isoDate": "2026-03-16T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLVOZFyD6pBH1804jnpyTOScRJO3CnlHA2m3B-L1ML1B5l2iP70OHF_rUwtdHARpNsVh5WxdCXX7fO9NfpjPaH0jwJYCmWgGa2Eo5x9RPkl8PEl9e7tq2-T5sbv6KI7GnyzCr3PhSUSpweRRMlR0pGC4lO_3m1gVgLfrjt6sulJRo4yJKPlNSn_VyM8oo/s1600/picus.jpg"
+  },
+  {
+    "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
+    "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
+    "summary": "Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync. \"Unlike traditional exploit-based attacks, this method relies entirely on user interaction – us…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 16 Mar 2026 17:11:00 +0530",
+    "timestamp": 1773661260.0,
+    "isoDate": "2026-03-16T11:41:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYjqyJvKKEaCGLTQo4-iMO_9Iq0V0lJVBlggKNorjB_DmPjq0sw_wl0EJ1oklawc4r9V7Axxk_J1WW1HEbIZwKRo8ui7thLccLTtcD6ePD0EcbJCvXWa0eAv0BYdV1cYO2HcDEIbB5GMNxUnV0TGTD3O2YAnOUcPqFJvTPPbYhufQ-sBuh1K01E6Szx9O/s1600/macos-clickfix.jpg"
+  },
+  {
     "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
     "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
     "summary": "Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team. The campaign, observed in February 2026, has been a…",
@@ -306,27 +328,5 @@
     "timestamp": 1773214260.0,
     "isoDate": "2026-03-11T07:31:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUREkqLhVFM9jnUqkHPMEmAj2KBdTrXOX_m8t7zEUdK4NE16BBL0XQHZ9q4KPVDfKecgf4KE64vzAW9XDvn6axd6fIU9WZy5Lqe348eT7rKvmsLU3ByDPajxWFlkTt6CQTNkmNv8e57XrvWAaM-YaXtD0QP1-grx4XPtV_Osxw-vjtPfw4A70O5x41yvq/s1600/aws.jpg"
-  },
-  {
-    "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
-    "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
-    "summary": "Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors. The Rust packages, published to crates.io, are listed below - chrono_anchor dnp3…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 11 Mar 2026 10:42:00 +0530",
-    "timestamp": 1773205920.0,
-    "isoDate": "2026-03-11T05:12:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzAdo0qx6xgUYxpWZkp4v30357zGX7ojSkN1vbfazb6D_JiXd9ksAHFNZJzY6pleKYV_HeYZcgJ48U36zUMPSJFR9bPUvFz18THXzTTnvhembJW9wrCypxj_2ttelgwbBwOD__5Yr-WGIBw1XthSLi6UZy3QtLZfmt7j_P8fOxZmm0PQwPAMCtNKkQzz1n/s1600/rust.jpg"
-  },
-  {
-    "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
-    "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
-    "summary": "Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks. The activity involves the exploitation of rece…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Mar 2026 21:51:00 +0530",
-    "timestamp": 1773159660.0,
-    "isoDate": "2026-03-10T16:21:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaob2yqCn3sfdJzP_Cg84pqsU3I0R7XKt1LiMZLkgr3o3IHIWwarYiLwvqGKig4ZFF4-Hdc2hq79QyM_xSbyGp2CsGZNA4X1ZHjxaY0NUeiFjBEMtbQHD45QQzSTtGTzJP8z7EfsJYnikYmV4dipwkSniPMgPaboch1EP4S-lmtjvrJ9eY-WcfWHMsOB89/s1600/fortinet-exploit.jpg"
   }
 ]
