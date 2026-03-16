@@ -1,5 +1,16 @@
 [
   {
+    "title": "How Sony Pictures Networks India Delivered Personalized Ad Insertion at Scale on AWS",
+    "link": "https://aws.amazon.com/blogs/media/how-sony-pictures-networks-india-delivered-personalized-ad-insertion-at-scale-on-aws/",
+    "summary": "Sony Pictures Network India (SPNI) runs Sony LIV, which is one of the leading popular over-the-top (OTT) video-streaming platform in India. The content offering includes original and acquired TV shows and films, alongside live sporting even…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 16 Mar 2026 14:04:47 +0000",
+    "timestamp": 1773669887.0,
+    "isoDate": "2026-03-16T14:04:47+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/13/AsiaCup-SSAI.drawio.png"
+  },
+  {
     "title": "From legacy architecture to Cloudflare One",
     "link": "https://blog.cloudflare.com/legacy-to-agile-sase/",
     "summary": "Learn how Cloudflare and CDW de-risk SASE migrations with a blueprint that treats legacy debt as an application modernization project.",
@@ -427,16 +438,5 @@
     "timestamp": 1765314574.0,
     "isoDate": "2025-12-09T21:09:34+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/12/08/MediaTailor-SSAI-WBD-EMEA.png"
-  },
-  {
-    "title": "Holstein Kiel transforms scouting with OpenAI models on Amazon Bedrock",
-    "link": "https://aws.amazon.com/blogs/media/holstein-kiel-transforms-scouting-with-openai-models-on-amazon-bedrock/",
-    "summary": "This blog post was co-authored by Markus Brunnschneider, Head of Game and Tactical Analysis, Squad Planning and Scouting, International Football Institute. Traditional football clubs generate vast amounts of player data but often struggle t…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 20 Nov 2025 18:33:51 +0000",
-    "timestamp": 1763663631.0,
-    "isoDate": "2025-11-20T18:33:51+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/11/18/HK-Image-1.png"
   }
 ]
