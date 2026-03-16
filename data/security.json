@@ -1,5 +1,16 @@
 [
   {
+    "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+    "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+    "summary": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API. The change, incorporated in Android 17 Beta 2, was first reported by …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 16 Mar 2026 11:13:00 +0530",
+    "timestamp": 1773639780.0,
+    "isoDate": "2026-03-16T05:43:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvueuqNoIDsAH4vpBnbAGr2wz0tlhGECqZdmLWdnSPn-mZNpKuAIMPRyOR4B9C9RDKQKYKskTM-idN3OQ5zligs_i092dM4LLMP5jo1v2UHOe2hK9hV2GuX_5RvWrrmSh8b0FbKiVB7-5vuISiT_-ko5MbCTZs1YjLqFjUDZG8QFHIrV6MDlr1R1RdbM7/s1600/android-security.jpg"
+  },
+  {
     "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
     "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
     "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial int…",
@@ -317,16 +328,5 @@
     "timestamp": 1773159660.0,
     "isoDate": "2026-03-10T16:21:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9rQgRdibuFYsDbwmp3SukV8rvo2XAcrItRHJVuYOvQd5AQyUUNQlF254t_zArE0rjDNbI-ibkfkezQF394z9u2QQRwCk9vju1yDsQJjYGjbfoNAvvUfM7ZhYl134SLtAYSmx4CtP8n9n0Uyk-DYW9gJ-ci7nGhInnioZMyhH1xT5ySyaXTYJ3nmD_Xo/s1600/ai-agents.jpg"
-  },
-  {
-    "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
-    "link": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
-    "summary": "Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic. The malware, first detected in the wild in August 2025, has expanded …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 10 Mar 2026 21:30:00 +0530",
-    "timestamp": 1773158400.0,
-    "isoDate": "2026-03-10T16:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6yjElOGPcYBf276MHunx4KJvvDBj2k0LIMcaz8NZN6c9NM-EPhn5wGG8jiQab-zkwUzGWDNnqMo7F_mIq_HbuS4KKV9TNn3oebk_nWkZKcm3BRT0EIEqut61LgUodpHvtGYBB3bjeT_zJ_TxjxLgmO7DPwaFqXryrkQ7X8BpWz2GucoDtcTcXP6XbLQ_/s1600/router-botnet.jpg"
   }
 ]
