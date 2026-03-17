@@ -1,5 +1,16 @@
 [
   {
+    "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
+    "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
+    "summary": "A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera. The report, based on a survey of 30…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Mar 2026 17:00:00 +0530",
+    "timestamp": 1773747000.0,
+    "isoDate": "2026-03-17T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8f5KRgkqcEs7OtCxyKrJIvPWUOZnbkV5dIFPc5TjDbkAliVww6lOjpuOBZYQw1TF4H28aJZNMY6KkZmnaQfIGsR4PlXWHl4Ps-zfPutG01bPkEIjKSLlCWwK66sjwPX7uf7qsrjl3kMTVe1F4Wl7BJj7dPiC0rDW_skQOlfgirUrzT9E5bccb4fTXdLI/s1600/pentera.jpg"
+  },
+  {
     "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
     "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
     "summary": "North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts. The activity has been attributed by Sou…",
@@ -317,16 +328,5 @@
     "timestamp": 1773240660.0,
     "isoDate": "2026-03-11T14:51:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMTLKLDP1BIQuPb3-fnJrl5cpfhjHBhFF0Onswskul1eyu4fTPyEpOzUa13oWHQsl-83zPhaSVWBfIDj_RIeaQFrbr9VwCDLVXfUp-QDt5V6Dtd91VvXCO5O0Zm9hPTLOUhbXPQKb6tKdWecJ_ejME8fZX8rQRsRFkg67WdzlSv-g0mOuvhcsFKh9eeG-A/s1600/n8n.jpg"
-  },
-  {
-    "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
-    "link": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
-    "summary": "Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 11 Mar 2026 18:45:00 +0530",
-    "timestamp": 1773234900.0,
-    "isoDate": "2026-03-11T13:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdiU2byr8OVn_Cvv66sMyUa0QaabpGv0bB1Y7u7BxMAryr4PRdDTQLlPMTavhwTj3aaVkNf9lPeXxnygBDTmm5MDETpEcbyJjpN2dt0yx-8MuEwwWXbZm4g0a6BTFfLOekUzBnjPR2qYkIyOP4K3tHRd8am6YbhYIcbSXYVdTt983cyMtYKbd8BgBsy0lu/s1600/whatsapp.gif"
   }
 ]
