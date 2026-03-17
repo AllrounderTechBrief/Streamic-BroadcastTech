@@ -1,5 +1,16 @@
 [
   {
+    "title": "A Bit of Gray on an Emerald Isle",
+    "link": "https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/",
+    "summary": "Ireland is best known for its many greens, but the striking grays of the island’s Burren region also stand out in satellite images.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 17 Mar 2026 04:01:00 +0000",
+    "timestamp": 1773720060.0,
+    "isoDate": "2026-03-17T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpzm_oli_20250526.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "David Zaslav Set For $886 Million In Payments & Benefits From WBD-Paramount Merger",
     "link": "https://tvnewscheck.com/business/article/david-zaslav-set-for-886-million-in-payments-benefits-from-wbd-paramount-merger/",
     "summary": "The revised number are out and they’re big. Warner Bros. Discovery CEO David Zaslav is set to receive payments and benefits valued at $886.8 million at the close of the company’s planned sale to Paramount Skydance. An SEC filing Monday lays…",
@@ -427,17 +438,6 @@
     "timestamp": 1773438140.0,
     "isoDate": "2026-03-13T21:42:20+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&h=1488&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "NASA Selects Finalists in Student Aircraft Maintenance Competition",
-    "link": "https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/",
-    "summary": "NASA has selected eight student teams as finalists in the 2026 Gateways to Blue Skies Competition, giving them the resources to help address a critical challenge for U.S. aviation: maintenance. Challenges facing the commercial aviation indu…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 13 Mar 2026 19:17:49 +0000",
-    "timestamp": 1773429469.0,
-    "isoDate": "2026-03-13T19:17:49+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?w=2048"
   },
   {
     "title": "Doing more with less: What’s driving change in live production",
