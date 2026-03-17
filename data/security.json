@@ -1,5 +1,16 @@
 [
   {
+    "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+    "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries. In a report published Monday, BeyondTrust…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Mar 2026 22:09:00 +0530",
+    "timestamp": 1773765540.0,
+    "isoDate": "2026-03-17T16:39:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlC6FiLJ9YVGC1W0eo-MmFsPTu2DNqMSdo-QKnv1gdH_HpaKV3zPaWZrQTGNdklpv62BXb3ECiBqlkR1BzLbfz0tFWfMKNM1vZq88yf90XpycB2OSDq3NScWav6ZO_4IVjCWaJRJLwvthFo-7VJ-Uc8qijyycpXfkQRHcPr9pf-QVgGzyOeBFnwfOGnmLN/s1600/lang-ai.jpg"
+  },
+  {
     "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
     "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
     "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method. The use of ClickFix, where users are tricked into manually running malicious co…",
@@ -317,16 +328,5 @@
     "timestamp": 1773292680.0,
     "isoDate": "2026-03-12T05:18:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqTMEW2jHKU06jv88QZ06xgVQgmBS6BBQ2qOiIrLlhEJvpDCbje7ou_bIPAxP-N9b90TI7pIKZMotOLtO_3Gi4B3JBRRW8QxuqZtVj8WwFdEMhCdqd-XaTcRFRjBEyGeDeNjznGmw2qUWyHAshjwN8J2FOLhqTzwIS9-X6-G0pm5lUeKuxQegcENT4V8Q0/s1600/cisa-exploit.jpg"
-  },
-  {
-    "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-    "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-    "summary": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey to phishing and scam traps. The attack,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 11 Mar 2026 22:08:00 +0530",
-    "timestamp": 1773247080.0,
-    "isoDate": "2026-03-11T16:38:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHkDTAnMilk2AM0Yg71UjZJul-Q0y_QvAqY97sCemt73LNrjo7Rwp7uHjmFpSmeV75WwsRN5tRMdcgACXJFnv7FMOqb9qAnaOoyek1f0KubQtDtdkWZAh6g8ZZXNSwLLmAZYONBXIM-xa9QNbO9qQDI4REUUobzfhTuBJED4ilM5CBA0AmQ6zfyUWpvQDo/s1600/agent.png"
   }
 ]
