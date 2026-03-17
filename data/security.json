@@ -1,5 +1,16 @@
 [
   {
+    "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
+    "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
+    "summary": "North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts. The activity has been attributed by Sou…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 17 Mar 2026 15:23:00 +0530",
+    "timestamp": 1773741180.0,
+    "isoDate": "2026-03-17T09:53:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64jRKLqi9-c5fwxRIgUOuYe8fcW2NWoeEfMBoi9oBOrVRu1CW6TXPBuAL3VPIKoQMX4EeeKtPt0wzGFExXyCm3rGmXRYzfWsFSp1JDpxZ82neNjqGELR9s2ViKaVzhk2taHFfQNGiIYC9JyhaOd8c4DLKmUZt_SleyWwtCwi2ffFpFI6SIFq3h7pni3NZ/s1600/attack-talk.jpg"
+  },
+  {
     "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
     "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabil…",
@@ -317,16 +328,5 @@
     "timestamp": 1773234900.0,
     "isoDate": "2026-03-11T13:15:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdiU2byr8OVn_Cvv66sMyUa0QaabpGv0bB1Y7u7BxMAryr4PRdDTQLlPMTavhwTj3aaVkNf9lPeXxnygBDTmm5MDETpEcbyJjpN2dt0yx-8MuEwwWXbZm4g0a6BTFfLOekUzBnjPR2qYkIyOP4K3tHRd8am6YbhYIcbSXYVdTt983cyMtYKbd8BgBsy0lu/s1600/whatsapp.gif"
-  },
-  {
-    "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
-    "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
-    "summary": "SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems. The vulnerabilities in question listed below - CVE-2019-17571 (CVSS score: 9.8) - A co…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 11 Mar 2026 17:56:00 +0530",
-    "timestamp": 1773231960.0,
-    "isoDate": "2026-03-11T12:26:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrrEElPNhJ9Cn51FnZPkh9XKFRVQzKwXGWqMzaKySW388TL56lNUbySAgOs9nxMbwCHVmFwxE3UvCVt_H9MtWZfS2euZz9zF-Wrh0mnVf-3kefawk-MvoqjSZd3MOcKzHVgjYWnkWy9iE2Ns-6kauXtWE4K9LJHQdBStJVJHjGCRS4om2dZIHDv7rw3zh/s1600/software-update.jpg"
   }
 ]
