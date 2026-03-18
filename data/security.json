@@ -1,5 +1,16 @@
 [
   {
+    "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
+    "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
+    "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level. Tracked as CVE-2026-3888 (CVSS score: 7.8), the issue could allow an attac…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Mar 2026 13:38:00 +0530",
+    "timestamp": 1773821280.0,
+    "isoDate": "2026-03-18T08:08:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjyR0arF1Y7SFoUB29ZhPX6xm5uAf4A7sdyhxPDSK52E3A-m2QCrr2DTMIYLCqIJnOUrQzo81R1_g-EMp82gZjHsMJegHxW4AeKRH3pnfjk2NGlBr5VZ9MoKRdbSgkBNs_039XoCT9eNSfka3VVbIhErq7lsOcW6gmN1CffJjFHrRILmXQgEmyZYz1E4KP/s1600/ubuntu.jpg"
+  },
+  {
     "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
     "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
     "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a …",
@@ -317,16 +328,5 @@
     "timestamp": 1773315000.0,
     "isoDate": "2026-03-12T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyAymkVT6oOh3KGSa7rCPyMlrrye6CVfJ2XVCt_iVvuatelOJiFXIV5YnOzaGBJFs8et6STAZ67nRfN49Ac9aouuN7jDZWAum8Bdy3wfcj27lYGNcWTA_i5Rm4DYXLzKJyUGc2ZdS6AXasd0LTgdgx8PdqKRRo6s_hZ7FwXNFE6kGDmN6B1z5BYrcsxE/s1600/conf.jpg"
-  },
-  {
-    "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
-    "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
-    "summary": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit. The vulnerability, tracked as CVE-2023-43010, relates to an unspecif…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Mar 2026 15:28:00 +0530",
-    "timestamp": 1773309480.0,
-    "isoDate": "2026-03-12T09:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYxpx0H72-jraYxYXM_LUEtyv1M503LKgvsrmHcmXew61h2RfR4Q5uyuLKb6h6qltO1UedF9lMjEC3MoOgxDNO8zB4BzKjkVusHicqzNXSK3Tojlq10A7xDds9wDdyKTGtwWTKMAvoR5-l5nK7gnZQOUDbTbOXGWAezt1MjNJQpPh3MalEkI-nhOmTZ7fW/s1600/iphones.jpg"
   }
 ]
