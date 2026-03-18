@@ -1,5 +1,16 @@
 [
   {
+    "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+    "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+    "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software. The vulnerability in question is CVE-2…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Mar 2026 21:30:00 +0530",
+    "timestamp": 1773849600.0,
+    "isoDate": "2026-03-18T16:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLy-BuHvT70pyyUq2TSAqeslGDbLeLRJucNouklV6oadLOcvzXBr9vTYM-ngHCkr1QTMkqrxPnKQ5JT81kh9SiSLrYNUiDg6Pd_y6zouESfFavzlTyT6PGpwLaNZ7T9z3lLGeYiWllCShgtZwIcLxRTq6zJpS6Pa7GjYMwRoxtgD3qzQ_hQKfAYTk75lVT/s1600/aws-3.jpg"
+  },
+  {
     "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
     "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
     "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vuln…",
@@ -317,16 +328,5 @@
     "timestamp": 1773336660.0,
     "isoDate": "2026-03-12T17:31:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjBG0q0txzazIOX6qmjJRAOlDmf27AY4QSQqf6Yqm4RUF6iNRgbo4T9mFhUoYDved5zs0MBrJYPTjpGhvs0ZWjUhlckqK97St9FlJrVT2BOKfslWcA_42FOySa0HT7razFyzHt2AKP76uwVzjDvYTwkNTs2M-TeC7Ospf0uLvbI6OGYhWh7Lf33DA9gCUt/s1600/banking-trojan.jpg"
-  },
-  {
-    "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
-    "link": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
-    "summary": "Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a financially motivated threat actor named Hive0163. \"Although still relatively unspectacular, AI…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Mar 2026 22:32:00 +0530",
-    "timestamp": 1773334920.0,
-    "isoDate": "2026-03-12T17:02:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAvQYbgT2Bzyhv6lldqV781Ec5C2EKl2Y-ezdEDwakAZnizcub5ZIyJxZKg-fouq4L04gr_sNDHb5JPVhoOYYRKLnzo_TQqAiOFCPycF2EfjVA2wpA3ak9ZgfUFXCi_O9Pwx2GdtCDo3u6PFlheeR9IC2OMfGF5XZ8Cr-53uP01xsQxEGDQ8AO3rbvka8e/s1600/ransomware-ai.jpg"
   }
 ]
