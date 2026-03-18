@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+    "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+    "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Mar 2026 12:01:00 +0530",
+    "timestamp": 1773815460.0,
+    "isoDate": "2026-03-18T06:31:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrIGrK9v7gHMVWn2ApD_KeHXedmQ6FwRObZ4ZqEQssbaUU_8qjOSYBBRzZPzK0J8eHdH37Ws_n1u-ESXKJ1WEb4jjFcLn1Tdoj4n0z0wrfFj7X5DKIK8dzKYZ9uLDV2dg6HecUyRdUDkYR1LKkvhkGWBh_anbKF83bvLXUJBeTTwjCDeJ0V2hRAEN1bxhv/s1600/apple-hacking.jpg"
+  },
+  {
     "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
     "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
     "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vuln…",
@@ -317,16 +328,5 @@
     "timestamp": 1773309480.0,
     "isoDate": "2026-03-12T09:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYxpx0H72-jraYxYXM_LUEtyv1M503LKgvsrmHcmXew61h2RfR4Q5uyuLKb6h6qltO1UedF9lMjEC3MoOgxDNO8zB4BzKjkVusHicqzNXSK3Tojlq10A7xDds9wDdyKTGtwWTKMAvoR5-l5nK7gnZQOUDbTbOXGWAezt1MjNJQpPh3MalEkI-nhOmTZ7fW/s1600/iphones.jpg"
-  },
-  {
-    "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
-    "link": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
-    "summary": "Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud. The Android malware range from traditional banking trojans l…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Mar 2026 13:26:00 +0530",
-    "timestamp": 1773302160.0,
-    "isoDate": "2026-03-12T07:56:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XqFIcbN9bZftTEAfBhB62BmEP37KyRy2yIFvs7i_kZN4B6VoQ6hXBubWk6jRv0QLqcAs1W1zsnJ30cfDpI5teRgyEkSVrYqYuygAIhpH6k2t-N48pxg0UpB8cJnYCAsuVi4PZxy2J8ZZdwL0Ff1EXhUDQo8NeKHPPxr_ur-_Mx0n8nUdZtoa3HZRLBRG/s1600/banking.jpg"
   }
 ]
