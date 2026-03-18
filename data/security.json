@@ -1,5 +1,16 @@
 [
   {
+    "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+    "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+    "summary": "Security teams today are not short on tools or data. They are overwhelmed by both. Yet within the terabytes of alerts, exposures, and misconfigurations – security teams still struggle to understand context: Q: Which exposures, misconfigurat…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Mar 2026 16:00:00 +0530",
+    "timestamp": 1773829800.0,
+    "isoDate": "2026-03-18T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHQlWFzb-dPRLbO6sDQFLQgxeUGnAqvKyB-zYYZSGM9MySnNJYPuBGkaZCgGco3JT4zh1kuHg0PNbZ3drUNebzabC1l62_B_2laDHkQY3FZi8tYiG70rpoRE43pQcLc8bWXGXWNTdF9Nbr0-KKt8rkgpoaypKgLXJHyAxFGpik6iLrxckqVdW6bbAzhck/s1600/mesh-product.jpg"
+  },
+  {
     "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
     "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
     "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level. Tracked as CVE-2026-3888 (CVSS score: 7.8), the issue could allow an attac…",
@@ -317,16 +328,5 @@
     "timestamp": 1773321240.0,
     "isoDate": "2026-03-12T13:14:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXV4c7kTpbuiCqYlpV1_7JzOZ3Pz-M51G5q4u6vUoAjUZF32E3z0pJ7mNpG3gz4N9ai7SaQ-nDNpYJWfLc7e8CeYKCeNJQH8OAljb8V6HB_r4s1MWBYCoduTSf4iPbtpSqnIxpp2uXGGikUKEXUVlhEtFeB_Ddaw83fcaC9tmy-mBCWNRBzNnFoNyJTxDV/s1600/tday.jpg"
-  },
-  {
-    "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
-    "link": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
-    "summary": "The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phishing investigation takes 12 hours instead of five minutes, the outcome can shift from a c…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Mar 2026 17:00:00 +0530",
-    "timestamp": 1773315000.0,
-    "isoDate": "2026-03-12T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyAymkVT6oOh3KGSa7rCPyMlrrye6CVfJ2XVCt_iVvuatelOJiFXIV5YnOzaGBJFs8et6STAZ67nRfN49Ac9aouuN7jDZWAum8Bdy3wfcj27lYGNcWTA_i5Rm4DYXLzKJyUGc2ZdS6AXasd0LTgdgx8PdqKRRo6s_hZ7FwXNFE6kGDmN6B1z5BYrcsxE/s1600/conf.jpg"
   }
 ]
