@@ -1,5 +1,16 @@
 [
   {
+    "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+    "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker schem…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Mar 2026 22:56:00 +0530",
+    "timestamp": 1773854760.0,
+    "isoDate": "2026-03-18T17:26:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOXJqNKU2E3XuLpHv5iNIyXUsNHiw2sKZHX26AXk9X2bIlFfmTfRYdKkvL40FGg6dAccgemC93VDZ_l8uIFrzaxPY5OMtWeujIO4CS4XvbQQI-Y_B36j1wl5nFWFjXp968S6iTFFZlwdO9Qx8tNHBALQHagYFSFBGjncE6OJdk3ZOGZFWFnucDua1CawKd/s1600/1000061563.png"
+  },
+  {
     "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
     "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
     "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software. The vulnerability in question is CVE-2…",
@@ -8,7 +19,7 @@
     "timeAgo": "Wed, 18 Mar 2026 21:30:00 +0530",
     "timestamp": 1773849600.0,
     "isoDate": "2026-03-18T16:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLy-BuHvT70pyyUq2TSAqeslGDbLeLRJucNouklV6oadLOcvzXBr9vTYM-ngHCkr1QTMkqrxPnKQ5JT81kh9SiSLrYNUiDg6Pd_y6zouESfFavzlTyT6PGpwLaNZ7T9z3lLGeYiWllCShgtZwIcLxRTq6zJpS6Pa7GjYMwRoxtgD3qzQ_hQKfAYTk75lVT/s1600/aws-3.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIlKuha7SKiNtcZ_rk3dVV2Mt4tDfyfAir2TYksjgJhuuBlUNRqZu0Zeh8xwCMU7XCedi9khw6ywY0sqBRY8BrY-8jLzGOdSU7YRit5m4ew711QN8qK-aG224wOrcXc7k3_8QDy1zfXZ1UWVaR3C_J3WzNuvCkApYqhmICJI62mVMO2R1OoiJ17ySmxQm6/s1600/cc.jpg"
   },
   {
     "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
@@ -317,16 +328,5 @@
     "timestamp": 1773375300.0,
     "isoDate": "2026-03-13T04:15:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVixoCttO0Li1BNrJG6s8rsycHEzgVh52YFA_RHnrq4QMjt3fPQuKCJfw8rqCMZtgrSGrXxpPvTyhWQ_rD0D44_3TvBfNC0Eq_VRSWIqDFpDFdKdHMwQIidTX8E4Kc4iiWt3xcwhW_YC8oKLTZFMWN-uyCUjtIavnhXRHbs3gJOLuTUI1zg79tkK4gpsaQ/s1600/veeam.png"
-  },
-  {
-    "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
-    "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant departure from other known Delphi-based malware families associated with the Latin American cy…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Mar 2026 23:01:00 +0530",
-    "timestamp": 1773336660.0,
-    "isoDate": "2026-03-12T17:31:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjBG0q0txzazIOX6qmjJRAOlDmf27AY4QSQqf6Yqm4RUF6iNRgbo4T9mFhUoYDved5zs0MBrJYPTjpGhvs0ZWjUhlckqK97St9FlJrVT2BOKfslWcA_42FOySa0HT7razFyzHt2AKP76uwVzjDvYTwkNTs2M-TeC7Ospf0uLvbI6OGYhWh7Lf33DA9gCUt/s1600/banking-trojan.jpg"
   }
 ]
