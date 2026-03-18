@@ -1,5 +1,16 @@
 [
   {
+    "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+    "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+    "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vuln…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Mar 2026 10:36:00 +0530",
+    "timestamp": 1773810360.0,
+    "isoDate": "2026-03-18T05:06:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7eXnUZ_n354WSYj7Qjrk3sBFZkhyQ41VtRezIQRVo3KqzZJDE_A7CqshkkQ6RCiOyS1zuS8liODqSRGhURLUozRKEDZ6BmKyOxBVy8K0EF5TQB5QlyC7c1Cv0mHSj0BNwtGAS-PgOUobvSWJ1b82qWBHCMEocTyoOayx69DzM_gveQSuD1zbjYAjziX7/s1600/linux.jpg"
+  },
+  {
     "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
     "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
     "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries. In a report published Monday, BeyondTrust…",
@@ -317,16 +328,5 @@
     "timestamp": 1773302160.0,
     "isoDate": "2026-03-12T07:56:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XqFIcbN9bZftTEAfBhB62BmEP37KyRy2yIFvs7i_kZN4B6VoQ6hXBubWk6jRv0QLqcAs1W1zsnJ30cfDpI5teRgyEkSVrYqYuygAIhpH6k2t-N48pxg0UpB8cJnYCAsuVi4PZxy2J8ZZdwL0Ff1EXhUDQo8NeKHPPxr_ur-_Mx0n8nUdZtoa3HZRLBRG/s1600/banking.jpg"
-  },
-  {
-    "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
-    "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability, tr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Mar 2026 10:48:00 +0530",
-    "timestamp": 1773292680.0,
-    "isoDate": "2026-03-12T05:18:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqTMEW2jHKU06jv88QZ06xgVQgmBS6BBQ2qOiIrLlhEJvpDCbje7ou_bIPAxP-N9b90TI7pIKZMotOLtO_3Gi4B3JBRRW8QxuqZtVj8WwFdEMhCdqd-XaTcRFRjBEyGeDeNjznGmw2qUWyHAshjwN8J2FOLhqTzwIS9-X6-G0pm5lUeKuxQegcENT4V8Q0/s1600/cisa-exploit.jpg"
   }
 ]
