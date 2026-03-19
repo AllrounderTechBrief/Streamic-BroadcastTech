@@ -1,5 +1,27 @@
 [
   {
+    "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
+    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
+    "summary": "ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a lot of small things that shouldn’t work anymore but still do. Some of it looks simple, almo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Mar 2026 19:55:00 +0530",
+    "timestamp": 1773930300.0,
+    "isoDate": "2026-03-19T14:25:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8NYPjdG8isSFFKDJkDtz603as8VZqTtFenMMZGF6GB_abFJsu8Kj6alv-Bnk_K0k9sXEqyPo2WxK12jRPz9cMIEvzX7whTVEESRW_n8mQguCvj5nQzTjXdmcvmPKP6GMFJuropryXpS7Uyi0VKDAmdGFFu4OqeHFnYVkhDCNO86SgTRMcLu6O_ZtJKen/s1600/tdays.jpg"
+  },
+  {
+    "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+    "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+    "summary": "Cybersecurity researchers have disclosed a new Android malware family called Perseus that's being actively distributed in the wild with an aim to conduct device takeover (DTO) and financial fraud. Perseus is built upon the foundations of Ce…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Mar 2026 18:13:00 +0530",
+    "timestamp": 1773924180.0,
+    "isoDate": "2026-03-19T12:43:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO9NIqWSua7z7wlxbrmrChu5uZeRwYbuW8vAxVAajRSO8FoYtN_dHwnplt-OfqYnZX9PaOWZmxZPG_eRjiDVYOV2XDYq8hKWrRxT8jbTT4yKbAF91OjdZuxWIaxRZSNfbFpiLF_E8w-hUvIgncy7htyQS-2oRakIpIBReQSKUgR8QaIJ1C9oMvimAkUMsA/s1600/android-banking-malware.jpg"
+  },
+  {
     "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
     "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
     "summary": "Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls. Claud…",
@@ -306,27 +328,5 @@
     "timestamp": 1773409080.0,
     "isoDate": "2026-03-13T13:38:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIHmOuzh2pt4Kd3D5FVJ3ryojQF5XMf6q51cdyxus7nMy4suicQ1RNW3_sjRA6OgE3H-JXTOoxz9wwMqEZQbJb9SXS7DOYTVUBK1MszgQoAR6rGGTgunHDAKM7NfOTkK-W2U9_5rT0Un6xn-cwMnGipbokPav0UoDL7eyQkKIrrKwa2h0BgCFqwuZe598R/s1600/vpn-download.jpg"
-  },
-  {
-    "title": "Investigating a New Click-Fix Variant",
-    "link": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
-    "summary": "Disclaimer: This report has been prepared by the Threat Research Center to enhance cybersecurity awareness and support the strengthening of defense capabilities. It is based on independent research and observations of the current threat lan…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Mar 2026 18:58:00 +0530",
-    "timestamp": 1773408480.0,
-    "isoDate": "2026-03-13T13:28:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAy3Jm9mBV4SvNdfv5AJ_ZIKoJSwtUVeXkiFUNwKFUN3F5j3kYJTpD1a65PEcgqX2cMT0DmtJJ7YCrYuhElQ9nhYtQkXRtQxnkpOqTgSUOCAJgO8Lv8HDWZxVuy74vgjErtUYrHPH-UrWLfLoL18i__L9a-6T1xdgMPjsTamIOab3KGcJE3kzxz5aR8tm8/s1600/eviden.jpg"
-  },
-  {
-    "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
-    "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
-    "summary": "Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild. The list of vulnerabilities is as follows - CVE-2026-3909 (CVSS score: 8.8) -…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Mar 2026 14:47:00 +0530",
-    "timestamp": 1773393420.0,
-    "isoDate": "2026-03-13T09:17:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV6RqjIMz8KqPQlA1cIBNewRR0jZi7h-6Hs9JFjyV_wT8SKGcY_CP6J-DsPjP1eFKUYDQIJ8wztGrSmiD3HSopChiVBV1mLfYcoZolAxeFL-bRHV79PuCEC1sQQE3KMz9u8c8jFx4WXL62e6KXGYcivKjnyTiuvFj7BYXNaPrbXACyCvTb1Y9xpfYvq-AK/s1600/chrome-exploit.png"
   }
 ]
