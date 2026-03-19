@@ -1,5 +1,16 @@
 [
   {
+    "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have bee…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Mar 2026 11:35:00 +0530",
+    "timestamp": 1773900300.0,
+    "isoDate": "2026-03-19T06:05:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNz_gKNFLCIU1bf3r5ndKEJY42xA-0VYcdfKSV7dFnLR49717u_2GSnPWzDJk4OkX-VbcUgnij6CUo-ZJvV4-uWiUuXsS0FtuAA8RBYnElk3ELRm_ODa1MhwK9GcjjuIN3rqi51_BBFYvMYCbcJGifTrfv4bUHYZmkcJSnKGDT7NnLBHU4GtaxMvW9F7Pr/s1600/cida-patches.jpg"
+  },
+  {
     "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
     "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
     "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker schem…",
@@ -317,16 +328,5 @@
     "timestamp": 1773379560.0,
     "isoDate": "2026-03-13T05:26:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVzS5AAXyP_Q8mGS7-ZejQUI5zUDhpgZ64cEqrWMzNKqSKhI1ruMBwk3fI_eOC0LA8CvuiQQjDlWbFm8PXgUilTaauAIv2pC5rM6pnZBLRqpE9AifLnZTbkkF4dXLf9Ngr30qtvowTYLqbH2sPF6sd6mgA74AbHqtZ9dVhjvvMW68luK5nuNCWbe3ftuLG/s1600/router.jpg"
-  },
-  {
-    "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
-    "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
-    "summary": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup & Replication software that, if successfully exploited, could result in remote code execution. The vulnerabilities are as follows - CVE-2026-2166…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Mar 2026 09:45:00 +0530",
-    "timestamp": 1773375300.0,
-    "isoDate": "2026-03-13T04:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVixoCttO0Li1BNrJG6s8rsycHEzgVh52YFA_RHnrq4QMjt3fPQuKCJfw8rqCMZtgrSGrXxpPvTyhWQ_rD0D44_3TvBfNC0Eq_VRSWIqDFpDFdKdHMwQIidTX8E4Kc4iiWt3xcwhW_YC8oKLTZFMWN-uyCUjtIavnhXRHbs3gJOLuTUI1zg79tkK4gpsaQ/s1600/veeam.png"
   }
 ]
