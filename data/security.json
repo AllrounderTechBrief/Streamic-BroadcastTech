@@ -1,5 +1,16 @@
 [
   {
+    "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+    "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
+    "summary": "A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence Group (GTIG), iVerify, and Lookout. …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Mar 2026 14:44:00 +0530",
+    "timestamp": 1773911640.0,
+    "isoDate": "2026-03-19T09:14:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho7JmQ9e8aVTFWYRYkZD_7n8d_IVUkFzCBPFnqGvDe_32LG-Te8BFovDqiVjMusP3eUTgXzn5iDoVgLTSnR1RR44UHLh6fuegsRokauImqaCbIL2KqUJcjlmViSKAAaSpZ5d7-L1CjYhizgV92pUQFLKo2DqE1sPijXfWNv24vIjcWCHVoF-G1p7vPciP_/s1600/dark.jpg"
+  },
+  {
     "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
     "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have bee…",
@@ -317,16 +328,5 @@
     "timestamp": 1773389880.0,
     "isoDate": "2026-03-13T08:18:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq_iDZMyZB2yYcYrlFVa1dJoHT3mV0d9HfTPEpKmflkN-4zBDaSNIurPPADFGUW9GfTfMaCDlwUb6ywLpKiQa5CtSGSC6sPJIqfe-gRWhUa_z1B6Obazf_U5NuRX-ruWpomgMJQqcjD7XPeoyhgbVplGYCX3zQKFKmSIf0iSBwoUXhuE1ZZeZns9-fMlNr/s1600/linux-root.jpg"
-  },
-  {
-    "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
-    "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
-    "summary": "A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud. \"SocksEscort infec…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Mar 2026 10:56:00 +0530",
-    "timestamp": 1773379560.0,
-    "isoDate": "2026-03-13T05:26:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVzS5AAXyP_Q8mGS7-ZejQUI5zUDhpgZ64cEqrWMzNKqSKhI1ruMBwk3fI_eOC0LA8CvuiQQjDlWbFm8PXgUilTaauAIv2pC5rM6pnZBLRqpE9AifLnZTbkkF4dXLf9Ngr30qtvowTYLqbH2sPF6sd6mgA74AbHqtZ9dVhjvvMW68luK5nuNCWbe3ftuLG/s1600/router.jpg"
   }
 ]
