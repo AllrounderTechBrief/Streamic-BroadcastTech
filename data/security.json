@@ -1,5 +1,16 @@
 [
   {
+    "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
+    "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
+    "summary": "Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls. Claud…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 19 Mar 2026 16:28:00 +0530",
+    "timestamp": 1773917880.0,
+    "isoDate": "2026-03-19T10:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B3hISiw4s7wL5Eruja2BnTYM2QNrpsi6FnTtzznVz-Vu1pERgS-lZuIVKrps6nlxaauzfCXNfiiSInowjXHDhZ3UgoGD7OlFtwijFG0w5MtfnGu920etTBYP0tHnauL6Owztp_K0I8DUXlMSWd2LZz57O8NFm83E8H5QZ7Kb7RCOja4c-viaPrf9lC8/s1600/bi.jpg"
+  },
+  {
     "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
     "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
     "summary": "A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence Group (GTIG), iVerify, and Lookout. …",
@@ -317,16 +328,5 @@
     "timestamp": 1773393420.0,
     "isoDate": "2026-03-13T09:17:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV6RqjIMz8KqPQlA1cIBNewRR0jZi7h-6Hs9JFjyV_wT8SKGcY_CP6J-DsPjP1eFKUYDQIJ8wztGrSmiD3HSopChiVBV1mLfYcoZolAxeFL-bRHV79PuCEC1sQQE3KMz9u8c8jFx4WXL62e6KXGYcivKjnyTiuvFj7BYXNaPrbXACyCvTb1Y9xpfYvq-AK/s1600/chrome-exploit.png"
-  },
-  {
-    "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
-    "link": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
-    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Mar 2026 13:48:00 +0530",
-    "timestamp": 1773389880.0,
-    "isoDate": "2026-03-13T08:18:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq_iDZMyZB2yYcYrlFVa1dJoHT3mV0d9HfTPEpKmflkN-4zBDaSNIurPPADFGUW9GfTfMaCDlwUb6ywLpKiQa5CtSGSC6sPJIqfe-gRWhUa_z1B6Obazf_U5NuRX-ruWpomgMJQqcjD7XPeoyhgbVplGYCX3zQKFKmSIf0iSBwoUXhuE1ZZeZns9-fMlNr/s1600/linux-root.jpg"
   }
 ]
