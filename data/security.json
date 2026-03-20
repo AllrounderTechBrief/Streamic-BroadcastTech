@@ -22,6 +22,17 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIq94dqdTz9Ic4q8eAt2c90zqmtdvYtzdDTv5UHg6On7d5AiYKyX4DbcskeTXNuT_ucj287szoc6-QWLMwboEKuRY_M7yeW9KstNR5irszE54SZvzHyFo7NBvpnhFW3zKZTMBhnP_aSG-AS7DMjvuRwp6X9_QbVhRyJD3sLIRp32No8X2RrMUp9ff-f_c/s1600/keeper.jpg"
   },
   {
+    "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover",
+    "link": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
+    "summary": "Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover. The vulnerability has been codenamed PolyShell b…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Mar 2026 15:00:00 +0530",
+    "timestamp": 1773999000.0,
+    "isoDate": "2026-03-20T09:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmvoo5bgNhw6SuInM6rRH_pdtYFmiDdMlG7hS2GdUJfwhXoOClt29lEpxaqI27b6XOOfX3eO8eHlUM0LA55P9U_HfWgVPyqDWMO01Chkp6aC-is0292EqVXPRjwesdZl9igZ0iD7NdoW8rQhKRVfF7s_I98a8r2YOk3-vjDMEz4eGGVXjmt-nUJpLpM4OL/s1600/mag.jpg"
+  },
+  {
     "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
     "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
     "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized l…",
@@ -317,16 +328,5 @@
     "timestamp": 1773652020.0,
     "isoDate": "2026-03-16T09:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLAzfBgcfc_bSkMovfPss0X0ONO4MhDVIOKyB_FgCnAZ4NOfVM3MdIMfIr0QMDCqKBvJaAz0mRIPYV075qfnurW27qWCCmjlcnDX-DOnb-kHulHrvk-k_cZCchJfEfxBdhkUf3GCbboHdQzxOCv3sEzSvgKaOoCNRgD20y7ZywYWsYtjjnh8dDLMbqJnvr/s1600/uk-cyberattacks.jpg"
-  },
-  {
-    "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
-    "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
-    "summary": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API. The change, incorporated in Android 17 Beta 2, was first reported by …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 16 Mar 2026 11:13:00 +0530",
-    "timestamp": 1773639780.0,
-    "isoDate": "2026-03-16T05:43:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvueuqNoIDsAH4vpBnbAGr2wz0tlhGECqZdmLWdnSPn-mZNpKuAIMPRyOR4B9C9RDKQKYKskTM-idN3OQ5zligs_i092dM4LLMP5jo1v2UHOe2hK9hV2GuX_5RvWrrmSh8b0FbKiVB7-5vuISiT_-ko5MbCTZs1YjLqFjUDZG8QFHIrV6MDlr1R1RdbM7/s1600/android-security.jpg"
   }
 ]
