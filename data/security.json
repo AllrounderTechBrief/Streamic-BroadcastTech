@@ -1,5 +1,16 @@
 [
   {
+    "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+    "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized l…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Mar 2026 11:55:00 +0530",
+    "timestamp": 1773987900.0,
+    "isoDate": "2026-03-20T06:25:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuGXmHjiDQoCgH14v3lddFUEZQ96DLgTZ_Q8k7l7lpnGTX4zzeJ78e0MLRH8L3Bah3_zMnLI4kVNn3RDbnlzXpzchm5mg_1SDo0mCETmOylAS9qCPuMVRhtAfVWDzHUDwK2fRNiACoXo3oPWR8VV0E3m5svUSuDATtF4O_CIC05Vco5m3dN9MR9D7V-JP/s1600/botnet-malware.jpg"
+  },
+  {
     "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
     "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
     "summary": "Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword. These attacks employ malicious web content t…",
@@ -317,16 +328,5 @@
     "timestamp": 1773492900.0,
     "isoDate": "2026-03-14T12:55:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4d-2XpiCS0UYnMWh32sQEJP9LnlN_m7m2hok9CnY_vu05XXwWn4INodYCvrEdweEzpho7XqcuOFvEPnnEWlHCRa_q3HY3V5O_ii35MVWAimRwsgrpNQrvGqeUchhZ48FRUl91zTpYQdLMRxVvRjV_T8GEm-J9mnMesefzlgeaoE_EU7Ba32liTr63SsQq/s1600/open.jpg"
-  },
-  {
-    "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-    "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
-    "summary": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020. Palo Alto Networks Unit 42 is tracking the threat activity under t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Mar 2026 23:03:00 +0530",
-    "timestamp": 1773423180.0,
-    "isoDate": "2026-03-13T17:33:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrOk1hLgfo5WibM8DV2JEqpyhy4SAs-pmNPJ9lflvC8CLCTEGabnzpAk9XlUmyY3EmJI-_SnGCqDA4C-A1nwD7LKbC6SCiAyTziw9KtzqZWYkARHbidARtOH-SxtUh80Cy3WJrKRR_U1E2ETOr72gQGAEhTaM1WHTm-vTDwru1ypZmmMBlC6fmVQp6IPL/s1600/dll.jpg"
   }
 ]
