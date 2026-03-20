@@ -1,5 +1,16 @@
 [
   {
+    "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
+    "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
+    "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The latest incident impacted GitHub Actions \"aqu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Mar 2026 23:17:00 +0530",
+    "timestamp": 1774028820.0,
+    "isoDate": "2026-03-20T17:47:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNf7vYlImTCJ7BCjYYEhoFZXTawhHcJJad9cFjQn98oQjaPY9HY6Qgpp6pAyqkq7CNHyVXI9fR8hcyVNlW_knYia3f0BhAlK7fZb2gplznk9v9QCFGKtIbMLTSu-erTslOxZCHd8jkJKXIcCYhK8QkKLuWjG8yxjhPBaEWUDzwY0sUkX5JvhBtzFxyfp_q/s1600/scan.jpg"
+  },
+  {
     "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
     "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
     "summary": "A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabilities. The security defect, tracked as CV…",
@@ -317,16 +328,5 @@
     "timestamp": 1773662280.0,
     "isoDate": "2026-03-16T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLVOZFyD6pBH1804jnpyTOScRJO3CnlHA2m3B-L1ML1B5l2iP70OHF_rUwtdHARpNsVh5WxdCXX7fO9NfpjPaH0jwJYCmWgGa2Eo5x9RPkl8PEl9e7tq2-T5sbv6KI7GnyzCr3PhSUSpweRRMlR0pGC4lO_3m1gVgLfrjt6sulJRo4yJKPlNSn_VyM8oo/s1600/picus.jpg"
-  },
-  {
-    "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
-    "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
-    "summary": "Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync. \"Unlike traditional exploit-based attacks, this method relies entirely on user interaction – us…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 16 Mar 2026 17:11:00 +0530",
-    "timestamp": 1773661260.0,
-    "isoDate": "2026-03-16T11:41:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYjqyJvKKEaCGLTQo4-iMO_9Iq0V0lJVBlggKNorjB_DmPjq0sw_wl0EJ1oklawc4r9V7Axxk_J1WW1HEbIZwKRo8ui7thLccLTtcD6ePD0EcbJCvXWa0eAv0BYdV1cYO2HcDEIbB5GMNxUnV0TGTD3O2YAnOUcPqFJvTPPbYhufQ-sBuh1K01E6Szx9O/s1600/macos-clickfix.jpg"
   }
 ]
