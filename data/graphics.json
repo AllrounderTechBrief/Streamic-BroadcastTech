@@ -1,5 +1,82 @@
 [
   {
+    "title": "‘Saturday Night Live UK’ Extended To Eight Episodes On Sky",
+    "link": "https://deadline.com/2026/03/saturday-night-live-uk-extended-eight-episodes-1236761192/",
+    "summary": "The post ‘Saturday Night Live UK’ Extended To Eight Episodes On Sky appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 20 Mar 2026 10:41:33 +0000",
+    "timestamp": 1774003293.0,
+    "isoDate": "2026-03-20T10:41:33+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "David Ellison Sends Letter to Calif. Lawmakers Outlining Plan To Keep Hollywood Jobs Local",
+    "link": "https://tvnewscheck.com/business/article/david-ellison-sends-letter-to-calif-lawmakers-outlining-plan-to-keep-hollywood-jobs-local/",
+    "summary": "In a letter to Sen. Adam Schiff and Rep. Laura Friedman, the Paramount and soon-to-be Warner Bros. studio chief argued that keeping key aspects of the historic studios separate will help workers and L.A. The post David Ellison Sends Letter …",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 20 Mar 2026 10:34:07 +0000",
+    "timestamp": 1774002847.0,
+    "isoDate": "2026-03-20T10:34:07+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Streaming Ratings: ‘Night Agent’ Returns At No. 1 With Season 3 Premiere",
+    "link": "https://tvnewscheck.com/programming/article/streaming-ratings-night-agent-returns-at-no-1-with-season-3-premiere/",
+    "summary": "NBC’s The Hunting Party gets a Netflix bump for its first season. The post Streaming Ratings: ‘Night Agent’ Returns At No. 1 With Season 3 Premiere appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 20 Mar 2026 10:29:54 +0000",
+    "timestamp": 1774002594.0,
+    "isoDate": "2026-03-20T10:29:54+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Why ABC Had To Scrap ‘The Bachelorette’",
+    "link": "https://tvnewscheck.com/programming/article/why-abc-had-to-scrap-the-bachelorette/",
+    "summary": "Disney/ABC executives first saw the video of Taylor Frankie Paul's February 2023 domestic violence incident the same time as you. Also: ABC Will Lose Tens Of Millions Of Dollars If Taylor Frankie Paul’s ‘The Bachelorette’ Doesn’t Air (Varie…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 20 Mar 2026 10:27:04 +0000",
+    "timestamp": 1774002424.0,
+    "isoDate": "2026-03-20T10:27:04+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Avid: Vast Majority Of Oscar-Winning Films Used Its Editing & Sound Tools",
+    "link": "https://www.tvtechnology.com/production/avid-vast-majority-of-oscar-winning-films-used-its-editing-and-sound-tools",
+    "summary": "The post Avid: Vast Majority Of Oscar-Winning Films Used Its Editing & Sound Tools appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 20 Mar 2026 10:22:36 +0000",
+    "timestamp": 1774002156.0,
+    "isoDate": "2026-03-20T10:22:36+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "FCC Approves Merger Of Nexstar & Tegna As Two Lawsuits Seek To Block It",
+    "link": "https://tvnewscheck.com/business/article/fcc-approves-merger-of-nexstar-tegna-as-two-lawsuits-seek-to-block-it/",
+    "summary": "Nexstar said last August that it would buy Tegna for $6.2 billion. The deal would create a company that owns 265 television stations in 44 states and the District of Columbia, most of them local affiliates of ABC, CBS, Fox and NBC. FCC Chai…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 20 Mar 2026 10:10:49 +0000",
+    "timestamp": 1774001449.0,
+    "isoDate": "2026-03-20T10:10:49+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "MLB Makes Multiyear Prediction-Market Deal With Polymarket",
+    "link": "https://tvnewscheck.com/business/article/mlb-makes-multiyear-prediction-market-deal-with-polymarket/",
+    "summary": "Polymarket has yet another new big-league partner in MLB, following deals with the NHL, MLS and UFC. The post MLB Makes Multiyear Prediction-Market Deal With Polymarket appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 20 Mar 2026 10:05:24 +0000",
+    "timestamp": 1774001124.0,
+    "isoDate": "2026-03-20T10:05:24+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Carr’s Pressures Aside, America’s 250th Offers Promise For Broadcasters",
     "link": "https://tvnewscheck.com/business/article/carrs-pressures-aside-americas-250th-offers-promise-for-broadcasters/",
     "summary": "The country’s 250th birthday celebration gives us the opportunity to celebrate our republic and broadcasting’s part in recording our history. Many groups already had a jump on it before the FCC chairman weighed in. The post Carr’s Pressures…",
@@ -24,7 +101,7 @@
   {
     "title": "Nexstar Closes Tegna Acquisition",
     "link": "https://tvnewscheck.com/business/article/nexstar-closes-tegna-acquisition/",
-    "summary": "Nexstar said on Thursday that it had closed its acquisition of Tegna following approvals from the FCC and the Justice Department. The $6.2 billion merger, which will create a broadcast station giant, was given the greenlight by the FCC’s Me…",
+    "summary": "Nexstar said on Thursday evening that it had closed its acquisition of Tegna following approvals from the FCC and the Justice Department. The $6.2 billion merger, which will create a broadcast station giant, was given the greenlight by the …",
     "source": "TV News Check",
     "category": "graphics",
     "timeAgo": "Thu, 19 Mar 2026 23:51:13 +0000",
@@ -308,28 +385,6 @@
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/260128-X-X0813-1001.png?w=616&h=412&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
-    "title": "NAB Show: Imagine Communications To Debut OSI-X, SNP-XS, Prismon",
-    "link": "https://tvnewscheck.com/tech/article/nab-show-imagine-communications-to-debut-osi-x-snp-xs-prismon/",
-    "summary": "Imagine Communications, a provider of end-to-end ad tech and video infrastructure solutions for the media and entertainment industry, is showcasing advances across its Make and Monetize portfolio at NAB Show … The post NAB Show: Imagine Com…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 19 Mar 2026 14:32:05 +0000",
-    "timestamp": 1773930725.0,
-    "isoDate": "2026-03-19T14:32:05+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "NAB Show: Studio Technologies To Debut StudioComm Monitoring System",
-    "link": "https://tvnewscheck.com/tech/article/nab-show-studio-technologies-to-debut-studiocomm-monitoring-system/",
-    "summary": "Studio Technologies, a provider of high-performance video, audio and fiber-optic products for the professional audio and broadcast markets, is expanding its StudioComm product line with the introduction of the Model … The post NAB Show: Stu…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 19 Mar 2026 14:15:17 +0000",
-    "timestamp": 1773929717.0,
-    "isoDate": "2026-03-19T14:15:17+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "NASA to Cover Progress 94 Spacecraft Launch, Space Station Docking",
     "link": "https://www.nasa.gov/news-release/nasa-to-cover-progress-94-spacecraft-launch-space-station-docking/",
     "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Roscosmos Progress 94 resuppl…",
@@ -339,61 +394,6 @@
     "timestamp": 1773929703.0,
     "isoDate": "2026-03-19T14:15:03+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/roscosmos-progress-92-cargo-craft.jpg?w=1920"
-  },
-  {
-    "title": "Net Insight Appoints Larissa Görner-Meeus Chief Product Officer",
-    "link": "https://tvnewscheck.com/tech/article/net-insight-appoints-larissa-gorner-meeus-chief-product-officer/",
-    "summary": "Net Insight, a provider of video transport and media cloud technology, has named Larissa Görner-Meeus chief product officer, effective May 4. Görner‑Meeus is a senior technology and product executive with … The post Net Insight Appoints Lar…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 19 Mar 2026 14:06:55 +0000",
-    "timestamp": 1773929215.0,
-    "isoDate": "2026-03-19T14:06:55+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Accedo One, Magine Pro Launch Leyra OTT SaaS Platform",
-    "link": "https://tvnewscheck.com/tech/article/accedo-one-magine-pro-launch-leyra-ott-saas-platform/",
-    "summary": "Accedo One and Magine Pro have officially launched Leyra, a joint venture that combines their technologies into a unified SaaS platform for OTT providers, the companies said Thursday. The new … The post Accedo One, Magine Pro Launch Leyra O…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 19 Mar 2026 14:01:24 +0000",
-    "timestamp": 1773928884.0,
-    "isoDate": "2026-03-19T14:01:24+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "NAB Show: Mediagenix To Showcase Scheduling Optimization",
-    "link": "https://tvnewscheck.com/tech/article/nab-show-mediagenix-to-showcase-scheduling-optimization/",
-    "summary": "At the NAB Show in Las Vegas, April 18-22, in Booth W1857, Mediagenix, a provider of smart content solutions, is introducing new scheduling optimization capabilities designed to help broadcasters and … The post NAB Show: Mediagenix To Showc…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 19 Mar 2026 13:55:54 +0000",
-    "timestamp": 1773928554.0,
-    "isoDate": "2026-03-19T13:55:54+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "NAB Show: Lawo To Feature IP Innovation, Software-Based Infrastructure",
-    "link": "https://tvnewscheck.com/tech/article/nab-show-lawo-to-feature-ip-innovation-software-based-infrastructure/",
-    "summary": "Lawo is introducing a new innovation for its converged media-infrastructure strategy ahead of the NAB Show in Las Vegas, April 18-22, in Booth C2108. The upcoming solution, first revealed during … The post NAB Show: Lawo To Feature IP Innov…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 19 Mar 2026 13:47:57 +0000",
-    "timestamp": 1773928077.0,
-    "isoDate": "2026-03-19T13:47:57+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "NAB Show: Triveni Digital Expands NextGen TV, Brazil TV 3.0 Support",
-    "link": "https://tvnewscheck.com/tech/article/nab-show-triveni-digital-expands-nextgen-tv-brazil-tv-3-0-support/",
-    "summary": "Triveni Digital, a provider of ATSC 1.0 and ATSC 3.0 service delivery, data broadcasting and quality assurance solutions, is bringing an expanded portfolio of NextGen TV and TV 3.0 solutions … The post NAB Show: Triveni Digital Expands Next…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 19 Mar 2026 13:18:17 +0000",
-    "timestamp": 1773926297.0,
-    "isoDate": "2026-03-19T13:18:17+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Meet the Platypi: NASA’s Newest Astronaut Candidate Class",

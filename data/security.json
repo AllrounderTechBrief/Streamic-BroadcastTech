@@ -1,5 +1,16 @@
 [
   {
+    "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks",
+    "link": "https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html",
+    "summary": "Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI to generate personalized ph…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Mar 2026 15:30:00 +0530",
+    "timestamp": 1774000800.0,
+    "isoDate": "2026-03-20T10:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIq94dqdTz9Ic4q8eAt2c90zqmtdvYtzdDTv5UHg6On7d5AiYKyX4DbcskeTXNuT_ucj287szoc6-QWLMwboEKuRY_M7yeW9KstNR5irszE54SZvzHyFo7NBvpnhFW3zKZTMBhnP_aSG-AS7DMjvuRwp6X9_QbVhRyJD3sLIRp32No8X2RrMUp9ff-f_c/s1600/keeper.jpg"
+  },
+  {
     "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
     "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
     "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized l…",
@@ -317,16 +328,5 @@
     "timestamp": 1773505020.0,
     "isoDate": "2026-03-14T16:17:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2mVucJhli25A25joXcap-ewfeMT1Vh-95wQKQfGOue7PwZJ1_55YsG8OQ1DQF7WVOU8tsOy73kGDzgfpTLLeqTYQ1k9LqrFWTNavDmfvCV-9IIER9PfrRsdg1wA5UzpIMrer3xC1mBClBzKkaT6pfczDbppMjZM7afcWu-RURquDGrEfjq3vVBsmlltLm/s1600/open-clawss.jpg"
-  },
-  {
-    "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
-    "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
-    "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry. \"Instead of requiring every malicious listing to embed …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 14 Mar 2026 18:25:00 +0530",
-    "timestamp": 1773492900.0,
-    "isoDate": "2026-03-14T12:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4d-2XpiCS0UYnMWh32sQEJP9LnlN_m7m2hok9CnY_vu05XXwWn4INodYCvrEdweEzpho7XqcuOFvEPnnEWlHCRa_q3HY3V5O_ii35MVWAimRwsgrpNQrvGqeUchhZ48FRUl91zTpYQdLMRxVvRjV_T8GEm-J9mnMesefzlgeaoE_EU7Ba32liTr63SsQq/s1600/open.jpg"
   }
 ]
