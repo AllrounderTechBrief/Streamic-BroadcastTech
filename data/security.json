@@ -1,5 +1,16 @@
 [
   {
+    "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
+    "summary": "A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabilities. The security defect, tracked as CV…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Mar 2026 20:45:00 +0530",
+    "timestamp": 1774019700.0,
+    "isoDate": "2026-03-20T15:15:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2uKC6w30P_dGu6jY7cfDW9xY9ElBbdwmshMQwltpgGrYMyN9TOPaFRbeHh_KM9QUBB7g77BpRq559AtmaDLBFgbxMV_ctMYqQmlaKukZe-LaiyEY_S675PLWqSbGJnjh3_g59EhNTTgjMGxnk-YZjjzX6D7dXOiWklwr_tUnd5sMSp15Q6kKVtYJ4isnF/s1600/langflow.jpg"
+  },
+  {
     "title": "Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams",
     "link": "https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html",
     "summary": "Google on Thursday announced a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers in an attempt to balance openness with safety. The new changes come against …",
@@ -317,16 +328,5 @@
     "timestamp": 1773661260.0,
     "isoDate": "2026-03-16T11:41:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYjqyJvKKEaCGLTQo4-iMO_9Iq0V0lJVBlggKNorjB_DmPjq0sw_wl0EJ1oklawc4r9V7Axxk_J1WW1HEbIZwKRo8ui7thLccLTtcD6ePD0EcbJCvXWa0eAv0BYdV1cYO2HcDEIbB5GMNxUnV0TGTD3O2YAnOUcPqFJvTPPbYhufQ-sBuh1K01E6Szx9O/s1600/macos-clickfix.jpg"
-  },
-  {
-    "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
-    "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
-    "summary": "Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team. The campaign, observed in February 2026, has been a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 16 Mar 2026 14:37:00 +0530",
-    "timestamp": 1773652020.0,
-    "isoDate": "2026-03-16T09:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLAzfBgcfc_bSkMovfPss0X0ONO4MhDVIOKyB_FgCnAZ4NOfVM3MdIMfIr0QMDCqKBvJaAz0mRIPYV075qfnurW27qWCCmjlcnDX-DOnb-kHulHrvk-k_cZCchJfEfxBdhkUf3GCbboHdQzxOCv3sEzSvgKaOoCNRgD20y7ZywYWsYtjjnh8dDLMbqJnvr/s1600/uk-cyberattacks.jpg"
   }
 ]
