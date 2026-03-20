@@ -1,5 +1,16 @@
 [
   {
+    "title": "Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams",
+    "link": "https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html",
+    "summary": "Google on Thursday announced a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers in an attempt to balance openness with safety. The new changes come against …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Mar 2026 16:27:00 +0530",
+    "timestamp": 1774004220.0,
+    "isoDate": "2026-03-20T10:57:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg5Jk2lVSKahNb8j13vUPG5pkYP6zhO6lI9b-X50lBxAq_5yluF0ly4g80Z51IS-x-gwqVV3xIRyu5e9fMQb7Rsebhd1Als8TDnY2nLGESKkaVOP-balDBrPBTUfMyb4oEOvY8dVihZZxT05nhkCuZqYDsu3LsVDtjigqfaCwW112fZ9YLR8JesGrBtAvs/s1600/android-sideloading.jpg"
+  },
+  {
     "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks",
     "link": "https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html",
     "summary": "Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI to generate personalized ph…",
@@ -317,16 +328,5 @@
     "timestamp": 1773639780.0,
     "isoDate": "2026-03-16T05:43:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvueuqNoIDsAH4vpBnbAGr2wz0tlhGECqZdmLWdnSPn-mZNpKuAIMPRyOR4B9C9RDKQKYKskTM-idN3OQ5zligs_i092dM4LLMP5jo1v2UHOe2hK9hV2GuX_5RvWrrmSh8b0FbKiVB7-5vuISiT_-ko5MbCTZs1YjLqFjUDZG8QFHIrV6MDlr1R1RdbM7/s1600/android-security.jpg"
-  },
-  {
-    "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
-    "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
-    "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial int…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 14 Mar 2026 21:47:00 +0530",
-    "timestamp": 1773505020.0,
-    "isoDate": "2026-03-14T16:17:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2mVucJhli25A25joXcap-ewfeMT1Vh-95wQKQfGOue7PwZJ1_55YsG8OQ1DQF7WVOU8tsOy73kGDzgfpTLLeqTYQ1k9LqrFWTNavDmfvCV-9IIER9PfrRsdg1wA5UzpIMrer3xC1mBClBzKkaT6pfczDbppMjZM7afcWu-RURquDGrEfjq3vVBsmlltLm/s1600/open-clawss.jpg"
   }
 ]
