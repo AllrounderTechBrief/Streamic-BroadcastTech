@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+    "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+    "summary": "Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword. These attacks employ malicious web content t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 20 Mar 2026 10:46:00 +0530",
+    "timestamp": 1773983760.0,
+    "isoDate": "2026-03-20T05:16:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwgJpN_6bTBVT2q2xpQB_QFewyV2cp-Acaxnjpc4-KQKGpQZiz339xOYJ9ew_UlCgScvvWA940DyAf2E_HomGHQXljbHclluIiK57hJKo00KBdTXh8BeVi0toqDVevMaRY_fSlTzyYkkJjdKU0pA7iKX6_yTwsOveceby7OB08v9V2GAoasiLsl1Cu2DS/s1600/apple-logo.jpg"
+  },
+  {
     "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
     "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
     "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard. \"Speagle is designed to surreptitiously harvest sensitive information from …",
@@ -11,9 +22,9 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSgCN7uAT0GxA_9D78X0Q9nRTRmUKPnhIvtgPrg32f62joth8HoaFjuZ68g1l10CVcTjQXiaw3ueNoItw0YN8edclDT-c6IHodK_nSRjPFqUH2hTfceviQi1UZ_6Mo2NvGlkVNIdx3CvxpobdFm3jVUuvvdIDcn5LIKQFNNFe7MScF824trW9pajXcM3l/s1600/locks.jpg"
   },
   {
-    "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+    "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
     "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-    "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable drivers. EDR killer programs have been a…",
+    "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable drivers. EDR killer programs have been a…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Fri, 20 Mar 2026 00:22:00 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1773423180.0,
     "isoDate": "2026-03-13T17:33:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrOk1hLgfo5WibM8DV2JEqpyhy4SAs-pmNPJ9lflvC8CLCTEGabnzpAk9XlUmyY3EmJI-_SnGCqDA4C-A1nwD7LKbC6SCiAyTziw9KtzqZWYkARHbidARtOH-SxtUh80Cy3WJrKRR_U1E2ETOr72gQGAEhTaM1WHTm-vTDwru1ypZmmMBlC6fmVQp6IPL/s1600/dll.jpg"
-  },
-  {
-    "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
-    "link": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
-    "summary": "Meta has announced plans to discontinue support for end-to-end encryption (E2EE) for chats on Instagram after May 8, 2026. \"If you have chats that are impacted by this change, you will see instructions on how you can download any media or m…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Mar 2026 22:39:00 +0530",
-    "timestamp": 1773421740.0,
-    "isoDate": "2026-03-13T17:09:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw1H50jEav77qEtezzwtuvWZF5YuaWWn_kwLx0sOZn8SBXFrcsqI5fwRoubG8lKN5T3xX_L5nLkfuQl-lavBiPJVvzZKZyK_KC_SjMJPJBVRGiTqxRJ0cbwxWyMban16y1KTNLeRzbesp_cxbpbd2gB8mxKSfV3pgO66kQf3xoLDFQB7MpH3vNRhYYjeyw/s1600/instagram.jpg"
   }
 ]
