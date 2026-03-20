@@ -1,5 +1,16 @@
 [
   {
+    "title": "Hangar One Restoration Project",
+    "link": "https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/",
+    "summary": "Editor’s Note: This article was originally published on April 25, 2022 and has been updated to reflect changes including the completion of Hangar One’s restoration. Restoration has been completed on Hangar One, a historic landmark in the Sa…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 20 Mar 2026 20:53:29 +0000",
+    "timestamp": 1774040009.0,
+    "isoDate": "2026-03-20T20:53:29+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/04/25987_acd06-0074-020.jpeg"
+  },
+  {
     "title": "Dow Drops 444, Nasdaq Sinks 443, S&P 500 Drops 100",
     "link": "https://tvnewscheck.com/business/article/dow-drops-444-nasdaq-sinks-443-sp-500-drops-100/",
     "summary": "High oil prices on Friday knocked down stocks and erased Wall Street's hopes for a cut to interest rates. The post Dow Drops 444, Nasdaq Sinks 443, S&P 500 Drops 100 appeared first on TV News Check.",
@@ -44,7 +55,7 @@
     "imageUrl": ""
   },
   {
-    "title": "How Open NASA Data on Comet 3I/ATLAS Will Power Tomorrow’s Discoveries",
+    "title": "How Open NASA Data on Comet 3I/ATLAS Will Power Tomorrow’s Discoveries",
     "link": "https://science.nasa.gov/open-science/interstellar-comet-3i-atlas-data/",
     "summary": "The interstellar comet 3I/ATLAS will soon leave our solar system, never to return, but the observations of the comet will live on in NASA’s public data archives. More than a dozen NASA science missions turned their instruments to observe th…",
     "source": "NASA",
@@ -438,17 +449,6 @@
     "timestamp": 1773933204.0,
     "isoDate": "2026-03-19T15:13:24+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/cbm2-100-p01-photo-034.jpg"
-  },
-  {
-    "title": "NASA Laser Reflecting Instrument Makes GPS Satellite More Accurate",
-    "link": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/",
-    "summary": "A NASA laser reflecting technology that will aid Global Positioning System (GPS) accuracy is now operational as of March 9. The instrument, known as a laser retroreflector array, or LRA, launched aboard GPS III SV-09, the ninth of U.S. Spac…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Thu, 19 Mar 2026 15:00:00 +0000",
-    "timestamp": 1773932400.0,
-    "isoDate": "2026-03-19T15:00:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/260128-X-X0813-1001.png?w=616&h=412&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Doing more with less: What’s driving change in live production",
