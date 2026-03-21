@@ -1,5 +1,16 @@
 [
   {
+    "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+    "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+    "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high in…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 21 Mar 2026 18:47:00 +0530",
+    "timestamp": 1774099020.0,
+    "isoDate": "2026-03-21T13:17:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMsZnvgdoACYJn8WjDy_Lpvpy1iqvGpj-vb4hYfYTLujLp_5dm8WZKjl64LYwY4-MON0-1k8-F2K3KDu0QG7isYjhaMvre0E0vrqJCSP49r2j374JPbV6WvkTG8lwqwrxquX-3xrReaA3G-NQGvskSnlOtM1XRj1J3MdPuCK9lXC6vf8ZkrCizN6ohcLC/s1600/signal-whatsapp.jpg"
+  },
+  {
     "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
     "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
     "summary": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution. The vulnerability, tracked as CVE-2026-21992, carries a C…",
@@ -317,16 +328,5 @@
     "timestamp": 1773741180.0,
     "isoDate": "2026-03-17T09:53:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64jRKLqi9-c5fwxRIgUOuYe8fcW2NWoeEfMBoi9oBOrVRu1CW6TXPBuAL3VPIKoQMX4EeeKtPt0wzGFExXyCm3rGmXRYzfWsFSp1JDpxZ82neNjqGELR9s2ViKaVzhk2taHFfQNGiIYC9JyhaOd8c4DLKmUZt_SleyWwtCwi2ffFpFI6SIFq3h7pni3NZ/s1600/attack-talk.jpg"
-  },
-  {
-    "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
-    "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabil…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Mar 2026 10:53:00 +0530",
-    "timestamp": 1773724980.0,
-    "isoDate": "2026-03-17T05:23:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHrElxuBmshJ8wNl7qURDxcn2YLWxn07Uco53YCLhDLFqoS-exUpqGau4x9eFOvHq_KXg3ifLU3wVbZvhZExQ2XJJeWePG6zqRjrug6hAdOZaGcs78e68M7J23XMJWCXegidndqdayfGyPZt8mpLTExvPl_YJS8Nn5mPn4aEzlUKdU0B8J6-NtRX8_ncw7/s1600/cisa-ftp.jpg"
   }
 ]
