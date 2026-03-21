@@ -1,5 +1,16 @@
 [
   {
+    "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
+    "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
+    "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-prop…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 21 Mar 2026 12:58:00 +0530",
+    "timestamp": 1774078080.0,
+    "isoDate": "2026-03-21T07:28:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJqn31IC9aCQ9LMLCLRXgpwsa1gvtzXlYk20-1yRmCMYVM_MwGHedfSgbKl24yaeTx4fqRc4-vscge-d3P6sN8sErQBVGD0kgxMGzV-mDCI1wGFh87BB8me019zcennhvA6xyMHLnH9IKZ-txSWs9OwL5cGbg0X8sx_KZ2tj5A5awErRRRMbdSrw_cXs6a/s1600/npm-malware.jpg"
+  },
+  {
     "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
     "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
     "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The latest incident impacted GitHub Actions \"aqu…",
@@ -317,16 +328,5 @@
     "timestamp": 1773670620.0,
     "isoDate": "2026-03-16T14:17:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_H0YAbH9M9ZJEpNND8ld-a6PMbK_iC6MTl5KYp4PZ5cagUKRCuqsIsILZabA2CSAgcmKqr7xth_SL23l17zM8ANvYNa6LdvZc8xz_R08FfTek2V8rVtMBte0ubUnBlZ8IbZi0GBs-W4J9R7TCaVOCK9NYXWDPIAuFGTHyCOybC1PQqQKRKnTI6r9BZVaO/s1600/cyberrecap.jpg"
-  },
-  {
-    "title": "Why Security Validation Is Becoming Agentic",
-    "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
-    "summary": "If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scan…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 16 Mar 2026 17:28:00 +0530",
-    "timestamp": 1773662280.0,
-    "isoDate": "2026-03-16T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLVOZFyD6pBH1804jnpyTOScRJO3CnlHA2m3B-L1ML1B5l2iP70OHF_rUwtdHARpNsVh5WxdCXX7fO9NfpjPaH0jwJYCmWgGa2Eo5x9RPkl8PEl9e7tq2-T5sbv6KI7GnyzCr3PhSUSpweRRMlR0pGC4lO_3m1gVgLfrjt6sulJRo4yJKPlNSn_VyM8oo/s1600/picus.jpg"
   }
 ]
