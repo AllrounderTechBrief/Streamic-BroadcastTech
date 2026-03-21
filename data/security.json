@@ -1,5 +1,16 @@
 [
   {
+    "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
+    "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
+    "summary": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution. The vulnerability, tracked as CVE-2026-21992, carries a C…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 21 Mar 2026 15:54:00 +0530",
+    "timestamp": 1774088640.0,
+    "isoDate": "2026-03-21T10:24:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIh9aqIMPc6elNLcqZwmxGq0BHfA3NS2kkxawAr-H7SzPJKmvc7tXrykcm664TGFkJUIb_BmGpJV0CkEjIxVoRfTCrc8br5bi_TL93Nv_g7J_c9ccucZL4e55lp_zyywwBeAzDIoA1bnI95ELRLCbOyVf0WX0CGgGHLun2uQFKhqeMKf16nBOeJTO7O77/s1600/oracle-flaw-hack.jpg"
+  },
+  {
     "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
     "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
     "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-prop…",
@@ -317,16 +328,5 @@
     "timestamp": 1773724980.0,
     "isoDate": "2026-03-17T05:23:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHrElxuBmshJ8wNl7qURDxcn2YLWxn07Uco53YCLhDLFqoS-exUpqGau4x9eFOvHq_KXg3ifLU3wVbZvhZExQ2XJJeWePG6zqRjrug6hAdOZaGcs78e68M7J23XMJWCXegidndqdayfGyPZt8mpLTExvPl_YJS8Nn5mPn4aEzlUKdU0B8J6-NtRX8_ncw7/s1600/cisa-ftp.jpg"
-  },
-  {
-    "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
-    "link": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
-    "summary": "The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories. \"The attack targets Python projects — including Django apps, ML research …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Mar 2026 01:07:00 +0530",
-    "timestamp": 1773689820.0,
-    "isoDate": "2026-03-16T19:37:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7L4zUQpR3yqvBYQOLElALmeqWJoxMkXDZVmvs0LgAMwPCH6yuBMCeP_IJwLfkM_4SFI5mXmBQKNWu8JgME_4yZ271ZLEeJe_l-mZ-H4gsw2XaZecZoUhvlaaxdWjcDnn3zrl4boAnxhfXUNogrGpM83ucMCez0IN1A9xKn2XlrUEfVcBgFdFuC7pWdsX/s1600/githun-malware.jpg"
   }
 ]
