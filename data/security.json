@@ -5,10 +5,21 @@
     "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-prop…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Sat, 21 Mar 2026 12:58:00 +0530",
-    "timestamp": 1774078080.0,
-    "isoDate": "2026-03-21T07:28:00+00:00",
+    "timeAgo": "Sat, 21 Mar 2026 13:55:00 +0530",
+    "timestamp": 1774081500.0,
+    "isoDate": "2026-03-21T08:25:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJqn31IC9aCQ9LMLCLRXgpwsa1gvtzXlYk20-1yRmCMYVM_MwGHedfSgbKl24yaeTx4fqRc4-vscge-d3P6sN8sErQBVGD0kgxMGzV-mDCI1wGFh87BB8me019zcennhvA6xyMHLnH9IKZ-txSWs9OwL5cGbg0X8sx_KZ2tj5A5awErRRRMbdSrw_cXs6a/s1600/npm-malware.jpg"
+  },
+  {
+    "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
+    "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch the…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 21 Mar 2026 13:55:00 +0530",
+    "timestamp": 1774081500.0,
+    "isoDate": "2026-03-21T08:25:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJQDea3eiUAONNSYkmQsjicwXBMSALOAUJi7yPHqOStd9N-KBADSGXjH5zJS66VPyzi7-w5ULK7Ax9qH66_Av9E3xIL8BB7sDKz9d-ZbmlyqeyfKyCUYBb15eOH5_keQQ-RUchVoh7NvguG3Ps8sau8Ik17QNOMVtmTkQEck9gao_1zcLPE8JE_qPvc4Q9/s1600/cisa-kev.jpg"
   },
   {
     "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
@@ -317,16 +328,5 @@
     "timestamp": 1773689820.0,
     "isoDate": "2026-03-16T19:37:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7L4zUQpR3yqvBYQOLElALmeqWJoxMkXDZVmvs0LgAMwPCH6yuBMCeP_IJwLfkM_4SFI5mXmBQKNWu8JgME_4yZ271ZLEeJe_l-mZ-H4gsw2XaZecZoUhvlaaxdWjcDnn3zrl4boAnxhfXUNogrGpM83ucMCez0IN1A9xKn2XlrUEfVcBgFdFuC7pWdsX/s1600/githun-malware.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
-    "summary": "Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling. This week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretica…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 16 Mar 2026 19:47:00 +0530",
-    "timestamp": 1773670620.0,
-    "isoDate": "2026-03-16T14:17:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_H0YAbH9M9ZJEpNND8ld-a6PMbK_iC6MTl5KYp4PZ5cagUKRCuqsIsILZabA2CSAgcmKqr7xth_SL23l17zM8ANvYNa6LdvZc8xz_R08FfTek2V8rVtMBte0ubUnBlZ8IbZi0GBs-W4J9R7TCaVOCK9NYXWDPIAuFGTHyCOybC1PQqQKRKnTI6r9BZVaO/s1600/cyberrecap.jpg"
   }
 ]
