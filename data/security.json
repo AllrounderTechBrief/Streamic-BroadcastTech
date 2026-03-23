@@ -1,5 +1,16 @@
 [
   {
+    "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
+    "link": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
+    "summary": "The North Korean threat actors behind the Contagious Interview campaign, also tracked as WaterPlum, have been attributed to a malware family tracked as StoatWaffle that's distributed via malicious Microsoft Visual Studio Code (VS Code) proj…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 23 Mar 2026 23:39:00 +0530",
+    "timestamp": 1774289340.0,
+    "isoDate": "2026-03-23T18:09:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYRIy7X7XvfWs__-DS2yjU2mg0-f4TxESTTQnzRIgLaWPDe3Oe_25A0_pi_XHxryaqyz4YBRzci03kVa5TgSstslqpZdhUwBniNuYvx8N4pEZEI4mHGmZuh1QmnlhRcBXWTWLttZkuVU7aFvOrNg8sp0ODl4-sDi0q3X3XzBbCD0ppjxYihFwMxuMSHf4/s1600/northkorean.jpg"
+  },
+  {
     "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
     "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
     "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories. This edition covers a mix of issues: supply chain attacks hitt…",
@@ -317,16 +328,5 @@
     "timestamp": 1773829800.0,
     "isoDate": "2026-03-18T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHQlWFzb-dPRLbO6sDQFLQgxeUGnAqvKyB-zYYZSGM9MySnNJYPuBGkaZCgGco3JT4zh1kuHg0PNbZ3drUNebzabC1l62_B_2laDHkQY3FZi8tYiG70rpoRE43pQcLc8bWXGXWNTdF9Nbr0-KKt8rkgpoaypKgLXJHyAxFGpik6iLrxckqVdW6bbAzhck/s1600/mesh-product.jpg"
-  },
-  {
-    "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-    "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
-    "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level. Tracked as CVE-2026-3888 (CVSS score: 7.8), the issue could allow an attac…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Mar 2026 13:38:00 +0530",
-    "timestamp": 1773821280.0,
-    "isoDate": "2026-03-18T08:08:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjyR0arF1Y7SFoUB29ZhPX6xm5uAf4A7sdyhxPDSK52E3A-m2QCrr2DTMIYLCqIJnOUrQzo81R1_g-EMp82gZjHsMJegHxW4AeKRH3pnfjk2NGlBr5VZ9MoKRdbSgkBNs_039XoCT9eNSfka3VVbIhErq7lsOcW6gmN1CffJjFHrRILmXQgEmyZYz1E4KP/s1600/ubuntu.jpg"
   }
 ]
