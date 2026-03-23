@@ -1,5 +1,16 @@
 [
   {
+    "title": "Why volumetric 3D is finally ready for broadcast",
+    "link": "https://www.tvbeurope.com/media-consumption/why-volumetric-3d-is-finally-ready-for-broadcast",
+    "summary": "Patrice Rondao Alface, principal standardisation specialist at Nokia explains how V-DMC offers a practical route to making live and on-demand volumetric media deployable across broadcast, streaming, and XR platforms The post Why volumetric …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 23 Mar 2026 11:46:48 +0000",
+    "timestamp": 1774266408.0,
+    "isoDate": "2026-03-23T11:46:48+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/Patrice-Alface-high-res.png"
+  },
+  {
     "title": "Cobalt Digital to Unveil Additions to End-to-End IPMX and ST 2110 Ecosystem at NAB",
     "link": "https://www.tvbeurope.com/news-releases/cobalt-digital-to-unveil-additions-to-end-to-end-ipmx-and-st-2110-ecosystem-at-nab-including-fully-featured-standalone-signal-processors",
     "summary": "Cobalt Digital, the leading designer and manufacturer of award-winning signal processing products, and a founding partner in the openGear® initiative has announced its NAB 2026 lineup which includes numerous additions to its end-to-end IPMX…",
@@ -79,7 +90,7 @@
   {
     "title": "Atlas Lens Co. Spherical IMAX lenses for Dune: Part Three",
     "link": "https://www.newsshooter.com/2026/03/20/atlas-lens-co-spherical-imax-lenses-for-dune-part-three/?utm_source=rss&utm_medium=rss&utm_campaign=atlas-lens-co-spherical-imax-lenses-for-dune-part-three",
-    "summary": "Atlas Lens Co. developed special spherical IMAX lenses for Dune: Part Three that had to meet the very specific requirements for capturing film on the IMAX 70mm format. Atlas Lens Co. made four focal lengths, including a 55mm T3.5 and an 80m…",
+    "summary": "Atlas Lens Co. developed special spherical IMAX lenses for Dune: Part Three that had to meet the very specific requirements for capturing film on the IMAX 70mm format. Atlas Lens Co. made four focal lengths: 55mm T3.5, 80mm, 105mm, and 150m…",
     "source": "Newsshooter",
     "category": "broadcast-systems",
     "timeAgo": "Sat, 21 Mar 2026 05:05:51 +0000",
@@ -262,17 +273,6 @@
     "timestamp": 1773748630.0,
     "isoDate": "2026-03-17T11:57:10+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/shot_5821_IUJRRMVf-copy-726x362.jpg"
-  },
-  {
-    "title": "AI standardisation speeds up",
-    "link": "https://www.tvbeurope.com/artificial-intelligence/ai-standardisation-speeds-up",
-    "summary": "SMPTE’s AI Taskforce, EBU, and the ETC have updated the AI Engineering Report to keep pace with the rapid evolution of AI in broadcast, highlighting new standards for interoperability and advanced applications in the newsroom, reports David…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 17 Mar 2026 11:30:05 +0000",
-    "timestamp": 1773747005.0,
-    "isoDate": "2026-03-17T11:30:05+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/Fred-Walls-726x726.jpg"
   },
   {
     "title": "Tedial – Composable NoCode UI Design",
