@@ -1,5 +1,16 @@
 [
   {
+    "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
+    "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+    "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories. This edition covers a mix of issues: supply chain attacks hitt…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 23 Mar 2026 18:44:00 +0530",
+    "timestamp": 1774271640.0,
+    "isoDate": "2026-03-23T13:14:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe8A2RKkUN6BATGKH_48mi3J6DYVutxBllcmOiNl7N3xeqPx9sySaIFdxMxfIp5VQksSCBdRKtpNpiWUcTo5VNClmu6dbs6hoM9Ljx3QXAWEnAjKAG0Vc8JHLxGWfZkq3ORe4PgT-RgpBxhPnfMtr8UOhnjXToH-WOa6h3IVUM3HQqvgmWmMTPjKsqTkSN/s1600/recap-bl.jpg"
+  },
+  {
     "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
     "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
     "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. That connectivity is what makes it powerfu…",
@@ -317,16 +328,5 @@
     "timestamp": 1773821280.0,
     "isoDate": "2026-03-18T08:08:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjyR0arF1Y7SFoUB29ZhPX6xm5uAf4A7sdyhxPDSK52E3A-m2QCrr2DTMIYLCqIJnOUrQzo81R1_g-EMp82gZjHsMJegHxW4AeKRH3pnfjk2NGlBr5VZ9MoKRdbSgkBNs_039XoCT9eNSfka3VVbIhErq7lsOcW6gmN1CffJjFHrRILmXQgEmyZYz1E4KP/s1600/ubuntu.jpg"
-  },
-  {
-    "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
-    "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
-    "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Mar 2026 12:01:00 +0530",
-    "timestamp": 1773815460.0,
-    "isoDate": "2026-03-18T06:31:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrIGrK9v7gHMVWn2ApD_KeHXedmQ6FwRObZ4ZqEQssbaUU_8qjOSYBBRzZPzK0J8eHdH37Ws_n1u-ESXKJ1WEb4jjFcLn1Tdoj4n0z0wrfFj7X5DKIK8dzKYZ9uLDV2dg6HecUyRdUDkYR1LKkvhkGWBh_anbKF83bvLXUJBeTTwjCDeJ0V2hRAEN1bxhv/s1600/apple-hacking.jpg"
   }
 ]
