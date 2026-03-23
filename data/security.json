@@ -1,5 +1,16 @@
 [
   {
+    "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
+    "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
+    "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments. The last known clean release of Trivy on …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 23 Mar 2026 14:01:00 +0530",
+    "timestamp": 1774254660.0,
+    "isoDate": "2026-03-23T08:31:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tECPxIu-t1cl5YE211vm5q8dB99cO4mW6hbz0jCRbtDjalNgI7gX42M9MQAkty0IsWyxB3cJDMOpKbqQlLSKMnjbGaBOJHB9QslmSQB6-96o4RlaFLKuTHEAq8HpO-KbprLYPIjSR64H9twUcA-fuV0CrB2qw7RlzNWhQUHEmyKboascQm-Udl5GPdwA/s1600/docker.jpg"
+  },
+  {
     "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
     "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
     "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf. The cybersecurity company said it observed malicious activity starting the week…",
@@ -317,16 +328,5 @@
     "timestamp": 1773758040.0,
     "isoDate": "2026-03-17T14:34:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHJfW8wlD2yQtP3pzAZhSRXNrzlhxXWqqG6GiAH3nbBo44Bz5mQxZ1LtsokhDYs-FC2t8hyphenhyphenY-TlNvck_Rtou9A_AA9lRnKNDRbMxZTpHfAe-6WETM-yJoWzxTANKVWrcZFdu7sax22JeTcWAVwuLKMibTNkLwSRyC0_HfBgCFM6EWqPl5-HbGtJEiSCTC/s1600/leaknet-ransomware.jpg"
-  },
-  {
-    "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
-    "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
-    "summary": "A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera. The report, based on a survey of 30…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Mar 2026 17:00:00 +0530",
-    "timestamp": 1773747000.0,
-    "isoDate": "2026-03-17T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8f5KRgkqcEs7OtCxyKrJIvPWUOZnbkV5dIFPc5TjDbkAliVww6lOjpuOBZYQw1TF4H28aJZNMY6KkZmnaQfIGsR4PlXWHl4Ps-zfPutG01bPkEIjKSLlCWwK66sjwPX7uf7qsrjl3kMTVe1F4Wl7BJj7dPiC0rDW_skQOlfgirUrzT9E5bccb4fTXdLI/s1600/pentera.jpg"
   }
 ]
