@@ -1,5 +1,16 @@
 [
   {
+    "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
+    "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
+    "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf. The cybersecurity company said it observed malicious activity starting the week…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 23 Mar 2026 11:45:00 +0530",
+    "timestamp": 1774246500.0,
+    "isoDate": "2026-03-23T06:15:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTlyFHjxX97gPhHFjyvPGAPsLFbWQSHzAofYEPTsqZS1Xyc4KjjMDOqW-N7Iku9d1cuOJLI7EMdA-kA5X86I2neC5efkXETfsIVOZcIEVfLxWKFEnR3qXfgpLxXvG3ZKixxV_bmEDxXIN_65QzgRKguXIJkQhzY50ROEEV5irUXNeuekFatz88Yk_BONZ/s1600/kace.jpg"
+  },
+  {
     "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
     "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
     "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high in…",
@@ -46,7 +57,7 @@
   {
     "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
     "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
-    "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The latest incident impacted GitHub Actions \"aqu…",
+    "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware capable of stealing sensitive CI/CD secrets. The latest incident impacted GitHub Act…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Fri, 20 Mar 2026 23:17:00 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1773747000.0,
     "isoDate": "2026-03-17T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8f5KRgkqcEs7OtCxyKrJIvPWUOZnbkV5dIFPc5TjDbkAliVww6lOjpuOBZYQw1TF4H28aJZNMY6KkZmnaQfIGsR4PlXWHl4Ps-zfPutG01bPkEIjKSLlCWwK66sjwPX7uf7qsrjl3kMTVe1F4Wl7BJj7dPiC0rDW_skQOlfgirUrzT9E5bccb4fTXdLI/s1600/pentera.jpg"
-  },
-  {
-    "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
-    "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
-    "summary": "North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts. The activity has been attributed by Sou…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 17 Mar 2026 15:23:00 +0530",
-    "timestamp": 1773741180.0,
-    "isoDate": "2026-03-17T09:53:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64jRKLqi9-c5fwxRIgUOuYe8fcW2NWoeEfMBoi9oBOrVRu1CW6TXPBuAL3VPIKoQMX4EeeKtPt0wzGFExXyCm3rGmXRYzfWsFSp1JDpxZ82neNjqGELR9s2ViKaVzhk2taHFfQNGiIYC9JyhaOd8c4DLKmUZt_SleyWwtCwi2ffFpFI6SIFq3h7pni3NZ/s1600/attack-talk.jpg"
   }
 ]
