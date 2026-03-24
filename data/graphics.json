@@ -1,5 +1,16 @@
 [
   {
+    "title": "Tropical Cyclone Narelle Crosses Australia",
+    "link": "https://science.nasa.gov/earth/earth-observatory/tropical-cyclone-narelle-crosses-australia/",
+    "summary": "The powerful storm lashed the northern edge of the continent with damaging winds and drenching rain as it made landfall multiple times.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 24 Mar 2026 04:01:00 +0000",
+    "timestamp": 1774324860.0,
+    "isoDate": "2026-03-24T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tropical-cyclone-narelle-crosses-australia/aus_narelle_vir2_20260319.jpg?w=2160&h=1440&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "NASA Data Hackathon Inspires Community Action",
     "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-data-hackathon-inspires-community-action/",
     "summary": "On Jan. 31, students, library staff, researchers, and community members gathered at the University of Florida’s (UF) Marston Science Library for the Environmental Monitoring through Education, Research, and Geospatial Engagement (EMERGE) NA…",
@@ -427,17 +438,6 @@
     "timestamp": 1774205972.0,
     "isoDate": "2026-03-22T18:59:32+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/lrc-2025-ocio-p-03625-mod-a-0c4750.jpg?w=1615"
-  },
-  {
-    "title": "NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight",
-    "link": "https://www.nasa.gov/missions/quesst/nasas-x-59-experimental-supersonic-aircraft-makes-second-flight/",
-    "summary": "NASA’s quiet supersonic X-59 aircraft made its second flight on Friday, kicking off a series of dozens of test flights in 2026. Although the flight duration was abbreviated due to a technical issue, the team was able to collect information …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 20 Mar 2026 23:27:18 +0000",
-    "timestamp": 1774049238.0,
-    "isoDate": "2026-03-20T23:27:18+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/x-592ndflight.jpg?w=2048"
   },
   {
     "title": "Ultrix – 5000, this is just the beginning!",
