@@ -1,5 +1,16 @@
 [
   {
+    "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
+    "link": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
+    "summary": "A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents to serve rogue installers for ConnectWise ScreenConnect that drop a tool named HwAudKiller …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Mar 2026 22:35:00 +0530",
+    "timestamp": 1774371900.0,
+    "isoDate": "2026-03-24T17:05:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHstwfvuhTqeOC7VWnSCBcxuxkGXQo_98_9hK16L_vSpzSRSYHXlBOeg2O61FYeF2rcfwnXFxzQHEkDyXYB6C_GtMIB-qEfIM_K3vMu-C_OHBNk5eOdwofhao0How3UZLVM1bQ4R5MzrGMSpIk74c_b0UI8ri7Itube7MGnrwEEoEHy-kOq1unklYy9zR5/s1600/tax-docs.jpg"
+  },
+  {
     "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
     "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
     "summary": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, “a Market Guide defines a market …",
@@ -317,16 +328,5 @@
     "timestamp": 1773917880.0,
     "isoDate": "2026-03-19T10:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B3hISiw4s7wL5Eruja2BnTYM2QNrpsi6FnTtzznVz-Vu1pERgS-lZuIVKrps6nlxaauzfCXNfiiSInowjXHDhZ3UgoGD7OlFtwijFG0w5MtfnGu920etTBYP0tHnauL6Owztp_K0I8DUXlMSWd2LZz57O8NFm83E8H5QZ7Kb7RCOja4c-viaPrf9lC8/s1600/bi.jpg"
-  },
-  {
-    "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
-    "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
-    "summary": "A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence Group (GTIG), iVerify, and Lookout. …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 19 Mar 2026 14:44:00 +0530",
-    "timestamp": 1773911640.0,
-    "isoDate": "2026-03-19T09:14:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho7JmQ9e8aVTFWYRYkZD_7n8d_IVUkFzCBPFnqGvDe_32LG-Te8BFovDqiVjMusP3eUTgXzn5iDoVgLTSnR1RR44UHLh6fuegsRokauImqaCbIL2KqUJcjlmViSKAAaSpZ5d7-L1CjYhizgV92pUQFLKo2DqE1sPijXfWNv24vIjcWCHVoF-G1p7vPciP_/s1600/dark.jpg"
   }
 ]
