@@ -1,5 +1,16 @@
 [
   {
+    "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise",
+    "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
+    "summary": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Mar 2026 23:51:00 +0530",
+    "timestamp": 1774376460.0,
+    "isoDate": "2026-03-24T18:21:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmubYXPf6QmmyAgoyu58-O141BOTc-D3aKKUtKXg1IFX6pn4Wav7yspHRPiWKScygEd1vsHmeH5zQLjwG38pOlDggYgjBN7MzUTrb_3jQv_lXum7s7PXGo8aqvSws4QEkrC587wgBhgF5tmPEmhK_OCeTLm8YlcWxyw2-nQMiM9VS8VdC22-tDkVM5MEsb/s1600/lite.jpg"
+  },
+  {
     "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
     "link": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
     "summary": "A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents to serve rogue installers for ConnectWise ScreenConnect that drop a tool named HwAudKiller …",
@@ -317,16 +328,5 @@
     "timestamp": 1773924180.0,
     "isoDate": "2026-03-19T12:43:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO9NIqWSua7z7wlxbrmrChu5uZeRwYbuW8vAxVAajRSO8FoYtN_dHwnplt-OfqYnZX9PaOWZmxZPG_eRjiDVYOV2XDYq8hKWrRxT8jbTT4yKbAF91OjdZuxWIaxRZSNfbFpiLF_E8w-hUvIgncy7htyQS-2oRakIpIBReQSKUgR8QaIJ1C9oMvimAkUMsA/s1600/android-banking-malware.jpg"
-  },
-  {
-    "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
-    "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
-    "summary": "Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls. Claud…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 19 Mar 2026 16:28:00 +0530",
-    "timestamp": 1773917880.0,
-    "isoDate": "2026-03-19T10:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B3hISiw4s7wL5Eruja2BnTYM2QNrpsi6FnTtzznVz-Vu1pERgS-lZuIVKrps6nlxaauzfCXNfiiSInowjXHDhZ3UgoGD7OlFtwijFG0w5MtfnGu920etTBYP0tHnauL6Owztp_K0I8DUXlMSWd2LZz57O8NFm83E8H5QZ7Kb7RCOja4c-viaPrf9lC8/s1600/bi.jpg"
   }
 ]
