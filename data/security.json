@@ -1,5 +1,38 @@
 [
   {
+    "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
+    "link": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
+    "summary": "Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data. The activity is being tracked by ReversingLabs as the Ghost campaign. The list of identified …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Mar 2026 17:30:00 +0530",
+    "timestamp": 1774353600.0,
+    "isoDate": "2026-03-24T12:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlh6CuYJhvsInqih03x9cvHFvmbF-F8DFJF_Y9VQMslT9g5yp_jhDewDUjcvUlAMzyKbfOHz0eMdFqHdIGwbtOY0MOHDGr_lA1TraO34SwYiKrieNnOQsAo5DbKhpJCp2X60_0epyBiBDs-KRgFjhR0QEPMmTRBCvJCiiQaJg7MaRCLf3EHcrIdluUrmJ-/s1600/1000062391.jpg"
+  },
+  {
+    "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
+    "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
+    "summary": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, “a Market Guide defines a market …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Mar 2026 17:07:00 +0530",
+    "timestamp": 1774352220.0,
+    "isoDate": "2026-03-24T11:37:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNlBFOfxbwROPKI6W1sccbKKW4Dx3IGIQi1AnDrQqKxY1xaVxZv9gip61deVh8UNN1xLX6l3fOEm8pKGrHLSddhT8WS7w70a5FDT3eyew3xxDjCOC8QCYK7hERW2ILTYMfS9Giq4asN2G4SvYITRiVeqlZcN53LG8OG7hkQ5C6J8bAVokCe0a0oBkuNMlS/s1600/Cover-v1.gif"
+  },
+  {
+    "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
+    "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
+    "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack. The workflows,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Mar 2026 16:08:00 +0530",
+    "timestamp": 1774348680.0,
+    "isoDate": "2026-03-24T10:38:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs6mMRIch1O4gn0txxM6yMSRtvi7D0xmBbphFA0WJimqGO4k48KNvAbF_-an7swi-N0ZHOB2jt1WtJQjubozx7WzJH6Kr0CA0rCkP4TNUHR2NkC8NS6RaJDF9WUyZeyzUIG1NQtK_Betxs3h0gaxKqHMs7laaHTVXSiCMo-vbS_owFokGrDqN9NG7jdwRf/s1600/git-check.jpg"
+  },
+  {
     "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
     "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
     "summary": "Cybersecurity has changed fast. Roles are more specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear …",
@@ -9,17 +42,6 @@
     "timestamp": 1774346400.0,
     "isoDate": "2026-03-24T10:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQpYFvavgLT2A2jdfoBL7Wp9ezuo1HDTIJiE8s2Pa5KXH-TOCWZqUGhcg6xb2WBpXtHUpH-tqYI3zUXmr-rWNM_crdZHIda5PaWdxskk39iOZqxz0ltvvh-VenOPTRqpUxX8J2uLL86_eljgWE-AOZPbm7OSrhsj23k7usKY2BTvHDTsscJ8GyQClclZA/s1600/cloud-network.jpg"
-  },
-  {
-    "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
-    "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-    "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack. The workflows,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 24 Mar 2026 14:59:00 +0530",
-    "timestamp": 1774344540.0,
-    "isoDate": "2026-03-24T09:29:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs6mMRIch1O4gn0txxM6yMSRtvi7D0xmBbphFA0WJimqGO4k48KNvAbF_-an7swi-N0ZHOB2jt1WtJQjubozx7WzJH6Kr0CA0rCkP4TNUHR2NkC8NS6RaJDF9WUyZeyzUIG1NQtK_Betxs3h0gaxKqHMs7laaHTVXSiCMo-vbS_owFokGrDqN9NG7jdwRf/s1600/git-check.jpg"
   },
   {
     "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
@@ -306,27 +328,5 @@
     "timestamp": 1773900300.0,
     "isoDate": "2026-03-19T06:05:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNz_gKNFLCIU1bf3r5ndKEJY42xA-0VYcdfKSV7dFnLR49717u_2GSnPWzDJk4OkX-VbcUgnij6CUo-ZJvV4-uWiUuXsS0FtuAA8RBYnElk3ELRm_ODa1MhwK9GcjjuIN3rqi51_BBFYvMYCbcJGifTrfv4bUHYZmkcJSnKGDT7NnLBHU4GtaxMvW9F7Pr/s1600/cida-patches.jpg"
-  },
-  {
-    "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
-    "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
-    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker schem…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Mar 2026 22:56:00 +0530",
-    "timestamp": 1773854760.0,
-    "isoDate": "2026-03-18T17:26:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOXJqNKU2E3XuLpHv5iNIyXUsNHiw2sKZHX26AXk9X2bIlFfmTfRYdKkvL40FGg6dAccgemC93VDZ_l8uIFrzaxPY5OMtWeujIO4CS4XvbQQI-Y_B36j1wl5nFWFjXp968S6iTFFZlwdO9Qx8tNHBALQHagYFSFBGjncE6OJdk3ZOGZFWFnucDua1CawKd/s1600/1000061563.png"
-  },
-  {
-    "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
-    "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
-    "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software. The vulnerability in question is CVE-2…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Mar 2026 21:30:00 +0530",
-    "timestamp": 1773849600.0,
-    "isoDate": "2026-03-18T16:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIlKuha7SKiNtcZ_rk3dVV2Mt4tDfyfAir2TYksjgJhuuBlUNRqZu0Zeh8xwCMU7XCedi9khw6ywY0sqBRY8BrY-8jLzGOdSU7YRit5m4ew711QN8qK-aG224wOrcXc7k3_8QDy1zfXZ1UWVaR3C_J3WzNuvCkApYqhmICJI62mVMO2R1OoiJ17ySmxQm6/s1600/cc.jpg"
   }
 ]
