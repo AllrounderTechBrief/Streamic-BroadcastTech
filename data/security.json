@@ -1,5 +1,27 @@
 [
   {
+    "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+    "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+    "summary": "Cybersecurity has changed fast. Roles are more specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Mar 2026 15:30:00 +0530",
+    "timestamp": 1774346400.0,
+    "isoDate": "2026-03-24T10:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQpYFvavgLT2A2jdfoBL7Wp9ezuo1HDTIJiE8s2Pa5KXH-TOCWZqUGhcg6xb2WBpXtHUpH-tqYI3zUXmr-rWNM_crdZHIda5PaWdxskk39iOZqxz0ltvvh-VenOPTRqpUxX8J2uLL86_eljgWE-AOZPbm7OSrhsj23k7usKY2BTvHDTsscJ8GyQClclZA/s1600/cloud-network.jpg"
+  },
+  {
+    "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
+    "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
+    "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack. The workflows,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Mar 2026 14:59:00 +0530",
+    "timestamp": 1774344540.0,
+    "isoDate": "2026-03-24T09:29:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs6mMRIch1O4gn0txxM6yMSRtvi7D0xmBbphFA0WJimqGO4k48KNvAbF_-an7swi-N0ZHOB2jt1WtJQjubozx7WzJH6Kr0CA0rCkP4TNUHR2NkC8NS6RaJDF9WUyZeyzUIG1NQtK_Betxs3h0gaxKqHMs7laaHTVXSiCMo-vbS_owFokGrDqN9NG7jdwRf/s1600/git-check.jpg"
+  },
+  {
     "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
     "link": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
     "summary": "A 26-year-old Russian citizen has been sentenced in the U.S. to 6.75 years (81 months) in prison for his role in assisting major cybercrime groups, including the Yanluowang ransomware crew, in conducting numerous attacks against U.S. compan…",
@@ -306,27 +328,5 @@
     "timestamp": 1773849600.0,
     "isoDate": "2026-03-18T16:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIlKuha7SKiNtcZ_rk3dVV2Mt4tDfyfAir2TYksjgJhuuBlUNRqZu0Zeh8xwCMU7XCedi9khw6ywY0sqBRY8BrY-8jLzGOdSU7YRit5m4ew711QN8qK-aG224wOrcXc7k3_8QDy1zfXZ1UWVaR3C_J3WzNuvCkApYqhmICJI62mVMO2R1OoiJ17ySmxQm6/s1600/cc.jpg"
-  },
-  {
-    "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
-    "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-    "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vuln…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Mar 2026 18:00:00 +0530",
-    "timestamp": 1773837000.0,
-    "isoDate": "2026-03-18T12:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7eXnUZ_n354WSYj7Qjrk3sBFZkhyQ41VtRezIQRVo3KqzZJDE_A7CqshkkQ6RCiOyS1zuS8liODqSRGhURLUozRKEDZ6BmKyOxBVy8K0EF5TQB5QlyC7c1Cv0mHSj0BNwtGAS-PgOUobvSWJ1b82qWBHCMEocTyoOayx69DzM_gveQSuD1zbjYAjziX7/s1600/linux.jpg"
-  },
-  {
-    "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
-    "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
-    "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it – because the malicious code never actually touches your repo. As teams adopt Claude Code Security for stati…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Mar 2026 17:28:00 +0530",
-    "timestamp": 1773835080.0,
-    "isoDate": "2026-03-18T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggz_kaHz2bigOo1y7BON5yhR9pCor4YwRAVV2PhMpW80pO5LnEQpI6Nzwyb1vAXqsORLe3-nM6npur3xdVzjvgFuv0_weLt2k3aganHfRUGHnvg258ymm460jOPDouqbnhZiOWNgkTEov8Iy1Ldb53EQg94GZMocgH3nwILAvMzDaNsyK7WaSrc1k7Rts/s1600/ref.jpg"
   }
 ]
