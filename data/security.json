@@ -1,5 +1,27 @@
 [
   {
+    "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
+    "link": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
+    "summary": "A 26-year-old Russian citizen has been sentenced in the U.S. to 6.75 years (81 months) in prison for his role in assisting major cybercrime groups, including the Yanluowang ransomware crew, in conducting numerous attacks against U.S. compan…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Mar 2026 12:19:00 +0530",
+    "timestamp": 1774334940.0,
+    "isoDate": "2026-03-24T06:49:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiwErtmK3J6s3ZBAWrZmJFdn-SsFPTX_zrl0bvQ9n-ZCC1ENEur-h3l19pl6UP2D2HOJPXbanjebnde0RSf2-ER98dzy3FUdTBcM8OzdWmcc3hXf7ZEq7nlF13RMlR7WYNGwjxKF6stgY-oBOa8aUjxYb7wEyi6oEUZTHUFnGX4zmAjumNGhIUXscatWTn/s1600/ransomware-hacker.jpg"
+  },
+  {
+    "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+    "link": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
+    "summary": "Citrix has released security updates to address two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical flaw that could be exploited to leak sensitive data from the application. The vulnerabilities are listed below …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 24 Mar 2026 11:29:00 +0530",
+    "timestamp": 1774331940.0,
+    "isoDate": "2026-03-24T05:59:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCnGCq_DsAE40JVqQy2HjOcbqucRBcpx0JOpEQM9SZplWbse_yzvfQGRG8Uux9NVkQhQrHYzTIlb3b58b47kkLOfIBcxeaMVT7SlUjBSr3URnME7qL5P3ZqJgVw3bGX0NY_hYsvhAbTTJ7PZk-mmpl949AALvrsV0JkZEQD82ah-B2jlOBz-oGC-P4xaY/s1600/citrix.jpg"
+  },
+  {
     "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
     "link": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
     "summary": "The North Korean threat actors behind the Contagious Interview campaign, also tracked as WaterPlum, have been attributed to a malware family tracked as StoatWaffle that's distributed via malicious Microsoft Visual Studio Code (VS Code) proj…",
@@ -306,27 +328,5 @@
     "timestamp": 1773835080.0,
     "isoDate": "2026-03-18T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggz_kaHz2bigOo1y7BON5yhR9pCor4YwRAVV2PhMpW80pO5LnEQpI6Nzwyb1vAXqsORLe3-nM6npur3xdVzjvgFuv0_weLt2k3aganHfRUGHnvg258ymm460jOPDouqbnhZiOWNgkTEov8Iy1Ldb53EQg94GZMocgH3nwILAvMzDaNsyK7WaSrc1k7Rts/s1600/ref.jpg"
-  },
-  {
-    "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
-    "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
-    "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hosts. The nine vulnerabilities, discovered…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Mar 2026 17:12:00 +0530",
-    "timestamp": 1773834120.0,
-    "isoDate": "2026-03-18T11:42:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1w0kzOmqTtztN-mHI2uI1lo8OnX3r0r6sB1FuwEKJAIX3zudBP_BkZiFk5f3RbtXjTiARWWhhKkLp2szjQk5-IVk_sOHkyGlIAof66_UIY595IhcdGZQR2xjTHKQSqWAV0bkjCPlfqBdJqokmSkZID1kQxcI8M-LX2aWSDErd63Y86_UTo321Fm45dcDC/s1600/ip.jpg"
-  },
-  {
-    "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
-    "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
-    "summary": "Security teams today are not short on tools or data. They are overwhelmed by both. Yet within the terabytes of alerts, exposures, and misconfigurations – security teams still struggle to understand context: Q: Which exposures, misconfigurat…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 18 Mar 2026 16:00:00 +0530",
-    "timestamp": 1773829800.0,
-    "isoDate": "2026-03-18T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHQlWFzb-dPRLbO6sDQFLQgxeUGnAqvKyB-zYYZSGM9MySnNJYPuBGkaZCgGco3JT4zh1kuHg0PNbZ3drUNebzabC1l62_B_2laDHkQY3FZi8tYiG70rpoRE43pQcLc8bWXGXWNTdF9Nbr0-KKt8rkgpoaypKgLXJHyAxFGpik6iLrxckqVdW6bbAzhck/s1600/mesh-product.jpg"
   }
 ]
