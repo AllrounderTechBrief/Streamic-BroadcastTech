@@ -1,5 +1,38 @@
 [
   {
+    "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
+    "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
+    "summary": "In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, perform…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 25 Mar 2026 17:28:00 +0530",
+    "timestamp": 1774439880.0,
+    "isoDate": "2026-03-25T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxwugQQz3vBJ2pK2wCB_DYKIxoDHo60x7SHE5WQonARyDulZoAc7X7LDiThunfB_Q60swcE_gAMuqSwHykOcGvFnU3TRlGMbIiYJvAuJAStlKGb8m6wjPeQx62PsOMzAaF6RfDaK6G8sPzgMfzNOu1KZZ5AEUnjq5G9NusUMnMo5EEpIQWN9DyajDuCs/s1600/reco.jpg"
+  },
+  {
+    "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html",
+    "summary": "The U.S. Department of Justice (DoJ) said a Russian national has been sentenced to two years in prison for managing a botnet that was used to launch ransomware attacks against U.S. companies. Ilya Angelov, 40, of Tolyatti, Russia, was also …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 25 Mar 2026 17:22:00 +0530",
+    "timestamp": 1774439520.0,
+    "isoDate": "2026-03-25T11:52:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSFQsR3JgSCA44WGyYmcmFuACIlDkUDxOnRar3b3B-JHXTZq_dxARV6GEM5gvclJQktlfwnU88fV1Gzcr3HO7EJHoeE5kYA262Vv0SlCB6XPuyAiTSas8Iw0Ca5QkvnGaduv0Dt9euHjKn6A6lYWAHkpXPjbBRdmV1piwxsILM8wcfgT6mjtgQeEB4BUk/s1600/ransomware-russia.jpg"
+  },
+  {
+    "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
+    "link": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
+    "summary": "Cybersecurity researchers are calling attention to an active device code phishing campaign that's targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Australia, New Zealand, and Germany. The activity, …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 25 Mar 2026 17:04:00 +0530",
+    "timestamp": 1774438440.0,
+    "isoDate": "2026-03-25T11:34:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifvDHwUAT0Y5sILbpMYi15pftc8kD-oPKrtaUucJ0PLeFRnxKsA14uMC3zCpTPZwj0w7GBTqFQCMfmwzzy_tv-RYTVBijk_x2KWzKkS68n9QfolIhr2B3rSMTGJWg3qt9ZbTYWDiyHmKNT6yD47XPMyS2aj8DF_lyKGKKGWfIsohBlWJvjS_Z3j_XqMZQ/s1600/ms-phish-kit.jpg"
+  },
+  {
     "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
     "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
     "summary": "The U.S. Federal Communications Commission (FCC) said on Monday that it was banning the import of new, foreign-made consumer routers, citing \"unacceptable\" risks to cyber and national security. The action was designed to safeguard Americans…",
@@ -295,38 +328,5 @@
     "timestamp": 1773983760.0,
     "isoDate": "2026-03-20T05:16:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwgJpN_6bTBVT2q2xpQB_QFewyV2cp-Acaxnjpc4-KQKGpQZiz339xOYJ9ew_UlCgScvvWA940DyAf2E_HomGHQXljbHclluIiK57hJKo00KBdTXh8BeVi0toqDVevMaRY_fSlTzyYkkJjdKU0pA7iKX6_yTwsOveceby7OB08v9V2GAoasiLsl1Cu2DS/s1600/apple-logo.jpg"
-  },
-  {
-    "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
-    "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
-    "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard. \"Speagle is designed to surreptitiously harvest sensitive information from …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Mar 2026 00:46:00 +0530",
-    "timestamp": 1773947760.0,
-    "isoDate": "2026-03-19T19:16:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSgCN7uAT0GxA_9D78X0Q9nRTRmUKPnhIvtgPrg32f62joth8HoaFjuZ68g1l10CVcTjQXiaw3ueNoItw0YN8edclDT-c6IHodK_nSRjPFqUH2hTfceviQi1UZ_6Mo2NvGlkVNIdx3CvxpobdFm3jVUuvvdIDcn5LIKQFNNFe7MScF824trW9pajXcM3l/s1600/locks.jpg"
-  },
-  {
-    "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
-    "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-    "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable drivers. EDR killer programs have been a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Mar 2026 00:22:00 +0530",
-    "timestamp": 1773946320.0,
-    "isoDate": "2026-03-19T18:52:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIi1shGpEknr4-CSa7F-hGXgqRLy4TeRhG2CLzUE9WOs7c-XA-TRmAFhxGmJePCWAjYzRvtRW5ukvGvKluq5hOfv8F8QmzqTUxVjElk6zf3ovVxZIvqUdn1A2Z02kv7t8efDgyyZEUljfWZRxOZqAynFB92c66-ywA8vxkCUXiJ75g4U2vJUlOlzblxU_z/s1600/edr.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
-    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
-    "summary": "ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a lot of small things that shouldn’t work anymore but still do. Some of it looks simple, almo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 19 Mar 2026 19:55:00 +0530",
-    "timestamp": 1773930300.0,
-    "isoDate": "2026-03-19T14:25:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8NYPjdG8isSFFKDJkDtz603as8VZqTtFenMMZGF6GB_abFJsu8Kj6alv-Bnk_K0k9sXEqyPo2WxK12jRPz9cMIEvzX7whTVEESRW_n8mQguCvj5nQzTjXdmcvmPKP6GMFJuropryXpS7Uyi0VKDAmdGFFu4OqeHFnYVkhDCNO86SgTRMcLu6O_ZtJKen/s1600/tdays.jpg"
   }
 ]
