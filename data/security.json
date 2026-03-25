@@ -1,5 +1,16 @@
 [
   {
+    "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
+    "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
+    "summary": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. According to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 25 Mar 2026 23:05:00 +0530",
+    "timestamp": 1774460100.0,
+    "isoDate": "2026-03-25T17:35:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9UqvCgUXI-P9n0pHIj0a2d6gtlUe5ioSOzReAYnBthLWrwGhD0B9EKIlrrhiA8gsF61npoVKP8y1HftTKWD9xgTg0qBOHw2N3qn0Gak0BUAV9Jt2s8BmhzR9cLjOE5ynzKm8obB3G-fECJQ3bN1G8GVv2wgyKkLZ5JpYQKUyuVtTa2z27pHL9IN-th1k/s1600/leakbase.jpg"
+  },
+  {
     "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
     "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
     "summary": "Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Go…",
@@ -317,16 +328,5 @@
     "timestamp": 1773999000.0,
     "isoDate": "2026-03-20T09:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmvoo5bgNhw6SuInM6rRH_pdtYFmiDdMlG7hS2GdUJfwhXoOClt29lEpxaqI27b6XOOfX3eO8eHlUM0LA55P9U_HfWgVPyqDWMO01Chkp6aC-is0292EqVXPRjwesdZl9igZ0iD7NdoW8rQhKRVfF7s_I98a8r2YOk3-vjDMEz4eGGVXjmt-nUJpLpM4OL/s1600/mag.jpg"
-  },
-  {
-    "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
-    "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
-    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized l…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Mar 2026 11:55:00 +0530",
-    "timestamp": 1773987900.0,
-    "isoDate": "2026-03-20T06:25:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuGXmHjiDQoCgH14v3lddFUEZQ96DLgTZ_Q8k7l7lpnGTX4zzeJ78e0MLRH8L3Bah3_zMnLI4kVNn3RDbnlzXpzchm5mg_1SDo0mCETmOylAS9qCPuMVRhtAfVWDzHUDwK2fRNiACoXo3oPWR8VV0E3m5svUSuDATtF4O_CIC05Vco5m3dN9MR9D7V-JP/s1600/botnet-malware.jpg"
   }
 ]
