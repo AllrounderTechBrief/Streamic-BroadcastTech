@@ -1,5 +1,16 @@
 [
   {
+    "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
+    "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
+    "summary": "Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Go…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 25 Mar 2026 19:56:00 +0530",
+    "timestamp": 1774448760.0,
+    "isoDate": "2026-03-25T14:26:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEp3IyImISv7uRuagzygkd4aGvDbrWmOy-xyXMy-VphJQyYgcGzbTtPqlfE9aU4DetBCQh_-EW5S5S-byUu8QScPlK4ZRfuwf7pqHeyEoZRxUTM33qXU4xlHkeVorTunq9aPKr6tRpenSxD2T2m5k1xp1r8LOf3eeIuq6FLNet9FjXescrI5eyMPgd2BY6/s1600/force.jpg"
+  },
+  {
     "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
     "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
     "summary": "In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, perform…",
@@ -317,16 +328,5 @@
     "timestamp": 1773987900.0,
     "isoDate": "2026-03-20T06:25:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuGXmHjiDQoCgH14v3lddFUEZQ96DLgTZ_Q8k7l7lpnGTX4zzeJ78e0MLRH8L3Bah3_zMnLI4kVNn3RDbnlzXpzchm5mg_1SDo0mCETmOylAS9qCPuMVRhtAfVWDzHUDwK2fRNiACoXo3oPWR8VV0E3m5svUSuDATtF4O_CIC05Vco5m3dN9MR9D7V-JP/s1600/botnet-malware.jpg"
-  },
-  {
-    "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
-    "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
-    "summary": "Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword. These attacks employ malicious web content t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Mar 2026 10:46:00 +0530",
-    "timestamp": 1773983760.0,
-    "isoDate": "2026-03-20T05:16:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwgJpN_6bTBVT2q2xpQB_QFewyV2cp-Acaxnjpc4-KQKGpQZiz339xOYJ9ew_UlCgScvvWA940DyAf2E_HomGHQXljbHclluIiK57hJKo00KBdTXh8BeVi0toqDVevMaRY_fSlTzyYkkJjdKU0pA7iKX6_yTwsOveceby7OB08v9V2GAoasiLsl1Cu2DS/s1600/apple-logo.jpg"
   }
 ]
