@@ -1,5 +1,16 @@
 [
   {
+    "title": "A one-line Kubernetes fix that saved 600 hours a year",
+    "link": "https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/",
+    "summary": "When we investigated why our Atlantis instance took 30 minutes to restart, we discovered a bottleneck in how Kubernetes handles volume permissions. By adjusting the fsGroupChangePolicy, we reduced restart times to 30 seconds.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 26 Mar 2026 13:00:00 GMT",
+    "timestamp": 1774530000.0,
+    "isoDate": "2026-03-26T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Sandboxing AI agents, 100x faster",
     "link": "https://blog.cloudflare.com/dynamic-workers/",
     "summary": "We’re introducing Dynamic Workers, which allow you to execute AI-generated code in secure, lightweight isolates. This approach is 100 times faster than traditional containers, enabling millisecond startup times for AI agent sandboxing.",
@@ -240,17 +251,6 @@
     "timestamp": 1772690400.0,
     "isoDate": "2026-03-05T06:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1fjcFntrxlnhXae4vobf5f/3ca26869ad923a1384349805fb4b371e/image1.png"
-  },
-  {
-    "title": "A QUICker SASE client: re-building Proxy Mode",
-    "link": "https://blog.cloudflare.com/faster-sase-proxy-mode-quic/",
-    "summary": "By transitioning the Cloudflare One Client to use QUIC streams for Proxy Mode, we eliminated the overhead of user-space TCP stacks, resulting in a 2x increase in throughput and significant latency reduction for end users.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 05 Mar 2026 06:00:00 GMT",
-    "timestamp": 1772690400.0,
-    "isoDate": "2026-03-05T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/w9mIuKa8usLgxDxVqaHax/9861604fc84508b7fc6666bf8b82a874/image1.png"
   },
   {
     "title": "Building intelligent media supply chain automation using Amazon Bedrock AgentCore",
