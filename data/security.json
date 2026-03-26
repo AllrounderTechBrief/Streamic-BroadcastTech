@@ -1,5 +1,16 @@
 [
   {
+    "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
+    "link": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
+    "summary": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls. \"Instead of the usual HTTP requests or image beacons…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Mar 2026 12:23:00 +0530",
+    "timestamp": 1774507980.0,
+    "isoDate": "2026-03-26T06:53:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDIJhct-gQspWhgoCYGYYTokFv7FUIEMJqaILu_8IfMO3siPXFxR9g6eek-vKmgpFFO5QKCLBvl7pK8gFOGf8ZQuR6wVxOeBOxDm43bCBdmLDhPTyIGhoFssJGBUn9in_jfKwIvcyf9TERfomsZOjcPs4CKnYsYyW_jLaX3jbgm-LT4TORzq4g3ik0cB10/s1600/cards.jpg"
+  },
+  {
     "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
     "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
     "summary": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. According to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the…",
@@ -317,16 +328,5 @@
     "timestamp": 1774000800.0,
     "isoDate": "2026-03-20T10:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIq94dqdTz9Ic4q8eAt2c90zqmtdvYtzdDTv5UHg6On7d5AiYKyX4DbcskeTXNuT_ucj287szoc6-QWLMwboEKuRY_M7yeW9KstNR5irszE54SZvzHyFo7NBvpnhFW3zKZTMBhnP_aSG-AS7DMjvuRwp6X9_QbVhRyJD3sLIRp32No8X2RrMUp9ff-f_c/s1600/keeper.jpg"
-  },
-  {
-    "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover",
-    "link": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
-    "summary": "Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover. The vulnerability has been codenamed PolyShell b…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Mar 2026 15:00:00 +0530",
-    "timestamp": 1773999000.0,
-    "isoDate": "2026-03-20T09:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmvoo5bgNhw6SuInM6rRH_pdtYFmiDdMlG7hS2GdUJfwhXoOClt29lEpxaqI27b6XOOfX3eO8eHlUM0LA55P9U_HfWgVPyqDWMO01Chkp6aC-is0292EqVXPRjwesdZl9igZ0iD7NdoW8rQhKRVfF7s_I98a8r2YOk3-vjDMEz4eGGVXjmt-nUJpLpM4OL/s1600/mag.jpg"
   }
 ]
