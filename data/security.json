@@ -5,10 +5,43 @@
     "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a re…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Thu, 26 Mar 2026 16:37:00 +0530",
-    "timestamp": 1774523220.0,
-    "isoDate": "2026-03-26T11:07:00+00:00",
+    "timeAgo": "Thu, 26 Mar 2026 18:42:00 +0530",
+    "timestamp": 1774530720.0,
+    "isoDate": "2026-03-26T13:12:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCypzkb6uvHuNx6LKknUqtvQFoqsr6aalztDeBKT1aaUASzfjZMZAZqExx1k0w5iKWl08lx3MxbM_FwWxAvBdZODEerioaMp8OHVvhSjC8VL3uAW9_NMniMl_niggBVhVMdDFu2324YyhW5TrK4fua1PXlrb0DweOULvNgi5mlQUZUct_dIX3OePrfqks/s1600/validate.jpg"
+  },
+  {
+    "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
+    "link": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
+    "summary": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The flaw \"allowed any website to silently inje…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Mar 2026 18:41:00 +0530",
+    "timestamp": 1774530660.0,
+    "isoDate": "2026-03-26T13:11:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKbsVkCFVvziyQ564TDmmBjGzy6lzKUcC_rmt-GZWOiCshA_YGAhsMjib7OhvNS_8OX6micW6hWSY4lWh6IoGcyy_tCywr9Tr-qhyI4Wau32zV80zS3OJRVnbSZtHQqWO-RvoznJ34HjG6M5CDlKIXXTyAuZvVS235fZ9juweln5KS77w1w80Jk113rAW/s1600/claude.jpg"
+  },
+  {
+    "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
+    "link": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html",
+    "summary": "Unmasking impostors is something the art world has faced for decades, and there are valuable lessons from the works of Elmyr de Hory that can apply to the world of defensive cybersecurity. During the 1960s, de Hory gained infamy as a premie…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Mar 2026 17:28:00 +0530",
+    "timestamp": 1774526280.0,
+    "isoDate": "2026-03-26T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYccGrhSqLyV14fb0UKZKIns-G-9cU181ytP5rPJvhMDJLPbmBBgiTIBALloFdEy_87wloWgNeE3zCfQEYoS7uPOLec7Uk40LT9KFOiov2psTWX4XIabr-UJql5ILHDQn0o8Tc8H7PwJSF9y8Yh3hR_iolMcCXBpGxgcwFtPAbYDtzXo26DZspMORcKs/s1600/core.jpg"
+  },
+  {
+    "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
+    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
+    "summary": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn’t even be touching. There’s a l…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Mar 2026 17:15:00 +0530",
+    "timestamp": 1774525500.0,
+    "isoDate": "2026-03-26T11:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOuz5FhCwEEsebWV1fHdF2VE-lnNBee6FrzMYsTdEODBsw07F76vTo3-UJKUz7QENWIUU_J7IdNj2vlhZbbdL5Chz6Vt6SyEbIwH-vw3J76SlUT02eZwbGHG5egcJNFeaKBd3sdLrp7egajwLniaeBMwZdXAMv3la2Ywzxin4gLiZK6lHbdPSzUDFCuWHF/s1600/tday-main.jpg"
   },
   {
     "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
@@ -295,38 +328,5 @@
     "timestamp": 1774081500.0,
     "isoDate": "2026-03-21T08:25:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJqn31IC9aCQ9LMLCLRXgpwsa1gvtzXlYk20-1yRmCMYVM_MwGHedfSgbKl24yaeTx4fqRc4-vscge-d3P6sN8sErQBVGD0kgxMGzV-mDCI1wGFh87BB8me019zcennhvA6xyMHLnH9IKZ-txSWs9OwL5cGbg0X8sx_KZ2tj5A5awErRRRMbdSrw_cXs6a/s1600/npm-malware.jpg"
-  },
-  {
-    "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
-    "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch the…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 21 Mar 2026 13:55:00 +0530",
-    "timestamp": 1774081500.0,
-    "isoDate": "2026-03-21T08:25:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJQDea3eiUAONNSYkmQsjicwXBMSALOAUJi7yPHqOStd9N-KBADSGXjH5zJS66VPyzi7-w5ULK7Ax9qH66_Av9E3xIL8BB7sDKz9d-ZbmlyqeyfKyCUYBb15eOH5_keQQ-RUchVoh7NvguG3Ps8sau8Ik17QNOMVtmTkQEck9gao_1zcLPE8JE_qPvc4Q9/s1600/cisa-kev.jpg"
-  },
-  {
-    "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
-    "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
-    "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware capable of stealing sensitive CI/CD secrets. The latest incident impacted GitHub Act…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Mar 2026 23:17:00 +0530",
-    "timestamp": 1774028820.0,
-    "isoDate": "2026-03-20T17:47:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNf7vYlImTCJ7BCjYYEhoFZXTawhHcJJad9cFjQn98oQjaPY9HY6Qgpp6pAyqkq7CNHyVXI9fR8hcyVNlW_knYia3f0BhAlK7fZb2gplznk9v9QCFGKtIbMLTSu-erTslOxZCHd8jkJKXIcCYhK8QkKLuWjG8yxjhPBaEWUDzwY0sUkX5JvhBtzFxyfp_q/s1600/scan.jpg"
-  },
-  {
-    "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
-    "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
-    "summary": "A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabilities. The security defect, tracked as CV…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 20 Mar 2026 20:45:00 +0530",
-    "timestamp": 1774019700.0,
-    "isoDate": "2026-03-20T15:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2uKC6w30P_dGu6jY7cfDW9xY9ElBbdwmshMQwltpgGrYMyN9TOPaFRbeHh_KM9QUBB7g77BpRq559AtmaDLBFgbxMV_ctMYqQmlaKukZe-LaiyEY_S675PLWqSbGJnjh3_g59EhNTTgjMGxnk-YZjjzX6D7dXOiWklwr_tUnd5sMSp15Q6kKVtYJ4isnF/s1600/langflow.jpg"
   }
 ]
