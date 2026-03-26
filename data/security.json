@@ -1,5 +1,16 @@
 [
   {
+    "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
+    "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
+    "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintainin…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 26 Mar 2026 23:10:00 +0530",
+    "timestamp": 1774546800.0,
+    "isoDate": "2026-03-26T17:40:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsXRdaBMsOY-JUezvB02i5xzt_pSMJYGGGmt3ujh5C7VDZ7YLODicjiwDHF0vR9Y6P7XfPJJ-sIzu3aElQOfOExYn15O9tjCrOubY531cg1hKVN7U1aGCq5avhsEBdxu0qCTuwgXQEHS4mkHExgUQbsR8iU2CS7fBZAlTyXlD9o0hmU0oJ8jCip_fok4G/s1600/tower-hack.jpg"
+  },
+  {
     "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
     "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
     "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a re…",
@@ -44,7 +55,7 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOuz5FhCwEEsebWV1fHdF2VE-lnNBee6FrzMYsTdEODBsw07F76vTo3-UJKUz7QENWIUU_J7IdNj2vlhZbbdL5Chz6Vt6SyEbIwH-vw3J76SlUT02eZwbGHG5egcJNFeaKBd3sdLrp7egajwLniaeBMwZdXAMv3la2Ywzxin4gLiZK6lHbdPSzUDFCuWHF/s1600/tday-main.jpg"
   },
   {
-    "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
+    "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
     "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
     "summary": "The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according…",
     "source": "The Hacker News",
@@ -317,16 +328,5 @@
     "timestamp": 1774088640.0,
     "isoDate": "2026-03-21T10:24:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIh9aqIMPc6elNLcqZwmxGq0BHfA3NS2kkxawAr-H7SzPJKmvc7tXrykcm664TGFkJUIb_BmGpJV0CkEjIxVoRfTCrc8br5bi_TL93Nv_g7J_c9ccucZL4e55lp_zyywwBeAzDIoA1bnI95ELRLCbOyVf0WX0CGgGHLun2uQFKhqeMKf16nBOeJTO7O77/s1600/oracle-flaw-hack.jpg"
-  },
-  {
-    "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
-    "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-    "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-prop…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 21 Mar 2026 13:55:00 +0530",
-    "timestamp": 1774081500.0,
-    "isoDate": "2026-03-21T08:25:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJqn31IC9aCQ9LMLCLRXgpwsa1gvtzXlYk20-1yRmCMYVM_MwGHedfSgbKl24yaeTx4fqRc4-vscge-d3P6sN8sErQBVGD0kgxMGzV-mDCI1wGFh87BB8me019zcennhvA6xyMHLnH9IKZ-txSWs9OwL5cGbg0X8sx_KZ2tj5A5awErRRRMbdSrw_cXs6a/s1600/npm-malware.jpg"
   }
 ]
