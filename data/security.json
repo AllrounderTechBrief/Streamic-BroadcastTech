@@ -1,5 +1,16 @@
 [
   {
+    "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+    "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+    "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, publi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Mar 2026 22:23:00 +0530",
+    "timestamp": 1774630380.0,
+    "isoDate": "2026-03-27T16:53:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1CMUCCEUOX5JczcW-qUC2Bw8_3GmKNoLItyUq-AeuCUvFrJJL0t6aW5EhyJzNT5OyQJulbqwy847fK_EEBieTmTHEKn33suBcHss0AflwRWkPdmqT7FUbX5Rahkwz09g0Fw2GDZr00dAqHeEouzWvFVKMLgNshyO2HQ6QcD5qtbNu59djr1cdm0iV_ksj/s1600/wave.jpg"
+  },
+  {
     "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
     "link": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
     "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) extension to pass the vetting process and…",
@@ -317,16 +328,5 @@
     "timestamp": 1774271640.0,
     "isoDate": "2026-03-23T13:14:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe8A2RKkUN6BATGKH_48mi3J6DYVutxBllcmOiNl7N3xeqPx9sySaIFdxMxfIp5VQksSCBdRKtpNpiWUcTo5VNClmu6dbs6hoM9Ljx3QXAWEnAjKAG0Vc8JHLxGWfZkq3ORe4PgT-RgpBxhPnfMtr8UOhnjXToH-WOa6h3IVUM3HQqvgmWmMTPjKsqTkSN/s1600/recap-bl.jpg"
-  },
-  {
-    "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
-    "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
-    "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. That connectivity is what makes it powerfu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Mar 2026 17:25:00 +0530",
-    "timestamp": 1774266900.0,
-    "isoDate": "2026-03-23T11:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNP5vhVrLuEm9El_BgbLywUuexUg6KzaMreEfpqeSpQnonIKWfB4fcCX_bXrkxTwUoqXqxjrXZdZbppYseQBmTTSXeZT3PLsXoUIKdVUxawVdz4e33n_E6iPxNLCL3mAypW2di8w755oQGTcP1dFoBaOXV9D7LuASxn-43LJ1JCxtOtTFZ_qUsBzlY878/s1600/xmcyber.jpg"
   }
 ]
