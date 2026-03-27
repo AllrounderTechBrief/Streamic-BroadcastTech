@@ -1,5 +1,16 @@
 [
   {
+    "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
+    "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+    "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history. Both LangChain and LangG…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Mar 2026 13:37:00 +0530",
+    "timestamp": 1774598820.0,
+    "isoDate": "2026-03-27T08:07:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkhroYg33geYKogEf838RfX0FRNjBX23ucPFzrxtbtf2CyTxoGZZ4RbTArZX672fygWxhNN2MOX-SXaPzWJPOeRTrnLCzYzQZ2e-7HO98AIbj-wEXbrPWSwzIOW2NbNhpWfayHyPYHyJGTRxZmDCHhR_qk79vyb29q1_p-hBCWvY2GsAPu0296IOlq_uQv/s1600/langchain.jpg"
+  },
+  {
     "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
     "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
     "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintainin…",
@@ -317,16 +328,5 @@
     "timestamp": 1774099020.0,
     "isoDate": "2026-03-21T13:17:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMsZnvgdoACYJn8WjDy_Lpvpy1iqvGpj-vb4hYfYTLujLp_5dm8WZKjl64LYwY4-MON0-1k8-F2K3KDu0QG7isYjhaMvre0E0vrqJCSP49r2j374JPbV6WvkTG8lwqwrxquX-3xrReaA3G-NQGvskSnlOtM1XRj1J3MdPuCK9lXC6vf8ZkrCizN6ohcLC/s1600/signal-whatsapp.jpg"
-  },
-  {
-    "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
-    "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
-    "summary": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution. The vulnerability, tracked as CVE-2026-21992, carries a C…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 21 Mar 2026 15:54:00 +0530",
-    "timestamp": 1774088640.0,
-    "isoDate": "2026-03-21T10:24:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIh9aqIMPc6elNLcqZwmxGq0BHfA3NS2kkxawAr-H7SzPJKmvc7tXrykcm664TGFkJUIb_BmGpJV0CkEjIxVoRfTCrc8br5bi_TL93Nv_g7J_c9ccucZL4e55lp_zyywwBeAzDIoA1bnI95ELRLCbOyVf0WX0CGgGHLun2uQFKhqeMKf16nBOeJTO7O77/s1600/oracle-flaw-hack.jpg"
   }
 ]
