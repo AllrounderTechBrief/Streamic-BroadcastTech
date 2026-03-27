@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+    "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+    "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Mar 2026 22:52:00 +0530",
+    "timestamp": 1774632120.0,
+    "isoDate": "2026-03-27T17:22:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7dxzt-3rxkQ1A-6Sd9EzxINF3V70WAx4hsUUNPofdWcCO6hp0vEHavIsQsCUyXY7hOUOk7kDGIt2zN__gnigtzyYJyc31aiwpivHd4GEMPh0CHZHIBm58PtiyDXn7XNzI4hoZzmqVpErPty3VvEoyZCC4heyU0FE0uvM8_Ad_mWtXpSj5bcLIcTBwLNi/s1600/apple.jpg"
+  },
+  {
     "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
     "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
     "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, publi…",
@@ -317,16 +328,5 @@
     "timestamp": 1774289340.0,
     "isoDate": "2026-03-23T18:09:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYRIy7X7XvfWs__-DS2yjU2mg0-f4TxESTTQnzRIgLaWPDe3Oe_25A0_pi_XHxryaqyz4YBRzci03kVa5TgSstslqpZdhUwBniNuYvx8N4pEZEI4mHGmZuh1QmnlhRcBXWTWLttZkuVU7aFvOrNg8sp0ODl4-sDi0q3X3XzBbCD0ppjxYihFwMxuMSHf4/s1600/northkorean.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
-    "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories. This edition covers a mix of issues: supply chain attacks hitt…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Mar 2026 18:44:00 +0530",
-    "timestamp": 1774271640.0,
-    "isoDate": "2026-03-23T13:14:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe8A2RKkUN6BATGKH_48mi3J6DYVutxBllcmOiNl7N3xeqPx9sySaIFdxMxfIp5VQksSCBdRKtpNpiWUcTo5VNClmu6dbs6hoM9Ljx3QXAWEnAjKAG0Vc8JHLxGWfZkq3ORe4PgT-RgpBxhPnfMtr8UOhnjXToH-WOa6h3IVUM3HQqvgmWmMTPjKsqTkSN/s1600/recap-bl.jpg"
   }
 ]
