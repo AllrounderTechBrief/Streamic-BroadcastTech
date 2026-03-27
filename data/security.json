@@ -1,5 +1,16 @@
 [
   {
+    "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
+    "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
+    "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security. Business accounts associated with social media platforms are…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Mar 2026 17:33:00 +0530",
+    "timestamp": 1774612980.0,
+    "isoDate": "2026-03-27T12:03:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MSv7TxvzRXdcpb_tW0hSC0Jq5_7-VYEhbddL8im1K25nOcjSr0T3_Y2f9zG8Q9l7K3U_zOXBKWgnHAO9rWvYG9158OKLKcZif_lq7e5fpqwxrW3IdPWzgTko6ogQSQg77hmiWszgf3OOT7baBY8vI8XcPt0h8R_0p7oBX2WmVQUSgsJXfPQmCzOGTMX9/s1600/tiktok-b.jpg"
+  },
+  {
     "title": "We Are At War",
     "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
     "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admit it: we are in the middle of it. Introduction: One tech power to rule them all is a thing…",
@@ -11,7 +22,7 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaOP8SQvGcKjVqTcrOQdTQqpsDiPV47qdwzHqpxth6iyxLDSHoBNBKHVyh5LUzM1W2LdABzaDP6TjMektIuSiYhTXirHygMx_0Yh8dwpmREVfKUWPUiqRefYDptyZ3NG0Xa0X5aI6xJV0GsNoFM6Akna2z1pQ3Wre9V9aqjEpOwrn-tbkTiRaKFw3vE74/s1600/orange.jpg"
   },
   {
-    "title": "Bearlyfy Hits 70+ Russian Firms with Custom GenieLocker Ransomware",
+    "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
     "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
     "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware …",
     "source": "The Hacker News",
@@ -317,16 +328,5 @@
     "timestamp": 1774263300.0,
     "isoDate": "2026-03-23T10:55:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie9fqlMd4OuFVtXiIjViNTGyYhyol3qoSCp1VC7Au7Zp3ccwTT2YriDd5iWY7vc67FF0inmVd16ko0WfG3C57cyOs-I3RNaQXnk2eyfKefaJajCkfjvD1rfZp1hnOqyICcY5-dPdADaKq7bl74F4bocmJHp1W3sI6ZBGKIXiOI-phZVHwwyqtDQz1kNQty/s1600/irs.jpg"
-  },
-  {
-    "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
-    "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
-    "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments. The last known clean release of Trivy on …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Mar 2026 14:01:00 +0530",
-    "timestamp": 1774254660.0,
-    "isoDate": "2026-03-23T08:31:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tECPxIu-t1cl5YE211vm5q8dB99cO4mW6hbz0jCRbtDjalNgI7gX42M9MQAkty0IsWyxB3cJDMOpKbqQlLSKMnjbGaBOJHB9QslmSQB6-96o4RlaFLKuTHEAq8HpO-KbprLYPIjSR64H9twUcA-fuV0CrB2qw7RlzNWhQUHEmyKboascQm-Udl5GPdwA/s1600/docker.jpg"
   }
 ]
