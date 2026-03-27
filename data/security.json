@@ -1,5 +1,16 @@
 [
   {
+    "title": "Bearlyfy Hits 70+ Russian Firms with Custom GenieLocker Ransomware",
+    "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
+    "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Mar 2026 15:34:00 +0530",
+    "timestamp": 1774605840.0,
+    "isoDate": "2026-03-27T10:04:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJa_h_fZ55AqNWxz1cuJLjlOtmxDcBXqTxZ8URxFwRfQ1OsNpcQKZOafbe7MxL72WZ3c7ashklJn4nlUj6FD87PPAznL0bzBhlpRIpUTtHqluiAjZBZgMEPTvwPyBeSrsnrSTnmbuPTwpQQDl2xLHPpynscV2zy7sk_SMU3u_gNkbzAaoT16Lr8SZXQgJs/s1600/russian-ransomware.jpg"
+  },
+  {
     "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
     "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
     "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history. Both LangChain and LangG…",
@@ -317,16 +328,5 @@
     "timestamp": 1774246500.0,
     "isoDate": "2026-03-23T06:15:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTlyFHjxX97gPhHFjyvPGAPsLFbWQSHzAofYEPTsqZS1Xyc4KjjMDOqW-N7Iku9d1cuOJLI7EMdA-kA5X86I2neC5efkXETfsIVOZcIEVfLxWKFEnR3qXfgpLxXvG3ZKixxV_bmEDxXIN_65QzgRKguXIJkQhzY50ROEEV5irUXNeuekFatz88Yk_BONZ/s1600/kace.jpg"
-  },
-  {
-    "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
-    "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
-    "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high in…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 21 Mar 2026 18:47:00 +0530",
-    "timestamp": 1774099020.0,
-    "isoDate": "2026-03-21T13:17:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMsZnvgdoACYJn8WjDy_Lpvpy1iqvGpj-vb4hYfYTLujLp_5dm8WZKjl64LYwY4-MON0-1k8-F2K3KDu0QG7isYjhaMvre0E0vrqJCSP49r2j374JPbV6WvkTG8lwqwrxquX-3xrReaA3G-NQGvskSnlOtM1XRj1J3MdPuCK9lXC6vf8ZkrCizN6ohcLC/s1600/signal-whatsapp.jpg"
   }
 ]
