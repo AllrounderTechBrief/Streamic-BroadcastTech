@@ -1,5 +1,16 @@
 [
   {
+    "title": "We Are At War",
+    "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
+    "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admit it: we are in the middle of it. Introduction: One tech power to rule them all is a thing…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Mar 2026 16:30:00 +0530",
+    "timestamp": 1774609200.0,
+    "isoDate": "2026-03-27T11:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaOP8SQvGcKjVqTcrOQdTQqpsDiPV47qdwzHqpxth6iyxLDSHoBNBKHVyh5LUzM1W2LdABzaDP6TjMektIuSiYhTXirHygMx_0Yh8dwpmREVfKUWPUiqRefYDptyZ3NG0Xa0X5aI6xJV0GsNoFM6Akna2z1pQ3Wre9V9aqjEpOwrn-tbkTiRaKFw3vE74/s1600/orange.jpg"
+  },
+  {
     "title": "Bearlyfy Hits 70+ Russian Firms with Custom GenieLocker Ransomware",
     "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
     "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware …",
@@ -317,16 +328,5 @@
     "timestamp": 1774254660.0,
     "isoDate": "2026-03-23T08:31:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tECPxIu-t1cl5YE211vm5q8dB99cO4mW6hbz0jCRbtDjalNgI7gX42M9MQAkty0IsWyxB3cJDMOpKbqQlLSKMnjbGaBOJHB9QslmSQB6-96o4RlaFLKuTHEAq8HpO-KbprLYPIjSR64H9twUcA-fuV0CrB2qw7RlzNWhQUHEmyKboascQm-Udl5GPdwA/s1600/docker.jpg"
-  },
-  {
-    "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-    "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-    "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf. The cybersecurity company said it observed malicious activity starting the week…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Mar 2026 11:45:00 +0530",
-    "timestamp": 1774246500.0,
-    "isoDate": "2026-03-23T06:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTlyFHjxX97gPhHFjyvPGAPsLFbWQSHzAofYEPTsqZS1Xyc4KjjMDOqW-N7Iku9d1cuOJLI7EMdA-kA5X86I2neC5efkXETfsIVOZcIEVfLxWKFEnR3qXfgpLxXvG3ZKixxV_bmEDxXIN_65QzgRKguXIJkQhzY50ROEEV5irUXNeuekFatz88Yk_BONZ/s1600/kace.jpg"
   }
 ]
