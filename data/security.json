@@ -1,5 +1,16 @@
 [
   {
+    "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
+    "link": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
+    "summary": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet. Handala Hack…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 28 Mar 2026 21:10:00 +0530",
+    "timestamp": 1774712400.0,
+    "isoDate": "2026-03-28T15:40:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB5PedpQX_DQaCrJ76V6gQtAUKvDiV1udgR3vPrPp8k7dcP8jACbAPITTEwRpl7dS05Dz_hYFlt2v4H6KTukko0Sg8vRZpDGgWNbGzVqQDwcntdMVmhb3x5v0q3d0gRcbedgOxZLiVeiDCaxb8TNO8dEaE7Bn54TCqxKvbb7Ct_5Wxsxx5WSn2bqEIJqB4/s1600/iran-hacking.jpg"
+  },
+  {
     "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
     "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
     "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), ref…",
@@ -317,16 +328,5 @@
     "timestamp": 1774353600.0,
     "isoDate": "2026-03-24T12:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlh6CuYJhvsInqih03x9cvHFvmbF-F8DFJF_Y9VQMslT9g5yp_jhDewDUjcvUlAMzyKbfOHz0eMdFqHdIGwbtOY0MOHDGr_lA1TraO34SwYiKrieNnOQsAo5DbKhpJCp2X60_0epyBiBDs-KRgFjhR0QEPMmTRBCvJCiiQaJg7MaRCLf3EHcrIdluUrmJ-/s1600/1000062391.jpg"
-  },
-  {
-    "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
-    "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-    "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack. The workflows,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 24 Mar 2026 16:08:00 +0530",
-    "timestamp": 1774348680.0,
-    "isoDate": "2026-03-24T10:38:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs6mMRIch1O4gn0txxM6yMSRtvi7D0xmBbphFA0WJimqGO4k48KNvAbF_-an7swi-N0ZHOB2jt1WtJQjubozx7WzJH6Kr0CA0rCkP4TNUHR2NkC8NS6RaJDF9WUyZeyzUIG1NQtK_Betxs3h0gaxKqHMs7laaHTVXSiCMo-vbS_owFokGrDqN9NG7jdwRf/s1600/git-check.jpg"
   }
 ]
