@@ -1,14 +1,14 @@
 [
   {
-    "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-    "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-    "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidenc…",
+    "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+    "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+    "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), ref…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Sat, 28 Mar 2026 12:37:00 +0530",
-    "timestamp": 1774681620.0,
-    "isoDate": "2026-03-28T07:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAX955shB28AQ8BgXC9lMJBSEWWtw5FVp3L9rxuVnBSsDMpj5Ssjh7cqxd7eJI_bES6b82XDHvxrH0U_cyEXwbS05QkUbSDPzP8ZGcjy2QD2-gY9utPDfcJ6EBO-nk3VayGUBUnesxmmGOH-AanOtkxxhPGyZ-5azN_kzflpKoqfW7U2m35ookIyuEYvFo/s1600/iphone-exploit.jpg"
+    "timeAgo": "Sat, 28 Mar 2026 14:41:00 +0530",
+    "timestamp": 1774689060.0,
+    "isoDate": "2026-03-28T09:11:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwI3gfUe4wDxvIuUsVXUVcyiZ6TWg7HIh7UgKbWXN8e5p6VbJM5hHvR0gCKbVRD3tx311R5b9TWnt0OrLNfpoSBrP1tv06PBWrUXtwzAZAvHVHo8a1uZXzqZBDkpCeGgHWI9tRrk39_n_YZgO7CeX6MXHo4kFSu_lFd5ZmAuiTdrg-x8w0svB3lF-2U1LV/s1600/citrix-exploit.jpg"
   },
   {
     "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
@@ -20,6 +20,17 @@
     "timestamp": 1774681620.0,
     "isoDate": "2026-03-28T07:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCtHFfd9TZrhTa9APggVpivUkp_7HLw49145Q93B-76BiG0kkbGOPgViPII25Inn9b8710FjsB1sG716DO1Qh3ikSV88oqwdhSCJ7V2FTWgPq1xaA_UqMVwIEi4zmLnAmXQmbdG2fWAVBx6H_OiHqCOzghwBkuQYy4mYUCIdIyBi54ojbF3rc_OGIPlGc/s1600/f5.jpg"
+  },
+  {
+    "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+    "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+    "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidenc…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 28 Mar 2026 12:37:00 +0530",
+    "timestamp": 1774681620.0,
+    "isoDate": "2026-03-28T07:07:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAX955shB28AQ8BgXC9lMJBSEWWtw5FVp3L9rxuVnBSsDMpj5Ssjh7cqxd7eJI_bES6b82XDHvxrH0U_cyEXwbS05QkUbSDPzP8ZGcjy2QD2-gY9utPDfcJ6EBO-nk3VayGUBUnesxmmGOH-AanOtkxxhPGyZ-5azN_kzflpKoqfW7U2m35ookIyuEYvFo/s1600/iphone-exploit.jpg"
   },
   {
     "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
@@ -317,16 +328,5 @@
     "timestamp": 1774348680.0,
     "isoDate": "2026-03-24T10:38:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs6mMRIch1O4gn0txxM6yMSRtvi7D0xmBbphFA0WJimqGO4k48KNvAbF_-an7swi-N0ZHOB2jt1WtJQjubozx7WzJH6Kr0CA0rCkP4TNUHR2NkC8NS6RaJDF9WUyZeyzUIG1NQtK_Betxs3h0gaxKqHMs7laaHTVXSiCMo-vbS_owFokGrDqN9NG7jdwRf/s1600/git-check.jpg"
-  },
-  {
-    "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
-    "link": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
-    "summary": "A 26-year-old Russian citizen has been sentenced in the U.S. to 6.75 years (81 months) in prison for his role in assisting major cybercrime groups, including the Yanluowang ransomware crew, in conducting numerous attacks against U.S. compan…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 24 Mar 2026 12:19:00 +0530",
-    "timestamp": 1774334940.0,
-    "isoDate": "2026-03-24T06:49:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVfjLGmDd5Mnjn0nKObBSns5Fi2_bm8nQV7byjMhN5C_mXRVoFHmNnjgUwsinDvclp6VzhMKGYrouaba9qJ45z-C-1K4eapplr_lstzTO9Q4edC5rj8Yh1A8gYk-AhgEnhJIAuFuXV-85r83BJHR-Lopyv1l1w3yb-9Qt3ws11HzPpRJZLv6aaT0kqQRrW/s1600/ransomware.jpg"
   }
 ]
