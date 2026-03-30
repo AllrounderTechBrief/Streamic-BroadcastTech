@@ -1,5 +1,38 @@
 [
   {
+    "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
+    "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
+    "summary": "Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defe…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 30 Mar 2026 19:26:00 +0530",
+    "timestamp": 1774878960.0,
+    "isoDate": "2026-03-30T13:56:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2e5F9xrNGflqGG3Z7UcoPHMKZnF1j1FJBpwnPfV0MBCUweDKegb97Kcry4OK2kQgx0bQ91Lhem0BdasOpiN9UoKz7rNTAVgBuJzbM9jCaF4APqUsXlkiZfbC35xNWAd0z7T0qZoTN3GdVW9exy7BcEIjV64hinG5pxmbX69KdF_u7qXUpuEZZX_R8vaMP/s1600/recapss.jpg"
+  },
+  {
+    "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
+    "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
+    "summary": "What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 30 Mar 2026 18:30:00 +0530",
+    "timestamp": 1774875600.0,
+    "isoDate": "2026-03-30T13:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFh5EaxE3C26MNKxziPoKvAK16f1ctGNYf_S1E7IY1tfyazizZwtmHaqHaTHSqBwWAMtENhtk5K1GzWLRln80K-vm2S9lkVeE3tpfQeVTaptm_T8kNoeCFLDbJLKMwqNsmD9y2iUDnLUJw4b6BQpST8M5h3dk7yRGyBcrl29nD8rw045i5roI91mRrEQs/s1600/soc.jpg"
+  },
+  {
+    "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+    "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+    "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. The CTRL toolkit, according to Censys, is custom-bu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 30 Mar 2026 17:48:00 +0530",
+    "timestamp": 1774873080.0,
+    "isoDate": "2026-03-30T12:18:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05CEOtp0cIlsi1qDK4HRH2PPOFyvB5jca65pAQVsnCfBHZ-wRGt0s8VhvzO_l-4Q9H_xGKQsO_efVGzJ46ElLQNaq_FEp6wPUou4aqTvEKMPlEEGOTyEtISTj0VkC5QmO38HuxWehNDTUkdvCVCCp-GrIPWJyFt4dTLp1TIbqW8hAiVEJ-vxnoKUexR6-/s1600/ctrl-ctrl.jpg"
+  },
+  {
     "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
     "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
     "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcod…",
@@ -9,17 +42,6 @@
     "timestamp": 1774870200.0,
     "isoDate": "2026-03-30T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4tVpFBDvdU-vz8vM1T6SJZwd3AiySFqEyonUutxGPNimXEqTVOKN-pCI_lF5Ti2GngFUPtEphVI4Qep03CBciF7NhaWEIKYdDfkVY-VleTTcqYJvcMTKrd-EJ4kh2zLk3cY7pqqxI7bfEghuxGAV7lwUPjTD6nTa5dKj5e8_RJD9UjHn12015puG8P4o/s1600/key.gif"
-  },
-  {
-    "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
-    "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
-    "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. The CTRL toolkit, according to Censys, is custom-bu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 30 Mar 2026 15:28:00 +0530",
-    "timestamp": 1774864680.0,
-    "isoDate": "2026-03-30T09:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05CEOtp0cIlsi1qDK4HRH2PPOFyvB5jca65pAQVsnCfBHZ-wRGt0s8VhvzO_l-4Q9H_xGKQsO_efVGzJ46ElLQNaq_FEp6wPUou4aqTvEKMPlEEGOTyEtISTj0VkC5QmO38HuxWehNDTUkdvCVCCp-GrIPWJyFt4dTLp1TIbqW8hAiVEJ-vxnoKUexR6-/s1600/ctrl-ctrl.jpg"
   },
   {
     "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
@@ -306,27 +328,5 @@
     "timestamp": 1774376460.0,
     "isoDate": "2026-03-24T18:21:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj52VkG6lfgHeRYSGJwB7xAkCm5_4uKyAUtZ3NiyGrlOTFU_zejzA3uU0HPKiFCCvp1PSXhtiSqTROkqIvJ3kur9VTYMRRQRV4M9_0p2PVw28DxOUbH_3CnZBgsLtiv3_0BBmyP792ONBzcl_yEwteI6uQ2GkLkj59el1hZwmHJEyZLo5wwLgbr5rEDi-r6/s1600/litellm.jpg"
-  },
-  {
-    "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
-    "link": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
-    "summary": "A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents to serve rogue installers for ConnectWise ScreenConnect that drop a tool named HwAudKiller …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 24 Mar 2026 22:35:00 +0530",
-    "timestamp": 1774371900.0,
-    "isoDate": "2026-03-24T17:05:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHstwfvuhTqeOC7VWnSCBcxuxkGXQo_98_9hK16L_vSpzSRSYHXlBOeg2O61FYeF2rcfwnXFxzQHEkDyXYB6C_GtMIB-qEfIM_K3vMu-C_OHBNk5eOdwofhao0How3UZLVM1bQ4R5MzrGMSpIk74c_b0UI8ri7Itube7MGnrwEEoEHy-kOq1unklYy9zR5/s1600/tax-docs.jpg"
-  },
-  {
-    "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
-    "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
-    "summary": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, “a Market Guide defines a market …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 24 Mar 2026 22:06:05 +0530",
-    "timestamp": 1774370165.0,
-    "isoDate": "2026-03-24T16:36:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNlBFOfxbwROPKI6W1sccbKKW4Dx3IGIQi1AnDrQqKxY1xaVxZv9gip61deVh8UNN1xLX6l3fOEm8pKGrHLSddhT8WS7w70a5FDT3eyew3xxDjCOC8QCYK7hERW2ILTYMfS9Giq4asN2G4SvYITRiVeqlZcN53LG8OG7hkQ5C6J8bAVokCe0a0oBkuNMlS/s1600/Cover-v1.gif"
   }
 ]
