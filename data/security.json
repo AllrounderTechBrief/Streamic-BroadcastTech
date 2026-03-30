@@ -1,5 +1,16 @@
 [
   {
+    "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
+    "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
+    "summary": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point. \"A single malicious prompt could turn an otherwise ord…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 30 Mar 2026 23:35:00 +0530",
+    "timestamp": 1774893900.0,
+    "isoDate": "2026-03-30T18:05:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSleuSc-PdTH7u0CSOLasljqQ-HO4A5sIqzvVeeVlGlqynCVYSdgU1c-7zoVavi1OADQiN3-_KS93PbMbmc4daNULqCXV21ChjnRUvqXIPT9mnLRCmbHdVy0YeaMnRuzGBAo8JoJPE5Wnzl3Sf0b_3d1-OV6VB3PKhKy_olGs9mi1YLIOJnAl7uQkYkdjI/s1600/cpr.jpg"
+  },
+  {
     "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
     "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
     "summary": "A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad. \"It likely uses AI-assisted obfuscation and process injection to evade static scann…",
@@ -317,16 +328,5 @@
     "timestamp": 1774438440.0,
     "isoDate": "2026-03-25T11:34:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifvDHwUAT0Y5sILbpMYi15pftc8kD-oPKrtaUucJ0PLeFRnxKsA14uMC3zCpTPZwj0w7GBTqFQCMfmwzzy_tv-RYTVBijk_x2KWzKkS68n9QfolIhr2B3rSMTGJWg3qt9ZbTYWDiyHmKNT6yD47XPMyS2aj8DF_lyKGKKGWfIsohBlWJvjS_Z3j_XqMZQ/s1600/ms-phish-kit.jpg"
-  },
-  {
-    "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
-    "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
-    "summary": "The U.S. Federal Communications Commission (FCC) said on Monday that it was banning the import of new, foreign-made consumer routers, citing \"unacceptable\" risks to cyber and national security. The action was designed to safeguard Americans…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 25 Mar 2026 12:41:00 +0530",
-    "timestamp": 1774422660.0,
-    "isoDate": "2026-03-25T07:11:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWdGgQ4RKWsSD83uBmdU0Vfi3E1vEi1qS7ImOYUXa9S6eDs5ShKP0tz3sZL5FPdt6lzwG4scb7HQPjGnsdPDFNWxZ2k8yK-whH4uU9_Ez3Nt5178ETgKceu4LpAPntUZZ7utBkHBd261B5Ltt2weQVT94qjY4wcRRGfSpv1sAZLjAVDc_oSNMPiISo4dU/s1600/routers.jpg"
   }
 ]
