@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cloudflare Client-Side Security: smarter detection, now open to everyone",
+    "link": "https://blog.cloudflare.com/client-side-security-open-to-everyone/",
+    "summary": "We are opening our advanced Client-Side Security tools to all users, featuring a new cascading AI detection system. By combining graph neural networks and LLMs, we've reduced false positives by up to 200x while catching sophisticated zero-d…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 30 Mar 2026 06:00:00 GMT",
+    "timestamp": 1774850400.0,
+    "isoDate": "2026-03-30T06:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/438frLuYPU51j0uhtM5foj/10c53b3b3ccc84b00c754c872ad20492/image3.png"
+  },
+  {
     "title": "How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams",
     "link": "https://blog.cloudflare.com/workflow-diagrams/",
     "summary": "Workflows are now visualized via step diagrams in the dashboard. Here’s how we translate your TypeScript code into a visual representation of the workflow.",
@@ -240,17 +251,6 @@
     "timestamp": 1772805600.0,
     "isoDate": "2026-03-06T14:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/tkgCxY8qze9SeHupiYfPR/1563abb3c0386941ef461c3ffed018f0/log-details.png"
-  },
-  {
-    "title": "Ending the \"silent drop\": how Dynamic Path MTU Discovery makes the Cloudflare One Client more resilient",
-    "link": "https://blog.cloudflare.com/client-dynamic-path-mtu-discovery/",
-    "summary": "The Cloudflare One Client now features the ability to actively probe and adjust packet sizes. This update eliminates the problems caused by tunnel layering and MTU differences, providing more stability and resiliency.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 05 Mar 2026 14:00:00 GMT",
-    "timestamp": 1772719200.0,
-    "isoDate": "2026-03-05T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/N8nwoU8QnWvDeM0yymBX0/2482b85f8ebade81520fdd950f968341/image2.png"
   },
   {
     "title": "Building intelligent media supply chain automation using Amazon Bedrock AgentCore",
