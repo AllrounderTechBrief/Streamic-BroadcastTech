@@ -1,5 +1,16 @@
 [
   {
+    "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+    "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+    "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos. The vulnerability in quest…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 31 Mar 2026 21:33:00 +0530",
+    "timestamp": 1774972980.0,
+    "isoDate": "2026-03-31T16:03:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYf7jS0dDRAhfWGLbRiA4eQt-Q3BL8gcG_bDoNQ1dfcZt3Ike4qAlE9lUiSH__y3kdi-MI2kfu-O-PdDf6iCov7VIVBPEkRVJOhx88uNgXTuI-rztvbwFXE9BKwJEsNSKux0yynwxlsDMCzCwyngLOSxWTAZjDFYKvpjyEsnPbRYbGtmC6zGmrMpP-SnqA/s1600/trueconf.jpg"
+  },
+  {
     "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
     "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
     "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and com…",
@@ -317,16 +328,5 @@
     "timestamp": 1774507980.0,
     "isoDate": "2026-03-26T06:53:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDIJhct-gQspWhgoCYGYYTokFv7FUIEMJqaILu_8IfMO3siPXFxR9g6eek-vKmgpFFO5QKCLBvl7pK8gFOGf8ZQuR6wVxOeBOxDm43bCBdmLDhPTyIGhoFssJGBUn9in_jfKwIvcyf9TERfomsZOjcPs4CKnYsYyW_jLaX3jbgm-LT4TORzq4g3ik0cB10/s1600/cards.jpg"
-  },
-  {
-    "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
-    "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
-    "summary": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. According to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 25 Mar 2026 23:05:00 +0530",
-    "timestamp": 1774460100.0,
-    "isoDate": "2026-03-25T17:35:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9UqvCgUXI-P9n0pHIj0a2d6gtlUe5ioSOzReAYnBthLWrwGhD0B9EKIlrrhiA8gsF61npoVKP8y1HftTKWD9xgTg0qBOHw2N3qn0Gak0BUAV9Jt2s8BmhzR9cLjOE5ynzKm8obB3G-fECJQ3bN1G8GVv2wgyKkLZ5JpYQKUyuVtTa2z27pHL9IN-th1k/s1600/leakbase.jpg"
   }
 ]
