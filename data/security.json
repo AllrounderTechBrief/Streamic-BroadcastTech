@@ -1,5 +1,16 @@
 [
   {
+    "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+    "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+    "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-j…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 31 Mar 2026 11:38:00 +0530",
+    "timestamp": 1774937280.0,
+    "isoDate": "2026-03-31T06:08:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdY8iKA7o-K-4HkIjPMiBRWAn5vCvSNDu1sm09t10vWMzXO6cIblLHQyu1no-KBhq4W7EWS03zqvI4n_k9mYWCDsCVoiX4cwsV9T862WTq1yGb6VkX1ZGTa7MKZE43llbF9n2Py1mC2yhCIfRlXGkvya_NQ9lX7vZ32YW8pHZlw1dPZcI9eCrgysiWqSSR/s1600/Axios-attack.jpg"
+  },
+  {
     "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
     "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
     "summary": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point. \"A single malicious prompt could turn an otherwise ord…",
@@ -317,16 +328,5 @@
     "timestamp": 1774439520.0,
     "isoDate": "2026-03-25T11:52:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSFQsR3JgSCA44WGyYmcmFuACIlDkUDxOnRar3b3B-JHXTZq_dxARV6GEM5gvclJQktlfwnU88fV1Gzcr3HO7EJHoeE5kYA262Vv0SlCB6XPuyAiTSas8Iw0Ca5QkvnGaduv0Dt9euHjKn6A6lYWAHkpXPjbBRdmV1piwxsILM8wcfgT6mjtgQeEB4BUk/s1600/ransomware-russia.jpg"
-  },
-  {
-    "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
-    "link": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
-    "summary": "Cybersecurity researchers are calling attention to an active device code phishing campaign that's targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Australia, New Zealand, and Germany. The activity, …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 25 Mar 2026 17:04:00 +0530",
-    "timestamp": 1774438440.0,
-    "isoDate": "2026-03-25T11:34:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifvDHwUAT0Y5sILbpMYi15pftc8kD-oPKrtaUucJ0PLeFRnxKsA14uMC3zCpTPZwj0w7GBTqFQCMfmwzzy_tv-RYTVBijk_x2KWzKkS68n9QfolIhr2B3rSMTGJWg3qt9ZbTYWDiyHmKNT6yD47XPMyS2aj8DF_lyKGKKGWfIsohBlWJvjS_Z3j_XqMZQ/s1600/ms-phish-kit.jpg"
   }
 ]
