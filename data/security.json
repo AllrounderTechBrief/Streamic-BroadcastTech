@@ -1,5 +1,16 @@
 [
   {
+    "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
+    "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
+    "summary": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The development comes ahead of a planned verif…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 31 Mar 2026 23:58:00 +0530",
+    "timestamp": 1774981680.0,
+    "isoDate": "2026-03-31T18:28:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVNIw-uYi9MySm3LytKQD-PQgAh4NdQleZDyr_EC4zBRuNzOf2qjlvwgPMg8qsq1sopzgKv1gOlJuQCEs9dq8jwQVdonLibQPm_hJX8ZzOwfgyF6cuoixyotcpY-CvQp3E8fBAzqDRbWmfaCzuc96CH5FwzH7FJaaiVgYjgoC-x6RZOlgfHxFuwqQeq7G/s1600/android-dev.jpg"
+  },
+  {
     "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
     "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
     "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos. The vulnerability in quest…",
@@ -317,16 +328,5 @@
     "timestamp": 1774523220.0,
     "isoDate": "2026-03-26T11:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfaEjph6_gMDAtZu968xynsgU3AggksTWUUL37NpNq6eQdTXMgQcv4JLSpNNMHSFGkKoHV6K7vmqLZ7bXIkXrHB5jF98F_sN48HDQo0nligJdOjeJ5lOzlUFrVzCKwt2MZDSsOVdfmCAaJV5ofwJN_5yIpTSpAFaZ9GrrytaoivkIr27YA0xqj1DzmbPx/s1600/coruna.jpg"
-  },
-  {
-    "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
-    "link": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
-    "summary": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls. \"Instead of the usual HTTP requests or image beacons…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Mar 2026 12:23:00 +0530",
-    "timestamp": 1774507980.0,
-    "isoDate": "2026-03-26T06:53:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDIJhct-gQspWhgoCYGYYTokFv7FUIEMJqaILu_8IfMO3siPXFxR9g6eek-vKmgpFFO5QKCLBvl7pK8gFOGf8ZQuR6wVxOeBOxDm43bCBdmLDhPTyIGhoFssJGBUn9in_jfKwIvcyf9TERfomsZOjcPs4CKnYsYyW_jLaX3jbgm-LT4TORzq4g3ik0cB10/s1600/cards.jpg"
   }
 ]
