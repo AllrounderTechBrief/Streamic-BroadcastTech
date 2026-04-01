@@ -1,5 +1,16 @@
 [
   {
+    "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
+    "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
+    "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. \"We have attributed the attack to a suspected North Korean threa…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Apr 2026 13:14:00 +0530",
+    "timestamp": 1775029440.0,
+    "isoDate": "2026-04-01T07:44:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4u0-_Mq5eI-6nWqV9d-E4BTvsdeDTEcK8Bo7pHnANyD6m8b8d5dPcx86sb1P-PjfLce84hgNF8ja8y2tvnYjlmvE4VGzyvAyGqd6TGOxYei3Oz-F_IvVEDxAvamRe4acysr0FqtfWgbLbDhBQxy6ovy2_V47P2d-1qDZig0pcPPnxTCEGfTzKnUXnJEgU/s1600/axios-northkorea.jpg"
+  },
+  {
     "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
     "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
     "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or …",
@@ -317,16 +328,5 @@
     "timestamp": 1774526280.0,
     "isoDate": "2026-03-26T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYccGrhSqLyV14fb0UKZKIns-G-9cU181ytP5rPJvhMDJLPbmBBgiTIBALloFdEy_87wloWgNeE3zCfQEYoS7uPOLec7Uk40LT9KFOiov2psTWX4XIabr-UJql5ILHDQn0o8Tc8H7PwJSF9y8Yh3hR_iolMcCXBpGxgcwFtPAbYDtzXo26DZspMORcKs/s1600/core.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
-    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
-    "summary": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn’t even be touching. There’s a l…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Mar 2026 17:15:00 +0530",
-    "timestamp": 1774525500.0,
-    "isoDate": "2026-03-26T11:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOuz5FhCwEEsebWV1fHdF2VE-lnNBee6FrzMYsTdEODBsw07F76vTo3-UJKUz7QENWIUU_J7IdNj2vlhZbbdL5Chz6Vt6SyEbIwH-vw3J76SlUT02eZwbGHG5egcJNFeaKBd3sdLrp7egajwLniaeBMwZdXAMv3la2Ywzxin4gLiZK6lHbdPSzUDFCuWHF/s1600/tday-main.jpg"
   }
 ]
