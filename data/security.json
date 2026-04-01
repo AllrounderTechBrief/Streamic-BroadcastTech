@@ -1,5 +1,16 @@
 [
   {
+    "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+    "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+    "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Apr 2026 11:42:00 +0530",
+    "timestamp": 1775023920.0,
+    "isoDate": "2026-04-01T06:12:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39e4BXzk1M6BK7XEJcfogVbdwnYJjie08kNTAeW5T46Tn8UvbbaYGrrEpgw1Pa4IpJYeGe8AR7T_UCp4_vWYTcG-c5DY0HNlHW-8SbYkscVvjAKjKR3gHmlWAQONEx8kg_ANVfOr8OsQ7uTm-XWHW1PNfusxBj-Tn2kn-V2EedPykA3ESB66doPXxGzT8/s1600/claude-code.jpg"
+  },
+  {
     "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
     "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
     "summary": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The development comes ahead of a planned verif…",
@@ -317,16 +328,5 @@
     "timestamp": 1774525500.0,
     "isoDate": "2026-03-26T11:45:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOuz5FhCwEEsebWV1fHdF2VE-lnNBee6FrzMYsTdEODBsw07F76vTo3-UJKUz7QENWIUU_J7IdNj2vlhZbbdL5Chz6Vt6SyEbIwH-vw3J76SlUT02eZwbGHG5egcJNFeaKBd3sdLrp7egajwLniaeBMwZdXAMv3la2Ywzxin4gLiZK6lHbdPSzUDFCuWHF/s1600/tday-main.jpg"
-  },
-  {
-    "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
-    "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
-    "summary": "The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Mar 2026 16:37:00 +0530",
-    "timestamp": 1774523220.0,
-    "isoDate": "2026-03-26T11:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfaEjph6_gMDAtZu968xynsgU3AggksTWUUL37NpNq6eQdTXMgQcv4JLSpNNMHSFGkKoHV6K7vmqLZ7bXIkXrHB5jF98F_sN48HDQo0nligJdOjeJ5lOzlUFrVzCKwt2MZDSsOVdfmCAaJV5ofwJN_5yIpTSpAFaZ9GrrytaoivkIr27YA0xqj1DzmbPx/s1600/coruna.jpg"
   }
 ]
