@@ -1,5 +1,16 @@
 [
   {
+    "title": "March of the Harmattan",
+    "link": "https://science.nasa.gov/earth/earth-observatory/march-of-the-harmattan/",
+    "summary": "Strong winds in March 2026 carried Saharan dust across northwestern Africa and toward the Canary Islands, reducing visibility and prompting alerts.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 01 Apr 2026 04:00:00 +0000",
+    "timestamp": 1775016000.0,
+    "isoDate": "2026-04-01T04:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/march-of-the-harmattan/haboob_tmo_20260330.jpg"
+  },
+  {
     "title": "WCIV Meteorologist Stepping Down After 22 Years On TV",
     "link": "https://newsblues.com/2026/03/31/tv-meteorologist-stepping-aside-after-22-years-on-tv/",
     "summary": "The post WCIV Meteorologist Stepping Down After 22 Years On TV appeared first on TV News Check.",
@@ -427,17 +438,6 @@
     "timestamp": 1774636360.0,
     "isoDate": "2026-03-27T18:32:40+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26672/PIA26672-NISAR%20Views%20Mount%20Ranier.jpg?w=1932&h=1476&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "NISAR Views Mount St. Helens",
-    "link": "https://science.nasa.gov/photojournal/nisar-views-mount-st-helens/",
-    "summary": "Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington’s Mount St. Helens. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR’s L-band SAR ins…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 27 Mar 2026 18:29:54 +0000",
-    "timestamp": 1774636194.0,
-    "isoDate": "2026-03-27T18:29:54+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26692/PIA26692-NISAR%20Views%20Mount%20St.%20Helens.jpg?w=8192&h=6258&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "How Ross Video’s production-as-a-service helps sports venues deliver on the biggest stages",
