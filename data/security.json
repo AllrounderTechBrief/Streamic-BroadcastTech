@@ -1,5 +1,49 @@
 [
   {
+    "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+    "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+    "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn’t build. It doesn’t enable. Its entire function is to say \"No.\" No to ChatGPT. No to DeepSeek. No to the file-sh…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Apr 2026 18:16:00 +0530",
+    "timestamp": 1775047560.0,
+    "isoDate": "2026-04-01T12:46:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvlo2Z4APlfxw_Y81FpX62ySlxihctfAGwiT0WYd1bPrdk5sMFO8w7__xRzVqn9vYqFpE4TSS80iuNQZ9SgcR4Hz8f6WYFhD5OaoRmY-sD20cYox6Tx-_xbhiawEh0cy3YNvv9iD75BIsW5NNA8tafY4inhGtFBer5pan0xjr-vyLZmHyIFHc-LaTNcMZC/s1600/red.jpg"
+  },
+  {
+    "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+    "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+    "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot. The activity has b…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Apr 2026 18:06:00 +0530",
+    "timestamp": 1775046960.0,
+    "isoDate": "2026-04-01T12:36:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpJd0tgZX0EzqjxkNOrJsyGRUV4N21qsJC30j2VYYargUXl2tPz_BidXWWmAG9Wfb5f683WOOle2CElerewagtzAAI8sbcJ9XrCbtgcSRtWF-itSYXH4hbTKvOIrjW9PKSgqi00rOrFCHRWzkWaWmP0qPH0vjrJ2LbbcXgl9aQv3n3tzcT45pdSPMcP54S/s1600/pdf-malware.jpg"
+  },
+  {
+    "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+    "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+    "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Apr 2026 17:19:00 +0530",
+    "timestamp": 1775044140.0,
+    "isoDate": "2026-04-01T11:49:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq1lOqG2e9eetuSt3ne59NkxH-r0lCjnTmodLlbXt29w5AH_utoClwW1RfvpY5rC7vqb1rVBR4ApELx1ROFvmuMpPpk_9R7tshflL0WwPRuD25vu1gzaFuuldwTzAbcb1m7y7TBsTLr863BQhLHdJGwRUmVzuLayR1gTnkmG_XCraID8EuzUzeeVLtgp7p/s1600/whatsapp-exploit.jpg"
+  },
+  {
+    "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
+    "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+    "summary": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild. The high-severity vulnerability, CVE-2026-5281 (CVSS score: N/A), …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Apr 2026 17:12:00 +0530",
+    "timestamp": 1775043720.0,
+    "isoDate": "2026-04-01T11:42:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyWMOJn1hR_Pua9p7XXWPbTqgrYvXyaNEXlnlLUQ0duD4P-W9fGyvbuprkiN0IMEE5_2vzt5mc603V4l_G5eH5KpKFgmk-lARuEXxcQVIgCNb-NPJghF3wvF9Wf8mF3kEJUY0TA6a3aBDw87MC9RivwM9ZVRfLRpwwNqaP67cU8nvtO8RKGsi5OsFIgSVn/s1600/chrome-exploit.jpg"
+  },
+  {
     "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
     "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
     "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s already inside your environment, including…",
@@ -284,49 +328,5 @@
     "timestamp": 1774605840.0,
     "isoDate": "2026-03-27T10:04:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJa_h_fZ55AqNWxz1cuJLjlOtmxDcBXqTxZ8URxFwRfQ1OsNpcQKZOafbe7MxL72WZ3c7ashklJn4nlUj6FD87PPAznL0bzBhlpRIpUTtHqluiAjZBZgMEPTvwPyBeSrsnrSTnmbuPTwpQQDl2xLHPpynscV2zy7sk_SMU3u_gNkbzAaoT16Lr8SZXQgJs/s1600/russian-ransomware.jpg"
-  },
-  {
-    "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-    "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-    "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history. Both LangChain and LangG…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 27 Mar 2026 13:37:00 +0530",
-    "timestamp": 1774598820.0,
-    "isoDate": "2026-03-27T08:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkhroYg33geYKogEf838RfX0FRNjBX23ucPFzrxtbtf2CyTxoGZZ4RbTArZX672fygWxhNN2MOX-SXaPzWJPOeRTrnLCzYzQZ2e-7HO98AIbj-wEXbrPWSwzIOW2NbNhpWfayHyPYHyJGTRxZmDCHhR_qk79vyb29q1_p-hBCWvY2GsAPu0296IOlq_uQv/s1600/langchain.jpg"
-  },
-  {
-    "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
-    "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
-    "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintainin…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Mar 2026 23:10:00 +0530",
-    "timestamp": 1774546800.0,
-    "isoDate": "2026-03-26T17:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsXRdaBMsOY-JUezvB02i5xzt_pSMJYGGGmt3ujh5C7VDZ7YLODicjiwDHF0vR9Y6P7XfPJJ-sIzu3aElQOfOExYn15O9tjCrOubY531cg1hKVN7U1aGCq5avhsEBdxu0qCTuwgXQEHS4mkHExgUQbsR8iU2CS7fBZAlTyXlD9o0hmU0oJ8jCip_fok4G/s1600/tower-hack.jpg"
-  },
-  {
-    "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
-    "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
-    "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a re…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Mar 2026 18:42:00 +0530",
-    "timestamp": 1774530720.0,
-    "isoDate": "2026-03-26T13:12:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCypzkb6uvHuNx6LKknUqtvQFoqsr6aalztDeBKT1aaUASzfjZMZAZqExx1k0w5iKWl08lx3MxbM_FwWxAvBdZODEerioaMp8OHVvhSjC8VL3uAW9_NMniMl_niggBVhVMdDFu2324YyhW5TrK4fua1PXlrb0DweOULvNgi5mlQUZUct_dIX3OePrfqks/s1600/validate.jpg"
-  },
-  {
-    "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
-    "link": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
-    "summary": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The flaw \"allowed any website to silently inje…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Mar 2026 18:41:00 +0530",
-    "timestamp": 1774530660.0,
-    "isoDate": "2026-03-26T13:11:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKbsVkCFVvziyQ564TDmmBjGzy6lzKUcC_rmt-GZWOiCshA_YGAhsMjib7OhvNS_8OX6micW6hWSY4lWh6IoGcyy_tCywr9Tr-qhyI4Wau32zV80zS3OJRVnbSZtHQqWO-RvoznJ34HjG6M5CDlKIXXTyAuZvVS235fZ9juweln5KS77w1w80Jk113rAW/s1600/claude.jpg"
   }
 ]

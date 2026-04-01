@@ -1,5 +1,27 @@
 [
   {
+    "title": "Live streaming localization and accessibility using AWS Media Services",
+    "link": "https://aws.amazon.com/blogs/media/live-streaming-localization-and-accessibility-using-aws-media-services/",
+    "summary": "This blog post provides a comprehensive overview of current streaming technology for localization and accessibility. It helps you evaluate live streaming localization technology and choose cost-effective, proven, integrated, deployable, and…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 01 Apr 2026 13:11:30 +0000",
+    "timestamp": 1775049090.0,
+    "isoDate": "2026-04-01T13:11:30+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
+  },
+  {
+    "title": "Our ongoing commitment to privacy for the 1.1.1.1 public DNS resolver",
+    "link": "https://blog.cloudflare.com/1111-privacy-examination-2026/",
+    "summary": "Eight years ago, we launched 1.1.1.1 to build a faster, more private Internet. Today, we’re sharing the results of our latest independent examination. The result: our privacy protections are working exactly as promised.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 01 Apr 2026 13:00:00 GMT",
+    "timestamp": 1775048400.0,
+    "isoDate": "2026-04-01T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers",
     "link": "https://blog.cloudflare.com/programmable-flow-protection/",
     "summary": "Magic Transit customers can now program their own DDoS mitigation logic and deploy it across Cloudflare’s global network. This enables precise, stateful mitigation for custom and proprietary UDP protocols.",
@@ -231,17 +253,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/ZOOAjAYcZqzDYg9snYASL/65940a740ba7ef294b719e76d37f3cdd/BLOG-3161_2.png"
   },
   {
-    "title": "Complexity is a choice. SASE migrations shouldn’t take years.",
-    "link": "https://blog.cloudflare.com/complexity-is-a-choice-sase-migrations-shouldnt-take-years/",
-    "summary": "Discover how Cloudflare partners TachTech and Adapture are shattering the 18-month migration myth, deploying agile SASE for global enterprises in weeks by treating security as software.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 09 Mar 2026 06:00:00 GMT",
-    "timestamp": 1773036000.0,
-    "isoDate": "2026-03-09T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3SFlUL9a7c4K6X6UC6bQyR/bc0ec31b71c1c65c40050dcf41a39ed1/image1.png"
-  },
-  {
     "title": "How AWS powers Dramaze AI-enhanced streaming platform",
     "link": "https://aws.amazon.com/blogs/media/how-aws-powers-dramaze-ai-enhanced-streaming-platform/",
     "summary": "Netmedias recently launched Dramaze.com, a groundbreaking freemium video-on-demand (VOD) streaming platform that brings short-form drama episodes to audiences across Asia and the Middle East. In an increasingly competitive streaming landsca…",
@@ -427,16 +438,5 @@
     "timestamp": 1765392120.0,
     "isoDate": "2025-12-10T18:42:00+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Warner Bros. Discovery reinvents linear television advertising with AWS",
-    "link": "https://aws.amazon.com/blogs/media/warner-bros-discovery-reinvents-linear-television-advertising-with-aws/",
-    "summary": "When brands run ads during linear free-to-air (FTA) broadcasts, they can loosely target messages based on a program’s viewer demographics, but they’re generally casting a wide net. There’s limited visibility into whether they’re reaching th…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 09 Dec 2025 21:09:34 +0000",
-    "timestamp": 1765314574.0,
-    "isoDate": "2025-12-09T21:09:34+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/12/08/MediaTailor-SSAI-WBD-EMEA.png"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "title": "Live streaming localization and accessibility using AWS Media Services",
+    "link": "https://aws.amazon.com/blogs/media/live-streaming-localization-and-accessibility-using-aws-media-services/",
+    "summary": "This blog post provides a comprehensive overview of current streaming technology for localization and accessibility. It helps you evaluate live streaming localization technology and choose cost-effective, proven, integrated, deployable, and…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 01 Apr 2026 13:11:30 +0000",
+    "timestamp": 1775049090.0,
+    "isoDate": "2026-04-01T13:11:30+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
+  },
+  {
+    "title": "LTN and Ateme partner to deliver integrated video processing with global IP transport",
+    "link": "https://www.broadcastbeat.com/ltn-and-ateme-partner-to-deliver-integrated-video-processing-with-global-ip-transport/",
+    "summary": "Ateme’s TITAN Live and TITAN Edge integrate with the LTN Network to enable broadcast-scale IP contribution LTN, a leader in fully managed IP video transport, and Ateme, a global leader in video compression and delivery solutions, today anno…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 01 Apr 2026 12:48:18 +0000",
+    "timestamp": 1775047698.0,
+    "isoDate": "2026-04-01T12:48:18+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Matthews Intro’s Lightweight Aluminum Grid Clamps",
     "link": "https://www.broadcastbeat.com/matthews-intros-lightweight-aluminum-grid-clamps/",
     "summary": "Swivel Aluminum Grid Clamp Matthews, introduces their first aluminum grid clamp collection, engineered for the rigging needs of film, television and live production. Combining light weight benefits with Matthews trademark ruggedness, Alumin…",
@@ -151,17 +173,6 @@
     "timeAgo": "Tue, 31 Mar 2026 08:00:53 +0000",
     "timestamp": 1774944053.0,
     "isoDate": "2026-03-31T08:00:53+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "OpenDrives Shows Off Sports Expertise in Sports Business Hub located in NAB Show’s West Hall",
-    "link": "https://www.broadcastbeat.com/opendrives-shows-off-sports-expertise-in-sports-business-hub-located-in-nab-shows-west-hall/",
-    "summary": "Company will showcase its latest Atlas version, new OpenDrives Edge product, and highlight Corporate Creative workflow in West Hall pod; speak at Sports Summit Theater Session and host meetings in cabana March 27, 2026 – Los Angeles, Califo…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 30 Mar 2026 17:01:11 +0000",
-    "timestamp": 1774890071.0,
-    "isoDate": "2026-03-30T17:01:11+00:00",
     "imageUrl": ""
   },
   {
@@ -372,16 +383,5 @@
     "timestamp": 1765392120.0,
     "isoDate": "2025-12-10T18:42:00+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Warner Bros. Discovery reinvents linear television advertising with AWS",
-    "link": "https://aws.amazon.com/blogs/media/warner-bros-discovery-reinvents-linear-television-advertising-with-aws/",
-    "summary": "When brands run ads during linear free-to-air (FTA) broadcasts, they can loosely target messages based on a program’s viewer demographics, but they’re generally casting a wide net. There’s limited visibility into whether they’re reaching th…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 09 Dec 2025 21:09:34 +0000",
-    "timestamp": 1765314574.0,
-    "isoDate": "2025-12-09T21:09:34+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/12/08/MediaTailor-SSAI-WBD-EMEA.png"
   }
 ]
