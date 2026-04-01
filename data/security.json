@@ -1,5 +1,16 @@
 [
   {
+    "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+    "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE. As part of t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Apr 2026 21:40:00 +0530",
+    "timestamp": 1775059800.0,
+    "isoDate": "2026-04-01T16:10:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4SwwNEiRJL3-C8lgR_Sj7XKNGuxhA-uAdcUZBQRRzmC16xbgg4bYkHTBz2VTfXOle8Su66hHz8vDXIOOQ2nFXlNo8wOIVWYGmVW-c9X4Luqx1-qFCiLmOMzUzwW8T5g0S73q4sr66bEAhjy9BrGmiz_pj52J3ug92X8hO5gMR6j9v_Fg8Iqu8lzqczge3/s1600/cert.jpg"
+  },
+  {
     "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
     "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
     "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage …",
@@ -317,16 +328,5 @@
     "timestamp": 1774609200.0,
     "isoDate": "2026-03-27T11:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaOP8SQvGcKjVqTcrOQdTQqpsDiPV47qdwzHqpxth6iyxLDSHoBNBKHVyh5LUzM1W2LdABzaDP6TjMektIuSiYhTXirHygMx_0Yh8dwpmREVfKUWPUiqRefYDptyZ3NG0Xa0X5aI6xJV0GsNoFM6Akna2z1pQ3Wre9V9aqjEpOwrn-tbkTiRaKFw3vE74/s1600/orange.jpg"
-  },
-  {
-    "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-    "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
-    "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 27 Mar 2026 15:34:00 +0530",
-    "timestamp": 1774605840.0,
-    "isoDate": "2026-03-27T10:04:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJa_h_fZ55AqNWxz1cuJLjlOtmxDcBXqTxZ8URxFwRfQ1OsNpcQKZOafbe7MxL72WZ3c7ashklJn4nlUj6FD87PPAznL0bzBhlpRIpUTtHqluiAjZBZgMEPTvwPyBeSrsnrSTnmbuPTwpQQDl2xLHPpynscV2zy7sk_SMU3u_gNkbzAaoT16Lr8SZXQgJs/s1600/russian-ransomware.jpg"
   }
 ]
