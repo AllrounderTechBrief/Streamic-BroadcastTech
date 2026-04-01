@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+    "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+    "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Apr 2026 19:40:00 +0530",
+    "timestamp": 1775052600.0,
+    "isoDate": "2026-04-01T14:10:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq1lOqG2e9eetuSt3ne59NkxH-r0lCjnTmodLlbXt29w5AH_utoClwW1RfvpY5rC7vqb1rVBR4ApELx1ROFvmuMpPpk_9R7tshflL0WwPRuD25vu1gzaFuuldwTzAbcb1m7y7TBsTLr863BQhLHdJGwRUmVzuLayR1gTnkmG_XCraID8EuzUzeeVLtgp7p/s1600/whatsapp-exploit.jpg"
+  },
+  {
     "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
     "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
     "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn’t build. It doesn’t enable. Its entire function is to say \"No.\" No to ChatGPT. No to DeepSeek. No to the file-sh…",
@@ -20,17 +31,6 @@
     "timestamp": 1775046960.0,
     "isoDate": "2026-04-01T12:36:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpJd0tgZX0EzqjxkNOrJsyGRUV4N21qsJC30j2VYYargUXl2tPz_BidXWWmAG9Wfb5f683WOOle2CElerewagtzAAI8sbcJ9XrCbtgcSRtWF-itSYXH4hbTKvOIrjW9PKSgqi00rOrFCHRWzkWaWmP0qPH0vjrJ2LbbcXgl9aQv3n3tzcT45pdSPMcP54S/s1600/pdf-malware.jpg"
-  },
-  {
-    "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
-    "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
-    "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Apr 2026 17:19:00 +0530",
-    "timestamp": 1775044140.0,
-    "isoDate": "2026-04-01T11:49:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq1lOqG2e9eetuSt3ne59NkxH-r0lCjnTmodLlbXt29w5AH_utoClwW1RfvpY5rC7vqb1rVBR4ApELx1ROFvmuMpPpk_9R7tshflL0WwPRuD25vu1gzaFuuldwTzAbcb1m7y7TBsTLr863BQhLHdJGwRUmVzuLayR1gTnkmG_XCraID8EuzUzeeVLtgp7p/s1600/whatsapp-exploit.jpg"
   },
   {
     "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",

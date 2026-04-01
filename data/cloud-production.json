@@ -1,5 +1,27 @@
 [
   {
+    "title": "AgileTV powers Liwest’s next-generation TV experience with the launch of “next” IPTV platform in Austria",
+    "link": "https://www.broadcastbeat.com/agiletv-powers-liwests-next-generation-tv-experience-with-the-launch-of-next-iptv-platform-in-austria/",
+    "summary": "AgileTV has deployed the “next” IPTV platform for Austrian telecom operator LIWEST, introducing a next-generation television experience that combines broadcast, streaming and app-based entertainment. The TV-as-a-Service platform enables con…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 01 Apr 2026 14:49:40 +0000",
+    "timestamp": 1775054980.0,
+    "isoDate": "2026-04-01T14:49:40+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Professional Wireless Systems (PWS) Takes on Intercom and RF Coordination for the Biggest Rock Band on Earth",
+    "link": "https://www.broadcastbeat.com/professional-wireless-systems-pws-takes-on-intercom-and-rf-coordination-for-the-biggest-rock-band-on-earth/",
+    "summary": "NEW ORLEANS, MARCH 31, 2026 – Professional Wireless Systems (PWS), a leading provider of wireless audio solutions and RF management, was on site at the Caesars Superdome in New Orleans, where Rockin’1000, the biggest rock band on earth, too…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 01 Apr 2026 14:12:44 +0000",
+    "timestamp": 1775052764.0,
+    "isoDate": "2026-04-01T14:12:44+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Live streaming localization and accessibility using AWS Media Services",
     "link": "https://aws.amazon.com/blogs/media/live-streaming-localization-and-accessibility-using-aws-media-services/",
     "summary": "This blog post provides a comprehensive overview of current streaming technology for localization and accessibility. It helps you evaluate live streaming localization technology and choose cost-effective, proven, integrated, deployable, and…",
@@ -151,28 +173,6 @@
     "timeAgo": "Tue, 31 Mar 2026 10:29:30 +0000",
     "timestamp": 1774952970.0,
     "isoDate": "2026-03-31T10:29:30+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "DHD Introduces AI-Based Audio Noise Reduction to XD3 IP Core",
-    "link": "https://www.broadcastbeat.com/dhd-introduces-ai-based-audio-noise-reduction-to-xd3-ip-core/",
-    "summary": "Leipzig, Germany, March 31st, 2026: DHD announces that AI-based audio noise reduction is now available as a powerful new option for its XD3 IP Core. Developed in cooperation with ai-coustics, audio noise reduction created great interest whe…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 31 Mar 2026 09:57:10 +0000",
-    "timestamp": 1774951030.0,
-    "isoDate": "2026-03-31T09:57:10+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "PTZOptics to showcase intelligent video and camera control at NAB Show 2026",
-    "link": "https://www.broadcastbeat.com/ptzoptics-to-showcase-intelligent-video-and-camera-control-at-nab-show-2026/",
-    "summary": "PTZOptics will showcase its vision for intelligent video and advanced camera automation at NAB Show 2026 (#N1902). Through immersive demonstrations and technology previews for broadcast, sports, and proAV workflows, PTZOptics will highlight…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 31 Mar 2026 08:00:53 +0000",
-    "timestamp": 1774944053.0,
-    "isoDate": "2026-03-31T08:00:53+00:00",
     "imageUrl": ""
   },
   {
