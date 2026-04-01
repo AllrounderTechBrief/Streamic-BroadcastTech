@@ -1,5 +1,16 @@
 [
   {
+    "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
+    "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
+    "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s already inside your environment, including…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Apr 2026 16:28:00 +0530",
+    "timestamp": 1775041080.0,
+    "isoDate": "2026-04-01T10:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnuThJU5o7fpNxZwlNpyZFxPX9Y7rDp2TF2zUrPTRMhLEcnv7UQfdVgoAJ5gh8-JpgNvnJOG5dbOABLCmemzmYazgTwPTxScbn9vlwlCouNIuKZvmaeE3mcza5ceAfKBfpkbeAUKcOd9eZoBWXgjEvuDAORSPICahRqIz4g0BkwD84YZwB547OHBLsoZs/s1600/main.jpg"
+  },
+  {
     "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
     "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
     "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. \"We have attributed the attack to a suspected North Korean threa…",
@@ -317,16 +328,5 @@
     "timestamp": 1774530660.0,
     "isoDate": "2026-03-26T13:11:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKbsVkCFVvziyQ564TDmmBjGzy6lzKUcC_rmt-GZWOiCshA_YGAhsMjib7OhvNS_8OX6micW6hWSY4lWh6IoGcyy_tCywr9Tr-qhyI4Wau32zV80zS3OJRVnbSZtHQqWO-RvoznJ34HjG6M5CDlKIXXTyAuZvVS235fZ9juweln5KS77w1w80Jk113rAW/s1600/claude.jpg"
-  },
-  {
-    "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
-    "link": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html",
-    "summary": "Unmasking impostors is something the art world has faced for decades, and there are valuable lessons from the works of Elmyr de Hory that can apply to the world of defensive cybersecurity. During the 1960s, de Hory gained infamy as a premie…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 26 Mar 2026 17:28:00 +0530",
-    "timestamp": 1774526280.0,
-    "isoDate": "2026-03-26T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYccGrhSqLyV14fb0UKZKIns-G-9cU181ytP5rPJvhMDJLPbmBBgiTIBALloFdEy_87wloWgNeE3zCfQEYoS7uPOLec7Uk40LT9KFOiov2psTWX4XIabr-UJql5ILHDQn0o8Tc8H7PwJSF9y8Yh3hR_iolMcCXBpGxgcwFtPAbYDtzXo26DZspMORcKs/s1600/core.jpg"
   }
 ]
