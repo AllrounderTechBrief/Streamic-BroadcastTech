@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
+    "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
+    "summary": "Apple on Wednesday expanded the availability of iOS 18.7.7 and iPadOS 18.7.7 to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known as DarkSword. \"We enabled the availability of iOS 18.7…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 02 Apr 2026 12:39:00 +0530",
+    "timestamp": 1775113740.0,
+    "isoDate": "2026-04-02T07:09:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPIq2XjzxLFTE4iwZWuKsLifOBVn0sVZv2vDEl0D3eXsyiW8ePJH7ukb29zq7gb7-7fJy8WjCRC5e-sYoMLXT4ZE-12llaj0H76qjygPmEl7cuGiC4jrLaMdDX5M55YsuYhdtbn8k5gCosH-JwHU3H-b7ho_5Lvg4pjoKf2Lz39lOumTGuxldWK1YQvfJ/s1600/apple-update.jpg"
+  },
+  {
     "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
     "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
     "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE. As part of t…",
@@ -317,16 +328,5 @@
     "timestamp": 1774612980.0,
     "isoDate": "2026-03-27T12:03:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MSv7TxvzRXdcpb_tW0hSC0Jq5_7-VYEhbddL8im1K25nOcjSr0T3_Y2f9zG8Q9l7K3U_zOXBKWgnHAO9rWvYG9158OKLKcZif_lq7e5fpqwxrW3IdPWzgTko6ogQSQg77hmiWszgf3OOT7baBY8vI8XcPt0h8R_0p7oBX2WmVQUSgsJXfPQmCzOGTMX9/s1600/tiktok-b.jpg"
-  },
-  {
-    "title": "We Are At War",
-    "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
-    "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admit it: we are in the middle of it. Introduction: One tech power to rule them all is a thing…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 27 Mar 2026 16:30:00 +0530",
-    "timestamp": 1774609200.0,
-    "isoDate": "2026-03-27T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaOP8SQvGcKjVqTcrOQdTQqpsDiPV47qdwzHqpxth6iyxLDSHoBNBKHVyh5LUzM1W2LdABzaDP6TjMektIuSiYhTXirHygMx_0Yh8dwpmREVfKUWPUiqRefYDptyZ3NG0Xa0X5aI6xJV0GsNoFM6Akna2z1pQ3Wre9V9aqjEpOwrn-tbkTiRaKFw3vE74/s1600/orange.jpg"
   }
 ]
