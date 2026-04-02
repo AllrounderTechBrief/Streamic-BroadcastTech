@@ -1,5 +1,16 @@
 [
   {
+    "title": "Why we're rethinking cache for the AI era",
+    "link": "https://blog.cloudflare.com/rethinking-cache-ai-humans/",
+    "summary": "The explosion of AI-bot traffic, representing over 10 billion requests per week, has opened up new challenges and opportunities for cache design. We look at some of the ways AI bot traffic differs from humans, how this impacts CDN cache, an…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 02 Apr 2026 13:00:00 GMT",
+    "timestamp": 1775134800.0,
+    "isoDate": "2026-04-02T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3WQUiQ36rvMb8rNKruwdLd/1e9003057720b68829c6df3337a840ec/image2.png"
+  },
+  {
     "title": "Live streaming localization and accessibility using AWS Media Services",
     "link": "https://aws.amazon.com/blogs/media/live-streaming-localization-and-accessibility-using-aws-media-services/",
     "summary": "This blog post provides a comprehensive overview of current streaming technology for localization and accessibility. It helps you evaluate live streaming localization technology and choose cost-effective, proven, integrated, deployable, and…",
@@ -240,17 +251,6 @@
     "timestamp": 1773119100.0,
     "isoDate": "2026-03-10T05:05:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/70o4e4XoPHJN1x5OpeNP9x/f6a9f3854368a7f83eccad14412a89a6/image2.png"
-  },
-  {
-    "title": "Fixing request smuggling vulnerabilities in Pingora OSS deployments",
-    "link": "https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/",
-    "summary": "Today we’re disclosing request smuggling vulnerabilities when our open source Pingora service is deployed as an ingress proxy and how we’ve fixed them in Pingora 0.8.0.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 09 Mar 2026 14:00:00 GMT",
-    "timestamp": 1773064800.0,
-    "isoDate": "2026-03-09T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2IYHyGkABpNA0e09wiiGpY/4f51ea330c2d266260f6361dd9d64d79/image4.png"
   },
   {
     "title": "How AWS powers Dramaze AI-enhanced streaming platform",
