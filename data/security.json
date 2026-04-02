@@ -1,5 +1,16 @@
 [
   {
+    "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+    "summary": "The latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this week. Th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 02 Apr 2026 18:15:00 +0530",
+    "timestamp": 1775133900.0,
+    "isoDate": "2026-04-02T12:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9hzOUmn8npVxC_AyWUe1DLsv1VkWHox2PmDxZnVuG_XnQt7R5l7CZHlYu9m9BcwAib4L0j0x877sDuCF2shmSH3ef0Me-m0sbKDtu-ZEw5RLqLGNsjGJ0o-b_CuKtFg86fMFb-GKVBud7S8PfpsoL4HCqEZypO1NcWfx6ljXcUhC5O4GIjRbhRcG-fIi/s1600/threatsday.jpg"
+  },
+  {
     "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
     "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
     "summary": "A financially motivated operation codenamed REF1695 has been observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November 2023. \"Beyond cryptomining, the threat actor monetizes infectio…",
@@ -317,16 +328,5 @@
     "timestamp": 1774681620.0,
     "isoDate": "2026-03-28T07:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCtHFfd9TZrhTa9APggVpivUkp_7HLw49145Q93B-76BiG0kkbGOPgViPII25Inn9b8710FjsB1sG716DO1Qh3ikSV88oqwdhSCJ7V2FTWgPq1xaA_UqMVwIEi4zmLnAmXQmbdG2fWAVBx6H_OiHqCOzghwBkuQYy4mYUCIdIyBi54ojbF3rc_OGIPlGc/s1600/f5.jpg"
-  },
-  {
-    "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-    "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-    "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 27 Mar 2026 22:52:00 +0530",
-    "timestamp": 1774632120.0,
-    "isoDate": "2026-03-27T17:22:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7dxzt-3rxkQ1A-6Sd9EzxINF3V70WAx4hsUUNPofdWcCO6hp0vEHavIsQsCUyXY7hOUOk7kDGIt2zN__gnigtzyYJyc31aiwpivHd4GEMPh0CHZHIBm58PtiyDXn7XNzI4hoZzmqVpErPty3VvEoyZCC4heyU0FE0uvM8_Ad_mWtXpSj5bcLIcTBwLNi/s1600/apple.jpg"
   }
 ]
