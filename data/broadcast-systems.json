@@ -1,5 +1,27 @@
 [
   {
+    "title": "Satellite television",
+    "link": "https://www.tvbeurope.com/media-delivery/satellite-television",
+    "summary": "Ahead of the successful Artemis II launch taking humans back to the Moon for the first time in 50 years, Rebecca Sirmons, general manager and head of NASA+, told Matthew Corrigan how the team has been preparing to livestream history The pos…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 02 Apr 2026 09:51:52 +0000",
+    "timestamp": 1775123512.0,
+    "isoDate": "2026-04-02T09:51:52+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/ASTRO_1-726x408.png"
+  },
+  {
+    "title": "HbbTV announces latest Test Suite upgrade with DRM and WAVE test coverage",
+    "link": "https://www.tvbeurope.com/media-delivery/hbbtv-announces-latest-test-suite-upgrade-with-drm-and-wave-test-coverage",
+    "summary": "HbbTV's Test Suite provides an essential resource for manufacturers, ensuring devices comply with the organisaton's latest specifications The post HbbTV announces latest Test Suite upgrade with DRM and WAVE test coverage appeared first on T…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 02 Apr 2026 09:12:35 +0000",
+    "timestamp": 1775121155.0,
+    "isoDate": "2026-04-02T09:12:35+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "TAG Video Systems and OCI partner on cloud monitoring integration",
     "link": "https://www.tvbeurope.com/media-management/tag-video-systems-and-oci-partner-on-cloud-monitoring-integration",
     "summary": "TAG's Realtime Media Platform is now deployed and certified on the OCI platform, with the full product portfolio set to follow The post TAG Video Systems and OCI partner on cloud monitoring integration appeared first on TVBEurope.",
@@ -33,9 +55,9 @@
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/TVB121.cover_-726x916.jpg"
   },
   {
-    "title": "Nikon sells MRMC to investment company",
+    "title": "Nikon sells MRMC to investment company—UPDATED",
     "link": "https://www.tvbeurope.com/business/nikon-sells-mrmc-to-investment-company",
-    "summary": "According to a note issued by Nikon, the company has \"reconsidered\" its business portfolio and decided that selling MRMC \"is the most appropriate course of action\" The post Nikon sells MRMC to investment company appeared first on TVBEurope.",
+    "summary": "Following the sale, MRMC has announced the appointment of Nick Barthee as chief operating officer The post Nikon sells MRMC to investment company—UPDATED appeared first on TVBEurope.",
     "source": "TVBEurope",
     "category": "broadcast-systems",
     "timeAgo": "Wed, 01 Apr 2026 10:40:16 +0000",
@@ -251,28 +273,6 @@
     "timestamp": 1774864329.0,
     "isoDate": "2026-03-30T09:52:09+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/unnamed-1-726x338.jpg"
-  },
-  {
-    "title": "Telestream expands integration with Adobe Premiere, Media Encoder and Frame.io",
-    "link": "https://www.tvbeurope.com/media-management/telestream-expands-integration-with-adobe-premiere-media-encoder-and-frame-io",
-    "summary": "The integrations aim to position Vantage as the operational backbone connecting creative tools to delivery infrastructure, supporting QC, workflow automation, routing and compliance The post Telestream expands integration with Adobe Premier…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 30 Mar 2026 09:18:23 +0000",
-    "timestamp": 1774862303.0,
-    "isoDate": "2026-03-30T09:18:23+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/TS-Adobe-PR-Images-01-726x726.png"
-  },
-  {
-    "title": "Genelec powers Paris post production for Titrafilm",
-    "link": "https://www.tvbeurope.com/audio/genelec-powers-paris-post-production-for-titrafilm",
-    "summary": "Genelec monitoring underpinned the extension of Titrafilm's post production facilities across two sites in the French capital The post Genelec powers Paris post production for Titrafilm appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 30 Mar 2026 08:44:59 +0000",
-    "timestamp": 1774860299.0,
-    "isoDate": "2026-03-30T08:44:59+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/Titrafilm_PR_Image_2-726x484.jpg"
   },
   {
     "title": "Tedial – Composable NoCode UI Design",

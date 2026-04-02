@@ -1,5 +1,16 @@
 [
   {
+    "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+    "link": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+    "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with spyware. According to reports from Italian newspaper La Repubblica and news agency…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 02 Apr 2026 15:21:00 +0530",
+    "timestamp": 1775123460.0,
+    "isoDate": "2026-04-02T09:51:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1Qe0E88MYHp7xg6ApE5TypZK__02tmUnhvX60svA9npwirnTJbAb-Wl4rvLo3gq3kX1l9JUXDgXZJ0yPGNZlUo8n5DG1-pqONNFQIA2epqNdU7tNGZSJPJCthWLHtnDdO8jWQ5YzwY7TWUn_9SJP5pu0vHX2i3-L0zM5dZscSR4wAUPWAN1fm-3zgOGE/s1600/whatsapp-alert.jpg"
+  },
+  {
     "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
     "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
     "summary": "Apple on Wednesday expanded the availability of iOS 18.7.7 and iPadOS 18.7.7 to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known as DarkSword. \"We enabled the availability of iOS 18.7…",
@@ -317,16 +328,5 @@
     "timestamp": 1774619820.0,
     "isoDate": "2026-03-27T13:57:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxyuzdQgdhyphenhyphenfWqx9GyfXC7_Bop28GdU7Bvyj3ZEvEBm8HbchBOMZFiLIGHSVFM9OdfCaKJSyAZzY3F3soB37-VtKEcY_KShCnzB2D-t8DJ5mbSl4MlbMgCV8uSMf9LaTds8vn_rccuiUIzq0mC5lxYK7HstyftiOEqYGCJC8PP5sCF_UariwUHXuvqYXkt/s1600/open-code.jpg"
-  },
-  {
-    "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
-    "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
-    "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security. Business accounts associated with social media platforms are…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 27 Mar 2026 17:33:00 +0530",
-    "timestamp": 1774612980.0,
-    "isoDate": "2026-03-27T12:03:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MSv7TxvzRXdcpb_tW0hSC0Jq5_7-VYEhbddL8im1K25nOcjSr0T3_Y2f9zG8Q9l7K3U_zOXBKWgnHAO9rWvYG9158OKLKcZif_lq7e5fpqwxrW3IdPWzgTko6ogQSQg77hmiWszgf3OOT7baBY8vI8XcPt0h8R_0p7oBX2WmVQUSgsJXfPQmCzOGTMX9/s1600/tiktok-b.jpg"
   }
 ]
