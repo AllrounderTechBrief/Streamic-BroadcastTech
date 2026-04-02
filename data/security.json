@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+    "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+    "summary": "Cisco has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the sy…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 02 Apr 2026 20:51:00 +0530",
+    "timestamp": 1775143260.0,
+    "isoDate": "2026-04-02T15:21:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6wuST9R8voZTpCC-v5LSwd4O7vlbuRDhXMzcSw9iu0k2JvFOao-3Jr2o9iCs0jqX3pIqHvcYo_n-5Ad80WXeQXKV_DTgJUN0A6nl9f73BA1U0wRoZBqgySfDR6Uk7KD8jXzw2BFLGvusf-96qsINw9jT4PnglZohYM2VhSsdHcpw-cl6vwAekfE-KD_H/s1600/cisco-exploit.jpg"
+  },
+  {
     "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
     "link": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
     "summary": "The latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this week. Th…",
@@ -317,16 +328,5 @@
     "timestamp": 1774681620.0,
     "isoDate": "2026-03-28T07:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAX955shB28AQ8BgXC9lMJBSEWWtw5FVp3L9rxuVnBSsDMpj5Ssjh7cqxd7eJI_bES6b82XDHvxrH0U_cyEXwbS05QkUbSDPzP8ZGcjy2QD2-gY9utPDfcJ6EBO-nk3VayGUBUnesxmmGOH-AanOtkxxhPGyZ-5azN_kzflpKoqfW7U2m35ookIyuEYvFo/s1600/iphone-exploit.jpg"
-  },
-  {
-    "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
-    "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 28 Mar 2026 12:37:00 +0530",
-    "timestamp": 1774681620.0,
-    "isoDate": "2026-03-28T07:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCtHFfd9TZrhTa9APggVpivUkp_7HLw49145Q93B-76BiG0kkbGOPgViPII25Inn9b8710FjsB1sG716DO1Qh3ikSV88oqwdhSCJ7V2FTWgPq1xaA_UqMVwIEi4zmLnAmXQmbdG2fWAVBx6H_OiHqCOzghwBkuQYy4mYUCIdIyBi54ojbF3rc_OGIPlGc/s1600/f5.jpg"
   }
 ]
