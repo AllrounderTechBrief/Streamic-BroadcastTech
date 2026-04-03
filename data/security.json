@@ -1,5 +1,27 @@
 [
   {
+    "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
+    "summary": "The maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked as UNC1069. Maintainer Jason Saayman s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Apr 2026 16:34:00 +0530",
+    "timestamp": 1775214240.0,
+    "isoDate": "2026-04-03T11:04:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgZRu55MSbdanW8-1PyCciQIyWUcB9Dv4WhQQEELGJqahN5q7MyrDJKQ77e-9-fNetZJZiaJKERrgMWTGcQ-4TKhzhWE6veQp5w3wxhUnjq3NPMifbpdn1VLYpx5nngu4GsgPknNfAV8CNTGq_L_PBri4s3xz4hp8yt7OPin9Q-Kq_xcBNqzbgHx5SkrU/s1600/supplychain.jpg"
+  },
+  {
+    "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
+    "link": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html",
+    "summary": "The next major breach hitting your clients probably won't come from inside their walls. It'll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody in IT knows about. That's the new attack…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Apr 2026 16:30:00 +0530",
+    "timestamp": 1775214000.0,
+    "isoDate": "2026-04-03T11:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVOZWf-jO2_HykRTz3eVXj5HliZeT5oLJzIB9b4aX4fX_0nV9zUgCHL_WU9qxq7Uipi77Sf7I0DfRNGpmI0DwAZTusda6siewFmPGUnLjPIrsUDwagoy7PyaUlpR6anmdXp3OoTMB5aYEBlwKUt_zqRF0rxNQLub2TFqfqitAQdKXMA0ZPBwEV2hzJr1I/s1600/cynomi.jpg"
+  },
+  {
     "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
     "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
     "summary": "Cybersecurity researchers have discovered a new version of the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the trojan was discovered targeting both the mobile operating systems. The malware has been…",
@@ -306,27 +328,5 @@
     "timestamp": 1774873080.0,
     "isoDate": "2026-03-30T12:18:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05CEOtp0cIlsi1qDK4HRH2PPOFyvB5jca65pAQVsnCfBHZ-wRGt0s8VhvzO_l-4Q9H_xGKQsO_efVGzJ46ElLQNaq_FEp6wPUou4aqTvEKMPlEEGOTyEtISTj0VkC5QmO38HuxWehNDTUkdvCVCCp-GrIPWJyFt4dTLp1TIbqW8hAiVEJ-vxnoKUexR6-/s1600/ctrl-ctrl.jpg"
-  },
-  {
-    "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
-    "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
-    "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcod…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 30 Mar 2026 17:00:00 +0530",
-    "timestamp": 1774870200.0,
-    "isoDate": "2026-03-30T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4tVpFBDvdU-vz8vM1T6SJZwd3AiySFqEyonUutxGPNimXEqTVOKN-pCI_lF5Ti2GngFUPtEphVI4Qep03CBciF7NhaWEIKYdDfkVY-VleTTcqYJvcMTKrd-EJ4kh2zLk3cY7pqqxI7bfEghuxGAV7lwUPjTD6nTa5dKj5e8_RJD9UjHn12015puG8P4o/s1600/key.gif"
-  },
-  {
-    "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
-    "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
-    "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\" The campaigns have led to the deployment of various …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 30 Mar 2026 12:30:00 +0530",
-    "timestamp": 1774854000.0,
-    "isoDate": "2026-03-30T07:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVmr08UFvUwMkDRW62724LCJu5Z774vza7r8UADDdCZcBFNJTeJ9WPFkt4BLIknMuCpLYow39D0rgDkTkftiSLBxtPsG3YW6Y7CRiPRxye2Con9Z1lP77VcDv2PA4UJ4PP6nNSCLX0cOKLKJOTCnVerXQ4w5we9s3rMTBbUMMX2hZBB5MLu5t4Ll3YFPe/s1600/chinese-hackers.jpg"
   }
 ]
