@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
+    "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
+    "summary": "Threat actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research Team. \"Instead of exp…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Apr 2026 21:02:00 +0530",
+    "timestamp": 1775230320.0,
+    "isoDate": "2026-04-03T15:32:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_2zEf8l08MTElI1sGlJPVVWtscud2RAXdsivOvcby3pO4NUWMBioT3FNaFL7Bw0GeEqnX_WqY10FVqXhVNBTOrl0UMPoyun7AvshwpvfJIdfdJ0yJ1V2mz7ZHQDE9motXuuW6urvTJYu0kLGvpZf10Qx1hNeobD4YV25tJY9nvNoW9Sqd8nSsWK7NWQP0/s1600/php-linux.jpg"
+  },
+  {
     "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
     "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
     "summary": "The maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked as UNC1069. Maintainer Jason Saayman s…",
@@ -317,16 +328,5 @@
     "timestamp": 1774875600.0,
     "isoDate": "2026-03-30T13:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFh5EaxE3C26MNKxziPoKvAK16f1ctGNYf_S1E7IY1tfyazizZwtmHaqHaTHSqBwWAMtENhtk5K1GzWLRln80K-vm2S9lkVeE3tpfQeVTaptm_T8kNoeCFLDbJLKMwqNsmD9y2iUDnLUJw4b6BQpST8M5h3dk7yRGyBcrl29nD8rw045i5roI91mRrEQs/s1600/soc.jpg"
-  },
-  {
-    "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
-    "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
-    "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. The CTRL toolkit, according to Censys, is custom-bu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 30 Mar 2026 17:48:00 +0530",
-    "timestamp": 1774873080.0,
-    "isoDate": "2026-03-30T12:18:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05CEOtp0cIlsi1qDK4HRH2PPOFyvB5jca65pAQVsnCfBHZ-wRGt0s8VhvzO_l-4Q9H_xGKQsO_efVGzJ46ElLQNaq_FEp6wPUou4aqTvEKMPlEEGOTyEtISTj0VkC5QmO38HuxWehNDTUkdvCVCCp-GrIPWJyFt4dTLp1TIbqW8hAiVEJ-vxnoKUexR6-/s1600/ctrl-ctrl.jpg"
   }
 ]
