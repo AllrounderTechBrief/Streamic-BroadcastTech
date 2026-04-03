@@ -1,5 +1,16 @@
 [
   {
+    "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+    "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+    "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025, following a two-year period of minimal targeting in the region. The campaign has been attributed to TA416, a cluster of acti…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Apr 2026 23:04:00 +0530",
+    "timestamp": 1775237640.0,
+    "isoDate": "2026-04-03T17:34:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi-dKCldJqtZI1CocMVxHNKusU5tcnMKjx7mzG9EfehvGacnTy4tsTfZLMfhyphenhyphenC5W210OxrxijBNAP8UumXAZH15ZSOM4x8xb9VTIHxN1HCouzROU0pn7sCJki9zJOkk9_8SRns73KxO1KvxUY4YgKGbbme6ZcKdbt4cqSHUkG5WQQPgDDTx_OLRbms35Dv/s1600/chinese-hackers.jpg"
+  },
+  {
     "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
     "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
     "summary": "Threat actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research Team. \"Instead of exp…",
@@ -317,16 +328,5 @@
     "timestamp": 1774878960.0,
     "isoDate": "2026-03-30T13:56:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2e5F9xrNGflqGG3Z7UcoPHMKZnF1j1FJBpwnPfV0MBCUweDKegb97Kcry4OK2kQgx0bQ91Lhem0BdasOpiN9UoKz7rNTAVgBuJzbM9jCaF4APqUsXlkiZfbC35xNWAd0z7T0qZoTN3GdVW9exy7BcEIjV64hinG5pxmbX69KdF_u7qXUpuEZZX_R8vaMP/s1600/recapss.jpg"
-  },
-  {
-    "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
-    "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
-    "summary": "What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 30 Mar 2026 18:30:00 +0530",
-    "timestamp": 1774875600.0,
-    "isoDate": "2026-03-30T13:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFh5EaxE3C26MNKxziPoKvAK16f1ctGNYf_S1E7IY1tfyazizZwtmHaqHaTHSqBwWAMtENhtk5K1GzWLRln80K-vm2S9lkVeE3tpfQeVTaptm_T8kNoeCFLDbJLKMwqNsmD9y2iUDnLUJw4b6BQpST8M5h3dk7yRGyBcrl29nD8rw045i5roI91mRrEQs/s1600/soc.jpg"
   }
 ]
