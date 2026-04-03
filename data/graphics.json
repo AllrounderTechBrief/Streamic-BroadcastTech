@@ -1,5 +1,27 @@
 [
   {
+    "title": "Barents Sea Tied to Low Arctic Sea Ice",
+    "link": "https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/",
+    "summary": "Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which tied with the lowest maximum observed in the satellite record.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 03 Apr 2026 04:00:00 +0000",
+    "timestamp": 1775188800.0,
+    "isoDate": "2026-04-03T04:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/barents-sea-tied-to-low-arctic-sea-ice/barentsice_tmo_20260317.jpg?w=2160&h=2040&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon",
+    "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/",
+    "summary": "For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service mo…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 03 Apr 2026 02:48:08 +0000",
+    "timestamp": 1775184488.0,
+    "isoDate": "2026-04-03T02:48:08+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/tli.jpg?w=1902"
+  },
+  {
     "title": "Jeff Shell’s Future At Paramount In Hands Of Law Firm Probe Of Loose Lips Claim",
     "link": "https://tvnewscheck.com/business/article/jeff-shells-future-at-paramount-in-hands-of-law-firm-probe-of-loose-lips-claim/",
     "summary": "An investigation into accusations of corporate indiscretion by Jeff Shell will make or break the future of the Paramount executive. As a probe by the law firm Gibson Dunn winds down, discussion are underway as to what role, if any, Shell wi…",
@@ -416,28 +438,6 @@
     "timestamp": 1774894707.0,
     "isoDate": "2026-03-30T18:18:27+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/jsc2026e017251.jpg?w=2048"
-  },
-  {
-    "title": "Seeing Blue During Schirmacher’s Summer Melt Season",
-    "link": "https://science.nasa.gov/earth/earth-observatory/seeing-blue-during-schirmachers-summer-melt-season/",
-    "summary": "A network of meltwater lakes and drainage channels made an Antarctic ice shelf known for its blue ice areas even bluer.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 30 Mar 2026 04:01:00 +0000",
-    "timestamp": 1774843260.0,
-    "isoDate": "2026-03-30T04:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeing-blue-during-schirmacher's-summer-melt-season/nivlisenicesheet_oli2_20260106.jpg?w=2160&h=2437&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "I Am Artemis: Erik Richards",
-    "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/",
-    "summary": "Listen to this audio excerpt from Erik Richards, Near Space Network Mission Manager: For Erik Richards, supporting NASA’s first crewed Artemis mission to the Moon and back is the culmination of a career spent helping spacecraft communicate …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 27 Mar 2026 21:30:40 +0000",
-    "timestamp": 1774647040.0,
-    "isoDate": "2026-03-27T21:30:40+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/02/image-1-2.jpg?w=1536"
   },
   {
     "title": "How Ross Video’s production-as-a-service helps sports venues deliver on the biggest stages",
