@@ -1,5 +1,27 @@
 [
   {
+    "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
+    "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
+    "summary": "Cybersecurity researchers have discovered a new version of the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the trojan was discovered targeting both the mobile operating systems. The malware has been…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Apr 2026 14:40:00 +0530",
+    "timestamp": 1775207400.0,
+    "isoDate": "2026-04-03T09:10:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2s09d3X9qYABLHP5v1u9iyjRN5p28u6xvnL0qkKR1-s1CsqtIDAWeQCFKQ9S4Mde1ueUmzcjNA9SAzWN-lDWwbmTmmlwbbLkyKx-EJc2-bjhKlEsChsp3iZ6watrZ4I8LJdL_p0vatW4NrXntcs6_xdReGEQJMUCgfAFo-ZfCy_jDsxEZgPMx1T9e1e0L/s1600/mobile-wallet-seed.jpg"
+  },
+  {
+    "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
+    "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
+    "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1, 2026. \"Earlier today, a malicious actor gained unauthorized access to…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Apr 2026 14:05:00 +0530",
+    "timestamp": 1775205300.0,
+    "isoDate": "2026-04-03T08:35:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiYsLIirEMJ6RmQKL7LnI8V0CmqL2qggZITpbnhuDXgXPAsXZ7cGv1KBjp1VBfeBVjUHypgPIC1DENjD735MO9gZQVPZO_xI424cuWoRowXBNflIs3rteCoCpdMPeTo5y2-I67CKALepuLYF-OfTplaTVBtextDcgCTW81sGmhT710Uu-37ouNh6MJjfk/s1600/drift-1.png"
+  },
+  {
     "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
     "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
     "summary": "A large-scale credential harvesting operation has been observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command histor…",
@@ -306,27 +328,5 @@
     "timestamp": 1774854000.0,
     "isoDate": "2026-03-30T07:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVmr08UFvUwMkDRW62724LCJu5Z774vza7r8UADDdCZcBFNJTeJ9WPFkt4BLIknMuCpLYow39D0rgDkTkftiSLBxtPsG3YW6Y7CRiPRxye2Con9Z1lP77VcDv2PA4UJ4PP6nNSCLX0cOKLKJOTCnVerXQ4w5we9s3rMTBbUMMX2hZBB5MLu5t4Ll3YFPe/s1600/chinese-hackers.jpg"
-  },
-  {
-    "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
-    "link": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
-    "summary": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet. Handala Hack…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 28 Mar 2026 21:10:00 +0530",
-    "timestamp": 1774712400.0,
-    "isoDate": "2026-03-28T15:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB5PedpQX_DQaCrJ76V6gQtAUKvDiV1udgR3vPrPp8k7dcP8jACbAPITTEwRpl7dS05Dz_hYFlt2v4H6KTukko0Sg8vRZpDGgWNbGzVqQDwcntdMVmhb3x5v0q3d0gRcbedgOxZLiVeiDCaxb8TNO8dEaE7Bn54TCqxKvbb7Ct_5Wxsxx5WSn2bqEIJqB4/s1600/iran-hacking.jpg"
-  },
-  {
-    "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
-    "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
-    "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), ref…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 28 Mar 2026 14:41:00 +0530",
-    "timestamp": 1774689060.0,
-    "isoDate": "2026-03-28T09:11:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwI3gfUe4wDxvIuUsVXUVcyiZ6TWg7HIh7UgKbWXN8e5p6VbJM5hHvR0gCKbVRD3tx311R5b9TWnt0OrLNfpoSBrP1tv06PBWrUXtwzAZAvHVHo8a1uZXzqZBDkpCeGgHWI9tRrk39_n_YZgO7CeX6MXHo4kFSu_lFd5ZmAuiTdrg-x8w0svB3lF-2U1LV/s1600/citrix-exploit.jpg"
   }
 ]
