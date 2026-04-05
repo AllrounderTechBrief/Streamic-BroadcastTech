@@ -1,5 +1,27 @@
 [
   {
+    "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+    "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+    "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest cr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 05 Apr 2026 10:37:00 +0530",
+    "timestamp": 1775365620.0,
+    "isoDate": "2026-04-05T05:07:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9axxKrcvcFkL99SIB2AlrcEW2RIZ1Ff8PollH7XYSWrYSOgoPXKlF5rsdgyr9BSWVUa5oP07faI_DvxNyUk_rpuz5i2xuiEdlU-e929rCWpkLjDGRs4EBjzfBWQRJVtrWNtR-EKvWsR-PPO-Yfei5ONMyumlI12R7OHmIrsyzJtB5SJRTCSuKiyJQnTfK/s1600/database.jpg"
+  },
+  {
+    "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+    "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+    "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authen…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 05 Apr 2026 10:02:00 +0530",
+    "timestamp": 1775363520.0,
+    "isoDate": "2026-04-05T04:32:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61_DDvLhdLZ8tHMrmQ8XlQ1vWwnEk-2lmYFnjw_1ZvJ4IUB4G7ffXU8pSd7JDknP0bqyaVVOTb1HJ62ujlQ_zfG3Lc7XMtLKUuZTO6v4jgrdqon90wrix6EaQNKtou3yz7Txf3ni5JOVn-D1-OcHB7e-UDxQI2ifZOBHAeDwFBnwAfanSeFn8EyP8oilj/s1600/fortinet.jpg"
+  },
+  {
     "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
     "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
     "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025, following a two-year period of minimal targeting in the region. The campaign has been attributed to TA416, a cluster of acti…",
@@ -306,27 +328,5 @@
     "timestamp": 1774893900.0,
     "isoDate": "2026-03-30T18:05:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSleuSc-PdTH7u0CSOLasljqQ-HO4A5sIqzvVeeVlGlqynCVYSdgU1c-7zoVavi1OADQiN3-_KS93PbMbmc4daNULqCXV21ChjnRUvqXIPT9mnLRCmbHdVy0YeaMnRuzGBAo8JoJPE5Wnzl3Sf0b_3d1-OV6VB3PKhKy_olGs9mi1YLIOJnAl7uQkYkdjI/s1600/cpr.jpg"
-  },
-  {
-    "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-    "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
-    "summary": "A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad. \"It likely uses AI-assisted obfuscation and process injection to evade static scann…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 30 Mar 2026 21:17:00 +0530",
-    "timestamp": 1774885620.0,
-    "isoDate": "2026-03-30T15:47:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2icgdVOmzM5pZsm88HvvmzcWKRBBXvG94z4fSZMEVPzb7GDoJ_MGDckeaK2dYVEoId5bhMbBtB0bTc0xWJshdOQ-fJEUH5nPIo028Cpm1bmmR1Qlrv5M6atg6oMz0wc0hX4phKfXivitHkWqMiE_Rl7PaD0qIrGMyaq9D_QwAMm62Bw5iaMBlHvwAnIa_/s1600/deepload.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
-    "summary": "Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defe…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 30 Mar 2026 19:26:00 +0530",
-    "timestamp": 1774878960.0,
-    "isoDate": "2026-03-30T13:56:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2e5F9xrNGflqGG3Z7UcoPHMKZnF1j1FJBpwnPfV0MBCUweDKegb97Kcry4OK2kQgx0bQ91Lhem0BdasOpiN9UoKz7rNTAVgBuJzbM9jCaF4APqUsXlkiZfbC35xNWAd0z7T0qZoTN3GdVW9exy7BcEIjV64hinG5pxmbX69KdF_u7qXUpuEZZX_R8vaMP/s1600/recapss.jpg"
   }
 ]
