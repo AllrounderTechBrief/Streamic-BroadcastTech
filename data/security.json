@@ -1,5 +1,16 @@
 [
   {
+    "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
+    "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
+    "summary": "The most active piece of enterprise infrastructure in the company is the developer workstation. That laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI agents. In…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Apr 2026 17:15:00 +0530",
+    "timestamp": 1775475900.0,
+    "isoDate": "2026-04-06T11:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMDHeEKBkLDrqXHQ8NZfqd3KdR2hzLuhCEQuQKp0yXA20kmu7JR385GZdV94U615EVunwKkJkDSHlqeoEiu5pB4uElhCSO_vOXWsVUUJvgNkmZE1Z22o_yIapvMEOwvqaG7B31S4ojGPnDwGVqd7zgdtg53IS0AsTkHJRBOvdwf726Fypp5CP7m-3rtc/s1600/liteLLM-breach.gif"
+  },
+  {
     "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
     "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
     "summary": "Threat actors associated with Qilin and Warlock ransomware operations have been observed using the bring your own vulnerable driver (BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco T…",
@@ -317,16 +328,5 @@
     "timestamp": 1774962540.0,
     "isoDate": "2026-03-31T13:09:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLtnrJRJvkUE-IMtV6DuDmg7t1XhaGyItG6cXmd2cz0-3sd8fgZi5jHZE9valO1-CdJjGcqkkeHxNPM2Y7lLK0lrtJXOEwXscylBbYfyCXtvvAfGeFR5Q7Zwv0Mxsg-iiEjbaN2junJWYJmJmUEBuFDjRXH_X9gYYwR4Jyu-79dMfL1MQPLpKU6O6PtN_R/s1600/google-vertex.jpg"
-  },
-  {
-    "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
-    "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-    "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of ch…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 31 Mar 2026 17:20:00 +0530",
-    "timestamp": 1774957800.0,
-    "isoDate": "2026-03-31T11:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1pgefAVGqPo1F0pVFtbxdewmfgaNvrqH-R-BydTTpenzbOZGvoJMA7wwiXzhDBcxvhEm91tK9CsPBiB24g7WHylYCzuO8XI9tCraDla-ePrNFsli1YYrtjQr6dxN7mQHbuw57EtS1mrUeS3GfNYCuM-7s1MDbW5oUS2tY0kkV8_TNP3jDKPPgUXSJTr8/s1600/ai-power.jpg"
   }
 ]
