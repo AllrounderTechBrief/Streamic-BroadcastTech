@@ -1,5 +1,27 @@
 [
   {
+    "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
+    "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
+    "summary": "Your attack surface no longer lives on one operating system, and neither do the campaigns targeting it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, takin…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Apr 2026 18:30:00 +0530",
+    "timestamp": 1775480400.0,
+    "isoDate": "2026-04-06T13:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixIItKplcozAxhBXqaAcKz33D_p67WELaaBHZDIxGe7-qkKNWIITVvI4a3jSB_A17z89_XvJMprYsmkylYUvuWW4GeMWTWgBCWLWc3i_zPx4XtlW1PJDcbt1doyrUQlE1oeYbSNrmk1XZx-ROkvMyVvaLuryZ8k7MSnBbGEtQLledLStXEcyoapR4wAiA/s1600/cyberattacks.jpg"
+  },
+  {
+    "title": "⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
+    "summary": "This week had real hits. The key software got tampered with. Active bugs showed up in the tools people use every day. Some attacks didn’t even need much effort because the path was already there. One weak spot now spreads wider than before.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Apr 2026 18:16:00 +0530",
+    "timestamp": 1775479560.0,
+    "isoDate": "2026-04-06T12:46:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZyEpyaWHYHm8-TyNZQgYtoAqrsAUDZ0_onxgp1BUSV0khgAkwy7S9fMT75sRAm2blJXN6xw6i4r0fXP_hayN2Afrr7ul6egJc2nvFJUoWqmy0iJCr5JdK9-915pCFpEtRdlOMb-BYexGAPQPdKnGjWPbPlfGFx5qOo5Dhzfjes7_k-s5bYgFDEyMCT5BJ/s1600/recaps.jpg"
+  },
+  {
     "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
     "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
     "summary": "The most active piece of enterprise infrastructure in the company is the developer workstation. That laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI agents. In…",
@@ -306,27 +328,5 @@
     "timestamp": 1774981680.0,
     "isoDate": "2026-03-31T18:28:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVNIw-uYi9MySm3LytKQD-PQgAh4NdQleZDyr_EC4zBRuNzOf2qjlvwgPMg8qsq1sopzgKv1gOlJuQCEs9dq8jwQVdonLibQPm_hJX8ZzOwfgyF6cuoixyotcpY-CvQp3E8fBAzqDRbWmfaCzuc96CH5FwzH7FJaaiVgYjgoC-x6RZOlgfHxFuwqQeq7G/s1600/android-dev.jpg"
-  },
-  {
-    "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
-    "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
-    "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos. The vulnerability in quest…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 31 Mar 2026 21:33:00 +0530",
-    "timestamp": 1774972980.0,
-    "isoDate": "2026-03-31T16:03:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYf7jS0dDRAhfWGLbRiA4eQt-Q3BL8gcG_bDoNQ1dfcZt3Ike4qAlE9lUiSH__y3kdi-MI2kfu-O-PdDf6iCov7VIVBPEkRVJOhx88uNgXTuI-rztvbwFXE9BKwJEsNSKux0yynwxlsDMCzCwyngLOSxWTAZjDFYKvpjyEsnPbRYbGtmC6zGmrMpP-SnqA/s1600/trueconf.jpg"
-  },
-  {
-    "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
-    "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
-    "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and com…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 31 Mar 2026 18:39:00 +0530",
-    "timestamp": 1774962540.0,
-    "isoDate": "2026-03-31T13:09:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLtnrJRJvkUE-IMtV6DuDmg7t1XhaGyItG6cXmd2cz0-3sd8fgZi5jHZE9valO1-CdJjGcqkkeHxNPM2Y7lLK0lrtJXOEwXscylBbYfyCXtvvAfGeFR5Q7Zwv0Mxsg-iiEjbaN2junJWYJmJmUEBuFDjRXH_X9gYYwR4Jyu-79dMfL1MQPLpKU6O6PtN_R/s1600/google-vertex.jpg"
   }
 ]
