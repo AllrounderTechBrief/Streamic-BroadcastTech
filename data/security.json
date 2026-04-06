@@ -1,5 +1,16 @@
 [
   {
+    "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
+    "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
+    "summary": "Threat actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South Korea. The attack chain…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Apr 2026 21:54:00 +0530",
+    "timestamp": 1775492640.0,
+    "isoDate": "2026-04-06T16:24:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh23Q23hk6n_d_f9evdsf7JVcn5OswTUqwd0B8EvWdftPQXN4K1V6nHICk_MvzLf4jUfCCHpUmaZIzECekbKf3PQ2w2gRlY-AphdBRZgyJHq7XQsyIS_vp6iT_fVLoDQ1TFA4DBLT32Q1sTY_WHjGRtzaYMOqMNThcg8JodZ-Aozj2OO21DQLj2agEojjdp/s1600/github.jpg"
+  },
+  {
     "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
     "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
     "summary": "Your attack surface no longer lives on one operating system, and neither do the campaigns targeting it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, takin…",
@@ -317,16 +328,5 @@
     "timestamp": 1775023920.0,
     "isoDate": "2026-04-01T06:12:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39e4BXzk1M6BK7XEJcfogVbdwnYJjie08kNTAeW5T46Tn8UvbbaYGrrEpgw1Pa4IpJYeGe8AR7T_UCp4_vWYTcG-c5DY0HNlHW-8SbYkscVvjAKjKR3gHmlWAQONEx8kg_ANVfOr8OsQ7uTm-XWHW1PNfusxBj-Tn2kn-V2EedPykA3ESB66doPXxGzT8/s1600/claude-code.jpg"
-  },
-  {
-    "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-    "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
-    "summary": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The development comes ahead of a planned verif…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 31 Mar 2026 23:58:00 +0530",
-    "timestamp": 1774981680.0,
-    "isoDate": "2026-03-31T18:28:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVNIw-uYi9MySm3LytKQD-PQgAh4NdQleZDyr_EC4zBRuNzOf2qjlvwgPMg8qsq1sopzgKv1gOlJuQCEs9dq8jwQVdonLibQPm_hJX8ZzOwfgyF6cuoixyotcpY-CvQp3E8fBAzqDRbWmfaCzuc96CH5FwzH7FJaaiVgYjgoC-x6RZOlgfHxFuwqQeq7G/s1600/android-dev.jpg"
   }
 ]
