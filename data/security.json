@@ -1,5 +1,16 @@
 [
   {
+    "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
+    "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. The threat…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Apr 2026 12:29:00 +0530",
+    "timestamp": 1775458740.0,
+    "isoDate": "2026-04-06T06:59:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBHK8DX9E30isZVcn1e-a6p8bmNUAki0SmUh1Tkt9dP8L3D4_WcwT64CI5OVuh1brb1Z4pff7onp90K76ktHbs6-H6Kr0rq9Q2f03oW91e3mA5dN5XdLDyWNns5NcfXw7BKFzH28SbpaFo9l8TmMeZ7Mt6o1ePanKeFYGa8V1S9Rez_E30SIAx2yvfuNl/s1600/revil-ransomware.jpg"
+  },
+  {
     "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
     "link": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
     "summary": "Drift has revealed that the April 1, 2026, attack that led to the theft of $285 million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Ko…",
@@ -317,16 +328,5 @@
     "timestamp": 1774957560.0,
     "isoDate": "2026-03-31T11:46:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQmoJ2iwUTLR-DicdD0xa7_oYXgpGalL3L_-4LyX9YMApiotQC-omFlhdcQByUQat1YJdd7ElMqhp8FDYpoaljcvVmCFPXS4yRRh0_KnKa6FgqoEpiaKHJhoecKKap1MgoPWw1a6H7LfJrYo9m_YXqh3BaoES1tPEmuCbgO3snV34jtkrK7j8t4Qk30jj/s1600/cyberattacks-asia.jpg"
-  },
-  {
-    "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
-    "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-    "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 31 Mar 2026 11:38:00 +0530",
-    "timestamp": 1774937280.0,
-    "isoDate": "2026-03-31T06:08:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdY8iKA7o-K-4HkIjPMiBRWAn5vCvSNDu1sm09t10vWMzXO6cIblLHQyu1no-KBhq4W7EWS03zqvI4n_k9mYWCDsCVoiX4cwsV9T862WTq1yGb6VkX1ZGTa7MKZE43llbF9n2Py1mC2yhCIfRlXGkvya_NQ9lX7vZ32YW8pHZlw1dPZcI9eCrgysiWqSSR/s1600/Axios-attack.jpg"
   }
 ]
