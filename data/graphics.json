@@ -1,5 +1,49 @@
 [
   {
+    "title": "Grants",
+    "link": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+    "summary": "Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the form. You will receive an automated email with the most commonly requested grant status information. Important Instructions: How to Fil…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 06 Apr 2026 15:22:30 +0000",
+    "timestamp": 1775488950.0,
+    "isoDate": "2026-04-06T15:22:30+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2020/08/NSSC-BLDG-2012-03.jpg?w=1536"
+  },
+  {
+    "title": "Elite Media Technologies Selects Interra Systems’ BATON QC Solution",
+    "link": "https://tvnewscheck.com/tech/article/elite-media-technologies-selects-interra-systems-baton-qc-solution/",
+    "summary": "Elite Media Technologies has selected Interra Systems’ BATON file-based QC solution for its media workflows. Elite Media Technologies specializes in master-level and international audio QC, SDR and HDR finishing, IMF … The post Elite Media …",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Mon, 06 Apr 2026 15:01:35 +0000",
+    "timestamp": 1775487695.0,
+    "isoDate": "2026-04-06T15:01:35+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "The Near Side of the Moon",
+    "link": "https://www.nasa.gov/image-article/the-near-side-of-the-moon/",
+    "summary": "The astronauts aboard NASA’s Orion spacecraft captured this photo of the Moon’s near side on April 4, 2026. The image features dark patches at center and right; these are ancient lava flows, which are unique to this side of the Moon. The Ar…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 06 Apr 2026 14:59:19 +0000",
+    "timestamp": 1775487559.0,
+    "isoDate": "2026-04-06T14:59:19+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009057orig.jpg?w=2048"
+  },
+  {
+    "title": "Locality Acquires Deben To Advance Data-Driven Broadcast",
+    "link": "https://tvnewscheck.com/business/article/locality-acquires-deben-to-advance-data-driven-broadcast/",
+    "summary": "Locality, a provider of local TV advertising platforms connecting brands to audiences across broadcast and streaming, has acquired Deben, a media planning software company focused on cross-channel planning and optimization. … The post Local…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Mon, 06 Apr 2026 14:55:40 +0000",
+    "timestamp": 1775487340.0,
+    "isoDate": "2026-04-06T14:55:40+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "DHD Adds AI-Based Audio Noise Reduction To XD3 IP Core",
     "link": "https://tvnewscheck.com/tech/article/dhd-adds-ai-based-audio-noise-reduction-to-xd3-ip-core/",
     "summary": "DHD, a provider of produces digital audio studio equipment and systems, is making AI-based audio noise reduction available as a new licensed option for its XD3 IP Core, providing broadcasters … The post DHD Adds AI-Based Audio Noise Reducti…",
@@ -363,17 +407,6 @@
     "imageUrl": ""
   },
   {
-    "title": "TAG Video Systems & Oracle Cloud Infrastructure Partner To Bring Broadcast Monitoring to OCI",
-    "link": "https://tvnewscheck.com/tech/article/tag-video-systems-oracle-cloud-infrastructure-partner-to-bring-broadcast-monitoring-to-oci/",
-    "summary": "TAG Video Systems, a global provider of IP-native broadcast monitoring, multiviewing and quality control, are collaborating with Oracle Cloud Infrastructure (OCI). The relationship marks a significant milestone in TAG’s cloud … The post TAG…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Fri, 03 Apr 2026 17:07:02 +0000",
-    "timestamp": 1775236022.0,
-    "isoDate": "2026-04-03T17:07:02+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Virgil I. “Gus” Grissom",
     "link": "https://www.nasa.gov/image-article/virgil-i-gus-grissom/",
     "summary": "Today marks the 100th anniversary of the birth of Virgil I. “Gus” Grissom, born April 3, 1926, in Mitchell, Indiana. As one of NASA’s first seven astronauts, he became America’s second astronaut to fly in space when he launched aboard the L…",
@@ -383,17 +416,6 @@
     "timestamp": 1775233629.0,
     "isoDate": "2026-04-03T16:27:09+00:00",
     "imageUrl": "https://images-assets.nasa.gov/image/s61-02898/s61-02898~large.jpg?w=1920&h=1464&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Boston Legacy FC Sets Regional TV Partnership With WBTS Boston & NBC Sports Boston",
-    "link": "https://tvnewscheck.com/programming/article/boston-legacy-fc-sets-regional-tv-partnership-with-wbts-boston-nbc-sports-boston/",
-    "summary": "Boston Legacy FC today announced a multi-year regional media partnership with WBTS (NBC 10) and NBC Sports Boston. Through the partnership, WBTS and NBC Sports Boston will present live coverage of … The post Boston Legacy FC Sets Regional T…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Fri, 03 Apr 2026 15:18:55 +0000",
-    "timestamp": 1775229535.0,
-    "isoDate": "2026-04-03T15:18:55+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Hello, World",
@@ -416,28 +438,6 @@
     "timestamp": 1775188800.0,
     "isoDate": "2026-04-03T04:00:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/barents-sea-tied-to-low-arctic-sea-ice/barentsice_tmo_20260317.jpg?w=2160&h=2040&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon",
-    "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/",
-    "summary": "For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service mo…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 03 Apr 2026 02:48:08 +0000",
-    "timestamp": 1775184488.0,
-    "isoDate": "2026-04-03T02:48:08+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/tli.jpg?w=1902"
-  },
-  {
-    "title": "Artemis II Astronauts Launch to Moon",
-    "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/",
-    "summary": "NASA’s Space Launch System rocket and Orion spacecraft lift off in this April 1, 2026, image. NASA’s Artemis II mission will take NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jer…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Thu, 02 Apr 2026 16:50:01 +0000",
-    "timestamp": 1775148601.0,
-    "isoDate": "2026-04-02T16:50:01+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/55182924516-9d78d1e3ef-o.jpg?w=2048"
   },
   {
     "title": "How Ross Video’s production-as-a-service helps sports venues deliver on the biggest stages",
