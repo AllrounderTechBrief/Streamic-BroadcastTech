@@ -1,5 +1,16 @@
 [
   {
+    "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+    "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+    "summary": "An Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid ongoing conflict in the Middle East. The activity, assessed to be ongoing, was carried out …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Apr 2026 00:07:00 +0530",
+    "timestamp": 1775500620.0,
+    "isoDate": "2026-04-06T18:37:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgf4g-Zhhi4P6IHkSqUlU3EzCQNKPJ1nV3mWfQAtS6gfGu6H7wuq5OgVXGvF1IM2afayopX3b0zj4bjVDYaO7dBc4rl0A0Y6GND1VkbLdug_ULVW6a6P7iNlhUFGwMsRSDHqbodsc8EeLcg2nXxDPXO0h8RABu_jr9o-5cx8g5GTXxFgDOx9PTRQIFECpL/s1600/iran.jpg"
+  },
+  {
     "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
     "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
     "summary": "Threat actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South Korea. The attack chain…",
@@ -317,16 +328,5 @@
     "timestamp": 1775029440.0,
     "isoDate": "2026-04-01T07:44:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4u0-_Mq5eI-6nWqV9d-E4BTvsdeDTEcK8Bo7pHnANyD6m8b8d5dPcx86sb1P-PjfLce84hgNF8ja8y2tvnYjlmvE4VGzyvAyGqd6TGOxYei3Oz-F_IvVEDxAvamRe4acysr0FqtfWgbLbDhBQxy6ovy2_V47P2d-1qDZig0pcPPnxTCEGfTzKnUXnJEgU/s1600/axios-northkorea.jpg"
-  },
-  {
-    "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-    "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-    "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Apr 2026 11:42:00 +0530",
-    "timestamp": 1775023920.0,
-    "isoDate": "2026-04-01T06:12:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39e4BXzk1M6BK7XEJcfogVbdwnYJjie08kNTAeW5T46Tn8UvbbaYGrrEpgw1Pa4IpJYeGe8AR7T_UCp4_vWYTcG-c5DY0HNlHW-8SbYkscVvjAKjKR3gHmlWAQONEx8kg_ANVfOr8OsQ7uTm-XWHW1PNfusxBj-Tn2kn-V2EedPykA3ESB66doPXxGzT8/s1600/claude-code.jpg"
   }
 ]
