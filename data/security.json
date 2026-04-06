@@ -1,8 +1,19 @@
 [
   {
+    "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
+    "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
+    "summary": "Threat actors associated with Qilin and Warlock ransomware operations have been observed using the bring your own vulnerable driver (BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco T…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Apr 2026 15:37:00 +0530",
+    "timestamp": 1775470020.0,
+    "isoDate": "2026-04-06T10:07:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrUKOrJ2Y_pSYHNcKDjbrBsZa2igYlNorTwmH31JNSjdA7VP84kXj23nmkk7DTqlrCUsfCjNo6xt-niyZeKeCR7VtBzMWW9eNUKzU0WGnpmw2yYjHBdboP2uF2UA8CCsdclyeDlRJcU7DEOD8OrFthlhQX-OkgePmyT__ZDQA4IXgRYbnNtp21MoleCTU/s1600/lock-ransomware.jpg"
+  },
+  {
     "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
     "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-    "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. The threat…",
+    "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. One of t…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Mon, 06 Apr 2026 12:29:00 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1774957800.0,
     "isoDate": "2026-03-31T11:50:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1pgefAVGqPo1F0pVFtbxdewmfgaNvrqH-R-BydTTpenzbOZGvoJMA7wwiXzhDBcxvhEm91tK9CsPBiB24g7WHylYCzuO8XI9tCraDla-ePrNFsli1YYrtjQr6dxN7mQHbuw57EtS1mrUeS3GfNYCuM-7s1MDbW5oUS2tY0kkV8_TNP3jDKPPgUXSJTr8/s1600/ai-power.jpg"
-  },
-  {
-    "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-    "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-    "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clien…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 31 Mar 2026 17:16:00 +0530",
-    "timestamp": 1774957560.0,
-    "isoDate": "2026-03-31T11:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQmoJ2iwUTLR-DicdD0xa7_oYXgpGalL3L_-4LyX9YMApiotQC-omFlhdcQByUQat1YJdd7ElMqhp8FDYpoaljcvVmCFPXS4yRRh0_KnKa6FgqoEpiaKHJhoecKKap1MgoPWw1a6H7LfJrYo9m_YXqh3BaoES1tPEmuCbgO3snV34jtkrK7j8t4Qk30jj/s1600/cyberattacks-asia.jpg"
   }
 ]
