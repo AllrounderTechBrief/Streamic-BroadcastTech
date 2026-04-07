@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cloudflare targets 2029 for full post-quantum security",
+    "link": "https://blog.cloudflare.com/post-quantum-roadmap/",
+    "summary": "Recent advances in quantum hardware and software have accelerated the timeline on which quantum attack might happen. Cloudflare is responding by moving our target for full post-quantum security to 2029.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 07 Apr 2026 21:00:00 GMT",
+    "timestamp": 1775595600.0,
+    "isoDate": "2026-04-07T21:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/CxLrmxb2dExy2S5FL0ouy/e1ee5616ce31d15ed8e0fd7b40ae2a39/image2.jpg"
+  },
+  {
     "title": "How NFL Next Gen Stats Built the NFL IQ AI Assistant with Amazon Quick",
     "link": "https://aws.amazon.com/blogs/media/how-nfl-next-gen-stats-built-the-nfl-iq-ai-assistant-with-amazon-quick/",
     "summary": "NFL IQ’s conversational approach to football data replaces tool navigation with natural conversation across stats, models, and team insights so fans get instant answers. Every NFL offseason runs on data. Player tracking from NFL Next Gen St…",
@@ -262,17 +273,6 @@
     "timestamp": 1773147600.0,
     "isoDate": "2026-03-10T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1zpFguYrnbOPwyASGQCqZK/63f398acce2226e453a5eea1cc749241/image3.png"
-  },
-  {
-    "title": "Building a security overview dashboard for actionable insights",
-    "link": "https://blog.cloudflare.com/security-overview-dashboard/",
-    "summary": "Cloudflare's new Security Overview dashboard transforms overwhelming security data into prioritized, actionable insights, empowering defenders with contextual intelligence on vulnerabilities.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 10 Mar 2026 13:00:00 GMT",
-    "timestamp": 1773147600.0,
-    "isoDate": "2026-03-10T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/48MDFWpOUvJ1oHgj1SpHtf/6753298792d1a4cbfb7fb0766d255431/image7.png"
   },
   {
     "title": "How AWS powers Dramaze AI-enhanced streaming platform",
