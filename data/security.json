@@ -1,5 +1,16 @@
 [
   {
+    "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
+    "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
+    "summary": "A China-based threat actor known for deploying Medusa ransomware has been linked to the weaponization of a combination of zero-day and N-day vulnerabilities to orchestrate \"high-velocity\" attacks and break into susceptible internet-facing s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Apr 2026 12:05:00 +0530",
+    "timestamp": 1775543700.0,
+    "isoDate": "2026-04-07T06:35:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-ulbNH0WxLgcWOo1fnNpmYNLvHo4VW23VmfdGvDlcbd9IvuUBKMp1hY21B2NlBxtCNa5FCPEzjxPaLpOhz2uXR22uAmgHF0n-wJMb6DZmPFPjlC2QsYb0Vi4qvqmVzPcOmMr8NbwGSYYrceDknuVJ6xnzcDUUrmwO_ObAeq_Pmwf8AHeFlcQFwwpb-H3/s1600/medusa.jpg"
+  },
+  {
     "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
     "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
     "summary": "Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck. The vulnerability in question is CVE-2025-59528 (CVSS score: 10.0), a …",
@@ -317,16 +328,5 @@
     "timestamp": 1775043720.0,
     "isoDate": "2026-04-01T11:42:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyWMOJn1hR_Pua9p7XXWPbTqgrYvXyaNEXlnlLUQ0duD4P-W9fGyvbuprkiN0IMEE5_2vzt5mc603V4l_G5eH5KpKFgmk-lARuEXxcQVIgCNb-NPJghF3wvF9Wf8mF3kEJUY0TA6a3aBDw87MC9RivwM9ZVRfLRpwwNqaP67cU8nvtO8RKGsi5OsFIgSVn/s1600/chrome-exploit.jpg"
-  },
-  {
-    "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
-    "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
-    "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s already inside your environment, including…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Apr 2026 16:28:00 +0530",
-    "timestamp": 1775041080.0,
-    "isoDate": "2026-04-01T10:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnuThJU5o7fpNxZwlNpyZFxPX9Y7rDp2TF2zUrPTRMhLEcnv7UQfdVgoAJ5gh8-JpgNvnJOG5dbOABLCmemzmYazgTwPTxScbn9vlwlCouNIuKZvmaeE3mcza5ceAfKBfpkbeAUKcOd9eZoBWXgjEvuDAORSPICahRqIz4g0BkwD84YZwB547OHBLsoZs/s1600/main.jpg"
   }
 ]
