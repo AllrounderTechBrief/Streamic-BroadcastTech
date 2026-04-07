@@ -1,5 +1,16 @@
 [
   {
+    "title": "Drought Parches Florida",
+    "link": "https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/",
+    "summary": "The state was unusually dry for much of 2025, but the intensity of the drought has ratcheted up since January 2026.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 07 Apr 2026 04:01:00 +0000",
+    "timestamp": 1775534460.0,
+    "isoDate": "2026-04-07T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-dry-winter-for-florida/flordrought_grc_20260330.jpg?w=1440&h=1260&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Dow Gains 165, Nasdaq Climbs 117, S&P 500 Adds 29",
     "link": "https://tvnewscheck.com/business/article/dow-gains-165-nasdaq-climbs-117-sp-500-adds-29/",
     "summary": "U.S. stocks drifted higher Monday ahead of Trump's deadline to bomb Iranian power plants. The post Dow Gains 165, Nasdaq Climbs 117, S&P 500 Adds 29 appeared first on TV News Check.",
@@ -427,17 +438,6 @@
     "timestamp": 1775253691.0,
     "isoDate": "2026-04-03T22:01:31+00:00",
     "imageUrl": "https://images-assets.nasa.gov/image/iss073e0816153/iss073e0816153~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Meet NASA’s New Artemis II Science Officers",
-    "link": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/",
-    "summary": "NASA’s first Artemis II science officers—Kelsey Young, Trevor Graff, and Angela Garcia—are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Arte…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 03 Apr 2026 17:35:44 +0000",
-    "timestamp": 1775237744.0,
-    "isoDate": "2026-04-03T17:35:44+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e006229.jpg?w=7230&h=5423&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "How Ross Video’s production-as-a-service helps sports venues deliver on the biggest stages",
