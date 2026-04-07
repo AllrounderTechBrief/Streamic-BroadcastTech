@@ -1,5 +1,16 @@
 [
   {
+    "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
+    "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
+    "summary": "Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck. The vulnerability in question is CVE-2025-59528 (CVSS score: 10.0), a …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Apr 2026 11:26:00 +0530",
+    "timestamp": 1775541360.0,
+    "isoDate": "2026-04-07T05:56:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGR6ZfT0_UppVPQsgk7lwTbzfybdDFY-HeJi9F6VE6HuN7-Ja-lpveDnPA-kcS7x8l1oZ0lUqPoEFdRTOMt0Z8H6EeT_NadV_P7bjlh8Je6Q-T5KAlOCzOWt-LyY3jY8RsTlRTUzuXsVwf_gs-_KyXw8G_LcFz2dY-2P9XozQWy2p9PneNGUMctvpIZYM/s1600/flowise.jpg"
+  },
+  {
     "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
     "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
     "summary": "An Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid ongoing conflict in the Middle East. The activity, assessed to be ongoing, was carried out …",
@@ -317,16 +328,5 @@
     "timestamp": 1775041080.0,
     "isoDate": "2026-04-01T10:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnuThJU5o7fpNxZwlNpyZFxPX9Y7rDp2TF2zUrPTRMhLEcnv7UQfdVgoAJ5gh8-JpgNvnJOG5dbOABLCmemzmYazgTwPTxScbn9vlwlCouNIuKZvmaeE3mcza5ceAfKBfpkbeAUKcOd9eZoBWXgjEvuDAORSPICahRqIz4g0BkwD84YZwB547OHBLsoZs/s1600/main.jpg"
-  },
-  {
-    "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
-    "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
-    "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. \"We have attributed the attack to a suspected North Korean threa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Apr 2026 13:14:00 +0530",
-    "timestamp": 1775029440.0,
-    "isoDate": "2026-04-01T07:44:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4u0-_Mq5eI-6nWqV9d-E4BTvsdeDTEcK8Bo7pHnANyD6m8b8d5dPcx86sb1P-PjfLce84hgNF8ja8y2tvnYjlmvE4VGzyvAyGqd6TGOxYei3Oz-F_IvVEDxAvamRe4acysr0FqtfWgbLbDhBQxy6ovy2_V47P2d-1qDZig0pcPPnxTCEGfTzKnUXnJEgU/s1600/axios-northkorea.jpg"
   }
 ]
