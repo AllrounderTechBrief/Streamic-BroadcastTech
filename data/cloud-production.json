@@ -1,71 +1,5 @@
 [
   {
-    "title": "AWS brings AI-powered scale to storytellers at NAB 2026",
-    "link": "https://www.broadcastbeat.com/aws-brings-ai-powered-scale-to-storytellers-at-nab-2026/",
-    "summary": "NAB Show brings together the global media and entertainment community to explore new ideas and discover emerging tools, setting new trends for how stories are created, distributed, and monetized. At this year’s NAB, being held April 18-22, …",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 16:54:54 +0000",
-    "timestamp": 1775580894.0,
-    "isoDate": "2026-04-07T16:54:54+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Chris Welcker Deployed Full DPA Arsenal to Record Live Music for “Sinners”",
-    "link": "https://www.broadcastbeat.com/chris-welcker-deployed-full-dpa-arsenal-to-record-live-music-for-sinners/",
-    "summary": "NEW ORLEANS, APRIL 7, 2026 ― Catgut Sound Owner and Production Sound Mixer Chris Welcker, CAS, has built a career at the intersection of music and film. A former musician and composer, Welcker worked his way up from utility sound technician…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 16:28:58 +0000",
-    "timestamp": 1775579338.0,
-    "isoDate": "2026-04-07T16:28:58+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Ikegami to Introduce Expanded Range of Broadcast Production Solutions at NAB 2026",
-    "link": "https://www.broadcastbeat.com/ikegami-to-introduce-expanded-range-of-broadcast-production-solutions-at-nab-2026/",
-    "summary": "Mahwah, NJ, April 7th, 2026: Ikegami USA has chosen NAB 2026 in Las Vegas as the launch platform for new additions to its range of broadcast-quality television production equipment. These will include a refinement to the UHK-X700 and UHK-X7…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 15:16:09 +0000",
-    "timestamp": 1775574969.0,
-    "isoDate": "2026-04-07T15:16:09+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "SDVI Launches Next-Generation Rally Platform to Give Media Operations Teams Greater Speed, Simplicity, and AI Readiness",
-    "link": "https://www.broadcastbeat.com/sdvi-launches-next-generation-rally-platform-to-give-media-operations-teams-greater-speed-simplicity-and-ai-readiness/",
-    "summary": "SUNNYVALE, Calif. — April 7, 2026 — SDVI Corporation today announced the next generation of its Rally media supply chain management platform, introducing a redesigned orchestration engine that represents the most substantial evolution of th…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 14:43:48 +0000",
-    "timestamp": 1775573028.0,
-    "isoDate": "2026-04-07T14:43:48+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Neutrik Group Americas Launches NEUTRIK TRUE1 DATA Connector Series at NAB 2026",
-    "link": "https://www.broadcastbeat.com/neutrik-group-americas-launches-neutrik-true1-data-connector-series-at-nab-2026/",
-    "summary": "LAS VEGAS, APRIL 7, 2026 – Neutrik Group Americas, a subsidiary of Neutrik AG including the NEUTRIK®, REAN®, and CONTRIK® brands and the leading supplier of robust and reliable professional AVL connectivity solutions, unveils the NEUTRIK TR…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 14:34:33 +0000",
-    "timestamp": 1775572473.0,
-    "isoDate": "2026-04-07T14:34:33+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Frequency Launches Smarter, More Efficient Ways to Operate Streaming Channels at NAB 2026",
-    "link": "https://www.broadcastbeat.com/frequency-launches-smarter-more-efficient-ways-to-operate-streaming-channels-at-nab-2026/",
-    "summary": "Frequency, the engine behind many of the world’s leading streaming television channels, at NAB 2026 will be launching new Studio services to help content owners run their channels more efficiently. Customers will be able to make improved pr…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 13:26:13 +0000",
-    "timestamp": 1775568373.0,
-    "isoDate": "2026-04-07T13:26:13+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "How NFL Next Gen Stats Built the NFL IQ AI Assistant with Amazon Quick",
     "link": "https://aws.amazon.com/blogs/media/how-nfl-next-gen-stats-built-the-nfl-iq-ai-assistant-with-amazon-quick/",
     "summary": "NFL IQ’s conversational approach to football data replaces tool navigation with natural conversation across stats, models, and team insights so fans get instant answers. Every NFL offseason runs on data. Player tracking from NFL Next Gen St…",
@@ -74,39 +8,6 @@
     "timeAgo": "Tue, 07 Apr 2026 12:23:23 +0000",
     "timestamp": 1775564603.0,
     "isoDate": "2026-04-07T12:23:23+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Bitmovin Adds Support for SGAI in its Playback Products to Take Ad-Supported Streaming to the Next Level",
-    "link": "https://www.broadcastbeat.com/bitmovin-adds-support-for-sgai-in-its-playback-products-to-take-ad-supported-streaming-to-the-next-level/",
-    "summary": "Bitmovin has announced support for Server-Guided Ad Insertion (SGAI) across its playback products using HLS interstitials, enabling more advanced ad-supported streaming. By combining the benefits of client-side and server-side ad insertion,…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 12:02:55 +0000",
-    "timestamp": 1775563375.0,
-    "isoDate": "2026-04-07T12:02:55+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Chile’s TvTel goes live with Nevion Virtuoso-based HEVC remote production",
-    "link": "https://www.broadcastbeat.com/chiles-tvtel-goes-live-with-nevion-virtuoso-based-hevc-remote-production/",
-    "summary": "Sony codec delivers premium quality picture with low latency for Chilean football league coverage Oslo, Norway, 7 April, 2026 – Nevion, a Sony group company, announced today TvTel (formerly Vivaro Video), a leading provider of technical and…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 11:46:56 +0000",
-    "timestamp": 1775562416.0,
-    "isoDate": "2026-04-07T11:46:56+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Cuez Brings Four New Innovations to NAB 2026: From Story-Centric Newsroom to Open AI Agent Framework",
-    "link": "https://www.broadcastbeat.com/cuez-brings-four-new-innovations-to-nab-2026-from-story-centric-newsroom-to-open-ai-agent-framework/",
-    "summary": "Fairfield, NJ, USA, April 7th, 2026 – Cuez will showcase four additions to its cloud-based newsroom, rundown and automation platform at NAB Show 2026 (April 18–22, Las Vegas, Booth N1867): • Cuez Storydesk: A brand new story-centric newsroo…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 10:26:06 +0000",
-    "timestamp": 1775557566.0,
-    "isoDate": "2026-04-07T10:26:06+00:00",
     "imageUrl": ""
   },
   {
@@ -119,72 +20,6 @@
     "timestamp": 1775510199.0,
     "isoDate": "2026-04-06T21:16:39+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/06/header-blog.png"
-  },
-  {
-    "title": "​​Saranyu Technologies Launches ‘MATCH’ — Multi-View Sports Streaming Player Built on VisualOn HTML5+",
-    "link": "https://www.broadcastbeat.com/saranyu-technologies-launches-match-multi-view-sports-streaming-player-built-on-visualon-html5/",
-    "summary": "Designed for synchronized multi-stream playback, low-latency delivery, and real-time analytics, MATCH introduces a unified viewing experience for sports broadcasters and OTT operators across emerging and global markets. [Las Vegas – April 0…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 06 Apr 2026 17:09:09 +0000",
-    "timestamp": 1775495349.0,
-    "isoDate": "2026-04-06T17:09:09+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "CVP Grows European Footprint with Strategic Expansion in Germany",
-    "link": "https://www.broadcastbeat.com/cvp-grows-european-footprint-with-strategic-expansion-in-germany/",
-    "summary": "CVP, one of Europe’s leading suppliers of professional video and broadcast solutions, today announces the launch of its new German operation and the formation of a dedicated DACH team, marking a major step in the company’s European expansio…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 02 Apr 2026 21:55:44 +0000",
-    "timestamp": 1775166944.0,
-    "isoDate": "2026-04-02T21:55:44+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "MRMC Announces Appointment of Chief Operating Officer",
-    "link": "https://www.broadcastbeat.com/mrmc-announces-appointment-of-chief-operating-officer/",
-    "summary": "Surrey, UK – 02 April 2026 – Mark Roberts Motion Control (MRMC) today announces the appointment of Nick Barthee as Chief Operating Officer, strengthening its leadership as the company continues to support its customers and build on its esta…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 02 Apr 2026 21:33:02 +0000",
-    "timestamp": 1775165582.0,
-    "isoDate": "2026-04-02T21:33:02+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Net Insight Introduces Programmable Trust Boundaries for Predictable Live Media",
-    "link": "https://www.broadcastbeat.com/net-insight-introduces-programmable-trust-boundaries-for-predictable-live-media/",
-    "summary": "Stockholm, Sweden April 1, 2026. Net Insight introduces programmable Trust Boundaries that make live media interconnection predictable as traffic moves between facilities, networks and cloud environments, connecting operational domains with…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 02 Apr 2026 21:03:19 +0000",
-    "timestamp": 1775163799.0,
-    "isoDate": "2026-04-02T21:03:19+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Macnica Redefines ST 2110 Flexibility with Two Speeds on One Card",
-    "link": "https://www.broadcastbeat.com/macnica-redefines-st-2110-flexibility-with-two-speeds-on-one-card/",
-    "summary": "New for NAB Show 2026, MEP100 SmartNIC now supports both 25GbE and 100GbE media flows, alongside enhanced GPU integration, application support and metadata capabilities for scalable live production across IP networks SOLANA BEACH, CALIFORNI…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 02 Apr 2026 16:25:49 +0000",
-    "timestamp": 1775147149.0,
-    "isoDate": "2026-04-02T16:25:49+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Sonnet Announces Two Professional Thunderbolt 5 Docking Stations with 10GbE for Mac, Windows, and Chromebook Computers",
-    "link": "https://www.broadcastbeat.com/sonnet-announces-two-professional-thunderbolt-5-docking-stations-with-10gbe-for-mac-windows-and-chromebook-computers/",
-    "summary": "LAKE FOREST, Calif. — April 1, 2026 Docks Feature Three Thunderbolt 5 Ports, One 10 Gigabit Ethernet Port, Nine 10Gbps USB Ports, High-Resolution Audio Ports, and Two Video Outputs; Provide 140 Watts of Charging Power to Laptop Computers Wh…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 02 Apr 2026 14:35:37 +0000",
-    "timestamp": 1775140537.0,
-    "isoDate": "2026-04-02T14:35:37+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Live streaming localization and accessibility using AWS Media Services",

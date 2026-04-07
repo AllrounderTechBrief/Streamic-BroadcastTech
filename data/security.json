@@ -1,5 +1,27 @@
 [
   {
+    "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+    "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+    "summary": "The Russia-linked threat actor known as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Apr 2026 22:18:00 +0530",
+    "timestamp": 1775580480.0,
+    "isoDate": "2026-04-07T16:48:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6xcrxyaKNQYXfVN-AHFfiSrJ_8SwW3v7MgKlJNBi-E5WIwT3ZNrNm4fcT0JZKHHLH9fbtMKdYhG_2DBHxkIy7-EydaWvEeeo4LDRPgAJ1K8i-YFeD9a0gPnw92xfN4FU3k7rQUhizsFLL8fiAo2YOw-ql-Ru07KtBUoA__B_fGYW4I6jnnn-OPwxoXnCx/s1600/router.jpg"
+  },
+  {
+    "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+    "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
+    "summary": "In the rapid evolution of the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security leaders: Identity programs are maturing, yet the risk is actually increasing. According to new research from the Ponemon Institute…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Apr 2026 21:59:00 +0530",
+    "timestamp": 1775579340.0,
+    "isoDate": "2026-04-07T16:29:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHgJL0SczODx5PAnF85b8b0mRpiOOkIQdOWvhivyXu6H8UeZKH9ZUdaeW5IuU59q2hjMNioQWQ5vk1Km8yinGGc8GA079qvhTtFsp9PV76Kmp-3lpKh2zi3vgd_-6dFcOI6i1YHs7VkJ-p-HvOEuOwkjooBVSvYFOrVqXqNhZShZy3IUeD6BVHVvUIj50/s1600/webinar-cerby.jpg"
+  },
+  {
     "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
     "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
     "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The vulnerability, tracked as CVE-2026-34040 (CVSS score: 8.8), s…",
@@ -20,17 +42,6 @@
     "timestamp": 1775565960.0,
     "isoDate": "2026-04-07T12:46:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNAquH2CuNdKvNbKqIsmTqg2Rpb5SRn8zxBKdQliREzpq_Byd0ye0aD8IFVa1JUj09QnQVJVnAVET30DX0jRBK1LBXJ-16QC_GoiYDH2ibCfoYcttx3McOurmn9e4cSugeNgEQa-oVqR13I9K1h6ktgggudmT3u88I_iN_ksHQvuS2N0u0uGlUNTW_Tv9l/s1600/compfyui.jpg"
-  },
-  {
-    "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-    "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-    "summary": "In the rapid evolution of the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security leaders: Identity programs are maturing, yet the risk is actually increasing. According to new research from the Ponemon Institute…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 07 Apr 2026 17:47:00 +0530",
-    "timestamp": 1775564220.0,
-    "isoDate": "2026-04-07T12:17:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHgJL0SczODx5PAnF85b8b0mRpiOOkIQdOWvhivyXu6H8UeZKH9ZUdaeW5IuU59q2hjMNioQWQ5vk1Km8yinGGc8GA079qvhTtFsp9PV76Kmp-3lpKh2zi3vgd_-6dFcOI6i1YHs7VkJ-p-HvOEuOwkjooBVSvYFOrVqXqNhZShZy3IUeD6BVHVvUIj50/s1600/webinar-cerby.jpg"
   },
   {
     "title": "The Hidden Cost of Recurring Credential Incidents",
@@ -317,16 +328,5 @@
     "timestamp": 1775123460.0,
     "isoDate": "2026-04-02T09:51:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1Qe0E88MYHp7xg6ApE5TypZK__02tmUnhvX60svA9npwirnTJbAb-Wl4rvLo3gq3kX1l9JUXDgXZJ0yPGNZlUo8n5DG1-pqONNFQIA2epqNdU7tNGZSJPJCthWLHtnDdO8jWQ5YzwY7TWUn_9SJP5pu0vHX2i3-L0zM5dZscSR4wAUPWAN1fm-3zgOGE/s1600/whatsapp-alert.jpg"
-  },
-  {
-    "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
-    "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
-    "summary": "Apple on Wednesday expanded the availability of iOS 18.7.7 and iPadOS 18.7.7 to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known as DarkSword. \"We enabled the availability of iOS 18.7…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 02 Apr 2026 12:39:00 +0530",
-    "timestamp": 1775113740.0,
-    "isoDate": "2026-04-02T07:09:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPIq2XjzxLFTE4iwZWuKsLifOBVn0sVZv2vDEl0D3eXsyiW8ePJH7ukb29zq7gb7-7fJy8WjCRC5e-sYoMLXT4ZE-12llaj0H76qjygPmEl7cuGiC4jrLaMdDX5M55YsuYhdtbn8k5gCosH-JwHU3H-b7ho_5Lvg4pjoKf2Lz39lOumTGuxldWK1YQvfJ/s1600/apple-update.jpg"
   }
 ]
