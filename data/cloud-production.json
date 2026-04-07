@@ -1,5 +1,38 @@
 [
   {
+    "title": "Frequency Launches Smarter, More Efficient Ways to Operate Streaming Channels at NAB 2026",
+    "link": "https://www.broadcastbeat.com/frequency-launches-smarter-more-efficient-ways-to-operate-streaming-channels-at-nab-2026/",
+    "summary": "Frequency, the engine behind many of the world’s leading streaming television channels, at NAB 2026 will be launching new Studio services to help content owners run their channels more efficiently. Customers will be able to make improved pr…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 07 Apr 2026 13:26:13 +0000",
+    "timestamp": 1775568373.0,
+    "isoDate": "2026-04-07T13:26:13+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "How NFL Next Gen Stats Built the NFL IQ AI Assistant with Amazon Quick",
+    "link": "https://aws.amazon.com/blogs/media/how-nfl-next-gen-stats-built-the-nfl-iq-ai-assistant-with-amazon-quick/",
+    "summary": "NFL IQ’s conversational approach to football data replaces tool navigation with natural conversation across stats, models, and team insights so fans get instant answers. Every NFL offseason runs on data. Player tracking from NFL Next Gen St…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 07 Apr 2026 12:23:23 +0000",
+    "timestamp": 1775564603.0,
+    "isoDate": "2026-04-07T12:23:23+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Bitmovin Adds Support for SGAI in its Playback Products to Take Ad-Supported Streaming to the Next Level",
+    "link": "https://www.broadcastbeat.com/bitmovin-adds-support-for-sgai-in-its-playback-products-to-take-ad-supported-streaming-to-the-next-level/",
+    "summary": "Bitmovin has announced support for Server-Guided Ad Insertion (SGAI) across its playback products using HLS interstitials, enabling more advanced ad-supported streaming. By combining the benefits of client-side and server-side ad insertion,…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 07 Apr 2026 12:02:55 +0000",
+    "timestamp": 1775563375.0,
+    "isoDate": "2026-04-07T12:02:55+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Chile’s TvTel goes live with Nevion Virtuoso-based HEVC remote production",
     "link": "https://www.broadcastbeat.com/chiles-tvtel-goes-live-with-nevion-virtuoso-based-hevc-remote-production/",
     "summary": "Sony codec delivers premium quality picture with low latency for Chilean football league coverage Oslo, Norway, 7 April, 2026 – Nevion, a Sony group company, announced today TvTel (formerly Vivaro Video), a leading provider of technical and…",
@@ -151,28 +184,6 @@
     "timeAgo": "Thu, 02 Apr 2026 11:19:25 +0000",
     "timestamp": 1775128765.0,
     "isoDate": "2026-04-02T11:19:25+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "AgileTV powers Liwest’s next-generation TV experience with the launch of “next” IPTV platform in Austria",
-    "link": "https://www.broadcastbeat.com/agiletv-powers-liwests-next-generation-tv-experience-with-the-launch-of-next-iptv-platform-in-austria/",
-    "summary": "AgileTV has deployed the “next” IPTV platform for Austrian telecom operator LIWEST, introducing a next-generation television experience that combines broadcast, streaming and app-based entertainment. The TV-as-a-Service platform enables con…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 01 Apr 2026 14:49:40 +0000",
-    "timestamp": 1775054980.0,
-    "isoDate": "2026-04-01T14:49:40+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Professional Wireless Systems (PWS) Takes on Intercom and RF Coordination for the Biggest Rock Band on Earth",
-    "link": "https://www.broadcastbeat.com/professional-wireless-systems-pws-takes-on-intercom-and-rf-coordination-for-the-biggest-rock-band-on-earth/",
-    "summary": "NEW ORLEANS, MARCH 31, 2026 – Professional Wireless Systems (PWS), a leading provider of wireless audio solutions and RF management, was on site at the Caesars Superdome in New Orleans, where Rockin’1000, the biggest rock band on earth, too…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 01 Apr 2026 14:12:44 +0000",
-    "timestamp": 1775052764.0,
-    "isoDate": "2026-04-01T14:12:44+00:00",
     "imageUrl": ""
   },
   {
@@ -372,16 +383,5 @@
     "timestamp": 1767894536.0,
     "isoDate": "2026-01-08T17:48:56+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/06/Dolby-Image-1.jpg"
-  },
-  {
-    "title": "Accelerating creative workflows with the AWS Creative Innovation Hub in London",
-    "link": "https://aws.amazon.com/blogs/media/accelerating-creative-workflows-with-the-aws-creative-innovation-hub-in-london/",
-    "summary": "A phrase often heard in the media industry is: We’ve always done it this way. As an industry, we need fresh ideas and new approaches to keep pace with with rapid technological change and evolving audience demand for content at unprecedented…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 11 Dec 2025 18:35:59 +0000",
-    "timestamp": 1765478159.0,
-    "isoDate": "2025-12-11T18:35:59+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/12/02/London-Hub-Image-1.png"
   }
 ]

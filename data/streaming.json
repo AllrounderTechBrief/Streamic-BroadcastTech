@@ -1,5 +1,16 @@
 [
   {
+    "title": "How NFL Next Gen Stats Built the NFL IQ AI Assistant with Amazon Quick",
+    "link": "https://aws.amazon.com/blogs/media/how-nfl-next-gen-stats-built-the-nfl-iq-ai-assistant-with-amazon-quick/",
+    "summary": "NFL IQ’s conversational approach to football data replaces tool navigation with natural conversation across stats, models, and team insights so fans get instant answers. Every NFL offseason runs on data. Player tracking from NFL Next Gen St…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 07 Apr 2026 12:23:23 +0000",
+    "timestamp": 1775564603.0,
+    "isoDate": "2026-04-07T12:23:23+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "AWS brings AI-powered scale to storytellers at NAB 2026",
     "link": "https://aws.amazon.com/blogs/media/aws-brings-ai-powered-scale-to-storytellers-at-nab-2026/",
     "summary": "NAB Show brings together the global media and entertainment community to explore new ideas and discover emerging tools, setting new trends for how stories are created, distributed, and monetized. At this year’s NAB, being held April 18-22, …",
@@ -427,16 +438,5 @@
     "timestamp": 1767894536.0,
     "isoDate": "2026-01-08T17:48:56+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/06/Dolby-Image-1.jpg"
-  },
-  {
-    "title": "Accelerating creative workflows with the AWS Creative Innovation Hub in London",
-    "link": "https://aws.amazon.com/blogs/media/accelerating-creative-workflows-with-the-aws-creative-innovation-hub-in-london/",
-    "summary": "A phrase often heard in the media industry is: We’ve always done it this way. As an industry, we need fresh ideas and new approaches to keep pace with with rapid technological change and evolving audience demand for content at unprecedented…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 11 Dec 2025 18:35:59 +0000",
-    "timestamp": 1765478159.0,
-    "isoDate": "2025-12-11T18:35:59+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2025/12/02/London-Hub-Image-1.png"
   }
 ]
