@@ -1,5 +1,16 @@
 [
   {
+    "title": "Chile’s TvTel goes live with Nevion Virtuoso-based HEVC remote production",
+    "link": "https://www.broadcastbeat.com/chiles-tvtel-goes-live-with-nevion-virtuoso-based-hevc-remote-production/",
+    "summary": "Sony codec delivers premium quality picture with low latency for Chilean football league coverage Oslo, Norway, 7 April, 2026 – Nevion, a Sony group company, announced today TvTel (formerly Vivaro Video), a leading provider of technical and…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 07 Apr 2026 11:46:56 +0000",
+    "timestamp": 1775562416.0,
+    "isoDate": "2026-04-07T11:46:56+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Cuez Brings Four New Innovations to NAB 2026: From Story-Centric Newsroom to Open AI Agent Framework",
     "link": "https://www.broadcastbeat.com/cuez-brings-four-new-innovations-to-nab-2026-from-story-centric-newsroom-to-open-ai-agent-framework/",
     "summary": "Fairfield, NJ, USA, April 7th, 2026 – Cuez will showcase four additions to its cloud-based newsroom, rundown and automation platform at NAB Show 2026 (April 18–22, Las Vegas, Booth N1867): • Cuez Storydesk: A brand new story-centric newsroo…",
@@ -174,17 +185,6 @@
     "timestamp": 1775049090.0,
     "isoDate": "2026-04-01T13:11:30+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
-  },
-  {
-    "title": "LTN and Ateme partner to deliver integrated video processing with global IP transport",
-    "link": "https://www.broadcastbeat.com/ltn-and-ateme-partner-to-deliver-integrated-video-processing-with-global-ip-transport/",
-    "summary": "Ateme’s TITAN Live and TITAN Edge integrate with the LTN Network to enable broadcast-scale IP contribution LTN, a leader in fully managed IP video transport, and Ateme, a global leader in video compression and delivery solutions, today anno…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 01 Apr 2026 12:48:18 +0000",
-    "timestamp": 1775047698.0,
-    "isoDate": "2026-04-01T12:48:18+00:00",
-    "imageUrl": ""
   },
   {
     "title": "How Sony Pictures Networks India Delivered Personalized Ad Insertion at Scale on AWS",
