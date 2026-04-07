@@ -1,5 +1,16 @@
 [
   {
+    "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+    "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+    "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The vulnerability, tracked as CVE-2026-34040 (CVSS score: 8.8), s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Apr 2026 20:45:00 +0530",
+    "timestamp": 1775574900.0,
+    "isoDate": "2026-04-07T15:15:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1fiR51KBq7hNIR1D2V9e0jituEJTVutYd8b9v6KR0YdA30xWCSKJo3nfIykSdYSjZNe7gvNj3Wf3HidhZ24n-piDo8LhrE6ctyZrcLYNcJwCSP0KEe7G0Fl_xJm676Dv-4bFEh63Vv_xZ1zb9qOKhfeWFN5IexOHligHBCTHyVLAMDl0aeL2olDxnjfch/s1600/ai-chat.jpg"
+  },
+  {
     "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
     "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
     "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy botnet. \"A purpose-built Python scanner continuously sweep…",
@@ -317,16 +328,5 @@
     "timestamp": 1775113740.0,
     "isoDate": "2026-04-02T07:09:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPIq2XjzxLFTE4iwZWuKsLifOBVn0sVZv2vDEl0D3eXsyiW8ePJH7ukb29zq7gb7-7fJy8WjCRC5e-sYoMLXT4ZE-12llaj0H76qjygPmEl7cuGiC4jrLaMdDX5M55YsuYhdtbn8k5gCosH-JwHU3H-b7ho_5Lvg4pjoKf2Lz39lOumTGuxldWK1YQvfJ/s1600/apple-update.jpg"
-  },
-  {
-    "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
-    "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
-    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE. As part of t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Apr 2026 21:40:00 +0530",
-    "timestamp": 1775059800.0,
-    "isoDate": "2026-04-01T16:10:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4SwwNEiRJL3-C8lgR_Sj7XKNGuxhA-uAdcUZBQRRzmC16xbgg4bYkHTBz2VTfXOle8Su66hHz8vDXIOOQ2nFXlNo8wOIVWYGmVW-c9X4Luqx1-qFCiLmOMzUzwW8T5g0S73q4sr66bEAhjy9BrGmiz_pj52J3ug92X8hO5gMR6j9v_Fg8Iqu8lzqczge3/s1600/cert.jpg"
   }
 ]
