@@ -1,5 +1,38 @@
 [
   {
+    "title": "Amagi’s NewsPulse helps broadcasters turn news into vertical video",
+    "link": "https://www.tvbeurope.com/live-production/amagis-newspulse-helps-broadcasters-turn-news-into-vertical-video",
+    "summary": "Rather than applying a static centre-crop, the AI dynamically tracks on-screen subjects, lower-thirds, and graphics to intelligently reframe the video into multiple aspect ratios The post Amagi’s NewsPulse helps broadcasters turn news into …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 08 Apr 2026 07:53:08 +0000",
+    "timestamp": 1775634788.0,
+    "isoDate": "2026-04-08T07:53:08+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Amagi-Newspulse-726x487.jpg"
+  },
+  {
+    "title": "Synamedia unveils just-in-time AI plugin framework for Quortex portfolio",
+    "link": "https://www.tvbeurope.com/media-management/synamedia-unveils-just-in-time-ai-plugin-framework-for-quortex-portfolio",
+    "summary": "Built on AWS and integrated across the Quortex portfolio, the framework eliminates unnecessary processing and resource use The post Synamedia unveils just-in-time AI plugin framework for Quortex portfolio appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 08 Apr 2026 07:31:36 +0000",
+    "timestamp": 1775633496.0,
+    "isoDate": "2026-04-08T07:31:36+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "SDVI introduces next generation of its Rally platform",
+    "link": "https://www.tvbeurope.com/media-management/sdvi-introduces-next-generation-of-its-rally-platform",
+    "summary": "The company has redesigned the core orchestration engine around a declarative architecture that separates the control plane from the data plane The post SDVI introduces next generation of its Rally platform appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 08 Apr 2026 07:29:56 +0000",
+    "timestamp": 1775633396.0,
+    "isoDate": "2026-04-08T07:29:56+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/SDVI-Rally_NextGen-supply_chain_builder-726x342.jpg"
+  },
+  {
     "title": "Blackmagic Design’s DeckLink IP 100G is now available",
     "link": "https://www.newsshooter.com/2026/04/07/blackmagic-designs-decklink-ip-100g-is-now-available/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-designs-decklink-ip-100g-is-now-available",
     "summary": "Blackmagic Design’s DeckLink IP 100G is now available. It supports 8 channels of simultaneous Ultra HD capture and playback on Windows and Linux, and 4 simultaneous channels on Mac. Blackmagic Design is working on increasing the number of c…",
@@ -240,39 +273,6 @@
     "timestamp": 1774953153.0,
     "isoDate": "2026-03-31T10:32:33+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/SDVI-Rally_Connect-726x481.jpg"
-  },
-  {
-    "title": "Arkona Unveils BLADE//planner and Major Usability Enhancements at NAB 2026",
-    "link": "https://www.tvbeurope.com/news-releases/arkona-unveils-blade-planner-and-major-usability-enhancements-at-nab-2026",
-    "summary": "Arkona technologies GmbH – a Germany-based provider of IP core infrastructure solutions for professional broadcast – will use NAB 2026 (Booth C.1808) to announce a comprehensive series of enhancements to its BLADE//runner platform. The upda…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 31 Mar 2026 10:20:21 +0000",
-    "timestamp": 1774952421.0,
-    "isoDate": "2026-03-31T10:20:21+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/Arkona-Unveils-BLADEplanner-and-Major-Usability-Enhancements-at-NAB-2026-726x424.png"
-  },
-  {
-    "title": "RTL Deutschland reveals agentic AI strategy",
-    "link": "https://www.tvbeurope.com/artificial-intelligence/rtl-deutschland-reveals-agentic-ai-strategy",
-    "summary": "According to the company, it is \"strategically developing the use of artificial intelligence in content, building corresponding solutions along the entire value chain\" The post RTL Deutschland reveals agentic AI strategy appeared first on T…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 31 Mar 2026 09:20:38 +0000",
-    "timestamp": 1774948838.0,
-    "isoDate": "2026-03-31T09:20:38+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Analysis: global streaming revenue smashes $150 billion barrier",
-    "link": "https://www.tvbeurope.com/business/analysis-global-streaming-revenue-smashes-150-billion-barrier",
-    "summary": "The upward trend is predicted to continue as focus shifts from subscriber growth to price increases and ad-supported tiers The post Analysis: global streaming revenue smashes $150 billion barrier appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 31 Mar 2026 08:45:59 +0000",
-    "timestamp": 1774946759.0,
-    "isoDate": "2026-03-31T08:45:59+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/unnamed-2-726x408.jpg"
   },
   {
     "title": "Tedial – Composable NoCode UI Design",

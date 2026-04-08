@@ -1,5 +1,16 @@
 [
   {
+    "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+    "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+    "summary": "The North Korea-linked persistent campaign known as Contagious Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems. \"The threat actor's packages were designed to impersonate legitim…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Apr 2026 13:17:00 +0530",
+    "timestamp": 1775634420.0,
+    "isoDate": "2026-04-08T07:47:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiJCapdeJ9Q-yAbFZ7EG69FNg_jPvK7YptY2C7TN6txlcPM_bvVrcbqN1bi-vy2IFi8Ai485K-DZblHR8XwZxdch90kWSv48wjvZF7oj0wy0IMd-B7VPuSiUbSFSJKAlErnSUZWjyVOf-Fyy-LqlxLbGLA7rxIkxlgc6_WRyCNH3XWDLb5GtnmjvxFjUrt/s1600/pack.jpg"
+  },
+  {
     "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
     "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
     "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence agencies warned Tues…",
@@ -317,16 +328,5 @@
     "timestamp": 1775130120.0,
     "isoDate": "2026-04-02T11:42:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpKoZinOy6MS9s0nTi1TV12H46KUmgkxu0kGinPE7yyq7Vpo9lmmcz30e5ve0yCk2T0ETCedeV6aXs0iEjI1rOykcXwBPa2a11yb75bjgjad7WKkKgsUAv0lO1tuZ8vVnYZtuiUHKqwM6Z6bxGtheJIhuWW5W6lKjo0FaHZf7ewPO_SFuKAjPKMh_sqDB2/s1600/monero.jpg"
-  },
-  {
-    "title": "The State of Trusted Open Source Report",
-    "link": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
-    "summary": "In December 2025, we shared the first-ever The State of Trusted Open Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, lang…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 02 Apr 2026 17:00:00 +0530",
-    "timestamp": 1775129400.0,
-    "isoDate": "2026-04-02T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5yI578d17vaAxuCMW2SLrz3ibI4ibSfdDCfum-B3VZ0Ukyd79Eue2VR8ofUCBpISSXsL8biYdRFyuMm78T6PTU7U1w_6jJK3qV7ohPRSt3NGDTtAkseitLCaEZVHqcVIhFZABPlyAP8KPV-JMlnlq42Flgl7lB2Rs5hkIQYVYtc0Z15Yd0WKaYSu7CLM/s1600/devsecops.jpg"
   }
 ]
