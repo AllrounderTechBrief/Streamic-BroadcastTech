@@ -1,5 +1,16 @@
 [
   {
+    "title": "From bytecode to bytes: automated magic packet generation",
+    "link": "https://blog.cloudflare.com/from-bpf-to-packet/",
+    "summary": "By applying symbolic execution and the Z3 theorem prover to BPF bytecode, we’ve automated the generation of malware trigger packets, cutting analysis time from hours to seconds.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 08 Apr 2026 13:00:00 GMT",
+    "timestamp": 1775653200.0,
+    "isoDate": "2026-04-08T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Cloudflare targets 2029 for full post-quantum security",
     "link": "https://blog.cloudflare.com/post-quantum-roadmap/",
     "summary": "Recent advances in quantum hardware and software have accelerated the timeline on which quantum attack might happen. Cloudflare is responding by moving our target for full post-quantum security to 2029.",
@@ -262,17 +273,6 @@
     "timestamp": 1773234000.0,
     "isoDate": "2026-03-11T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5xpmckBUupzELjYOSx5bAF/cace1ab2ed2dd54d8d7a7ff60587ef65/BLOG-3128_2.png"
-  },
-  {
-    "title": "Investigating multi-vector attacks in Log Explorer",
-    "link": "https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/",
-    "summary": "Log Explorer customers can now identify and investigate multi-vector attacks. Log Explorer supports 14 additional Cloudflare datasets, enabling users to have a 360-degree view of their network.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 10 Mar 2026 13:00:00 GMT",
-    "timestamp": 1773147600.0,
-    "isoDate": "2026-03-10T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1zpFguYrnbOPwyASGQCqZK/63f398acce2226e453a5eea1cc749241/image3.png"
   },
   {
     "title": "How AWS powers Dramaze AI-enhanced streaming platform",
