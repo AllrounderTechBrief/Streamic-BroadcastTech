@@ -1,5 +1,27 @@
 [
   {
+    "title": "BCE integrates BCNEXXT’s Vipe to power cloud playout in Media-as-a-Service platform",
+    "link": "https://www.broadcastbeat.com/bce-integrates-bcnexxts-vipe-to-power-cloud-playout-in-media-as-a-service-platform/",
+    "summary": "Luxembourg, April 8 — Broadcasting Center Europe (BCE), a European media technology and services partner, today announces a technology partnership with BCNEXXT, a Netherlands-based company specializing in cloud-native systems for linear, Vo…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 08 Apr 2026 11:16:37 +0000",
+    "timestamp": 1775646997.0,
+    "isoDate": "2026-04-08T11:16:37+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Encompass Strengthens Global Media Operations with Expansion of Key Facility in Latvia",
+    "link": "https://www.broadcastbeat.com/encompass-riga-master-control-room-expansion/",
+    "summary": "State-of-the-art MCR Supports Large-Scale Playout, Live Delivery, and AI-Enabled Content Services for Broadcasters Worldwide",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 08 Apr 2026 11:08:08 +0000",
+    "timestamp": 1775646488.0,
+    "isoDate": "2026-04-08T11:08:08+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "elevate.io Launches Full Integration of Epidemic Sound Catalog",
     "link": "https://www.broadcastbeat.com/elevate-io-launches-full-integration-of-epidemic-sound-catalog/",
     "summary": "elevate.io Partners with Epidemic Sound to Bring Music to its Collaborative Video Editing Platform elevate.io, a division of Blackbird plc (AIM: BIRD), today announced it has partnered with Epidemic Sound, the leading music licensing platfo…",
@@ -163,28 +185,6 @@
     "timestamp": 1775510199.0,
     "isoDate": "2026-04-06T21:16:39+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/06/header-blog.png"
-  },
-  {
-    "title": "​​Saranyu Technologies Launches ‘MATCH’ — Multi-View Sports Streaming Player Built on VisualOn HTML5+",
-    "link": "https://www.broadcastbeat.com/saranyu-technologies-launches-match-multi-view-sports-streaming-player-built-on-visualon-html5/",
-    "summary": "Designed for synchronized multi-stream playback, low-latency delivery, and real-time analytics, MATCH introduces a unified viewing experience for sports broadcasters and OTT operators across emerging and global markets. [Las Vegas – April 0…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 06 Apr 2026 17:09:09 +0000",
-    "timestamp": 1775495349.0,
-    "isoDate": "2026-04-06T17:09:09+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "CVP Grows European Footprint with Strategic Expansion in Germany",
-    "link": "https://www.broadcastbeat.com/cvp-grows-european-footprint-with-strategic-expansion-in-germany/",
-    "summary": "CVP, one of Europe’s leading suppliers of professional video and broadcast solutions, today announces the launch of its new German operation and the formation of a dedicated DACH team, marking a major step in the company’s European expansio…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 02 Apr 2026 21:55:44 +0000",
-    "timestamp": 1775166944.0,
-    "isoDate": "2026-04-02T21:55:44+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Live streaming localization and accessibility using AWS Media Services",
