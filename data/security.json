@@ -1,5 +1,27 @@
 [
   {
+    "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+    "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+    "summary": "Cybersecurity researchers have flagged a new variant ofmalware called Chaosthat'scapable of hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure. \"Chaos malware is increasingly targeting mis…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Apr 2026 23:21:00 +0530",
+    "timestamp": 1775670660.0,
+    "isoDate": "2026-04-08T17:51:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjO6ntnqBUePhV2XQEQmTFh-IjdPR64u_T9ODhO3RY_BAv_8YohhRCwMg6OO9UKlvJJCd7rs1c391fbNZ59qDsSujaFJuso3h_94xKo2BX2L5Jj-osBqZ3VglM5kbgzt6OJGtkiNx4Am6NbgzrHtUa7fbdnfei8_xeJao4yvlMp3HkCurz9aNJkg9Xv934/s1600/cloud.jpg"
+  },
+  {
+    "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+    "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+    "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS) attacks. Called Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Apr 2026 22:00:00 +0530",
+    "timestamp": 1775665800.0,
+    "isoDate": "2026-04-08T16:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVrpJtAgJfASiMYseJhDzJoT1ly7iXa_e_Y_4TBhGIkVGCJ_ZLDM-tGb1Y9NWcOpOcH-xUZUfDiM0fuvUIabEa_5xSbgGjgL8U4FPE99W-V6-oFRAG1ziEZeiJPYrkSZZrwu0jQDjhdUfKsiSxPgZbyZgF1A-cUOqUK3aJpSOQgeSZWogg1X9r77IANDey/s1600/ddos-for-hire.jpg"
+  },
+  {
     "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
     "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
     "summary": "The Russian threat actor known as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented malware suite codenamed PRISMEX. \"PRISMEX c…",
@@ -306,27 +328,5 @@
     "timestamp": 1775207400.0,
     "isoDate": "2026-04-03T09:10:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2s09d3X9qYABLHP5v1u9iyjRN5p28u6xvnL0qkKR1-s1CsqtIDAWeQCFKQ9S4Mde1ueUmzcjNA9SAzWN-lDWwbmTmmlwbbLkyKx-EJc2-bjhKlEsChsp3iZ6watrZ4I8LJdL_p0vatW4NrXntcs6_xdReGEQJMUCgfAFo-ZfCy_jDsxEZgPMx1T9e1e0L/s1600/mobile-wallet-seed.jpg"
-  },
-  {
-    "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
-    "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
-    "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1, 2026. \"Earlier today, a malicious actor gained unauthorized access to…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 03 Apr 2026 14:05:00 +0530",
-    "timestamp": 1775205300.0,
-    "isoDate": "2026-04-03T08:35:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiYsLIirEMJ6RmQKL7LnI8V0CmqL2qggZITpbnhuDXgXPAsXZ7cGv1KBjp1VBfeBVjUHypgPIC1DENjD735MO9gZQVPZO_xI424cuWoRowXBNflIs3rteCoCpdMPeTo5y2-I67CKALepuLYF-OfTplaTVBtextDcgCTW81sGmhT710Uu-37ouNh6MJjfk/s1600/drift-1.png"
-  },
-  {
-    "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
-    "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
-    "summary": "A large-scale credential harvesting operation has been observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command histor…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 03 Apr 2026 01:00:00 +0530",
-    "timestamp": 1775158200.0,
-    "isoDate": "2026-04-02T19:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8T48UROZtSjRXtkxVcNT2VmXbB1texWQPAqLbm06uwmJ8VsYFb_HeXOnZx9uz9QL-LB3aWdwcLm9TbuRler7w7jjXJlL_tQweQualaW4XEVav7Ysulqx_CJyc9a0P1dO1a69W_eQhroxV1LA_p5VB9T38Xubc3zXHgwd-4sAAc2whuv4ElnC5WtFSn7SH/s1600/nextjs.jpg"
   }
 ]
