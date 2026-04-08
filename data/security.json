@@ -1,5 +1,16 @@
 [
   {
+    "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
+    "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
+    "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence agencies warned Tues…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Apr 2026 09:53:00 +0530",
+    "timestamp": 1775622180.0,
+    "isoDate": "2026-04-08T04:23:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiMBUkucAS1NG7NHlk46hGqNyjv5iU5w1Z6HVNXgQywcDfTSOdtQWSqYA5ccSojgRB45ScYHFfyPWqe_9QbOZYo6u6V5qUAcRQIm4CfIDvkRqhs7rtPhmD7yNR4bn_StYbNZm2UWqXfeqXCUeDL1eneK7VyGnHfGbk3EatILzs_fKtRN6VxF8vnKDgQL_/s1600/plc.jpg"
+  },
+  {
     "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
     "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
     "summary": "The Russia-linked threat actor known as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under th…",
@@ -317,16 +328,5 @@
     "timestamp": 1775129400.0,
     "isoDate": "2026-04-02T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5yI578d17vaAxuCMW2SLrz3ibI4ibSfdDCfum-B3VZ0Ukyd79Eue2VR8ofUCBpISSXsL8biYdRFyuMm78T6PTU7U1w_6jJK3qV7ohPRSt3NGDTtAkseitLCaEZVHqcVIhFZABPlyAP8KPV-JMlnlq42Flgl7lB2Rs5hkIQYVYtc0Z15Yd0WKaYSu7CLM/s1600/devsecops.jpg"
-  },
-  {
-    "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
-    "link": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
-    "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with spyware. According to reports from Italian newspaper La Repubblica and news agency…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 02 Apr 2026 15:21:00 +0530",
-    "timestamp": 1775123460.0,
-    "isoDate": "2026-04-02T09:51:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1Qe0E88MYHp7xg6ApE5TypZK__02tmUnhvX60svA9npwirnTJbAb-Wl4rvLo3gq3kX1l9JUXDgXZJ0yPGNZlUo8n5DG1-pqONNFQIA2epqNdU7tNGZSJPJCthWLHtnDdO8jWQ5YzwY7TWUn_9SJP5pu0vHX2i3-L0zM5dZscSR4wAUPWAN1fm-3zgOGE/s1600/whatsapp-alert.jpg"
   }
 ]
