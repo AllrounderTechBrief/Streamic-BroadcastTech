@@ -1,5 +1,38 @@
 [
   {
+    "title": "American Public Media and StreamGuys Launch Network to Drive Revenue Growth for Local Public Radio Stations",
+    "link": "https://www.broadcastbeat.com/american-public-media-and-streamguys-launch-network-to-drive-revenue-growth-for-local-public-radio-stations/",
+    "summary": "BAYSIDE, CALIFORNIA, April 8, 2026 – StreamGuys has joined forces with American Public Media (APM) in developing a private underwriting and sponsorship marketplace purpose-built for public media, providing local radio stations with a nation…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 08 Apr 2026 15:17:51 +0000",
+    "timestamp": 1775661471.0,
+    "isoDate": "2026-04-08T15:17:51+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "KOKUSAI DENKI Electric America Brings 4K Pathway and Remote Production Solution to NAB2026",
+    "link": "https://www.broadcastbeat.com/kokusai-denki-electric-america-brings-4k-pathway-and-remote-production-solution-to-nab2026/",
+    "summary": "New 1080p camera and remote control panel highlight a practical market approach to performance and cost while keeping with the company’s origins Southwick, MA, April 8, 2026 — At NAB 2026, KOKUSAI DENKI Electric America will showcase two ne…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 08 Apr 2026 15:13:22 +0000",
+    "timestamp": 1775661202.0,
+    "isoDate": "2026-04-08T15:13:22+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Dalet Announces Commercial Availability of Dalia, Bringing Media-Aware Agentic AI to Enterprise Productions",
+    "link": "https://www.broadcastbeat.com/dalet-announces-commercial-availability-of-dalia-bringing-media-aware-agentic-ai-to-enterprise-productions/",
+    "summary": "New York, NY – April 8, 2026 – Dalet, a leading technology and service provider for media-rich organizations, today announced the commercial availability of Dalia, its media-aware, agentic AI solution designed to simplify complex media supp…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 08 Apr 2026 15:09:36 +0000",
+    "timestamp": 1775660976.0,
+    "isoDate": "2026-04-08T15:09:36+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "LynTec to Showcase High-Density Power Control Solutions for Broadcast at NAB Show 2026",
     "link": "https://www.broadcastbeat.com/lyntec-to-showcase-high-density-power-control-solutions-for-broadcast-at-nab-show-2026/",
     "summary": "Company to Feature DMX Dual Relay, High-Density 48-Channel Relay Panels, and New Private Label Power Program LENEXA, Kan. — April 8, 2026 — LynTec, a leading manufacturer of innovative electrical power control solutions for professional aud…",
@@ -132,28 +165,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Neutrik Group Americas Launches NEUTRIK TRUE1 DATA Connector Series at NAB 2026",
-    "link": "https://www.broadcastbeat.com/neutrik-group-americas-launches-neutrik-true1-data-connector-series-at-nab-2026/",
-    "summary": "LAS VEGAS, APRIL 7, 2026 – Neutrik Group Americas, a subsidiary of Neutrik AG including the NEUTRIK®, REAN®, and CONTRIK® brands and the leading supplier of robust and reliable professional AVL connectivity solutions, unveils the NEUTRIK TR…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 14:34:33 +0000",
-    "timestamp": 1775572473.0,
-    "isoDate": "2026-04-07T14:34:33+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Frequency Launches Smarter, More Efficient Ways to Operate Streaming Channels at NAB 2026",
-    "link": "https://www.broadcastbeat.com/frequency-launches-smarter-more-efficient-ways-to-operate-streaming-channels-at-nab-2026/",
-    "summary": "Frequency, the engine behind many of the world’s leading streaming television channels, at NAB 2026 will be launching new Studio services to help content owners run their channels more efficiently. Customers will be able to make improved pr…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 13:26:13 +0000",
-    "timestamp": 1775568373.0,
-    "isoDate": "2026-04-07T13:26:13+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "How NFL Next Gen Stats Built the NFL IQ AI Assistant with Amazon Quick",
     "link": "https://aws.amazon.com/blogs/media/how-nfl-next-gen-stats-built-the-nfl-iq-ai-assistant-with-amazon-quick/",
     "summary": "NFL IQ’s conversational approach to football data replaces tool navigation with natural conversation across stats, models, and team insights so fans get instant answers. Every NFL offseason runs on data. Player tracking from NFL Next Gen St…",
@@ -162,17 +173,6 @@
     "timeAgo": "Tue, 07 Apr 2026 12:23:23 +0000",
     "timestamp": 1775564603.0,
     "isoDate": "2026-04-07T12:23:23+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Bitmovin Adds Support for SGAI in its Playback Products to Take Ad-Supported Streaming to the Next Level",
-    "link": "https://www.broadcastbeat.com/bitmovin-adds-support-for-sgai-in-its-playback-products-to-take-ad-supported-streaming-to-the-next-level/",
-    "summary": "Bitmovin has announced support for Server-Guided Ad Insertion (SGAI) across its playback products using HLS interstitials, enabling more advanced ad-supported streaming. By combining the benefits of client-side and server-side ad insertion,…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 07 Apr 2026 12:02:55 +0000",
-    "timestamp": 1775563375.0,
-    "isoDate": "2026-04-07T12:02:55+00:00",
     "imageUrl": ""
   },
   {
