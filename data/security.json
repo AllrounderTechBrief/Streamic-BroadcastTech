@@ -1,5 +1,16 @@
 [
   {
+    "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+    "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+    "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative called Project Glasswing that will use a preview version of its new frontier model, Claude Mythos, to find and address security vulnerabilities. The mod…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Apr 2026 14:46:00 +0530",
+    "timestamp": 1775639760.0,
+    "isoDate": "2026-04-08T09:16:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvGfSh39Lhl5ird3iuR-T4gkaVejmXgtJ4VwbkLxAqG2hBZWkqQ8LR5k8wfuapt8oUdtifp8Le-uA6Xep8kGe3BRCx5qM1vY9DiMCnMgTFeFK8bc0wBSUR62TjZgPZ9dviGiM8-4-xW1N-ZGSDxIY0uJLFmEKDt1Z9rbttd7Lg_mma6Kt_2qk89vjq9Ed/s1600/claude-mythos.png"
+  },
+  {
     "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
     "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
     "summary": "The North Korea-linked persistent campaign known as Contagious Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems. \"The threat actor's packages were designed to impersonate legitim…",
@@ -317,16 +328,5 @@
     "timestamp": 1775133900.0,
     "isoDate": "2026-04-02T12:45:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9hzOUmn8npVxC_AyWUe1DLsv1VkWHox2PmDxZnVuG_XnQt7R5l7CZHlYu9m9BcwAib4L0j0x877sDuCF2shmSH3ef0Me-m0sbKDtu-ZEw5RLqLGNsjGJ0o-b_CuKtFg86fMFb-GKVBud7S8PfpsoL4HCqEZypO1NcWfx6ljXcUhC5O4GIjRbhRcG-fIi/s1600/threatsday.jpg"
-  },
-  {
-    "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
-    "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
-    "summary": "A financially motivated operation codenamed REF1695 has been observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November 2023. \"Beyond cryptomining, the threat actor monetizes infectio…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 02 Apr 2026 17:12:00 +0530",
-    "timestamp": 1775130120.0,
-    "isoDate": "2026-04-02T11:42:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpKoZinOy6MS9s0nTi1TV12H46KUmgkxu0kGinPE7yyq7Vpo9lmmcz30e5ve0yCk2T0ETCedeV6aXs0iEjI1rOykcXwBPa2a11yb75bjgjad7WKkKgsUAv0lO1tuZ8vVnYZtuiUHKqwM6Z6bxGtheJIhuWW5W6lKjo0FaHZf7ewPO_SFuKAjPKMh_sqDB2/s1600/monero.jpg"
   }
 ]

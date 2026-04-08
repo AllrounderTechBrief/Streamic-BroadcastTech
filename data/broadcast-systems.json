@@ -1,5 +1,27 @@
 [
   {
+    "title": "Cloud MCRs: the next phase of virtualisation",
+    "link": "https://www.tvbeurope.com/media-management/cloud-mcrs-the-next-phase-of-virtualisation",
+    "summary": "Virtualised Master Control Rooms seem destined to add a new tier of opportunity to live production, but issues around interoperability and latency mean mass-adoption is unlikely to be just around the corner The post Cloud MCRs: the next pha…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 08 Apr 2026 10:28:37 +0000",
+    "timestamp": 1775644117.0,
+    "isoDate": "2026-04-08T10:28:37+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/BBC-RTE-incoming-post-cloud-726x402.png"
+  },
+  {
+    "title": "Rudy Dendleux appointed managing director of Gravity Media France",
+    "link": "https://www.tvbeurope.com/business/people/rudy-dendleux-appointed-managing-director-of-gravity-media-france",
+    "summary": "Dendleux first joined the company in 2003 as president of Gravity's technology division The post Rudy Dendleux appointed managing director of Gravity Media France appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 08 Apr 2026 10:06:44 +0000",
+    "timestamp": 1775642804.0,
+    "isoDate": "2026-04-08T10:06:44+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Rudy-pic-726x408.png"
+  },
+  {
     "title": "Amagi’s NewsPulse helps broadcasters turn news into vertical video",
     "link": "https://www.tvbeurope.com/live-production/amagis-newspulse-helps-broadcasters-turn-news-into-vertical-video",
     "summary": "Rather than applying a static centre-crop, the AI dynamically tracks on-screen subjects, lower-thirds, and graphics to intelligently reframe the video into multiple aspect ratios The post Amagi’s NewsPulse helps broadcasters turn news into …",
@@ -31,61 +53,6 @@
     "timestamp": 1775633396.0,
     "isoDate": "2026-04-08T07:29:56+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/SDVI-Rally_NextGen-supply_chain_builder-726x342.jpg"
-  },
-  {
-    "title": "Blackmagic Design’s DeckLink IP 100G is now available",
-    "link": "https://www.newsshooter.com/2026/04/07/blackmagic-designs-decklink-ip-100g-is-now-available/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-designs-decklink-ip-100g-is-now-available",
-    "summary": "Blackmagic Design’s DeckLink IP 100G is now available. It supports 8 channels of simultaneous Ultra HD capture and playback on Windows and Linux, and 4 simultaneous channels on Mac. Blackmagic Design is working on increasing the number of c…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 08 Apr 2026 01:53:08 +0000",
-    "timestamp": 1775613188.0,
-    "isoDate": "2026-04-08T01:53:08+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "SCHOEPS Microphones Desert Island Boom Set",
-    "link": "https://www.newsshooter.com/2026/04/07/schoeps-microphones-desert-island-boom-set/?utm_source=rss&utm_medium=rss&utm_campaign=schoeps-microphones-desert-island-boom-set",
-    "summary": "SCHOEPS Microphones has announced the Desert Island Boom Set, a compact modular set designed for location sound and broadcast. The Desert Island Boom Set is a compact kit built around the CMC 1 U microphone amplifier, the MK 41 supercardioi…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 08 Apr 2026 01:25:10 +0000",
-    "timestamp": 1775611510.0,
-    "isoDate": "2026-04-08T01:25:10+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Beeble Background Remover Rotoscoping Tool",
-    "link": "https://www.newsshooter.com/2026/04/07/beeble-background-remover-rotoscoping-tool/?utm_source=rss&utm_medium=rss&utm_campaign=beeble-background-remover-rotoscoping-tool",
-    "summary": "Beeble’s new Background Remover is a new AI-powered rotoscoping tool that was designed to allow users to generate clean, production-ready alpha mattes in seconds. Rotoscoping has traditionally been a very time-intensive post-production proc…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 08 Apr 2026 01:11:45 +0000",
-    "timestamp": 1775610705.0,
-    "isoDate": "2026-04-08T01:11:45+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Amagi Newspulse– An Agentic AI Platform That Autonomously Turns Live Newscasts into Multi-Format Digital Content",
-    "link": "https://www.newsshooter.com/2026/04/07/amagi-newspulse-an-agentic-ai-platform-that-autonomously-turns-live-newscasts-into-multi-format-digital-content/?utm_source=rss&utm_medium=rss&utm_campaign=amagi-newspulse-an-agentic-ai-platform-that-autonomously-turns-live-newscasts-into-multi-format-digital-content",
-    "summary": "Amagi’s Newspulse is an Agentic AI platform that watches live news broadcasts and scans VOD libraries, automatically identifying individual stories and then repackaging them as social-ready clips, vertical videos, and news bulletins. A lot …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 08 Apr 2026 00:56:37 +0000",
-    "timestamp": 1775609797.0,
-    "isoDate": "2026-04-08T00:56:37+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "MID49 Announces The L of Steel, a stainless steel vertical camera mounting bracket",
-    "link": "https://www.newsshooter.com/2026/04/07/mid49-announces-the-l-of-steel-a-stainless-steel-vertical-camera-mounting-bracket/?utm_source=rss&utm_medium=rss&utm_campaign=mid49-announces-the-l-of-steel-a-stainless-steel-vertical-camera-mounting-bracket",
-    "summary": "I have been shooting vertical much more lately, and having a dedicated L plate makes it so much easier. MID49 has announced their version, and it’s not your ordinary aluminum “L.” The L of Steel is a stainless steel vertical camera mounting…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 07 Apr 2026 14:54:17 +0000",
-    "timestamp": 1775573657.0,
-    "isoDate": "2026-04-07T14:54:17+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Meet the… managing director",
@@ -251,28 +218,6 @@
     "timestamp": 1775034654.0,
     "isoDate": "2026-04-01T09:10:54+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2022/06/5G-726x425.jpg"
-  },
-  {
-    "title": "Is Disney looking to buy Unreal Engine’s developer?",
-    "link": "https://www.tvbeurope.com/virtual-production/is-disney-looking-to-buy-unreal-engines-developer",
-    "summary": "According to reports, the company is \"waiting for the right moment\" to make a bid for Epic Games The post Is Disney looking to buy Unreal Engine’s developer? appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 01 Apr 2026 09:06:09 +0000",
-    "timestamp": 1775034369.0,
-    "isoDate": "2026-04-01T09:06:09+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2020/07/mandalorian-726x484.jpg"
-  },
-  {
-    "title": "SDVI to Showcase Platform Enhancements, New Technology Integrations, and Next-Generation Innovations at 2026 NAB Show",
-    "link": "https://www.tvbeurope.com/news-releases/sdvi-to-showcase-platform-enhancements-new-technology-integrations-and-next-generation-innovations-at-2026-nab-show",
-    "summary": "At the 2026 NAB Show, SDVI will demonstrate how its Rally media supply chain management platform continues to give media operations teams the tools they need to meet the growing demands for high-volume content processing, expanded channel d…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 31 Mar 2026 10:32:33 +0000",
-    "timestamp": 1774953153.0,
-    "isoDate": "2026-03-31T10:32:33+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/SDVI-Rally_Connect-726x481.jpg"
   },
   {
     "title": "Tedial – Composable NoCode UI Design",
