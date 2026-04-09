@@ -1,5 +1,16 @@
 [
   {
+    "title": "Snow in the Shadow of the Andes",
+    "link": "https://science.nasa.gov/earth/earth-observatory/snow-in-the-shadow-of-the-andes/",
+    "summary": "An early autumn storm left higher elevations in southern Argentina with a fresh and fleeting coat of white.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 09 Apr 2026 04:01:00 +0000",
+    "timestamp": 1775707260.0,
+    "isoDate": "2026-04-09T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-in-the-shadow-of-the-andes/patagoniasnow_tmo_20260403.jpg?w=2160&h=2140&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Disney Planning Layoffs Under New CEO Josh D’Amaro",
     "link": "https://tvnewscheck.com/business/article/disney-planning-layoffs-under-new-ceo-josh-damaro/",
     "summary": "The entertainment company is planning to eliminate as many as 1,000 positions in the coming weeks. The post Disney Planning Layoffs Under New CEO Josh D’Amaro appeared first on TV News Check.",
@@ -88,6 +99,17 @@
     "imageUrl": ""
   },
   {
+    "title": "Twin NASA Control Rooms Support Artemis Safety, Success",
+    "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/",
+    "summary": "Twin control rooms at NASA’s Marshall Space Flight Center in Huntsville, Alabama, are actively supporting real-time mission operations in lunar orbit as part of the agency’s Artemis II mission, helping ensure astronaut safety and mission su…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 08 Apr 2026 18:13:42 +0000",
+    "timestamp": 1775672022.0,
+    "isoDate": "2026-04-08T18:13:42+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/dsc-3710.jpg?w=1536"
+  },
+  {
     "title": "NBC Thrilled With Year 1 Of NBA Deal",
     "link": "https://tvnewscheck.com/programming/article/nbc-thrilled-with-year-1-of-nba-deal/",
     "summary": "NBC Sports Executive Producer Sam Flood touted many highlights Wednesday — including bringing the voices of Michael Jordan, Snoop Dogg, Caitlin Clark and Lenny Kravitz to some broadcasts, plus finding ways to combine the past and the presen…",
@@ -130,6 +152,17 @@
     "timestamp": 1775668739.0,
     "isoDate": "2026-04-08T17:18:59+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Solar Eclipse of the Heart",
+    "link": "https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/",
+    "summary": "The Moon, seen here backlit by the Sun during a solar eclipse on April 6, 2026, is photographed by one of the cameras on the Orion spacecraft’s solar array wings. During lunar flyby, the Artemis II astronauts observed a solar eclipse that o…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 08 Apr 2026 17:12:50 +0000",
+    "timestamp": 1775668370.0,
+    "isoDate": "2026-04-08T17:12:50+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009573orig.jpg?w=2048"
   },
   {
     "title": "Grass Valley Deploys Framelight X At MediaHub Australia",
@@ -328,6 +361,83 @@
     "timestamp": 1775656436.0,
     "isoDate": "2026-04-08T13:53:56+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "A Volcanic Medley Near Mammoth Lakes",
+    "link": "https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/",
+    "summary": "A massive, old caldera and more recently formed craters shape the landscape in the eastern Sierra Nevada.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 08 Apr 2026 04:01:00 +0000",
+    "timestamp": 1775620860.0,
+    "isoDate": "2026-04-08T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-volcanic-medley-near-mammoth-lakes-/mammothlakes_oli2_20260329.jpg?w=1440&h=1600&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Celestial Wonders in Leo",
+    "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/",
+    "summary": "Leo is a prominent sight for stargazers in April. Its famous sickle, punctuated by the bright star Regulus, draws many a beginning stargazer’s eyes, inviting deeper looks into some of Leo’s celestial delights, including a great double star …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 08 Apr 2026 03:01:24 +0000",
+    "timestamp": 1775617284.0,
+    "isoDate": "2026-04-08T03:01:24+00:00",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2023/04/heic1006a-jpg.webp?w=1536"
+  },
+  {
+    "title": "NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth",
+    "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
+    "summary": "Editor’s note: Some photo captions were updated on April 8, 2026, to reflect ongoing scientific observations and discussion about the images. The first flyby images of the Moon captured by NASA’s Artemis II astronauts during their historic …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 07 Apr 2026 20:44:05 +0000",
+    "timestamp": 1775594645.0,
+    "isoDate": "2026-04-07T20:44:05+00:00",
+    "imageUrl": "https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Earthset",
+    "link": "https://www.nasa.gov/image-article/earthset/",
+    "summary": "The Artemis II crew captured this view of Earth setting on April 6, 2026, as they flew around the Moon. As the astronauts flew over the Moon’s far side, the crew photographed and described terrain features including impact craters, ancient …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 07 Apr 2026 18:54:50 +0000",
+    "timestamp": 1775588090.0,
+    "isoDate": "2026-04-07T18:54:50+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig-1.jpg?w=2048"
+  },
+  {
+    "title": "Experience the Rollout of SLS Hardware for Artemis III",
+    "link": "https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/",
+    "summary": "Digital creators and social media users are invited to register to attend the rollout of the third SLS (Space Launch System) core stage as it is prepped to head from NASA’s Michoud Assembly Facility to NASA’s Kennedy Space Center. Are you p…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 07 Apr 2026 17:52:09 +0000",
+    "timestamp": 1775584329.0,
+    "isoDate": "2026-04-07T17:52:09+00:00",
+    "imageUrl": "https://images-assets.nasa.gov/image/MAF_20240712_CS2_Bldg110_Rev-epb_01/MAF_20240712_CS2_Bldg110_Rev-epb_01~large.jpg?w=1920&h=1442&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA to Host Media Call with Artemis II Crew on Way Home from Moon",
+    "link": "https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/",
+    "summary": "Editor’s note: This advisory was updated Wednesday, April 8, 2026, to reflect a time change in the event. Media will have an opportunity at 10:45 p.m. EDT on Wednesday, April 8, to speak with NASA’s Artemis II crew members as they continue …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 07 Apr 2026 16:38:04 +0000",
+    "timestamp": 1775579884.0,
+    "isoDate": "2026-04-07T16:38:04+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-cnew-conference-advisory-april-7.jpg?w=640"
+  },
+  {
+    "title": "Drought Parches Florida",
+    "link": "https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/",
+    "summary": "The state was unusually dry for much of 2025, but the intensity of the drought has ratcheted up since January 2026.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 07 Apr 2026 04:01:00 +0000",
+    "timestamp": 1775534460.0,
+    "isoDate": "2026-04-07T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-dry-winter-for-florida/flordrought_grc_20260330.jpg?w=1440&h=1260&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "How Ross Video’s production-as-a-service helps sports venues deliver on the biggest stages",
