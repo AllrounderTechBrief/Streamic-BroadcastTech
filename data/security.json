@@ -1,5 +1,16 @@
 [
   {
+    "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets",
+    "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
+    "summary": "Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit (SDK) called EngageLab SDK that could have put millions of cryptocurrency wallet users at risk. \"This flaw allows …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 09 Apr 2026 22:56:00 +0530",
+    "timestamp": 1775755560.0,
+    "isoDate": "2026-04-09T17:26:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigi73Eo-lmEoLh8BcTJmWW5GrmLrm49pUkkl8zyxIg1YTEncbgCaY-wXarkWZuipJhJEubcJx-VEiHOv_NrMtPw1BoEU3Ni8gXNcKcbWX4TqBU8pikOAkRdCl-r_XvLz4oXmQ2IpY25bWzLFkXh_hezhx0jgUYiuRvrYVxhW-6x5J7m84HH_VeRtRzTGbW/s1600/vul-app.jpg"
+  },
+  {
     "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
     "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
     "summary": "A previously undocumented threat cluster dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRoo…",
@@ -317,16 +328,5 @@
     "timestamp": 1775365620.0,
     "isoDate": "2026-04-05T05:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9axxKrcvcFkL99SIB2AlrcEW2RIZ1Ff8PollH7XYSWrYSOgoPXKlF5rsdgyr9BSWVUa5oP07faI_DvxNyUk_rpuz5i2xuiEdlU-e929rCWpkLjDGRs4EBjzfBWQRJVtrWNtR-EKvWsR-PPO-Yfei5ONMyumlI12R7OHmIrsyzJtB5SJRTCSuKiyJQnTfK/s1600/database.jpg"
-  },
-  {
-    "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
-    "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
-    "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authen…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 05 Apr 2026 10:02:00 +0530",
-    "timestamp": 1775363520.0,
-    "isoDate": "2026-04-05T04:32:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61_DDvLhdLZ8tHMrmQ8XlQ1vWwnEk-2lmYFnjw_1ZvJ4IUB4G7ffXU8pSd7JDknP0bqyaVVOTb1HJ62ujlQ_zfG3Lc7XMtLKUuZTO6v4jgrdqon90wrix6EaQNKtou3yz7Txf3ni5JOVn-D1-OcHB7e-UDxQI2ifZOBHAeDwFBnwAfanSeFn8EyP8oilj/s1600/fortinet.jpg"
   }
 ]
