@@ -1,5 +1,16 @@
 [
   {
+    "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
+    "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
+    "summary": "Google has made Device Bound Session Credentials (DBSC) generally available to all Windows users of its Chrome web browser, months after it began testing the security feature in open beta. The public availability is currently limited to Win…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 10 Apr 2026 13:28:00 +0530",
+    "timestamp": 1775807880.0,
+    "isoDate": "2026-04-10T07:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-kFnk6uDzN76983rxMJBgJzi5ByxqZ0SM5RAfG1171e3I_lRUCBHIZ0kmMRkxERMiWEO9WRX3D6mkadUuRhw69KYHi4VzPrIa4s4IVilNmFANa2EMbuk1blKF_4ChwqIBuTb4FLj_dqhTDUDsivEnw8OmDL85giaaJTiqATwZArXUq6_3_X7tfd_RLbV/s1600/chrome-cookies.jpg"
+  },
+  {
     "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
     "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
     "summary": "Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor. The incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per W…",
@@ -317,16 +328,5 @@
     "timestamp": 1775458740.0,
     "isoDate": "2026-04-06T06:59:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBHK8DX9E30isZVcn1e-a6p8bmNUAki0SmUh1Tkt9dP8L3D4_WcwT64CI5OVuh1brb1Z4pff7onp90K76ktHbs6-H6Kr0rq9Q2f03oW91e3mA5dN5XdLDyWNns5NcfXw7BKFzH28SbpaFo9l8TmMeZ7Mt6o1ePanKeFYGa8V1S9Rez_E30SIAx2yvfuNl/s1600/revil-ransomware.jpg"
-  },
-  {
-    "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
-    "link": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
-    "summary": "Drift has revealed that the April 1, 2026, attack that led to the theft of $285 million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Ko…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 05 Apr 2026 23:55:00 +0530",
-    "timestamp": 1775413500.0,
-    "isoDate": "2026-04-05T18:25:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2eFUAGb2m5vs6mOwArunSX0lzBpR8Ag24yQhUtaYxrcHx2V46YcocY9oei-HH89QSB-HTxXta3bLH70_n6zMCRD949ttVsKlt4WnzSZ0rl1v4Suj3A7xftqjQSEXDq_cfLCIcMuENqoFeD9zBW0qZXr1owIEQEqzSNkaKfHFsGF35-lseSZbc0MGLRRWu/s1600/drift-hack.jpg"
   }
 ]
