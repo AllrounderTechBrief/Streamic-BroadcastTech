@@ -1,5 +1,16 @@
 [
   {
+    "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
+    "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
+    "summary": "Cybersecurity researchers have flagged yet another evolution of the ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's machine. Th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 10 Apr 2026 18:53:00 +0530",
+    "timestamp": 1775827380.0,
+    "isoDate": "2026-04-10T13:23:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioOU2XpKmyRPz5kTr4GhD1YLJ2t7F6yv7bQD1upkiwmGwmzirnDAz92GvtjckyoBhBjaRqeR9XPm6e0yHdKLowfDDgZNkRlCvCneJEncgiviFu7PgD4wQg3Bo5JDhgg6JTytg_fY2M-iKeykCLebOdStW4A76JKnPbEQazihNOhKOdM9Ou8keMBh4IY4jo/s1600/software.jpg"
+  },
+  {
     "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
     "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
     "summary": "While much of the discussion on AI security centers around protecting ‘shadow’ AI and GenAI consumption, there's a wide-open window nobody's guarding: AI browser extensions. A new report from LayerX exposes just how deep this blind spot goe…",
@@ -317,16 +328,5 @@
     "timestamp": 1775479560.0,
     "isoDate": "2026-04-06T12:46:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZyEpyaWHYHm8-TyNZQgYtoAqrsAUDZ0_onxgp1BUSV0khgAkwy7S9fMT75sRAm2blJXN6xw6i4r0fXP_hayN2Afrr7ul6egJc2nvFJUoWqmy0iJCr5JdK9-915pCFpEtRdlOMb-BYexGAPQPdKnGjWPbPlfGFx5qOo5Dhzfjes7_k-s5bYgFDEyMCT5BJ/s1600/recaps.jpg"
-  },
-  {
-    "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
-    "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
-    "summary": "The most active piece of enterprise infrastructure in the company is the developer workstation. That laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI agents. In…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Apr 2026 17:15:00 +0530",
-    "timestamp": 1775475900.0,
-    "isoDate": "2026-04-06T11:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMDHeEKBkLDrqXHQ8NZfqd3KdR2hzLuhCEQuQKp0yXA20kmu7JR385GZdV94U615EVunwKkJkDSHlqeoEiu5pB4uElhCSO_vOXWsVUUJvgNkmZE1Z22o_yIapvMEOwvqaG7B31S4ojGPnDwGVqd7zgdtg53IS0AsTkHJRBOvdwf726Fypp5CP7m-3rtc/s1600/liteLLM-breach.gif"
   }
 ]
