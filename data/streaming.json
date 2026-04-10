@@ -1,5 +1,16 @@
 [
   {
+    "title": "500 Tbps of capacity: 16 years of scaling our global network",
+    "link": "https://blog.cloudflare.com/500-tbps-of-capacity/",
+    "summary": "Cloudflare’s global network has officially crossed 500 Tbps of external capacity, enough to route more than 20% of the web and absorb the largest DDoS attacks ever recorded.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 10 Apr 2026 18:00:05 GMT",
+    "timestamp": 1775844005.0,
+    "isoDate": "2026-04-10T18:00:05+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4TRCTdrET5JTpz0BaxSdF4/4623f0953417f0998f6810dd048773ff/BLOG-3267_2.png"
+  },
+  {
     "title": "From bytecode to bytes: automated magic packet generation",
     "link": "https://blog.cloudflare.com/from-bpf-to-packet/",
     "summary": "By applying symbolic execution and the Z3 theorem prover to BPF bytecode, we’ve automated the generation of malware trigger packets, cutting analysis time from hours to seconds.",
@@ -262,17 +273,6 @@
     "timestamp": 1773234300.0,
     "isoDate": "2026-03-11T13:05:00+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "AI Security for Apps is now generally available",
-    "link": "https://blog.cloudflare.com/ai-security-for-apps-ga/",
-    "summary": "Cloudflare AI Security for Apps is now generally available, providing a security layer to discover and protect AI-powered applications, regardless of the model or hosting provider. We are also making AI discovery free for all plans, to help…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "timestamp": 1773234000.0,
-    "isoDate": "2026-03-11T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5xpmckBUupzELjYOSx5bAF/cace1ab2ed2dd54d8d7a7ff60587ef65/BLOG-3128_2.png"
   },
   {
     "title": "How AWS powers Dramaze AI-enhanced streaming platform",
