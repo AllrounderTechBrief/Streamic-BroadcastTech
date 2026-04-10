@@ -1,5 +1,16 @@
 [
   {
+    "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+    "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
+    "summary": "While much of the discussion on AI security centers around protecting ‘shadow’ AI and GenAI consumption, there's a wide-open window nobody's guarding: AI browser extensions. A new report from LayerX exposes just how deep this blind spot goe…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 10 Apr 2026 16:30:00 +0530",
+    "timestamp": 1775818800.0,
+    "isoDate": "2026-04-10T11:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9DUEjhk2fpOJYkJSEMuXQKjwHL1MhXzLniQFjNXvUV_iJEcMwk4MacWDYrrCg096uqXg7pJVZYgagJF58e28tr2lOkZsGqpXbnKfnDVStpGIz2fBGvXayNRfbWWaJ2QueaZoYp72PNJHF6g0W4FPBhbw75r_Dm2cuRr1zCmHFHges6gPQ55gr3hI17TM/s1600/layerx.jpg"
+  },
+  {
     "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
     "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
     "summary": "Google has made Device Bound Session Credentials (DBSC) generally available to all Windows users of its Chrome web browser, months after it began testing the security feature in open beta. The public availability is currently limited to Win…",
@@ -9,6 +20,17 @@
     "timestamp": 1775807880.0,
     "isoDate": "2026-04-10T07:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-kFnk6uDzN76983rxMJBgJzi5ByxqZ0SM5RAfG1171e3I_lRUCBHIZ0kmMRkxERMiWEO9WRX3D6mkadUuRhw69KYHi4VzPrIa4s4IVilNmFANa2EMbuk1blKF_4ChwqIBuTb4FLj_dqhTDUDsivEnw8OmDL85giaaJTiqATwZArXUq6_3_X7tfd_RLbV/s1600/chrome-cookies.jpg"
+  },
+  {
+    "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
+    "summary": "A critical security vulnerability in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according to findings from Sysdig. The vulnerability in question is CVE-2026…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 10 Apr 2026 13:07:00 +0530",
+    "timestamp": 1775806620.0,
+    "isoDate": "2026-04-10T07:37:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLOQ2mcgefzP_nej8R2XYY5eLnbFWle2koFcBGH6gyLGu10rBVnI3f3oHUmafvlbNJFc8N50ghG-0d_MP-oLzJcZpObdY8MU67qbCc36iWMApPM0Z6QfMrklCirpFSnyXZeMyHIdD4NyfixepzOZ72qiadKBmUvdkNuzPs-QbZnuSUMBaxA0sWYmTT63v-/s1600/marimo.jpg"
   },
   {
     "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
@@ -306,27 +328,5 @@
     "timestamp": 1775475900.0,
     "isoDate": "2026-04-06T11:45:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMDHeEKBkLDrqXHQ8NZfqd3KdR2hzLuhCEQuQKp0yXA20kmu7JR385GZdV94U615EVunwKkJkDSHlqeoEiu5pB4uElhCSO_vOXWsVUUJvgNkmZE1Z22o_yIapvMEOwvqaG7B31S4ojGPnDwGVqd7zgdtg53IS0AsTkHJRBOvdwf726Fypp5CP7m-3rtc/s1600/liteLLM-breach.gif"
-  },
-  {
-    "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
-    "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
-    "summary": "Threat actors associated with Qilin and Warlock ransomware operations have been observed using the bring your own vulnerable driver (BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco T…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Apr 2026 15:37:00 +0530",
-    "timestamp": 1775470020.0,
-    "isoDate": "2026-04-06T10:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrUKOrJ2Y_pSYHNcKDjbrBsZa2igYlNorTwmH31JNSjdA7VP84kXj23nmkk7DTqlrCUsfCjNo6xt-niyZeKeCR7VtBzMWW9eNUKzU0WGnpmw2yYjHBdboP2uF2UA8CCsdclyeDlRJcU7DEOD8OrFthlhQX-OkgePmyT__ZDQA4IXgRYbnNtp21MoleCTU/s1600/lock-ransomware.jpg"
-  },
-  {
-    "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-    "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-    "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. One of t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Apr 2026 12:29:00 +0530",
-    "timestamp": 1775458740.0,
-    "isoDate": "2026-04-06T06:59:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBHK8DX9E30isZVcn1e-a6p8bmNUAki0SmUh1Tkt9dP8L3D4_WcwT64CI5OVuh1brb1Z4pff7onp90K76ktHbs6-H6Kr0rq9Q2f03oW91e3mA5dN5XdLDyWNns5NcfXw7BKFzH28SbpaFo9l8TmMeZ7Mt6o1ePanKeFYGa8V1S9Rez_E30SIAx2yvfuNl/s1600/revil-ransomware.jpg"
   }
 ]
