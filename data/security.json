@@ -1,6 +1,17 @@
 [
   {
-    "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets",
+    "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
+    "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
+    "summary": "Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor. The incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per W…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 10 Apr 2026 11:58:00 +0530",
+    "timestamp": 1775802480.0,
+    "isoDate": "2026-04-10T06:28:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPUQqw4JQlrmSih69TSpC28TmE2G1rOMs1k_jrdeQbXFFNV6nPvlVQh9oMIwtOLiVJVUxYZFZ0RDiXmLDOPXpF-pbaStwjml7hxE-OITfsVlk2wA-nKUOpcn9R7FjQe03OInZdN2p8GmkFXAvYBbDeU_IDX1wuQ4iqc46lM6SraDPXhbEcCt-LNL0YTck/s1600/slider.jpg"
+  },
+  {
+    "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
     "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
     "summary": "Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit (SDK) called EngageLab SDK that could have put millions of cryptocurrency wallet users at risk. \"This flaw allows …",
     "source": "The Hacker News",
@@ -317,16 +328,5 @@
     "timestamp": 1775413500.0,
     "isoDate": "2026-04-05T18:25:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2eFUAGb2m5vs6mOwArunSX0lzBpR8Ag24yQhUtaYxrcHx2V46YcocY9oei-HH89QSB-HTxXta3bLH70_n6zMCRD949ttVsKlt4WnzSZ0rl1v4Suj3A7xftqjQSEXDq_cfLCIcMuENqoFeD9zBW0qZXr1owIEQEqzSNkaKfHFsGF35-lseSZbc0MGLRRWu/s1600/drift-hack.jpg"
-  },
-  {
-    "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
-    "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
-    "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest cr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 05 Apr 2026 10:37:00 +0530",
-    "timestamp": 1775365620.0,
-    "isoDate": "2026-04-05T05:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9axxKrcvcFkL99SIB2AlrcEW2RIZ1Ff8PollH7XYSWrYSOgoPXKlF5rsdgyr9BSWVUa5oP07faI_DvxNyUk_rpuz5i2xuiEdlU-e929rCWpkLjDGRs4EBjzfBWQRJVtrWNtR-EKvWsR-PPO-Yfei5ONMyumlI12R7OHmIrsyzJtB5SJRTCSuKiyJQnTfK/s1600/database.jpg"
   }
 ]
