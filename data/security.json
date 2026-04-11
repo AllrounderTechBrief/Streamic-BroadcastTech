@@ -1,5 +1,16 @@
 [
   {
+    "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
+    "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
+    "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called Webloc. The t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 11 Apr 2026 11:32:00 +0530",
+    "timestamp": 1775887320.0,
+    "isoDate": "2026-04-11T06:02:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJjyKn2cWWKQvAjaegOP6UqdtgG4Cr6nQdwobWhvYvaSKO-VGcFFSSAvT6ngpo8T9n0BitFhLNKPv669Qp3I_2ZajEs3DbveUT5qhc4zVWHRbjJH4fv0_84_FNhPFnN7EPFa9szLDP6B5G-1owBpAGGFILLSX4q8ZobwLXjI9CPn0DfExp6y0_33OdtmkV/s1600/location-data.jpg"
+  },
+  {
     "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
     "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
     "summary": "Cybersecurity researchers have flagged yet another evolution of the ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's machine. Th…",
@@ -317,16 +328,5 @@
     "timestamp": 1775480400.0,
     "isoDate": "2026-04-06T13:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixIItKplcozAxhBXqaAcKz33D_p67WELaaBHZDIxGe7-qkKNWIITVvI4a3jSB_A17z89_XvJMprYsmkylYUvuWW4GeMWTWgBCWLWc3i_zPx4XtlW1PJDcbt1doyrUQlE1oeYbSNrmk1XZx-ROkvMyVvaLuryZ8k7MSnBbGEtQLledLStXEcyoapR4wAiA/s1600/cyberattacks.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
-    "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
-    "summary": "This week had real hits. The key software got tampered with. Active bugs showed up in the tools people use every day. Some attacks didn’t even need much effort because the path was already there. One weak spot now spreads wider than before.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Apr 2026 18:16:00 +0530",
-    "timestamp": 1775479560.0,
-    "isoDate": "2026-04-06T12:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZyEpyaWHYHm8-TyNZQgYtoAqrsAUDZ0_onxgp1BUSV0khgAkwy7S9fMT75sRAm2blJXN6xw6i4r0fXP_hayN2Afrr7ul6egJc2nvFJUoWqmy0iJCr5JdK9-915pCFpEtRdlOMb-BYexGAPQPdKnGjWPbPlfGFx5qOo5Dhzfjes7_k-s5bYgFDEyMCT5BJ/s1600/recaps.jpg"
   }
 ]
