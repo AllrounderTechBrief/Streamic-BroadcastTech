@@ -1,5 +1,16 @@
 [
   {
+    "title": "Unlocking next generation audio production with MPEG-H on AWS",
+    "link": "https://aws.amazon.com/blogs/media/unlocking-next-generation-audio-production-with-mpeg-h-on-aws/",
+    "summary": "In this post, learn the implementation of cloud-based NGA production workflows using MPEG-H Audio on AWS. By combining Jünger Audio's audio processing expertise, MainConcept's encoding capabilities, Techex's stream processing platform, and …",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Sun, 12 Apr 2026 19:17:18 +0000",
+    "timestamp": 1776021438.0,
+    "isoDate": "2026-04-12T19:17:18+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/01/Figure-1-Solution-architecture-and-signal-workflow.png"
+  },
+  {
     "title": "Welcome to Agents Week",
     "link": "https://blog.cloudflare.com/welcome-to-agents-week/",
     "summary": "Cloudflare's mission has always been to help build a better Internet. Sometimes that means building for the Internet as it exists. Sometimes it means building for the Internet as it's about to become. This week, we're kicking off Agents Wee…",
@@ -427,16 +438,5 @@
     "timestamp": 1768508173.0,
     "isoDate": "2026-01-15T20:16:13+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/14/MLEB-Image-1.png"
-  },
-  {
-    "title": "From flat to full immersion: The AWS path to Dolby Vision and Dolby Atmos",
-    "link": "https://aws.amazon.com/blogs/media/from-flat-to-full-immersion-the-aws-path-to-dolby-vision-and-dolby-atmos/",
-    "summary": "This blog post was co-authored by José Luis Tamez de Gyves, Client Executive Manager, Dolby. Remember watching grainy web videos in tiny windows that constantly paused to buffer? How about those streaming videos with washed-out colors, inac…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 08 Jan 2026 17:48:56 +0000",
-    "timestamp": 1767894536.0,
-    "isoDate": "2026-01-08T17:48:56+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/06/Dolby-Image-1.jpg"
   }
 ]
