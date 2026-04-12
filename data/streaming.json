@@ -1,5 +1,16 @@
 [
   {
+    "title": "Welcome to Agents Week",
+    "link": "https://blog.cloudflare.com/welcome-to-agents-week/",
+    "summary": "Cloudflare's mission has always been to help build a better Internet. Sometimes that means building for the Internet as it exists. Sometimes it means building for the Internet as it's about to become. This week, we're kicking off Agents Wee…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Sun, 12 Apr 2026 17:01:05 GMT",
+    "timestamp": 1776013265.0,
+    "isoDate": "2026-04-12T17:01:05+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3UM1NukO0Ho4lQAYk5CoU8/30e1376c4fe61e86204a0de92ae4612b/BLOG-3238_2.png"
+  },
+  {
     "title": "500 Tbps of capacity: 16 years of scaling our global network",
     "link": "https://blog.cloudflare.com/500-tbps-of-capacity/",
     "summary": "Cloudflare’s global network has officially crossed 500 Tbps of external capacity, enough to route more than 20% of the web and absorb the largest DDoS attacks ever recorded.",
@@ -262,17 +273,6 @@
     "timestamp": 1773291600.0,
     "isoDate": "2026-03-12T05:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3f2nQ5wBVQ2WqiKGsjVWJe/3c1011ced84e46f65938f32c88035de9/image5.png"
-  },
-  {
-    "title": "Slashing agent token costs by 98% with RFC 9457-compliant error responses",
-    "link": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
-    "summary": "Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into effi…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 11 Mar 2026 13:05:00 GMT",
-    "timestamp": 1773234300.0,
-    "isoDate": "2026-03-11T13:05:00+00:00",
-    "imageUrl": ""
   },
   {
     "title": "How AWS powers Dramaze AI-enhanced streaming platform",
