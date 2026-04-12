@@ -1,5 +1,27 @@
 [
   {
+    "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+    "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+    "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software an…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 12 Apr 2026 11:24:00 +0530",
+    "timestamp": 1775973240.0,
+    "isoDate": "2026-04-12T05:54:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCPq2en6ihCNpYdSr5mWkN43O4Rl3tXYz77I2achAfYSy7Emoaj8fNqmFHLOydg6Ai6DwDKBEKD91ywcO9eT2t-rrFxEiThe79Rsa4dap_UcNZSEdWl9NRGeaMqP_vsbWnKf2mMNHQ86cabK4wlspLPWRHMJ7Gj5guX6ynx57RhsDLbJeSDAdPR_BjGFNU/s1600/downloads.jpg"
+  },
+  {
+    "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+    "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+    "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that has come under active exploitation in the wild. The vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 12 Apr 2026 09:55:00 +0530",
+    "timestamp": 1775967900.0,
+    "isoDate": "2026-04-12T04:25:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1374h3OcQ3MPg1BngGcQC6U8eVWUh3Ye84l6WpQKxC1a8_x1Mpp0K8-0DDfJU0YtVqWoUZcNE-bJ_bsfraWWWfafJoP8pF7jDlcb8L4LqNDYWtbhoaDcSbpcmEwNjDi0hzkie5VVRmqntS8uZe4hrAd4IDcc0CO95Bsj8y1rP7LhfPsCkvQIkOtx-B7D/s1600/adobe-adobe.jpg"
+  },
+  {
     "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
     "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
     "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called Webloc. The t…",
@@ -306,27 +328,5 @@
     "timestamp": 1775500620.0,
     "isoDate": "2026-04-06T18:37:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgf4g-Zhhi4P6IHkSqUlU3EzCQNKPJ1nV3mWfQAtS6gfGu6H7wuq5OgVXGvF1IM2afayopX3b0zj4bjVDYaO7dBc4rl0A0Y6GND1VkbLdug_ULVW6a6P7iNlhUFGwMsRSDHqbodsc8EeLcg2nXxDPXO0h8RABu_jr9o-5cx8g5GTXxFgDOx9PTRQIFECpL/s1600/iran.jpg"
-  },
-  {
-    "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
-    "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
-    "summary": "Threat actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South Korea. The attack chain…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Apr 2026 21:54:00 +0530",
-    "timestamp": 1775492640.0,
-    "isoDate": "2026-04-06T16:24:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh23Q23hk6n_d_f9evdsf7JVcn5OswTUqwd0B8EvWdftPQXN4K1V6nHICk_MvzLf4jUfCCHpUmaZIzECekbKf3PQ2w2gRlY-AphdBRZgyJHq7XQsyIS_vp6iT_fVLoDQ1TFA4DBLT32Q1sTY_WHjGRtzaYMOqMNThcg8JodZ-Aozj2OO21DQLj2agEojjdp/s1600/github.jpg"
-  },
-  {
-    "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
-    "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
-    "summary": "Your attack surface no longer lives on one operating system, and neither do the campaigns targeting it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, takin…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Apr 2026 18:30:00 +0530",
-    "timestamp": 1775480400.0,
-    "isoDate": "2026-04-06T13:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixIItKplcozAxhBXqaAcKz33D_p67WELaaBHZDIxGe7-qkKNWIITVvI4a3jSB_A17z89_XvJMprYsmkylYUvuWW4GeMWTWgBCWLWc3i_zPx4XtlW1PJDcbt1doyrUQlE1oeYbSNrmk1XZx-ROkvMyVvaLuryZ8k7MSnBbGEtQLledLStXEcyoapR4wAiA/s1600/cyberattacks.jpg"
   }
 ]
