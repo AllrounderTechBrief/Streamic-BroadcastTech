@@ -1,5 +1,38 @@
 [
   {
+    "title": "Durable Objects in Dynamic Workers: Give each AI-generated app its own database",
+    "link": "https://blog.cloudflare.com/durable-object-facets-dynamic-workers/",
+    "summary": "We’re introducing Durable Object Facets, allowing Dynamic Workers to instantiate Durable Objects with their own isolated SQLite databases. This enables developers to build platforms that run persistent, stateful code generated on-the-fly.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 13 Apr 2026 13:08:35 GMT",
+    "timestamp": 1776085715.0,
+    "isoDate": "2026-04-13T13:08:35+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/mUUk7svflWvIp5Ff3npbG/cd2ec9a7111681657c37e3560fd9af58/BLOG-3211_2.png"
+  },
+  {
+    "title": "Agents have their own computers with Sandboxes GA",
+    "link": "https://blog.cloudflare.com/sandbox-ga/",
+    "summary": "Cloudflare Sandboxes give AI agents a persistent, isolated environment: a real computer with a shell, a filesystem, and background processes that starts on demand and picks up exactly where it left off.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 13 Apr 2026 13:08:35 GMT",
+    "timestamp": 1776085715.0,
+    "isoDate": "2026-04-13T13:08:35+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3bgyxh8kg3MPfij2v1XXLE/9cff50318ad306b20c3346c3bd3554d9/BLOG-3264_2.gif"
+  },
+  {
+    "title": "Dynamic, identity-aware, and secure Sandbox auth",
+    "link": "https://blog.cloudflare.com/sandbox-auth/",
+    "summary": "Outbound Workers for Sandboxes provide a programmable, zero-trust egress proxy for AI agents. This allows developers to inject credentials and enforce dynamic security policies without exposing sensitive tokens to untrusted code.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 13 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776085200.0,
+    "isoDate": "2026-04-13T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/RSbCJMOoqz8xLWMnPyijV/520addf1676d195be6258b427881cdde/BLOG-3199_2.png"
+  },
+  {
     "title": "Unlocking next generation audio production with MPEG-H on AWS",
     "link": "https://aws.amazon.com/blogs/media/unlocking-next-generation-audio-production-with-mpeg-h-on-aws/",
     "summary": "In this post, learn the implementation of cloud-based NGA production workflows using MPEG-H Audio on AWS. By combining Jünger Audio's audio processing expertise, MainConcept's encoding capabilities, Techex's stream processing platform, and …",
@@ -231,17 +264,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5DSicSTe5WOXe9qZEmNO1R/be26bd032aa0bbae052b1a1cede23161/image1.png"
   },
   {
-    "title": "Standing up for the open Internet: why we appealed Italy’s \"Piracy Shield\" fine",
-    "link": "https://blog.cloudflare.com/standing-up-for-the-open-internet/",
-    "summary": "Cloudflare is appealing a €14 million fine from Italian regulators over \"Piracy Shield,\" a system that forces providers to block content without oversight. We are challenging this framework to protect the Internet from disproportionate over…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 16 Mar 2026 19:00:00 GMT",
-    "timestamp": 1773687600.0,
-    "isoDate": "2026-03-16T19:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "How Sony Pictures Networks India Delivered Personalized Ad Insertion at Scale on AWS",
     "link": "https://aws.amazon.com/blogs/media/how-sony-pictures-networks-india-delivered-personalized-ad-insertion-at-scale-on-aws/",
     "summary": "Sony Pictures Network India (SPNI) runs Sony LIV, which is one of the leading popular over-the-top (OTT) video-streaming platform in India. The content offering includes original and acquired TV shows and films, alongside live sporting even…",
@@ -253,17 +275,6 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/13/AsiaCup-SSAI.drawio.png"
   },
   {
-    "title": "From legacy architecture to Cloudflare One",
-    "link": "https://blog.cloudflare.com/legacy-to-agile-sase/",
-    "summary": "Learn how Cloudflare and CDW de-risk SASE migrations with a blueprint that treats legacy debt as an application modernization project.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 13 Mar 2026 13:00:00 GMT",
-    "timestamp": 1773406800.0,
-    "isoDate": "2026-03-13T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Accelerating sports content creation using agentic AI: PGA TOUR",
     "link": "https://aws.amazon.com/blogs/media/accelerating-sports-content-creation-usingagentic-ai-pga-tour/",
     "summary": "In a sport where every stroke, statistic, and storyline unfolds in real time across hundreds of players and thousands of fans, the PGA TOUR is rewriting the rules of sports content. In this blog post, we’ll describe how PGA TOUR uses Amazon…",
@@ -273,17 +284,6 @@
     "timestamp": 1773340071.0,
     "isoDate": "2026-03-12T18:27:51+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/12/PGA-image-1.png"
-  },
-  {
-    "title": "Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans",
-    "link": "https://blog.cloudflare.com/account-abuse-protection/",
-    "summary": "Blocking bots isn’t enough anymore. Cloudflare’s new fraud prevention capabilities — now available in Early Access — help stop account abuse before it starts.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 12 Mar 2026 05:00:00 GMT",
-    "timestamp": 1773291600.0,
-    "isoDate": "2026-03-12T05:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3f2nQ5wBVQ2WqiKGsjVWJe/3c1011ced84e46f65938f32c88035de9/image5.png"
   },
   {
     "title": "How AWS powers Dramaze AI-enhanced streaming platform",

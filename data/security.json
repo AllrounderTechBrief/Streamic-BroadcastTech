@@ -1,5 +1,27 @@
 [
   {
+    "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
+    "summary": "Monday is back, and the weekend’s backlog of chaos is officially hitting the fan. We are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 13 Apr 2026 18:31:00 +0530",
+    "timestamp": 1776085260.0,
+    "isoDate": "2026-04-13T13:01:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZNd-YcwKXoD_PmPblT00GaI9GQJvtJTHZk-5RBS1QEtLRupE9KKh-ogAP61b-cLzJm90PHDoRVnhiUzxlqcn-3gB2EtBG2TYxt8erP8UmLj3t1L_9Ykh3vfbCXFBXAoeylbbTeK7jxJIDmqCqThPziWi0XOzbyMZ-UEWGl_PhP4xePoRbsm_RqpUKmQNW/s1600/recaps-main.jpg"
+  },
+  {
+    "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+    "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
+    "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo Alto Networks' Wendi Whitmorewarned that similar capabilities are w…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 13 Apr 2026 17:11:00 +0530",
+    "timestamp": 1776080460.0,
+    "isoDate": "2026-04-13T11:41:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6yIgStY_TVvAIztG3gjTOWA2HNY1juzcSFQVACCzI1G1EU97z9wTsAO9HJECkmv0RcAYSxu4xSALf9jELTrtC9ruDKbMS5DPq2U2TYXLtvxZ1F4sRaQ2KIe-FfGpB8kZEhs1LEuOvaEnvGO-50RM227cjDVRFdBaXeC8r5WPOQHG3n2SB8ui3USopqHM/s1600/pro.jpg"
+  },
+  {
     "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
     "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
     "summary": "The North Korean hacking group tracked as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media plat…",
@@ -306,27 +328,5 @@
     "timestamp": 1775561400.0,
     "isoDate": "2026-04-07T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmTyBv8aWjZuBbedJ5TZkS6Y66K940b-vB3d1MoHwX2AXWb8xmabo8pN7pcFBicVbmRmK22bzd9nX3XceGzlcmkfej9nF5VJk1srniaJ2F28JEmeFynSREG8A_XMQBSSba4Rb6nn41RCXPT6p5a23xaEoM9Jxb4yvqStcl9j9cofRrotYh2dvxtrM7uc/s1600/out.jpg"
-  },
-  {
-    "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-    "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-    "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take full control of a host. The efforts have …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 07 Apr 2026 14:08:00 +0530",
-    "timestamp": 1775551080.0,
-    "isoDate": "2026-04-07T08:38:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD7E4oEicfW1OaHztWEuM4qrsJFnHRPJ41f8R-2VeKUFV3Y59XaBUctumc2R91miQ3dMPnwkEcpPMqFErKmPRJhS3VRceve1GOSGGUsP6WHGIfoQAuVV10JVy312CxGYvmb2xA_eQtuO69bNb-1NzYln9P4xbsFDoPgWG3BEdri4sRRj415XQr1NENZBh0/s1600/grpu.jpg"
-  },
-  {
-    "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
-    "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
-    "summary": "A China-based threat actor known for deploying Medusa ransomware has been linked to the weaponization of a combination of zero-day and N-day vulnerabilities to orchestrate \"high-velocity\" attacks and break into susceptible internet-facing s…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 07 Apr 2026 12:05:00 +0530",
-    "timestamp": 1775543700.0,
-    "isoDate": "2026-04-07T06:35:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-ulbNH0WxLgcWOo1fnNpmYNLvHo4VW23VmfdGvDlcbd9IvuUBKMp1hY21B2NlBxtCNa5FCPEzjxPaLpOhz2uXR22uAmgHF0n-wJMb6DZmPFPjlC2QsYb0Vi4qvqmVzPcOmMr8NbwGSYYrceDknuVJ6xnzcDUUrmwO_ObAeq_Pmwf8AHeFlcQFwwpb-H3/s1600/medusa.jpg"
   }
 ]

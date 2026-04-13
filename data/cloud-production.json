@@ -1,5 +1,60 @@
 [
   {
+    "title": "LTN Appoints Mark Romano as Vice President, Multichannel Platforms and Edward Cox as Vice President, Sales & Business Development",
+    "link": "https://www.broadcastbeat.com/ltn-appoints-mark-romano-as-vice-president-multichannel-platforms-and-edward-cox-as-vice-president-sales-business-development/",
+    "summary": "Additions strengthen LTN’s leadership as broadcasters scale satellite-to-IP transition LTN today announced the appointments of Mark Romano as Vice President, Multichannel Platforms, and Edward (Ed) Cox as Vice President, Sales & Business De…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 13 Apr 2026 14:42:15 +0000",
+    "timestamp": 1776091335.0,
+    "isoDate": "2026-04-13T14:42:15+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Atomos to Acquire Flanders Scientific",
+    "link": "https://www.broadcastbeat.com/atomos-to-acquire-flanders-scientific/",
+    "summary": "April 13, 2026 Atomos today announced the acquisition of Flanders Scientific (FSI), one of the most respected names in professional reference monitoring. This strategic move reinforces Atomos’ long-term commitment to precision monitoring ac…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 13 Apr 2026 14:27:34 +0000",
+    "timestamp": 1776090454.0,
+    "isoDate": "2026-04-13T14:27:34+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "NUGEN Audio Updates Halo Vision With New Precision Analysis Features",
+    "link": "https://www.broadcastbeat.com/nugen-audio-updates-halo-vision-with-new-precision-analysis-features/",
+    "summary": "LEEDS, UK, APRIL 13, 2026 ― NUGEN Audio releases Halo Vision v1.2, a significant update to its real‑time, customizable audio analysis suite for 3D, surround and immersive workflows. Building on the robust toolset of the original Halo Vision…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 13 Apr 2026 14:11:55 +0000",
+    "timestamp": 1776089515.0,
+    "isoDate": "2026-04-13T14:11:55+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "DHD Marks 30th Anniversary with Brand Relaunch",
+    "link": "https://www.broadcastbeat.com/dhd-marks-30th-anniversary-with-brand-relaunch/",
+    "summary": "Leipzig, Germany, April 13th, 2026: DHD audio, developer and manufacturer of digital audio systems for professional broadcast, has launched a comprehensive brand update to mark its 30th anniversary. The relaunch introduces a new wordmark, a…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 13 Apr 2026 13:14:27 +0000",
+    "timestamp": 1776086067.0,
+    "isoDate": "2026-04-13T13:14:27+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Stegawave Debuts Real-Time Forensic Watermarking to Tackle Piracy in Live Sports Streaming",
+    "link": "https://www.broadcastbeat.com/stegawave-debuts-real-time-forensic-watermarking-to-tackle-piracy-in-live-sports-streaming/",
+    "summary": "Stegawave, an Irish technology company specialising in forensic watermarking for video content, today announced the launch of its anti-piracy platform for live sports streaming. Using a proprietary watermarking algorithm to embed invisible …",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 13 Apr 2026 13:11:18 +0000",
+    "timestamp": 1776085878.0,
+    "isoDate": "2026-04-13T13:11:18+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Camera Corps at NAB 2026: Showcasing Advanced Specialty Camera Systems and Full-Scale Technical Support Services",
     "link": "https://www.broadcastbeat.com/camera-corps-at-nab-2026-showcasing-advanced-specialty-camera-systems-and-full-scale-technical-support-services/",
     "summary": "Delaware, USA – 9 April 2026 – Camera Corps Inc., a world leader in specialty camera systems and a Videndum brand, is proud to announce its participation at NAB 2026. Located on the Videndum booth (C5816), Camera Corps will demonstrate why …",
@@ -118,61 +173,6 @@
     "timeAgo": "Thu, 09 Apr 2026 20:04:44 +0000",
     "timestamp": 1775765084.0,
     "isoDate": "2026-04-09T20:04:44+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "TMT Insights Announces Strategic Leadership Appointments Accelerating Next Phase of Growth",
-    "link": "https://www.broadcastbeat.com/tmt-insights-announces-strategic-leadership-appointments-accelerating-next-phase-of-growth/",
-    "summary": "TMT Insights, today announced a series of strategic leadership appointments and expanded executive responsibilities designed to accelerate the next stage of growth, expand into adjacent markets, and further strengthen its position across th…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 09 Apr 2026 19:58:14 +0000",
-    "timestamp": 1775764694.0,
-    "isoDate": "2026-04-09T19:58:14+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "AJA Launches openGear OG-GEN10 HD/SD Sync Generator",
-    "link": "https://www.broadcastbeat.com/aja-launches-opengear-og-gen10-hd-sd-sync-generator/",
-    "summary": "AJA Video Systems today released OG-GEN10, an HD/SD/AES-11 sync generator that solves common timing challenges in broadcast, production, post, and proAV environments. The new openGear-compatible card features nine HD/SD reference outputs an…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 09 Apr 2026 17:33:52 +0000",
-    "timestamp": 1775756032.0,
-    "isoDate": "2026-04-09T17:33:52+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "AJA Announces IP25-R v2.0 Update with 12G-SDI to SMPTE ST 2110 Conversion",
-    "link": "https://www.broadcastbeat.com/aja-announces-ip25-r-v2-0-update-with-12g-sdi-to-smpte-st-2110-conversion/",
-    "summary": "Grass Valley, CA (April 9, 2026) – AJA Video Systems announced new firmware for its IP25-R SMPTE ST 2110 Mini-Converter. The v2.0 update will be available soon as a free download, and expands IP25-R’s feature set, bringing users the option …",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 09 Apr 2026 17:19:32 +0000",
-    "timestamp": 1775755172.0,
-    "isoDate": "2026-04-09T17:19:32+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "AJA Unveils BRIDGE LIVE IP with SMPTE ST 2110 I/O",
-    "link": "https://www.broadcastbeat.com/aja-unveils-bridge-live-ip-with-smpte-st-2110-i-o/",
-    "summary": "Grass Valley, CA (April 9, 2026) – AJA Video Systems today debuted BRIDGE LIVE IP, offering bi-directional SMPTE ST 2110 conversion to and from popular streaming IP video and audio codecs. With flexible encoding, decoding, and transcoding f…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 09 Apr 2026 17:11:31 +0000",
-    "timestamp": 1775754691.0,
-    "isoDate": "2026-04-09T17:11:31+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "AJA Debuts SMPTE ST 2110 and openGear Solutions Ahead of NAB 2026",
-    "link": "https://www.broadcastbeat.com/aja-debuts-smpte-st-2110-and-opengear-solutions-ahead-of-nab-2026/",
-    "summary": "Grass Valley, CA (April 9, 2026) – AJA Video Systems today unveiled a host of products and updates that simplify and accelerate SMPTE ST 2110 transitions and optimize signal flow across broadcast, production, post, and proAV environments. T…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 09 Apr 2026 16:58:31 +0000",
-    "timestamp": 1775753911.0,
-    "isoDate": "2026-04-09T16:58:31+00:00",
     "imageUrl": ""
   },
   {
