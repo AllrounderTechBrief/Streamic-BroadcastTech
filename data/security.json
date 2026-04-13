@@ -1,5 +1,16 @@
 [
   {
+    "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+    "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit called W3LL to steal t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 13 Apr 2026 20:16:00 +0530",
+    "timestamp": 1776091560.0,
+    "isoDate": "2026-04-13T14:46:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb77IQHAfOvWFPWb_cgV_YJGdRtNJJJWBcjYH6M6cCawBv2tQdybani7Qet_LGwH1tTBHJ2P3Lr6gWdY0sz3547YLzkSLWX3T2l84-A7ndRK3T55QblpJ-j2ovE9Lq0CoNb6ckWziwD2UjKP_awFJXbGr3yuZ1IMPndUyCo_WfoJ9nnyTPFf-K4HVy5A8g/s1600/well-fbi.jpg"
+  },
+  {
     "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
     "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
     "summary": "Monday is back, and the weekend’s backlog of chaos is officially hitting the fan. We are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that…",
@@ -13,7 +24,7 @@
   {
     "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
     "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
-    "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo Alto Networks' Wendi Whitmorewarned that similar capabilities are w…",
+    "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo Alto Networks' Wendi Whitmore warned that similar capabilities are …",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Mon, 13 Apr 2026 17:11:00 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1775565960.0,
     "isoDate": "2026-04-07T12:46:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNAquH2CuNdKvNbKqIsmTqg2Rpb5SRn8zxBKdQliREzpq_Byd0ye0aD8IFVa1JUj09QnQVJVnAVET30DX0jRBK1LBXJ-16QC_GoiYDH2ibCfoYcttx3McOurmn9e4cSugeNgEQa-oVqR13I9K1h6ktgggudmT3u88I_iN_ksHQvuS2N0u0uGlUNTW_Tv9l/s1600/compfyui.jpg"
-  },
-  {
-    "title": "The Hidden Cost of Recurring Credential Incidents",
-    "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-    "summary": "When talking about credential security, the focus usually lands on breach prevention. This makes sense when IBM’s 2025 Cost of a Data Breach Report puts the average cost of a breach at $4.4 million. Avoiding even one major incident is enoug…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 07 Apr 2026 17:00:00 +0530",
-    "timestamp": 1775561400.0,
-    "isoDate": "2026-04-07T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmTyBv8aWjZuBbedJ5TZkS6Y66K940b-vB3d1MoHwX2AXWb8xmabo8pN7pcFBicVbmRmK22bzd9nX3XceGzlcmkfej9nF5VJk1srniaJ2F28JEmeFynSREG8A_XMQBSSba4Rb6nn41RCXPT6p5a23xaEoM9Jxb4yvqStcl9j9cofRrotYh2dvxtrM7uc/s1600/out.jpg"
   }
 ]
