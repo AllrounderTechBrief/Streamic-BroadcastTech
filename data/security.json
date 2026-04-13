@@ -1,5 +1,16 @@
 [
   {
+    "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+    "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+    "summary": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 13 Apr 2026 22:45:00 +0530",
+    "timestamp": 1776100500.0,
+    "isoDate": "2026-04-13T17:15:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMP1knUStbLpgNZ-k52a4ctZyxeERGEeqqVfX75PVTgtdu6XpoIlhHiFAwa4nTwg0089TuczQY5YZOgHOQk-TpVZNxs0piNVCPHsgBPSreTcKQ8gwISSDK7JI4oipfjfrnehwPCqWcyBnxobYaKM7TTu5SN23pUJ5K9fCbORLy2g_ZsSzkmxkp8VVdghfP/s1600/1000066319.jpg"
+  },
+  {
     "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
     "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
     "summary": "The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit called W3LL to steal t…",
@@ -317,16 +328,5 @@
     "timestamp": 1775574900.0,
     "isoDate": "2026-04-07T15:15:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1fiR51KBq7hNIR1D2V9e0jituEJTVutYd8b9v6KR0YdA30xWCSKJo3nfIykSdYSjZNe7gvNj3Wf3HidhZ24n-piDo8LhrE6ctyZrcLYNcJwCSP0KEe7G0Fl_xJm676Dv-4bFEh63Vv_xZ1zb9qOKhfeWFN5IexOHligHBCTHyVLAMDl0aeL2olDxnjfch/s1600/ai-chat.jpg"
-  },
-  {
-    "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
-    "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
-    "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy botnet. \"A purpose-built Python scanner continuously sweep…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 07 Apr 2026 18:16:00 +0530",
-    "timestamp": 1775565960.0,
-    "isoDate": "2026-04-07T12:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNAquH2CuNdKvNbKqIsmTqg2Rpb5SRn8zxBKdQliREzpq_Byd0ye0aD8IFVa1JUj09QnQVJVnAVET30DX0jRBK1LBXJ-16QC_GoiYDH2ibCfoYcttx3McOurmn9e4cSugeNgEQa-oVqR13I9K1h6ktgggudmT3u88I_iN_ksHQvuS2N0u0uGlUNTW_Tv9l/s1600/compfyui.jpg"
   }
 ]
