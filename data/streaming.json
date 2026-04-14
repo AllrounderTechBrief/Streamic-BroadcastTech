@@ -1,5 +1,49 @@
 [
   {
+    "title": "Securing non-human identities: automated revocation, OAuth, and scoped permissions",
+    "link": "https://blog.cloudflare.com/improved-developer-security/",
+    "summary": "Cloudflare is introducing scannable API tokens, enhanced OAuth visibility, and GA for resource-scoped permissions. These tools help developers implement a true least-privilege architecture while protecting against credential leakage.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 14 Apr 2026 13:00:10 GMT",
+    "timestamp": 1776171610.0,
+    "isoDate": "2026-04-14T13:00:10+00:00",
+    "imageUrl": "https://images.ctfassets.net/zkvhlag99gkb/2p3RZFDklLn9cfQOVYq5vS/d40e6116c115c453095f8ed2d110f062/image3.png"
+  },
+  {
+    "title": "Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP",
+    "link": "https://blog.cloudflare.com/enterprise-mcp/",
+    "summary": "We share Cloudflare's internal strategy for governing MCP using Access, AI Gateway, and MCP server portals. We also launch Code Mode to slash token costs and recommend new rules for detecting Shadow MCP in Cloudflare Gateway.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 14 Apr 2026 13:00:10 GMT",
+    "timestamp": 1776171610.0,
+    "isoDate": "2026-04-14T13:00:10+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/73kpNxOQIlM0UOnty9qGXS/53fe1b92e299b52363ac1870df52f2e9/BLOG-3252_2.png"
+  },
+  {
+    "title": "Managed OAuth for Access: make internal apps agent-ready in one click",
+    "link": "https://blog.cloudflare.com/managed-oauth-for-access/",
+    "summary": "Managed OAuth for Cloudflare Access helps AI agents securely navigate internal applications. By adopting RFC 9728, agents can authenticate on behalf of users without using insecure service accounts.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 14 Apr 2026 13:00:10 GMT",
+    "timestamp": 1776171610.0,
+    "isoDate": "2026-04-14T13:00:10+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3867rU5n4IkRilnfCAvOLD/8ec5ea3c25dbd6620a8644d231893732/BLOG-3146_2.png"
+  },
+  {
+    "title": "Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh",
+    "link": "https://blog.cloudflare.com/mesh/",
+    "summary": "Cloudflare Mesh provides secure, private network access for users, nodes, and autonomous AI agents. By integrating with Workers VPC, developers can now grant agents scoped access to private databases and APIs without manual tunnels.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 14 Apr 2026 13:00:09 GMT",
+    "timestamp": 1776171609.0,
+    "isoDate": "2026-04-14T13:00:09+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/12RTZcOBkkKwmaRe5VYn9k/e1b00401bee274a7643a4dfd4139e2df/BLOG-3215_2.png"
+  },
+  {
     "title": "Building a CLI for all of Cloudflare",
     "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
     "summary": "We’re introducing cf, a new unified CLI designed for consistency across the Cloudflare platform, alongside Local Explorer for debugging local data. These tools simplify how developers and AI agents interact with our nearly 3,000 API operati…",
@@ -218,50 +262,6 @@
     "timestamp": 1774530000.0,
     "isoDate": "2026-03-26T13:00:00+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Sandboxing AI agents, 100x faster",
-    "link": "https://blog.cloudflare.com/dynamic-workers/",
-    "summary": "We’re introducing Dynamic Workers, which allow you to execute AI-generated code in secure, lightweight isolates. This approach is 100 times faster than traditional containers, enabling millisecond startup times for AI agent sandboxing.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 24 Mar 2026 13:00:00 GMT",
-    "timestamp": 1774357200.0,
-    "isoDate": "2026-03-24T13:00:00+00:00",
-    "imageUrl": "https://deploy.workers.cloudflare.com/button"
-  },
-  {
-    "title": "Inside Gen 13: how we built our most powerful server yet",
-    "link": "https://blog.cloudflare.com/gen13-config/",
-    "summary": "Cloudflare's Gen 13 servers introduce AMD EPYC™ Turin 9965 processors and a transition to 100 GbE networking to meet growing traffic demands. In this technical deep dive, we explain the engineering rationale behind each major component sele…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 23 Mar 2026 13:00:00 GMT",
-    "timestamp": 1774270800.0,
-    "isoDate": "2026-03-23T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2Gawj2GP8s2CCZCWwNgBiB/587b0ed5ef65cf95cf178e5457150b6a/image3.png"
-  },
-  {
-    "title": "Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance",
-    "link": "https://blog.cloudflare.com/gen13-launch/",
-    "summary": "Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high-core-count AMD EPYC ™ Turin CPUs, we traded large L3 cache for raw compute density. By running our new Rust-based FL…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 23 Mar 2026 13:00:00 GMT",
-    "timestamp": 1774270800.0,
-    "isoDate": "2026-03-23T13:00:00+00:00",
-    "imageUrl": "https://images.ctfassets.net/zkvhlag99gkb/4CBSHY02oIZOiENgFrzLSz/0c6c2ac8ef0096894ff4827e30d25851/image3.png"
-  },
-  {
-    "title": "Powering the agents: Workers AI now runs large models, starting with Kimi K2.5",
-    "link": "https://blog.cloudflare.com/workers-ai-large-models/",
-    "summary": "Kimi K2.5 is now on Workers AI, helping you power agents entirely on Cloudflare’s Developer Platform. Learn how we optimized our inference stack and reduced inference costs for internal agent use cases.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 19 Mar 2026 19:53:16 GMT",
-    "timestamp": 1773949996.0,
-    "isoDate": "2026-03-19T19:53:16+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/36JzF0zePj2z7kZQK8Q2fg/73b0a7206d46f0eef170ffd1494dc4b3/BLOG-3247_2.png"
   },
   {
     "title": "How Sony Pictures Networks India Delivered Personalized Ad Insertion at Scale on AWS",

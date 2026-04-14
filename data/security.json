@@ -1,5 +1,16 @@
 [
   {
+    "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+    "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
+    "summary": "A nascent Android remote access trojan called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Apr 2026 15:50:00 +0530",
+    "timestamp": 1776162000.0,
+    "isoDate": "2026-04-14T10:20:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTMJQqqJsKQgPpv94bO9xAc_tQCEJXJrZGAEmCuyUghslqHdHDYmuVYqIVLGqMLi_ZuY_zEBoDdGDQRVAX0KyGq9QcuIzQ5LVbNLBnwUwW2R7IBg0gopxAI9ml44zJsKXEoc1ig8zRbVDBNK3B4LZRE0WljzIfwnSMHx8Mv1kWYTK5qnxOB1YYl_WNWMa/s1600/android-malware.jpg"
+  },
+  {
     "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
     "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
     "summary": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly 400%. The surge in …",
@@ -317,16 +328,5 @@
     "timestamp": 1775639760.0,
     "isoDate": "2026-04-08T09:16:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvGfSh39Lhl5ird3iuR-T4gkaVejmXgtJ4VwbkLxAqG2hBZWkqQ8LR5k8wfuapt8oUdtifp8Le-uA6Xep8kGe3BRCx5qM1vY9DiMCnMgTFeFK8bc0wBSUR62TjZgPZ9dviGiM8-4-xW1N-ZGSDxIY0uJLFmEKDt1Z9rbttd7Lg_mma6Kt_2qk89vjq9Ed/s1600/claude-mythos.png"
-  },
-  {
-    "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
-    "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
-    "summary": "The North Korea-linked persistent campaign known as Contagious Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems. \"The threat actor's packages were designed to impersonate legitim…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Apr 2026 13:17:00 +0530",
-    "timestamp": 1775634420.0,
-    "isoDate": "2026-04-08T07:47:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiJCapdeJ9Q-yAbFZ7EG69FNg_jPvK7YptY2C7TN6txlcPM_bvVrcbqN1bi-vy2IFi8Ai485K-DZblHR8XwZxdch90kWSv48wjvZF7oj0wy0IMd-B7VPuSiUbSFSJKAlErnSUZWjyVOf-Fyy-LqlxLbGLA7rxIkxlgc6_WRyCNH3XWDLb5GtnmjvxFjUrt/s1600/pack.jpg"
   }
 ]
