@@ -1,5 +1,104 @@
 [
   {
+    "title": "Ribeye Media Bolsters Leadership Team With Four Hires",
+    "link": "https://tvnewscheck.com/business/article/ribeye-media-bolsters-leadership-team-with-four-hires/",
+    "summary": "Ribeye, a programmatic advertising platform built for the local media marketplace, expanded its leadership team with four hires across technology, programmatic operations and client delivery to support its next phase … The post Ribeye Media…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Tue, 14 Apr 2026 15:04:44 +0000",
+    "timestamp": 1776179084.0,
+    "isoDate": "2026-04-14T15:04:44+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Moments Lab Partners With ITN To Enhance Video Discovery For 5 News",
+    "link": "https://tvnewscheck.com/tech/article/moments-lab-partners-with-itn-to-enhance-video-discovery-for-5-news/",
+    "summary": "Moments Lab, a provider of an AI-driven video discovery platform, is working with Independent Television News (ITN) to deploy its Video Discovery Platform, powered by MXT multimodal AI, across ITN’s … The post Moments Lab Partners With ITN …",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Tue, 14 Apr 2026 14:47:38 +0000",
+    "timestamp": 1776178058.0,
+    "isoDate": "2026-04-14T14:47:38+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "NAB Show: Appear To Expand X Platform From Core To Edge",
+    "link": "https://tvnewscheck.com/tech/article/nab-show-appear-to-expand-x-platform-from-core-to-edge/",
+    "summary": "Appear ASA, a provider of live production technology, expanded its X Platform with Appear XM, a self-hosted estate management tool, and highlighted the general availability of the X5 contribution system … The post NAB Show: Appear To Expand…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Tue, 14 Apr 2026 14:38:20 +0000",
+    "timestamp": 1776177500.0,
+    "isoDate": "2026-04-14T14:38:20+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Evergent Unveils Agentic Revenue Orchestration Platform For Subscription Growth",
+    "link": "https://tvnewscheck.com/tech/article/evergent-unveils-agentic-revenue-orchestration-platform-for-subscription-growth/",
+    "summary": "Evergent, a customer relationship management tools provider, introduced the Agentic Revenue Orchestration Platform, aimed at helping subscription businesses in streaming, pay TV, telecommunications and gaming move from transactional managem…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Tue, 14 Apr 2026 14:24:01 +0000",
+    "timestamp": 1776176641.0,
+    "isoDate": "2026-04-14T14:24:01+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "NAB Show: Harmonic Unveils AI Orchestration Service For Live Video Workflows",
+    "link": "https://tvnewscheck.com/tech/article/nab-show-harmonic-unveils-ai-orchestration-service-for-live-video-workflows/",
+    "summary": "Harmonic introduced an AI orchestration service designed to integrate multiple AI applications into live video workflows with broadcast-grade reliability and security, aiming to cut integration complexity and speed time to … The post NAB Sh…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Tue, 14 Apr 2026 14:13:36 +0000",
+    "timestamp": 1776176016.0,
+    "isoDate": "2026-04-14T14:13:36+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Dalet Names Brian Doheny President, Chief Revenue Officer",
+    "link": "https://tvnewscheck.com/tech/article/dalet-names-brian-doheny-president-chief-revenue-officer-2/",
+    "summary": "Dalet, a provider of technology and services for media-rich organizations, has appointed Brian Doheny president and chief revenue officer, aligning the company’s partner-led growth strategy with the commercial launch of … The post Dalet Nam…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Tue, 14 Apr 2026 14:05:24 +0000",
+    "timestamp": 1776175524.0,
+    "isoDate": "2026-04-14T14:05:24+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Nutrition Research Arrives Aboard Space Station",
+    "link": "https://www.nasa.gov/missions/station/iss-research/nutrition-research-arrives-aboard-space-station/",
+    "summary": "No matter how far humanity aims to travel or how ambitious the mission, nutrition will play a key role for the crew members on distant worlds. Before planning long-term stays on the Moon, Mars, and beyond, humans must learn to grow and care…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 14 Apr 2026 14:00:00 +0000",
+    "timestamp": 1776175200.0,
+    "isoDate": "2026-04-14T14:00:00+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/01/nasa-astronaut-jessica-meir-dines-on-fresh-mizuna-mustard-greens-49025620532-o.jpg?w=1536"
+  },
+  {
+    "title": "NASA’s Webb Redefines Dividing Line Between Planets, Stars",
+    "link": "https://science.nasa.gov/missions/webb/nasas-webb-redefines-dividing-line-between-planets-stars/",
+    "summary": "Planets, like those in our solar system, form in a bottom-up process where small bits of rock and ice clump together and grow larger over time. But the heftier the planet, the harder it is to explain its formation that way. Astronomers used…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 14 Apr 2026 14:00:00 +0000",
+    "timestamp": 1776175200.0,
+    "isoDate": "2026-04-14T14:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/04/STScI-01KHV7GAYRJ1X6T6TG3VJ6H5F4.png?w=2000&h=2000&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NAB Show: LiveU Expands Collaboration With Sony To Add Direct File Workflow Integration",
+    "link": "https://tvnewscheck.com/tech/article/nab-show-liveu-expands-collaboration-with-sony-to-add-direct-file-workflow-integration/",
+    "summary": "LiveU is deepening its partnership with Sony by integrating Sony’s file-based workflow solutions across the LiveU EcoSystem, adding a direct file transfer path from compatible Sony cameras into Sony’s PWA-RXS … The post NAB Show: LiveU Expa…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Tue, 14 Apr 2026 13:56:22 +0000",
+    "timestamp": 1776174982.0,
+    "isoDate": "2026-04-14T13:56:22+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Telestream, Grass Valley Link Live And File-Based Workflows Across Hybrid Environments",
     "link": "https://tvnewscheck.com/tech/article/telestream-grass-valley-link-live-and-file-based-workflows-across-hybrid-environments/",
     "summary": "Telestream is deepening interoperability with Grass Valley’s AMPP (Agile Media Processing Platform), tying Telestream’s Vantage workflow orchestration, Pulse observability and Telestream UP cloud-native processing into AMPP to connect live …",
@@ -319,17 +418,6 @@
     "imageUrl": ""
   },
   {
-    "title": "‘Saturday Night Live’ Has New Home In Canada",
-    "link": "https://www.hollywoodreporter.com/business/digital/saturday-night-live-canada-1236562610/",
-    "summary": "The post ‘Saturday Night Live’ Has New Home In Canada appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 18:17:18 +0000",
-    "timestamp": 1776104238.0,
-    "isoDate": "2026-04-13T18:17:18+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "NASA to Host Artemis II Crew Postflight News Conference",
     "link": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
     "summary": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at 2:30 p.m. EDT Thursday, April 16, at NASA’s Johnson Space Center in Houston to discuss their historic mission around the Moon. NASA astronauts Reid Wi…",
@@ -341,61 +429,6 @@
     "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e022310/jsc2026e022310~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
-    "title": "Sid Krofft, Co-Creator Of Mind-Blowing Kids TV Shows, Dies At 96",
-    "link": "https://tvnewscheck.com/people/article/sid-krofft-co-creator-of-mind-blowing-kids-tv-shows-dies-at-96/",
-    "summary": "The puppeteer and his late brother Marty partnered on The Banana Splits Adventure Hour, H.R. Pufnstuf, Land of the Lost and much more. The post Sid Krofft, Co-Creator Of Mind-Blowing Kids TV Shows, Dies At 96 appeared first on TV News Check…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 18:15:10 +0000",
-    "timestamp": 1776104110.0,
-    "isoDate": "2026-04-13T18:15:10+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "‘The Rookie’ & ‘Will Trent’ Renewed At ABC",
-    "link": "https://tvnewscheck.com/programming/article/the-rookie-will-trent-renewed-at-abc/",
-    "summary": "The two dramas draw consistently solid ratings for the network and its streaming partner Hulu. The post ‘The Rookie’ & ‘Will Trent’ Renewed At ABC appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 18:10:04 +0000",
-    "timestamp": 1776103804.0,
-    "isoDate": "2026-04-13T18:10:04+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "NAB Show: Ross Video & HighField AI to Deliver AI-Assisted Graphics Creation",
-    "link": "https://www.tvtechnology.com/production/ross-video-and-highfield-ai-to-deliver-ai-assisted-graphics-creation",
-    "summary": "The post NAB Show: Ross Video & HighField AI to Deliver AI-Assisted Graphics Creation appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 18:06:15 +0000",
-    "timestamp": 1776103575.0,
-    "isoDate": "2026-04-13T18:06:15+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Sinclair & ONE Media Technologies Outline NextGen TV, Tech Plans For NAB Show",
-    "link": "https://www.tvtechnology.com/platform/broadcast/sinclair-and-one-media-technologies-outline-nextgen-tv-tech-plans-for-nab-show",
-    "summary": "The post Sinclair & ONE Media Technologies Outline NextGen TV, Tech Plans For NAB Show appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 18:00:46 +0000",
-    "timestamp": 1776103246.0,
-    "isoDate": "2026-04-13T18:00:46+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "NAB Show: Ross Video To Demo MXL Interoperability, DMF Workflows",
-    "link": "https://tvnewscheck.com/tech/article/nab-show-ross-video-to-demo-mxl-interoperability-dmf-workflows/",
-    "summary": "Ross Video will spotlight support for the Media eXchange Layer initiative and the Joint Taskforce on Dynamic Media Facilities with interoperability demos and technology previews at the NAB Show in … The post NAB Show: Ross Video To Demo MXL…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 17:33:20 +0000",
-    "timestamp": 1776101600.0,
-    "isoDate": "2026-04-13T17:33:20+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Artemis II Astronauts Aboard USS John P. Murtha",
     "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-aboard-uss-john-p-murtha/",
     "summary": "The first astronauts to travel to the Moon in more than half a century are back on Earth after a record-setting mission aboard NASA’s Artemis II test flight. NASA astronauts Reid Wiseman (commander), Christina Koch (mission specialist), Vic…",
@@ -405,39 +438,6 @@
     "timestamp": 1776101449.0,
     "isoDate": "2026-04-13T17:30:49+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/55199636042-965f5225c4-o.jpg?w=2048"
-  },
-  {
-    "title": "NAB Show: Bittree To Feature IP, Hybrid Patching Lineup Aimed At Converged Media Networks",
-    "link": "https://tvnewscheck.com/tech/article/nab-show-bittree-to-feature-ip-hybrid-patching-lineup-aimed-at-converged-media-networks/",
-    "summary": "Bittree, a supplier of patching systems for broadcast, pro audio, AV and government, will return as a standalone exhibitor at the NAB Show in Las Vegas, April 18-22, with new … The post NAB Show: Bittree To Feature IP, Hybrid Patching Lineu…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 17:26:09 +0000",
-    "timestamp": 1776101169.0,
-    "isoDate": "2026-04-13T17:26:09+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "NASA Night-light Imagery Tracks US Energy Transition, Global Volatility",
-    "link": "https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/",
-    "summary": "New nighttime maps based on NASA satellite imagery are upending assumptions, revealing a world where artificial brightening and dimming have intensified over the past decade. The findings show intense flaring over major oil and gas fields i…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 14:31:16 +0000",
-    "timestamp": 1776090676.0,
-    "isoDate": "2026-04-13T14:31:16+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/naturecover_latlon_original.tif?w=2048"
-  },
-  {
-    "title": "Hubble Spies an Active Spiral",
-    "link": "https://science.nasa.gov/missions/hubble/hubble-spies-an-active-spiral/",
-    "summary": "A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this new NASA Hubble Space Telescope image. IC 486 lies right on the edge of the constellation Gemini (the Twins), ar…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 12:24:40 +0000",
-    "timestamp": 1776083080.0,
-    "isoDate": "2026-04-13T12:24:40+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC486.jpg?w=2749&h=1790&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "How Ross Video’s production-as-a-service helps sports venues deliver on the biggest stages",

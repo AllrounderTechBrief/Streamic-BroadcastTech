@@ -1,5 +1,16 @@
 [
   {
+    "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
+    "link": "https://aws.amazon.com/blogs/media/distribute-ndi-content-from-aws-with-aws-elemental-mediaconnect/",
+    "summary": "In this post, learn how to build a demonstration of low-latency live NDI video conversion to a transport stream in the AWS Cloud with MediaConnect.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 14 Apr 2026 14:41:11 +0000",
+    "timestamp": 1776177671.0,
+    "isoDate": "2026-04-14T14:41:11+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/02/Figure-1-High-level-architecture_NDI.png"
+  },
+  {
     "title": "Securing non-human identities: automated revocation, OAuth, and scoped permissions",
     "link": "https://blog.cloudflare.com/improved-developer-security/",
     "summary": "Cloudflare is introducing scannable API tokens, enhanced OAuth visibility, and GA for resource-scoped permissions. These tools help developers implement a true least-privilege architecture while protecting against credential leakage.",
@@ -427,16 +438,5 @@
     "timestamp": 1769097788.0,
     "isoDate": "2026-01-22T16:03:08+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/21/Group-1739331902.png"
-  },
-  {
-    "title": "Schedule AWS Elemental MediaLive channel operations with AWS EventBridge",
-    "link": "https://aws.amazon.com/blogs/media/schedule-aws-elemental-medialive-channel-operations-with-aws-eventbridge/",
-    "summary": "Live streaming helps businesses engage global audiences with low latency. Cloud-based streaming costs less up front than traditional broadcasting and scales to match your needs. By using serverless Amazon Web Services (AWS) services, you ca…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 15 Jan 2026 20:16:13 +0000",
-    "timestamp": 1768508173.0,
-    "isoDate": "2026-01-15T20:16:13+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/14/MLEB-Image-1.png"
   }
 ]

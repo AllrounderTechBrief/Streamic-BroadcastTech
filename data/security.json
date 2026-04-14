@@ -1,5 +1,16 @@
 [
   {
+    "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
+    "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
+    "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational level. \"Th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Apr 2026 19:25:00 +0530",
+    "timestamp": 1776174900.0,
+    "isoDate": "2026-04-14T13:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjblrgfLU8m4awyQDEqyzwguow-RuCp4UH1k5DBkrUrP87A7tsEQPPaLD_D9M4VXF5mSNrmp1eurx_QW-nVjM1nNnkyEIFyFiry3nxE0Wq3xrT0L06S6B11rEHcWzB7q78RRQySSxwLAVIncgqO5qhtY6b0A_LzYF8wtvH94G_TLQEn8UIivqrJNkH88Nf7/s1600/android-rust.jpg"
+  },
+  {
     "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
     "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
     "summary": "A nascent Android remote access trojan called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on…",
@@ -317,16 +328,5 @@
     "timestamp": 1775647800.0,
     "isoDate": "2026-04-08T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBk9NZe_ohGdUGAoq15K_dOgD1oLAfVbW296B80LqWpzR3Cal5Zerxl9gJCmrK9g9WROjalAzzvElgqRAm-2WtyxAJLfisSZ7b5S_HwDR4QvJnuO5H3g3W3Qd-_OAG-lcmsjCQ3K0bj5_5BRcY-B8euArXK8_lAvFxJf0h6CyHW0ZfXtCgZPqRA7ShNbU/s1600/orchid.jpg"
-  },
-  {
-    "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-    "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
-    "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative called Project Glasswing that will use a preview version of its new frontier model, Claude Mythos, to find and address security vulnerabilities. The mod…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Apr 2026 14:46:00 +0530",
-    "timestamp": 1775639760.0,
-    "isoDate": "2026-04-08T09:16:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvGfSh39Lhl5ird3iuR-T4gkaVejmXgtJ4VwbkLxAqG2hBZWkqQ8LR5k8wfuapt8oUdtifp8Le-uA6Xep8kGe3BRCx5qM1vY9DiMCnMgTFeFK8bc0wBSUR62TjZgPZ9dviGiM8-4-xW1N-ZGSDxIY0uJLFmEKDt1Z9rbttd7Lg_mma6Kt_2qk89vjq9Ed/s1600/claude-mythos.png"
   }
 ]

@@ -1,5 +1,49 @@
 [
   {
+    "title": "Telestream and Grass Valley Connect Live and File-Based Workflows Across Open, Hybrid Environments",
+    "link": "https://www.broadcastbeat.com/telestream-and-grass-valley-connect-live-and-file-based-workflows-across-open-hybrid-environments/",
+    "summary": "Integration of Vantage, Pulse, and Telestream UP with Grass Valley AMPP Ecosystem enables scalable, interoperable workflows spanning live production and file-based media operations. Nevada City, California – April 14, 2026 – Telestream, a g…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 14 Apr 2026 15:03:59 +0000",
+    "timestamp": 1776179039.0,
+    "isoDate": "2026-04-14T15:03:59+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "GatesAir Strengthens Global Services Team to Support AirWatch365 Expansion",
+    "link": "https://www.broadcastbeat.com/gatesair-strengthens-global-services-team-to-support-airwatch365-expansion/",
+    "summary": "CINCINNATI, April 14, 2026 — GatesAir a global leader in wireless, over-the-air content delivery solutions for radio and TV broadcasters, is strengthening its Global Services organization with two experienced engineering hires ahead of NAB …",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 14 Apr 2026 14:48:08 +0000",
+    "timestamp": 1776178088.0,
+    "isoDate": "2026-04-14T14:48:08+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
+    "link": "https://aws.amazon.com/blogs/media/distribute-ndi-content-from-aws-with-aws-elemental-mediaconnect/",
+    "summary": "In this post, learn how to build a demonstration of low-latency live NDI video conversion to a transport stream in the AWS Cloud with MediaConnect.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 14 Apr 2026 14:41:11 +0000",
+    "timestamp": 1776177671.0,
+    "isoDate": "2026-04-14T14:41:11+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/02/Figure-1-High-level-architecture_NDI.png"
+  },
+  {
+    "title": "Dalet Appoints Brian Doheny as President and Chief Revenue Officer",
+    "link": "https://www.broadcastbeat.com/dalet-appoints-brian-doheny-as-president-and-chief-revenue-officer/",
+    "summary": "Enterprise growth leader to scale Dalet’s next phase of innovation and global expansion New York, NY – April 14, 2026 – Dalet, a leading technology and service provider for media-rich organizations, today announced the appointment of Brian …",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 14 Apr 2026 14:25:33 +0000",
+    "timestamp": 1776176733.0,
+    "isoDate": "2026-04-14T14:25:33+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Appear Expands X Platform from Core to Edge at NAB Show 2026",
     "link": "https://www.broadcastbeat.com/appear-expands-x-platform-from-core-to-edge-at-nab-show-2026/",
     "summary": "Appear launches include XM estate management and new X Platform processing enhancements to add density for next-generation hybrid & IP workflows, X5 is also now generally available extending broadcast-grade contribution to compact deploymen…",
@@ -129,39 +173,6 @@
     "timeAgo": "Mon, 13 Apr 2026 13:14:27 +0000",
     "timestamp": 1776086067.0,
     "isoDate": "2026-04-13T13:14:27+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Stegawave Debuts Real-Time Forensic Watermarking to Tackle Piracy in Live Sports Streaming",
-    "link": "https://www.broadcastbeat.com/stegawave-debuts-real-time-forensic-watermarking-to-tackle-piracy-in-live-sports-streaming/",
-    "summary": "Stegawave, an Irish technology company specialising in forensic watermarking for video content, today announced the launch of its anti-piracy platform for live sports streaming. Using a proprietary watermarking algorithm to embed invisible …",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 13 Apr 2026 13:11:18 +0000",
-    "timestamp": 1776085878.0,
-    "isoDate": "2026-04-13T13:11:18+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Camera Corps at NAB 2026: Showcasing Advanced Specialty Camera Systems and Full-Scale Technical Support Services",
-    "link": "https://www.broadcastbeat.com/camera-corps-at-nab-2026-showcasing-advanced-specialty-camera-systems-and-full-scale-technical-support-services/",
-    "summary": "Delaware, USA – 9 April 2026 – Camera Corps Inc., a world leader in specialty camera systems and a Videndum brand, is proud to announce its participation at NAB 2026. Located on the Videndum booth (C5816), Camera Corps will demonstrate why …",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 13 Apr 2026 09:18:18 +0000",
-    "timestamp": 1776071898.0,
-    "isoDate": "2026-04-13T09:18:18+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Mediaproxy adds AI toolset to LogServer for brand and advertisement tracking",
-    "link": "https://www.broadcastbeat.com/mediaproxy-adds-ai-toolset-to-logserver-for-brand-and-advertisement-tracking/",
-    "summary": "Melbourne, Australia: 13 April 2026 – Mediaproxy, the global standard for software-based IP compliance monitoring and multiviewing solutions, has developed a new suite of AI-powered tools designed to transform how broadcasters and media org…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 13 Apr 2026 08:49:26 +0000",
-    "timestamp": 1776070166.0,
-    "isoDate": "2026-04-13T08:49:26+00:00",
     "imageUrl": ""
   },
   {
@@ -372,16 +383,5 @@
     "timestamp": 1769097788.0,
     "isoDate": "2026-01-22T16:03:08+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/21/Group-1739331902.png"
-  },
-  {
-    "title": "Schedule AWS Elemental MediaLive channel operations with AWS EventBridge",
-    "link": "https://aws.amazon.com/blogs/media/schedule-aws-elemental-medialive-channel-operations-with-aws-eventbridge/",
-    "summary": "Live streaming helps businesses engage global audiences with low latency. Cloud-based streaming costs less up front than traditional broadcasting and scales to match your needs. By using serverless Amazon Web Services (AWS) services, you ca…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 15 Jan 2026 20:16:13 +0000",
-    "timestamp": 1768508173.0,
-    "isoDate": "2026-01-15T20:16:13+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/14/MLEB-Image-1.png"
   }
 ]
