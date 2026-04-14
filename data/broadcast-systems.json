@@ -1,5 +1,60 @@
 [
   {
+    "title": "Ambient QuickPole Counterweight",
+    "link": "https://www.newsshooter.com/2026/04/14/ambient-quickpole-counterweight/?utm_source=rss&utm_medium=rss&utm_campaign=ambient-quickpole-counterweight",
+    "summary": "The new Ambient QuickPole Counterweight is a direct result of feedback from the audio community. It attaches directly to the rear end of Ambient QuickPole booms. Users simply remove the rubber bumper and screw it onto the built-in thread. W…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 14 Apr 2026 09:21:07 +0000",
+    "timestamp": 1776158467.0,
+    "isoDate": "2026-04-14T09:21:07+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Ross Video, Highfield AI aim to streamline graphics creation",
+    "link": "https://www.tvbeurope.com/live-production/ross-video-highfield-ai-aim-to-streamline-graphics-creation",
+    "summary": "The workflow accelerates the creation of graphics such as lower-thirds, matchup screens, player profiles for sport, and full-frame visuals The post Ross Video, Highfield AI aim to streamline graphics creation appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 14 Apr 2026 08:43:04 +0000",
+    "timestamp": 1776156184.0,
+    "isoDate": "2026-04-14T08:43:04+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/RossVideo-HighField-AI_2-726x373.png"
+  },
+  {
+    "title": "UK regulators open inquiry into Paramount/WBD transaction",
+    "link": "https://www.tvbeurope.com/business/uk-regulators-open-inquiry-into-paramount-wbd-transaction",
+    "summary": "The UK's Competition and Markets Authority has received the necessary information from the relevant parties to launch the pre-notification stage of its inquiry The post UK regulators open inquiry into Paramount/WBD transaction appeared firs…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 14 Apr 2026 08:39:09 +0000",
+    "timestamp": 1776155949.0,
+    "isoDate": "2026-04-14T08:39:09+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Appear takes its X Platform to the edge",
+    "link": "https://www.tvbeurope.com/ip-migration/appear-takes-its-x-platform-to-the-edge",
+    "summary": "Appear said it is expanding the X Platform to meet the realities of modern broadcast networks, without compromising performance, resilience, or flexibility The post Appear takes its X Platform to the edge appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 14 Apr 2026 08:39:05 +0000",
+    "timestamp": 1776155945.0,
+    "isoDate": "2026-04-14T08:39:05+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/X5-Final-Front-Black-Persp-25102025-726x502.png"
+  },
+  {
+    "title": "Grass Valley camera systems drive cinematic live production for Studio Berlin",
+    "link": "https://www.tvbeurope.com/live-production/grass-valley-camera-systems-drive-cinematic-live-production-for-studio-berlin",
+    "summary": "The upgrade features 12 Grass Valley LDX 135 UHD/HDR camera systems and 12 LDX 180 Super 35mm cinematic cameras, including two compact LDX C180 units The post Grass Valley camera systems drive cinematic live production for Studio Berlin app…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 14 Apr 2026 07:52:11 +0000",
+    "timestamp": 1776153131.0,
+    "isoDate": "2026-04-14T07:52:11+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Image-83-726x968.jpg"
+  },
+  {
     "title": "Apex-RF RAINIER– A Next-Generation Wireless Live Camera RF System",
     "link": "https://www.newsshooter.com/2026/04/13/apex-rf-rainier-a-next-generation-wireless-live-camera-rf-system/?utm_source=rss&utm_medium=rss&utm_campaign=apex-rf-rainier-a-next-generation-wireless-live-camera-rf-system",
     "summary": "Apex-RF has announced the launch of RAINIER, a next-generation wireless live camera transmission system designed to meet the evolving demands of broadcast, live production, and studio environments. What makes RAINIER unique and different fr…",
@@ -41,17 +96,6 @@
     "timeAgo": "Tue, 14 Apr 2026 00:56:14 +0000",
     "timestamp": 1776128174.0,
     "isoDate": "2026-04-14T00:56:14+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Blackmagic Design Fairlight Live",
-    "link": "https://www.newsshooter.com/2026/04/13/blackmagic-design-fairlight-live/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-design-fairlight-live",
-    "summary": "Blackmagic Design Fairlight Live is being touted as a powerful software-based live audio mixer with support for SMPTE-2110 broadcast and immersive workflows, full redundancy, and third-party plug-ins. Fairlight Live can handle thousands of …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 14 Apr 2026 00:44:09 +0000",
-    "timestamp": 1776127449.0,
-    "isoDate": "2026-04-14T00:44:09+00:00",
     "imageUrl": ""
   },
   {
@@ -228,50 +272,6 @@
     "timeAgo": "Thu, 09 Apr 2026 07:27:57 +0000",
     "timestamp": 1775719677.0,
     "isoDate": "2026-04-09T07:27:57+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Cloud MCRs: the next phase of virtualisation",
-    "link": "https://www.tvbeurope.com/media-management/cloud-mcrs-the-next-phase-of-virtualisation",
-    "summary": "Virtualised Master Control Rooms seem destined to add a new tier of opportunity to live production, but issues around interoperability and latency mean mass-adoption is unlikely to be just around the corner The post Cloud MCRs: the next pha…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 08 Apr 2026 10:28:37 +0000",
-    "timestamp": 1775644117.0,
-    "isoDate": "2026-04-08T10:28:37+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/BBC-RTE-incoming-post-cloud-726x402.png"
-  },
-  {
-    "title": "Rudy Dendleux appointed managing director of Gravity Media France",
-    "link": "https://www.tvbeurope.com/business/people/rudy-dendleux-appointed-managing-director-of-gravity-media-france",
-    "summary": "Dendleux first joined the company in 2003 as president of Gravity's technology division The post Rudy Dendleux appointed managing director of Gravity Media France appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 08 Apr 2026 10:06:44 +0000",
-    "timestamp": 1775642804.0,
-    "isoDate": "2026-04-08T10:06:44+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Rudy-pic-726x408.png"
-  },
-  {
-    "title": "Amagi’s NewsPulse helps broadcasters turn news into vertical video",
-    "link": "https://www.tvbeurope.com/live-production/amagis-newspulse-helps-broadcasters-turn-news-into-vertical-video",
-    "summary": "Rather than applying a static centre-crop, the AI dynamically tracks on-screen subjects, lower-thirds, and graphics to intelligently reframe the video into multiple aspect ratios The post Amagi’s NewsPulse helps broadcasters turn news into …",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 08 Apr 2026 07:53:08 +0000",
-    "timestamp": 1775634788.0,
-    "isoDate": "2026-04-08T07:53:08+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Amagi-Newspulse-726x487.jpg"
-  },
-  {
-    "title": "Synamedia unveils just-in-time AI plugin framework for Quortex portfolio",
-    "link": "https://www.tvbeurope.com/media-management/synamedia-unveils-just-in-time-ai-plugin-framework-for-quortex-portfolio",
-    "summary": "Built on AWS and integrated across the Quortex portfolio, the framework eliminates unnecessary processing and resource use The post Synamedia unveils just-in-time AI plugin framework for Quortex portfolio appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 08 Apr 2026 07:31:36 +0000",
-    "timestamp": 1775633496.0,
-    "isoDate": "2026-04-08T07:31:36+00:00",
     "imageUrl": ""
   },
   {
