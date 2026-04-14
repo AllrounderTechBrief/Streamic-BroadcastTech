@@ -1,14 +1,36 @@
 [
   {
+    "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+    "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+    "summary": "Two high-severity security vulnerabilities have been disclosed in Composer, a package manager for PHP, that, if successfully exploited, could result in arbitrary command execution. The vulnerabilities have been described as command injectio…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Apr 2026 21:27:00 +0530",
+    "timestamp": 1776182220.0,
+    "isoDate": "2026-04-14T15:57:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP-RqcuX8QuBEwVkchLNSjyIAqQEuFwy0prqQ1gGqxpBFESQLuCzgGB7-cjYhJrbLhbTk_j8G4NedN06plhhqLd_Rpd01mTh8XcOHjvQ_UuJqfjTROZeh40WlSN_7gzRL4yVKX-Aj0ui2gOxo9l70b3Dy5R6srKjne-gQXIhL7fNAHYZ7rDm6-yWl4-_JD/s1600/php-code.jpg"
+  },
+  {
     "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
     "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
     "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational level. \"Th…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Tue, 14 Apr 2026 19:25:00 +0530",
-    "timestamp": 1776174900.0,
-    "isoDate": "2026-04-14T13:55:00+00:00",
+    "timeAgo": "Tue, 14 Apr 2026 20:26:00 +0530",
+    "timestamp": 1776178560.0,
+    "isoDate": "2026-04-14T14:56:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjblrgfLU8m4awyQDEqyzwguow-RuCp4UH1k5DBkrUrP87A7tsEQPPaLD_D9M4VXF5mSNrmp1eurx_QW-nVjM1nNnkyEIFyFiry3nxE0Wq3xrT0L06S6B11rEHcWzB7q78RRQySSxwLAVIncgqO5qhtY6b0A_LzYF8wtvH94G_TLQEn8UIivqrJNkH88Nf7/s1600/android-rust.jpg"
+  },
+  {
+    "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+    "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+    "summary": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into Google's Discove…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Apr 2026 20:00:00 +0530",
+    "timestamp": 1776177000.0,
+    "isoDate": "2026-04-14T14:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiON8Ew8R1EO7t3yoLoTFdM2hQsDW9AtBPPBcNuPup6ZmpGta3VyYlkhiqqRlW5CDWpnU_3IJ-EAbnV6nrfzJ4V3mdWIng75afS2TPvZOs-_MLc0a5lxiLwR5H-EWmi1C0ctYCBZSBNbF9CCGcdm7BrNaWunTp8QvBkmqJwq0Yvde9bQxbhooyIYaXRiebP/s1600/ad-fraud.jpg"
   },
   {
     "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
@@ -306,27 +328,5 @@
     "timestamp": 1775665800.0,
     "isoDate": "2026-04-08T16:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVrpJtAgJfASiMYseJhDzJoT1ly7iXa_e_Y_4TBhGIkVGCJ_ZLDM-tGb1Y9NWcOpOcH-xUZUfDiM0fuvUIabEa_5xSbgGjgL8U4FPE99W-V6-oFRAG1ziEZeiJPYrkSZZrwu0jQDjhdUfKsiSxPgZbyZgF1A-cUOqUK3aJpSOQgeSZWogg1X9r77IANDey/s1600/ddos-for-hire.jpg"
-  },
-  {
-    "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
-    "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
-    "summary": "The Russian threat actor known as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented malware suite codenamed PRISMEX. \"PRISMEX c…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Apr 2026 19:20:00 +0530",
-    "timestamp": 1775656200.0,
-    "isoDate": "2026-04-08T13:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBiilqDko4PDmo2Iu-E-25PRzUJ2LygbHdv1RsdA31AkJBL9QB3AzdxV_4j-jo2Xf9wXwlienf17HO_uJyiue3JOWNfTFdln4gXJcounilzPxOsIXpN5g6imDW3ta0jt4Ck3UYinAmWwHZqfxYhjuaFnOIowTmZbNedv3AmS7Qlze1-tD2gkJBuUxTzSml/s1600/nato.jpg"
-  },
-  {
-    "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-    "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
-    "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Apr 2026 17:00:00 +0530",
-    "timestamp": 1775647800.0,
-    "isoDate": "2026-04-08T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBk9NZe_ohGdUGAoq15K_dOgD1oLAfVbW296B80LqWpzR3Cal5Zerxl9gJCmrK9g9WROjalAzzvElgqRAm-2WtyxAJLfisSZ7b5S_HwDR4QvJnuO5H3g3W3Qd-_OAG-lcmsjCQ3K0bj5_5BRcY-B8euArXK8_lAvFxJf0h6CyHW0ZfXtCgZPqRA7ShNbU/s1600/orchid.jpg"
   }
 ]
