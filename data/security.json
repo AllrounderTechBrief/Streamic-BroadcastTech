@@ -1,5 +1,27 @@
 [
   {
+    "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
+    "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+    "summary": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild. The vulnerability in question is CVE-2025-0520 (aka CNVD-2020-26585), whi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Apr 2026 11:20:00 +0530",
+    "timestamp": 1776145800.0,
+    "isoDate": "2026-04-14T05:50:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjthzbWdOOZKL2JKvluG78cobCs7bGxvHsfzSMHt4XgX1OO9h-r7W_dlYCCDrCoKo2dAXhh264NTGUrFKBpM8pv0WcePn5gUp1atSJ4-iC4_wr0jmo7nDZ46JYCs8P_5DLs5RcHi81-L7Wiw35cLHNWqCPe50LJ1a3tqfxwfB3S3ufQjYQfUrfRDwMo1BYE/s1600/showdoc.jpg"
+  },
+  {
+    "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as fol…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Apr 2026 11:09:00 +0530",
+    "timestamp": 1776145140.0,
+    "isoDate": "2026-04-14T05:39:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkkewWzrjyqzejet7cyCWdTUMfgjGZgkDpis6rUlh7qnyPpmcN1k_vVdKvziAZq2cOkFQDrJNM8E6WE8Cl7oPNdq94MOXJLa0nkbEmAFCB_MnjLQzTy-WjHGa6yuLhm7dPzuW3YEQeFIfOT1Tr25NgALeTL6vFDhzmJrCRMLL0GBpOhkwQm_Zirk_9aNjr/s1600/warning.jpg"
+  },
+  {
     "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
     "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
     "summary": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency…",
@@ -306,27 +328,5 @@
     "timestamp": 1775580480.0,
     "isoDate": "2026-04-07T16:48:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6xcrxyaKNQYXfVN-AHFfiSrJ_8SwW3v7MgKlJNBi-E5WIwT3ZNrNm4fcT0JZKHHLH9fbtMKdYhG_2DBHxkIy7-EydaWvEeeo4LDRPgAJ1K8i-YFeD9a0gPnw92xfN4FU3k7rQUhizsFLL8fiAo2YOw-ql-Ru07KtBUoA__B_fGYW4I6jnnn-OPwxoXnCx/s1600/router.jpg"
-  },
-  {
-    "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-    "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-    "summary": "In the rapid evolution of the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security leaders: Identity programs are maturing, yet the risk is actually increasing. According to new research from the Ponemon Institute…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 07 Apr 2026 21:59:00 +0530",
-    "timestamp": 1775579340.0,
-    "isoDate": "2026-04-07T16:29:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHgJL0SczODx5PAnF85b8b0mRpiOOkIQdOWvhivyXu6H8UeZKH9ZUdaeW5IuU59q2hjMNioQWQ5vk1Km8yinGGc8GA079qvhTtFsp9PV76Kmp-3lpKh2zi3vgd_-6dFcOI6i1YHs7VkJ-p-HvOEuOwkjooBVSvYFOrVqXqNhZShZy3IUeD6BVHVvUIj50/s1600/webinar-cerby.jpg"
-  },
-  {
-    "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-    "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
-    "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The vulnerability, tracked as CVE-2026-34040 (CVSS score: 8.8), s…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 07 Apr 2026 20:45:00 +0530",
-    "timestamp": 1775574900.0,
-    "isoDate": "2026-04-07T15:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1fiR51KBq7hNIR1D2V9e0jituEJTVutYd8b9v6KR0YdA30xWCSKJo3nfIykSdYSjZNe7gvNj3Wf3HidhZ24n-piDo8LhrE6ctyZrcLYNcJwCSP0KEe7G0Fl_xJm676Dv-4bFEh63Vv_xZ1zb9qOKhfeWFN5IexOHligHBCTHyVLAMDl0aeL2olDxnjfch/s1600/ai-chat.jpg"
   }
 ]

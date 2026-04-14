@@ -1,16 +1,5 @@
 [
   {
-    "title": "Super Typhoon Sinlaku",
-    "link": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/",
-    "summary": "The violent storm aimed at the U.S. Northern Mariana Islands and Guam in mid-April 2026.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 14 Apr 2026 04:00:00 +0000",
-    "timestamp": 1776139200.0,
-    "isoDate": "2026-04-14T04:00:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-sinlaku/typhoonsinlaku_vir_20260413.jpg?w=2160&h=1440&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
     "title": "Cox Media Names Kevin Hayes Regional VP-GM Of Pittsburgh & Dayton",
     "link": "https://tvnewscheck.com/business/article/cox-media-names-kevin-hayes-regional-vp-gm-of-pittsburgh-dayton/",
     "summary": "Hayes will continue to serve as VP-GM of WPXI Pittsburgh while also providing strategic oversight and leadership support for WHIO Dayton, Ohio. The post Cox Media Names Kevin Hayes Regional VP-GM Of Pittsburgh & Dayton appeared first on TV …",
@@ -22,39 +11,6 @@
     "imageUrl": ""
   },
   {
-    "title": "NASA Invites Media to Rollout Event for Artemis III Moon Rocket Stage",
-    "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage/",
-    "summary": "NASA will roll the largest section of the agency’s SLS (Space Launch System) rocket, which will launch the second crewed Artemis mission, out of the agency’s Michoud Assembly Facility in New Orleans on Monday, April 20. What’s called the to…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 21:34:11 +0000",
-    "timestamp": 1776116051.0,
-    "isoDate": "2026-04-13T21:34:11+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/artemis3michoudrollout.jpg?w=2048"
-  },
-  {
-    "title": "NASA Announces 32nd Annual Human Exploration Rover Challenge Winners",
-    "link": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-32nd-annual-human-exploration-rover-challenge-winners/",
-    "summary": "NASA’s 32nd annual Human Exploration Rover Challenge, one of the agency’s longest-standing student challenges, culminated April 10-11 with its final excursion event at the U.S. Space & Rocket Center near NASA’s Marshall Space Flight Center …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 21:23:11 +0000",
-    "timestamp": 1776115391.0,
-    "isoDate": "2026-04-13T21:23:11+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/ceb-1339.jpg"
-  },
-  {
-    "title": "NASA Awards Data Engineering, Informatics Support Contract",
-    "link": "https://www.nasa.gov/news-release/nasa-awards-data-engineering-informatics-support-contract/",
-    "summary": "NASA has selected Development Seed of Washington to provide research and development services to the Office of Data Science and Informatics (ODSI) at the agency’s Marshall Space Flight Center in Huntsville, Alabama. The award is a performan…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 20:58:37 +0000",
-    "timestamp": 1776113917.0,
-    "isoDate": "2026-04-13T20:58:37+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg?w=1920"
-  },
-  {
     "title": "Dow Adds 302, Nasdaq Climbs 281, S&P 500 Rises 69",
     "link": "https://tvnewscheck.com/business/article/dow-adds-302-nasdaq-climbs-281-sp-500-rises-69/",
     "summary": "U.S. stocks rallied Monday and returned to where they were before the U.S.-Iran war. The post Dow Adds 302, Nasdaq Climbs 281, S&P 500 Rises 69 appeared first on TV News Check.",
@@ -64,28 +20,6 @@
     "timestamp": 1776112546.0,
     "isoDate": "2026-04-13T20:35:46+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Curiosity Blog, Sols 4852–4858: When Data Take Their Time…",
-    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4852-4858-when-data-take-their-time/",
-    "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, April 3, 2026 I was the geology science team lead on Monday for planning Sols 4852-4853, when our data did not arrive…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 20:04:25 +0000",
-    "timestamp": 1776110665.0,
-    "isoDate": "2026-04-13T20:04:25+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/april/https___mars.nasa.gov_msl-raw-images_msss_04855_mcam_4855MR1090850082500817C00_DXXX.jpg?w=1328&h=1184&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Curiosity Blog, Sols 4845-4851: Bye-Bye Boxwork, Bye-Bye",
-    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4845-4851-bye-bye-boxwork-bye-bye/",
-    "summary": "Written by Lucy Thompson, APXS Strategic Planner and Planetary Geologist at the University of New Brunswick, Canada Earth planning date: Friday, March 27, 2026 Last weekend’s drive took us just over the southernmost contact of the boxwork t…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 19:37:17 +0000",
-    "timestamp": 1776109037.0,
-    "isoDate": "2026-04-13T19:37:17+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/march/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04848_opgs_edr_ncam_NLB_827876004EDR_F1211446NCAM00354M_.jpg?w=1024&h=1024&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Trump Media Company Drops Lawsuit Against The Guardian",
@@ -130,17 +64,6 @@
     "timestamp": 1776104238.0,
     "isoDate": "2026-04-13T18:17:18+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "NASA to Host Artemis II Crew Postflight News Conference",
-    "link": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
-    "summary": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at 2:30 p.m. EDT Thursday, April 16, at NASA’s Johnson Space Center in Houston to discuss their historic mission around the Moon. NASA astronauts Reid Wi…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 18:16:30 +0000",
-    "timestamp": 1776104190.0,
-    "isoDate": "2026-04-13T18:16:30+00:00",
-    "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e022310/jsc2026e022310~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Sid Krofft, Co-Creator Of Mind-Blowing Kids TV Shows, Dies At 96",
@@ -196,17 +119,6 @@
     "timestamp": 1776101600.0,
     "isoDate": "2026-04-13T17:33:20+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Artemis II Astronauts Aboard USS John P. Murtha",
-    "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-aboard-uss-john-p-murtha/",
-    "summary": "The first astronauts to travel to the Moon in more than half a century are back on Earth after a record-setting mission aboard NASA’s Artemis II test flight. NASA astronauts Reid Wiseman (commander), Christina Koch (mission specialist), Vic…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 17:30:49 +0000",
-    "timestamp": 1776101449.0,
-    "isoDate": "2026-04-13T17:30:49+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/55199636042-965f5225c4-o.jpg?w=2048"
   },
   {
     "title": "NAB Show: Bittree To Feature IP, Hybrid Patching Lineup Aimed At Converged Media Networks",
@@ -295,17 +207,6 @@
     "timestamp": 1776090703.0,
     "isoDate": "2026-04-13T14:31:43+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "NASA Night-light Imagery Tracks US Energy Transition, Global Volatility",
-    "link": "https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/",
-    "summary": "New nighttime maps based on NASA satellite imagery are upending assumptions, revealing a world where artificial brightening and dimming have intensified over the past decade. The findings show intense flaring over major oil and gas fields i…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 14:31:16 +0000",
-    "timestamp": 1776090676.0,
-    "isoDate": "2026-04-13T14:31:16+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/naturecover_latlon_original.tif?w=2048"
   },
   {
     "title": "LTN Names Mark Romano & Ed Cox To VP Roles Amid Satellite-To-IP Shift",
@@ -416,17 +317,6 @@
     "timestamp": 1776084710.0,
     "isoDate": "2026-04-13T12:51:50+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Hubble Spies an Active Spiral",
-    "link": "https://science.nasa.gov/missions/hubble/hubble-spies-an-active-spiral/",
-    "summary": "A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this new NASA Hubble Space Telescope image. IC 486 lies right on the edge of the constellation Gemini (the Twins), ar…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Apr 2026 12:24:40 +0000",
-    "timestamp": 1776083080.0,
-    "isoDate": "2026-04-13T12:24:40+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC486.jpg?w=2749&h=1790&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Tech Deal Promotes Conversations Between Journalists And Those Who Follow Their Stories",
