@@ -1,5 +1,71 @@
 [
   {
+    "title": "Introducing Agent Lee - a new interface to the Cloudflare stack",
+    "link": "https://blog.cloudflare.com/introducing-agent-lee/",
+    "summary": "Agent Lee is an in-dashboard agent that shifts Cloudflare’s interface from manual tab-switching to a single prompt. Using sandboxed TypeScript, it helps you troubleshoot and manage your stack as a grounded technical collaborator.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776258000.0,
+    "isoDate": "2026-04-15T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2Iva79HIiHPUrK8NLukkwH/dd1cf1709ab04f6d5825124cecd20a5e/BLOG-3231_2.png"
+  },
+  {
+    "title": "Register domains wherever you build: Cloudflare Registrar API now in beta",
+    "link": "https://blog.cloudflare.com/registrar-api-beta/",
+    "summary": "The Cloudflare Registrar API is now in beta. Developers and AI agents can search, check availability, and register domains at cost directly from their editor, their terminal, or their agent — without leaving their workflow.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776258000.0,
+    "isoDate": "2026-04-15T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Project Think: building the next generation of AI agents on Cloudflare",
+    "link": "https://blog.cloudflare.com/project-think/",
+    "summary": "Announcing a preview of the next edition of the Agents SDK — from lightweight primitives to a batteries-included platform for AI agents that think, act, and persist.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776258000.0,
+    "isoDate": "2026-04-15T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6yokfTVcg8frH4snf7c4sp/2306d721650b4956b28e2198f7cf915d/BLOG-3200_2.png"
+  },
+  {
+    "title": "Browser Run: give your agents a browser",
+    "link": "https://blog.cloudflare.com/browser-run-for-ai-agents/",
+    "summary": "Browser Rendering is now Browser Run, with Live View, Human in the Loop, CDP access, session recordings, and 4x higher concurrency limits for AI agents.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776258000.0,
+    "isoDate": "2026-04-15T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7eExar2kjoc2QSq6skzTf6/ba4ad79fa01eb060f8b14cd5afa342e5/BLOG-3221_2.png"
+  },
+  {
+    "title": "Rearchitecting the Workflows control plane for the agentic era",
+    "link": "https://blog.cloudflare.com/workflows-v2/",
+    "summary": "Cloudflare Workflows, a durable execution engine for multi-step applications, now supports higher concurrency and creation rate limits through a rearchitectured control plane, helping scale to meet the use cases for durable background agent…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776258000.0,
+    "isoDate": "2026-04-15T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/55bqaUjc30HJHe9spWYTo8/d8053955660553db8b64a484fb321ec7/BLOG-3116_2.png"
+  },
+  {
+    "title": "Add voice to your agent",
+    "link": "https://blog.cloudflare.com/voice-agents/",
+    "summary": "An experimental voice pipeline for the Agents SDK enables real-time voice interactions over WebSockets. Developers can now build agents with continuous STT and TTS in just ~30 lines of server-side code.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776258000.0,
+    "isoDate": "2026-04-15T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5IBi8TsQiJ18Um47zpqAIr/d284d47a8653c35bc7c027438a5a7a2c/unnamed__55_.png"
+  },
+  {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
     "link": "https://aws.amazon.com/blogs/media/distribute-ndi-content-from-aws-with-aws-elemental-mediaconnect/",
     "summary": "In this post, learn how to build a demonstration of low-latency live NDI video conversion to a transport stream in the AWS Cloud with MediaConnect.",
@@ -207,72 +273,6 @@
     "timestamp": 1775049090.0,
     "isoDate": "2026-04-01T13:11:30+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
-  },
-  {
-    "title": "Our ongoing commitment to privacy for the 1.1.1.1 public DNS resolver",
-    "link": "https://blog.cloudflare.com/1111-privacy-examination-2026/",
-    "summary": "Eight years ago, we launched 1.1.1.1 to build a faster, more private Internet. Today, we’re sharing the results of our latest independent examination. The result: our privacy protections are working exactly as promised.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 01 Apr 2026 13:00:00 GMT",
-    "timestamp": 1775048400.0,
-    "isoDate": "2026-04-01T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Introducing EmDash — the spiritual successor to WordPress that solves plugin security",
-    "link": "https://blog.cloudflare.com/emdash-wordpress/",
-    "summary": "Today we are launching the beta of EmDash, a full-stack serverless JavaScript CMS built on Astro 6.0. It combines the features of a traditional CMS with modern security, running plugins in sandboxed Worker isolates.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 01 Apr 2026 13:00:00 GMT",
-    "timestamp": 1775048400.0,
-    "isoDate": "2026-04-01T13:00:00+00:00",
-    "imageUrl": "https://deploy.workers.cloudflare.com/button"
-  },
-  {
-    "title": "Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers",
-    "link": "https://blog.cloudflare.com/programmable-flow-protection/",
-    "summary": "Magic Transit customers can now program their own DDoS mitigation logic and deploy it across Cloudflare’s global network. This enables precise, stateful mitigation for custom and proprietary UDP protocols.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 31 Mar 2026 13:00:00 GMT",
-    "timestamp": 1774962000.0,
-    "isoDate": "2026-03-31T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/L8PZ6eWn9nkpATaNcUinB/b6c12b4be815fbd4e71166b6f0c30329/BLOG-3182_2.png"
-  },
-  {
-    "title": "Cloudflare Client-Side Security: smarter detection, now open to everyone",
-    "link": "https://blog.cloudflare.com/client-side-security-open-to-everyone/",
-    "summary": "We are opening our advanced Client-Side Security tools to all users, featuring a new cascading AI detection system. By combining graph neural networks and LLMs, we've reduced false positives by up to 200x while catching sophisticated zero-d…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 30 Mar 2026 06:00:00 GMT",
-    "timestamp": 1774850400.0,
-    "isoDate": "2026-03-30T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/438frLuYPU51j0uhtM5foj/10c53b3b3ccc84b00c754c872ad20492/image3.png"
-  },
-  {
-    "title": "How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams",
-    "link": "https://blog.cloudflare.com/workflow-diagrams/",
-    "summary": "Workflows are now visualized via step diagrams in the dashboard. Here’s how we translate your TypeScript code into a visual representation of the workflow.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 27 Mar 2026 13:00:00 GMT",
-    "timestamp": 1774616400.0,
-    "isoDate": "2026-03-27T13:00:00+00:00",
-    "imageUrl": "https://deploy.workers.cloudflare.com/button"
-  },
-  {
-    "title": "A one-line Kubernetes fix that saved 600 hours a year",
-    "link": "https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/",
-    "summary": "When we investigated why our Atlantis instance took 30 minutes to restart, we discovered a bottleneck in how Kubernetes handles volume permissions. By adjusting the fsGroupChangePolicy, we reduced restart times to 30 seconds.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 26 Mar 2026 13:00:00 GMT",
-    "timestamp": 1774530000.0,
-    "isoDate": "2026-03-26T13:00:00+00:00",
-    "imageUrl": ""
   },
   {
     "title": "How Sony Pictures Networks India Delivered Personalized Ad Insertion at Scale on AWS",

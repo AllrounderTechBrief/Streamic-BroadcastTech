@@ -1,5 +1,16 @@
 [
   {
+    "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
+    "link": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html",
+    "summary": "Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across industries, leadership teams have embraced its broader potential, and boards, investors, and executives are already pushing organizations to adop…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 15 Apr 2026 17:00:00 +0530",
+    "timestamp": 1776252600.0,
+    "isoDate": "2026-04-15T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3s5QStAA0bgcCWhxktRnDbuCjGGiFi6NUz1Z9zVK8-4CkZ8FS82Sc5Qg_9-wKK98yThRDobcnyJcD63TIzW4OUTXzNrXTD6PXHoNMBJpgt02mi7K24qVMxfq_8zsG6kBupb8S0DygwxK2F33miTnFivZKSguCqCv82v3mxOAYWnHrcFHF7Y1iTPgV9i6u/s1600/validation-main.jpg"
+  },
+  {
     "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
     "link": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
     "summary": "Microsoft on Tuesday released updates to address a record 169 security flaws across its product portfolio, including one vulnerability that has been actively exploited in the wild. Of these 169 vulnerabilities, 157 are rated Important, eigh…",
@@ -317,16 +328,5 @@
     "timestamp": 1775733300.0,
     "isoDate": "2026-04-09T11:15:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKu6NdwE0kgawNywNJK7cGCEdRfzOKwsH9AeIT7zJ49RPq_KJAG3SyjH44SS8Zsd-gAUFDFKnfdpaFH8sAZT9wevB2fS0QVk-gCp8xg7j1XcwGJzv05xpoMN4O-oiEd1v3U3kuqW8cTGk0QlHPPS5GgifHq5DBgrE9R_6GxqxYb1erEN_qvAnUG6VFkx0/s1600/adobe.jpg"
-  },
-  {
-    "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
-    "link": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
-    "summary": "An apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to fin…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 09 Apr 2026 16:10:00 +0530",
-    "timestamp": 1775731200.0,
-    "isoDate": "2026-04-09T10:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlfEPPxKdPdQANFPwRrggWpWL4wPe22B_Hdr5FpqDGHKTwN95xiQVwqqN896q_CkYvn-wrbDTXMl6wZ_aMD0YwEyRAI_9lzSZj_cg9-RhoNXMh-j16cA0n4CIT5y29FkOWFrQoV8oCv5OtZhMlhAKwqcgirImTOXoVzsJY76y6l-EWn86dAJfYNBy1ejW4/s1600/phone-hacking.jpg"
   }
 ]
