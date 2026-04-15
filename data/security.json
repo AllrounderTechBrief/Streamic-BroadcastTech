@@ -1,5 +1,27 @@
 [
   {
+    "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
+    "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
+    "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the wild. The vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentic…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 15 Apr 2026 18:26:00 +0530",
+    "timestamp": 1776257760.0,
+    "isoDate": "2026-04-15T12:56:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-efZdYJpyjLdBQDLfJxWi6aiElSTIIzesGLR7SNMM0laIvBdFHioyAfxmOQkhV-bBV5SqCxRRhocp4-Q3EezvtE5Xp2aeNcFrP6d89jhOY2QiCVhhyMCMCVy39cE5YcTvg_7_tvXAEwI4N1g_eRKNzWwYtLH-k80d5he55NN2UK0sNNkbb0l35ix6MOBR/s1600/nui.png"
+  },
+  {
+    "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
+    "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
+    "summary": "A number of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday releases. Topping the list is an SQL injection vulnerability impacting SAP Business Planning a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 15 Apr 2026 18:07:00 +0530",
+    "timestamp": 1776256620.0,
+    "isoDate": "2026-04-15T12:37:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-FBwJYevQ8Ner9ypyp5-H1XIPfa5guhQXC-W4llTZuBI072vjCoxKh9PUexQBZGJIeuZXoBAKboz9xz5Gzd0p1SiT5UME0wd0lTTOS6EIh3nJ6vsAeMzGmT0P38ry2ySiLc-je0e0YAZAPDYmhw3jSfqbExcsQW5nL8syaClAcSfZziU-KPneawQFfo6p/s1600/patches.jpg"
+  },
+  {
     "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
     "link": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html",
     "summary": "Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across industries, leadership teams have embraced its broader potential, and boards, investors, and executives are already pushing organizations to adop…",
@@ -306,27 +328,5 @@
     "timestamp": 1775739420.0,
     "isoDate": "2026-04-09T12:57:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1600/threatsdays-main.jpg"
-  },
-  {
-    "title": "The Hidden Security Risks of Shadow AI in Enterprises",
-    "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
-    "summary": "As AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 09 Apr 2026 17:01:00 +0530",
-    "timestamp": 1775734260.0,
-    "isoDate": "2026-04-09T11:31:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO6OQHlRJgIjpCieiOfi48Mexu0Puimw_dz6w0h1spC2ZjcqifD2YPod5wd1AtUhr-e7CtAAoZ0bnRGnCH-BZRz4pDlB5Db2hJ4vFqsq5jc42UI4VTGXkxD8gNX1Ods9PpQZL4lk84RNL6EDSeI4YFCdjBgKSqKGimsqcsjekAAmr8CGYr3a2wPkchNYA/s1600/keeper.jpg"
-  },
-  {
-    "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
-    "link": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
-    "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December 2025. The finding, detailed by EXPMON's Haifei Li, has been described as a highly…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 09 Apr 2026 16:45:00 +0530",
-    "timestamp": 1775733300.0,
-    "isoDate": "2026-04-09T11:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKu6NdwE0kgawNywNJK7cGCEdRfzOKwsH9AeIT7zJ49RPq_KJAG3SyjH44SS8Zsd-gAUFDFKnfdpaFH8sAZT9wevB2fS0QVk-gCp8xg7j1XcwGJzv05xpoMN4O-oiEd1v3U3kuqW8cTGk0QlHPPS5GgifHq5DBgrE9R_6GxqxYb1erEN_qvAnUG6VFkx0/s1600/adobe.jpg"
   }
 ]
