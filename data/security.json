@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
+    "link": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
+    "summary": "Microsoft on Tuesday released updates to address a record 169 security flaws across its product portfolio, including one vulnerability that has been actively exploited in the wild. Of these 169 vulnerabilities, 157 are rated Important, eigh…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 15 Apr 2026 14:10:00 +0530",
+    "timestamp": 1776242400.0,
+    "isoDate": "2026-04-15T08:40:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKhAYMS4CZDglUzVBKPpIJJJjC7LSHIE8r8HSYTDvQtfuqIlLk-jorWPPNvMPaiuWSriWM2WP-cyKqr_TRwlOG65EY9ZZWuRYsrzcn05wg3mkQd_-j103HEjHaUryyOF7jWj6IuAM6VwCUloPq_9RMt959E-yG8qF4n1acw3OfY73fWw4p90V0ClaY4hjo/s1600/windows-update.jpg"
+  },
+  {
     "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
     "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
     "summary": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier model, Mythos. \"The progres…",
@@ -317,16 +328,5 @@
     "timestamp": 1775731200.0,
     "isoDate": "2026-04-09T10:40:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlfEPPxKdPdQANFPwRrggWpWL4wPe22B_Hdr5FpqDGHKTwN95xiQVwqqN896q_CkYvn-wrbDTXMl6wZ_aMD0YwEyRAI_9lzSZj_cg9-RhoNXMh-j16cA0n4CIT5y29FkOWFrQoV8oCv5OtZhMlhAKwqcgirImTOXoVzsJY76y6l-EWn86dAJfYNBy1ejW4/s1600/phone-hacking.jpg"
-  },
-  {
-    "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
-    "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
-    "summary": "Cybersecurity researchers have flagged a new variant ofmalware called Chaosthat'scapable of hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure. \"Chaos malware is increasingly targeting mis…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Apr 2026 23:21:00 +0530",
-    "timestamp": 1775670660.0,
-    "isoDate": "2026-04-08T17:51:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjO6ntnqBUePhV2XQEQmTFh-IjdPR64u_T9ODhO3RY_BAv_8YohhRCwMg6OO9UKlvJJCd7rs1c391fbNZ59qDsSujaFJuso3h_94xKo2BX2L5Jj-osBqZ3VglM5kbgzt6OJGtkiNx4Am6NbgzrHtUa7fbdnfei8_xeJao4yvlMp3HkCurz9aNJkg9Xv934/s1600/cloud.jpg"
   }
 ]
