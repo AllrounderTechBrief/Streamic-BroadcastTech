@@ -1,5 +1,16 @@
 [
   {
+    "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+    "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
+    "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA) has disclosed details of a new campaign that has targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Apr 2026 11:50:00 +0530",
+    "timestamp": 1776320400.0,
+    "isoDate": "2026-04-16T06:20:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3uHu3ez1qUhePM8e1rCVaEUwBzhu09tblZcAl6jlOEYHN1Zq2-rm-dyEOArGNUm63UjM-_Qs8XwFKUa46UxOwufTn4BmRlfv1xiwlxkk3XboMQu8d4fHpy5Vb5y_0zcpXw5Alg-V_Ud85gINtfz6pfOZWWcco9Dy0jkeRCPCF-ssY2zJjRge1d3PJf_c/s1600/uk.jpg"
+  },
+  {
     "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
     "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
     "summary": "Threat actors have been observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated…",
@@ -317,16 +328,5 @@
     "timestamp": 1775755560.0,
     "isoDate": "2026-04-09T17:26:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigi73Eo-lmEoLh8BcTJmWW5GrmLrm49pUkkl8zyxIg1YTEncbgCaY-wXarkWZuipJhJEubcJx-VEiHOv_NrMtPw1BoEU3Ni8gXNcKcbWX4TqBU8pikOAkRdCl-r_XvLz4oXmQ2IpY25bWzLFkXh_hezhx0jgUYiuRvrYVxhW-6x5J7m84HH_VeRtRzTGbW/s1600/vul-app.jpg"
-  },
-  {
-    "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
-    "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
-    "summary": "A previously undocumented threat cluster dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRoo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 09 Apr 2026 21:53:00 +0530",
-    "timestamp": 1775751780.0,
-    "isoDate": "2026-04-09T16:23:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4smwzOHJUhoy2YQYZQpTIp9u5xk7vywCOtewG6WfLl1S3h1EO25k8GY6WSHovGYwTn4vo9uMFcoNX6XDa0-BC0mXJrTdSHtWGJDP1GIXqGvRnlqnqyPwzxxPFyjLx9yxEn1oeWs4r8fqq5xlS__yUA3nwf0DpZBiUh86FUx71PRBGbAP0gaNFAILqYgbT/s1600/phish.jpg"
   }
 ]
