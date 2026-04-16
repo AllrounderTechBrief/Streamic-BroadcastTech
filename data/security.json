@@ -1,5 +1,16 @@
 [
   {
+    "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
+    "summary": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole \"crime\" part, ancient vulne…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Apr 2026 18:35:00 +0530",
+    "timestamp": 1776344700.0,
+    "isoDate": "2026-04-16T13:05:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzTV_mwPjmV14aBlnHuLOX2yEZR6VGpmadgiPHtNBJV0KVNG_Oj2tnqE1cb3U9RhBXN-Mytte3jKs2n2dQwBhX2dYDETy5es4cGUkbW5bdIaV_hx8i3gWQhdaa7se1_Q8NY9t0q90EjUBNXt56_MxjT4YVV-R8D14jV3LequHu0llA84NnEK3PeU56Q54X/s1600/bull-main.jpg"
+  },
+  {
     "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
     "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
     "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every employee in your org, there are 40 to 50 au…",
@@ -22,17 +33,6 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg"
   },
   {
-    "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-    "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-    "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in atta…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Apr 2026 16:32:00 +0530",
-    "timestamp": 1776337320.0,
-    "isoDate": "2026-04-16T11:02:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoBvtFhZbLfNE2AsVSzuOt5V9YMzAumIA2M9c7QVbp_i-xMwDIgVtDgCIi2bCYgH_PviS8P-Ap1k-8aVmHABqLzNGE9g014MM1gnfJEJPKbKczoCjPoI6PxZ77bNlz2dSlv8XqoVFyZZqQ6SWBue3rpRegb_k62HJkfMl39GHTBIIzZOGrv_iKbxOYV8E/s1600/el.jpg"
-  },
-  {
     "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
     "link": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
     "summary": "A bank approved a Taboola pixel. That pixel quietly redirected logged-in users to a Temu tracking endpoint. This occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation. Rea…",
@@ -42,6 +42,17 @@
     "timestamp": 1776335400.0,
     "isoDate": "2026-04-16T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSzIRGweO7UJkqOLQTUDsqPy53XtIWCzyLklGJLfFxhneZiFpxg8zJRXukUqEsT4TbdFwUZbvTfwuexfGuiYjcDQ-iZDjqwZ2lDlCIhgopZWevBpdi4rr6GxgXpU6MmFnzdMpq_WGdA9PRfaNw_7eDAOugAV1tccfmREgbXveM1N15G2_L9lFxCq1Pv0/s1600/reflectiz.jpg"
+  },
+  {
+    "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+    "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
+    "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in atta…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Apr 2026 15:50:00 +0530",
+    "timestamp": 1776334800.0,
+    "isoDate": "2026-04-16T10:20:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoBvtFhZbLfNE2AsVSzuOt5V9YMzAumIA2M9c7QVbp_i-xMwDIgVtDgCIi2bCYgH_PviS8P-Ap1k-8aVmHABqLzNGE9g014MM1gnfJEJPKbKczoCjPoI6PxZ77bNlz2dSlv8XqoVFyZZqQ6SWBue3rpRegb_k62HJkfMl39GHTBIIzZOGrv_iKbxOYV8E/s1600/el.jpg"
   },
   {
     "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
@@ -317,16 +328,5 @@
     "timestamp": 1775827380.0,
     "isoDate": "2026-04-10T13:23:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioOU2XpKmyRPz5kTr4GhD1YLJ2t7F6yv7bQD1upkiwmGwmzirnDAz92GvtjckyoBhBjaRqeR9XPm6e0yHdKLowfDDgZNkRlCvCneJEncgiviFu7PgD4wQg3Bo5JDhgg6JTytg_fY2M-iKeykCLebOdStW4A76JKnPbEQazihNOhKOdM9Ou8keMBh4IY4jo/s1600/software.jpg"
-  },
-  {
-    "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
-    "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
-    "summary": "While much of the discussion on AI security centers around protecting ‘shadow’ AI and GenAI consumption, there's a wide-open window nobody's guarding: AI browser extensions. A new report from LayerX exposes just how deep this blind spot goe…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 10 Apr 2026 16:30:00 +0530",
-    "timestamp": 1775818800.0,
-    "isoDate": "2026-04-10T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9DUEjhk2fpOJYkJSEMuXQKjwHL1MhXzLniQFjNXvUV_iJEcMwk4MacWDYrrCg096uqXg7pJVZYgagJF58e28tr2lOkZsGqpXbnKfnDVStpGIz2fBGvXayNRfbWWaJ2QueaZoYp72PNJHF6g0W4FPBhbw75r_Dm2cuRr1zCmHFHges6gPQ55gr3hI17TM/s1600/layerx.jpg"
   }
 ]
