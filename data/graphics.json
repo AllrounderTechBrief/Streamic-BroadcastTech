@@ -1,5 +1,27 @@
 [
   {
+    "title": "AudioShake Breaks Real-Time Barrier For AI Dialogue Isolation At 11 Milliseconds",
+    "link": "https://tvnewscheck.com/tech/article/audioshake-breaks-real-time-barrier-for-ai-dialogue-isolation-at-11-milliseconds/",
+    "summary": "AudioShake has developed Dialogue RT, an ultra-low-latency AI dialogue-isolation model delivering end-to-end voice isolation at 11 milliseconds, meeting live broadcast production latency requirements for the first time. The technology enabl…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 16 Apr 2026 17:15:31 +0000",
+    "timestamp": 1776359731.0,
+    "isoDate": "2026-04-16T17:15:31+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "NASA Invites Media to Latvia Artemis Accords Signing Ceremony",
+    "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/",
+    "summary": "The Republic of Latvia will sign the Artemis Accords during a ceremony at 9 a.m. EDT Monday, April 20, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Dace Melbārde, Latvia’s minister for education and scienc…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 16 Apr 2026 16:41:00 +0000",
+    "timestamp": 1776357660.0,
+    "isoDate": "2026-04-16T16:41:00+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp?w=1920"
+  },
+  {
     "title": "Broadcast Industry Launches NextGen TV Converter Box Program To Speed OTA Upgrades",
     "link": "https://tvnewscheck.com/tech/article/broadcast-industry-launches-nextgen-tv-converter-box-program-to-speed-ota-upgrades/",
     "summary": "“This effort brings together broadcasters transmitting in ATSC 3.0 with high-volume consumer electronics companies who see the potential to sell low-cost receivers with a simple purpose,” said Anne Schelle, Pearl TV's managing director. The…",
@@ -374,17 +396,6 @@
     "imageUrl": "https://images-assets.nasa.gov/image/KSC-20260411-PH-FMX001_0003_NCommercial%20Resupply%20Mission%20NG-24%20Launch-/KSC-20260411-PH-FMX001_0003_NCommercial%20Resupply%20Mission%20NG-24%20Launch-~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
-    "title": "CBS Fall 2026 Schedule: Fewer Comedies, FBI Block & ‘Elsbeth’ Shift",
-    "link": "https://tvnewscheck.com/programming/article/cbs-fall-2026-schedule-fewer-comedies-fbi-block-elsbeth-shift/",
-    "summary": "The lineup also includes four franchise blocks, FBI on Tuesdays, NCIS on Wednesdays, Fire Country on Friday and, with an asterisk, a Robert & Michelle King pair on Thursday. The post CBS Fall 2026 Schedule: Fewer Comedies, FBI Block & ‘Elsb…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Wed, 15 Apr 2026 20:18:50 +0000",
-    "timestamp": 1776284330.0,
-    "isoDate": "2026-04-15T20:18:50+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "2026 NSTA Hyperwall Schedule",
     "link": "https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/",
     "summary": "NASA Science at NSTA Hyperwall Schedule, April 16-18, 2026 Join NASA in the Exhibit Hall (Booth #1265) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. THURSDAY, APRIL 16 11:00 AMTeaching Space Weather in the Artemis…",
@@ -427,17 +438,6 @@
     "timestamp": 1776263858.0,
     "isoDate": "2026-04-15T14:37:38+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/jsc2026e022311orig.jpg"
-  },
-  {
-    "title": "Honoring Alex Goetz, a Landsat Legend",
-    "link": "https://science.nasa.gov/missions/landsat/honoring-alex-goetz-a-landsat-legend/",
-    "summary": "Dr. Alex Goetz, who passed away in 2025, was a member of the Landsat 7 Science Team and a key figure in the history of Landsat science.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 15 Apr 2026 14:00:00 +0000",
-    "timestamp": 1776261600.0,
-    "isoDate": "2026-04-15T14:00:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/03/1995-2001-L7-Team.png?w=786&h=400&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "How Ross Video’s production-as-a-service helps sports venues deliver on the biggest stages",
