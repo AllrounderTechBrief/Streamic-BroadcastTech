@@ -1,5 +1,60 @@
 [
   {
+    "title": "Cloudflare’s AI Platform: an inference layer designed for agents",
+    "link": "https://blog.cloudflare.com/ai-platform/",
+    "summary": "We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 16 Apr 2026 14:00:00 GMT",
+    "timestamp": 1776348000.0,
+    "isoDate": "2026-04-16T14:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2ez5tichGEEn5k6SzCgWLm/380a685b14ee9732fdf87c6f88c8f39e/BLOG-3209_2.png"
+  },
+  {
+    "title": "Building the foundation for running extra-large language models",
+    "link": "https://blog.cloudflare.com/high-performance-llms/",
+    "summary": "We built a custom technology stack to run fast large language models on Cloudflare’s infrastructure. This post explores the engineering trade-offs and technical optimizations required to make high-performance AI inference accessible.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 16 Apr 2026 14:00:00 GMT",
+    "timestamp": 1776348000.0,
+    "isoDate": "2026-04-16T14:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5j6AEIF1GMhnHuJD08VQtw/9e65e2badc5fd1e75557230e8f455ccc/BLOG-3266_2.png"
+  },
+  {
+    "title": "AI Search: the search primitive for your agents",
+    "link": "https://blog.cloudflare.com/ai-search-agent-primitive/",
+    "summary": "AI Search is the search primitive for your agents. Create instances dynamically, upload files, and search across instances with hybrid retrieval and relevance boosting. Just create a search instance, upload, and search.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 16 Apr 2026 13:00:22 GMT",
+    "timestamp": 1776344422.0,
+    "isoDate": "2026-04-16T13:00:22+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1b8NdFL2HDBy8FqBHEI679/f17ed98d45fb9b42a616e0b464460489/BLOG-3240_2.png"
+  },
+  {
+    "title": "Deploy Postgres and MySQL databases with PlanetScale + Workers",
+    "link": "https://blog.cloudflare.com/deploy-planetscale-postgres-with-workers/",
+    "summary": "Learn how to deploy PlanetScale Postgres and MySQL databases via Cloudflare and connect Cloudflare Workers.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 16 Apr 2026 13:00:22 GMT",
+    "timestamp": 1776344422.0,
+    "isoDate": "2026-04-16T13:00:22+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5Tj4gJrV5hxlIWxlmoXVZe/7661c1e47c0c868b88301b5f4aca4441/BLOG-3213_2.png"
+  },
+  {
+    "title": "Cloudflare Email Service: now in public beta. Ready for your agents",
+    "link": "https://blog.cloudflare.com/email-for-agents/",
+    "summary": "Agents are becoming multi-channel. That means making them available wherever your users already are — including the inbox. Today, Cloudflare Email Service enters public beta with the infrastructure layer to make that easy: send, receive, an…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 16 Apr 2026 06:00:00 GMT",
+    "timestamp": 1776319200.0,
+    "isoDate": "2026-04-16T06:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4aGV0BVpbrj3ql5TubPMXx/b85351f13c5fae93a27d11e20a5fc11e/BLOG-3210_2.png"
+  },
+  {
     "title": "Project Think: building the next generation of AI agents on Cloudflare",
     "link": "https://blog.cloudflare.com/project-think/",
     "summary": "Announcing a preview of the next edition of the Agents SDK — from lightweight primitives to a batteries-included platform for AI agents that think, act, and persist.",
@@ -187,39 +242,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3UM1NukO0Ho4lQAYk5CoU8/30e1376c4fe61e86204a0de92ae4612b/BLOG-3238_2.png"
   },
   {
-    "title": "500 Tbps of capacity: 16 years of scaling our global network",
-    "link": "https://blog.cloudflare.com/500-tbps-of-capacity/",
-    "summary": "Cloudflare’s global network has officially crossed 500 Tbps of external capacity, enough to route more than 20% of the web and absorb the largest DDoS attacks ever recorded.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 10 Apr 2026 18:00:05 GMT",
-    "timestamp": 1775844005.0,
-    "isoDate": "2026-04-10T18:00:05+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4TRCTdrET5JTpz0BaxSdF4/4623f0953417f0998f6810dd048773ff/BLOG-3267_2.png"
-  },
-  {
-    "title": "From bytecode to bytes: automated magic packet generation",
-    "link": "https://blog.cloudflare.com/from-bpf-to-packet/",
-    "summary": "By applying symbolic execution and the Z3 theorem prover to BPF bytecode, we’ve automated the generation of malware trigger packets, cutting analysis time from hours to seconds.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 08 Apr 2026 13:00:00 GMT",
-    "timestamp": 1775653200.0,
-    "isoDate": "2026-04-08T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Cloudflare targets 2029 for full post-quantum security",
-    "link": "https://blog.cloudflare.com/post-quantum-roadmap/",
-    "summary": "Recent advances in quantum hardware and software have accelerated the timeline on which quantum attack might happen. Cloudflare is responding by moving our target for full post-quantum security to 2029.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 07 Apr 2026 21:00:00 GMT",
-    "timestamp": 1775595600.0,
-    "isoDate": "2026-04-07T21:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/CxLrmxb2dExy2S5FL0ouy/e1ee5616ce31d15ed8e0fd7b40ae2a39/image2.jpg"
-  },
-  {
     "title": "How NFL Next Gen Stats Built the NFL IQ AI Assistant with Amazon Quick",
     "link": "https://aws.amazon.com/blogs/media/how-nfl-next-gen-stats-built-the-nfl-iq-ai-assistant-with-amazon-quick/",
     "summary": "NFL IQ’s conversational approach to football data replaces tool navigation with natural conversation across stats, models, and team insights so fans get instant answers. Every NFL offseason runs on data. Player tracking from NFL Next Gen St…",
@@ -240,28 +262,6 @@
     "timestamp": 1775510199.0,
     "isoDate": "2026-04-06T21:16:39+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/06/header-blog.png"
-  },
-  {
-    "title": "How we built Organizations to help enterprises manage Cloudflare at scale",
-    "link": "https://blog.cloudflare.com/organizations-beta/",
-    "summary": "Cloudflare Organizations is now in public beta, introducing a new management layer for enterprise customers with multiple accounts. Learn how we consolidated our authorization systems to enable org-wide management.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 06 Apr 2026 21:00:00 GMT",
-    "timestamp": 1775509200.0,
-    "isoDate": "2026-04-06T21:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4LThxKEAFT6H3Tb8YypZUj/53baf77029a6da59b9cc2fd13be04f5d/BLOG-3245image2.png"
-  },
-  {
-    "title": "Why we're rethinking cache for the AI era",
-    "link": "https://blog.cloudflare.com/rethinking-cache-ai-humans/",
-    "summary": "The explosion of AI-bot traffic, representing over 10 billion requests per week, has opened up new challenges and opportunities for cache design. We look at some of the ways AI bot traffic differs from humans, how this impacts CDN cache, an…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 02 Apr 2026 13:00:00 GMT",
-    "timestamp": 1775134800.0,
-    "isoDate": "2026-04-02T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3WQUiQ36rvMb8rNKruwdLd/1e9003057720b68829c6df3337a840ec/image2.png"
   },
   {
     "title": "Live streaming localization and accessibility using AWS Media Services",
