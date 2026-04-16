@@ -1,5 +1,16 @@
 [
   {
+    "title": "Project Think: building the next generation of AI agents on Cloudflare",
+    "link": "https://blog.cloudflare.com/project-think/",
+    "summary": "Announcing a preview of the next edition of the Agents SDK — from lightweight primitives to a batteries-included platform for AI agents that think, act, and persist.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 15 Apr 2026 13:01:00 GMT",
+    "timestamp": 1776258060.0,
+    "isoDate": "2026-04-15T13:01:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6yokfTVcg8frH4snf7c4sp/2306d721650b4956b28e2198f7cf915d/BLOG-3200_2.png"
+  },
+  {
     "title": "Introducing Agent Lee - a new interface to the Cloudflare stack",
     "link": "https://blog.cloudflare.com/introducing-agent-lee/",
     "summary": "Agent Lee is an in-dashboard agent that shifts Cloudflare’s interface from manual tab-switching to a single prompt. Using sandboxed TypeScript, it helps you troubleshoot and manage your stack as a grounded technical collaborator.",
@@ -20,17 +31,6 @@
     "timestamp": 1776258000.0,
     "isoDate": "2026-04-15T13:00:00+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Project Think: building the next generation of AI agents on Cloudflare",
-    "link": "https://blog.cloudflare.com/project-think/",
-    "summary": "Announcing a preview of the next edition of the Agents SDK — from lightweight primitives to a batteries-included platform for AI agents that think, act, and persist.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776258000.0,
-    "isoDate": "2026-04-15T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6yokfTVcg8frH4snf7c4sp/2306d721650b4956b28e2198f7cf915d/BLOG-3200_2.png"
   },
   {
     "title": "Browser Run: give your agents a browser",
