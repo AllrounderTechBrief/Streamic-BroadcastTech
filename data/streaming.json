@@ -22,6 +22,17 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5j6AEIF1GMhnHuJD08VQtw/9e65e2badc5fd1e75557230e8f455ccc/BLOG-3266_2.png"
   },
   {
+    "title": "Artifacts: versioned storage that speaks Git",
+    "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+    "summary": "Give your agents, developers, and automations a home for code and data. We’ve just launched Artifacts: Git-compatible versioned storage built for agents. Create tens of millions of repos, fork from any remote, and hand off a URL to any Git …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 16 Apr 2026 13:01:00 GMT",
+    "timestamp": 1776344460.0,
+    "isoDate": "2026-04-16T13:01:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/35SxJbQfntIscpotc0GBt8/48ae11213d7483c9b488321baacf78e7/BLOG-3269_2.png"
+  },
+  {
     "title": "AI Search: the search primitive for your agents",
     "link": "https://blog.cloudflare.com/ai-search-agent-primitive/",
     "summary": "AI Search is the search primitive for your agents. Create instances dynamically, upload files, and search across instances with hybrid retrieval and relevance boosting. Just create a search instance, upload, and search.",
@@ -42,17 +53,6 @@
     "timestamp": 1776344422.0,
     "isoDate": "2026-04-16T13:00:22+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5Tj4gJrV5hxlIWxlmoXVZe/7661c1e47c0c868b88301b5f4aca4441/BLOG-3213_2.png"
-  },
-  {
-    "title": "Artifacts: versioned storage that speaks Git",
-    "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-    "summary": "Give your agents, developers, and automations a home for code and data. We’ve just launched Artifacts: Git-compatible versioned storage built for agents. Create tens of millions of repos, fork from any remote, and hand off a URL to any Git …",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 16 Apr 2026 13:00:22 GMT",
-    "timestamp": 1776344422.0,
-    "isoDate": "2026-04-16T13:00:22+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/35SxJbQfntIscpotc0GBt8/48ae11213d7483c9b488321baacf78e7/BLOG-3269_2.png"
   },
   {
     "title": "Cloudflare Email Service: now in public beta. Ready for your agents",
