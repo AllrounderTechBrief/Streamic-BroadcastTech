@@ -68,7 +68,7 @@
   {
     "title": "Agents Week: network performance update",
     "link": "https://blog.cloudflare.com/network-performance-agents-week/",
-    "summary": "By migrating our request handling layer to a Rust-based architecture called FL2, Cloudflare has increased its performance lead to 60% of the world’s top networks. We use real-user measurements and TCP connection trimeans to ensure our data …",
+    "summary": "By migrating our request handling layer to a Rust-based architecture called FL2, Cloudflare has increased its performance lead to 60% of the world’s top networks. We use real-user measurements and connection trimeans to ensure our data refl…",
     "source": "The Cloudflare Blog",
     "category": "streaming",
     "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
