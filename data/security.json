@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+    "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+    "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA). To that end, the agency has added the vulnerab…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 17 Apr 2026 08:52:00 +0530",
+    "timestamp": 1776396120.0,
+    "isoDate": "2026-04-17T03:22:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKAY7CueGuHevAtV544WN7RTKISrobQLFpjfi4kjdzP1I2BA3rnll69dv1kfvHYSCcU5tQISA0OOgcQVibKrl4o0AvtUyM9crfZuSb1XFH03iLtPglZeHn1e6S8urWxf_4CEH9-tCZdT9BBrvXOFygCxjO_AUmUXnzm4d37Q80fPw3lEn6Hb0_LWlP9XM5/s1600/apachemq.jpg"
+  },
+  {
     "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
     "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
     "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December 2025. \"PowMix employs randomized command-…",
@@ -317,16 +328,5 @@
     "timestamp": 1775967900.0,
     "isoDate": "2026-04-12T04:25:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1374h3OcQ3MPg1BngGcQC6U8eVWUh3Ye84l6WpQKxC1a8_x1Mpp0K8-0DDfJU0YtVqWoUZcNE-bJ_bsfraWWWfafJoP8pF7jDlcb8L4LqNDYWtbhoaDcSbpcmEwNjDi0hzkie5VVRmqntS8uZe4hrAd4IDcc0CO95Bsj8y1rP7LhfPsCkvQIkOtx-B7D/s1600/adobe-adobe.jpg"
-  },
-  {
-    "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
-    "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
-    "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called Webloc. The t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 11 Apr 2026 11:32:00 +0530",
-    "timestamp": 1775887320.0,
-    "isoDate": "2026-04-11T06:02:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJjyKn2cWWKQvAjaegOP6UqdtgG4Cr6nQdwobWhvYvaSKO-VGcFFSSAvT6ngpo8T9n0BitFhLNKPv669Qp3I_2ZajEs3DbveUT5qhc4zVWHRbjJH4fv0_84_FNhPFnN7EPFa9szLDP6B5G-1owBpAGGFILLSX4q8ZobwLXjI9CPn0DfExp6y0_33OdtmkV/s1600/location-data.jpg"
   }
 ]
