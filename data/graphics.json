@@ -1,5 +1,38 @@
 [
   {
+    "title": "NAB Show: Vislink To Demo RF, Private 5G, Modular Live Workflows",
+    "link": "https://tvnewscheck.com/tech/article/nab-show-vislink-to-demo-rf-private-5g-modular-live-workflows/",
+    "summary": "Vislink Technologies, a provider of real-time wireless video solutions for live broadcast production, will showcase integrated RF, private 5G and modular live production workflows at the NAB Show in Las … The post NAB Show: Vislink To Demo …",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 15:09:14 +0000",
+    "timestamp": 1776438554.0,
+    "isoDate": "2026-04-17T15:09:14+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Volunteers Discover Rare Space Weather Events Using Their Ears",
+    "link": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
+    "summary": "Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic f…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 15:04:32 +0000",
+    "timestamp": 1776438272.0,
+    "isoDate": "2026-04-17T15:04:32+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/HARP_graphic.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Norigin Media Debuts React Native Library For Smart TV Remote Navigation",
+    "link": "https://tvnewscheck.com/tech/article/norigin-media-debuts-react-native-library-for-smart-tv-remote-navigation/",
+    "summary": "Norigin Media, a provider of CTV and Multi-Screen App solutions, has released a React Native library that enables remote-control directional navigation for smart TV apps on Apple TV and Android … The post Norigin Media Debuts React Native L…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 15:02:30 +0000",
+    "timestamp": 1776438150.0,
+    "isoDate": "2026-04-17T15:02:30+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "vCreative Extends Cloud Audio Delivery To RCS’s ZettaCloud, WideOrbit’s WO Aurora’",
     "link": "https://tvnewscheck.com/business/article/vcreative-extends-cloud-audio-delivery-to-rcss-zettacloud-wideorbits-wo-aurora/",
     "summary": "vCreative expanded its Cloud AutoDub integrations to work with WideOrbit’s WO Aurora and, coming soon, RCS’s ZettaCloud, connecting production to playout without local server infrastructure and removing most manual audio … The post vCreativ…",
@@ -341,28 +374,6 @@
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/spring-rains-saturate-michigan/michiganflooding764_oli_20250416.jpg"
   },
   {
-    "title": "NPR Receives $113 Million From 2 Gifts",
-    "link": "https://tvnewscheck.com/journalism/article/npr-receives-113-million-from-2-gifts/",
-    "summary": "The donations, from the philanthropist Connie Ballmer and an anonymous donor, will support the network’s long-term strategy. The post NPR Receives $113 Million From 2 Gifts appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 16 Apr 2026 23:06:34 +0000",
-    "timestamp": 1776380794.0,
-    "isoDate": "2026-04-16T23:06:34+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Netflix Q1 Revenue & Earnings Beat Street Expectations, But Shares Still Plunge",
-    "link": "https://tvnewscheck.com/business/article/netflix-q1-revenue-earnings-beat-street-expectations-but-shares-still-plunge/",
-    "summary": "Revenue rose 16% from the year-ago period to hit $12.25 billion, while diluted earnings per share came in at $1.23, nearly double a year ago. Despite the beat, Netflix shares – which have risen 15% in 2026 to date – fell as much as 10% in a…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 16 Apr 2026 21:24:35 +0000",
-    "timestamp": 1776374675.0,
-    "isoDate": "2026-04-16T21:24:35+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "XPression 12.6: Stronger MOS control and seamless live updates",
     "link": "https://www.rossvideo.com/blog/xpression-12-6-stronger-mos-control-and-seamless-live-updates/",
     "summary": "Discover what’s new in XPression 12.5 — from direct Cinema4D import and enhanced data-driven LED workflows to smarter newsroom integration and improved performance. Elevate your live production storytelling with workflows built for speed, f…",
@@ -449,17 +460,6 @@
     "timestamp": 1776268784.0,
     "isoDate": "2026-04-15T15:59:44+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "NASA’s SPHEREx Mission Maps Water Ice Throughout Cygnus X",
-    "link": "https://science.nasa.gov/photojournal/nasas-spherex-mission-maps-water-ice-throughout-cygnus-x/",
-    "summary": "An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (ora…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 15 Apr 2026 15:04:38 +0000",
-    "timestamp": 1776265478.0,
-    "isoDate": "2026-04-15T15:04:38+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26748/PIA26748.jpg?w=2999&h=2999&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "How Ross Video’s production-as-a-service helps sports venues deliver on the biggest stages",
