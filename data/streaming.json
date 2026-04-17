@@ -1,5 +1,82 @@
 [
   {
+    "title": "Introducing the Agent Readiness score. Is your site agent-ready?",
+    "link": "https://blog.cloudflare.com/agent-readiness/",
+    "summary": "The Agent Readiness score can help site owners understand how well their websites support AI agents. Here we explore new standards, share Radar data, and detail how we made Cloudflare’s docs the most agent-friendly on the web.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 17 Apr 2026 13:05:00 GMT",
+    "timestamp": 1776431100.0,
+    "isoDate": "2026-04-17T13:05:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/sGg5lZjafjQ398V7hYyMv/93e112a34754e2065ffbf6445ebc4500/unnamed.png"
+  },
+  {
+    "title": "Shared Dictionaries: compression that keeps up with the agentic web",
+    "link": "https://blog.cloudflare.com/shared-dictionaries/",
+    "summary": "Today, we’re excited to give you a sneak peek of our support for shared compression dictionaries, show you how it improves page load times, and reveal when you’ll be able to try the beta yourself.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 17 Apr 2026 13:02:00 GMT",
+    "timestamp": 1776430920.0,
+    "isoDate": "2026-04-17T13:02:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2g2NBi1d4eqLAgksGetult/ea05b48519edfa8cccde6d6531700ce1/image5.png"
+  },
+  {
+    "title": "Redirects for AI Training enforces canonical content",
+    "link": "https://blog.cloudflare.com/ai-redirects/",
+    "summary": "Soft directives don’t stop crawlers from ingesting deprecated content. Redirects for AI Training allows anybody on Cloudflare to redirect verified crawlers to canonical pages with one toggle and no origin changes.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776430800.0,
+    "isoDate": "2026-04-17T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4zPrHtLf1BbHxQXQHTK1Qs/21a75531129332d749210d67b2c330ad/BLOG-3263_2.png"
+  },
+  {
+    "title": "Unweight: how we compressed an LLM 22% without sacrificing quality",
+    "link": "https://blog.cloudflare.com/unweight-tensor-compression/",
+    "summary": "Running LLMs across Cloudflare’s network requires us to be smarter and more efficient about GPU memory bandwidth. That’s why we developed Unweight, a lossless inference-time compression system that achieves up to a 22% model footprint reduc…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776430800.0,
+    "isoDate": "2026-04-17T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4aOVSF1i241gGUwrPrhLfC/21a4f5984b89e56b1ec637f8dbe3c794/1.png"
+  },
+  {
+    "title": "Agents that remember: introducing Agent Memory",
+    "link": "https://blog.cloudflare.com/introducing-agent-memory/",
+    "summary": "Cloudflare Agent Memory is a managed service that gives AI agents persistent memory, allowing them to recall what matters, forget what doesn't, and get smarter over time.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776430800.0,
+    "isoDate": "2026-04-17T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1Cjj8uXbZRCrQVAxirTo7y/d62b5b798990540e78825747ff24afec/image3.png"
+  },
+  {
+    "title": "Agents Week: network performance update",
+    "link": "https://blog.cloudflare.com/network-performance-agents-week/",
+    "summary": "By migrating our request handling layer to a Rust-based architecture called FL2, Cloudflare has increased its performance lead to 60% of the world’s top networks. We use real-user measurements and TCP connection trimeans to ensure our data …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776430800.0,
+    "isoDate": "2026-04-17T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3i0DbxnemIuOa0tSlgeHul/762f6315b90436796a458d98270eccc5/BLOG-3236_2.png"
+  },
+  {
+    "title": "Introducing Flagship: feature flags built for the age of AI",
+    "link": "https://blog.cloudflare.com/flagship/",
+    "summary": "We are launching Flagship, a native feature flag service built on Cloudflare’s global network to eliminate the latency of third-party providers. By using KV and Durable Objects, Flagship allows for sub-millisecond flag evaluation.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776430800.0,
+    "isoDate": "2026-04-17T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1nKDxB6OkUr1fpVKGWEugC/8fc4dbf0bd1ec45e30010a223982487e/image2.png"
+  },
+  {
     "title": "Cloudflare’s AI Platform: an inference layer designed for agents",
     "link": "https://blog.cloudflare.com/ai-platform/",
     "summary": "We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.",
@@ -152,83 +229,6 @@
     "timestamp": 1776171610.0,
     "isoDate": "2026-04-14T13:00:10+00:00",
     "imageUrl": "https://images.ctfassets.net/zkvhlag99gkb/2p3RZFDklLn9cfQOVYq5vS/d40e6116c115c453095f8ed2d110f062/image3.png"
-  },
-  {
-    "title": "Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP",
-    "link": "https://blog.cloudflare.com/enterprise-mcp/",
-    "summary": "We share Cloudflare's internal strategy for governing MCP using Access, AI Gateway, and MCP server portals. We also launch Code Mode to slash token costs and recommend new rules for detecting Shadow MCP in Cloudflare Gateway.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 14 Apr 2026 13:00:10 GMT",
-    "timestamp": 1776171610.0,
-    "isoDate": "2026-04-14T13:00:10+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/73kpNxOQIlM0UOnty9qGXS/53fe1b92e299b52363ac1870df52f2e9/BLOG-3252_2.png"
-  },
-  {
-    "title": "Managed OAuth for Access: make internal apps agent-ready in one click",
-    "link": "https://blog.cloudflare.com/managed-oauth-for-access/",
-    "summary": "Managed OAuth for Cloudflare Access helps AI agents securely navigate internal applications. By adopting RFC 9728, agents can authenticate on behalf of users without using insecure service accounts.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 14 Apr 2026 13:00:10 GMT",
-    "timestamp": 1776171610.0,
-    "isoDate": "2026-04-14T13:00:10+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3867rU5n4IkRilnfCAvOLD/8ec5ea3c25dbd6620a8644d231893732/BLOG-3146_2.png"
-  },
-  {
-    "title": "Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh",
-    "link": "https://blog.cloudflare.com/mesh/",
-    "summary": "Cloudflare Mesh provides secure, private network access for users, nodes, and autonomous AI agents. By integrating with Workers VPC, developers can now grant agents scoped access to private databases and APIs without manual tunnels.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 14 Apr 2026 13:00:09 GMT",
-    "timestamp": 1776171609.0,
-    "isoDate": "2026-04-14T13:00:09+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/12RTZcOBkkKwmaRe5VYn9k/e1b00401bee274a7643a4dfd4139e2df/BLOG-3215_2.png"
-  },
-  {
-    "title": "Building a CLI for all of Cloudflare",
-    "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-    "summary": "We’re introducing cf, a new unified CLI designed for consistency across the Cloudflare platform, alongside Local Explorer for debugging local data. These tools simplify how developers and AI agents interact with our nearly 3,000 API operati…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 13 Apr 2026 14:29:45 GMT",
-    "timestamp": 1776090585.0,
-    "isoDate": "2026-04-13T14:29:45+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2wjmgUzBkjeI0RtyXKIMXm/f7fc6ce3b7323aacb3babdfb461f383f/BLOG-3224_2.png"
-  },
-  {
-    "title": "Durable Objects in Dynamic Workers: Give each AI-generated app its own database",
-    "link": "https://blog.cloudflare.com/durable-object-facets-dynamic-workers/",
-    "summary": "We’re introducing Durable Object Facets, allowing Dynamic Workers to instantiate Durable Objects with their own isolated SQLite databases. This enables developers to build platforms that run persistent, stateful code generated on-the-fly.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 13 Apr 2026 13:08:35 GMT",
-    "timestamp": 1776085715.0,
-    "isoDate": "2026-04-13T13:08:35+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/mUUk7svflWvIp5Ff3npbG/cd2ec9a7111681657c37e3560fd9af58/BLOG-3211_2.png"
-  },
-  {
-    "title": "Agents have their own computers with Sandboxes GA",
-    "link": "https://blog.cloudflare.com/sandbox-ga/",
-    "summary": "Cloudflare Sandboxes give AI agents a persistent, isolated environment: a real computer with a shell, a filesystem, and background processes that starts on demand and picks up exactly where it left off.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 13 Apr 2026 13:08:35 GMT",
-    "timestamp": 1776085715.0,
-    "isoDate": "2026-04-13T13:08:35+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3bgyxh8kg3MPfij2v1XXLE/9cff50318ad306b20c3346c3bd3554d9/BLOG-3264_2.gif"
-  },
-  {
-    "title": "Dynamic, identity-aware, and secure Sandbox auth",
-    "link": "https://blog.cloudflare.com/sandbox-auth/",
-    "summary": "Outbound Workers for Sandboxes provide a programmable, zero-trust egress proxy for AI agents. This allows developers to inject credentials and enforce dynamic security policies without exposing sensitive tokens to untrusted code.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 13 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776085200.0,
-    "isoDate": "2026-04-13T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/RSbCJMOoqz8xLWMnPyijV/520addf1676d195be6258b427881cdde/BLOG-3199_2.png"
   },
   {
     "title": "Unlocking next generation audio production with MPEG-H on AWS",
