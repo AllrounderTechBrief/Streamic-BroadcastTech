@@ -1,5 +1,16 @@
 [
   {
+    "title": "MXL is the foundation. Here’s what it takes to build the house",
+    "link": "https://aws.amazon.com/blogs/media/mxl-is-the-foundation-heres-what-it-takes-to-build-the-house/",
+    "summary": "The Hard Part Isn’t the Technology Picture a college basketball game. Two teams, a few thousand fans in the arena, and a regional sports network that has promised its subscribers a live broadcast. The production team has done this before — …",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 17 Apr 2026 14:45:42 +0000",
+    "timestamp": 1776437142.0,
+    "isoDate": "2026-04-17T14:45:42+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Introducing the Agent Readiness score. Is your site agent-ready?",
     "link": "https://blog.cloudflare.com/agent-readiness/",
     "summary": "The Agent Readiness score can help site owners understand how well their websites support AI agents. Here we explore new standards, share Radar data, and detail how we made Cloudflare’s docs the most agent-friendly on the web.",
@@ -427,16 +438,5 @@
     "timestamp": 1769192278.0,
     "isoDate": "2026-01-23T18:17:58+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/22/1762310948716.jpeg"
-  },
-  {
-    "title": "How the NBA and AWS built an AI system to measure what actually wins basketball games",
-    "link": "https://aws.amazon.com/blogs/media/how-the-nba-and-aws-built-an-ai-system-to-measure-what-actually-wins-basketball-games/",
-    "summary": "Traditional basketball statistics capture what happened—points, rebounds, assists—but miss the context that determines game outcomes. A missed shot that draws three defenders and creates an open corner three-pointer generates zero points fo…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 22 Jan 2026 16:03:08 +0000",
-    "timestamp": 1769097788.0,
-    "isoDate": "2026-01-22T16:03:08+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/21/Group-1739331902.png"
   }
 ]

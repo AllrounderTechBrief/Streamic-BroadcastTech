@@ -1,5 +1,38 @@
 [
   {
+    "title": "Wowza Launches Video Intelligence Framework to Turn Live Video Into Actionable Signals for Media and Sports",
+    "link": "https://www.broadcastbeat.com/wowza-launches-video-intelligence-framework-to-turn-live-video-into-actionable-signals-for-media-and-sports/",
+    "summary": "New framework helps broadcasters, streaming platforms, and sports organizations apply AI to live video for monetization, metadata, highlights, and downstream workflows Wowza today announced the general availability of Wowza Video Intelligen…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 17 Apr 2026 14:46:21 +0000",
+    "timestamp": 1776437181.0,
+    "isoDate": "2026-04-17T14:46:21+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "MXL is the foundation. Here’s what it takes to build the house",
+    "link": "https://aws.amazon.com/blogs/media/mxl-is-the-foundation-heres-what-it-takes-to-build-the-house/",
+    "summary": "The Hard Part Isn’t the Technology Picture a college basketball game. Two teams, a few thousand fans in the arena, and a regional sports network that has promised its subscribers a live broadcast. The production team has done this before — …",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 17 Apr 2026 14:45:42 +0000",
+    "timestamp": 1776437142.0,
+    "isoDate": "2026-04-17T14:45:42+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Appear appoints Mike Burk as Vice President, Business Development in North America to accelerate regional expansion and customer engagement",
+    "link": "https://www.broadcastbeat.com/appear-appoints-mike-burk-as-vice-president-business-development-in-north-america-to-accelerate-regional-expansion-and-customer-engagement/",
+    "summary": "Strengthening Appear’s North America team with a new Vice President of Business Development Appear ASA (Appear, OSE: APR), a global leader in live production technology, today announced the appointment of Mike Burk in a newly created role a…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 17 Apr 2026 14:32:49 +0000",
+    "timestamp": 1776436369.0,
+    "isoDate": "2026-04-17T14:32:49+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Fincons Group Achieves AWS Media & Entertainment Competency Status",
     "link": "https://www.broadcastbeat.com/fincons-group-achieves-aws-media-entertainment-competency-status/",
     "summary": "Milan, April 17th 2026 – Fincons Group, a multinational IT business consulting and system integrator firm, announced today that it has achieved Amazon Web Services (AWS) Media & Entertainment Competency status. This designation recognizes t…",
@@ -30,6 +63,17 @@
     "timeAgo": "Fri, 17 Apr 2026 01:14:37 +0000",
     "timestamp": 1776388477.0,
     "isoDate": "2026-04-17T01:14:37+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "RED Demonstrates Cine-Broadcast Module in Live Sports Environment at NAB",
+    "link": "https://www.broadcastbeat.com/red-demonstrates-cine-broadcast-module-in-live-sports-environment-at-nab/",
+    "summary": "RED DIGITAL CINEMA® will showcase its latest broadcast-focused innovations at the 2026 NAB Show in Las Vegas, running April 18–22. At RED’s booth (#C5325), attendees will see demonstrations highlighting new workflows for live production, mu…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 16 Apr 2026 19:01:08 +0000",
+    "timestamp": 1776366068.0,
+    "isoDate": "2026-04-16T19:01:08+00:00",
     "imageUrl": ""
   },
   {
@@ -129,39 +173,6 @@
     "timeAgo": "Thu, 16 Apr 2026 09:04:50 +0000",
     "timestamp": 1776330290.0,
     "isoDate": "2026-04-16T09:04:50+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "VisualOn and Cires21 Release Joint Research at NAB 2026 Showing Up to 19-Point VMAF Gains in Video Transcoding Pipelines",
-    "link": "https://www.broadcastbeat.com/visualon-and-cires21-release-joint-research-at-nab-2026-showing-up-to-19-point-vmaf-gains-in-video-transcoding-pipelines/",
-    "summary": "New whitepaper gives broadcasters and OTT operators independent, codec-by-codec evidence that the VisualOn Optimizer transforms viewer quality of experience. LAS VEGAS, April, 2026 (NAB Show) — VisualOn, Inc. and Cires21 today released a jo…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 15 Apr 2026 19:50:58 +0000",
-    "timestamp": 1776282658.0,
-    "isoDate": "2026-04-15T19:50:58+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Miris and Cavrnus bringing high-fidelity 3D streaming into Cavrnus collaboration environments",
-    "link": "https://www.broadcastbeat.com/miris-and-cavrnus-bringing-high-fidelity-3d-streaming-into-cavrnus-collaboration-environments/",
-    "summary": "Miris is integrating its 3D spatial streaming layer with Cavrnus, a platform designed to turn 3D applications and digital twin environments into persistent, multi-user collaborative spaces. The integration brings high-fidelity streaming int…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 15 Apr 2026 18:58:15 +0000",
-    "timestamp": 1776279495.0,
-    "isoDate": "2026-04-15T18:58:15+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Evergent introduces Agentic Revenue Orchestration Platform to transform subscriptions from transactions to intelligence",
-    "link": "https://www.broadcastbeat.com/evergent-introduces-agentic-revenue-orchestration-platform-to-transform-subscriptions-from-transactions-to-intelligence/",
-    "summary": "Evergent introduces its Agentic Revenue Orchestration Platform, transforming how subscription businesses across direct-to-consumer streaming, pay-TV, telecommunications and gaming manage the entire subscriber lifecycle. The platform provide…",
-    "source": "Broadcast Beat – Production Industry Resource",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 15 Apr 2026 16:30:36 +0000",
-    "timestamp": 1776270636.0,
-    "isoDate": "2026-04-15T16:30:36+00:00",
     "imageUrl": ""
   },
   {
@@ -372,16 +383,5 @@
     "timestamp": 1769192278.0,
     "isoDate": "2026-01-23T18:17:58+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/22/1762310948716.jpeg"
-  },
-  {
-    "title": "How the NBA and AWS built an AI system to measure what actually wins basketball games",
-    "link": "https://aws.amazon.com/blogs/media/how-the-nba-and-aws-built-an-ai-system-to-measure-what-actually-wins-basketball-games/",
-    "summary": "Traditional basketball statistics capture what happened—points, rebounds, assists—but miss the context that determines game outcomes. A missed shot that draws three defenders and creates an open corner three-pointer generates zero points fo…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 22 Jan 2026 16:03:08 +0000",
-    "timestamp": 1769097788.0,
-    "isoDate": "2026-01-22T16:03:08+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/21/Group-1739331902.png"
   }
 ]
