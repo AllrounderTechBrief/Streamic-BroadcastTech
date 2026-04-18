@@ -1,5 +1,16 @@
 [
   {
+    "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+    "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+    "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42. T…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 18 Apr 2026 11:31:00 +0530",
+    "timestamp": 1776492060.0,
+    "isoDate": "2026-04-18T06:01:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6cxZZMfiWctk3Me9QO6UlzVRFab0SPGMTzThjpcPHCXm49bQ0rRvtG2W6gicJw4Mi1QUuv-yTDMK5GKJju3QicyjYJwdbA86Ok8w2oU5Vg28l4s0HAVv7_c03dStaM7OPd4Yq0khmm9MeQVUYnCYThMx4JvkCnZZ5PEtCXAA90vKfsAumsMAIw085JIsz/s1600/botnet-ddos.jpg"
+  },
+  {
     "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
     "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
     "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves the exploitation of three vulnerabilities that are…",
@@ -317,16 +328,5 @@
     "timestamp": 1776080460.0,
     "isoDate": "2026-04-13T11:41:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6yIgStY_TVvAIztG3gjTOWA2HNY1juzcSFQVACCzI1G1EU97z9wTsAO9HJECkmv0RcAYSxu4xSALf9jELTrtC9ruDKbMS5DPq2U2TYXLtvxZ1F4sRaQ2KIe-FfGpB8kZEhs1LEuOvaEnvGO-50RM227cjDVRFdBaXeC8r5WPOQHG3n2SB8ui3USopqHM/s1600/pro.jpg"
-  },
-  {
-    "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
-    "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
-    "summary": "The North Korean hacking group tracked as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media plat…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Apr 2026 14:45:00 +0530",
-    "timestamp": 1776071700.0,
-    "isoDate": "2026-04-13T09:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm-HTAVB66ntSv8R4Bgh9szlrPPh6ah0eJGTDheDntj2w9bW9XzWcgs2CAGsN_C8DS7T4M7V8q18_DtgMZu3mJONEewq_oWlpefdtwp6BgudRjw2Z68jXoP8tHCdxSyvZ-xvVuPlh-xpxEeIRHk1v2mq5KqZxS1z316ncG5j2Q9HQe_bJhIJE4XWONvyYL/s1600/telegram.jpg"
   }
 ]
