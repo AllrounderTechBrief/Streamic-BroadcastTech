@@ -1,5 +1,27 @@
 [
   {
+    "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
+    "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+    "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every employee in your org, there are 40 to 50 au…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 18 Apr 2026 13:37:00 +0530",
+    "timestamp": 1776499620.0,
+    "isoDate": "2026-04-18T08:07:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6vJpO9kksCQDpSksNkqDFNUCbXD70dMGYqI6P9S_XPMY5d8BR8PVdrsVQP1ZJO_-nzL6eQShM3Cap9heQ5kAglsPjfxwIcXPSsf_cfgUVnGQ2XzIWVOuo7JhxMjnHYDN6r9KlQ6LqZJisRZkjatnWChuzUkSlXRa1hFseUPq28PZ5gjGR7L2WzTFdZ3fM/s1600/ghost.jpg"
+  },
+  {
+    "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
+    "link": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
+    "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack. The exchange said it fell vict…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 18 Apr 2026 13:29:00 +0530",
+    "timestamp": 1776499140.0,
+    "isoDate": "2026-04-18T07:59:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPcUvJCFRqDmEr1ZDSaUJCAymmKwZOeXdmfPY6Eekp7tLOpqjXLKHilHOHlNyuxmennQE8H5oxuRTaCncC8hsoGYEloD8OrDlR1wpbxGivBBB7KdVX8kiv_pOzC6GQ7LNPKoJGkFklpW0XutuLRPjl3I5cPta1n-BqVyAdO1luW3EUR8jyiZEtVjVTGWUK/s1600/grinex.jpg"
+  },
+  {
     "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
     "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
     "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42. T…",
@@ -86,17 +108,6 @@
     "timestamp": 1776344700.0,
     "isoDate": "2026-04-16T13:05:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzTV_mwPjmV14aBlnHuLOX2yEZR6VGpmadgiPHtNBJV0KVNG_Oj2tnqE1cb3U9RhBXN-Mytte3jKs2n2dQwBhX2dYDETy5es4cGUkbW5bdIaV_hx8i3gWQhdaa7se1_Q8NY9t0q90EjUBNXt56_MxjT4YVV-R8D14jV3LequHu0llA84NnEK3PeU56Q54X/s1600/bull-main.jpg"
-  },
-  {
-    "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
-    "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-    "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every employee in your org, there are 40 to 50 au…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Apr 2026 17:25:00 +0530",
-    "timestamp": 1776340500.0,
-    "isoDate": "2026-04-16T11:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6vJpO9kksCQDpSksNkqDFNUCbXD70dMGYqI6P9S_XPMY5d8BR8PVdrsVQP1ZJO_-nzL6eQShM3Cap9heQ5kAglsPjfxwIcXPSsf_cfgUVnGQ2XzIWVOuo7JhxMjnHYDN6r9KlQ6LqZJisRZkjatnWChuzUkSlXRa1hFseUPq28PZ5gjGR7L2WzTFdZ3fM/s1600/ghost.jpg"
   },
   {
     "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
@@ -317,16 +328,5 @@
     "timestamp": 1776085260.0,
     "isoDate": "2026-04-13T13:01:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZNd-YcwKXoD_PmPblT00GaI9GQJvtJTHZk-5RBS1QEtLRupE9KKh-ogAP61b-cLzJm90PHDoRVnhiUzxlqcn-3gB2EtBG2TYxt8erP8UmLj3t1L_9Ykh3vfbCXFBXAoeylbbTeK7jxJIDmqCqThPziWi0XOzbyMZ-UEWGl_PhP4xePoRbsm_RqpUKmQNW/s1600/recaps-main.jpg"
-  },
-  {
-    "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
-    "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
-    "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo Alto Networks' Wendi Whitmore warned that similar capabilities are …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Apr 2026 17:11:00 +0530",
-    "timestamp": 1776080460.0,
-    "isoDate": "2026-04-13T11:41:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6yIgStY_TVvAIztG3gjTOWA2HNY1juzcSFQVACCzI1G1EU97z9wTsAO9HJECkmv0RcAYSxu4xSALf9jELTrtC9ruDKbMS5DPq2U2TYXLtvxZ1F4sRaQ2KIe-FfGpB8kZEhs1LEuOvaEnvGO-50RM227cjDVRFdBaXeC8r5WPOQHG3n2SB8ui3USopqHM/s1600/pro.jpg"
   }
 ]
