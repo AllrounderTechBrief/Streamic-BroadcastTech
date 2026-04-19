@@ -1,5 +1,16 @@
 [
   {
+    "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
+    "link": "https://aws.amazon.com/blogs/media/enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws/",
+    "summary": "Studios face a critical dilemma: AI tools promise to accelerate production workflows, but adopting them means confronting real concerns about security, intellectual property (IP) protection, and production stability. This post introduces a …",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 19 Apr 2026 18:37:00 +0000",
+    "timestamp": 1776623820.0,
+    "isoDate": "2026-04-19T18:37:00+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/17/Figure-1-EngineLab-AIs-project-management-interface.png"
+  },
+  {
     "title": "Dubformer and Adapt Power Goalcast’s Expansion into Global Content Distribution and Monetization",
     "link": "https://www.broadcastbeat.com/dubformer-and-adapt-power-goalcasts-expansion-into-global-content-distribution-and-monetization/",
     "summary": "Dubformer, the AI-powered dubbing platform, and Adapt, a global leader in AI-driven localization and dubbing solutions, have enabled Goalcast, the inspirational content creator that reaches billions, to generate 9 million views and 100,000 …",
@@ -372,16 +383,5 @@
     "timestamp": 1770147606.0,
     "isoDate": "2026-02-03T19:40:06+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/16/DR-Image-1.png"
-  },
-  {
-    "title": "Cosm scales high-resolution Shared Reality experiences with AWS",
-    "link": "https://aws.amazon.com/blogs/media/cosm-scales-high-resolution-shared-reality-experiences-with-aws/",
-    "summary": "Consumer appetite for live entertainment is stronger than ever. From concerts to sporting events, the bar for audience expectations continues to go up, with Shared Reality emerging as an exciting new way to engage with content. Cosm is a le…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Fri, 23 Jan 2026 18:17:58 +0000",
-    "timestamp": 1769192278.0,
-    "isoDate": "2026-01-23T18:17:58+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/22/1762310948716.jpeg"
   }
 ]
