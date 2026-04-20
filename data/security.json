@@ -1,5 +1,16 @@
 [
   {
+    "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+    "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+    "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial int…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 20 Apr 2026 09:05:00 +0530",
+    "timestamp": 1776656100.0,
+    "isoDate": "2026-04-20T03:35:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg"
+  },
+  {
     "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
     "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
     "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every employee in your org, there are 40 to 50 au…",
@@ -317,16 +328,5 @@
     "timestamp": 1776091560.0,
     "isoDate": "2026-04-13T14:46:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb77IQHAfOvWFPWb_cgV_YJGdRtNJJJWBcjYH6M6cCawBv2tQdybani7Qet_LGwH1tTBHJ2P3Lr6gWdY0sz3547YLzkSLWX3T2l84-A7ndRK3T55QblpJ-j2ovE9Lq0CoNb6ckWziwD2UjKP_awFJXbGr3yuZ1IMPndUyCo_WfoJ9nnyTPFf-K4HVy5A8g/s1600/well-fbi.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
-    "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
-    "summary": "Monday is back, and the weekend’s backlog of chaos is officially hitting the fan. We are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Apr 2026 18:31:00 +0530",
-    "timestamp": 1776085260.0,
-    "isoDate": "2026-04-13T13:01:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZNd-YcwKXoD_PmPblT00GaI9GQJvtJTHZk-5RBS1QEtLRupE9KKh-ogAP61b-cLzJm90PHDoRVnhiUzxlqcn-3gB2EtBG2TYxt8erP8UmLj3t1L_9Ykh3vfbCXFBXAoeylbbTeK7jxJIDmqCqThPziWi0XOzbyMZ-UEWGl_PhP4xePoRbsm_RqpUKmQNW/s1600/recaps-main.jpg"
   }
 ]
