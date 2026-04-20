@@ -1,5 +1,16 @@
 [
   {
+    "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+    "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+    "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 20 Apr 2026 16:12:00 +0530",
+    "timestamp": 1776681720.0,
+    "isoDate": "2026-04-20T10:42:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1600/mcp.jpg"
+  },
+  {
     "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
     "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
     "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting…",
@@ -317,16 +328,5 @@
     "timestamp": 1776145140.0,
     "isoDate": "2026-04-14T05:39:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkkewWzrjyqzejet7cyCWdTUMfgjGZgkDpis6rUlh7qnyPpmcN1k_vVdKvziAZq2cOkFQDrJNM8E6WE8Cl7oPNdq94MOXJLa0nkbEmAFCB_MnjLQzTy-WjHGa6yuLhm7dPzuW3YEQeFIfOT1Tr25NgALeTL6vFDhzmJrCRMLL0GBpOhkwQm_Zirk_9aNjr/s1600/warning.jpg"
-  },
-  {
-    "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
-    "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
-    "summary": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Apr 2026 22:45:00 +0530",
-    "timestamp": 1776100500.0,
-    "isoDate": "2026-04-13T17:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMP1knUStbLpgNZ-k52a4ctZyxeERGEeqqVfX75PVTgtdu6XpoIlhHiFAwa4nTwg0089TuczQY5YZOgHOQk-TpVZNxs0piNVCPHsgBPSreTcKQ8gwISSDK7JI4oipfjfrnehwPCqWcyBnxobYaKM7TTu5SN23pUJ5K9fCbORLy2g_ZsSzkmxkp8VVdghfP/s1600/1000066319.jpg"
   }
 ]
