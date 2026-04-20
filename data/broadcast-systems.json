@@ -1,5 +1,38 @@
 [
   {
+    "title": "EVS unifies robotic systems control with Choreon launch",
+    "link": "https://www.tvbeurope.com/live-production/evs-unifies-robotic-systems-control-with-choreon-launch",
+    "summary": "Created to provide a single integration point for all robotic devices, Choreon aims to enable scalability and promote increased automation The post EVS unifies robotic systems control with Choreon launch appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 20 Apr 2026 10:29:02 +0000",
+    "timestamp": 1776680942.0,
+    "isoDate": "2026-04-20T10:29:02+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Choreon-launch-726x272.jpg"
+  },
+  {
+    "title": "Matrox Video and Amagi announce strategic integration to boost software-defined production",
+    "link": "https://www.tvbeurope.com/ip-migration/matrox-video-and-amagi-announce-strategic-integration-to-boost-software-defined-production",
+    "summary": "The collaboration aims to support the adoption of software-defined architectures, reducing complexity and driving scalability and operational efficiencies across broadcast infrastructure The post Matrox Video and Amagi announce strategic in…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 20 Apr 2026 09:30:30 +0000",
+    "timestamp": 1776677430.0,
+    "isoDate": "2026-04-20T09:30:30+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/en-amagixmatrox-origin-PR-image_2-726x408.jpg"
+  },
+  {
+    "title": "Cobalt launches blueCORE suite of multi-function standalone processors",
+    "link": "https://www.tvbeurope.com/ip-migration/cobalt-launches-bluecore-suite-of-multi-function-standalone-processors",
+    "summary": "Designed to meet the needs of organisations transitioning to IP infrastructure, blueCORE combines live production audio and video functions in a single 1RU device The post Cobalt launches blueCORE suite of multi-function standalone processo…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 20 Apr 2026 09:03:57 +0000",
+    "timestamp": 1776675837.0,
+    "isoDate": "2026-04-20T09:03:57+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/COBALT-blueCORE-Processor-Front-Straight-726x322.jpg"
+  },
+  {
     "title": "SmallRig RF 20C Portable Focusable LED Video Light",
     "link": "https://www.newsshooter.com/2026/04/20/smallrig-rf-20c-portable-focusable-led-video-light/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-rf-20c-portable-focusable-led-video-light",
     "summary": "The RF 20C Portable Focusable LED Video Light is a battery-powered, 5600K RGB light that charges via USB-C and delivers a brighter, more powerful 20W output than its predecessor, the RF 10C, while maintaining a high CRI 97 and TLCI 99 ratin…",
@@ -8,6 +41,17 @@
     "timeAgo": "Mon, 20 Apr 2026 08:29:37 +0000",
     "timestamp": 1776673777.0,
     "isoDate": "2026-04-20T08:29:37+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "EBU releases updated DMF reference architecture",
+    "link": "https://www.tvbeurope.com/media-management/ebu-releases-updated-dmf-reference-architecture",
+    "summary": "The new version builds on work to define future-ready, software-based production infrastructures for the media industry The post EBU releases updated DMF reference architecture appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 20 Apr 2026 08:25:56 +0000",
+    "timestamp": 1776673556.0,
+    "isoDate": "2026-04-20T08:25:56+00:00",
     "imageUrl": ""
   },
   {
@@ -42,6 +86,182 @@
     "timestamp": 1776671661.0,
     "isoDate": "2026-04-20T07:54:21+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Hotspring upgrades AI-powered VFX interface",
+    "link": "https://www.tvbeurope.com/production-post/hotspring-upgrades-ai-powered-vfx-interface",
+    "summary": "Created to meet real-world production needs, the workflow uses AI outputs as a base layer before being refined by artists, providing a single, unified production hub The post Hotspring upgrades AI-powered VFX interface appeared first on TVB…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 20 Apr 2026 07:25:29 +0000",
+    "timestamp": 1776669929.0,
+    "isoDate": "2026-04-20T07:25:29+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Outlook-solezajd-1-copy-726x367.jpg"
+  },
+  {
+    "title": "IABM rebrands as International Association of MediaTech",
+    "link": "https://www.tvbeurope.com/business/iabm-rebrands-as-international-association-of-mediatech",
+    "summary": "The rebrand enables the organisation to reach out to so-called ‘broadercasters’ and reflect the ongoing shifts within the media technology market, CEO Saleha Williams tells TVBEurope The post IABM rebrands as International Association of Me…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Sun, 19 Apr 2026 15:30:27 +0000",
+    "timestamp": 1776612627.0,
+    "isoDate": "2026-04-19T15:30:27+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Vizrt AI Keyer eliminates green screen for XR and VR scenarios",
+    "link": "https://www.tvbeurope.com/artificial-intelligence/vizrt-ai-keyer-eliminates-green-screen-for-xr-and-vr-scenarios",
+    "summary": "The platform recognises human shapes as foregrounds, allowing presenters to move around while locked into virtual scenes The post Vizrt AI Keyer eliminates green screen for XR and VR scenarios appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 17 Apr 2026 12:24:18 +0000",
+    "timestamp": 1776428658.0,
+    "isoDate": "2026-04-17T12:24:18+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Vizrt-AI-Keyer-PR-Image-726x408.jpeg"
+  },
+  {
+    "title": "Sencore unveils VB4400 platform capable of monitoring up to 80Gps of simultaneous streaming",
+    "link": "https://www.tvbeurope.com/ip-migration/sencore-debuts-vb4400-platform-alongside-wider-product-lineup-at-nab-2026",
+    "summary": "The VB4400 high-density monitoring and analysis platform is designed for SMPTE ST 2110 and IPMX environments and fully NMOS-certified The post Sencore unveils VB4400 platform capable of monitoring up to 80Gps of simultaneous streaming appea…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 17 Apr 2026 10:36:17 +0000",
+    "timestamp": 1776422177.0,
+    "isoDate": "2026-04-17T10:36:17+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Sencore-at-NAB-2026-Press-Release-Image-726x227.png"
+  },
+  {
+    "title": "Verizon prepared to perform at FIFA World Cup 2026",
+    "link": "https://www.tvbeurope.com/media-delivery/verizon-prepared-to-perform-at-fifa-world-cup-2026",
+    "summary": "Deploying its technology and network infrastructure across host stadiums, Verizon aims to transform the way fans, officials, broadcasters and local communities engage with the forthcoming competition The post Verizon prepared to perform at …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 17 Apr 2026 09:52:00 +0000",
+    "timestamp": 1776419520.0,
+    "isoDate": "2026-04-17T09:52:00+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/news-verizon-fifa-world-cup-2026-2-1920x1080-1-726x408.jpg"
+  },
+  {
+    "title": "Sony debuts new 4K HDR cameras",
+    "link": "https://www.tvbeurope.com/live-production/sony-debuts-new-r-series-of-system-cameras",
+    "summary": "Incorporating enhanced imaging performance and system expandability, the five new models feature a 2/3-inch three-chip 4K CMOS image sensor with global shutter functionality The post Sony debuts new 4K HDR cameras appeared first on TVBEurop…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 17 Apr 2026 09:17:23 +0000",
+    "timestamp": 1776417443.0,
+    "isoDate": "2026-04-17T09:17:23+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/hdc5500rv_others_imagecut-Large-copy-726x545.jpg"
+  },
+  {
+    "title": "Shure enhances immersive experience with EDGE Sound Research partnership",
+    "link": "https://www.tvbeurope.com/audio/shure-enhances-immersive-experience-with-edge-sound-research-partnership",
+    "summary": "Building on an established collaboration, the investment aims to redefine audio experiences for global sports fans and more The post Shure enhances immersive experience with EDGE Sound Research partnership appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 17 Apr 2026 08:21:29 +0000",
+    "timestamp": 1776414089.0,
+    "isoDate": "2026-04-17T08:21:29+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/DCA901_EdgeSound_Blog_1-726x458.png"
+  },
+  {
+    "title": "Avid adds agentic AI to its creative tools",
+    "link": "https://www.tvbeurope.com/production-post/avid-adds-agentic-ai-to-its-creative-tools",
+    "summary": "According to the company, the decision to integrate Google's Gemini models and Vertex AI into Media Composer and Content Core, has been driven by user requests The post Avid adds agentic AI to its creative tools appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 17 Apr 2026 07:33:49 +0000",
+    "timestamp": 1776411229.0,
+    "isoDate": "2026-04-17T07:33:49+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Google-Gemini-Media-Composer--726x461.jpg"
+  },
+  {
+    "title": "Sportway and Broadcast Solutions aim to ‘define the next generation of live sports production’ with acquisition",
+    "link": "https://www.tvbeurope.com/live-production/sportway-and-broadcast-solutions-aim-to-define-the-next-generation-of-live-sports-production-with-acqusition",
+    "summary": "The two companies have joined forces to acquire AI technology provider Studio Automated The post Sportway and Broadcast Solutions aim to ‘define the next generation of live sports production’ with acquisition appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 16 Apr 2026 10:10:06 +0000",
+    "timestamp": 1776334206.0,
+    "isoDate": "2026-04-16T10:10:06+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/PR_BS_Sportway_StudioAutomated_26_02-726x407.jpg"
+  },
+  {
+    "title": "Audio-Technica launches two new broadcast mics",
+    "link": "https://www.tvbeurope.com/audio/audio-technica-launches-two-new-broadcast-mics",
+    "summary": "Featuring mid side (MS) capsule configuration, both mics enable a wide range of stereo image options for professional broadcast applications and more The post Audio-Technica launches two new broadcast mics appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 16 Apr 2026 09:07:08 +0000",
+    "timestamp": 1776330428.0,
+    "isoDate": "2026-04-16T09:07:08+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/BP350ST_UB_UL-726x726.jpg"
+  },
+  {
+    "title": "NAB Show 2026: from concept to practice",
+    "link": "https://www.tvbeurope.com/business/nab-show-2026-from-concept-to-practice",
+    "summary": "NAB EVP Karen Chupka tells TVBEurope how the 2026 NAB Show will showcase technologies like AI and cloud that are moving from concept into practical applications and redefining storytelling and collaboration across broadcast, streaming, and …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 16 Apr 2026 08:26:15 +0000",
+    "timestamp": 1776327975.0,
+    "isoDate": "2026-04-16T08:26:15+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Karen-Chupka-copy-726x549.jpg"
+  },
+  {
+    "title": "BBC cuts will ‘damage its ability to deliver on its public mission’",
+    "link": "https://www.tvbeurope.com/business/bbc-cuts-will-damage-its-ability-to-deliver-on-its-public-mission",
+    "summary": "The broadcaster is expected to cut up to 2,000 jobs, around 10 per cent of its workforce, with more information likely to be revealed once new director-general Matt Brittin is in place The post BBC cuts will ‘damage its ability to deliver o…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 16 Apr 2026 08:21:13 +0000",
+    "timestamp": 1776327673.0,
+    "isoDate": "2026-04-16T08:21:13+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2019/01/bbc-building_482-726x484.jpg"
+  },
+  {
+    "title": "AJA agrees to acquire video encoding company Comprimato",
+    "link": "https://www.tvbeurope.com/business/aja-agrees-to-acquire-video-encoding-company-comprimato",
+    "summary": "The video encoding software provider will continue to operate as a separate brand within the wider AJA family The post AJA agrees to acquire video encoding company Comprimato appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 16 Apr 2026 07:32:06 +0000",
+    "timestamp": 1776324726.0,
+    "isoDate": "2026-04-16T07:32:06+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/AJA_2026_Comprimato_News_Image_1920x1080px-726x408.jpg"
+  },
+  {
+    "title": "Microdrama app uses AI to ‘reimagine’ Chaplin’s The Kid",
+    "link": "https://www.tvbeurope.com/artificial-intelligence/microdrama-app-uses-ai-to-reimagine-chaplins-the-kid",
+    "summary": "TattleTV's in-house AI technology intelligently reimagines and extends the image, reconstructing top and bottom visual detail The post Microdrama app uses AI to ‘reimagine’ Chaplin’s The Kid appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 15 Apr 2026 08:55:35 +0000",
+    "timestamp": 1776243335.0,
+    "isoDate": "2026-04-15T08:55:35+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/The-Kid-726x520.jpg"
+  },
+  {
+    "title": "Blackmagic Design releases major DaVinci Resolve upgrade",
+    "link": "https://www.tvbeurope.com/production-post/blackmagic-design-releases-major-davinci-resolve-upgrade",
+    "summary": "In a major upgrade to the platform, DaVinci Resolve 21 features more AI tools, new motion graphic effects, Fairlight folder tracks and more The post Blackmagic Design releases major DaVinci Resolve upgrade appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 15 Apr 2026 08:54:59 +0000",
+    "timestamp": 1776243299.0,
+    "isoDate": "2026-04-15T08:54:59+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/DaVinci-Resolve-21-COLOR-copy-726x408.jpg"
+  },
+  {
+    "title": "Lawo and swXtch.io enter MoU on multicast IP networking",
+    "link": "https://www.tvbeurope.com/media-management/lawo-and-swxtch-io-enter-mou-on-multicast-ip-networking",
+    "summary": "As part of the agreement, Lawo will integrate groundswXtch into its technology, with the aim of turning on-prem and cloud networking into a unified fabric The post Lawo and swXtch.io enter MoU on multicast IP networking appeared first on TV…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 15 Apr 2026 08:03:56 +0000",
+    "timestamp": 1776240236.0,
+    "isoDate": "2026-04-15T08:03:56+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/LAWO-swXtch-image1.png"
   },
   {
     "title": "Rolux Foldable Dual V-Mount Charger & Quad PD GaN Power Case Launch",

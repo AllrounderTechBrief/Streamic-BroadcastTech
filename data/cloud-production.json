@@ -1,5 +1,71 @@
 [
   {
+    "title": "Maxon Announces Free Tools and Mobile Expansion of ZBrush and Cinema 4D",
+    "link": "https://www.broadcastbeat.com/maxon-announces-free-tools-and-mobile-expansion-of-zbrush-and-cinema-4d/",
+    "summary": "Cinema 4D brings professional 3D workflows to iPad. The return of Autograph – now free for individual users. ZBrush expands to Windows on Arm. See it all at NAB 2026. BAD HOMBURG, Germany – April 16, 2026 – Maxon, a leading developer of pow…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 20 Apr 2026 19:41:08 +0000",
+    "timestamp": 1776714068.0,
+    "isoDate": "2026-04-20T19:41:08+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Konstrukt’s Omakase Player Powers Native Open-Source Player for Time Addressable Media Store",
+    "link": "https://www.broadcastbeat.com/konstrukts-omakase-player-powers-native-open-source-player-for-time-addressable-media-store/",
+    "summary": "Frame Accurate Media Player Supports TAMS Adoption for Live and Near-Live Cloud Workflows NAB Show, Las Vegas, Apr. 19, 2026 – Konstrukt, a technology and engineering firm specializing in media supply chain solutions, today announced that i…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 20 Apr 2026 18:59:49 +0000",
+    "timestamp": 1776711589.0,
+    "isoDate": "2026-04-20T18:59:49+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Bitfocus improves availability, security and user management in new version of Buttons",
+    "link": "https://www.broadcastbeat.com/bitfocus-improves-availability-security-and-user-management-in-new-version-of-buttons/",
+    "summary": "Software version 1.6 extends enterprise functionality to place Buttons at the heart of media operations at any scale Bitfocus, the Norwegian software developer behind the Buttons platform, has released version 1.6 of its software, a proven …",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 20 Apr 2026 17:46:59 +0000",
+    "timestamp": 1776707219.0,
+    "isoDate": "2026-04-20T17:46:59+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Cobalt Digital Announces Launch of blueCORE at NAB Show 2026: Compact Powerhouse Signal Processors for SDI and ST 2110 Workflows",
+    "link": "https://www.broadcastbeat.com/cobalt-digital-announces-launch-of-bluecore-at-nab-show-2026-compact-powerhouse-signal-processors-for-sdi-and-st-2110-workflows/",
+    "summary": "Compact, multi-function standalone units deliver maximum flexibility for live production and IP transition Las Vegas – April 18, 2026 — Cobalt Digital, the leading designer and manufacturer of award-winning signal processing products, and a…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 20 Apr 2026 17:10:20 +0000",
+    "timestamp": 1776705020.0,
+    "isoDate": "2026-04-20T17:10:20+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "CueScript and Lighting Design Group Expand Customer Opportunities Through New Partnership",
+    "link": "https://www.broadcastbeat.com/cuescript-and-lighting-design-group-expand-customer-opportunities-through-new-partnership/",
+    "summary": "Find both companies at 2026 NAB Show in CueScript Booth # C 4720 Las Vegas – April 17, 2025 – CueScript, a leading international developer of professional teleprompting solutions, for broadcast, corporate and live production, and Lighting D…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 20 Apr 2026 16:37:33 +0000",
+    "timestamp": 1776703053.0,
+    "isoDate": "2026-04-20T16:37:33+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "FOX Sports selects Appear X Platform for next-generation remote production",
+    "link": "https://www.broadcastbeat.com/fox-sports-selects-appear-x-platform-for-next-generation-remote-production/",
+    "summary": "Deployment spans FOX Sports’ REMI infrastructure, IP production for a major global soccer event, and its Jewel Events production systems Appear, a global leader in live production technology, has been selected by FOX Sports as a strategic t…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 20 Apr 2026 14:17:07 +0000",
+    "timestamp": 1776694627.0,
+    "isoDate": "2026-04-20T14:17:07+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
     "link": "https://aws.amazon.com/blogs/media/enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws/",
     "summary": "Studios face a critical dilemma: AI tools promise to accelerate production workflows, but adopting them means confronting real concerns about security, intellectual property (IP) protection, and production stability. This post introduces a …",
@@ -9,6 +75,105 @@
     "timestamp": 1776623820.0,
     "isoDate": "2026-04-19T18:37:00+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/17/Figure-1-EngineLab-AIs-project-management-interface.png"
+  },
+  {
+    "title": "Dubformer and Adapt Power Goalcast’s Expansion into Global Content Distribution and Monetization",
+    "link": "https://www.broadcastbeat.com/dubformer-and-adapt-power-goalcasts-expansion-into-global-content-distribution-and-monetization/",
+    "summary": "Dubformer, the AI-powered dubbing platform, and Adapt, a global leader in AI-driven localization and dubbing solutions, have enabled Goalcast, the inspirational content creator that reaches billions, to generate 9 million views and 100,000 …",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 19 Apr 2026 17:04:00 +0000",
+    "timestamp": 1776618240.0,
+    "isoDate": "2026-04-19T17:04:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Amagi Managed Services Modernizes Broadcasting Operations for AccuWeather®",
+    "link": "https://www.broadcastbeat.com/accuweather-amagi-managed-services-cloud-broadcast-modernisation/",
+    "summary": "AccuWeather modernises its broadcast infrastructure with Amagi Managed Services, transitioning from satellite systems to a unified cloud platform supporting linear TV, streaming, and FAST channel distribution.",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 19 Apr 2026 16:41:11 +0000",
+    "timestamp": 1776616871.0,
+    "isoDate": "2026-04-19T16:41:11+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Calrec and Grass Valley unlock exceptional choice and flexibility for broadcasters with ImPulseV and AMPP integration",
+    "link": "https://www.broadcastbeat.com/calrec-and-grass-valley-unlock-exceptional-choice-and-flexibility-for-broadcasters-with-impulsev-and-ampp-integration/",
+    "summary": "Calrec (Booth:C6907) and Grass Valley (Booth: C2408) are today announcing a long-term broadcast audio technology partnership at NAB Show 2026. The companies are combining their industry expertise to deliver a software-defined production env…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 19 Apr 2026 14:57:05 +0000",
+    "timestamp": 1776610625.0,
+    "isoDate": "2026-04-19T14:57:05+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Matrox Video and Amagi Collaborate to Enable Scalable Cloud-Based Broadcast Workflows with Matrox ORIGIN",
+    "link": "https://www.broadcastbeat.com/matrox-video-and-amagi-collaborate-to-enable-scalable-cloud-based-broadcast-workflows-with-matrox-origin/",
+    "summary": "Montreal, Canada & New York — April 19, 2026 — Matrox® Video and Amagi today announced a strategic collaboration to integrate the Matrox ORIGIN software-defined framework into Amagi’s next-generation cloud production architecture. This part…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 19 Apr 2026 14:19:36 +0000",
+    "timestamp": 1776608376.0,
+    "isoDate": "2026-04-19T14:19:36+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Ikegami Announces VFE-P07D Monocular OLED Viewfinder with Tiltable 3.5-inch LCD Monitor",
+    "link": "https://www.broadcastbeat.com/ikegami-announces-vfe-p07d-monocular-oled-viewfinder-with-tiltable-3-5-inch-lcd-monitor/",
+    "summary": "Ikegami booth C3819, NAB Show, April 19th, 2026: Ikegami announces a further expansion to its range of on-camera viewfinders. Scheduled for introduction on Ikegami‘s Central Hall booth C3819 at the April 19th – 22nd 2026 NAB Show in Las Veg…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 19 Apr 2026 09:14:57 +0000",
+    "timestamp": 1776590097.0,
+    "isoDate": "2026-04-19T09:14:57+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Clear-Com Unveils FreeSpeak Cell: A Breakthrough Cellular Intercom System",
+    "link": "https://www.broadcastbeat.com/clear-com-unveils-freespeak-cell-a-breakthrough-cellular-intercom-system/",
+    "summary": "Clear-Com® announced FreeSpeak Cell™, a cellular-based wireless intercom system that uses LTE and 5G infrastructure to support large-scale production communications. The system makes its debut today at day 1 of NAB 2026 2026. FreeSpeak Cell…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Sat, 18 Apr 2026 15:02:13 +0000",
+    "timestamp": 1776524533.0,
+    "isoDate": "2026-04-18T15:02:13+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Burnlab Selects Omakase Player by Konstrukt as Native Player for Ceivo Media Asset Management Platform",
+    "link": "https://www.broadcastbeat.com/burnlab-selects-omakase-player-by-konstrukt-as-native-player-for-ceivo-media-asset-management-platform/",
+    "summary": "Omakase’s Open-Source Framework Enables Playback Experience Tailored to Ceivo’s AI-first Specific Workflows NAB Show, Las Vegas, Apr. 17, 2026 – Konstrukt, a technology and engineering firm specializing in media supply chain solutions, toda…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 17 Apr 2026 17:58:51 +0000",
+    "timestamp": 1776448731.0,
+    "isoDate": "2026-04-17T17:58:51+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Puget Systems Debuts “The Puget Experience” at NAB 2026",
+    "link": "https://www.broadcastbeat.com/puget-systems-debuts-the-puget-experience-at-nab-2026/",
+    "summary": "Puget Systems Teams Up with Corridor Digital to Bring ‘VFX Artists React’ to the NAB Show Floor, Live for the First Time Ever with The Puget Experience Puget Systems (www.pugetsystems.com) today announced it is returning to NAB 2026 in Las …",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 17 Apr 2026 16:24:27 +0000",
+    "timestamp": 1776443067.0,
+    "isoDate": "2026-04-17T16:24:27+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Cobalt Digital and SineSix Media Partner to Transform Accessibility Compliance into a More Engaging Viewer Experience at NAB Show 2026",
+    "link": "https://www.broadcastbeat.com/cobalt-digital-and-sinesix-media-partner-to-transform-accessibility-compliance-into-a-more-engaging-viewer-experience-at-nab-show-2026/",
+    "summary": "Collaboration integrates vocalVision™ with Cobalt’s 9922 frame-synchronizer family for real-time audio descriptions of on-air graphics CHAMPAIGN, Ill. – April 16, 2026 — Cobalt Digital today announced a partnership with SineSix Media that w…",
+    "source": "Broadcast Beat – Production Industry Resource",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 17 Apr 2026 16:10:16 +0000",
+    "timestamp": 1776442216.0,
+    "isoDate": "2026-04-17T16:10:16+00:00",
+    "imageUrl": ""
   },
   {
     "title": "MXL is the foundation. Here’s what it takes to build the house",
