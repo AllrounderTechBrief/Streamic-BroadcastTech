@@ -1,5 +1,38 @@
 [
   {
+    "title": "Building the agentic cloud: everything we launched during Agents Week 2026",
+    "link": "https://blog.cloudflare.com/agents-week-in-review/",
+    "summary": "Agents Week 2026 is a wrap. Let’s take a look at everything we announced, from compute and security to the agent toolbox, platform tools, and the emerging agentic web. Everything we shipped for the agentic cloud.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 20 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776690000.0,
+    "isoDate": "2026-04-20T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6GiG5cEdgwoLU94AuUuLfS/f9022abc8ce823ef2468860474598b6f/BLOG-3239_2.png"
+  },
+  {
+    "title": "The AI engineering stack we built internally — on the platform we ship",
+    "link": "https://blog.cloudflare.com/internal-ai-engineering-stack/",
+    "summary": "We built our internal AI engineering stack on the same products we ship. That means 20 million requests routed through AI Gateway, 241 billion tokens processed, and inference running on Workers AI, serving more than 3,683 internal users. He…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 20 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776690000.0,
+    "isoDate": "2026-04-20T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3lMKwBTT3m7DDmS4BnoNhB/9002104b9c6c09cf72f4052d71e22363/BLOG-3270_2.png"
+  },
+  {
+    "title": "Orchestrating AI Code Review at scale",
+    "link": "https://blog.cloudflare.com/ai-code-review/",
+    "summary": "Learn about how we built a CI-native AI code reviewer using OpenCode that helps our engineers ship better, safer code.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 20 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776690000.0,
+    "isoDate": "2026-04-20T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7mAft27PsDQnNSNCvF7waU/fdd2c1c448e1863e34f71c124fa85ea1/BLOG-3284_2.jpg"
+  },
+  {
     "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
     "link": "https://aws.amazon.com/blogs/media/enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws/",
     "summary": "Studios face a critical dilemma: AI tools promise to accelerate production workflows, but adopting them means confronting real concerns about security, intellectual property (IP) protection, and production stability. This post introduces a …",
@@ -209,28 +242,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7eExar2kjoc2QSq6skzTf6/ba4ad79fa01eb060f8b14cd5afa342e5/BLOG-3221_2.png"
   },
   {
-    "title": "Rearchitecting the Workflows control plane for the agentic era",
-    "link": "https://blog.cloudflare.com/workflows-v2/",
-    "summary": "Cloudflare Workflows, a durable execution engine for multi-step applications, now supports higher concurrency and creation rate limits through a rearchitectured control plane, helping scale to meet the use cases for durable background agent…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776258000.0,
-    "isoDate": "2026-04-15T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/55bqaUjc30HJHe9spWYTo8/d8053955660553db8b64a484fb321ec7/BLOG-3116_2.png"
-  },
-  {
-    "title": "Add voice to your agent",
-    "link": "https://blog.cloudflare.com/voice-agents/",
-    "summary": "An experimental voice pipeline for the Agents SDK enables real-time voice interactions over WebSockets. Developers can now build agents with continuous STT and TTS in just ~30 lines of server-side code.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776258000.0,
-    "isoDate": "2026-04-15T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5IBi8TsQiJ18Um47zpqAIr/d284d47a8653c35bc7c027438a5a7a2c/unnamed__55_.png"
-  },
-  {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
     "link": "https://aws.amazon.com/blogs/media/distribute-ndi-content-from-aws-with-aws-elemental-mediaconnect/",
     "summary": "In this post, learn how to build a demonstration of low-latency live NDI video conversion to a transport stream in the AWS Cloud with MediaConnect.",
@@ -240,17 +251,6 @@
     "timestamp": 1776177671.0,
     "isoDate": "2026-04-14T14:41:11+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/02/Figure-1-High-level-architecture_NDI.png"
-  },
-  {
-    "title": "Securing non-human identities: automated revocation, OAuth, and scoped permissions",
-    "link": "https://blog.cloudflare.com/improved-developer-security/",
-    "summary": "Cloudflare is introducing scannable API tokens, enhanced OAuth visibility, and GA for resource-scoped permissions. These tools help developers implement a true least-privilege architecture while protecting against credential leakage.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 14 Apr 2026 13:00:10 GMT",
-    "timestamp": 1776171610.0,
-    "isoDate": "2026-04-14T13:00:10+00:00",
-    "imageUrl": "https://images.ctfassets.net/zkvhlag99gkb/2p3RZFDklLn9cfQOVYq5vS/d40e6116c115c453095f8ed2d110f062/image3.png"
   },
   {
     "title": "Unlocking next generation audio production with MPEG-H on AWS",

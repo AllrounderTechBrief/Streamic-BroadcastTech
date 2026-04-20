@@ -1,5 +1,27 @@
 [
   {
+    "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+    "summary": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 20 Apr 2026 19:11:00 +0530",
+    "timestamp": 1776692460.0,
+    "isoDate": "2026-04-20T13:41:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg"
+  },
+  {
+    "title": "Why Most AI Deployments Stall After the Demo",
+    "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
+    "summary": "The fastest way to fall in love with an AI tool is to watch the demo. Everything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team. But most AI ini…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 20 Apr 2026 17:00:00 +0530",
+    "timestamp": 1776684600.0,
+    "isoDate": "2026-04-20T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihbqFqPAZp1E63toW329kiZdn6SI22yIZDqIGwAsO9Q2_Xi8g6qCWwj0dH2A4LupHGVzobsdiP9dcvAoSzXSKkte4q0yLnAN2V5wsntPma9PIiv4SzNQnU3wkFCztV-N8Dn36S_oP9tq3obvAVOUUPegjGguA1SUVYR2ptZigH9ET-5dTVZU966eoLh9A/s1600/tines.jpg"
+  },
+  {
     "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
     "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
     "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) s…",
@@ -306,27 +328,5 @@
     "timestamp": 1776155700.0,
     "isoDate": "2026-04-14T08:35:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOmjr311c0yBDI593joFXQLaRdpm6DY67lbFv83YcYlRHaJkpocwXjDZDsV9F9DM-SavZwCOZ-fg10ncUJyW3ODlfBjqG6aK_ytdBfvXFGLswxeJ69oiZXfhGKdCgVO0Angg_qlYB6oAZYo-JQRKn4toBGWcS7OTDwPV0rkus7eNw-9BllIGJa2nkeKXn/s1600/chrome-telegram.jpg"
-  },
-  {
-    "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
-    "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
-    "summary": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild. The vulnerability in question is CVE-2025-0520 (aka CNVD-2020-26585), whi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Apr 2026 11:20:00 +0530",
-    "timestamp": 1776145800.0,
-    "isoDate": "2026-04-14T05:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjthzbWdOOZKL2JKvluG78cobCs7bGxvHsfzSMHt4XgX1OO9h-r7W_dlYCCDrCoKo2dAXhh264NTGUrFKBpM8pv0WcePn5gUp1atSJ4-iC4_wr0jmo7nDZ46JYCs8P_5DLs5RcHi81-L7Wiw35cLHNWqCPe50LJ1a3tqfxwfB3S3ufQjYQfUrfRDwMo1BYE/s1600/showdoc.jpg"
-  },
-  {
-    "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
-    "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as fol…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Apr 2026 11:09:00 +0530",
-    "timestamp": 1776145140.0,
-    "isoDate": "2026-04-14T05:39:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkkewWzrjyqzejet7cyCWdTUMfgjGZgkDpis6rUlh7qnyPpmcN1k_vVdKvziAZq2cOkFQDrJNM8E6WE8Cl7oPNdq94MOXJLa0nkbEmAFCB_MnjLQzTy-WjHGa6yuLhm7dPzuW3YEQeFIfOT1Tr25NgALeTL6vFDhzmJrCRMLL0GBpOhkwQm_Zirk_9aNjr/s1600/warning.jpg"
   }
 ]
