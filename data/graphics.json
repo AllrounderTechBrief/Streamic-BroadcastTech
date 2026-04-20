@@ -1,5 +1,49 @@
 [
   {
+    "title": "NASA Welcomes Latvia as Newest Artemis Accords Signatory",
+    "link": "https://www.nasa.gov/news-release/nasa-welcomes-latvia-as-newest-artemis-accords-signatory/",
+    "summary": "The Republic of Latvia signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, becoming the 62nd nation to commit to responsible space exploration for all humanity. “We are proud to wel…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 20 Apr 2026 16:01:07 +0000",
+    "timestamp": 1776700867.0,
+    "isoDate": "2026-04-20T16:01:07+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604200001.jpg?w=2048"
+  },
+  {
+    "title": "Wheels Up for X-59",
+    "link": "https://www.nasa.gov/image-article/wheels-up-for-x-59/",
+    "summary": "NASA’s X-59 quiet supersonic research aircraft flies over the Mojave Desert in California in this April 14, 2026, image. The transition to flying with wheels up is a key milestone and an important step in the experimental aircraft’s test ca…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 20 Apr 2026 15:57:54 +0000",
+    "timestamp": 1776700674.0,
+    "isoDate": "2026-04-20T15:57:54+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/x-59-flight-9-screen-grab.webp?w=2000"
+  },
+  {
+    "title": "Matrox Video, Amagi Team To Scale Cloud Broadcast With Origin",
+    "link": "https://tvnewscheck.com/tech/article/matrox-video-amagi-team-to-scale-cloud-broadcast-with-origin/",
+    "summary": "Matrox Video is integrating its Matrox Origin software-defined framework into Amagi’s next‑generation cloud production architecture to enable more scalable, flexible broadcast workflows across linear and streaming. The integration targets b…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Mon, 20 Apr 2026 15:07:41 +0000",
+    "timestamp": 1776697661.0,
+    "isoDate": "2026-04-20T15:07:41+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Moments Lab Teams With AWS To Monetize Media Archives With AI Indexing",
+    "link": "https://tvnewscheck.com/tech/article/moments-lab-teams-with-aws-to-monetize-media-archives-with-ai-indexing/",
+    "summary": "Moments Lab is partnering with Amazon Web Services to help media and entertainment companies migrate large video libraries to AWS and index them with Moments Lab’s multimodal AI to accelerate … The post Moments Lab Teams With AWS To Monetiz…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Mon, 20 Apr 2026 14:55:15 +0000",
+    "timestamp": 1776696915.0,
+    "isoDate": "2026-04-20T14:55:15+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Amagi Managed Services Modernizes AccuWeather Operations On Unified Cloud Platform",
     "link": "https://tvnewscheck.com/tech/article/amagi-managed-services-modernizes-accuweather-operations-on-unified-cloud-platform/",
     "summary": "AccuWeather has shifted from legacy satellite and hardware to a unified, fully managed cloud platform from Amagi that runs linear TV and streaming in one place, consolidating workflows and improving … The post Amagi Managed Services Moderni…",
@@ -19,6 +63,17 @@
     "timeAgo": "Mon, 20 Apr 2026 14:44:01 +0000",
     "timestamp": 1776696241.0,
     "isoDate": "2026-04-20T14:44:01+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Widely Attended Gatherings (WAGs) Determinations",
+    "link": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
+    "summary": "2026 Space Policy Institute 4.29.26.pdf Planetary Society APLU and AAU 4.21.26.pdf 41st Space Symposium-suppl 04.13-16.26 Space Symposium 2026 Events 4.13-16.26 2026 NSCFL Space Heroes and Legends Award Banquet 4.18.26 Newport News State of…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 20 Apr 2026 14:35:11 +0000",
+    "timestamp": 1776695711.0,
+    "isoDate": "2026-04-20T14:35:11+00:00",
     "imageUrl": ""
   },
   {
@@ -363,28 +418,6 @@
     "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/04/csda-banner-rs2.jpg?w=1425"
   },
   {
-    "title": "Dow Jumps 869, Nasdaq Climbs 366, S&P 500 Rises 85",
-    "link": "https://tvnewscheck.com/business/article/dow-jumps-869-nasdaq-climbs-366-sp-500-rises-85/",
-    "summary": "NEW YORK (AP) — Oil prices dropped back to where they were in the early days of the Iran war, and U.S. stocks raced to another record Friday after Iran said the Strait of … The post Dow Jumps 869, Nasdaq Climbs 366, S&P 500 Rises 85 appeare…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Fri, 17 Apr 2026 20:30:34 +0000",
-    "timestamp": 1776457834.0,
-    "isoDate": "2026-04-17T20:30:34+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Netflix Was Long ‘A Builder Not A Buyer.’ Is That Era Over?",
-    "link": "https://tvnewscheck.com/business/article/netflix-was-long-a-builder-not-a-buyer-is-that-era-over/",
-    "summary": "Netflix’s recent attempt to acquire Warner Bros. Discovery’s assets has made Wall Street and media industry onlookers question whether the company needs to pursue other deals as streaming becomes more competitive. The post Netflix Was Long …",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Fri, 17 Apr 2026 19:06:35 +0000",
-    "timestamp": 1776452795.0,
-    "isoDate": "2026-04-17T19:06:35+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "NASA Artemis II Human Research Data Methodology Challenge",
     "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
     "summary": "NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, H…",
@@ -418,28 +451,6 @@
     "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/04/report-with-outline.jpg?w=345"
   },
   {
-    "title": "Volunteers Discover Rare Space Weather Events Using Their Ears",
-    "link": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
-    "summary": "Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic f…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 17 Apr 2026 15:04:32 +0000",
-    "timestamp": 1776438272.0,
-    "isoDate": "2026-04-17T15:04:32+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/HARP_graphic.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way",
-    "link": "https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/",
-    "summary": "An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (ora…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 17 Apr 2026 14:14:33 +0000",
-    "timestamp": 1776435273.0,
-    "isoDate": "2026-04-17T14:14:33+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/pia26748-spherex-cygnus-h2o-ice.jpg?w=2048"
-  },
-  {
     "title": "Vizrt AI Keyer kills the green screen and creates virtual scenes in any environment",
     "link": "https://routing.vizrt.com/vizrt/press-center/vizrt-ai-keyer-release/",
     "summary": "The Vizrt AI Keyer enables virtual and XR scenes in any environment, with background switching and augmented reality (AR) graphics insertion in every space, whether indoors or outdoors. The post Vizrt AI Keyer kills the green screen and cre…",
@@ -449,17 +460,6 @@
     "timestamp": 1776414600.0,
     "isoDate": "2026-04-17T08:30:00+00:00",
     "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20667'%3E%3C/svg%3E"
-  },
-  {
-    "title": "Spring Rains Saturate Michigan",
-    "link": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
-    "summary": "Above-normal precipitation has swollen rivers and damaged infrastructure statewide.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 17 Apr 2026 04:01:00 +0000",
-    "timestamp": 1776398460.0,
-    "isoDate": "2026-04-17T04:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/spring-rains-saturate-michigan/michiganflooding764_oli_20250416.jpg"
   },
   {
     "title": "XPression 12.6: Stronger MOS control and seamless live updates",
