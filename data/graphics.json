@@ -132,6 +132,28 @@
     "imageUrl": ""
   },
   {
+    "title": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
+    "link": "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/",
+    "summary": "The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 21:21:02 +0000",
+    "timestamp": 1776460862.0,
+    "isoDate": "2026-04-17T21:21:02+00:00",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/04/satellogic-cover.jpg?w=295"
+  },
+  {
+    "title": "Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space",
+    "link": "https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/",
+    "summary": "Join us April 29 at 2:00 p.m. EDT to learn more about CSDA program vendor MDA Space.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 20:33:51 +0000",
+    "timestamp": 1776458031.0,
+    "isoDate": "2026-04-17T20:33:51+00:00",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/04/csda-banner-rs2.jpg?w=1425"
+  },
+  {
     "title": "Dow Jumps 869, Nasdaq Climbs 366, S&P 500 Rises 85",
     "link": "https://tvnewscheck.com/business/article/dow-jumps-869-nasdaq-climbs-366-sp-500-rises-85/",
     "summary": "NEW YORK (AP) — Oil prices dropped back to where they were in the early days of the Iran war, and U.S. stocks raced to another record Friday after Iran said the Strait of … The post Dow Jumps 869, Nasdaq Climbs 366, S&P 500 Rises 85 appeare…",
@@ -152,6 +174,17 @@
     "timestamp": 1776452795.0,
     "isoDate": "2026-04-17T19:06:35+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "NASA Artemis II Human Research Data Methodology Challenge",
+    "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
+    "summary": "NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, H…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 18:41:35 +0000",
+    "timestamp": 1776451295.0,
+    "isoDate": "2026-04-17T18:41:35+00:00",
+    "imageUrl": "https://images-assets.nasa.gov/image/art002e013365/art002e013365~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "CNN Offers ‘Larry King Live’ Archive Episodes On Streaming Service",
@@ -231,6 +264,17 @@
     "imageUrl": ""
   },
   {
+    "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications",
+    "link": "https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/",
+    "summary": "NASA and the U.S. Office of Personnel Management (OPM) launched the NASA Force website on Friday, opening applications for roles aimed at recruiting the nation’s top engineers and technologists to support America’s air and space program. NA…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 17:04:51 +0000",
+    "timestamp": 1776445491.0,
+    "isoDate": "2026-04-17T17:04:51+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-force-website.png?w=1746"
+  },
+  {
     "title": "Macnica Expands ST 2110 Platform With New MEP25 For 25gbe Media Workflows",
     "link": "https://tvnewscheck.com/tech/article/macnica-expands-st-2110-platform-with-new-mep25-for-25gbe-media-workflows/",
     "summary": "Macnica is expanding its ST 2110 media transport platform with the MEP25 SmartNIC, a 25GbE-optimized media I/O card designed to bring deterministic SMPTE ST 2110 workflows to standard compute environments. … The post Macnica Expands ST 2110…",
@@ -273,6 +317,28 @@
     "timestamp": 1776438554.0,
     "isoDate": "2026-04-17T15:09:14+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data",
+    "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/",
+    "summary": "The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 15:06:11 +0000",
+    "timestamp": 1776438371.0,
+    "isoDate": "2026-04-17T15:06:11+00:00",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/04/report-with-outline.jpg?w=345"
+  },
+  {
+    "title": "Volunteers Discover Rare Space Weather Events Using Their Ears",
+    "link": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
+    "summary": "Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic f…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 15:04:32 +0000",
+    "timestamp": 1776438272.0,
+    "isoDate": "2026-04-17T15:04:32+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/HARP_graphic.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Norigin Media Debuts React Native Library For Smart TV Remote Navigation",
@@ -341,6 +407,17 @@
     "imageUrl": ""
   },
   {
+    "title": "NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way",
+    "link": "https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/",
+    "summary": "An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (ora…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 14:14:33 +0000",
+    "timestamp": 1776435273.0,
+    "isoDate": "2026-04-17T14:14:33+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/pia26748-spherex-cygnus-h2o-ice.jpg?w=2048"
+  },
+  {
     "title": "Vizrt AI Keyer kills the green screen and creates virtual scenes in any environment",
     "link": "https://routing.vizrt.com/vizrt/press-center/vizrt-ai-keyer-release/",
     "summary": "The Vizrt AI Keyer enables virtual and XR scenes in any environment, with background switching and augmented reality (AR) graphics insertion in every space, whether indoors or outdoors. The post Vizrt AI Keyer kills the green screen and cre…",
@@ -352,6 +429,17 @@
     "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20667'%3E%3C/svg%3E"
   },
   {
+    "title": "Spring Rains Saturate Michigan",
+    "link": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
+    "summary": "Above-normal precipitation has swollen rivers and damaged infrastructure statewide.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 17 Apr 2026 04:01:00 +0000",
+    "timestamp": 1776398460.0,
+    "isoDate": "2026-04-17T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/spring-rains-saturate-michigan/michiganflooding764_oli_20250416.jpg"
+  },
+  {
     "title": "XPression 12.6: Stronger MOS control and seamless live updates",
     "link": "https://www.rossvideo.com/blog/xpression-12-6-stronger-mos-control-and-seamless-live-updates/",
     "summary": "Discover what’s new in XPression 12.6, including enhanced MOS control, seamless project updates without going off air, and web-based framebuffer monitoring for live production. The post XPression 12.6: Stronger MOS control and seamless live…",
@@ -361,6 +449,28 @@
     "timestamp": 1776359661.0,
     "isoDate": "2026-04-16T17:14:21+00:00",
     "imageUrl": "https://www.rossvideo.com/wp-content/uploads/2026/04/PC-Monitor.I01.2k-XPression-Remote-Sequencer-Changing-Preview-Thumbnail-Size-1-e1775741415989.png"
+  },
+  {
+    "title": "NASA Invites Media to Latvia Artemis Accords Signing Ceremony",
+    "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/",
+    "summary": "The Republic of Latvia will sign the Artemis Accords during a ceremony at 9 a.m. EDT Monday, April 20, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Dace Melbārde, Latvia’s minister for education and scienc…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 16 Apr 2026 16:41:00 +0000",
+    "timestamp": 1776357660.0,
+    "isoDate": "2026-04-16T16:41:00+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp?w=1920"
+  },
+  {
+    "title": "At the Edge of Light",
+    "link": "https://www.nasa.gov/image-article/at-the-edge-of-light/",
+    "summary": "In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen along the terminator—the boundary between lunar day and night—where low-angle sunlight casts long shadows across the surface. A section of Orientale Basin is vis…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 16 Apr 2026 14:38:02 +0000",
+    "timestamp": 1776350282.0,
+    "isoDate": "2026-04-16T14:38:02+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/55207935871-acaeaa8692-o.jpg?w=2048"
   },
   {
     "title": "How Ross Video’s production-as-a-service helps sports venues deliver on the biggest stages",
