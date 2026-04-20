@@ -1,5 +1,16 @@
 [
   {
+    "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
+    "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
+    "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 20 Apr 2026 13:04:00 +0530",
+    "timestamp": 1776670440.0,
+    "isoDate": "2026-04-20T07:34:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoHF4qP6hw3msdH8s3stwjZR1a2Aqp6kSB97wFpmQefaNtVM8lc-Eu0Gv3jeMK2qa9aLGjSSZp3cJGNaE3eft6h17HnKqPGlhLbfkVzLqfv3VW-SEDLToW6z8SGiDeSE8jXdHyNqxqG_a4B34PjM3rbiOddEvQlgOFfbow8n6V_qGB-70uEj9fRrNLVOt/s1600/water.jpg"
+  },
+  {
     "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
     "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
     "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial int…",
@@ -317,16 +328,5 @@
     "timestamp": 1776100500.0,
     "isoDate": "2026-04-13T17:15:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMP1knUStbLpgNZ-k52a4ctZyxeERGEeqqVfX75PVTgtdu6XpoIlhHiFAwa4nTwg0089TuczQY5YZOgHOQk-TpVZNxs0piNVCPHsgBPSreTcKQ8gwISSDK7JI4oipfjfrnehwPCqWcyBnxobYaKM7TTu5SN23pUJ5K9fCbORLy2g_ZsSzkmxkp8VVdghfP/s1600/1000066319.jpg"
-  },
-  {
-    "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
-    "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit called W3LL to steal t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Apr 2026 20:16:00 +0530",
-    "timestamp": 1776091560.0,
-    "isoDate": "2026-04-13T14:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb77IQHAfOvWFPWb_cgV_YJGdRtNJJJWBcjYH6M6cCawBv2tQdybani7Qet_LGwH1tTBHJ2P3Lr6gWdY0sz3547YLzkSLWX3T2l84-A7ndRK3T55QblpJ-j2ovE9Lq0CoNb6ckWziwD2UjKP_awFJXbGr3yuZ1IMPndUyCo_WfoJ9nnyTPFf-K4HVy5A8g/s1600/well-fbi.jpg"
   }
 ]
