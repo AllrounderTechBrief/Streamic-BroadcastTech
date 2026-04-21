@@ -1,5 +1,16 @@
 [
   {
+    "title": "Moving past bots vs. humans",
+    "link": "https://blog.cloudflare.com/past-bots-and-humans/",
+    "summary": "As AI assistants and privacy proxies challenge the capabilities of traditional bot detection, the Web needs new models for accountability. We believe that control should remain with the client, and that an open ecosystem of anonymous creden…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 21 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776776400.0,
+    "isoDate": "2026-04-21T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/61L0GkCvWVQl8TH2i2iwFp/899b2a1936aa7fbfaab45fca71d319d6/1.png"
+  },
+  {
     "title": "Building the agentic cloud: everything we launched during Agents Week 2026",
     "link": "https://blog.cloudflare.com/agents-week-in-review/",
     "summary": "Agents Week 2026 is a wrap. Let’s take a look at everything we announced, from compute and security to the agent toolbox, platform tools, and the emerging agentic web. Everything we shipped for the agentic cloud.",
@@ -229,17 +240,6 @@
     "timestamp": 1776258000.0,
     "isoDate": "2026-04-15T13:00:00+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Browser Run: give your agents a browser",
-    "link": "https://blog.cloudflare.com/browser-run-for-ai-agents/",
-    "summary": "Browser Rendering is now Browser Run, with Live View, Human in the Loop, CDP access, session recordings, and 4x higher concurrency limits for AI agents.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776258000.0,
-    "isoDate": "2026-04-15T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7eExar2kjoc2QSq6skzTf6/ba4ad79fa01eb060f8b14cd5afa342e5/BLOG-3221_2.png"
   },
   {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",

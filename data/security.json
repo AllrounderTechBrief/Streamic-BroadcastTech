@@ -1,5 +1,49 @@
 [
   {
+    "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+    "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+    "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage. Th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Apr 2026 18:30:00 +0530",
+    "timestamp": 1776776400.0,
+    "isoDate": "2026-04-21T13:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZct3ObvKWOQuvm1iZXNZ2nc7pHglILHvCbnLW1HDwUNdkgjuBap_OEBwgsXuxXBkIqmlYLgcccvPt28Knlm3jG5B3MOsXk40-bBUlhVLU3BqjWwSlxuSbiyfwHj-S15tikmwmgH37VhkaM5lMC2sL7bod_uOo0VxatuOekhYxdmkci38SzbsnZHkN-ho/s1600/boosters.jpg"
+  },
+  {
+    "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+    "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+    "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Apr 2026 18:15:00 +0530",
+    "timestamp": 1776775500.0,
+    "isoDate": "2026-04-21T12:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcErEs-NVQwFX9tnOmYqQrfDjLm6WUB5jr8ltsA6bMOlVwmDwzBb5RbYAidS2jxdCPQ9RJtsgl453b7KbY8z_6tOjs0VIA7vF8LjM2OJqkZW8c1IM6TYwToxxp4dk8O0KiozATn5L4U40n2HK-Nya7tcimt1exRy9ZtYnri0XyMuM55W5AbC_8EAE0oDQC/s1600/android-nfc.jpg"
+  },
+  {
+    "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+    "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+    "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Apr 2026 17:00:00 +0530",
+    "timestamp": 1776771000.0,
+    "isoDate": "2026-04-21T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin_RithPNlLYdgxg906-M63Q0-Kv83Kl-WNjK8x5OjKiSgcDMaljvqb7XkLPoEeUDEMRdi4Cqh9DH-pv9QP1ViNjUi3q3qn5r_Lig04a3zO9TgkgiQqSLC50mE6q-6hr94bo4UnXnP5QksLGeAgSOemxUOZaXIw9Z2UHpZuinm7pqF9N0xtJNVovfojx0/s1600/door.jpg"
+  },
+  {
+    "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+    "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+    "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution. The flaw, since patched, combines Antigravity's permitte…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Apr 2026 15:52:00 +0530",
+    "timestamp": 1776766920.0,
+    "isoDate": "2026-04-21T10:22:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsCaDWCQOL4W8DvgT0eI2Q12HA0ThHQO8TZ-X02vqHH4lZfIeUUZ9yeQAHESn6Oe5AoqLEpTuRL9Gco-SPynh5K0fW8D0KFLEvnHnd48MHKL5OUFnw4lOPsAqBg2N8zlCEnoJMM7ZrtxyVuwhytN3SebEbluda4uN12VG2OVi6fV4SItz_57pdCGe7U0ai/s1600/ide.jpg"
+  },
+  {
     "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
     "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence …",
@@ -284,49 +328,5 @@
     "timestamp": 1776227400.0,
     "isoDate": "2026-04-15T04:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrjpxBjlnOwelWhtbcyO3kBGpQwkfPkbL7RytRsDo26AL5rMz4inD_rjZLSfjy5R6skvnpiOA5M1LoDaAW1bCz4Isy4RMffGJVzgm4kYy5N-V1ijfLhVHefPcneHVGZyXZRjbLZZBHQRe3_QKhKfb5hss3a5hFveU8v2WkKHq-2wUmY_ocysIGGMP8GxdV/s1600/gpt.jpg"
-  },
-  {
-    "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
-    "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
-    "summary": "Two high-severity security vulnerabilities have been disclosed in Composer, a package manager for PHP, that, if successfully exploited, could result in arbitrary command execution. The vulnerabilities have been described as command injectio…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Apr 2026 21:27:00 +0530",
-    "timestamp": 1776182220.0,
-    "isoDate": "2026-04-14T15:57:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP-RqcuX8QuBEwVkchLNSjyIAqQEuFwy0prqQ1gGqxpBFESQLuCzgGB7-cjYhJrbLhbTk_j8G4NedN06plhhqLd_Rpd01mTh8XcOHjvQ_UuJqfjTROZeh40WlSN_7gzRL4yVKX-Aj0ui2gOxo9l70b3Dy5R6srKjne-gQXIhL7fNAHYZ7rDm6-yWl4-_JD/s1600/php-code.jpg"
-  },
-  {
-    "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
-    "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
-    "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational level. \"Th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Apr 2026 20:26:00 +0530",
-    "timestamp": 1776178560.0,
-    "isoDate": "2026-04-14T14:56:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjblrgfLU8m4awyQDEqyzwguow-RuCp4UH1k5DBkrUrP87A7tsEQPPaLD_D9M4VXF5mSNrmp1eurx_QW-nVjM1nNnkyEIFyFiry3nxE0Wq3xrT0L06S6B11rEHcWzB7q78RRQySSxwLAVIncgqO5qhtY6b0A_LzYF8wtvH94G_TLQEn8UIivqrJNkH88Nf7/s1600/android-rust.jpg"
-  },
-  {
-    "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
-    "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
-    "summary": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into Google's Discove…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Apr 2026 20:00:00 +0530",
-    "timestamp": 1776177000.0,
-    "isoDate": "2026-04-14T14:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiON8Ew8R1EO7t3yoLoTFdM2hQsDW9AtBPPBcNuPup6ZmpGta3VyYlkhiqqRlW5CDWpnU_3IJ-EAbnV6nrfzJ4V3mdWIng75afS2TPvZOs-_MLc0a5lxiLwR5H-EWmi1C0ctYCBZSBNbF9CCGcdm7BrNaWunTp8QvBkmqJwq0Yvde9bQxbhooyIYaXRiebP/s1600/ad-fraud.jpg"
-  },
-  {
-    "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
-    "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
-    "summary": "A nascent Android remote access trojan called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Apr 2026 15:50:00 +0530",
-    "timestamp": 1776162000.0,
-    "isoDate": "2026-04-14T10:20:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTMJQqqJsKQgPpv94bO9xAc_tQCEJXJrZGAEmCuyUghslqHdHDYmuVYqIVLGqMLi_ZuY_zEBoDdGDQRVAX0KyGq9QcuIzQ5LVbNLBnwUwW2R7IBg0gopxAI9ml44zJsKXEoc1ig8zRbVDBNK3B4LZRE0WljzIfwnSMHx8Mv1kWYTK5qnxOB1YYl_WNWMa/s1600/android-malware.jpg"
   }
 ]
