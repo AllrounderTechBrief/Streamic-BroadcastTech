@@ -1,5 +1,16 @@
 [
   {
+    "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Apr 2026 11:53:00 +0530",
+    "timestamp": 1776752580.0,
+    "isoDate": "2026-04-21T06:23:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1600/cisa-kev.jpg"
+  },
+  {
     "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
     "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
     "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems. The vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10…",
@@ -317,16 +328,5 @@
     "timestamp": 1776162000.0,
     "isoDate": "2026-04-14T10:20:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTMJQqqJsKQgPpv94bO9xAc_tQCEJXJrZGAEmCuyUghslqHdHDYmuVYqIVLGqMLi_ZuY_zEBoDdGDQRVAX0KyGq9QcuIzQ5LVbNLBnwUwW2R7IBg0gopxAI9ml44zJsKXEoc1ig8zRbVDBNK3B4LZRE0WljzIfwnSMHx8Mv1kWYTK5qnxOB1YYl_WNWMa/s1600/android-malware.jpg"
-  },
-  {
-    "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
-    "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
-    "summary": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly 400%. The surge in …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Apr 2026 15:30:00 +0530",
-    "timestamp": 1776160800.0,
-    "isoDate": "2026-04-14T10:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4H3KkiSOm6TbNn7e0Ceu3-etqqeLci47PtX9T-0WGgdGScHfd2tfFamA6oyOi62wWwKF7KwF_wcqNACSvRVJvH__1YKoP_fP7T5LFdDqX8jxFph0NSaVJjFEVhb0bjNvn5IWayqMwKyRNbp9mmW7f2JLs7I3pTF8yLuhCOHsbnpNVLrEVq6Uq63j8508/s1600/derailed.jpg"
   }
 ]
