@@ -1,5 +1,27 @@
 [
   {
+    "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
+    "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
+    "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026. Dubbed Lotus Wiper, the novel file wiper has been used in a dest…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Apr 2026 16:25:00 +0530",
+    "timestamp": 1776855300.0,
+    "isoDate": "2026-04-22T10:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhANfDCr_4asg41Zj98h_tyRYig7XZGWHyCgPXHcVUvax_31CDUNrmrUp9rBFZK0u0Ai97i5pUlapu4ePRoBQAzvxt-KX3u80dTOjzyPPOOGzuCUmBZgaczzHisujoEXmfO08HtxqTbkAYBRI7JdBKffmATJHHM4uDe2RDsPyC11CkgenulBnQ7ZhyH8m-t/s1600/wiper-malware.jpg"
+  },
+  {
+    "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
+    "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
+    "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents. The more worryin…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Apr 2026 16:11:36 +0530",
+    "timestamp": 1776854496.0,
+    "isoDate": "2026-04-22T10:41:36+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeaSL6v6uahfzJpHJb0ATKZ7cbexnfYIayT74IyU1S-7f3T-4gfnWowlobm5RH4ZYrsIdeNq_OOHGxp2LbU-aELaO9RbYa15MfKN38-ZQPGhrgH0PYCsVIucG95SSw-WCzzo9eUhITn4A3txsa8H59XhTcAaOObC0r-Es_7i0RH8aDo_qhZ45MfaOTVF2t/s1600/reco.png"
+  },
+  {
     "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
     "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
     "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's …",
@@ -306,27 +328,5 @@
     "timestamp": 1776338820.0,
     "isoDate": "2026-04-16T11:27:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg"
-  },
-  {
-    "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-    "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-    "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in atta…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Apr 2026 15:50:00 +0530",
-    "timestamp": 1776334800.0,
-    "isoDate": "2026-04-16T10:20:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoBvtFhZbLfNE2AsVSzuOt5V9YMzAumIA2M9c7QVbp_i-xMwDIgVtDgCIi2bCYgH_PviS8P-Ap1k-8aVmHABqLzNGE9g014MM1gnfJEJPKbKczoCjPoI6PxZ77bNlz2dSlv8XqoVFyZZqQ6SWBue3rpRegb_k62HJkfMl39GHTBIIzZOGrv_iKbxOYV8E/s1600/el.jpg"
-  },
-  {
-    "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
-    "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
-    "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA) has disclosed details of a new campaign that has targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of s…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Apr 2026 11:50:00 +0530",
-    "timestamp": 1776320400.0,
-    "isoDate": "2026-04-16T06:20:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3uHu3ez1qUhePM8e1rCVaEUwBzhu09tblZcAl6jlOEYHN1Zq2-rm-dyEOArGNUm63UjM-_Qs8XwFKUa46UxOwufTn4BmRlfv1xiwlxkk3XboMQu8d4fHpy5Vb5y_0zcpXw5Alg-V_Ud85gINtfz6pfOZWWcco9Dy0jkeRCPCF-ssY2zJjRge1d3PJf_c/s1600/uk.jpg"
   }
 ]
