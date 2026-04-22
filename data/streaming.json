@@ -1,5 +1,16 @@
 [
   {
+    "title": "Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen",
+    "link": "https://blog.cloudflare.com/making-rust-workers-reliable/",
+    "summary": "Panics in Rust Workers were historically fatal, poisoning the entire instance. By collaborating upstream on the wasm‑bindgen project, Rust Workers now support resilient critical error recovery, including panic unwinding using WebAssembly Ex…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 22 Apr 2026 13:00:00 GMT",
+    "timestamp": 1776862800.0,
+    "isoDate": "2026-04-22T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Moving past bots vs. humans",
     "link": "https://blog.cloudflare.com/past-bots-and-humans/",
     "summary": "As AI assistants and privacy proxies challenge the capabilities of traditional bot detection, the Web needs new models for accountability. We believe that control should remain with the client, and that an open ecosystem of anonymous creden…",
@@ -229,17 +240,6 @@
     "timestamp": 1776258000.0,
     "isoDate": "2026-04-15T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2Iva79HIiHPUrK8NLukkwH/dd1cf1709ab04f6d5825124cecd20a5e/BLOG-3231_2.png"
-  },
-  {
-    "title": "Register domains wherever you build: Cloudflare Registrar API now in beta",
-    "link": "https://blog.cloudflare.com/registrar-api-beta/",
-    "summary": "The Cloudflare Registrar API is now in beta. Developers and AI agents can search, check availability, and register domains at cost directly from their editor, their terminal, or their agent — without leaving their workflow.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 15 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776258000.0,
-    "isoDate": "2026-04-15T13:00:00+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
