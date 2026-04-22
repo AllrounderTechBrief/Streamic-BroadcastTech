@@ -1,5 +1,27 @@
 [
   {
+    "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+    "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+    "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository. In an alert published today, software supply chain security company Socket revealed that unknown threat actors managed …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Apr 2026 23:25:00 +0530",
+    "timestamp": 1776880500.0,
+    "isoDate": "2026-04-22T17:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimocxAyADkuC5qBKZquZhHtUaDSArR1yrr0eRW7dQ_qo4yJpHxj2VYF0qQBxxYfhwOv5g3PJ6raoVwGHrns8DiRFppR_OPFhc2NUoVxlMc0W3fwVyR8J0daGZ_a8IOSuqL1kXJmY6Sj1bvqJ7OwkZfJQB2Cha4WldeRwCcAopoTllcER15ca3eFwsibt6i/s1600/kics.jpg"
+  },
+  {
+    "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+    "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+    "summary": "Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens. The supply chain worm has been detected by both Soc…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Apr 2026 23:03:00 +0530",
+    "timestamp": 1776879180.0,
+    "isoDate": "2026-04-22T17:33:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdq7inTckksldfLXx5JPM1spcmvj-W0C5jvCNGSfvUlWfhmFERkPhE9WNRTkTib4uZFsKKn2lBvxnhsZbEaOnGKI4pkSKu8kpyBn7VEsY3BbVN5ZklAoliWNZC-b526mJbr5xiYxKwRFXB8pnV2K-H5ww5mG3_1GrWjgvrsnqJ2EJu1gZJ15-D29njRY9/s1600/npm.jpg"
+  },
+  {
     "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
     "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
     "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia. \"The malware uses the legitimate Microsoft Graph API and Outlook mailb…",
@@ -306,27 +328,5 @@
     "timestamp": 1776396120.0,
     "isoDate": "2026-04-17T03:22:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKAY7CueGuHevAtV544WN7RTKISrobQLFpjfi4kjdzP1I2BA3rnll69dv1kfvHYSCcU5tQISA0OOgcQVibKrl4o0AvtUyM9crfZuSb1XFH03iLtPglZeHn1e6S8urWxf_4CEH9-tCZdT9BBrvXOFygCxjO_AUmUXnzm4d37Q80fPw3lEn6Hb0_LWlP9XM5/s1600/apachemq.jpg"
-  },
-  {
-    "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
-    "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
-    "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December 2025. \"PowMix employs randomized command-…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Apr 2026 23:22:00 +0530",
-    "timestamp": 1776361920.0,
-    "isoDate": "2026-04-16T17:52:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaSAtFbXFX7aYFcwPPrHEMwEZ4VJp2mJQuYo3B3Q2Zrot1co_ilMUWffYOUUFHFRO6zwHHjlMCMOJcbnc_iF69KLU_1LpMhcfFk5YV8A4cdIchhqR1NQGEvyzpHGidnbvqwq2Tg_Y77VwMCpeSSluD8sPRcusqiraqLMCvUCA-QvUv5nCuh2Ns1U2jxNR1/s1600/powmix.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
-    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
-    "summary": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole \"crime\" part, ancient vulne…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Apr 2026 18:35:00 +0530",
-    "timestamp": 1776344700.0,
-    "isoDate": "2026-04-16T13:05:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzTV_mwPjmV14aBlnHuLOX2yEZR6VGpmadgiPHtNBJV0KVNG_Oj2tnqE1cb3U9RhBXN-Mytte3jKs2n2dQwBhX2dYDETy5es4cGUkbW5bdIaV_hx8i3gWQhdaa7se1_Q8NY9t0q90EjUBNXt56_MxjT4YVV-R8D14jV3LequHu0llA84NnEK3PeU56Q54X/s1600/bull-main.jpg"
   }
 ]
