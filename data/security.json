@@ -1,5 +1,16 @@
 [
   {
+    "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+    "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+    "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia. \"The malware uses the legitimate Microsoft Graph API and Outlook mailb…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Apr 2026 20:58:00 +0530",
+    "timestamp": 1776871680.0,
+    "isoDate": "2026-04-22T15:28:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptXaD_Im0Bee0znCFTtBnOBEGGfeP-lS85crmRfAsd5-sMOsHstg9jATLVQOSJF2tiQQ6qkQ2ZWK98foU4WIQU_tHja8H882jF-_oiA5UGh-iG0-ByeaGfBbjDGid-FkfsNfKQUljfBsgejRsHBiBeX1DXRbjf1ohM1uhZiKdsjpBaH_0lYylOWSA9itt/s1600/linux.jpg"
+  },
+  {
     "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
     "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
     "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026. Dubbed Lotus Wiper, the novel file wiper has been used in a dest…",
@@ -317,16 +328,5 @@
     "timestamp": 1776344700.0,
     "isoDate": "2026-04-16T13:05:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzTV_mwPjmV14aBlnHuLOX2yEZR6VGpmadgiPHtNBJV0KVNG_Oj2tnqE1cb3U9RhBXN-Mytte3jKs2n2dQwBhX2dYDETy5es4cGUkbW5bdIaV_hx8i3gWQhdaa7se1_Q8NY9t0q90EjUBNXt56_MxjT4YVV-R8D14jV3LequHu0llA84NnEK3PeU56Q54X/s1600/bull-main.jpg"
-  },
-  {
-    "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
-    "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
-    "summary": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the service. The details o…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Apr 2026 16:57:00 +0530",
-    "timestamp": 1776338820.0,
-    "isoDate": "2026-04-16T11:27:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg"
   }
 ]
