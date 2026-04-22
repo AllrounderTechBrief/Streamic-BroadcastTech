@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
+    "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
+    "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Apr 2026 14:59:00 +0530",
+    "timestamp": 1776850140.0,
+    "isoDate": "2026-04-22T09:29:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYMuDYXH3vQ6ycJCKfikptBR0jdQdnf-s36gDb0LYx3gvMwQOQLrt072KY5GZ0T2GRhyphenhyphenrfIg5qcCqjE0J_PtKQ1P409j_veWwKYoGsGssQcTotxI2-Dl8akDSyPif_j4LgFL3kWI6pvWKX5QBjsnIZIHdFzlAIRgxspuS4W0Ywe-Z63zmIyL7X39CG_3Ng/s1600/dotnet.jpg"
+  },
+  {
     "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
     "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
     "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic DNS-based command-and-control server ove…",
@@ -317,16 +328,5 @@
     "timestamp": 1776320400.0,
     "isoDate": "2026-04-16T06:20:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3uHu3ez1qUhePM8e1rCVaEUwBzhu09tblZcAl6jlOEYHN1Zq2-rm-dyEOArGNUm63UjM-_Qs8XwFKUa46UxOwufTn4BmRlfv1xiwlxkk3XboMQu8d4fHpy5Vb5y_0zcpXw5Alg-V_Ud85gINtfz6pfOZWWcco9Dy0jkeRCPCF-ssY2zJjRge1d3PJf_c/s1600/uk.jpg"
-  },
-  {
-    "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-    "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
-    "summary": "Threat actors have been observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 15 Apr 2026 22:39:00 +0530",
-    "timestamp": 1776272940.0,
-    "isoDate": "2026-04-15T17:09:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSXMJaHSQp1aJ8l7rKKtfILQtDMLWTUVOPwWqizQ-nRzb5JbG1BJOFKTs0NYGVQ0fBFTzLkjaY0bntn7UDnlyy502mDQJzvqFhTJwmYlctN551StWLJf8hnET4i8ZrwWvtzhswLW_2GoSI1zlMVRnI89aVrFU1lbes9p7fpYFjT9V7OxAmbmMW3UR-hv9_/s1600/webhook.jpg"
   }
 ]

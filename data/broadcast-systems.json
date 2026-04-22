@@ -1,8 +1,30 @@
 [
   {
+    "title": "The next chapter of change",
+    "link": "https://www.tvbeurope.com/media-delivery/the-next-chapter-of-change",
+    "summary": "New microdrama app Tattle TV offers short-form vertical video, with a focus on British content. Co-founders Marina Elderton and Philip McGoldrick tell Jenny Priestley how they leveraged AI to create both the app and some of its content The …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 22 Apr 2026 10:16:42 +0000",
+    "timestamp": 1776853002.0,
+    "isoDate": "2026-04-22T10:16:42+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Marina-Elderton-Head-Shot.avif"
+  },
+  {
+    "title": "Bitmovin and Layercake integration drives end-to-end media orchestration",
+    "link": "https://www.tvbeurope.com/media-management/bitmovin-and-layercake-integration-drives-end-to-end-media-orchestration",
+    "summary": "The combined solution supports OTT streaming, live sports, simulcast workflows and enterprise video, aiming to deliver a flexible and scalable foundation for modern media operations The post Bitmovin and Layercake integration drives end-to-…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 22 Apr 2026 09:25:42 +0000",
+    "timestamp": 1776849942.0,
+    "isoDate": "2026-04-22T09:25:42+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Layercake-Bitmovin-Streamcake-Integration-copy-726x496.jpg"
+  },
+  {
     "title": "Adobe deploys on-device Speechmatics STT for Premiere",
     "link": "https://www.tvbeurope.com/artificial-intelligence/adobe-deploys-on-device-speechmatics-stt-for-premiere",
-    "summary": "The integration provides accurate on-device transcription locally, aiming to ensure security, accuracy and faster content creation The post Adobe deploys on-device Speechmatics STT for Premiere appeared first on TVBEurope.",
+    "summary": "The integration provides 'near cloud' accurate on-device transcription locally, aiming to ensure security, accuracy and faster content creation The post Adobe deploys on-device Speechmatics STT for Premiere appeared first on TVBEurope.",
     "source": "TVBEurope",
     "category": "broadcast-systems",
     "timeAgo": "Wed, 22 Apr 2026 08:43:25 +0000",
@@ -251,27 +273,5 @@
     "timestamp": 1776414089.0,
     "isoDate": "2026-04-17T08:21:29+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/DCA901_EdgeSound_Blog_1-726x458.png"
-  },
-  {
-    "title": "Avid adds agentic AI to its creative tools",
-    "link": "https://www.tvbeurope.com/production-post/avid-adds-agentic-ai-to-its-creative-tools",
-    "summary": "According to the company, the decision to integrate Google's Gemini models and Vertex AI into Media Composer and Content Core, has been driven by user requests The post Avid adds agentic AI to its creative tools appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 17 Apr 2026 07:33:49 +0000",
-    "timestamp": 1776411229.0,
-    "isoDate": "2026-04-17T07:33:49+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Google-Gemini-Media-Composer--726x461.jpg"
-  },
-  {
-    "title": "Sportway and Broadcast Solutions aim to ‘define the next generation of live sports production’ with acquisition",
-    "link": "https://www.tvbeurope.com/live-production/sportway-and-broadcast-solutions-aim-to-define-the-next-generation-of-live-sports-production-with-acqusition",
-    "summary": "The two companies have joined forces to acquire AI technology provider Studio Automated The post Sportway and Broadcast Solutions aim to ‘define the next generation of live sports production’ with acquisition appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 16 Apr 2026 10:10:06 +0000",
-    "timestamp": 1776334206.0,
-    "isoDate": "2026-04-16T10:10:06+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/PR_BS_Sportway_StudioAutomated_26_02-726x407.jpg"
   }
 ]
