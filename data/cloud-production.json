@@ -1,5 +1,16 @@
 [
   {
+    "title": "AWS Partners driving AI adoption and bringing the future to life for media and entertainment customers worldwide",
+    "link": "https://aws.amazon.com/blogs/media/aws-partners-driving-ai-adoption-and-bringing-the-future-to-life-for-media-and-entertainment-customers-worldwide/",
+    "summary": "As part of AWS’s Three Big Questions podcast series, leaders from AWS partners Thoughtworks, TwelveLabs, and LucidLink shared insights on the trends driving media and entertainment growth and innovation. Audience evolution Vishnu Nair and P…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 23 Apr 2026 17:45:59 +0000",
+    "timestamp": 1776966359.0,
+    "isoDate": "2026-04-23T17:45:59+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Dalet Takes Home The Best in Show Award for Dalia at 2026 NAB",
     "link": "https://www.broadcastbeat.com/dalet-takes-home-the-best-in-show-award-for-dalia-at-2026-nab/",
     "summary": "Media-aware agentic AI wins big for real-world efficiencies and time to value New York, NY – April 23, 2026 – Dalet, a leading technology and service provider for media-rich organizations, today announced that Dalia, its agentic AI solution…",
@@ -372,16 +383,5 @@
     "timestamp": 1770730610.0,
     "isoDate": "2026-02-10T13:36:50+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/06/Lucid-Image-1.png"
-  },
-  {
-    "title": "How DoveRunner Multi-DRM Cloud integrates with AWS media services",
-    "link": "https://aws.amazon.com/blogs/media/how-doverunner-multi-drm-cloud-integrates-with-aws-media-services/",
-    "summary": "This blog post was co-authored by Erik Peña, Multi-DRM Product Manager at DoveRunner Viewers, content owners and over-the-top (OTT) services face a significant challenge: balancing content accessibility with strong security measures, partic…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 03 Feb 2026 19:40:06 +0000",
-    "timestamp": 1770147606.0,
-    "isoDate": "2026-02-03T19:40:06+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/16/DR-Image-1.png"
   }
 ]

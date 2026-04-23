@@ -1,5 +1,16 @@
 [
   {
+    "title": "AWS Partners driving AI adoption and bringing the future to life for media and entertainment customers worldwide",
+    "link": "https://aws.amazon.com/blogs/media/aws-partners-driving-ai-adoption-and-bringing-the-future-to-life-for-media-and-entertainment-customers-worldwide/",
+    "summary": "As part of AWS’s Three Big Questions podcast series, leaders from AWS partners Thoughtworks, TwelveLabs, and LucidLink shared insights on the trends driving media and entertainment growth and innovation. Audience evolution Vishnu Nair and P…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 23 Apr 2026 17:45:59 +0000",
+    "timestamp": 1776966359.0,
+    "isoDate": "2026-04-23T17:45:59+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen",
     "link": "https://blog.cloudflare.com/making-rust-workers-reliable/",
     "summary": "Panics in Rust Workers were historically fatal, poisoning the entire instance. By collaborating upstream on the wasm‑bindgen project, Rust Workers now support resilient critical error recovery, including panic unwinding using WebAssembly Ex…",
@@ -427,16 +438,5 @@
     "timestamp": 1770730610.0,
     "isoDate": "2026-02-10T13:36:50+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/06/Lucid-Image-1.png"
-  },
-  {
-    "title": "How DoveRunner Multi-DRM Cloud integrates with AWS media services",
-    "link": "https://aws.amazon.com/blogs/media/how-doverunner-multi-drm-cloud-integrates-with-aws-media-services/",
-    "summary": "This blog post was co-authored by Erik Peña, Multi-DRM Product Manager at DoveRunner Viewers, content owners and over-the-top (OTT) services face a significant challenge: balancing content accessibility with strong security measures, partic…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 03 Feb 2026 19:40:06 +0000",
-    "timestamp": 1770147606.0,
-    "isoDate": "2026-02-03T19:40:06+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/01/16/DR-Image-1.png"
   }
 ]
