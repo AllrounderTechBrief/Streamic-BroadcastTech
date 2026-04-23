@@ -1,5 +1,27 @@
 [
   {
+    "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
+    "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
+    "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 23 Apr 2026 17:33:00 +0530",
+    "timestamp": 1776945780.0,
+    "isoDate": "2026-04-23T12:03:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirgCFjBm7wVU1Nve1GwsT-mX4Fm9C2OB25FN0xsgQxB5H1y0XN-I4TrfFH3f47uWBie1-yNBz_K2tuml0FOagCnaxI5xQvqoVbpzOUU6bCoaBZLohQWPSWF4r2YSEXIQKt3FRdoSXjvAk8OTmysTV4uoPD87y-3Boh7UzcJoUFIQxkmB576KIDMtU0YHDx/s1600/miggo-webinar.jpg"
+  },
+  {
+    "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
+    "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
+    "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Micro…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 23 Apr 2026 17:00:00 +0530",
+    "timestamp": 1776943800.0,
+    "isoDate": "2026-04-23T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzSPo6TkrJjcTvsuM1O71fiiZ7gnKw4PqqtKu_TeAaZNr5qAEfsfVvoZv64F7EFULRIv8SKePHZehY_0g9AqyqlnMdTPF-OLf1S9RwmB-edOgYKEg1Llw-6m87CQBglHxbK3oS0Brnwc9_x_oi56XGuxe1V9vN0KfoY9cUmU4mplEHeqQxO-5byx79YY/s1600/picus-main.jpg"
+  },
+  {
     "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
     "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
     "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. \"The group wields a wide array of tools mostly written in Go, using i…",
@@ -306,27 +328,5 @@
     "timestamp": 1776492060.0,
     "isoDate": "2026-04-18T06:01:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6cxZZMfiWctk3Me9QO6UlzVRFab0SPGMTzThjpcPHCXm49bQ0rRvtG2W6gicJw4Mi1QUuv-yTDMK5GKJju3QicyjYJwdbA86Ok8w2oU5Vg28l4s0HAVv7_c03dStaM7OPd4Yq0khmm9MeQVUYnCYThMx4JvkCnZZ5PEtCXAA90vKfsAumsMAIw085JIsz/s1600/botnet-ddos.jpg"
-  },
-  {
-    "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
-    "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
-    "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves the exploitation of three vulnerabilities that are…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Apr 2026 18:51:00 +0530",
-    "timestamp": 1776432060.0,
-    "isoDate": "2026-04-17T13:21:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ8x3Yg0CYomOu1IpHfhfmiqJtgaMSnnoE2tJR6RdXGIy1rLRTORge-ukCLYkEj6xzeGTvmuy-68qfU4me_nG7pvwZi21h7ycQFwY3OXCH1_p_g35BAYeaHdz3uRKJD2mQCjUIcxha2WzMePpup2VHarxZVxy3QNtaRAjET-2FK7GemiuvyI8MpNPFVyEQ/s1600/defender.jpg"
-  },
-  {
-    "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
-    "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
-    "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Apr 2026 16:17:00 +0530",
-    "timestamp": 1776422820.0,
-    "isoDate": "2026-04-17T10:47:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84jgyS7JCiumwEWR-XKLRuLv_sljuCRx-alsYQHKikYlefpZeL1Wqh3GEALkiLdX886cZVY22LQA_ETSoYLrNdEJ4115IkJtXq5v1EMvQdvU-_xS61E89OwwSWXvE-F6Lw6_DH17w0wHHnBfUgqFxsy5cI1rTzinKIgA-X3q08jMLOOci5fkkUbCeIeId/s1600/google-ads-android.jpg"
   }
 ]
