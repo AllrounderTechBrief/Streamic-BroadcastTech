@@ -1,5 +1,27 @@
 [
   {
+    "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+    "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+    "summary": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket. \"The affected package version appears to be @bitwarden/cli@2026.4.0, and the ma…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 23 Apr 2026 19:12:00 +0530",
+    "timestamp": 1776951720.0,
+    "isoDate": "2026-04-23T13:42:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg"
+  },
+  {
+    "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+    "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes. The supply chain is messy. Packages you did not check are stealing …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 23 Apr 2026 18:47:00 +0530",
+    "timestamp": 1776950220.0,
+    "isoDate": "2026-04-23T13:17:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg"
+  },
+  {
     "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
     "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
     "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before…",
@@ -306,27 +328,5 @@
     "timestamp": 1776499620.0,
     "isoDate": "2026-04-18T08:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6vJpO9kksCQDpSksNkqDFNUCbXD70dMGYqI6P9S_XPMY5d8BR8PVdrsVQP1ZJO_-nzL6eQShM3Cap9heQ5kAglsPjfxwIcXPSsf_cfgUVnGQ2XzIWVOuo7JhxMjnHYDN6r9KlQ6LqZJisRZkjatnWChuzUkSlXRa1hFseUPq28PZ5gjGR7L2WzTFdZ3fM/s1600/ghost.jpg"
-  },
-  {
-    "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
-    "link": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
-    "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack. The exchange said it fell vict…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 18 Apr 2026 13:29:00 +0530",
-    "timestamp": 1776499140.0,
-    "isoDate": "2026-04-18T07:59:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPcUvJCFRqDmEr1ZDSaUJCAymmKwZOeXdmfPY6Eekp7tLOpqjXLKHilHOHlNyuxmennQE8H5oxuRTaCncC8hsoGYEloD8OrDlR1wpbxGivBBB7KdVX8kiv_pOzC6GQ7LNPKoJGkFklpW0XutuLRPjl3I5cPta1n-BqVyAdO1luW3EUR8jyiZEtVjVTGWUK/s1600/grinex.jpg"
-  },
-  {
-    "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
-    "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
-    "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42. T…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 18 Apr 2026 11:31:00 +0530",
-    "timestamp": 1776492060.0,
-    "isoDate": "2026-04-18T06:01:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6cxZZMfiWctk3Me9QO6UlzVRFab0SPGMTzThjpcPHCXm49bQ0rRvtG2W6gicJw4Mi1QUuv-yTDMK5GKJju3QicyjYJwdbA86Ok8w2oU5Vg28l4s0HAVv7_c03dStaM7OPd4Yq0khmm9MeQVUYnCYThMx4JvkCnZZ5PEtCXAA90vKfsAumsMAIw085JIsz/s1600/botnet-ddos.jpg"
   }
 ]
