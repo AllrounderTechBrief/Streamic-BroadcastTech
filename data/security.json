@@ -1,5 +1,38 @@
 [
   {
+    "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+    "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
+    "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. \"The group wields a wide array of tools mostly written in Go, using i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 23 Apr 2026 14:34:00 +0530",
+    "timestamp": 1776935040.0,
+    "isoDate": "2026-04-23T09:04:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPZEHQ2ePgeeD1JO3nqkHDxu5XWd53XZ8GsPxgX5Gl3vY-isf7bdT1_8ZGbMGOwic5gJKYXp0G5rIiSacQvidnb3_voREgqsyanhwo0uQs1HLNXACrsV2tLmHXlxA4FizErdbwb5o35MEDIrZKMkDsAAzIVPt0g6pTMbsZSN7SIwTEozmgX7MO26XxapY/s1600/chinese-hacking.jpg"
+  },
+  {
+    "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
+    "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
+    "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems. The company said it made the discovery…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 23 Apr 2026 14:10:00 +0530",
+    "timestamp": 1776933600.0,
+    "isoDate": "2026-04-23T08:40:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwM3USZlfhbZvEZWWJp8Qa4g-UzetuH1vkGUsyr3Ju00B8gC8z791k1Gv-WZ_pMB1VQtX1xLFj-ETJg33razqLHCpoOzMcbb65ucw8jruZ_ltVmaO4bky9WmoFSXfgquEn8HVbLx_I02h0BDOXPBn61_jdnRYKSleCpfUR8G4pkEpsn592IvR3D3qgt0X/s1600/vercel-breach.jpg"
+  },
+  {
+    "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+    "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
+    "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device. The vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 23 Apr 2026 13:36:00 +0530",
+    "timestamp": 1776931560.0,
+    "isoDate": "2026-04-23T08:06:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8iikjICH9h-OY06K3jZBcEcwtWEuusLcRgwG1T5SvE39V2ZfqSe7Z7N3NFXzfxgYicI_yo8bvme9f4RYazoU-5dUmoTKJMgdmW38AuWgFEWKNBTxgqQJAgpwZUOS926Ue1qCGUW7ou2wStgU-vRsle4Ky8pcp2I2mT_Sm3eyUw__JZaO-BrBZ80z3Zhvx/s1600/apple-signal.jpg"
+  },
+  {
     "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
     "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
     "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository. In an alert published today, software supply chain security company Socket revealed that unknown threat actors managed …",
@@ -295,38 +328,5 @@
     "timestamp": 1776422820.0,
     "isoDate": "2026-04-17T10:47:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84jgyS7JCiumwEWR-XKLRuLv_sljuCRx-alsYQHKikYlefpZeL1Wqh3GEALkiLdX886cZVY22LQA_ETSoYLrNdEJ4115IkJtXq5v1EMvQdvU-_xS61E89OwwSWXvE-F6Lw6_DH17w0wHHnBfUgqFxsy5cI1rTzinKIgA-X3q08jMLOOci5fkkUbCeIeId/s1600/google-ads-android.jpg"
-  },
-  {
-    "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
-    "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
-    "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Apr 2026 12:44:00 +0530",
-    "timestamp": 1776410040.0,
-    "isoDate": "2026-04-17T07:14:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjR1nq2z66LZ-KZoSSgEdNs30l3Wv4kqz4R4acFd3CW2tqG0EDILlATrje1-tvZhdjnU9rSRO4cQNmlQGelsfBGGiMl_m9kxotVRlBDFyMISCJIFUPN78Aam2GAYPL0Nljz4aU5XrrWz2QuxBz-cZvY7vr2zSQJNdgrz3IWLldTPG_n_9tJx22A3TBQzZ/s1600/nist-cve.jpg"
-  },
-  {
-    "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
-    "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
-    "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals. The ongoing effor…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Apr 2026 11:16:00 +0530",
-    "timestamp": 1776404760.0,
-    "isoDate": "2026-04-17T05:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgePkLgywRZdW-d26RoQHpyVUy3nKssYfrZuFEdZ-fjRzJHTpESHBPlLvUII_vjjeLVTn4G_TB_oH76mfzh5t4PoKyz_ZhXWBOnCAkssRVXvb_lAMkEdhlK4G9YE6IWvxUUDQ9KDeZSzurWEPKDoQAVozBVjwrRYtSjy6pSbenOhhctqh3NxELjQXeF7H7S/s1600/europol.jpg"
-  },
-  {
-    "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
-    "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
-    "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA). To that end, the agency has added the vulnerab…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Apr 2026 08:52:00 +0530",
-    "timestamp": 1776396120.0,
-    "isoDate": "2026-04-17T03:22:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKAY7CueGuHevAtV544WN7RTKISrobQLFpjfi4kjdzP1I2BA3rnll69dv1kfvHYSCcU5tQISA0OOgcQVibKrl4o0AvtUyM9crfZuSb1XFH03iLtPglZeHn1e6S8urWxf_4CEH9-tCZdT9BBrvXOFygCxjO_AUmUXnzm4d37Q80fPw3lEn6Hb0_LWlP9XM5/s1600/apachemq.jpg"
   }
 ]
