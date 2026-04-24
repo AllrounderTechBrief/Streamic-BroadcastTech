@@ -1,5 +1,16 @@
 [
   {
+    "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
+    "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
+    "summary": "The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a U.S. researcher as part of a spear-phishing campaign to obtain sensitive information from …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Apr 2026 19:43:00 +0530",
+    "timestamp": 1777039980.0,
+    "isoDate": "2026-04-24T14:13:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHAuHNFOxvs6UDl3EnaRiFcpN6xXjeqMCeudHBwRKzbIoUCdno0MHlfe2ijlnYU7D5k0vi4nlhv9j_hkR4zeaHTq2xewCOVza2_qYZZxpy_Qy1V_IQu5nO5lDyGzeG3P_B5kSbGT5W01Ic0E_FuSlWat1zsWYCDHhYbqQ_S5Q8p1WO14UStW8EJ4PIkKuX/s1600/WANTED.jpg"
+  },
+  {
     "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
     "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
     "summary": "The AI Agent Authority Gap - From Ungoverned to Delegation As discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly. The issue is not simply that agen…",
@@ -317,16 +328,5 @@
     "timestamp": 1776705240.0,
     "isoDate": "2026-04-20T17:14:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
-    "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-    "summary": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 20 Apr 2026 19:11:00 +0530",
-    "timestamp": 1776692460.0,
-    "isoDate": "2026-04-20T13:41:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg"
   }
 ]
