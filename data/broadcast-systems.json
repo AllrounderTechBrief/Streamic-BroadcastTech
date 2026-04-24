@@ -1,5 +1,16 @@
 [
   {
+    "title": "Sennheiser launches Spectera Studio",
+    "link": "https://www.tvbeurope.com/audio/sennheiser-launches-spectera-studio",
+    "summary": "The solution streamlines Spectera workflows by combining planning, editing and migration in a single tool, aiming to improve efficiency in setup, reconfiguration and scaling of multichannel environments The post Sennheiser launches Spectera…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 24 Apr 2026 10:38:13 +0000",
+    "timestamp": 1777027093.0,
+    "isoDate": "2026-04-24T10:38:13+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Spectera-1-726x413.jpg"
+  },
+  {
     "title": "Next-level sport experiences with 5G",
     "link": "https://www.tvbeurope.com/media-delivery/next-level-sport-experiences-with-5g",
     "summary": "The future will see a blend of 5G applications working together to tailor coverage to the unique profile of each sporting event. Monica Heck examines how 5G is allowing broadcasters to create ever more engaging content The post Next-level s…",
@@ -262,16 +273,5 @@
     "timestamp": 1776680942.0,
     "isoDate": "2026-04-20T10:29:02+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Choreon-launch-726x272.jpg"
-  },
-  {
-    "title": "Matrox Video and Amagi announce strategic integration to boost software-defined production",
-    "link": "https://www.tvbeurope.com/ip-migration/matrox-video-and-amagi-announce-strategic-integration-to-boost-software-defined-production",
-    "summary": "The collaboration aims to support the adoption of software-defined architectures, reducing complexity and driving scalability and operational efficiencies across broadcast infrastructure The post Matrox Video and Amagi announce strategic in…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 20 Apr 2026 09:30:30 +0000",
-    "timestamp": 1776677430.0,
-    "isoDate": "2026-04-20T09:30:30+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/en-amagixmatrox-origin-PR-image_2-726x408.jpg"
   }
 ]
