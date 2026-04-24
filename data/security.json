@@ -1,6 +1,28 @@
 [
   {
-    "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+    "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
+    "link": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
+    "summary": "Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Apr 2026 14:59:00 +0530",
+    "timestamp": 1777022940.0,
+    "isoDate": "2026-04-24T09:29:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheXZWhV-F6JpyIS7BshxCI158lslIFwx6XU9K15AoGDti8DVknLSrhAEc9HybQjSHfjfuKpGJ5by4EJamG4RV_7v8_SzlmhmSlxcfIBRaYX913E8f6-z0NQyMJ9g0VkszTUY726Csg6xWhwY16ygTe_JySvgj-JkaMyX4ZdM7yCuxRT_98lv22nywvy6r5/s1600/cyberattack.jpg"
+  },
+  {
+    "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+    "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Apr 2026 12:54:00 +0530",
+    "timestamp": 1777015440.0,
+    "isoDate": "2026-04-24T07:24:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQrFbHBSUJCgc3WB8IsBaYhvbOnk7jwkU3MRHO7YVAFZBBwi7LE2OZzC_oddjsfbh_YwW7czfQ0FzCpHyztt-N8po5TkqZqsOhm_LpW4dxmzaDtGkud-vho2R409maf5r_QBAPjGUpfFShbENQ-qIpwaQ0eNmBgD7U-Pgu4uFgSzGRxt6O7kKLAg_PyVg/s1600/lmdeploy.png"
+  },
+  {
+    "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
     "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
     "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent y…",
     "source": "The Hacker News",
@@ -306,27 +328,5 @@
     "timestamp": 1776681720.0,
     "isoDate": "2026-04-20T10:42:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1600/mcp.jpg"
-  },
-  {
-    "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-    "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-    "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 20 Apr 2026 13:04:00 +0530",
-    "timestamp": 1776670440.0,
-    "isoDate": "2026-04-20T07:34:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoHF4qP6hw3msdH8s3stwjZR1a2Aqp6kSB97wFpmQefaNtVM8lc-Eu0Gv3jeMK2qa9aLGjSSZp3cJGNaE3eft6h17HnKqPGlhLbfkVzLqfv3VW-SEDLToW6z8SGiDeSE8jXdHyNqxqG_a4B34PjM3rbiOddEvQlgOFfbow8n6V_qGB-70uEj9fRrNLVOt/s1600/water.jpg"
-  },
-  {
-    "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-    "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-    "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial int…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 20 Apr 2026 09:05:00 +0530",
-    "timestamp": 1776656100.0,
-    "isoDate": "2026-04-20T03:35:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg"
   }
 ]
