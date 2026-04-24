@@ -1,5 +1,16 @@
 [
   {
+    "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+    "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with malware…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Apr 2026 22:36:00 +0530",
+    "timestamp": 1777050360.0,
+    "isoDate": "2026-04-24T17:06:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL39ca_K84pnKcPSv77aXouF3t3HCOjjL1zFVEdeDE64LiUxQ2Het8xQeTeO0JZRHZE56SbG87psVmhYCbSyu5PE3FZiHrAIzm0zp8nfGKk7XwVTUUjpeZ7zDEZwuJaQkZp6Cl20WF7qkWDAuaOQW5-OtTQ1ZvjW4xhHB9HrC2O-C6pPPnE94gLqp1GZrI/s1600/cisco.jpg"
+  },
+  {
     "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
     "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
     "summary": "The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a U.S. researcher as part of a spear-phishing campaign to obtain sensitive information from …",
@@ -317,16 +328,5 @@
     "timestamp": 1776752580.0,
     "isoDate": "2026-04-21T06:23:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1600/cisa-kev.jpg"
-  },
-  {
-    "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
-    "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
-    "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems. The vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 20 Apr 2026 22:44:00 +0530",
-    "timestamp": 1776705240.0,
-    "isoDate": "2026-04-20T17:14:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg"
   }
 ]
