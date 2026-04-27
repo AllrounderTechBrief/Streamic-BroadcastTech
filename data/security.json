@@ -1,5 +1,38 @@
 [
   {
+    "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
+    "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
+    "summary": "Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying vulnerabilities at scale and raising serious qu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 27 Apr 2026 17:28:00 +0530",
+    "timestamp": 1777291080.0,
+    "isoDate": "2026-04-27T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR-gtpmKWvXoC5M5eOQM8k01yoiVjMDTYwRePtuLtpEPMevNdUs3BrVGykkop3OgF-DGCjpXB5T_AS84khCvVv7J-4W-7aE2ND0VuYbnyD8B6l1DUk_TVi96ab977o9i81hIIubY3l5F2A7_Qe4P4-qMTMzwnrvoXYC3cRhBU0X1VpG4F_MwstEGUQYHg/s1600/unnamed.png"
+  },
+  {
+    "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+    "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+    "summary": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That's according to a report published by Positive Te…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 27 Apr 2026 17:24:00 +0530",
+    "timestamp": 1777290840.0,
+    "isoDate": "2026-04-27T11:54:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi02vvwkoYlj343usA-GYXcQHZKIceJufKYFzZNyHlsGQ6lCPD8H8bHEWtzBnJsWmnlQsGq0fBLgyKTdnOoEi83L3kQ8V3EOou_vlAmMhnMDFU5P5LxA-Sz1agVhDmFrd2qKHGnYZituJuoAEsHp0ExFR4pw6VCf9VNESl7C4q5Wkefh6_8rN2MDK96yh_a/s1600/russian-cyberattack.jpg"
+  },
+  {
+    "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
+    "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+    "summary": "Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm. The cluster of 73 extensions has b…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 27 Apr 2026 16:53:00 +0530",
+    "timestamp": 1777288980.0,
+    "isoDate": "2026-04-27T11:23:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptNKAIMY9gm1kv8ULlpPvZh-F4HFaSveiiGCF8qbXkps5m4__rCDykkMAYSG4kg6r1pDv-EDRBTloxLF1yJC5hJJyfrq4J2anUCcgfYP9-nuYuPHh16pC7j0OzTqNvC2TQwbwFcna6nUQ_ZDkZt9NJRi3N3AZnt8qyVsmfans82j_uck31bzBMl4WWdRJ/s1600/vscode.jpg"
+  },
+  {
     "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
     "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
     "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills,…",
@@ -295,38 +328,5 @@
     "timestamp": 1776786360.0,
     "isoDate": "2026-04-21T15:46:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDEDMst3MIdrJaNrbo9p_7mjaF2nB_5UuQZR2JhNRNPw8h619BhPWYUZ0yYD-ix_jIluuAwjip4ho4huSuYqr4lXcperdn-4_tFKZ6yivKeOuDJd9O-1EDiwIvD1sPwRGL6keOFr5muqqXp2GWdOlpmi9_uQyREP_iiEz0ZoX-W4ACBSxYarYPb4CJTIY/s1600/hardware.jpg"
-  },
-  {
-    "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
-    "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
-    "summary": "A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023. Angelo Martino, 41, of Land O'Lakes, Florida, teamed up with the operators of the BlackCat ra…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Apr 2026 20:01:00 +0530",
-    "timestamp": 1776781860.0,
-    "isoDate": "2026-04-21T14:31:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhau3OWhO8rBZT2xz8xcZ90Y8tYMmkZCI81G0GGeUkEHBQi4HzltJJJkzdQr6YS-4R8kZKSAf6Dc9YT6ifgHjmdQSpBvRgJbkEvzIW1dy57LQHQBJkc0YXS3zdYy6TTH8rklsIUGX32R0nk3hBrcYt804nqjBOND_ighh-SHyHHHBt-sJhfOszExZfVmwW8/s1600/ransomware-hacker.jpg"
-  },
-  {
-    "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
-    "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
-    "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage. Th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Apr 2026 18:30:00 +0530",
-    "timestamp": 1776776400.0,
-    "isoDate": "2026-04-21T13:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZct3ObvKWOQuvm1iZXNZ2nc7pHglILHvCbnLW1HDwUNdkgjuBap_OEBwgsXuxXBkIqmlYLgcccvPt28Knlm3jG5B3MOsXk40-bBUlhVLU3BqjWwSlxuSbiyfwHj-S15tikmwmgH37VhkaM5lMC2sL7bod_uOo0VxatuOekhYxdmkci38SzbsnZHkN-ho/s1600/boosters.jpg"
-  },
-  {
-    "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
-    "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
-    "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Apr 2026 18:15:00 +0530",
-    "timestamp": 1776775500.0,
-    "isoDate": "2026-04-21T12:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcErEs-NVQwFX9tnOmYqQrfDjLm6WUB5jr8ltsA6bMOlVwmDwzBb5RbYAidS2jxdCPQ9RJtsgl453b7KbY8z_6tOjs0VIA7vF8LjM2OJqkZW8c1IM6TYwToxxp4dk8O0KiozATn5L4U40n2HK-Nya7tcimt1exRy9ZtYnri0XyMuM55W5AbC_8EAE0oDQC/s1600/android-nfc.jpg"
   }
 ]
