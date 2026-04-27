@@ -1,5 +1,27 @@
 [
   {
+    "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+    "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
+    "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web. \"Based on current evidence, we believe this dat…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 27 Apr 2026 19:49:00 +0530",
+    "timestamp": 1777299540.0,
+    "isoDate": "2026-04-27T14:19:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWLDpoCXOE_C970Jb9YXSPl2DIDXlL2K2ZDch28huIDzQhLoliuasxjBz3mmCWcDe2u136HN7pDJUu0XBjVkgP6lQJSQTRL4VU_jqhXNwQyb8xLdDD8-9WKQxGp7eT_7WzNpqYPplV1nvvSF5cPwsT3q88d-52g7iU_hP9pxCoU5muOhBTqnTHgGl8Scr8/s1600/Checkmarx.jpg"
+  },
+  {
+    "title": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
+    "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how easy some attacks still are. Most of it f…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 27 Apr 2026 19:00:00 +0530",
+    "timestamp": 1777296600.0,
+    "isoDate": "2026-04-27T13:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1eEqmWavzJwy68cdm3DB_l6dZO3ja-RjrtStTMh8_AA5AwWVDhwqEHJIYOPo98lAQ1yDrMZL1Yl2LxeSbk25vsQQI7csJuilXZRo-frfCj9ULE507sQBgvEBM0Y_RkYAWtUteoShXMRAD70JhGRjah1cBzZCew3meQp5xP5-Jv72-ZI4veiUa-aJnMYAK/s1600/cybrecap.jpg"
+  },
+  {
     "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
     "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
     "summary": "Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying vulnerabilities at scale and raising serious qu…",
@@ -306,27 +328,5 @@
     "timestamp": 1776842160.0,
     "isoDate": "2026-04-22T07:16:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ3NMjiDO5jGFykZtDgbq7FvB0nT8CMXMucn5cumu_V80blg8Wt6cklpQnCeG-EuX6oGvqmQKRJxFlmynTBatMk0zgDDsdurGDcs5rXScEF_jVNV10bEqJSJcj5YsAtLS_Pag8LRPrUZr4w9M-JJldxaYYMxtf3zrGia8QjUq-PtjLk_g4-qkkINXx4uGY/s1600/sandbox.jpg"
-  },
-  {
-    "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
-    "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
-    "summary": "Threat actors associated with The Gentlemen ransomware‑as‑a‑service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC. According to new research published by Check Point, the command-and-control …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Apr 2026 23:48:00 +0530",
-    "timestamp": 1776795480.0,
-    "isoDate": "2026-04-21T18:18:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilP_Mn9bBsagBDSKxEcqQsy6typf-qNaLt59kGWS1jLvc22Z9AC8lY93_TZaBAUN3bx7PHgaGX8xfPIIipQgGZd5DViTIHxpnAS2mJj4X9EfkFWwlwPznOEgqu38CmzzUa4y4jUh6x0RBMkCG7AwRwLU6PhLNbbnOO1bq5sJxGVIy0GZije7IuCYZNuS4C/s1600/botnet.jpg"
-  },
-  {
-    "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
-    "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
-    "summary": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged by them. The vulnera…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Apr 2026 21:16:00 +0530",
-    "timestamp": 1776786360.0,
-    "isoDate": "2026-04-21T15:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDEDMst3MIdrJaNrbo9p_7mjaF2nB_5UuQZR2JhNRNPw8h619BhPWYUZ0yYD-ix_jIluuAwjip4ho4huSuYqr4lXcperdn-4_tFKZ6yivKeOuDJd9O-1EDiwIvD1sPwRGL6keOFr5muqqXp2GWdOlpmi9_uQyREP_iiEz0ZoX-W4ACBSxYarYPb4CJTIY/s1600/hardware.jpg"
   }
 ]
