@@ -79,7 +79,7 @@
   {
     "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
     "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-    "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE…",
+    "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulne…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Fri, 24 Apr 2026 12:54:00 +0530",
