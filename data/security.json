@@ -1,5 +1,27 @@
 [
   {
+    "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+    "summary": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution. The vuln…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 28 Apr 2026 16:48:00 +0530",
+    "timestamp": 1777375080.0,
+    "isoDate": "2026-04-28T11:18:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yhcF_ELr7WEtcfHJTj6KXaci5hMzJMQzWlKpRwmiUDUDlRiLn5kZFpj4JkLxrqw0JBajNTAmlAxzIkQytW333ZnGJBKeGY-rBsLLrCPqATNkq3TvcBRbi61oogxsv5Z1a2REm5g7cpgfqKq_fnr2B1O1tPHDckGGiBA7YZY0Jcl7nWIzqaDYFGqEm3nZ/s1600/lerobots.jpg"
+  },
+  {
+    "title": "After Mythos: New Playbooks For a Zero-Window Era",
+    "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+    "summary": "When patching isn’t fast enough, NDR helps contain the next era of threats. If you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability di…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 28 Apr 2026 16:00:00 +0530",
+    "timestamp": 1777372200.0,
+    "isoDate": "2026-04-28T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc6SWl21t5zRKK4OvMIg-ZtrnsRwKm8E3dglWBxBpyC_vXdsbGazi1uRcQagObPghUhK33RtvJOFEZ5-W7jCVBV36HOC-iepqOkjgHuvAHkmeoKRvMw-IJ7Cq8KUV5iBwVg-1yLJ7XmTGLab6a4ECZ11eGP8lCOLORbJcng1onSTv_L2aDYHSVmNCMjw/s1600/corelight.jpg"
+  },
+  {
     "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
     "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
     "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy. Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored t…",
@@ -306,27 +328,5 @@
     "timestamp": 1776871680.0,
     "isoDate": "2026-04-22T15:28:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptXaD_Im0Bee0znCFTtBnOBEGGfeP-lS85crmRfAsd5-sMOsHstg9jATLVQOSJF2tiQQ6qkQ2ZWK98foU4WIQU_tHja8H882jF-_oiA5UGh-iG0-ByeaGfBbjDGid-FkfsNfKQUljfBsgejRsHBiBeX1DXRbjf1ohM1uhZiKdsjpBaH_0lYylOWSA9itt/s1600/linux.jpg"
-  },
-  {
-    "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-    "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-    "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026. Dubbed Lotus Wiper, the novel file wiper has been used in a dest…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 22 Apr 2026 16:25:00 +0530",
-    "timestamp": 1776855300.0,
-    "isoDate": "2026-04-22T10:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhANfDCr_4asg41Zj98h_tyRYig7XZGWHyCgPXHcVUvax_31CDUNrmrUp9rBFZK0u0Ai97i5pUlapu4ePRoBQAzvxt-KX3u80dTOjzyPPOOGzuCUmBZgaczzHisujoEXmfO08HtxqTbkAYBRI7JdBKffmATJHHM4uDe2RDsPyC11CkgenulBnQ7ZhyH8m-t/s1600/wiper-malware.jpg"
-  },
-  {
-    "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
-    "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-    "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents. The more worryin…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 22 Apr 2026 16:11:36 +0530",
-    "timestamp": 1776854496.0,
-    "isoDate": "2026-04-22T10:41:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeaSL6v6uahfzJpHJb0ATKZ7cbexnfYIayT74IyU1S-7f3T-4gfnWowlobm5RH4ZYrsIdeNq_OOHGxp2LbU-aELaO9RbYa15MfKN38-ZQPGhrgH0PYCsVIucG95SSw-WCzzo9eUhITn4A3txsa8H59XhTcAaOObC0r-Es_7i0RH8aDo_qhZ45MfaOTVF2t/s1600/reco.png"
   }
 ]

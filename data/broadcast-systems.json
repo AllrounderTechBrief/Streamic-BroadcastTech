@@ -1,5 +1,27 @@
 [
   {
+    "title": "Meet the… chief marketing officer",
+    "link": "https://www.tvbeurope.com/business/people/meet-the-chief-marketing-officer-2",
+    "summary": "Simon Frost, chief marketing officer at Appear, tells TVBEurope why media and entertainment's uniquely collaborative approach is key to driving the industry forward The post Meet the… chief marketing officer appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 28 Apr 2026 10:32:24 +0000",
+    "timestamp": 1777372344.0,
+    "isoDate": "2026-04-28T10:32:24+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Simon-Frost-copy-726x548.jpg"
+  },
+  {
+    "title": "Global ‘treasure hunt’ hopes to unearth long lost Eurovision footage",
+    "link": "https://www.tvbeurope.com/eurovision-2023/global-treasure-hunt-hopes-to-unearth-long-lost-eurovision-footage",
+    "summary": "A worldwide search is underway to find the two missing magnum opus performances from Lugano 1956 and Copenhagen 1964 The post Global ‘treasure hunt’ hopes to unearth long lost Eurovision footage appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 28 Apr 2026 10:03:16 +0000",
+    "timestamp": 1777370596.0,
+    "isoDate": "2026-04-28T10:03:16+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/Eurovision-2026-726x408.jpg"
+  },
+  {
     "title": "IBC2026 Innovation Awards open for nominations",
     "link": "https://www.tvbeurope.com/business/ibc2026-innovation-awards-open-for-nominations",
     "summary": "The annual awards recognise outstanding technological achievement and collaboration in the media and entertainment industry The post IBC2026 Innovation Awards open for nominations appeared first on TVBEurope.",
@@ -251,27 +273,5 @@
     "timestamp": 1776853002.0,
     "isoDate": "2026-04-22T10:16:42+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Marina-Elderton-Head-Shot.avif"
-  },
-  {
-    "title": "Bitmovin and Layercake integration drives end-to-end media orchestration",
-    "link": "https://www.tvbeurope.com/media-management/bitmovin-and-layercake-integration-drives-end-to-end-media-orchestration",
-    "summary": "The combined solution supports OTT streaming, live sports, simulcast workflows and enterprise video, aiming to deliver a flexible and scalable foundation for modern media operations The post Bitmovin and Layercake integration drives end-to-…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 22 Apr 2026 09:25:42 +0000",
-    "timestamp": 1776849942.0,
-    "isoDate": "2026-04-22T09:25:42+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Layercake-Bitmovin-Streamcake-Integration-copy-726x496.jpg"
-  },
-  {
-    "title": "Adobe deploys on-device Speechmatics STT for Premiere",
-    "link": "https://www.tvbeurope.com/artificial-intelligence/adobe-deploys-on-device-speechmatics-stt-for-premiere",
-    "summary": "The integration provides 'near cloud' accurate on-device transcription locally, aiming to ensure security, accuracy and faster content creation The post Adobe deploys on-device Speechmatics STT for Premiere appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 22 Apr 2026 08:43:25 +0000",
-    "timestamp": 1776847405.0,
-    "isoDate": "2026-04-22T08:43:25+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2025/10/shutterstock_2284126663.artificialintelligence_1_68-726x484.jpg"
   }
 ]
