@@ -1,5 +1,16 @@
 [
   {
+    "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+    "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+    "summary": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done. That assumption is wrong. It is also a major reason Zero Trust prog…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 28 Apr 2026 17:28:00 +0530",
+    "timestamp": 1777377480.0,
+    "isoDate": "2026-04-28T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrVD0Q_dTvO3tooHYWKp7i_lkLd6h30GSv_DDv4jIb_KZDY5heV39R01GFN6MWEq1JsilHFrd7EtDOBkmlkvXYAb7-w51A1SDN3AAiEAbuq7ZnNREakyHouZPVBMNhk_HnEOK8D7H5m51A2zcUvAvDjmPnrrzeZI_nQHFao1QbljV4ortyzuqbXsNR35c/s1600/everfox.jpg"
+  },
+  {
     "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
     "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
     "summary": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution. The vuln…",
@@ -317,16 +328,5 @@
     "timestamp": 1776879180.0,
     "isoDate": "2026-04-22T17:33:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdq7inTckksldfLXx5JPM1spcmvj-W0C5jvCNGSfvUlWfhmFERkPhE9WNRTkTib4uZFsKKn2lBvxnhsZbEaOnGKI4pkSKu8kpyBn7VEsY3BbVN5ZklAoliWNZC-b526mJbr5xiYxKwRFXB8pnV2K-H5ww5mG3_1GrWjgvrsnqJ2EJu1gZJ15-D29njRY9/s1600/npm.jpg"
-  },
-  {
-    "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
-    "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
-    "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia. \"The malware uses the legitimate Microsoft Graph API and Outlook mailb…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 22 Apr 2026 20:58:00 +0530",
-    "timestamp": 1776871680.0,
-    "isoDate": "2026-04-22T15:28:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptXaD_Im0Bee0znCFTtBnOBEGGfeP-lS85crmRfAsd5-sMOsHstg9jATLVQOSJF2tiQQ6qkQ2ZWK98foU4WIQU_tHja8H882jF-_oiA5UGh-iG0-ByeaGfBbjDGid-FkfsNfKQUljfBsgejRsHBiBeX1DXRbjf1ohM1uhZiKdsjpBaH_0lYylOWSA9itt/s1600/linux.jpg"
   }
 ]
