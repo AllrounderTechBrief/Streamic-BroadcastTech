@@ -1,5 +1,38 @@
 [
   {
+    "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+    "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+    "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy. Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 28 Apr 2026 13:27:00 +0530",
+    "timestamp": 1777363020.0,
+    "isoDate": "2026-04-28T07:57:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtGdvCIS6jOvz5WvlLwD34DqwHSyM4DaERfLDinlvQ4UfRqBUsjPp3o-sOVZL-gfqCHrsz53BMM3-fdFlaCLtMLshTfU9ncVM4qqkF9dzjsi9sF8XdMlbXvJSpDUSXdP_h4KN01TbwhT-10z626gUmlgrE4MlyM5lBTmZDKkB-g-xoMVgDFmM0b5sCCzQr/s1600/covid-hacker.png"
+  },
+  {
+    "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+    "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+    "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privilege…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 28 Apr 2026 12:07:00 +0530",
+    "timestamp": 1777358220.0,
+    "isoDate": "2026-04-28T06:37:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YomH2AGnUSAePfyyvEMXCbULukirvclzEJ6gnsm30Y2PApuarWfCLpKrBng3qYhhINWPwn99rVtdqKcEtbnVR9jkXkpBY-vDByDzMmZgLPPPrqyodmgqBCfR3ojF1tbyaFHQxIdr8voZgDugagnBymAchRR99uUm_0btEdWYeir8B6njw6Q1lPTcugcB/s1600/azure.jpg"
+  },
+  {
+    "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+    "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+    "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 28 Apr 2026 11:20:00 +0530",
+    "timestamp": 1777355400.0,
+    "isoDate": "2026-04-28T05:50:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPU-2lLUg__kJUnPm1HSRP0cTelgKBaXgKDq4ODhX0XTKI83sddz2F_EHiOmoxnTYIkIFYIbFh8JLAMp6lqfK39czq_e1G5Ixe-Y53_-kXBSk0fqVZV6jFpECe1JjAy3ZD3MmnJ71jpZHuPpbNRjB4x7SsmfHNUCMVyzQiST7CTc9m3qteMc4zJ2U_GXo/s1600/windows-exploit.jpg"
+  },
+  {
     "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
     "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
     "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web. \"Based on current evidence, we believe this dat…",
@@ -295,38 +328,5 @@
     "timestamp": 1776854496.0,
     "isoDate": "2026-04-22T10:41:36+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeaSL6v6uahfzJpHJb0ATKZ7cbexnfYIayT74IyU1S-7f3T-4gfnWowlobm5RH4ZYrsIdeNq_OOHGxp2LbU-aELaO9RbYa15MfKN38-ZQPGhrgH0PYCsVIucG95SSw-WCzzo9eUhITn4A3txsa8H59XhTcAaOObC0r-Es_7i0RH8aDo_qhZ45MfaOTVF2t/s1600/reco.png"
-  },
-  {
-    "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-    "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-    "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 22 Apr 2026 14:59:00 +0530",
-    "timestamp": 1776850140.0,
-    "isoDate": "2026-04-22T09:29:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYMuDYXH3vQ6ycJCKfikptBR0jdQdnf-s36gDb0LYx3gvMwQOQLrt072KY5GZ0T2GRhyphenhyphenrfIg5qcCqjE0J_PtKQ1P409j_veWwKYoGsGssQcTotxI2-Dl8akDSyPif_j4LgFL3kWI6pvWKX5QBjsnIZIHdFzlAIRgxspuS4W0Ywe-Z63zmIyL7X39CG_3Ng/s1600/dotnet.jpg"
-  },
-  {
-    "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-    "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-    "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic DNS-based command-and-control server ove…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 22 Apr 2026 13:28:00 +0530",
-    "timestamp": 1776844680.0,
-    "isoDate": "2026-04-22T07:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHPkb7rlS_ueovJaV3s5KxgSQFfHhuZhvW8R8L9wG8j-trZvnmusj4EGvkOPah_XSqgJDLIiRWozv7RtA3o_1VaHYWnaH77PH2kOg2FYkc60uIc6WTf6frjbUp3IwhtB038_wojAl7G5OxcC4aSy5kLF48ssz_3xqLCD7bDbg6_i-RdY8tLvjxlj4Xc0o/s1600/indian-banks.jpg"
-  },
-  {
-    "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-    "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-    "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring system. \"Sandbox es…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 22 Apr 2026 12:46:00 +0530",
-    "timestamp": 1776842160.0,
-    "isoDate": "2026-04-22T07:16:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ3NMjiDO5jGFykZtDgbq7FvB0nT8CMXMucn5cumu_V80blg8Wt6cklpQnCeG-EuX6oGvqmQKRJxFlmynTBatMk0zgDDsdurGDcs5rXScEF_jVNV10bEqJSJcj5YsAtLS_Pag8LRPrUZr4w9M-JJldxaYYMxtf3zrGia8QjUq-PtjLk_g4-qkkINXx4uGY/s1600/sandbox.jpg"
   }
 ]
