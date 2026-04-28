@@ -1,5 +1,16 @@
 [
   {
+    "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+    "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+    "summary": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery im…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 28 Apr 2026 19:31:00 +0530",
+    "timestamp": 1777384860.0,
+    "isoDate": "2026-04-28T14:01:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji1Auw0eR5oiVkEiB8JPzjSCaFsUUiAOfNHrcsOzO4DElBB4gbQ20uu3p69nojIkLsgxZOj81fa7fK_dchUAx0WINAGMq3X0VSA7LH_Isc1hPAvls76rdLeSYCn40zw8P2xAikVwxb_pclaNQXER8G7nzPO41LAl0-ELu-i60_RLl7CLCWcC9gGrEC8oXw/s1600/vect.gif"
+  },
+  {
     "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
     "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
     "summary": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done. That assumption is wrong. It is also a major reason Zero Trust prog…",
@@ -317,16 +328,5 @@
     "timestamp": 1776880500.0,
     "isoDate": "2026-04-22T17:55:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimocxAyADkuC5qBKZquZhHtUaDSArR1yrr0eRW7dQ_qo4yJpHxj2VYF0qQBxxYfhwOv5g3PJ6raoVwGHrns8DiRFppR_OPFhc2NUoVxlMc0W3fwVyR8J0daGZ_a8IOSuqL1kXJmY6Sj1bvqJ7OwkZfJQB2Cha4WldeRwCcAopoTllcER15ca3eFwsibt6i/s1600/kics.jpg"
-  },
-  {
-    "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
-    "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
-    "summary": "Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens. The supply chain worm has been detected by both Soc…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 22 Apr 2026 23:03:00 +0530",
-    "timestamp": 1776879180.0,
-    "isoDate": "2026-04-22T17:33:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdq7inTckksldfLXx5JPM1spcmvj-W0C5jvCNGSfvUlWfhmFERkPhE9WNRTkTib4uZFsKKn2lBvxnhsZbEaOnGKI4pkSKu8kpyBn7VEsY3BbVN5ZklAoliWNZC-b526mJbr5xiYxKwRFXB8pnV2K-H5ww5mG3_1GrWjgvrsnqJ2EJu1gZJ15-D29njRY9/s1600/npm.jpg"
   }
 ]
