@@ -1,5 +1,27 @@
 [
   {
+    "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+    "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+    "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking about AI writing better phishing emails …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 29 Apr 2026 17:32:00 +0530",
+    "timestamp": 1777464120.0,
+    "isoDate": "2026-04-29T12:02:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8vcicU2DANrmyA4GRttWV5sb4GPYdppuZax9v279s90O_uXz10MvgxpTyOR9s-tZoccR96ph-c7hZOwXORyLBYdWEsn3zCkrT_ivf6ZVApdMY6TL6jarUO4rNjR9nfc7XPTnmc6ttcKs_9aGOsOK4RoEnliEqVYrcOtL_d7Zys-51KZosLtWtlsOX4mo/s1600/thn.jpg"
+  },
+  {
+    "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+    "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+    "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\" Crickets. The…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 29 Apr 2026 17:00:00 +0530",
+    "timestamp": 1777462200.0,
+    "isoDate": "2026-04-29T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher9s_mKSWufl-S-lAJfV_7PalFTxuPLyiublEI1g0S4mOPLkr21X8SDIXB8fo-hbUXOf07J8lXp7esCsDNp3d5lJ33kZam2mnpQWQ5jG1S56U5WyfuB12Igvk2bFrUHxlDu7z4NVom_3yHR21GMcQHCoF6MEg8oXdkm4iJcygaRtcBwoTh0Sd7umE0cph/s1600/xmcyber.jpg"
+  },
+  {
     "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
     "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
     "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions, accor…",
@@ -306,27 +328,5 @@
     "timestamp": 1776951720.0,
     "isoDate": "2026-04-23T13:42:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
-    "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes. The supply chain is messy. Packages you did not check are stealing …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 23 Apr 2026 18:47:00 +0530",
-    "timestamp": 1776950220.0,
-    "isoDate": "2026-04-23T13:17:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg"
-  },
-  {
-    "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-    "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-    "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 23 Apr 2026 17:33:00 +0530",
-    "timestamp": 1776945780.0,
-    "isoDate": "2026-04-23T12:03:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirgCFjBm7wVU1Nve1GwsT-mX4Fm9C2OB25FN0xsgQxB5H1y0XN-I4TrfFH3f47uWBie1-yNBz_K2tuml0FOagCnaxI5xQvqoVbpzOUU6bCoaBZLohQWPSWF4r2YSEXIQKt3FRdoSXjvAk8OTmysTV4uoPD87y-3Boh7UzcJoUFIQxkmB576KIDMtU0YHDx/s1600/miggo-webinar.jpg"
   }
 ]
