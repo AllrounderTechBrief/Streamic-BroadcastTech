@@ -22,6 +22,17 @@
     "imageUrl": ""
   },
   {
+    "title": "Enabling agent-driven video workflows with the Bitmovin CLI",
+    "link": "https://bitmovin.com/blog/agent-driven-video-workflows-bitmovin-cli/",
+    "summary": "TL;DR Most video workflows are automated in parts. Encoding jobs run on one system, Player configuration lives somewhere else, and playback performance data requires yet another tool to query. The pieces exist, they just aren’t connected.Th…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Thu, 23 Apr 2026 16:47:36 +0000",
+    "timestamp": 1776962856.0,
+    "isoDate": "2026-04-23T16:47:36+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/04/image-1.jpeg"
+  },
+  {
     "title": "Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen",
     "link": "https://blog.cloudflare.com/making-rust-workers-reliable/",
     "summary": "Panics in Rust Workers were historically fatal, poisoning the entire instance. By collaborating upstream on the wasm‑bindgen project, Rust Workers now support resilient critical error recovery, including panic unwinding using WebAssembly Ex…",
@@ -86,6 +97,17 @@
     "timestamp": 1776623820.0,
     "isoDate": "2026-04-19T18:37:00+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/17/Figure-1-EngineLab-AIs-project-management-interface.png"
+  },
+  {
+    "title": "Everything you need to know about Apple AV1 Support",
+    "link": "https://bitmovin.com/blog/apple-av1-support/",
+    "summary": "Apple made waves across the video encoding and streaming communities when they announced the iPhone 15 Pro and 15 Pro Max would have a dedicated AV1 hardware decoder, making them the first Apple devices with official AV1 codec support. We’v…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Sat, 18 Apr 2026 20:35:21 +0000",
+    "timestamp": 1776544521.0,
+    "isoDate": "2026-04-18T20:35:21+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2023/06/iPhone_AV1_decoder.jpg"
   },
   {
     "title": "MXL is the foundation. Here’s what it takes to build the house",
@@ -176,6 +198,17 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1nKDxB6OkUr1fpVKGWEugC/8fc4dbf0bd1ec45e30010a223982487e/image2.png"
   },
   {
+    "title": "Improving ad placement with AI for better viewer experiences",
+    "link": "https://bitmovin.com/blog/ai-ad-placement-score-scene-level-streaming/",
+    "summary": "You’re watching a key moment in a show. The tension is building, the scene is about to peak, and just as it does, the video cuts to an ad. It’s a familiar experience, and one that immediately breaks immersion, not because the ad exists, but…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Thu, 16 Apr 2026 17:03:44 +0000",
+    "timestamp": 1776359024.0,
+    "isoDate": "2026-04-16T17:03:44+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/04/ad-opportunity-visual.png"
+  },
+  {
     "title": "Cloudflare’s AI Platform: an inference layer designed for agents",
     "link": "https://blog.cloudflare.com/ai-platform/",
     "summary": "We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.",
@@ -264,6 +297,17 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/02/Figure-1-High-level-architecture_NDI.png"
   },
   {
+    "title": "Hackathon spotlight: what happens when smart chunking meets per-shot encoding",
+    "link": "https://bitmovin.com/blog/smart-chunking-per-shot-encoding/",
+    "summary": "As distributed encoding workflows scale, development teams must increasingly reason about quality and efficiency within system-defined segmentation models. Parallel processing strategies make large-scale VOD encoding predictable and perform…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Mon, 13 Apr 2026 14:50:51 +0000",
+    "timestamp": 1776091851.0,
+    "isoDate": "2026-04-13T14:50:51+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/04/image-4.png"
+  },
+  {
     "title": "Unlocking next generation audio production with MPEG-H on AWS",
     "link": "https://aws.amazon.com/blogs/media/unlocking-next-generation-audio-production-with-mpeg-h-on-aws/",
     "summary": "In this post, learn the implementation of cloud-based NGA production workflows using MPEG-H Audio on AWS. By combining Jünger Audio's audio processing expertise, MainConcept's encoding capabilities, Techex's stream processing platform, and …",
@@ -273,6 +317,39 @@
     "timestamp": 1776021438.0,
     "isoDate": "2026-04-12T19:17:18+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/01/Figure-1-Solution-architecture-and-signal-workflow.png"
+  },
+  {
+    "title": "ICYMI: Q1 2026 Product Updates Across Playback, Encoding, and AI Scene Analysis",
+    "link": "https://bitmovin.com/blog/icymi-q1-2026-streaming-product-updates/",
+    "summary": "Q1 2026 brought meaningful upgrades across Bitmovin's full product stack. From extended Observability into Dolby workflows and a fully operational Playback Score, to smarter ad placement powered by AI Scene Analysis. Here's everything that …",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Thu, 09 Apr 2026 11:48:53 +0000",
+    "timestamp": 1775735333.0,
+    "isoDate": "2026-04-09T11:48:53+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Hackathon spotlight: live encoding on a sovereign cloud with Scaleway",
+    "link": "https://bitmovin.com/blog/hackathon-live-encoding-sovereign-cloud/",
+    "summary": "For many streaming teams, where live encoding runs is no longer just a deployment choice, it is a constraint driven by data residency, compliance, and infrastructure control. Hyperscaler environments do not always meet these requirements, p…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Wed, 08 Apr 2026 08:33:04 +0000",
+    "timestamp": 1775637184.0,
+    "isoDate": "2026-04-08T08:33:04+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Should You Build or Buy Video Observability? The TCO for Streaming Services and OEMs",
+    "link": "https://bitmovin.com/blog/build-vs-buy-video-analytics-tco/",
+    "summary": "Building video observability in-house sounds like the ultimate control play, until you factor in the real cost. This post breaks down the true TCO of building vs. buying a video analytics and observability solution, with tailored scenarios …",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Tue, 07 Apr 2026 15:05:54 +0000",
+    "timestamp": 1775574354.0,
+    "isoDate": "2026-04-07T15:05:54+00:00",
+    "imageUrl": ""
   },
   {
     "title": "How NFL Next Gen Stats Built the NFL IQ AI Assistant with Amazon Quick",
@@ -297,6 +374,17 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/06/header-blog.png"
   },
   {
+    "title": "Bitmovin and Cloudflare Bring Media over QUIC (MoQ) to Life",
+    "link": "https://bitmovin.com/blog/media-over-quic-bitmovin-cloudflare/",
+    "summary": "Live streaming has always faced an uncomfortable trade-off: massive scale or sub-second latency, rarely both, and never cheaply. Media over QUIC (MoQ) is the emerging IETF standard designed to finally break that compromise. Built on QUIC an…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Thu, 02 Apr 2026 15:26:10 +0000",
+    "timestamp": 1775143570.0,
+    "isoDate": "2026-04-02T15:26:10+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/04/MoQ-demo-with-Bitmovin-Cloudflare-player-screenshot--scaled.png"
+  },
+  {
     "title": "Live streaming localization and accessibility using AWS Media Services",
     "link": "https://aws.amazon.com/blogs/media/live-streaming-localization-and-accessibility-using-aws-media-services/",
     "summary": "This blog post provides a comprehensive overview of current streaming technology for localization and accessibility. It helps you evaluate live streaming localization technology and choose cost-effective, proven, integrated, deployable, and…",
@@ -306,6 +394,28 @@
     "timestamp": 1775049090.0,
     "isoDate": "2026-04-01T13:11:30+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
+  },
+  {
+    "title": "Hackathon Spotlight: Rethinking Workflow Navigation with AI Agents like B.O.S.S",
+    "link": "https://bitmovin.com/blog/hackathon-ai-question-to-action-streaming-workflows/",
+    "summary": "Working with video workflows today means dealing with a lot of moving parts. Encoding, playback, and observability each come with their own APIs, documentation, and ways of working. The capability is there, but getting to the right answer s…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Mon, 30 Mar 2026 14:48:00 +0000",
+    "timestamp": 1774882080.0,
+    "isoDate": "2026-03-30T14:48:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "From Origin to Screen: The Case for Complete Streaming Observability",
+    "link": "https://bitmovin.com/blog/from-origin-to-screen-the-case-for-complete-streaming-observability/",
+    "summary": "For streaming platforms, delivery quality is a major revenue and brand issue. Buffering, slow player startup times, and black screens frustrate end users and lead to churn. The pressure is on ops and site reliability teams to find and fix i…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Wed, 25 Mar 2026 18:36:40 +0000",
+    "timestamp": 1774463800.0,
+    "isoDate": "2026-03-25T18:36:40+00:00",
+    "imageUrl": ""
   },
   {
     "title": "How Sony Pictures Networks India Delivered Personalized Ad Insertion at Scale on AWS",

@@ -1,5 +1,16 @@
 [
   {
+    "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 29 Apr 2026 14:16:00 +0530",
+    "timestamp": 1777452360.0,
+    "isoDate": "2026-04-29T08:46:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1600/windows-logo.jpg"
+  },
+  {
     "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
     "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
     "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug b…",
@@ -317,16 +328,5 @@
     "timestamp": 1776943800.0,
     "isoDate": "2026-04-23T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzSPo6TkrJjcTvsuM1O71fiiZ7gnKw4PqqtKu_TeAaZNr5qAEfsfVvoZv64F7EFULRIv8SKePHZehY_0g9AqyqlnMdTPF-OLf1S9RwmB-edOgYKEg1Llw-6m87CQBglHxbK3oS0Brnwc9_x_oi56XGuxe1V9vN0KfoY9cUmU4mplEHeqQxO-5byx79YY/s1600/picus-main.jpg"
-  },
-  {
-    "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-    "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-    "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. \"The group wields a wide array of tools mostly written in Go, using i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 23 Apr 2026 14:34:00 +0530",
-    "timestamp": 1776935040.0,
-    "isoDate": "2026-04-23T09:04:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPZEHQ2ePgeeD1JO3nqkHDxu5XWd53XZ8GsPxgX5Gl3vY-isf7bdT1_8ZGbMGOwic5gJKYXp0G5rIiSacQvidnb3_voREgqsyanhwo0uQs1HLNXACrsV2tLmHXlxA4FizErdbwb5o35MEDIrZKMkDsAAzIVPt0g6pTMbsZSN7SIwTEozmgX7MO26XxapY/s1600/chinese-hacking.jpg"
   }
 ]
