@@ -1,5 +1,16 @@
 [
   {
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "link": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "summary": "Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 30 Apr 2026 13:00:00 GMT",
+    "timestamp": 1777554000.0,
+    "isoDate": "2026-04-30T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5Y4grvxbS3wPfLYOGPV0PE/230d2f439ff9ea8cc75fe6cde9469792/image8.png"
+  },
+  {
     "title": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
     "link": "https://blog.cloudflare.com/q1-2026-internet-disruption-summary/",
     "summary": "The first quarter of 2026 saw a surge in Internet disruptions, from nationwide shutdowns in Uganda and Iran to unprecedented drone strikes on cloud infrastructure. We explore the data behind these events using Cloudflare Radar.",
@@ -273,17 +284,6 @@
     "timestamp": 1776319200.0,
     "isoDate": "2026-04-16T06:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4aGV0BVpbrj3ql5TubPMXx/b85351f13c5fae93a27d11e20a5fc11e/BLOG-3210_2.png"
-  },
-  {
-    "title": "Project Think: building the next generation of AI agents on Cloudflare",
-    "link": "https://blog.cloudflare.com/project-think/",
-    "summary": "Announcing a preview of the next edition of the Agents SDK — from lightweight primitives to a batteries-included platform for AI agents that think, act, and persist.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 15 Apr 2026 13:01:00 GMT",
-    "timestamp": 1776258060.0,
-    "isoDate": "2026-04-15T13:01:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6yokfTVcg8frH4snf7c4sp/2306d721650b4956b28e2198f7cf915d/BLOG-3200_2.png"
   },
   {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
