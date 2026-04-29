@@ -1,5 +1,27 @@
 [
   {
+    "title": "SAP npm Packages Compromised by “Mini Shai-Hulud” Credential-Stealing Malware",
+    "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+    "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Goo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 29 Apr 2026 21:56:00 +0530",
+    "timestamp": 1777479960.0,
+    "isoDate": "2026-04-29T16:26:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoviEyxWTNHg8ARy1a-r9k4-LpHIhfCKGFL71YHc6H2v8XiyHbkvdsU26IC8jHa304gwz8zE9dXXWcL8NaA5X5KRLIWFDpxB1hjQU1af_B6uGEEr3i_RNOub2DSShyphenhyphenBXp0C3p6343TffijodxMsHVFQ-Dc9jPPApgk1uluKVP8NzUHtx1yd50YLkSw6z6G/s1600/saps.jpg"
+  },
+  {
+    "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
+    "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+    "summary": "Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM). The package in question is \"@validate-sdk/v2,\" which …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 29 Apr 2026 20:13:00 +0530",
+    "timestamp": 1777473780.0,
+    "isoDate": "2026-04-29T14:43:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoAi4Ild7Dz2KtvraUPjGBgNHYScbOo2DzPh9iUn8IirHe8VYws7uF0A4wf2803kNMgLzCWg0oOZwXcdzRUx5-sbBPiABEN05-RtXTa2vMqOSa52E4FPELQba8QcIQBPXl6hOHuyN7cHldbTMMvxnA4UhxDk1Huh2W85I0EJeWdscqF5NdwRLjbtOXn7Zj/s1600/korean-hackers.jpg"
+  },
+  {
     "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
     "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
     "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking about AI writing better phishing emails …",
@@ -306,27 +328,5 @@
     "timestamp": 1777015440.0,
     "isoDate": "2026-04-24T07:24:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQrFbHBSUJCgc3WB8IsBaYhvbOnk7jwkU3MRHO7YVAFZBBwi7LE2OZzC_oddjsfbh_YwW7czfQ0FzCpHyztt-N8po5TkqZqsOhm_LpW4dxmzaDtGkud-vho2R409maf5r_QBAPjGUpfFShbENQ-qIpwaQ0eNmBgD7U-Pgu4uFgSzGRxt6O7kKLAg_PyVg/s1600/lmdeploy.png"
-  },
-  {
-    "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-    "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-    "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent y…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 23 Apr 2026 23:46:00 +0530",
-    "timestamp": 1776968160.0,
-    "isoDate": "2026-04-23T18:16:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoBLtF5qmS63UuZJdrs4DtwoJRc6V3OK_4vUjCp-mHUs99AlJkzxcQgZH-tD0dFneYJHfBEumdGw42jcqcYHYiqmNHBtHZVB7m83pxPakcbupcdcRmDzg2fedK4doHPUwOfGoqY2a44VUwgK1g8cyZSgpMmpzcbWuBrzxvdalA9bkt8_26WkdIfZy6qqa/s1600/helpdesk.jpg"
-  },
-  {
-    "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-    "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-    "summary": "Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket. \"The affec…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 23 Apr 2026 19:12:00 +0530",
-    "timestamp": 1776951720.0,
-    "isoDate": "2026-04-23T13:42:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg"
   }
 ]
