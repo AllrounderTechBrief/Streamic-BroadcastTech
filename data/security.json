@@ -1,5 +1,16 @@
 [
   {
+    "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
+    "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
+    "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has be…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 30 Apr 2026 14:54:00 +0530",
+    "timestamp": 1777541040.0,
+    "isoDate": "2026-04-30T09:24:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYpnBkrLNj-dAKcwAbvRIvfXg8YDXoO3yfrl3vvXBOBwo2zga2asWZ0at4FLcLbiqQ1N7BsYA2szKbuqeVLBkrD80tMqYguBbqvrhEude6Fe9ayQpNs-meP8h4-f6ReWVeIU0zYp31XU7K-Kgxm5OKdI77HPQWgTx41al_WH3gYkMjEoROl6zvXF8HPRf5/s1600/root.jpg"
+  },
+  {
     "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
     "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
     "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary com…",
@@ -317,16 +328,5 @@
     "timestamp": 1777031280.0,
     "isoDate": "2026-04-24T11:48:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFcKlAJD87JqpQgBraCHiotcX52rMft8iVqUuhlFlU-NTgMxjYfB2UQ0WLUbQ7yR_qCy9kvXJDFbZEHe10gEEOSUcKcUY6arDzLhyurrKlngubO7Lulc_nSHthxHv7WXqma34SDUl4o_F9Zw9N-1GQnTsxo3v-jO8eWTvRCx8hHmf5EaLCZMknYfMGpfcP/s1600/iphone.jpg"
-  },
-  {
-    "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
-    "link": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
-    "summary": "Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 24 Apr 2026 14:59:00 +0530",
-    "timestamp": 1777022940.0,
-    "isoDate": "2026-04-24T09:29:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheXZWhV-F6JpyIS7BshxCI158lslIFwx6XU9K15AoGDti8DVknLSrhAEc9HybQjSHfjfuKpGJ5by4EJamG4RV_7v8_SzlmhmSlxcfIBRaYX913E8f6-z0NQyMJ9g0VkszTUY726Csg6xWhwY16ygTe_JySvgj-JkaMyX4ZdM7yCuxRT_98lv22nywvy6r5/s1600/cyberattack.jpg"
   }
 ]
