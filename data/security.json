@@ -1,5 +1,16 @@
 [
   {
+    "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+    "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+    "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, Socket, and StepSecurity, t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 30 Apr 2026 22:01:00 +0530",
+    "timestamp": 1777566660.0,
+    "isoDate": "2026-04-30T16:31:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7hiQfVCFzoPBzfr5xqJ06qMjzv-zw_qiUcDTgyEM8RbEVk3PDztg9U5Vlkgvz6j7nX8ODtXwnTCC2wB78lupEmRjcxJTz74GJGSslsMQM-e5b8vG0W2gLFnbEzYAPKw05ZelkaNfy50VyLJeb-3EhwiGKfIP9qHNRpNG4MnFUnTBBOJ95vRJb-RbcFVxX/s1600/python.png"
+  },
+  {
     "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
     "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
     "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install…",
@@ -317,16 +328,5 @@
     "timestamp": 1777093680.0,
     "isoDate": "2026-04-25T05:08:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMgO4j_Nf0B9HdU4WtN1axBdJFNJgV6Xvb8pCk0kooK6_-gNIxfURSqLIJuuzaufzvoXVTkFFg9WfMkyHvu4h_DBQK4QMJ21JYdwWtLem-CSOgTEYFhXazp4aSPJJglbiZel1V5aatqMKFCXk3scw-3UmMzQPrmTn-CbgBBjpLu_i4TBfNyS2kgZSkreW/s1600/cisa-kev.jpg"
-  },
-  {
-    "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-    "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with a new m…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 24 Apr 2026 22:36:00 +0530",
-    "timestamp": 1777050360.0,
-    "isoDate": "2026-04-24T17:06:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL39ca_K84pnKcPSv77aXouF3t3HCOjjL1zFVEdeDE64LiUxQ2Het8xQeTeO0JZRHZE56SbG87psVmhYCbSyu5PE3FZiHrAIzm0zp8nfGKk7XwVTUUjpeZ7zDEZwuJaQkZp6Cl20WF7qkWDAuaOQW5-OtTQ1ZvjW4xhHB9HrC2O-C6pPPnE94gLqp1GZrI/s1600/cisco.jpg"
   }
 ]
