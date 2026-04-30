@@ -46,7 +46,7 @@
   {
     "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
     "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-    "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions, accor…",
+    "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions of cPa…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Wed, 29 Apr 2026 15:07:00 +0530",
