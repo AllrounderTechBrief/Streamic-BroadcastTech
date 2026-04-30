@@ -1,8 +1,19 @@
 [
   {
+    "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+    "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+    "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary com…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 30 Apr 2026 12:37:00 +0530",
+    "timestamp": 1777532820.0,
+    "isoDate": "2026-04-30T07:07:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg"
+  },
+  {
     "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
     "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-    "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Goo…",
+    "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, Onapsis, OX Security, SafeDep, Socket,…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Wed, 29 Apr 2026 21:56:00 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1777022940.0,
     "isoDate": "2026-04-24T09:29:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheXZWhV-F6JpyIS7BshxCI158lslIFwx6XU9K15AoGDti8DVknLSrhAEc9HybQjSHfjfuKpGJ5by4EJamG4RV_7v8_SzlmhmSlxcfIBRaYX913E8f6-z0NQyMJ9g0VkszTUY726Csg6xWhwY16ygTe_JySvgj-JkaMyX4ZdM7yCuxRT_98lv22nywvy6r5/s1600/cyberattack.jpg"
-  },
-  {
-    "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-    "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-    "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulne…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 24 Apr 2026 12:54:00 +0530",
-    "timestamp": 1777015440.0,
-    "isoDate": "2026-04-24T07:24:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQrFbHBSUJCgc3WB8IsBaYhvbOnk7jwkU3MRHO7YVAFZBBwi7LE2OZzC_oddjsfbh_YwW7czfQ0FzCpHyztt-N8po5TkqZqsOhm_LpW4dxmzaDtGkud-vho2R409maf5r_QBAPjGUpfFShbENQ-qIpwaQ0eNmBgD7U-Pgu4uFgSzGRxt6O7kKLAg_PyVg/s1600/lmdeploy.png"
   }
 ]
