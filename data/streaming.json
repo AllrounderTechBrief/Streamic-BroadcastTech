@@ -1,5 +1,16 @@
 [
   {
+    "title": "Code Orange: Fail Small is complete. The result is a stronger Cloudflare network",
+    "link": "https://blog.cloudflare.com/code-orange-fail-small-complete/",
+    "summary": "We have completed a massive engineering effort to make our infrastructure more resilient. Through new tools like Snapstone and the Engineering Codex, we've implemented safer configuration changes and automated best practices to prevent futu…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 01 May 2026 21:07:30 GMT",
+    "timestamp": 1777669650.0,
+    "isoDate": "2026-05-01T21:07:30+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/27Qu0u1iTXZ6MNI4GabAWs/b47737d63334808155e7dd8148818e06/3278-chart.png"
+  },
+  {
     "title": "Introducing Dynamic Workflows: durable execution that follows the tenant",
     "link": "https://blog.cloudflare.com/dynamic-workflows/",
     "summary": "Dynamic Workflows is a library that lets you route durable execution to tenant-provided code on the fly. Built on Dynamic Workers, it enables platforms to serve millions of unique workflows at near-zero idle cost.",
@@ -284,17 +295,6 @@
     "timestamp": 1776344460.0,
     "isoDate": "2026-04-16T13:01:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/35SxJbQfntIscpotc0GBt8/48ae11213d7483c9b488321baacf78e7/BLOG-3269_2.png"
-  },
-  {
-    "title": "AI Search: the search primitive for your agents",
-    "link": "https://blog.cloudflare.com/ai-search-agent-primitive/",
-    "summary": "AI Search is the search primitive for your agents. Create instances dynamically, upload files, and search across instances with hybrid retrieval and relevance boosting. Just create a search instance, upload, and search.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 16 Apr 2026 13:00:22 GMT",
-    "timestamp": 1776344422.0,
-    "isoDate": "2026-04-16T13:00:22+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1b8NdFL2HDBy8FqBHEI679/f17ed98d45fb9b42a616e0b464460489/BLOG-3240_2.png"
   },
   {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
