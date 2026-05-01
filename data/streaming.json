@@ -1,5 +1,16 @@
 [
   {
+    "title": "Introducing Dynamic Workflows: durable execution that follows the tenant",
+    "link": "https://blog.cloudflare.com/dynamic-workflows/",
+    "summary": "Dynamic Workflows is a library that lets you route durable execution to tenant-provided code on the fly. Built on Dynamic Workers, it enables platforms to serve millions of unique workflows at near-zero idle cost.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 01 May 2026 13:00:00 GMT",
+    "timestamp": 1777640400.0,
+    "isoDate": "2026-05-01T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3D8fGfZalW4N4h7QngR8tN/59ef281c194cfcba12ea6cfb6ec240d7/image2.png"
+  },
+  {
     "title": "Post-quantum encryption for Cloudflare IPsec is generally available",
     "link": "https://blog.cloudflare.com/post-quantum-ipsec/",
     "summary": "Cloudflare IPsec now has generally available support for post-quantum encryption via hybrid ML-KEM. We’ve confirmed interoperability with Cisco and Fortinet.",
@@ -20,6 +31,17 @@
     "timestamp": 1777554000.0,
     "isoDate": "2026-04-30T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5Y4grvxbS3wPfLYOGPV0PE/230d2f439ff9ea8cc75fe6cde9469792/image8.png"
+  },
+  {
+    "title": "How to build a streaming platform in a day with AI and Bitmovin",
+    "link": "https://bitmovin.com/blog/how-to-build-video-streaming-platform-ai-bitmovin/",
+    "summary": "Ever thought about building your own streaming service but didn’t have the time or the expertise to get started? That barrier is lower than it has ever been. Building a video streaming service still involves a lot of moving parts. Encoding …",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Thu, 30 Apr 2026 12:28:00 +0000",
+    "timestamp": 1777552080.0,
+    "isoDate": "2026-04-30T12:28:00+00:00",
+    "imageUrl": ""
   },
   {
     "title": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
@@ -275,17 +297,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1b8NdFL2HDBy8FqBHEI679/f17ed98d45fb9b42a616e0b464460489/BLOG-3240_2.png"
   },
   {
-    "title": "Deploy Postgres and MySQL databases with PlanetScale + Workers",
-    "link": "https://blog.cloudflare.com/deploy-planetscale-postgres-with-workers/",
-    "summary": "Learn how to deploy PlanetScale Postgres and MySQL databases via Cloudflare and connect Cloudflare Workers.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 16 Apr 2026 13:00:22 GMT",
-    "timestamp": 1776344422.0,
-    "isoDate": "2026-04-16T13:00:22+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5Tj4gJrV5hxlIWxlmoXVZe/7661c1e47c0c868b88301b5f4aca4441/BLOG-3213_2.png"
-  },
-  {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
     "link": "https://aws.amazon.com/blogs/media/distribute-ndi-content-from-aws-with-aws-elemental-mediaconnect/",
     "summary": "In this post, learn how to build a demonstration of low-latency live NDI video conversion to a transport stream in the AWS Cloud with MediaConnect.",
@@ -404,17 +415,6 @@
     "timeAgo": "Mon, 30 Mar 2026 14:48:00 +0000",
     "timestamp": 1774882080.0,
     "isoDate": "2026-03-30T14:48:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "From Origin to Screen: The Case for Complete Streaming Observability",
-    "link": "https://bitmovin.com/blog/from-origin-to-screen-the-case-for-complete-streaming-observability/",
-    "summary": "For streaming platforms, delivery quality is a major revenue and brand issue. Buffering, slow player startup times, and black screens frustrate end users and lead to churn. The pressure is on ops and site reliability teams to find and fix i…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Wed, 25 Mar 2026 18:36:40 +0000",
-    "timestamp": 1774463800.0,
-    "isoDate": "2026-03-25T18:36:40+00:00",
     "imageUrl": ""
   },
   {
