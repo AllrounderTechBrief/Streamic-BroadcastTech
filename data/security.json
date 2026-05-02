@@ -1,5 +1,16 @@
 [
   {
+    "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+    "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+    "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source code repository and that it began workin…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 02 May 2026 12:11:00 +0530",
+    "timestamp": 1777704060.0,
+    "isoDate": "2026-05-02T06:41:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ47NY9D4DSEZHqBNSGTjpmSJqwYVOzlIKGoG-0LTxSdIIDrMtyV2tOqRYcc-4kpxkE1UZ6nJhK4eXCGEsEmG6UcQeHn_YjAhRWXIAxo5yC75eUmLv3w5rur6SN6Qoee65gve-LgM0_3YGnAzQwTrQMTeTShRe_leh8_ImIlzU-Sgfy2kRqTcx5V-yG-3M/s1600/breach.jpg"
+  },
+  {
     "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
     "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
     "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts. The activity has been codenamed AccountDumpling by Gua…",
@@ -317,16 +328,5 @@
     "timestamp": 1777299540.0,
     "isoDate": "2026-04-27T14:19:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWLDpoCXOE_C970Jb9YXSPl2DIDXlL2K2ZDch28huIDzQhLoliuasxjBz3mmCWcDe2u136HN7pDJUu0XBjVkgP6lQJSQTRL4VU_jqhXNwQyb8xLdDD8-9WKQxGp7eT_7WzNpqYPplV1nvvSF5cPwsT3q88d-52g7iU_hP9pxCoU5muOhBTqnTHgGl8Scr8/s1600/Checkmarx.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
-    "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
-    "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how easy some attacks still are. Most of it f…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 27 Apr 2026 19:00:00 +0530",
-    "timestamp": 1777296600.0,
-    "isoDate": "2026-04-27T13:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1eEqmWavzJwy68cdm3DB_l6dZO3ja-RjrtStTMh8_AA5AwWVDhwqEHJIYOPo98lAQ1yDrMZL1Yl2LxeSbk25vsQQI7csJuilXZRo-frfCj9ULE507sQBgvEBM0Y_RkYAWtUteoShXMRAD70JhGRjah1cBzZCew3meQp5xP5-Jv72-ZI4veiUa-aJnMYAK/s1600/cybrecap.jpg"
   }
 ]
