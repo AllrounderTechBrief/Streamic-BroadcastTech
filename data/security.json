@@ -1,5 +1,16 @@
 [
   {
+    "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+    "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 03 May 2026 11:56:00 +0530",
+    "timestamp": 1777789560.0,
+    "isoDate": "2026-05-03T06:26:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1600/linux-root.jpg"
+  },
+  {
     "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
     "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
     "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source code repository and that it began workin…",
@@ -317,16 +328,5 @@
     "timestamp": 1777355400.0,
     "isoDate": "2026-04-28T05:50:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPU-2lLUg__kJUnPm1HSRP0cTelgKBaXgKDq4ODhX0XTKI83sddz2F_EHiOmoxnTYIkIFYIbFh8JLAMp6lqfK39czq_e1G5Ixe-Y53_-kXBSk0fqVZV6jFpECe1JjAy3ZD3MmnJ71jpZHuPpbNRjB4x7SsmfHNUCMVyzQiST7CTc9m3qteMc4zJ2U_GXo/s1600/windows-exploit.jpg"
-  },
-  {
-    "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
-    "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
-    "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web. \"Based on current evidence, we believe this dat…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 27 Apr 2026 19:49:00 +0530",
-    "timestamp": 1777299540.0,
-    "isoDate": "2026-04-27T14:19:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWLDpoCXOE_C970Jb9YXSPl2DIDXlL2K2ZDch28huIDzQhLoliuasxjBz3mmCWcDe2u136HN7pDJUu0XBjVkgP6lQJSQTRL4VU_jqhXNwQyb8xLdDD8-9WKQxGp7eT_7WzNpqYPplV1nvvSF5cPwsT3q88d-52g7iU_hP9pxCoU5muOhBTqnTHgGl8Scr8/s1600/Checkmarx.jpg"
   }
 ]
