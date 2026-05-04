@@ -1,5 +1,27 @@
 [
   {
+    "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
+    "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
+    "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The act…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 04 May 2026 23:36:00 +0530",
+    "timestamp": 1777917960.0,
+    "isoDate": "2026-05-04T18:06:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqa_ifaDYXI_GirxdHpZgSiE6fjnNdCmviv3QO9JsRvy1ddAWCRfoNd032ANB7pNfFMS4hLEwkfNHPHC5MNwkhK6XRjbe_y8qzWGpXRsdqhMnnUMGguScuIYtcUNQqQlmZkY4BUXy-ue6fAlor8LOfvEZNZrOq0JrIbOc2jXXAUBarqlodfdsIshRq7dXi/s1600/phishing-org.jpg"
+  },
+  {
+    "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+    "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+    "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central) is a secure, server-based managed file t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 04 May 2026 22:04:00 +0530",
+    "timestamp": 1777912440.0,
+    "isoDate": "2026-05-04T16:34:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvgdRkcdOwctclhM5XBvKXGGFrqpNsd7pJsR6Qk9QfhVd52KaiNWtY6kbWYbxzweFJDx5-sXo5UmIGJZ2yKbiSqntFDcYS7aDV_hUlAuNtcFzIPf_MDdqWq9eeyzZwJXx9__K5ynAXHc-7kJ6i66ifjuGrFqfLdn4-yDTvmL1oSZ-kVX2V9eoTq-xdiKa/s1600/moveit.jpg"
+  },
+  {
     "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
     "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
     "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent d…",
@@ -306,27 +328,5 @@
     "timestamp": 1777397940.0,
     "isoDate": "2026-04-28T17:39:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQf8Wzg1Ms0KVsO546uQuwlR3w_8qW1MQZExs5TgKCGHSNNS1UEnOITq-_y8HIrA_3n_gfq7Hm0IMb-XSRJSsGL1ncRPlPoyDX7cf_wFbEGAJCPkv6ZDBzjN1Nswe9-CMR3Tmn1F5KuVyWGdOkGEIbeI9R7zGKplJPofRFBx-Ru20JOGfAFEpiZOAlDBXh/s1600/hackers.jpg"
-  },
-  {
-    "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
-    "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
-    "summary": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery im…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 28 Apr 2026 19:31:00 +0530",
-    "timestamp": 1777384860.0,
-    "isoDate": "2026-04-28T14:01:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji1Auw0eR5oiVkEiB8JPzjSCaFsUUiAOfNHrcsOzO4DElBB4gbQ20uu3p69nojIkLsgxZOj81fa7fK_dchUAx0WINAGMq3X0VSA7LH_Isc1hPAvls76rdLeSYCn40zw8P2xAikVwxb_pclaNQXER8G7nzPO41LAl0-ELu-i60_RLl7CLCWcC9gGrEC8oXw/s1600/vect.gif"
-  },
-  {
-    "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
-    "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
-    "summary": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done. That assumption is wrong. It is also a major reason Zero Trust prog…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 28 Apr 2026 17:28:00 +0530",
-    "timestamp": 1777377480.0,
-    "isoDate": "2026-04-28T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrVD0Q_dTvO3tooHYWKp7i_lkLd6h30GSv_DDv4jIb_KZDY5heV39R01GFN6MWEq1JsilHFrd7EtDOBkmlkvXYAb7-w51A1SDN3AAiEAbuq7ZnNREakyHouZPVBMNhk_HnEOK8D7H5m51A2zcUvAvDjmPnrrzeZI_nQHFao1QbljV4ortyzuqbXsNR35c/s1600/everfox.jpg"
   }
 ]
