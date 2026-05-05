@@ -1,5 +1,16 @@
 [
   {
+    "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
+    "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
+    "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 05 May 2026 16:00:00 +0530",
+    "timestamp": 1777977000.0,
+    "isoDate": "2026-05-05T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg"
+  },
+  {
     "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
     "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
     "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans res…",
@@ -317,16 +328,5 @@
     "timestamp": 1777455420.0,
     "isoDate": "2026-04-29T09:37:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ54sVYryCG3V_ZjHJwzuKBteLhpf8FnX131rudu9bvgYGDupWYtJHLYxGPjVON072t-CWz4hyQmxQmwIW6ZZzTXsiJhcfRHPBj1ag1H0PeFGB4KkZIAsyhR0bT_DQqCj2uf_a5Yza7VbeBd3xRIvf4VUZ8UBRM2iEY10bk3me9zotLNcLExjSMaoY3y4l/s1600/cpanel.jpg"
-  },
-  {
-    "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-    "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Apr 2026 14:16:00 +0530",
-    "timestamp": 1777452360.0,
-    "isoDate": "2026-04-29T08:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1600/windows-logo.jpg"
   }
 ]
