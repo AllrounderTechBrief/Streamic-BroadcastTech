@@ -1,5 +1,60 @@
 [
   {
+    "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+    "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+    "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerabilit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 05 May 2026 21:49:00 +0530",
+    "timestamp": 1777997940.0,
+    "isoDate": "2026-05-05T16:19:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL7seGapCGfnl8pFznQajU2KsVPCE19qbtPTJb2sqpOuurkEKNI8ZwUui6QhYmDJODr1F5L7hrpfGBQfsCOT8oC2k_gbjmRPIFWpVZLpJzcdd9nb-UJyNNg4L9LTtEto1sSo3Fn1cIgWxgsH4Xs0GlRJgEt65_Eut7FRv7aQrkqYdJXiE9zDunU2spQOVP/s1600/apache.jpg"
+  },
+  {
+    "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+    "link": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+    "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are distributed from the legitimate website of DAEMO…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 05 May 2026 21:37:00 +0530",
+    "timestamp": 1777997220.0,
+    "isoDate": "2026-05-05T16:07:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQDcWhFHnIEeEngbqyPFjkweCMgT7FoZRRZV0WYRuHg1cHip2O0lw2ahMc7jhJnzOCqqrLhzpM9w-O3eLpVdiCvI4C3-RD6XwqTkDxWdhzkS-W2BsbLy_SFwnjykdvvhuhjGnwPkFpOSJiapeWULhqx9er8hDH0sCCtoK51OrH4nSYqc_oAZwILcOi1A2/s1600/daemon.jpg"
+  },
+  {
+    "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+    "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+    "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025. The activity i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 05 May 2026 19:49:00 +0530",
+    "timestamp": 1777990740.0,
+    "isoDate": "2026-05-05T14:19:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz8_PjYKknoot4F_PnjDZ7F1HhyphenhyphenIATFohYVF1OQYLSUFwiOPknnFF3ShgQKtKtfOEUbwUcfB-xhQAbi3dBsUvKki_ooKqYmQR3KfzcC1U443sR89JlLu5oPDJcEz9GXfEo5GwtMNj8s7HGg5-qsaR0sqqkSOUBsNFcqrz9NPDPyU6lQNl2RRtADTFzK0f/s1600/chinese-hackers-2.jpg"
+  },
+  {
+    "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
+    "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
+    "summary": "Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in most organizations, no …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 05 May 2026 17:28:00 +0530",
+    "timestamp": 1777982280.0,
+    "isoDate": "2026-05-05T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhaEkMCxALglRWDFwTHVYgZ0KrRmAuzdwfh0zbL5Ml163rakQSv8yRVQ8yTQ4xIAtcwdqvGyVXeZXgXGNYKoyStckJv2xzjH3f1O7oICND5cWbnIBGYkSVJbpDRYHH9XqNfFQNk1qWIVwd43UuJv2vozhpndzCMS789h026IKgX1t7pgp01AtI6i9wKE/s1600/material.jpg"
+  },
+  {
+    "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
+    "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
+    "summary": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-2026-29014 (CVSS score:…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 05 May 2026 17:26:00 +0530",
+    "timestamp": 1777982160.0,
+    "isoDate": "2026-05-05T11:56:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SZcQRIb_0i7jqHu2mcl7Ep1hX2C3rwLWwJmBwPHTPE2PvaP9KOHcMkvGAWxLeBFWxmfpW6IXwJqIsxHJvs2nIDc2ASwRwuXNlWFZRtatpMoksz5BRKmCVNSs4BxsrFX0_CGqlHZv_6VNWx6u1wD8dydja_fvpnRLezr_CBLyX-Lj6a2i4wRKxZnGFRen/s1600/phph.jpg"
+  },
+  {
     "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
     "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
     "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn…",
@@ -90,7 +145,7 @@
   {
     "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
     "link": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
-    "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mimic correspondence from…",
+    "summary": "The China-based cybercrime group known as Silver Fox (aka Monarch, SwimSnake, The Great Thief of Valley, UTG-Q-1000, and Void Arachne) has been linked to a new campaign targeting organizations in Russia and India with a new malware called A…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Mon, 04 May 2026 17:27:00 +0530",
@@ -273,60 +328,5 @@
     "timestamp": 1777532820.0,
     "isoDate": "2026-04-30T07:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg"
-  },
-  {
-    "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
-    "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-    "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, Onapsis, OX Security, SafeDep, Socket,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Apr 2026 21:56:00 +0530",
-    "timestamp": 1777479960.0,
-    "isoDate": "2026-04-29T16:26:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILiV-4oJHtNRt3-K52GIsgOaNUuN9owB5ky-Mk8FvRE3QmcqDg33oV3sCrzjgWEyIUfwTtn110bcMYVU3Lp61ArknIlPAcmMvbgJJ5-WheKYivyblon2tp79ux9pJmnYNv_ShhIAA5of3Wx7QzQRZs2mNuSQs6lLG23LKMVonvElcNMy6MXp6yVZO73F/s1600/sap-npm-hacks.jpg"
-  },
-  {
-    "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
-    "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
-    "summary": "Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM). The package in question is \"@validate-sdk/v2,\" which …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Apr 2026 20:13:00 +0530",
-    "timestamp": 1777473780.0,
-    "isoDate": "2026-04-29T14:43:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoAi4Ild7Dz2KtvraUPjGBgNHYScbOo2DzPh9iUn8IirHe8VYws7uF0A4wf2803kNMgLzCWg0oOZwXcdzRUx5-sbBPiABEN05-RtXTa2vMqOSa52E4FPELQba8QcIQBPXl6hOHuyN7cHldbTMMvxnA4UhxDk1Huh2W85I0EJeWdscqF5NdwRLjbtOXn7Zj/s1600/korean-hackers.jpg"
-  },
-  {
-    "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-    "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-    "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking about AI writing better phishing emails …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Apr 2026 17:32:00 +0530",
-    "timestamp": 1777464120.0,
-    "isoDate": "2026-04-29T12:02:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8vcicU2DANrmyA4GRttWV5sb4GPYdppuZax9v279s90O_uXz10MvgxpTyOR9s-tZoccR96ph-c7hZOwXORyLBYdWEsn3zCkrT_ivf6ZVApdMY6TL6jarUO4rNjR9nfc7XPTnmc6ttcKs_9aGOsOK4RoEnliEqVYrcOtL_d7Zys-51KZosLtWtlsOX4mo/s1600/thn.jpg"
-  },
-  {
-    "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
-    "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-    "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\" Crickets. The…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Apr 2026 17:00:00 +0530",
-    "timestamp": 1777462200.0,
-    "isoDate": "2026-04-29T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher9s_mKSWufl-S-lAJfV_7PalFTxuPLyiublEI1g0S4mOPLkr21X8SDIXB8fo-hbUXOf07J8lXp7esCsDNp3d5lJ33kZam2mnpQWQ5jG1S56U5WyfuB12Igvk2bFrUHxlDu7z4NVom_3yHR21GMcQHCoF6MEg8oXdkm4iJcygaRtcBwoTh0Sd7umE0cph/s1600/xmcyber.jpg"
-  },
-  {
-    "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
-    "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-    "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions of cPa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Apr 2026 15:07:00 +0530",
-    "timestamp": 1777455420.0,
-    "isoDate": "2026-04-29T09:37:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ54sVYryCG3V_ZjHJwzuKBteLhpf8FnX131rudu9bvgYGDupWYtJHLYxGPjVON072t-CWz4hyQmxQmwIW6ZZzTXsiJhcfRHPBj1ag1H0PeFGB4KkZIAsyhR0bT_DQqCj2uf_a5Yza7VbeBd3xRIvf4VUZ8UBRM2iEY10bk3me9zotLNcLExjSMaoY3y4l/s1600/cpanel.jpg"
   }
 ]
