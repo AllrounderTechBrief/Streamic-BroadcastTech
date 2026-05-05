@@ -1,8 +1,30 @@
 [
   {
+    "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
+    "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+    "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 05 May 2026 13:07:00 +0530",
+    "timestamp": 1777966620.0,
+    "isoDate": "2026-05-05T07:37:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1jDJPLahWSAtaecpFMUCFQvqRj4uVR8js9Fh_awxf84YnfBOfN_hPeVhdNAZEJZGh7hGtuT_RjThlb_R6mYKf0WMpsf-AEkDIb6jYGqq-Gg4WQ2Sban7RZY6oV4MCCAkA8AXEI-4ItHk9jo5DpfoBTHWdVQIuI97MEaGYgc9xlojHS7eMq23Huhl0K7qg/s1600/weaver.jpg"
+  },
+  {
+    "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
+    "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+    "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authenticatio…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 05 May 2026 12:05:00 +0530",
+    "timestamp": 1777962900.0,
+    "isoDate": "2026-05-05T06:35:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAfU-GpnCdjg1P2f40nj2Y7eLLpsjWNa1TnSlNm3m9F7VkOryT5etD2BouMGxbfatdzukMzeCPXsDagasXWNbcwUPJNkDY-sBox3DkrA0bTYjAEOk4JV8OySSD1_Ni2DgEnoWih83X65e9K1foEaEUetNxoyXFJnGx4Np8VQWrZSnxo2UMmR0Y68L-qf0y/s1600/ms-hook.jpg"
+  },
+  {
     "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
     "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-    "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The act…",
+    "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The acti…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Mon, 04 May 2026 23:36:00 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1777440840.0,
     "isoDate": "2026-04-29T05:34:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg"
-  },
-  {
-    "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-    "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
-    "summary": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 28 Apr 2026 23:49:00 +0530",
-    "timestamp": 1777400340.0,
-    "isoDate": "2026-04-28T18:19:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztlzahKA2HwUQiNDerhbX2l415JinNIW5jaU5tgskPVHqpMhba_NorYL9SSWRzLdSPjSnsxZKQic97f8H2Bx2G0Dsjb58dcdFuZoL0c5Gno3BVvYa4vi62_PNr1Qh-kBYED7YbTPw3fqQklMmnoPV0b1KYaienKHzIAtBuktMqyVCxGU0u8Hkd-zzYeNU/s1600/github.jpg"
-  },
-  {
-    "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-    "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
-    "summary": "A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot). \"The malware disguises itself as a Minecraft hac…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 28 Apr 2026 23:09:00 +0530",
-    "timestamp": 1777397940.0,
-    "isoDate": "2026-04-28T17:39:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQf8Wzg1Ms0KVsO546uQuwlR3w_8qW1MQZExs5TgKCGHSNNS1UEnOITq-_y8HIrA_3n_gfq7Hm0IMb-XSRJSsGL1ncRPlPoyDX7cf_wFbEGAJCPkv6ZDBzjN1Nswe9-CMR3Tmn1F5KuVyWGdOkGEIbeI9R7zGKplJPofRFBx-Ru20JOGfAFEpiZOAlDBXh/s1600/hackers.jpg"
   }
 ]
