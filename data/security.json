@@ -1,5 +1,16 @@
 [
   {
+    "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+    "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+    "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans res…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 05 May 2026 14:37:00 +0530",
+    "timestamp": 1777972020.0,
+    "isoDate": "2026-05-05T09:07:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg"
+  },
+  {
     "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
     "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
     "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a…",
@@ -317,16 +328,5 @@
     "timestamp": 1777452360.0,
     "isoDate": "2026-04-29T08:46:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1600/windows-logo.jpg"
-  },
-  {
-    "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-    "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-    "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug b…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Apr 2026 11:04:00 +0530",
-    "timestamp": 1777440840.0,
-    "isoDate": "2026-04-29T05:34:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg"
   }
 ]
