@@ -1,5 +1,16 @@
 [
   {
+    "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+    "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+    "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denia…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 07 May 2026 01:51:00 +0530",
+    "timestamp": 1778098860.0,
+    "isoDate": "2026-05-06T20:21:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPb4dDONnDMbu5rdNKex39FCs_4elspTEwE3dJbDsEBn1OdHrNS_0oI2V2mKCG4PjUGsBy5T4ZCec8kSdK2hTXkaq3fIIDX5XLBKfU9X4dNamC0zGfgcZ5dxPy1PNGKtAIye5IpODYmyzgMYBSRfyUcAnLhOBsHSitLujoCQABiz9b2KfYnzUhPN8rqPK/s1600/botnet-malware.jpg"
+  },
+  {
     "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
     "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
     "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation. The attack, observed by Rapi…",
@@ -317,16 +328,5 @@
     "timestamp": 1777629360.0,
     "isoDate": "2026-05-01T09:56:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhvaGpPe8ES3q62CqgJTkgm4Raiy6ugjF7dOgRUC4Sd6SsspaPB7tzYYK8lmeUi__TGffqjUeumdmUnA34ZmWJKLDG-TGoZXbyaFAaGR_49JYN9GxVGFQ13allcDdinlnrqtOUeRW6M3wdgvPyRYT_TzmYLpjYPGjYi43laVhtbrPjXs3P7dmN_DQ1Lnd/s1600/ransomware-install.jpg"
-  },
-  {
-    "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-    "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-    "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The activity has been at…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 01 May 2026 15:13:00 +0530",
-    "timestamp": 1777628580.0,
-    "isoDate": "2026-05-01T09:43:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNz4euGufhcyWdY8TkRfdXBUj2XXZlzQWEb1QyI7otpos158ctsC236sEm2NAZ20sUZv4AOqrGCSTbjGsOOkMwhQv53ZjyrVXf9SVUsMfhvhQ4LzGL87j44f0kMkXRzBAoWeHDz8hywx4gbW_trN1mFk-xCCZatTf0zNsude7k-3WE9kIY_pPgza53qsdc/s1600/buffer.jpg"
   }
 ]
