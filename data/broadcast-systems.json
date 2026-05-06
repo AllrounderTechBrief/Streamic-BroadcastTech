@@ -1,5 +1,38 @@
 [
   {
+    "title": "Bitmovin’s HDR and AV1 technology powers MUBI’s global platform",
+    "link": "https://www.tvbeurope.com/media-delivery/bitmovins-hdr-and-av1-technology-powers-mubis-global-platform",
+    "summary": "Bitmovin’s cloud VoD encoding infrastructure replaces MUBI’s legacy on-prem stack The post Bitmovin’s HDR and AV1 technology powers MUBI’s global platform appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 06 May 2026 10:29:40 +0000",
+    "timestamp": 1778063380.0,
+    "isoDate": "2026-05-06T10:29:40+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Why standards rigour remains broadcast’s most important asset and its most under-appreciated",
+    "link": "https://www.tvbeurope.com/business/why-standards-rigour-remains-broadcasts-most-important-asset-and-its-most-under-appreciated",
+    "summary": "Ahead of next month's inaugural AV and Broadcast Summit, Futuresource Consulting analyst Helen Matthews discusses the technologies that are driving convergence between the two industries, and the areas where she thinks broadcast excels The …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 06 May 2026 09:45:24 +0000",
+    "timestamp": 1778060724.0,
+    "isoDate": "2026-05-06T09:45:24+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2025/09/Helen-Matthews.jpg"
+  },
+  {
+    "title": "France Télévisions first to deploy Imagine’s new SNP-XS",
+    "link": "https://www.tvbeurope.com/ip-migration/france-televisions-first-to-deploy-imagines-new-snp-xs",
+    "summary": "Ordering 60 units, France Télévisions becomes the first broadcaster to deploy Imagine's SNP-XS as it continues its migration to ST 2110 The post France Télévisions first to deploy Imagine’s new SNP-XS appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 06 May 2026 09:30:53 +0000",
+    "timestamp": 1778059853.0,
+    "isoDate": "2026-05-06T09:30:53+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/ImagineComms-SNP-XS_front-copy-726x294.jpg"
+  },
+  {
     "title": "Riedel bolsters SLT with new chief operating officer",
     "link": "https://www.tvbeurope.com/business/people/riedel-bolsters-slt-with-new-chief-operating-officer",
     "summary": "The expanded leadership team forms part of a strategic initiative to strengthen operational management and overarching group leadership, said the company The post Riedel bolsters SLT with new chief operating officer appeared first on TVBEur…",
@@ -240,38 +273,5 @@
     "timestamp": 1777458887.0,
     "isoDate": "2026-04-29T10:34:47+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/John-Mailhot_2026-GrayBkg_SquareLgPrint-726x726.jpg"
-  },
-  {
-    "title": "Opinion: the reality of fiction",
-    "link": "https://www.tvbeurope.com/production-post/opinion-the-reality-of-fiction",
-    "summary": "Matthew Corrigan wonders if a resurgence in old filmmaking techniques might be a good thing for the industry The post Opinion: the reality of fiction appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 29 Apr 2026 09:47:15 +0000",
-    "timestamp": 1777456035.0,
-    "isoDate": "2026-04-29T09:47:15+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2022/07/Credit_Paramount-Pictures-726x304.jpg"
-  },
-  {
-    "title": "Synamedia and Telxius enable content providers to switch between CDNs in real time",
-    "link": "https://www.tvbeurope.com/media-delivery/synamedia-and-telxius-enable-content-providers-to-switch-between-cdns-in-real-time",
-    "summary": "The integration aims to boost the streaming experience for viewers The post Synamedia and Telxius enable content providers to switch between CDNs in real time appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 29 Apr 2026 09:03:10 +0000",
-    "timestamp": 1777453390.0,
-    "isoDate": "2026-04-29T09:03:10+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/04/Synamedia_Picture_Magazine_Telxius_2026-726x411.jpg"
-  },
-  {
-    "title": "Rise launches AWS-backed AI and cloud training initiative",
-    "link": "https://www.tvbeurope.com/business/rise-launches-aws-backed-ai-and-cloud-training-initiative",
-    "summary": "Rise Upskill will support 50 participants in pursuit of two separate professional AWS certifications The post Rise launches AWS-backed AI and cloud training initiative appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 29 Apr 2026 08:37:25 +0000",
-    "timestamp": 1777451845.0,
-    "isoDate": "2026-04-29T08:37:25+00:00",
-    "imageUrl": ""
   }
 ]
