@@ -79,7 +79,7 @@
   {
     "title": "Enabling agent-driven video workflows with the Bitmovin CLI",
     "link": "https://bitmovin.com/blog/agent-driven-video-workflows-bitmovin-cli/",
-    "summary": "TL;DR Most video workflows are automated in parts. Encoding jobs run on one system, Player configuration lives somewhere else, and playback performance data requires yet another tool to query. The pieces exist, they just aren’t connected.Th…",
+    "summary": "TL;DR Most video workflows are automated in parts. Encoding jobs run on one system, Player configuration lives somewhere else, and playback performance data requires yet another tool to query. The pieces exist, they just aren’t connected. T…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Thu, 23 Apr 2026 16:47:36 +0000",

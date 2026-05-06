@@ -1,5 +1,16 @@
 [
   {
+    "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+    "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+    "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenti…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 06 May 2026 11:44:00 +0530",
+    "timestamp": 1778048040.0,
+    "isoDate": "2026-05-06T06:14:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s1600/paloalto.jpg"
+  },
+  {
     "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
     "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
     "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerabilit…",
@@ -317,16 +328,5 @@
     "timestamp": 1777541040.0,
     "isoDate": "2026-04-30T09:24:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYpnBkrLNj-dAKcwAbvRIvfXg8YDXoO3yfrl3vvXBOBwo2zga2asWZ0at4FLcLbiqQ1N7BsYA2szKbuqeVLBkrD80tMqYguBbqvrhEude6Fe9ayQpNs-meP8h4-f6ReWVeIU0zYp31XU7K-Kgxm5OKdI77HPQWgTx41al_WH3gYkMjEoROl6zvXF8HPRf5/s1600/root.jpg"
-  },
-  {
-    "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-    "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-    "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary com…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 30 Apr 2026 12:37:00 +0530",
-    "timestamp": 1777532820.0,
-    "isoDate": "2026-04-30T07:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg"
   }
 ]
