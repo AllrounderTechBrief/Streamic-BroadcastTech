@@ -1,5 +1,27 @@
 [
   {
+    "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
+    "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
+    "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of leaders making tough call…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 06 May 2026 17:33:00 +0530",
+    "timestamp": 1778068980.0,
+    "isoDate": "2026-05-06T12:03:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Yg33sY2y1VE4mkNb135928ke63sPOMciQgxVLYK0vXlJfSbZPCF0Q2b6URj-uZG0YOarE7-_WKyEc2OTstYRdmcdOagHSWstqHftoc-rv7vWrKepoENsBmKnR7P9jqH6MK9z-oa3RpOks3HGTqafjHUrPp2t-Xny6btfsAMIBcPWPBXq0hZv2-7XrkE/s1600/the-hacker-news-cybersecurity-stars-awards-2026.jpg.jpg"
+  },
+  {
+    "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
+    "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
+    "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoptio…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 06 May 2026 16:27:00 +0530",
+    "timestamp": 1778065020.0,
+    "isoDate": "2026-05-06T10:57:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb87wroQ6p8nQAYNIPc9sSFlIxMecj9qcrm9KPOaAt0-DTof7kW6e6FCc1dmoBFrtyFcZQOhyphenhyphenupMl7E3GAv-6C-5OM3U3NkEo7fKnYw-SWnwzI-yDfsY4J5kM8jgqfIqoSxHp4GJpdjK9kosjlzftCwYxSsva4jnhPHH92FT5rppUXnxCnINf05kPSzb5G/s1600/Orchid.gif"
+  },
+  {
     "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
     "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
     "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute…",
@@ -306,27 +328,5 @@
     "timestamp": 1777566660.0,
     "isoDate": "2026-04-30T16:31:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7hiQfVCFzoPBzfr5xqJ06qMjzv-zw_qiUcDTgyEM8RbEVk3PDztg9U5Vlkgvz6j7nX8ODtXwnTCC2wB78lupEmRjcxJTz74GJGSslsMQM-e5b8vG0W2gLFnbEzYAPKw05ZelkaNfy50VyLJeb-3EhwiGKfIP9qHNRpNG4MnFUnTBBOJ95vRJb-RbcFVxX/s1600/python.png"
-  },
-  {
-    "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
-    "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 30 Apr 2026 19:25:00 +0530",
-    "timestamp": 1777557300.0,
-    "isoDate": "2026-04-30T13:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwfqxUhPz38fAoq0CZr2tW8KqGW-Cr0zJloN9kS_80QO2e7yyah4N-nMKNxoSllB2tpyjKO25s2f8eFJNd2bBo50XRAVatMKnnk8ZAbRbz6kfQUhVUoD5vutOmFpYzojybY8aJZhA6KGL3sawNEyaqjlW63hAeEwrTsj8lnpou-4mThnzwCzO442aue-R0/s1600/threats.jpg"
-  },
-  {
-    "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-    "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-    "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised h…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 30 Apr 2026 18:06:00 +0530",
-    "timestamp": 1777552560.0,
-    "isoDate": "2026-04-30T12:36:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnv1KtLLlZSnm9a16bN-o_szrBiAIN_QljTfe09K4RzFxSqhFADtuXmRzOPZ_Poazif-VadFAnRnboCWX5yZtc5JntGopn5Fy6T1X2BexXelFOxYtEA7qULoTCkAMwEybLf42JJ_yGjSPf_T-tjYvbqxscVgZ6OyL65yKcTjC0KQL48pgYLZUmLjxfBBhd/s1600/malware-data.jpg"
   }
 ]
