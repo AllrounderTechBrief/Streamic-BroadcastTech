@@ -1,5 +1,16 @@
 [
   {
+    "title": "Building for the future",
+    "link": "https://blog.cloudflare.com/building-for-the-future/",
+    "summary": "This afternoon, we sent the following email to our global team. One of our core values at Cloudflare is transparency, and we believe it's important that you hear this directly from us because it’s a major moment at Cloudflare.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 07 May 2026 20:15:12 GMT",
+    "timestamp": 1778184912.0,
+    "isoDate": "2026-05-07T20:15:12+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "WNBA Inside the Game, powered by AWS: AI Meets the Next Era of Women’s Basketball",
     "link": "https://aws.amazon.com/blogs/media/wnba-inside-the-game-powered-by-aws-ai-meets-the-next-era-of-womens-basketball/",
     "summary": "In this blog post, learn how WNBA Inside the Game powered by Amazon Web Services (AWS) is bringing its AI-powered basketball intelligence platform to the WNBA for the first time, giving fans, broadcasters, and teams a deeper, more precise u…",
@@ -295,17 +306,6 @@
     "timestamp": 1776359024.0,
     "isoDate": "2026-04-16T17:03:44+00:00",
     "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/04/ad-opportunity-visual.png"
-  },
-  {
-    "title": "Cloudflare’s AI Platform: an inference layer designed for agents",
-    "link": "https://blog.cloudflare.com/ai-platform/",
-    "summary": "We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 16 Apr 2026 14:05:00 GMT",
-    "timestamp": 1776348300.0,
-    "isoDate": "2026-04-16T14:05:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2ez5tichGEEn5k6SzCgWLm/380a685b14ee9732fdf87c6f88c8f39e/BLOG-3209_2.png"
   },
   {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
