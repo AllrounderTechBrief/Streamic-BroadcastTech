@@ -1,5 +1,16 @@
 [
   {
+    "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+    "link": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+    "summary": "When a critical Linux kernel privilege escalation was publicly disclosed, Cloudflare's security and engineering teams detected, investigated, and mitigated the threat across our global fleet, confirming zero customer impact and no malicious…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 07 May 2026 13:00:00 GMT",
+    "timestamp": 1778158800.0,
+    "isoDate": "2026-05-07T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5uqfOddH7biQaTjtgQOist/5c16c08bf3e5ce2f9030d6f98d2403cb/BLOG-3308_2.png"
+  },
+  {
     "title": "When DNSSEC goes wrong: how we responded to the .de TLD outage",
     "link": "https://blog.cloudflare.com/de-tld-outage-dnssec/",
     "summary": "On May 5, 2026, DENIC published broken DNSSEC signatures for the .de TLD, making millions of domains unreachable. Here's what 1.1.1.1 saw, how serve stale cushioned the impact, and how we restored resolution.",
@@ -284,17 +295,6 @@
     "timestamp": 1776348300.0,
     "isoDate": "2026-04-16T14:05:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2ez5tichGEEn5k6SzCgWLm/380a685b14ee9732fdf87c6f88c8f39e/BLOG-3209_2.png"
-  },
-  {
-    "title": "Building the foundation for running extra-large language models",
-    "link": "https://blog.cloudflare.com/high-performance-llms/",
-    "summary": "We built a custom technology stack to run fast large language models on Cloudflare’s infrastructure. This post explores the engineering trade-offs and technical optimizations required to make high-performance AI inference accessible.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 16 Apr 2026 14:00:00 GMT",
-    "timestamp": 1776348000.0,
-    "isoDate": "2026-04-16T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5j6AEIF1GMhnHuJD08VQtw/9e65e2badc5fd1e75557230e8f455ccc/BLOG-3266_2.png"
   },
   {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
