@@ -1,5 +1,16 @@
 [
   {
+    "title": "A Sea of Spinning Clouds",
+    "link": "https://science.nasa.gov/earth/earth-observatory/a-sea-of-spinning-clouds/",
+    "summary": "Icy, isolated Peter I Island stirred up a show in the atmosphere off the West Antarctic coast.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 07 May 2026 04:01:00 +0000",
+    "timestamp": 1778126460.0,
+    "isoDate": "2026-05-07T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sea-of-spinning-clouds/peteriisland_oli_20260211.jpg?w=3060&h=3400&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Ames Science Stars of the Month May 2026",
     "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/",
     "summary": "NASA Ames Science Directorate Stars of the Month: May 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Lora Jovanović, Tammy Moore, Frances Donovan, and Jaden Ta. Their commitment t…",
@@ -427,17 +438,6 @@
     "timestamp": 1778016016.0,
     "isoDate": "2026-05-05T21:20:16+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Jessica_Taylor.jpg?w=684&h=668&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’",
-    "link": "https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/",
-    "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera system to capture this 360-degree panorama of a region nicknamed “Crocodile Bridge” on Jezero Crater’s rim. The panorama is made up of 980 images, 971 of which were taken …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 05 May 2026 20:10:02 +0000",
-    "timestamp": 1778011802.0,
-    "isoDate": "2026-05-05T20:10:02+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26699/PIA26699.jpg?w=10000&h=2278&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "8 common misconceptions to correct before investing in a new enterprise audio-visual system",
