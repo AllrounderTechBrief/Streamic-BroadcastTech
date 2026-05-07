@@ -1,5 +1,16 @@
 [
   {
+    "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
+    "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
+    "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called ZiChatBot on Windows and Linux systems. \"While these w…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 07 May 2026 14:50:00 +0530",
+    "timestamp": 1778145600.0,
+    "isoDate": "2026-05-07T09:20:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGun7lMQJXWH3IQiR3ml3RMzAbb1QJcWEtgqDrKTjPbvBhTsDPaCWmI1vTAnevTVPx0lg4xvPkOcpx_86_Znxdgpj-hynQXGEHqf94dvYwOy5VqqnqBWEWrJ3MEkQcLVBVt00Y8pUqVWj4W-hYYepmDmtX9PRQh87qZC7XbJCwdEaLsBY-vTsbkS0yqikd/s1600/pypi.jpg"
+  },
+  {
     "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
     "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
     "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used…",
@@ -317,16 +328,5 @@
     "timestamp": 1777644120.0,
     "isoDate": "2026-05-01T14:02:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD3mr1fHyy1yT3u6ebxE9skoiCRtBYdZnkvdputmKF0XgZW5BKeQKkvnYswwusYFG4tvzVeWOqP3wgGtqLA7Ds9I-PYlasFVkOmaClo8IIpRGtdvuFZuKzDgvktukM1YXbTDbBAZUfk1mtWx8lHFF8N_YZXRl0ncSWtGGkzXDkm5gWMovjixeiyh6w_64W/s1600/chinese-hackers.jpg"
-  },
-  {
-    "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-    "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
-    "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave revenue on the table becau…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 01 May 2026 16:00:00 +0530",
-    "timestamp": 1777631400.0,
-    "isoDate": "2026-05-01T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc4T6K9zSg5-BFr6xjfFnVhxj3Jx5R5CCUbEmTDssJXlPDiPYcCwFRAfSP_09Kcds90YN7CUwv2Y5ZhglKxLgEbyDRaudcoZXL1PfftGo5BloLB9LInZGWvVaKEdYEoHBJjyP3wwxkfEWWg4pcPTtBUnr6zCJRvre9YzZs4OagcnBVFiAbjbEGc7WY-98/s1600/cynomi.png"
   }
 ]
