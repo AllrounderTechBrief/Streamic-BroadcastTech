@@ -1,5 +1,16 @@
 [
   {
+    "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+    "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+    "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using A…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 08 May 2026 19:31:00 +0530",
+    "timestamp": 1778248860.0,
+    "isoDate": "2026-05-08T14:01:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
+  },
+  {
     "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
     "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
     "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, k…",
@@ -64,17 +75,6 @@
     "timestamp": 1778175900.0,
     "isoDate": "2026-05-07T17:45:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N74T5rZvfRcHqUhwtyI3hbxAAQnB-RQQqpiGSIJqdplaQaZcjvqLR80d3pIjwJyGtAO5V0Ji6_3w4V4Ww901x4aSGY_Id3lzqXNdGUMbprz80zXoKzHVoIBqyhVBU_LvIMyJHV5MHaMWvZuWgREFmqG4jOdBLpW4gBtgKCrnfRS4mIXemDQ9U_fRERQf/s1600/clouds.jpg"
-  },
-  {
-    "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-    "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-    "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using A…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 07 May 2026 19:20:00 +0530",
-    "timestamp": 1778161800.0,
-    "isoDate": "2026-05-07T13:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
   },
   {
     "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
