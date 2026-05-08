@@ -2,7 +2,7 @@
   {
     "title": "Agentic AI in Customer Support: Building a Multi-Agent Support System at Bitmovin",
     "link": "https://bitmovin.com/blog/building-multi-agent-ai-support-system-bitmovin/",
-    "summary": "I’m not a traditional software engineer. I work in support, helping customers get the most out of Bitmovin’s Player, VOD and Live Encoder, and Observability solutions across every platform you can think of. However, towards the end of last …",
+    "summary": "What happens when a support engineer ships a production AI system? At Bitmovin, a Senior Support Engineer built a fully operational multi-agent AI support system that now triages incoming customer tickets, searches documentation, diagnoses …",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Fri, 08 May 2026 07:15:29 +0000",

@@ -1,8 +1,30 @@
 [
   {
-    "title": "VeePod enables 3D dynamic video podcast branding",
+    "title": "Celebrating a TV legend",
+    "link": "https://www.tvbeurope.com/production-post/celebrating-a-tv-legend",
+    "summary": "TVBEurope celebrates the 100th birthday of Sir David Attenborough, with a look back at his impact on television, both on and off screen The post Celebrating a TV legend appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 08 May 2026 10:17:32 +0000",
+    "timestamp": 1778235452.0,
+    "isoDate": "2026-05-08T10:17:32+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2019/01/david-attenborough482.jpg"
+  },
+  {
+    "title": "Shepperton Studios names The Maggie Smith Stage",
+    "link": "https://www.tvbeurope.com/production-post/shepperton-studios-names-the-maggie-smith-stage",
+    "summary": "The historic dedication recognises the 'indelible mark on British and international cinema' left by Dame Maggie The post Shepperton Studios names The Maggie Smith Stage appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 08 May 2026 10:02:08 +0000",
+    "timestamp": 1778234528.0,
+    "isoDate": "2026-05-08T10:02:08+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/Toby-Stephens-and-Christopher-Larkin-Landscape-copy-726x484.jpg"
+  },
+  {
+    "title": "VeePod enables 3D dynamic visual podcast branding",
     "link": "https://www.tvbeurope.com/virtual-production/veepod-enables-3d-dynamic-video-podcast-branding",
-    "summary": "Customisable 3D graphics enable branding or objects to be placed, changed or removed in real-time during video podcasts The post VeePod enables 3D dynamic video podcast branding appeared first on TVBEurope.",
+    "summary": "Customisable 3D graphics enable branding or objects to be placed, changed or removed in real-time during visual podcasts The post VeePod enables 3D dynamic visual podcast branding appeared first on TVBEurope.",
     "source": "TVBEurope",
     "category": "broadcast-systems",
     "timeAgo": "Fri, 08 May 2026 09:05:25 +0000",
@@ -251,27 +273,5 @@
     "timestamp": 1777632005.0,
     "isoDate": "2026-05-01T10:40:05+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Avid adds MPEG-H audio to Pro Tools",
-    "link": "https://www.tvbeurope.com/audio/avid-adds-mpeg-h-audio-to-pro-tools",
-    "summary": "The MPEG-H Renderer plugin, developed by Fraunhofer IIS, enables users to define a wide range of interactive and personalised audio options during production The post Avid adds MPEG-H audio to Pro Tools appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 01 May 2026 09:26:55 +0000",
-    "timestamp": 1777627615.0,
-    "isoDate": "2026-05-01T09:26:55+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/Avid-Pro-Tools-2026.4-Post-Session-726x446.png"
-  },
-  {
-    "title": "Netflix takes on TikTok with new vertical video ‘Clips’ feed",
-    "link": "https://www.tvbeurope.com/media-consumption/netflix-takes-on-tiktok-with-new-vertical-video-clips-feed",
-    "summary": "Clips lets users add films and shows to their list from the feed, as well as share recommendations with friends or their own social media platforms The post Netflix takes on TikTok with new vertical video ‘Clips’ feed appeared first on TVBE…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 01 May 2026 09:17:24 +0000",
-    "timestamp": 1777627044.0,
-    "isoDate": "2026-05-01T09:17:24+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/netflix-vertical-726x408.jpg"
   }
 ]
