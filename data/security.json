@@ -1,5 +1,16 @@
 [
   {
+    "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
+    "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
+    "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 08 May 2026 10:42:00 +0530",
+    "timestamp": 1778217120.0,
+    "isoDate": "2026-05-08T05:12:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif"
+  },
+  {
     "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
     "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
     "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation a…",
@@ -317,16 +328,5 @@
     "timestamp": 1777895820.0,
     "isoDate": "2026-05-04T11:57:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfw7HlDQIzbgA8xy1bk-sUkn-TVS85DGaL4vQkuTNYu3SGabQGuPKBD7C1qkCcpxwEFfdW6I9DJoSnmMmbkAu24SN1R_B2HNYwi-niSiST1LJqwMQ7tspMjxMyHXJtZUxGZbb2Hb1k-_2ywcG5hWFhOKQubJsYXiq8hyphenhyphenFfLyVewIet_ZcdTmNZEc9-Fum/s1600/godd.png"
-  },
-  {
-    "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
-    "link": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
-    "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 04 May 2026 14:57:00 +0530",
-    "timestamp": 1777886820.0,
-    "isoDate": "2026-05-04T09:27:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgjtQddA9U3D-xf2UWj5GKV2R5tEwjqWWY9fwRQi_fZgG5tf140uw2P4oVfmcvPZcMYuFDo1mvqYKkgKSmgfBxVloaWTrN7vgPiH1FX8ivdh8PFBN9LvfJF13a0ajbXDLEV20pr9d2rSoQo4KWbDYSpSOFJYoPYDHizXQ3tYNGVhhysD8h3FWWpOkHytN/s1600/ccc.jpg"
   }
 ]

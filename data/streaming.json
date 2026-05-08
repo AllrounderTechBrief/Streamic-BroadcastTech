@@ -1,5 +1,16 @@
 [
   {
+    "title": "Agentic AI in Customer Support: Building a Multi-Agent Support System at Bitmovin",
+    "link": "https://bitmovin.com/blog/building-multi-agent-ai-support-system-bitmovin/",
+    "summary": "I’m not a traditional software engineer. I work in support, helping customers get the most out of Bitmovin’s Player, VOD and Live Encoder, and Observability solutions across every platform you can think of. However, towards the end of last …",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Fri, 08 May 2026 07:15:29 +0000",
+    "timestamp": 1778224529.0,
+    "isoDate": "2026-05-08T07:15:29+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/05/example-of-agentic-bot-helping-Bitmovin-customers.png"
+  },
+  {
     "title": "Building for the future",
     "link": "https://blog.cloudflare.com/building-for-the-future/",
     "summary": "This afternoon, we sent the following email to our global team. One of our core values at Cloudflare is transparency, and we believe it's important that you hear this directly from us because it’s a major moment at Cloudflare.",
@@ -416,17 +427,6 @@
     "timestamp": 1775049090.0,
     "isoDate": "2026-04-01T13:11:30+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
-  },
-  {
-    "title": "Hackathon Spotlight: Rethinking Workflow Navigation with AI Agents like B.O.S.S",
-    "link": "https://bitmovin.com/blog/hackathon-ai-question-to-action-streaming-workflows/",
-    "summary": "Working with video workflows today means dealing with a lot of moving parts. Encoding, playback, and observability each come with their own APIs, documentation, and ways of working. The capability is there, but getting to the right answer s…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Mon, 30 Mar 2026 14:48:00 +0000",
-    "timestamp": 1774882080.0,
-    "isoDate": "2026-03-30T14:48:00+00:00",
-    "imageUrl": ""
   },
   {
     "title": "How Sony Pictures Networks India Delivered Personalized Ad Insertion at Scale on AWS",
