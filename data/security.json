@@ -1,5 +1,16 @@
 [
   {
+    "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+    "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+    "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows - CV…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 09 May 2026 12:46:00 +0530",
+    "timestamp": 1778310960.0,
+    "isoDate": "2026-05-09T07:16:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg"
+  },
+  {
     "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
     "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
     "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the …",
@@ -317,16 +328,5 @@
     "timestamp": 1777966620.0,
     "isoDate": "2026-05-05T07:37:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1jDJPLahWSAtaecpFMUCFQvqRj4uVR8js9Fh_awxf84YnfBOfN_hPeVhdNAZEJZGh7hGtuT_RjThlb_R6mYKf0WMpsf-AEkDIb6jYGqq-Gg4WQ2Sban7RZY6oV4MCCAkA8AXEI-4ItHk9jo5DpfoBTHWdVQIuI97MEaGYgc9xlojHS7eMq23Huhl0K7qg/s1600/weaver.jpg"
-  },
-  {
-    "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
-    "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
-    "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authenticatio…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 05 May 2026 12:05:00 +0530",
-    "timestamp": 1777962900.0,
-    "isoDate": "2026-05-05T06:35:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAfU-GpnCdjg1P2f40nj2Y7eLLpsjWNa1TnSlNm3m9F7VkOryT5etD2BouMGxbfatdzukMzeCPXsDagasXWNbcwUPJNkDY-sBox3DkrA0bTYjAEOk4JV8OySSD1_Ni2DgEnoWih83X65e9K1foEaEUetNxoyXFJnGx4Np8VQWrZSnxo2UMmR0Y68L-qf0y/s1600/ms-hook.jpg"
   }
 ]
