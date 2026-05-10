@@ -1,5 +1,16 @@
 [
   {
+    "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+    "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+    "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likel…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 10 May 2026 18:11:00 +0530",
+    "timestamp": 1778416860.0,
+    "isoDate": "2026-05-10T12:41:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg"
+  },
+  {
     "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
     "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
     "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows - CV…",
@@ -317,16 +328,5 @@
     "timestamp": 1777972020.0,
     "isoDate": "2026-05-05T09:07:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg"
-  },
-  {
-    "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
-    "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
-    "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 05 May 2026 13:07:00 +0530",
-    "timestamp": 1777966620.0,
-    "isoDate": "2026-05-05T07:37:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1jDJPLahWSAtaecpFMUCFQvqRj4uVR8js9Fh_awxf84YnfBOfN_hPeVhdNAZEJZGh7hGtuT_RjThlb_R6mYKf0WMpsf-AEkDIb6jYGqq-Gg4WQ2Sban7RZY6oV4MCCAkA8AXEI-4ItHk9jo5DpfoBTHWdVQIuI97MEaGYgc9xlojHS7eMq23Huhl0K7qg/s1600/weaver.jpg"
   }
 ]
