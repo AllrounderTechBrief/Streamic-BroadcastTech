@@ -1,5 +1,27 @@
 [
   {
+    "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+    "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+    "summary": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access pa…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 11 May 2026 18:06:00 +0530",
+    "timestamp": 1778502960.0,
+    "isoDate": "2026-05-11T12:36:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4a3gzeAEAv4Bs5FqWbHG1cRyNqIOjygeSxxpNoChwyyMUWlbZHzkG0n8ysGpoAYuKqklfMtTKRct0OeYktaKLhdXpRH5pKH94tVaMX7iPeNDf7vZjFky3myBkFPJPl1xIdsWDlIYP30IeR7IZGhQZ5p82yHRdRO1OGkpAtTWgZcQSG3zXqh9tLbSSrgP/s1600/cyber-recap.jpg"
+  },
+  {
+    "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
+    "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
+    "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's lon…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 11 May 2026 17:00:00 +0530",
+    "timestamp": 1778499000.0,
+    "isoDate": "2026-05-11T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0dlupn761jekig7BbPagwo6DtccMFQV8oESHiCBIs04DdhvoVtfwhe7OVEh8VvyFpa-VFo9GKWL8tx2ZKTSn3qA7iAFCvTfoevjyPFYNb3eAmpp4pkWk3mcQd_AulszHJoxUa6z_k_Nr_KB9Ny_hoZWy1VVA-U9BV2nPvESGGqPE5r4_AbNlid_BK-M8/s1600/picus.jpg"
+  },
+  {
     "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
     "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
     "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/…",
@@ -306,27 +328,5 @@
     "timestamp": 1777982280.0,
     "isoDate": "2026-05-05T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhaEkMCxALglRWDFwTHVYgZ0KrRmAuzdwfh0zbL5Ml163rakQSv8yRVQ8yTQ4xIAtcwdqvGyVXeZXgXGNYKoyStckJv2xzjH3f1O7oICND5cWbnIBGYkSVJbpDRYHH9XqNfFQNk1qWIVwd43UuJv2vozhpndzCMS789h026IKgX1t7pgp01AtI6i9wKE/s1600/material.jpg"
-  },
-  {
-    "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
-    "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
-    "summary": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-2026-29014 (CVSS score:…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 05 May 2026 17:26:00 +0530",
-    "timestamp": 1777982160.0,
-    "isoDate": "2026-05-05T11:56:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SZcQRIb_0i7jqHu2mcl7Ep1hX2C3rwLWwJmBwPHTPE2PvaP9KOHcMkvGAWxLeBFWxmfpW6IXwJqIsxHJvs2nIDc2ASwRwuXNlWFZRtatpMoksz5BRKmCVNSs4BxsrFX0_CGqlHZv_6VNWx6u1wD8dydja_fvpnRLezr_CBLyX-Lj6a2i4wRKxZnGFRen/s1600/phph.jpg"
-  },
-  {
-    "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-    "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-    "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 05 May 2026 16:00:00 +0530",
-    "timestamp": 1777977000.0,
-    "isoDate": "2026-05-05T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg"
   }
 ]
