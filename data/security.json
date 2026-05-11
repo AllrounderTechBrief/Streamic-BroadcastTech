@@ -1,5 +1,16 @@
 [
   {
+    "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
+    "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
+    "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 11 May 2026 12:35:00 +0530",
+    "timestamp": 1778483100.0,
+    "isoDate": "2026-05-11T07:05:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPtLFShq_XoM9Nzsl5kmSsF2UGsm6VhRoLNodcqRCdq45zqy4ekFVtamokNzEFifQknD502Wc0uFTBUdvLsBsYn4QAeVHSWLmhF2ROBMXutev8T6JjCGrrarzLhkSTUHLBq-nEWrF0WTb2epkX_3Ba5a6Gv_21R7PPQ_zCjhk7OU702Y10tJkcJiYG52D4/s1600/hugging-face-malware.jpg"
+  },
+  {
     "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
     "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
     "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likel…",
@@ -317,16 +328,5 @@
     "timestamp": 1777977000.0,
     "isoDate": "2026-05-05T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg"
-  },
-  {
-    "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-    "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-    "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans res…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 05 May 2026 14:37:00 +0530",
-    "timestamp": 1777972020.0,
-    "isoDate": "2026-05-05T09:07:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg"
   }
 ]
