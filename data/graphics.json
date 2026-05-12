@@ -1,5 +1,49 @@
 [
   {
+    "title": "Australia’s Cloudy Beauty",
+    "link": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/",
+    "summary": "Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 12 May 2026 04:01:00 +0000",
+    "timestamp": 1778558460.0,
+    "isoDate": "2026-05-12T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style",
+    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/",
+    "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, May 8, 2026 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 12 May 2026 01:38:30 +0000",
+    "timestamp": 1778549910.0,
+    "isoDate": "2026-05-12T01:38:30+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg?w=1584&h=1184&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill",
+    "link": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
+    "summary": "Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 12 May 2026 00:09:41 +0000",
+    "timestamp": 1778544581.0,
+    "isoDate": "2026-05-12T00:09:41+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png?w=4594&h=2533&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "May 2026 Satellite Puzzler",
+    "link": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/",
+    "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 11 May 2026 22:11:35 +0000",
+    "timestamp": 1778537495.0,
+    "isoDate": "2026-05-11T22:11:35+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg?w=2160&h=1440&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Byron Allen Is Buying BuzzFeed, Will Become CEO",
     "link": "https://tvnewscheck.com/business/article/byron-allen-is-buying-buzzfeed-will-become-ceo/",
     "summary": "Site founder Jonah Peretti will become president of BuzzFeed AI. The post Byron Allen Is Buying BuzzFeed, Will Become CEO appeared first on TV News Check.",
@@ -33,6 +77,17 @@
     "imageUrl": ""
   },
   {
+    "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
+    "link": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/",
+    "summary": "Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around th…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 11 May 2026 20:51:53 +0000",
+    "timestamp": 1778532713.0,
+    "isoDate": "2026-05-11T20:51:53+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-4.jpg?w=1536"
+  },
+  {
     "title": "Swerve TV Launches The Prof G Channel On The Roku Channel & Prime Video",
     "link": "https://tvnewscheck.com/digital/article/swerve-tv-launches-the-prof-g-channel-on-the-roku-channel-prime-video/",
     "summary": "FAST channel operator Swerve TV has introduced The Prof G Channel, a free ad-supported streaming channel centered on podcaster Scott Galloway. It debuted on The Roku Channel, Prime Video, Plex, … The post Swerve TV Launches The Prof G Chann…",
@@ -42,6 +97,17 @@
     "timestamp": 1778527208.0,
     "isoDate": "2026-05-11T19:20:08+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "NASA Invites Media to Annual Lunabotics Robotics Competition",
+    "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/",
+    "summary": "NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center Visitor Complex in Florida. Links to view the Lunabotics compe…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 11 May 2026 19:11:57 +0000",
+    "timestamp": 1778526717.0,
+    "isoDate": "2026-05-11T19:11:57+00:00",
+    "imageUrl": "https://images-assets.nasa.gov/image/KSC-20220524-PH-KLS01_0086/KSC-20220524-PH-KLS01_0086~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "WNBA Media Deals Now Exceed $3 Billion In Total Value",
@@ -108,6 +174,17 @@
     "timestamp": 1778524570.0,
     "isoDate": "2026-05-11T18:36:10+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released",
+    "link": "https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/",
+    "summary": "The Optical Guidelines document provides standardized, transparent, and repeatable process for assessing the quality of optical data from commercial Earth Observation missions.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 11 May 2026 18:34:33 +0000",
+    "timestamp": 1778524473.0,
+    "isoDate": "2026-05-11T18:34:33+00:00",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/05/optical-guidelines-cover.jpg?w=487"
   },
   {
     "title": "‘The Rookie: North’ Lands ABC Series Order For 2026-27 Season",
@@ -231,6 +308,28 @@
     "imageUrl": ""
   },
   {
+    "title": "Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center",
+    "link": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/",
+    "summary": "The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and s…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 11 May 2026 14:00:39 +0000",
+    "timestamp": 1778508039.0,
+    "isoDate": "2026-05-11T14:00:39+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/05/STScI-01KQZBQ6A6G5BMNZAYZ8CZ6TYB.png?w=3840&h=2160&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA Astronaut Jessica Meir",
+    "link": "https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/",
+    "summary": "NASA Astronaut Jessica Meir sits for a portrait at NASA’s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists. Meir launched on NASA’s SpaceX Crew-12 mission to…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 11 May 2026 13:58:09 +0000",
+    "timestamp": 1778507889.0,
+    "isoDate": "2026-05-11T13:58:09+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/jsc2025e078652-altorig.jpg?w=1638"
+  },
+  {
     "title": "NBC Fall 2026 Schedule Targets ‘Core Broadcast Audience,’ Keeps Anchors In Place",
     "link": "https://tvnewscheck.com/programming/article/nbc-fall-2026-schedule-targets-core-broadcast-audience-keeps-anchors-in-place/",
     "summary": "NBC is increasing the number of its primetime scripted series in 2026-27 as four new shows, dramas The Rockford Files and Line of Fire and comedies Sunset P.I. (single-cam) and Newlyweds (multi-cam), are joining the lineup with only two can…",
@@ -339,6 +438,17 @@
     "timestamp": 1778495400.0,
     "isoDate": "2026-05-11T10:30:00+00:00",
     "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20667'%3E%3C/svg%3E"
+  },
+  {
+    "title": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
+    "link": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
+    "summary": "NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station. Loaded with about 6,500 pounds of supplies, the SpaceX Dragon spacecraft will lift off aboard t…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 08 May 2026 22:50:03 +0000",
+    "timestamp": 1778280603.0,
+    "isoDate": "2026-05-08T22:50:03+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/nasa-spacex-crs-34-mission-overview.png?w=2048"
   },
   {
     "title": "8 common misconceptions to correct before investing in a new enterprise audio-visual system",
