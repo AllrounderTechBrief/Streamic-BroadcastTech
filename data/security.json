@@ -1,5 +1,16 @@
 [
   {
+    "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+    "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+    "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campai…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 12 May 2026 14:20:00 +0530",
+    "timestamp": 1778575800.0,
+    "isoDate": "2026-05-12T08:50:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg"
+  },
+  {
     "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
     "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
     "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from t…",
@@ -317,16 +328,5 @@
     "timestamp": 1778065020.0,
     "isoDate": "2026-05-06T10:57:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb87wroQ6p8nQAYNIPc9sSFlIxMecj9qcrm9KPOaAt0-DTof7kW6e6FCc1dmoBFrtyFcZQOhyphenhyphenupMl7E3GAv-6C-5OM3U3NkEo7fKnYw-SWnwzI-yDfsY4J5kM8jgqfIqoSxHp4GJpdjK9kosjlzftCwYxSsva4jnhPHH92FT5rppUXnxCnINf05kPSzb5G/s1600/Orchid.gif"
-  },
-  {
-    "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
-    "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
-    "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 06 May 2026 14:43:00 +0530",
-    "timestamp": 1778058780.0,
-    "isoDate": "2026-05-06T09:13:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3jZdmrzsI_G2u8N5XuvPgzGCHzkTGTIPHZg7O6QMeciCwLNFKkNmxL0c6lZkA06Z0lN2JEpama8zVQuSL-nLLFOqhFyU6AVuYug-he692ziNQNCWxxJKE7YHB28bVu0owc6CiMS19lRL9sOc6yg6GSs9XmjB1PW26cLqISDSFwiE2eXHjQyAhk9T9gOTe/s1600/android-app.jpg"
   }
 ]
