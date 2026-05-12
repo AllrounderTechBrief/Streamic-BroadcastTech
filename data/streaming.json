@@ -1,5 +1,16 @@
 [
   {
+    "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+    "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+    "summary": "We investigated a bug where CUBIC's congestion window became pinned at its minimum floor, causing a performance to plummet. The fix involved correctly measuring idle periods to distinguish RTT wait times from actual application idleness.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 12 May 2026 13:00:00 GMT",
+    "timestamp": 1778590800.0,
+    "isoDate": "2026-05-12T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2f9eyD4uXGCNm7Ni7yHhLB/55f2b686d474173dca610fa74796299d/BLOG-3273_image5.png"
+  },
+  {
     "title": "Agentic AI in Customer Support: Building a Multi-Agent Support System at Bitmovin",
     "link": "https://bitmovin.com/blog/building-multi-agent-ai-support-system-bitmovin/",
     "summary": "What happens when a support engineer ships a production AI system? At Bitmovin, a Senior Support Engineer built a fully operational multi-agent AI support system that now triages incoming customer tickets, searches documentation, diagnoses …",
@@ -295,17 +306,6 @@
     "timestamp": 1776430800.0,
     "isoDate": "2026-04-17T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3i0DbxnemIuOa0tSlgeHul/762f6315b90436796a458d98270eccc5/BLOG-3236_2.png"
-  },
-  {
-    "title": "Introducing Flagship: feature flags built for the age of AI",
-    "link": "https://blog.cloudflare.com/flagship/",
-    "summary": "We are launching Flagship, a native feature flag service built on Cloudflare’s global network to eliminate the latency of third-party providers. By using KV and Durable Objects, Flagship allows for sub-millisecond flag evaluation.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776430800.0,
-    "isoDate": "2026-04-17T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1nKDxB6OkUr1fpVKGWEugC/8fc4dbf0bd1ec45e30010a223982487e/image2.png"
   },
   {
     "title": "Improving ad placement with AI for better viewer experiences",
