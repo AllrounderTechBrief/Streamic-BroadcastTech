@@ -1,14 +1,36 @@
 [
   {
+    "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
+    "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
+    "summary": "Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating. A recent r…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 12 May 2026 17:28:00 +0530",
+    "timestamp": 1778587080.0,
+    "isoDate": "2026-05-12T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA12ieHY1fiDaLvgyhGriQgzyEXJlSwwkQvcJXqP10JFEOcbwVa_EZD9H26tzLJovmlGHDHLL37-0H4y3ePSn5qDwRu6-X6I2StjAFHkiZ4_mgZOnjiKHdg2KId0sJ5OuxxWGeL7ULdNA3X_PTGcdv8_QJ4KS9RCtN-Oe3nLiOLWFwbDB46beV8jRaKG4/s1600/Radiant-webinar.jpg"
+  },
+  {
     "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
     "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
     "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campai…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Tue, 12 May 2026 14:20:00 +0530",
-    "timestamp": 1778575800.0,
-    "isoDate": "2026-05-12T08:50:00+00:00",
+    "timeAgo": "Tue, 12 May 2026 17:16:00 +0530",
+    "timestamp": 1778586360.0,
+    "isoDate": "2026-05-12T11:46:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg"
+  },
+  {
+    "title": "Why Agentic AI Is Security's Next Blind Spot",
+    "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+    "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversati…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 12 May 2026 16:00:00 +0530",
+    "timestamp": 1778581800.0,
+    "isoDate": "2026-05-12T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg"
   },
   {
     "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
@@ -306,27 +328,5 @@
     "timestamp": 1778072400.0,
     "isoDate": "2026-05-06T13:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE6bniWklmqJDwZMxQ07Yrb1XNwfkmJE8SGUazlNaXgn1tcbJkvCSjtbo31oAqPZwb9U9KQ-uDMPmQbxwzthxG9J2j65qOUZAph7AAMJOeXYKbcU8jYwIIyjc_i7YnSrOKQ3jPtHAuCs_vdlyWe6O3ViLRYgza2usaIoYA2GgWxKpGGl6u05IZG_QZmP_/s1600/teams-hacker.jpg"
-  },
-  {
-    "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
-    "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-    "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of leaders making tough call…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 06 May 2026 17:33:00 +0530",
-    "timestamp": 1778068980.0,
-    "isoDate": "2026-05-06T12:03:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Yg33sY2y1VE4mkNb135928ke63sPOMciQgxVLYK0vXlJfSbZPCF0Q2b6URj-uZG0YOarE7-_WKyEc2OTstYRdmcdOagHSWstqHftoc-rv7vWrKepoENsBmKnR7P9jqH6MK9z-oa3RpOks3HGTqafjHUrPp2t-Xny6btfsAMIBcPWPBXq0hZv2-7XrkE/s1600/the-hacker-news-cybersecurity-stars-awards-2026.jpg.jpg"
-  },
-  {
-    "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-    "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
-    "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoptio…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 06 May 2026 16:27:00 +0530",
-    "timestamp": 1778065020.0,
-    "isoDate": "2026-05-06T10:57:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb87wroQ6p8nQAYNIPc9sSFlIxMecj9qcrm9KPOaAt0-DTof7kW6e6FCc1dmoBFrtyFcZQOhyphenhyphenupMl7E3GAv-6C-5OM3U3NkEo7fKnYw-SWnwzI-yDfsY4J5kM8jgqfIqoSxHp4GJpdjK9kosjlzftCwYxSsva4jnhPHH92FT5rppUXnxCnINf05kPSzb5G/s1600/Orchid.gif"
   }
 ]
