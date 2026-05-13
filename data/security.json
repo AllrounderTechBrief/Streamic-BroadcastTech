@@ -1,5 +1,27 @@
 [
   {
+    "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+    "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 13 May 2026 13:38:54 +0530",
+    "timestamp": 1778659734.0,
+    "isoDate": "2026-05-13T08:08:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpbB_p88zZf6q_DhwCbgnYn2okFYqa7pwIPmknojvkOC3heteNMp3C6bzD_6WKChB4yVK0wLyoJ_-DebN0c229j-twjPyMAC-qkfGs1tjlaEoNg30fpEDh9DIByfz_h4nKhalTC_Su-FP0AYxywL_x85ILq1t-QFPtuMa_-KbLKlfsX15kvGpPCs1OZpw/s1600/rubygemss.jpg"
+  },
+  {
+    "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+    "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+    "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persisten…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 13 May 2026 12:25:42 +0530",
+    "timestamp": 1778655342.0,
+    "isoDate": "2026-05-13T06:55:42+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNoTD0wrxHsoNUfZVLT2ImOUNC-2Md_wih6gTim-zbqkCzgGfXbtvlDgDMWeczo9RzINqu7qqk_3XK0KHSdbpLMPbR9xg_pLpjtoxugUt3B5-G9pL9wBCMI80Rx-Aw9eNxH-XXE2XpQHDtqaGDeXe3P4mGDvPgmDiqom8B2Xdfz7irCpOZVvhP9jsqudo/s1600/adnroid-Intrusion-Logging.jpg"
+  },
+  {
     "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
     "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
     "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like…",
@@ -13,7 +35,7 @@
   {
     "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
     "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-    "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on Ruby Gems rig…",
+    "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems righ…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Tue, 12 May 2026 20:17:00 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1778153580.0,
     "isoDate": "2026-05-07T11:33:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg"
-  },
-  {
-    "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-    "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-    "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 07 May 2026 16:24:00 +0530",
-    "timestamp": 1778151240.0,
-    "isoDate": "2026-05-07T10:54:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEBtnOnAfYEV-De3NPPeeTCPWK_gSqYM7OZ0ioRJl84OvS49Fp-GJucJfc-ADDOhyTe11dUoYbkIlA1gYW5b8E6KxYIG71gNa0pU4tmqiEyfmxAEyI1A3n2ZOzfePdcm5WdqHVnFlrSwzgNlOmWKMUOHTqUjS_qUhHBEI9CpMJ_OZrUgn-yaHjTDaXJ0/s1600/main.jpg"
-  },
-  {
-    "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-    "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-    "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called ZiChatBot on Windows and Linux systems. \"While these w…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 07 May 2026 14:50:00 +0530",
-    "timestamp": 1778145600.0,
-    "isoDate": "2026-05-07T09:20:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGun7lMQJXWH3IQiR3ml3RMzAbb1QJcWEtgqDrKTjPbvBhTsDPaCWmI1vTAnevTVPx0lg4xvPkOcpx_86_Znxdgpj-hynQXGEHqf94dvYwOy5VqqnqBWEWrJ3MEkQcLVBVt00Y8pUqVWj4W-hYYepmDmtX9PRQh87qZC7XbJCwdEaLsBY-vTsbkS0yqikd/s1600/pypi.jpg"
   }
 ]
