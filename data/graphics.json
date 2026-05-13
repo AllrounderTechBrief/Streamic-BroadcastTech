@@ -1,5 +1,16 @@
 [
   {
+    "title": "America’s Emerald Isle",
+    "link": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
+    "summary": "Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 13 May 2026 04:00:00 +0000",
+    "timestamp": 1778644800.0,
+    "isoDate": "2026-05-13T04:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america’s-emerald-isle/beaverisland_oli2_20240802.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Dow Adds 56, Nasdaq Drops 186, S&P 500 Falls 12",
     "link": "https://tvnewscheck.com/business/article/dow-adds-56-nasdaq-drops-186-sp-500-falls-12/",
     "summary": "Wall Street's record-setting run is halted Tuesday as AI stocks slumped and oil prices rose. The post Dow Adds 56, Nasdaq Drops 186, S&P 500 Falls 12 appeared first on TV News Check.",
@@ -438,17 +449,6 @@
     "timestamp": 1778549910.0,
     "isoDate": "2026-05-12T01:38:30+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg?w=1584&h=1184&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill",
-    "link": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
-    "summary": "Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 12 May 2026 00:09:41 +0000",
-    "timestamp": 1778544581.0,
-    "isoDate": "2026-05-12T00:09:41+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png?w=4594&h=2533&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Vizrt graphics chosen as the Official Technical Supplier of Eurovision 2026",
