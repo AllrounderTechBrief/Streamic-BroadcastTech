@@ -1,5 +1,27 @@
 [
   {
+    "title": "Getting Started with Wait and Save service-managed fleets on AWS Deadline Cloud",
+    "link": "https://aws.amazon.com/blogs/media/getting-started-with-wait-and-save-service-managed-fleets-on-aws-deadline-cloud/",
+    "summary": "This post shows how to configure Wait and Save for service-managed fleets on Deadline Cloud to reduce CPU rendering costs.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 13 May 2026 14:00:18 +0000",
+    "timestamp": 1778680818.0,
+    "isoDate": "2026-05-13T14:00:18+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/04/Figure-1-Create-Queue.png"
+  },
+  {
+    "title": "Browser Run: now running on Cloudflare Containers, it’s faster and more scalable",
+    "link": "https://blog.cloudflare.com/browser-run-containers/",
+    "summary": "We’ve enabled higher usage limits, faster performance, better reliability, and increased shipping velocity for our Browser Run product by rebuilding on top of Cloudflare’s Containers. Here’s how.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 13 May 2026 13:00:00 GMT",
+    "timestamp": 1778677200.0,
+    "isoDate": "2026-05-13T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3eIJK055QLIl3ay12TIhfQ/9d988169efadb16cb5b18b539b62aa55/image3.png"
+  },
+  {
     "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
     "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
     "summary": "We investigated a bug where CUBIC's congestion window became pinned at its minimum floor, causing a performance to plummet. The fix involved correctly measuring idle periods to distinguish RTT wait times from actual application idleness.",
@@ -297,17 +319,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1Cjj8uXbZRCrQVAxirTo7y/d62b5b798990540e78825747ff24afec/image3.png"
   },
   {
-    "title": "Agents Week: network performance update",
-    "link": "https://blog.cloudflare.com/network-performance-agents-week/",
-    "summary": "By migrating our request handling layer to a Rust-based architecture called FL2, Cloudflare has increased its performance lead to 60% of the world’s top networks. We use real-user measurements and connection trimeans to ensure our data refl…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776430800.0,
-    "isoDate": "2026-04-17T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3i0DbxnemIuOa0tSlgeHul/762f6315b90436796a458d98270eccc5/BLOG-3236_2.png"
-  },
-  {
     "title": "Improving ad placement with AI for better viewer experiences",
     "link": "https://bitmovin.com/blog/ai-ad-placement-score-scene-level-streaming/",
     "summary": "You’re watching a key moment in a show. The tension is building, the scene is about to peak, and just as it does, the video cuts to an ad. It’s a familiar experience, and one that immediately breaks immersion, not because the ad exists, but…",
@@ -537,16 +548,5 @@
     "timestamp": 1771283793.0,
     "isoDate": "2026-02-16T23:16:33+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/13/T2-arena.png"
-  },
-  {
-    "title": "HiBid brings the excitement of auctions online with Amazon IVS",
-    "link": "https://aws.amazon.com/blogs/media/hibid-brings-the-excitement-of-auctions-online-with-amazon-ivs/",
-    "summary": "For over 15 years, HiBid has helped auctioneers reach bidders beyond their local markets, enabling auction houses to expand from local-only events to national and global participation. Most recently, with a switch to Amazon Interactive Vide…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 12 Feb 2026 21:40:25 +0000",
-    "timestamp": 1770932425.0,
-    "isoDate": "2026-02-12T21:40:25+00:00",
-    "imageUrl": ""
   }
 ]

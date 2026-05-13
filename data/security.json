@@ -1,8 +1,30 @@
 [
   {
-    "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+    "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+    "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+    "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private pr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 13 May 2026 19:16:02 +0530",
+    "timestamp": 1778679962.0,
+    "isoDate": "2026-05-13T13:46:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Iq16GS3jdGiIU24GHBkwg6unk05ctdgYwXO5df8zRu1qko95_XhszCjq6jlEIRozLsrtZHgi5GqDZnS1Sw_KDzUzsagwP0If3VswmYHsnuYwVseU2lapxQiPpItTdAiv-CCdTFR87ZVOu65buyvmvzmdWuJPKHuPA4DSo58HQIMAV__2ymsmRe2g3UVe/s1600/windows-ai.jpg"
+  },
+  {
+    "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+    "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+    "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting. The activit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 13 May 2026 18:30:00 +0530",
+    "timestamp": 1778677200.0,
+    "isoDate": "2026-05-13T13:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfGXVOYqF2EcrcnYIDCnTYdmWpV-uaZ5nV0_0ukZ8uCk19wFFOax_VvgwO8LtlIkVo8pvcSSBs8Afc66yo2PbiMDjq4UDqnytAqP-Nq8CqTOfEtqwuWRmjbUpRYzqaAXFnRiXozR34fXAPE8O6Gcix6f08Sped3oVUXcjIOTE04N8IInA0qVeG0Sc6LzB/s1600/energy-cyberattack.jpg"
+  },
+  {
+    "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
     "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-    "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most securi…",
+    "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work li…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Wed, 13 May 2026 17:22:43 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1778229660.0,
     "isoDate": "2026-05-08T08:41:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNgyNI9ObZi3Il87CVXhEWyWgcK-O1IKhQKRs7NPrNVqTMBZRw7AZpmbk5RdsPxNPmO9IyXaq6QzYBN691HBgfE8HpwnyJuE4-vaCAwHPpb6UfeSRcrMI-GRjcX53cELs31s7ps6YkGx5bAAB67w4m9GQ7ZVWjSdnaPOFczjHlsS3967ZvBh-4ZvTBWEJ/s1600/linux-pam.jpg"
-  },
-  {
-    "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-    "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
-    "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 08 May 2026 10:42:00 +0530",
-    "timestamp": 1778217120.0,
-    "isoDate": "2026-05-08T05:12:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif"
-  },
-  {
-    "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-    "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-    "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 07 May 2026 23:25:00 +0530",
-    "timestamp": 1778176500.0,
-    "isoDate": "2026-05-07T17:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg"
   }
 ]
