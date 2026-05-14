@@ -1,5 +1,16 @@
 [
   {
+    "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer o…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 14 May 2026 11:30:09 +0530",
+    "timestamp": 1778738409.0,
+    "isoDate": "2026-05-14T06:00:09+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif"
+  },
+  {
     "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
     "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
     "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private pr…",
@@ -317,16 +328,5 @@
     "timestamp": 1778236200.0,
     "isoDate": "2026-05-08T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaPw5V89Ez9z5x8eFLFOhwPphGqXDQVGfd2sI-pX9Q1XTcpYlWEhFiZ6o12fzAyvtCFDQ0zs4AFlHl4HJNnjWH8hUXM9r_-oBl7YMEnU1F41Ho7DL23NJbgG4M3eoqF6CTZWqFtFcw0gOB8QfkCPW1_xQ-HwmvWr3GMzEeRFbC8SLgG5LsdnopTAHDOs/s1600/ai-soc.jpg"
-  },
-  {
-    "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-    "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\" The backdoor is designed as a Pluggable Au…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 08 May 2026 14:11:00 +0530",
-    "timestamp": 1778229660.0,
-    "isoDate": "2026-05-08T08:41:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNgyNI9ObZi3Il87CVXhEWyWgcK-O1IKhQKRs7NPrNVqTMBZRw7AZpmbk5RdsPxNPmO9IyXaq6QzYBN691HBgfE8HpwnyJuE4-vaCAwHPpb6UfeSRcrMI-GRjcX53cELs31s7ps6YkGx5bAAB67w4m9GQ7ZVWjSdnaPOFczjHlsS3967ZvBh-4ZvTBWEJ/s1600/linux-pam.jpg"
   }
 ]
