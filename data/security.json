@@ -1,5 +1,27 @@
 [
   {
+    "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+    "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CV…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 14 May 2026 17:10:14 +0530",
+    "timestamp": 1778758814.0,
+    "isoDate": "2026-05-14T11:40:14+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2IaSkdVZD_wyJJT-sODoazviDXhw3MGkn5XHYocnTL1YfLJpgJ-1wNaAm0Rk0phyrIv8vS73SNNkPSmlxRkK9ySAQGnn_tCP9JcVKyqee6lxjlYEp0cs2C_R9cDtgCEXwsjWtx1XnafF5r_fAuDDAvg0CRMOgJk8ZMwSjRsw1Js90uR-97t-rh5yU12Oj/s1600/praison.jpg"
+  },
+  {
+    "title": "How AI Hallucinations Are Creating Real Security Risks",
+    "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+    "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 14 May 2026 17:00:00 +0530",
+    "timestamp": 1778758200.0,
+    "isoDate": "2026-05-14T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45HPlwBwWVoL1fRSEGy7bjtz4Z05lAO8NWxLqPrzQ93c3j5aaj_CaK5gCrJC6aYP0ePV36n27rw33vJv5mUXf3mtdOEItJjHrSkzckVGAdTU2UMp8s-HAVjNUE7jVDeTH0UikGxNZWeB6J3qVNguP2iO5V5-qUgW3g_IqxZ9cMEZy0tS0iEsl8MnSjB0/s1600/keeper.jpg"
+  },
+  {
     "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
     "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
     "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework …",
@@ -306,27 +328,5 @@
     "timestamp": 1778263920.0,
     "isoDate": "2026-05-08T18:12:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg"
-  },
-  {
-    "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-    "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
-    "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provid…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 08 May 2026 20:38:00 +0530",
-    "timestamp": 1778252880.0,
-    "isoDate": "2026-05-08T15:08:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg"
-  },
-  {
-    "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-    "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-    "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using A…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 08 May 2026 19:31:00 +0530",
-    "timestamp": 1778248860.0,
-    "isoDate": "2026-05-08T14:01:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
   }
 ]
