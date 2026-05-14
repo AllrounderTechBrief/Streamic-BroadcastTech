@@ -1,5 +1,16 @@
 [
   {
+    "title": "Our billing pipeline was suddenly slow. The culprit was a hidden bottleneck in ClickHouse",
+    "link": "https://blog.cloudflare.com/clickhouse-query-plan-contention/",
+    "summary": "When a partitioning change to our petabyte-scale ClickHouse cluster caused critical billing jobs to stall, standard metrics showed no obvious errors. This post explores how we identified severe lock contention in ClickHouse's query planner …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 14 May 2026 13:00:00 GMT",
+    "timestamp": 1778763600.0,
+    "isoDate": "2026-05-14T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6d3ywoUP3OE2DCRAJtAgF7/5aa62c5702a923e30889ebf787925ae8/BLOG-3299_image4.png"
+  },
+  {
     "title": "Getting Started with Wait and Save service-managed fleets on AWS Deadline Cloud",
     "link": "https://aws.amazon.com/blogs/media/getting-started-with-wait-and-save-service-managed-fleets-on-aws-deadline-cloud/",
     "summary": "This post shows how to configure Wait and Save for service-managed fleets on Deadline Cloud to reduce CPU rendering costs.",
@@ -306,17 +317,6 @@
     "timestamp": 1776430800.0,
     "isoDate": "2026-04-17T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4aOVSF1i241gGUwrPrhLfC/21a4f5984b89e56b1ec637f8dbe3c794/1.png"
-  },
-  {
-    "title": "Agents that remember: introducing Agent Memory",
-    "link": "https://blog.cloudflare.com/introducing-agent-memory/",
-    "summary": "Cloudflare Agent Memory is a managed service that gives AI agents persistent memory, allowing them to recall what matters, forget what doesn't, and get smarter over time.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776430800.0,
-    "isoDate": "2026-04-17T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1Cjj8uXbZRCrQVAxirTo7y/d62b5b798990540e78825747ff24afec/image3.png"
   },
   {
     "title": "Improving ad placement with AI for better viewer experiences",
