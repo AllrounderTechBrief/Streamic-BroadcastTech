@@ -1,5 +1,27 @@
 [
   {
+    "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+    "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+    "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, nets…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 15 May 2026 16:30:00 +0530",
+    "timestamp": 1778842800.0,
+    "isoDate": "2026-05-15T11:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg"
+  },
+  {
+    "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+    "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+    "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were comprom…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 15 May 2026 16:24:44 +0530",
+    "timestamp": 1778842484.0,
+    "isoDate": "2026-05-15T10:54:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg"
+  },
+  {
     "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
     "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
     "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been desc…",
@@ -68,7 +90,7 @@
   {
     "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
     "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-    "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CV…",
+    "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vulnerability in question i…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Thu, 14 May 2026 17:10:14 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1778524200.0,
     "isoDate": "2026-05-11T18:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq0A3_8O89uC968dpFnFxE4v3J4fpr5nEqC-2QiSJ_rtZlgPocPYIaowCvCMeONhcrFiaoSdBVeNsuTa2ipAZZ3HBMUDcfO8DZ06pughteYJItHhMLeBr_jnfLL-5WX6xBE_EjIfPDGjCYyDCa6aImjimPNl7FtM1evdnTUVEk54x9pczRaFlmEZy1Cv8B/s1600/Jenkins.jpg"
-  },
-  {
-    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-    "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-    "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 11 May 2026 23:24:00 +0530",
-    "timestamp": 1778522040.0,
-    "isoDate": "2026-05-11T17:54:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg"
-  },
-  {
-    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-    "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-    "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the w…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 11 May 2026 21:15:00 +0530",
-    "timestamp": 1778514300.0,
-    "isoDate": "2026-05-11T15:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF329-zAoI4gwIW3h3gRYiDJjcRSyWPM4DLHFQwNNGfLTVaROqIfQZ0QB1FwWGmvMGuyNAF9Q6QBYcwLsqMsCka5Lqu82CzUbrBULnUDQwtY_4z6KiOEKSETes6as77XfUCaJVBUOCovZz8jajp6vBp9AAjHiS7BEviANEH0FxmzZwdrTapD3R-gPQWKJ1/s1600/ai-hacker.jpg"
   }
 ]
