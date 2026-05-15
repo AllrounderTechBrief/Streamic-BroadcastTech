@@ -1,5 +1,16 @@
 [
   {
+    "title": "Picturing Earth in a New Light",
+    "link": "https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/",
+    "summary": "A recent analysis revealed where artificial light at night has intensified, as well as where it has diminished.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 15 May 2026 04:00:00 +0000",
+    "timestamp": 1778817600.0,
+    "isoDate": "2026-05-15T04:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/picturing-earth-in-a-new-light/nightlights_global_20142022.jpg?w=2880&h=1920&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Keith Cox Leaving Paramount After 20 Years",
     "link": "https://tvnewscheck.com/programming/article/keith-cox-leaving-paramount-after-20-years/",
     "summary": "Cox, who has served as programming president for multiple brands, including TV Land, Paramount Network and Showtime/MTV Entertainment Studios, is departing June 5. Word is he's negotiating to join his former boss, Chris McCarthy, at NBCUniv…",
@@ -427,17 +438,6 @@
     "timestamp": 1778681723.0,
     "isoDate": "2026-05-13T14:15:23+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/tess/news/2026/all-sky-2025/TESS_both_bin4_planets_3870x1950.png?w=3870&h=1950&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "America’s Emerald Isle",
-    "link": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
-    "summary": "Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 13 May 2026 04:00:00 +0000",
-    "timestamp": 1778644800.0,
-    "isoDate": "2026-05-13T04:00:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america’s-emerald-isle/beaverisland_oli2_20240802.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Vizrt strengthens its presence in the UK and Ireland with new distributor, Holdan",
