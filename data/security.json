@@ -1,5 +1,27 @@
 [
   {
+    "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+    "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+    "summary": "The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cyber…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 15 May 2026 22:40:25 +0530",
+    "timestamp": 1778865025.0,
+    "isoDate": "2026-05-15T17:10:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8BT1AOScncZQM_A-0WBdCzTDAHGHSey48_Mywhij-TJupCdzP3s3o-MIImRtMZcoV2OqX3RjRV4COpVqkB1mrH3d_zjwvSTwCEXOq_2m80HgDo-xwAZ1KpR1h8eN9dAHGcKN_PpcE0cBsnv67FcthDycHLBJMYs8NkPszWNiQqdbhyL0YIlwVJn4NtgaR/s1600/code.jpg"
+  },
+  {
+    "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+    "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+    "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 15 May 2026 19:05:04 +0530",
+    "timestamp": 1778852104.0,
+    "isoDate": "2026-05-15T13:35:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_tK9S8jS_n5CK694-FLGjQP5_Mmpg7z9ZRiBayWsJLsuFRIm-8j1hTlhH90779FvnvhpiFKeGP9CzI5RCPsxQEnOzAIQsPzUsAJhUWtNm9iwf9C1W9DbDmqoQ_jjHhM7huYDV210OB9o1L9NPoJ0IL6R9Xc-V4JQ91Kn-b47_2ravRJ6-qlZOVrqsuAz/s1600/openclaw.png"
+  },
+  {
     "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
     "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
     "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, nets…",
@@ -306,27 +328,5 @@
     "timestamp": 1778568900.0,
     "isoDate": "2026-05-12T06:55:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWuBkkGzJLNmcxzqkKdh6dI6X-juFjpMWr-k6VGVTL6G1XZUH1sna06RS5PQY0e4A1VpUjvR-dpWMCx0yQJBdjFyjnoyOek-ysMpU7cgWBkUHChyADdRozT1XHNIvUhU_ibCkggQaGESD7St4aCfyx4SWOfLjUSuoeWiJQmmb1EkimfKA27g_tVHdV-G-/s1600/openai-daybreak.jpg"
-  },
-  {
-    "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-    "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
-    "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secure alternative. To that …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 12 May 2026 10:48:00 +0530",
-    "timestamp": 1778563080.0,
-    "isoDate": "2026-05-12T05:18:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hWB1CFFk1cxzc9VF7NI2QB-oCzrDMhxoIeajumiDRPkGyEt1wzhH3A3awM8uAZlRb2OXf33nd2O4Ug_IwHlCRNED92zQwFnDvyi9ypYQgQ8gRLCzkA6pHfJ2rfKfl-mTo5ha7KH2Jnwp9S6qIYx_6H4DnUSvVGM6k-yZfPQtKkO0pcGdhC4yVwI8-NEk/s1600/e2ee-rcs.jpg"
-  },
-  {
-    "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-    "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-    "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 12 May 2026 00:00:00 +0530",
-    "timestamp": 1778524200.0,
-    "isoDate": "2026-05-11T18:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq0A3_8O89uC968dpFnFxE4v3J4fpr5nEqC-2QiSJ_rtZlgPocPYIaowCvCMeONhcrFiaoSdBVeNsuTa2ipAZZ3HBMUDcfO8DZ06pughteYJItHhMLeBr_jnfLL-5WX6xBE_EjIfPDGjCYyDCa6aImjimPNl7FtM1evdnTUVEk54x9pczRaFlmEZy1Cv8B/s1600/Jenkins.jpg"
   }
 ]
