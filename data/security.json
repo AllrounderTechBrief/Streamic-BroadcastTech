@@ -1,5 +1,27 @@
 [
   {
+    "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+    "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+    "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been desc…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 15 May 2026 11:49:04 +0530",
+    "timestamp": 1778825944.0,
+    "isoDate": "2026-05-15T06:19:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png"
+  },
+  {
+    "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+    "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+    "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Ex…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 15 May 2026 10:58:03 +0530",
+    "timestamp": 1778822883.0,
+    "isoDate": "2026-05-15T05:28:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1600/cisa-exploit.png"
+  },
+  {
     "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
     "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
     "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0…",
@@ -306,27 +328,5 @@
     "timestamp": 1778514300.0,
     "isoDate": "2026-05-11T15:45:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF329-zAoI4gwIW3h3gRYiDJjcRSyWPM4DLHFQwNNGfLTVaROqIfQZ0QB1FwWGmvMGuyNAF9Q6QBYcwLsqMsCka5Lqu82CzUbrBULnUDQwtY_4z6KiOEKSETes6as77XfUCaJVBUOCovZz8jajp6vBp9AAjHiS7BEviANEH0FxmzZwdrTapD3R-gPQWKJ1/s1600/ai-hacker.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-    "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
-    "summary": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access pa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 11 May 2026 18:06:00 +0530",
-    "timestamp": 1778502960.0,
-    "isoDate": "2026-05-11T12:36:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4a3gzeAEAv4Bs5FqWbHG1cRyNqIOjygeSxxpNoChwyyMUWlbZHzkG0n8ysGpoAYuKqklfMtTKRct0OeYktaKLhdXpRH5pKH94tVaMX7iPeNDf7vZjFky3myBkFPJPl1xIdsWDlIYP30IeR7IZGhQZ5p82yHRdRO1OGkpAtTWgZcQSG3zXqh9tLbSSrgP/s1600/cyber-recap.jpg"
-  },
-  {
-    "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
-    "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
-    "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's lon…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 11 May 2026 17:00:00 +0530",
-    "timestamp": 1778499000.0,
-    "isoDate": "2026-05-11T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0dlupn761jekig7BbPagwo6DtccMFQV8oESHiCBIs04DdhvoVtfwhe7OVEh8VvyFpa-VFo9GKWL8tx2ZKTSn3qA7iAFCvTfoevjyPFYNb3eAmpp4pkWk3mcQd_AulszHJoxUa6z_k_Nr_KB9Ny_hoZWy1VVA-U9BV2nPvESGGqPE5r4_AbNlid_BK-M8/s1600/picus.jpg"
   }
 ]
