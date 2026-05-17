@@ -1,5 +1,16 @@
 [
   {
+    "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+    "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+    "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 17 May 2026 17:27:53 +0530",
+    "timestamp": 1779019073.0,
+    "isoDate": "2026-05-17T11:57:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
+  },
+  {
     "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
     "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
     "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no customer data or personal info…",
@@ -317,16 +328,5 @@
     "timestamp": 1778586360.0,
     "isoDate": "2026-05-12T11:46:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg"
-  },
-  {
-    "title": "Why Agentic AI Is Security's Next Blind Spot",
-    "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
-    "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversati…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 12 May 2026 16:00:00 +0530",
-    "timestamp": 1778581800.0,
-    "isoDate": "2026-05-12T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg"
   }
 ]
