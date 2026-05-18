@@ -1,5 +1,60 @@
 [
   {
+    "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+    "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+    "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 18 May 2026 16:53:41 +0530",
+    "timestamp": 1779103421.0,
+    "isoDate": "2026-05-18T11:23:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif"
+  },
+  {
+    "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+    "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+    "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical flaw impacting Ivanti …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 18 May 2026 16:24:05 +0530",
+    "timestamp": 1779101645.0,
+    "isoDate": "2026-05-18T10:54:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg"
+  },
+  {
+    "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+    "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+    "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 18 May 2026 14:27:34 +0530",
+    "timestamp": 1779094654.0,
+    "isoDate": "2026-05-18T08:57:34+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg"
+  },
+  {
+    "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+    "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+    "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 18 May 2026 14:27:26 +0530",
+    "timestamp": 1779094646.0,
+    "isoDate": "2026-05-18T08:57:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg"
+  },
+  {
+    "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+    "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+    "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool wa…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 18 May 2026 12:16:37 +0530",
+    "timestamp": 1779086797.0,
+    "isoDate": "2026-05-18T06:46:37+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg"
+  },
+  {
     "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
     "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
     "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is…",
@@ -273,60 +328,5 @@
     "timestamp": 1778655342.0,
     "isoDate": "2026-05-13T06:55:42+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNoTD0wrxHsoNUfZVLT2ImOUNC-2Md_wih6gTim-zbqkCzgGfXbtvlDgDMWeczo9RzINqu7qqk_3XK0KHSdbpLMPbR9xg_pLpjtoxugUt3B5-G9pL9wBCMI80Rx-Aw9eNxH-XXE2XpQHDtqaGDeXe3P4mGDvPgmDiqom8B2Xdfz7irCpOZVvhP9jsqudo/s1600/adnroid-Intrusion-Logging.jpg"
-  },
-  {
-    "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-    "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-    "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 12 May 2026 22:14:00 +0530",
-    "timestamp": 1778604240.0,
-    "isoDate": "2026-05-12T16:44:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSn3emm_NbwXDi3elR0wo5ErHhg-gPT4-u4zk7MHZg4u0ruMmj2_KGgPF8fz06Riv6Gu5NXMN3eBP8H5bVf6dmvOz-lvb-qrvhLlssLUzl97ZVmIWoIOmMPOGrupv864dt0d4V_dxgaaxYYNuy2z9rbZMWIOcjlwZaiifq4-ktRqlEBCJ6a_m3MFiwq65/s1600/exim.jpg"
-  },
-  {
-    "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-    "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-    "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems righ…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 12 May 2026 20:17:00 +0530",
-    "timestamp": 1778597220.0,
-    "isoDate": "2026-05-12T14:47:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggIbYm86Vn45Nd86Hd5IEqHufRIS5Ud3spGUy5JWHy-My-NBVocyj-aR7E3gBKibPnrWd5DRYnDfmbaHUMuaYcNn_paUIDN11VLySLNUsXwFwVIALsNo419985zWvtepK7NVp9J4W3d7uHGWkQFgqI6zY_9Y5LWe5hsTLk-c9ZMKQ4TDlUMcMh8-_vhdIH/s1600/rubygems.jpg"
-  },
-  {
-    "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-    "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-    "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 12 May 2026 18:20:00 +0530",
-    "timestamp": 1778590200.0,
-    "isoDate": "2026-05-12T12:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBy7H5qvorFUmJqREACqqxVC0ogVq88dP8wLyKyUPF9fCowpUSkb7foEsEPDALt0ccCpcJc6PXCJjFmQo0oX3furU-cYPULBa0-pjpiLGV04JD6kr4G0VIrvFoJo54WmgjU1YocsquA15N3hxDmwt4i82QpYdil7F4fI0SMFVv9YCkbqqGKjIi-dEmcIx/s1600/tricks.jpg"
-  },
-  {
-    "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
-    "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
-    "summary": "Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating. A recent r…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 12 May 2026 17:28:00 +0530",
-    "timestamp": 1778587080.0,
-    "isoDate": "2026-05-12T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA12ieHY1fiDaLvgyhGriQgzyEXJlSwwkQvcJXqP10JFEOcbwVa_EZD9H26tzLJovmlGHDHLL37-0H4y3ePSn5qDwRu6-X6I2StjAFHkiZ4_mgZOnjiKHdg2KId0sJ5OuxxWGeL7ULdNA3X_PTGcdv8_QJ4KS9RCtN-Oe3nLiOLWFwbDB46beV8jRaKG4/s1600/Radiant-webinar.jpg"
-  },
-  {
-    "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-    "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-    "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaig…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 12 May 2026 17:16:00 +0530",
-    "timestamp": 1778586360.0,
-    "isoDate": "2026-05-12T11:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg"
   }
 ]
