@@ -1,5 +1,16 @@
 [
   {
+    "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+    "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+    "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countri…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 18 May 2026 22:51:18 +0530",
+    "timestamp": 1779124878.0,
+    "isoDate": "2026-05-18T17:21:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxxVYex3z2F03m6RYOR72whyegN5TEzzNxZO3tTOSHNTQ4tqCeD-H-F0c3K8dInMfh1EwPQP0jtoHEA4agDOYN2sF7qxGMHnuhsWges5me7ESa8_ycNj0vHf1TeeTgqetA1yOQ5Gi6a7jsV5khO3PVNcbkrBRCTMRNRb_qPLwBUdlvZJUCDvGjtmSVuod/s1600/hackers.png"
+  },
+  {
     "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
     "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
     "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned…",
@@ -317,16 +328,5 @@
     "timestamp": 1778671800.0,
     "isoDate": "2026-05-13T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg70Fxtk3MEmUdZjXl_ocBSlT80rWfXtIj2kxPvypzCSlEK4cqkm8lo16NXHjvyCw9niiPk2gKSPhgTjSFTZpetxg2As7QL0AyWWHoTuvtcp1Ok-ALMfcUwaUMAyE8asDu-KjVDoUP4VLCOSDPWHru7V-ix6Xs-VSHvHDJ8KRn6NLq_EJJBm0B4xwa9vbLp/s1600/pentera.jpg"
-  },
-  {
-    "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-    "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-    "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Critical, 104 are rated I…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 13 May 2026 16:06:10 +0530",
-    "timestamp": 1778668570.0,
-    "isoDate": "2026-05-13T10:36:10+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg"
   }
 ]
