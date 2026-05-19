@@ -1,5 +1,16 @@
 [
   {
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that…",
+    "source": "AI | VentureBeat",
+    "category": "ai-in-media",
+    "timeAgo": "Tue, 19 May 2026 17:45:00 GMT",
+    "timestamp": 1779212700.0,
+    "isoDate": "2026-05-19T17:45:00+00:00",
+    "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
+  },
+  {
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
     "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artifici…",
@@ -64,16 +75,5 @@
     "timestamp": 1767816000.0,
     "isoDate": "2026-01-07T20:00:00+00:00",
     "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&q=30"
-  },
-  {
-    "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-    "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-    "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X from Boris Cherny, the creator and head of…",
-    "source": "AI | VentureBeat",
-    "category": "ai-in-media",
-    "timeAgo": "Mon, 05 Jan 2026 07:45:00 GMT",
-    "timestamp": 1767599100.0,
-    "isoDate": "2026-01-05T07:45:00+00:00",
-    "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/6VsJWNsStTR57q9vFd5L08/a0d88b4dcbd1e9ba77fd72a9c55988d9/nuneybits_Vector_art_of_programmer_conducting_robot_orchestra_i_908157a9-d44f-4bce-b390-5913b88dad27.webp?w=300&q=30"
   }
 ]
