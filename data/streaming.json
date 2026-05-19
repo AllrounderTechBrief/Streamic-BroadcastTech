@@ -24,7 +24,7 @@
   {
     "title": "How Purpose-Built Observability Improves Streaming Quality and Reduces Churn",
     "link": "https://bitmovin.com/blog/observability-for-video-playback/",
-    "summary": "This article was originally published in July 2025 and has been updated. The moment a stream starts buffering during a championship match or lags during the finale of a fan-favorite series, frustration spikes. These playback issues don’t ju…",
+    "summary": "General-purpose observability tools were built for infrastructure, not video. When streaming teams try to adapt them to player-level workflows, they hit immediate limits: no native understanding of buffering or bitrate shifts, no visibility…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Fri, 15 May 2026 15:44:12 +0000",
@@ -35,7 +35,7 @@
   {
     "title": "The Future of VOD Workflows in an AI-Driven Streaming Industry",
     "link": "https://bitmovin.com/blog/ai-vod-workflows-performance-revenue/",
-    "summary": "AI is no longer a side project in video streaming. It’s becoming the layer that connects encoding decisions to viewer experience, content analysis to monetization, and operational data to continuous optimization. Over 90% of respondents in …",
+    "summary": "Over 90% of video teams are already exploring AI in their workflows. The question is how to integrate it in a way that actually moves the needle. This post covers how content-aware encoding, automated scene metadata, contextual advertising,…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Thu, 14 May 2026 14:59:48 +0000",

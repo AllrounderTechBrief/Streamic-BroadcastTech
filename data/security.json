@@ -1,5 +1,38 @@
 [
   {
+    "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
+    "link": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
+    "summary": "In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries. The targets of the platform received a message as…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 19 May 2026 17:00:00 +0530",
+    "timestamp": 1779190200.0,
+    "isoDate": "2026-05-19T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLnnvBvl0Gs5pfpUcrlJ_Ni62CyGs5UpoGCmpUAjReyBpExj5FzhuxSwuUcfQiyxDqeeoy6jSAHq4tA2KUnO5CRfbpfd_jN1ndeXgC0MiG0TrAfAyW67eybZeHMY-t6_kICQdPPKqK-1n9Ngkrj7UJrZZa1KQWqN9WjaTaDuHA_t6RW9Stul6tb82OS_4/s1600/reco1.jpg"
+  },
+  {
+    "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
+    "link": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
+    "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC. \"The Drupal Security Team urges you to reserve time for core updates at that time because…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 19 May 2026 16:14:45 +0530",
+    "timestamp": 1779187485.0,
+    "isoDate": "2026-05-19T10:44:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdm6ntsTvJJXoF1Bvx2Qm11faosxt-w7g0VzPCnsORnDN-q79t1wnbzqTFxbkRw5DF1DjhdDUgZ1H_0O4h35tZcEvlsM7dEUkbPyvaQdkEhhyGhpF90Bug4O1aai-0dXi1DdnnOpH2SmC8GoQD0TAd742-StQ4Pva_IVXNUcRpy9V96B7dwBnOc41xScyj/s1600/drupal-update.jpg"
+  },
+  {
+    "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
+    "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+    "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails fr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 19 May 2026 14:53:15 +0530",
+    "timestamp": 1779182595.0,
+    "isoDate": "2026-05-19T09:23:15+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiortK4EUp9FwJsfVYW-j20LfpbM5qMNelk5-T8BbZ7dEcmBLXnqhWW9loE8GD6aexZv3h-xHEgn_N7ECjV8KXdcGwNxsbhCPP07COzt9c8BhMaVTF4OaSnKD2b98mJjsU1d57OXj2FQtOhKyeo6oPcT0-rrOi-_dKf1iielQQnhsprZ43tHyYFbiYhgFK8/s1600/email-hacking.jpg"
+  },
+  {
     "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
     "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
     "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a pop…",
@@ -295,38 +328,5 @@
     "timestamp": 1778750750.0,
     "isoDate": "2026-05-14T09:25:50+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1600/windowss.jpg"
-  },
-  {
-    "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-    "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-    "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a spa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 14 May 2026 12:36:15 +0530",
-    "timestamp": 1778742375.0,
-    "isoDate": "2026-05-14T07:06:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEVPJhl5rAx5o22-s1GQ6E1KKHMlOsazAfObgwK72r5EGxr52OkNRHHQXJdHt39DQop0SAhxE_t9nMKgXxHNgYv1zyB-ZR1IqCIKUK2feTpx1swr4dZzKLpZ5uldjrOAX6qH-wYnUfRWieA2xQWPbAUB1JpXhkBGq4AA0Ft07F7MFqZSHCS9SMR6uXjoC/s1600/linux-2.jpg"
-  },
-  {
-    "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer o…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 14 May 2026 11:30:09 +0530",
-    "timestamp": 1778738409.0,
-    "isoDate": "2026-05-14T06:00:09+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif"
-  },
-  {
-    "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-    "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-    "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private pr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 13 May 2026 19:16:02 +0530",
-    "timestamp": 1778679962.0,
-    "isoDate": "2026-05-13T13:46:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Iq16GS3jdGiIU24GHBkwg6unk05ctdgYwXO5df8zRu1qko95_XhszCjq6jlEIRozLsrtZHgi5GqDZnS1Sw_KDzUzsagwP0If3VswmYHsnuYwVseU2lapxQiPpItTdAiv-CCdTFR87ZVOu65buyvmvzmdWuJPKHuPA4DSo58HQIMAV__2ymsmRe2g3UVe/s1600/windows-ai.jpg"
   }
 ]
