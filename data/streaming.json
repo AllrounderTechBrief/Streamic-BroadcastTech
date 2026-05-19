@@ -1,5 +1,16 @@
 [
   {
+    "title": "Announcing Claude Managed Agents on Cloudflare",
+    "link": "https://blog.cloudflare.com/claude-managed-agents/",
+    "summary": "Cloudflare has integrated with Anthropic's Claude Managed Agents to provide a fast, isolated execution environment for autonomous code delivery. This means builders can scale agent workflows globally while strictly controlling access to pri…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 19 May 2026 13:00:00 GMT",
+    "timestamp": 1779195600.0,
+    "isoDate": "2026-05-19T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6nYyreZYWyaKo6Xf2XjmtM/5cc21576a83e223a2cf67e8ed3fde928/image5.png"
+  },
+  {
     "title": "Project Glasswing: what Mythos showed us",
     "link": "https://blog.cloudflare.com/cyber-frontier-models/",
     "summary": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look like b…",
@@ -339,17 +350,6 @@
     "timestamp": 1776430920.0,
     "isoDate": "2026-04-17T13:02:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2g2NBi1d4eqLAgksGetult/ea05b48519edfa8cccde6d6531700ce1/image5.png"
-  },
-  {
-    "title": "Redirects for AI Training enforces canonical content",
-    "link": "https://blog.cloudflare.com/ai-redirects/",
-    "summary": "Soft directives don’t stop crawlers from ingesting deprecated content. Redirects for AI Training allows anybody on Cloudflare to redirect verified crawlers to canonical pages with one toggle and no origin changes.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 17 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776430800.0,
-    "isoDate": "2026-04-17T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4zPrHtLf1BbHxQXQHTK1Qs/21a75531129332d749210d67b2c330ad/BLOG-3263_2.png"
   },
   {
     "title": "Improving ad placement with AI for better viewer experiences",

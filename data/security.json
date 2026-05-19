@@ -1,5 +1,16 @@
 [
   {
+    "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+    "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+    "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE). Dubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 19 May 2026 20:26:26 +0530",
+    "timestamp": 1779202586.0,
+    "isoDate": "2026-05-19T14:56:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgecVdZ_vIxfMWdiQkn7dC_SCueSRLBHaU01aHrtW1lUsx3_5gwbM6fG5NyV-VUhnDxvolk_tzMNWgINg06cwjKL1xIeDIFMiFH56IUO_zwZwJqiLnMp-VJcIWFjhulk1AHnlZ_ETgH3vg6Q6SHS4Ae-teRmaLDY4XZhONjoz4MeKvQLyzJ_YdckL8lk3fe/s1600/linux-poc.jpg"
+  },
+  {
     "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
     "link": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
     "summary": "In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries. The targets of the platform received a message as…",
@@ -317,16 +328,5 @@
     "timestamp": 1778758200.0,
     "isoDate": "2026-05-14T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45HPlwBwWVoL1fRSEGy7bjtz4Z05lAO8NWxLqPrzQ93c3j5aaj_CaK5gCrJC6aYP0ePV36n27rw33vJv5mUXf3mtdOEItJjHrSkzckVGAdTU2UMp8s-HAVjNUE7jVDeTH0UikGxNZWeB6J3qVNguP2iO5V5-qUgW3g_IqxZ9cMEZy0tS0iEsl8MnSjB0/s1600/keeper.jpg"
-  },
-  {
-    "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-    "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-    "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 14 May 2026 14:55:50 +0530",
-    "timestamp": 1778750750.0,
-    "isoDate": "2026-05-14T09:25:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1600/windowss.jpg"
   }
 ]
