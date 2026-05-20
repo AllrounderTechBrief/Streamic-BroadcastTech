@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+    "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of mach…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 20 May 2026 20:06:44 +0530",
+    "timestamp": 1779287804.0,
+    "isoDate": "2026-05-20T14:36:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiypJnCUStqk0SRgnT6bFPLXM9F10uUBgEZgGScKH8lNthkNnD4zP2-CBNIvo2eukKJzGKOs7RFjIq1KmR-pIGFT3pFS1wgz8ySDW7O9OaMkAHXSaZvHSP_Y2JxqGgkdbCLXcn-VZOYwirKa9gU7FqEZXDafHhgxupVx6cuJam1wsnjq3qjz7q36GlvirT/s1600/windows-ransomware.jpg"
+  },
+  {
     "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
     "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
     "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&C) communications. Web…",
@@ -317,16 +328,5 @@
     "timestamp": 1778842484.0,
     "isoDate": "2026-05-15T10:54:44+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg"
-  },
-  {
-    "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-    "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-    "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been desc…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 15 May 2026 11:49:04 +0530",
-    "timestamp": 1778825944.0,
-    "isoDate": "2026-05-15T06:19:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png"
   }
 ]
