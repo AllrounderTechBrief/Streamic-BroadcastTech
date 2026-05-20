@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+    "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+    "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 20 May 2026 13:58:26 +0530",
+    "timestamp": 1779265706.0,
+    "isoDate": "2026-05-20T08:28:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png"
+  },
+  {
     "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
     "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
     "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environmen…",
@@ -11,7 +22,7 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1N3gjAFZQ-1hptUuKwQmHMjlZwIMDn6H6mKc9UuDELAKWl_3Kow6EcD72IkWpBf8ZB2Db8wrZW86zVxKaEgQZ7_sVrWoDokD1LoLPUqhhCw2lLDl9ODqq2ZkfBrK6SUTrbROBuFNXN16HPtMWtS9EMIFsO3yQsISWCK0JrlwiUWineb9sxIq-un41smHG/s1600/grafana-breach.jpg"
   },
   {
-    "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+    "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
     "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
     "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While…",
     "source": "The Hacker News",
@@ -317,16 +328,5 @@
     "timestamp": 1778779363.0,
     "isoDate": "2026-05-14T17:22:43+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTj2m9-HHmDEDzKIsalsJ_HJcwcUsIFajvcpTLP9QMyqS9F_JroTH7lXeOGZFuO6j6F-RzbIo1kBIQ0udSFQGzjN2hxO8ZfyFeHM5557BPI1sjiJ7cEMJJE62t11e07Wt1CsmAntpLHSM0XbnQDvVYNBfNdAOsob9kN6G6-mQjKX68fEE1nzy_Bn4TvxyK/s1600/node.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
-    "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
-    "summary": "Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 14 May 2026 21:37:46 +0530",
-    "timestamp": 1778774866.0,
-    "isoDate": "2026-05-14T16:07:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImYNT-qC7frGzEXeok3KDX_JNMKote6V1FVXIpkAoSEER2z1YyT8dpFq5RtRhBQ0cweEPbBIuioDWFf5rw_Mf-0V6rXR2ZrMh2ISDa7X7NlV9zIGsoLSAnyd_86eVkrR4wU24yxbuCYaAmyGFwlF77YCjvgU3n43P-yFT-pzjsmQ35Oaut1klg62bs_-i/s1600/threatsday-2.jpg"
   }
 ]
