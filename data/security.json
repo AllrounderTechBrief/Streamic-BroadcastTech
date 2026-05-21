@@ -1,5 +1,27 @@
 [
   {
+    "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+    "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+    "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension. The …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 21 May 2026 09:57:01 +0530",
+    "timestamp": 1779337621.0,
+    "isoDate": "2026-05-21T04:27:01+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg"
+  },
+  {
+    "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+    "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+    "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, no…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 21 May 2026 09:14:11 +0530",
+    "timestamp": 1779335051.0,
+    "isoDate": "2026-05-21T03:44:11+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhKX1WKEWbBPd4sElCP9BB26eorxZX1Lo25Mcu-A5bfBUuWT63SQ-Hyycv1YPSlvVeZPfLSEbb8mQnuPvf0KEDm8mYTtCLoYZuMG6A8maidLefE12_3Plum0keZ-mbAS4dGN-x7Oj0NWOmoeqp6_PEK0fqpnZwz8ZFV-NhyFl78WS4Nck76yAbfgWRpK7/s1600/drupal-flaw.jpg"
+  },
+  {
     "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
     "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
     "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement Platform for Agentic …",
@@ -8,7 +30,7 @@
     "timeAgo": "Wed, 20 May 2026 22:36:54 +0530",
     "timestamp": 1779296814.0,
     "isoDate": "2026-05-20T17:06:54+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPuhFp_KGzG3yZEzqIYh-at7Dm3vg4_QX97ilaSXDjsUbfhU7KCmRS-uQ2UrV9D855Nvy8HcBDKe25VMT63dfyzh-B2bzSx649SJQSQhL3bfm4Eitv4KLW4PhzRfE1HvoFOFDu2bB4alNLTFzvr6_IkKWjqxShcuWytNgDR4b3wR1xGE6z06xSyWo6NVg3/s1600/ms-tools.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8SBZDUM83ug6w9EopUahk6CPc27TOD5qpmZWVC8hDMYM-8wdgTLXt1KHv_66Q061_5gm3crZszZf-UvSWWZKb6Aax7BxJ5gzPEyfQTp9JPEcNUmLZnEBD3YuFHoqCU4stvSdSVON7hFJq4ZYb4Rdq1vyOK0VUURDjUpCcEP9_SN5xkQckqwaFS_-dQz/s1600/mss.jpg"
   },
   {
     "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
@@ -306,27 +328,5 @@
     "timestamp": 1778865025.0,
     "isoDate": "2026-05-15T17:10:25+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8BT1AOScncZQM_A-0WBdCzTDAHGHSey48_Mywhij-TJupCdzP3s3o-MIImRtMZcoV2OqX3RjRV4COpVqkB1mrH3d_zjwvSTwCEXOq_2m80HgDo-xwAZ1KpR1h8eN9dAHGcKN_PpcE0cBsnv67FcthDycHLBJMYs8NkPszWNiQqdbhyL0YIlwVJn4NtgaR/s1600/code.jpg"
-  },
-  {
-    "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-    "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-    "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 15 May 2026 19:05:04 +0530",
-    "timestamp": 1778852104.0,
-    "isoDate": "2026-05-15T13:35:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_tK9S8jS_n5CK694-FLGjQP5_Mmpg7z9ZRiBayWsJLsuFRIm-8j1hTlhH90779FvnvhpiFKeGP9CzI5RCPsxQEnOzAIQsPzUsAJhUWtNm9iwf9C1W9DbDmqoQ_jjHhM7huYDV210OB9o1L9NPoJ0IL6R9Xc-V4JQ91Kn-b47_2ravRJ6-qlZOVrqsuAz/s1600/openclaw.png"
-  },
-  {
-    "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-    "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-    "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, nets…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 15 May 2026 16:30:00 +0530",
-    "timestamp": 1778842800.0,
-    "isoDate": "2026-05-15T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg"
   }
 ]
