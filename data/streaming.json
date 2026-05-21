@@ -1,5 +1,16 @@
 [
   {
+    "title": "Announcing Claude Compliance API support with Cloudflare CASB",
+    "link": "https://blog.cloudflare.com/casb-anthropic-integration/",
+    "summary": "Cloudflare now integrates with the Claude Compliance API, so that security teams can monitor Claude Enterprise activity directly in the Cloudflare Dashboard.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 21 May 2026 17:00:00 GMT",
+    "timestamp": 1779382800.0,
+    "isoDate": "2026-05-21T17:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Monetize your live streams using Amazon IVS server-side ad insertion",
     "link": "https://aws.amazon.com/blogs/media/monetize-your-live-streams-using-amazon-ivs-server-side-ad-insertion/",
     "summary": "In this post, we show how you can monetize your live streams using Amazon IVS SSAI.",
@@ -350,17 +361,6 @@
     "timestamp": 1776431100.0,
     "isoDate": "2026-04-17T13:05:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/sGg5lZjafjQ398V7hYyMv/93e112a34754e2065ffbf6445ebc4500/unnamed.png"
-  },
-  {
-    "title": "Shared Dictionaries: compression that keeps up with the agentic web",
-    "link": "https://blog.cloudflare.com/shared-dictionaries/",
-    "summary": "Today, we’re excited to give you a sneak peek of our support for shared compression dictionaries, show you how it improves page load times, and reveal when you’ll be able to try the beta yourself.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 17 Apr 2026 13:02:00 GMT",
-    "timestamp": 1776430920.0,
-    "isoDate": "2026-04-17T13:02:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2g2NBi1d4eqLAgksGetult/ea05b48519edfa8cccde6d6531700ce1/image5.png"
   },
   {
     "title": "Improving ad placement with AI for better viewer experiences",
