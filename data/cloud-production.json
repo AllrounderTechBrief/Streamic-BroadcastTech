@@ -1,5 +1,16 @@
 [
   {
+    "title": "Monetize your live streams using Amazon IVS server-side ad insertion",
+    "link": "https://aws.amazon.com/blogs/media/monetize-your-live-streams-using-amazon-ivs-server-side-ad-insertion/",
+    "summary": "In this post, we show how you can monetize your live streams using Amazon IVS SSAI.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 21 May 2026 14:03:40 +0000",
+    "timestamp": 1779372220.0,
+    "isoDate": "2026-05-21T14:03:40+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/15/Amazon-IVS-SSAI-architecture-overview.png"
+  },
+  {
     "title": "S4C on Freely: How a local broadcaster delivered a complex live TV workflow with AWS Elemental Media Services",
     "link": "https://aws.amazon.com/blogs/media/s4c-on-freely-how-a-local-broadcaster-delivered-a-complex-live-tv-workflow-with-aws-elemental-media-services/",
     "summary": "S4C has been the home of Welsh-language television since 1982. In its recent “digital first” strategy, the public service broadcaster describes itself as being “more than a TV channel,” and its mission is clear: to show the world through th…",
@@ -207,16 +218,5 @@
     "timestamp": 1771708435.0,
     "isoDate": "2026-02-21T21:13:55+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/18/Figure1_webvtt.jpg"
-  },
-  {
-    "title": "qibb and AWS redefine media workflows",
-    "link": "https://aws.amazon.com/blogs/media/qibb-and-aws-redefine-media-workflows/",
-    "summary": "Today, media companies (such as broadcasters, streaming platforms, news and sports media outlets, and major film and television studios) face an increasingly complex content landscape. Under pressure to create more content with fewer resour…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Fri, 20 Feb 2026 16:26:49 +0000",
-    "timestamp": 1771604809.0,
-    "isoDate": "2026-02-20T16:26:49+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/17/FIGURE-1_quib-blog.png"
   }
 ]

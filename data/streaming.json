@@ -1,5 +1,16 @@
 [
   {
+    "title": "Monetize your live streams using Amazon IVS server-side ad insertion",
+    "link": "https://aws.amazon.com/blogs/media/monetize-your-live-streams-using-amazon-ivs-server-side-ad-insertion/",
+    "summary": "In this post, we show how you can monetize your live streams using Amazon IVS SSAI.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 21 May 2026 14:03:40 +0000",
+    "timestamp": 1779372220.0,
+    "isoDate": "2026-05-21T14:03:40+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/15/Amazon-IVS-SSAI-architecture-overview.png"
+  },
+  {
     "title": "Announcing Claude Managed Agents on Cloudflare",
     "link": "https://blog.cloudflare.com/claude-managed-agents/",
     "summary": "Cloudflare has integrated with Anthropic's Claude Managed Agents to provide a fast, isolated execution environment for autonomous code delivery. This means builders can scale agent workflows globally while strictly controlling access to pri…",
@@ -537,16 +548,5 @@
     "timestamp": 1771708435.0,
     "isoDate": "2026-02-21T21:13:55+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/18/Figure1_webvtt.jpg"
-  },
-  {
-    "title": "qibb and AWS redefine media workflows",
-    "link": "https://aws.amazon.com/blogs/media/qibb-and-aws-redefine-media-workflows/",
-    "summary": "Today, media companies (such as broadcasters, streaming platforms, news and sports media outlets, and major film and television studios) face an increasingly complex content landscape. Under pressure to create more content with fewer resour…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 20 Feb 2026 16:26:49 +0000",
-    "timestamp": 1771604809.0,
-    "isoDate": "2026-02-20T16:26:49+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/17/FIGURE-1_quib-blog.png"
   }
 ]
