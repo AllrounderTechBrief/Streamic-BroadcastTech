@@ -1,5 +1,16 @@
 [
   {
+    "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+    "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+    "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 22 May 2026 21:50:32 +0530",
+    "timestamp": 1779466832.0,
+    "isoDate": "2026-05-22T16:20:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNDmjcnVzVIqFFB-CQU7L6G8XVTifkZGmIMcPrui1EoffwwvtPXCrjKhRtIfxYsfPb5OUON4KQ1MVRosbP1BgCeFpqIIWRbgv34naUxEUTzyGRsPB6fY2gJJa5AXgT085SLFuc8ykNinXhnnpQzGAT2Kw1YwNe05vxSxlb6EVTu8_CoDws3QwR_SCk7dXm/s1600/ukuk.jpg"
+  },
+  {
     "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
     "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
     "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identit…",
@@ -317,16 +328,5 @@
     "timestamp": 1779124878.0,
     "isoDate": "2026-05-18T17:21:18+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxxVYex3z2F03m6RYOR72whyegN5TEzzNxZO3tTOSHNTQ4tqCeD-H-F0c3K8dInMfh1EwPQP0jtoHEA4agDOYN2sF7qxGMHnuhsWges5me7ESa8_ycNj0vHf1TeeTgqetA1yOQ5Gi6a7jsV5khO3PVNcbkrBRCTMRNRb_qPLwBUdlvZJUCDvGjtmSVuod/s1600/hackers.png"
-  },
-  {
-    "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
-    "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
-    "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 18 May 2026 19:20:17 +0530",
-    "timestamp": 1779112217.0,
-    "isoDate": "2026-05-18T13:50:17+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzN7ITW3vwaWKn1m-BGZGI1JicT1T8d5v4LZbTvOTe7m1Xj4pk1pFECjAOvxey4XzXg7vGiU5Xzifs4qkzr9cbg2iPboHfPAHHBmi3O8OIAArhJlbr52gwKMkdqrIuIK77Pq8EzCTQM1hV5MsLuTbV4GXbXzr7miv0jA6o0Bn35RgBjc2cnd6qPq2-0Di/s1600/recapss.jpg"
   }
 ]
