@@ -1,5 +1,27 @@
 [
   {
+    "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+    "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 22 May 2026 17:25:24 +0530",
+    "timestamp": 1779450924.0,
+    "isoDate": "2026-05-22T11:55:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC_sjVeLejyyBZJ0DWW2y9-Z2Jvmrzz9h-5XEIKPFTcJvDj49Jlt-z1FNbSp51K9XcQ8FqC9MBDFPPPdZuzRfjqtYvKNaqT0Qzd61oCHVhNq59IcAVcWV3LvDmKCsX5pHn4nU3LclQPEozMp3XsgYZnVHCZEj89AGkWJpqL1EjCjiqMLnvggZLsgb08MYp/s1600/github-worm.jpg"
+  },
+  {
+    "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+    "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+    "summary": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability r…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 22 May 2026 17:08:12 +0530",
+    "timestamp": 1779449892.0,
+    "isoDate": "2026-05-22T11:38:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUdjbDFZeTbwpdUFibGsmuDSgX_NHbFfTYroqcGYEGB6yvuKR3eUBSHo9XaphMTYmXC3cqmICDOGUjlsBrwwyJOxzkj1Cdh2xZcYxLz1WpHrV9QmloScYivp7jfyynDTiB51MTpsgGffJ9bZgYJeV3VhY6OA32tot8mC08F-g6KpU47zR513SkVqk-hIim/s1600/driver.jpg"
+  },
+  {
     "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
     "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
     "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, C…",
@@ -306,27 +328,5 @@
     "timestamp": 1779112217.0,
     "isoDate": "2026-05-18T13:50:17+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzN7ITW3vwaWKn1m-BGZGI1JicT1T8d5v4LZbTvOTe7m1Xj4pk1pFECjAOvxey4XzXg7vGiU5Xzifs4qkzr9cbg2iPboHfPAHHBmi3O8OIAArhJlbr52gwKMkdqrIuIK77Pq8EzCTQM1hV5MsLuTbV4GXbXzr7miv0jA6o0Bn35RgBjc2cnd6qPq2-0Di/s1600/recapss.jpg"
-  },
-  {
-    "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
-    "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
-    "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 18 May 2026 18:30:00 +0530",
-    "timestamp": 1779109200.0,
-    "isoDate": "2026-05-18T13:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4cbMji6f7O37Q6sBOEkOEXWMs7Eg4ixA0RdW8AiO6cIPai9yYqLTvVVkUH9ApXP8XycVeezSCvDMXhldVsCiaA-_kr5SwWJ4EjTfkyX0RdUacOUF3plBO9C6PHCLsUGM-L-ZthpQA7mhdPmH4nLgPPQIVBWK9BZUNQf7V17Y_5jVVvZ0FNaiOsG7mvs/s1600/anyrun-main.jpg"
-  },
-  {
-    "title": "Developer Workstations Are Now Part of the Software Supply Chain",
-    "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
-    "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 18 May 2026 16:53:41 +0530",
-    "timestamp": 1779103421.0,
-    "isoDate": "2026-05-18T11:23:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif"
   }
 ]
