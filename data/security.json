@@ -1,5 +1,16 @@
 [
   {
+    "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+    "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service att…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 22 May 2026 23:05:02 +0530",
+    "timestamp": 1779471302.0,
+    "isoDate": "2026-05-22T17:35:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8yN-yeHodasj_piRqdUbE1MGyOfiyAzo-x6KZ_V9oilxP_v_kFNoyLVU7oNmG05F5g49pLeMY_jgJtU0mFk9ft_0qi4oLFgTxm0KWBncWw9lq0lVJFdkzshBzjul-2ODkaGNoLbgFUqKXbwKJJiF8nm0E6u7q6hnK_Vzb07XT-iygxE6Ct3bxW7A6s6f8/s1600/firstvpn.jpg"
+  },
+  {
     "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
     "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
     "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government …",
@@ -317,16 +328,5 @@
     "timestamp": 1779166457.0,
     "isoDate": "2026-05-19T04:54:17+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyJDg_FqUDfeOeVX8IyhBHj9HqwkGZ-hV7b998CMLiBK2uPpmuQEN1cv1xYXJzRiznN6u_oXjA0lAGWgrkUH9EqaqfOFyW85ZQiz_Cr2YrHl1uxUHqEztt_iWG1LtRfNMpYTIqhS8vKTUOdZiNAf_r_g0r7LzqsvjmCmsr7_lv9jmXvHs5s76BEQCMnql/s1600/npm-malware.jpg"
-  },
-  {
-    "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
-    "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-    "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countri…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 18 May 2026 22:51:18 +0530",
-    "timestamp": 1779124878.0,
-    "isoDate": "2026-05-18T17:21:18+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxxVYex3z2F03m6RYOR72whyegN5TEzzNxZO3tTOSHNTQ4tqCeD-H-F0c3K8dInMfh1EwPQP0jtoHEA4agDOYN2sF7qxGMHnuhsWges5me7ESa8_ycNj0vHf1TeeTgqetA1yOQ5Gi6a7jsV5khO3PVNcbkrBRCTMRNRb_qPLwBUdlvZJUCDvGjtmSVuod/s1600/hackers.png"
   }
 ]
