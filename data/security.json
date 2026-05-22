@@ -1,5 +1,38 @@
 [
   {
+    "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+    "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, C…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 22 May 2026 14:20:18 +0530",
+    "timestamp": 1779439818.0,
+    "isoDate": "2026-05-22T08:50:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5VYMnsK-UMv3L8TZp1KhZ4PQti0VtUXkbDREtK-R9Hbtj6bdYrPRwwn8VItL49asZcHEMSOFJyfV25Da96CerBXrPRnHZHncrTuo7Mj7dxEkNGNR4jZZs19Y2pep2dl7KZ0IK1CkexVOQhr14e5MIP5oe5vglQ2StuxG6xv2ataqy8jvD9T1fXLToZHc5/s1600/ddos-canada.jpg"
+  },
+  {
+    "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+    "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 22 May 2026 11:17:33 +0530",
+    "timestamp": 1779428853.0,
+    "isoDate": "2026-05-22T05:47:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04a_rowIzNPvHHvDTUE34d3bZlOhBeQXtC0UdXyjlf988G4zVE89QKWqSWASKd2LD0T8O2XhkDVgG7UGFIxlpvQWHPx-o_X7vfMK5fH4uSDg3eSUDAaWKtgresEyD9JpINkxtdELWn-qiv6usoLgwSlYNi89xJeVBwYYsCF2y-KKNz0x04KS0PeDPL57J/s1600/cisa-kev-flaws.jpg"
+  },
+  {
+    "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+    "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+    "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arise…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 22 May 2026 11:06:18 +0530",
+    "timestamp": 1779428178.0,
+    "isoDate": "2026-05-22T05:36:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLweJvl8B70zomibdr4U6WvYgbmZn4gKKOG9F7xDPXzgeENKK0kg2kgK1yvZDS7AJFkY9De2rG2EQzCLvN1FmjrXXDIm-CkmU88QcexbMkr60gKVKexF-d1qtGHusrr6_j5yrtMv31PSUEygioHJikBsifQ0VHW18IU7lu_oItTzQXugwHPLoO_DYNdnYx/s1600/cisco-workload.jpg"
+  },
+  {
     "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
     "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
     "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat is a modular post-e…",
@@ -295,38 +328,5 @@
     "timestamp": 1779103421.0,
     "isoDate": "2026-05-18T11:23:41+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif"
-  },
-  {
-    "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
-    "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
-    "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical flaw impacting Ivanti …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 18 May 2026 16:24:05 +0530",
-    "timestamp": 1779101645.0,
-    "isoDate": "2026-05-18T10:54:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg"
-  },
-  {
-    "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-    "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
-    "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 18 May 2026 14:27:34 +0530",
-    "timestamp": 1779094654.0,
-    "isoDate": "2026-05-18T08:57:34+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg"
-  },
-  {
-    "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
-    "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
-    "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 18 May 2026 14:27:26 +0530",
-    "timestamp": 1779094646.0,
-    "isoDate": "2026-05-18T08:57:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg"
   }
 ]
