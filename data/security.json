@@ -1,5 +1,27 @@
 [
   {
+    "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+    "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+    "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assig…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 23 May 2026 13:05:13 +0530",
+    "timestamp": 1779521713.0,
+    "isoDate": "2026-05-23T07:35:13+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0W1UqsbcZ-8IV_n8ov3V24MQ74VaKe3auGFWNunDUfubEBeKEGREuFjC9-i7H_fLfSwFQQ5wqe8bhVWvAUVC_8U5AQg1c1Qbe-M7bSjuWCwcjTRrc2Du7L0Tm-NKO7ErhPUTR7YS6b1vkpmbYS1VaClWUGOvGe4cxv-jHkQFZMXbSDLfBiF7FFwd7Nfe/s1600/lightspeed.png"
+  },
+  {
+    "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+    "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The v…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 23 May 2026 12:53:48 +0530",
+    "timestamp": 1779521028.0,
+    "isoDate": "2026-05-23T07:23:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKqQ4Uk8lGWwF7f6lrmP6dRHkEmQTJsqFs8xvJ5256xUcHTeWMNVMkPguALNqLPpJWneU9XWIEzi4jSUVTiS2In1QMSl7NEjNDB99yHlGeCjw4OAQ3Lx8jhE5l9RUGMmth_ecUC1GcgierrFk8XKREHXC73mQn3w3jFcqjvJL1UZpPJPP62Uv-IpfBafRI/s1600/cisa-drupal.jpg"
+  },
+  {
     "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
     "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
     "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service att…",
@@ -13,7 +35,7 @@
   {
     "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
     "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-    "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government …",
+    "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Fri, 22 May 2026 21:50:32 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1779176963.0,
     "isoDate": "2026-05-19T07:49:23+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi61imbY3-QbM_mT_6WAxBXaFeZ3eXwprN147ox_bMvVqh9NrS69IwqwwL4qu2z1eRA8NfrWwyJi9bIDuREGEVZ-LdBMCGTSxdul92ZApPGrzwqOcr3b6YBKC19N97sk75izvamQxOqBzokKhF-__uaEuw74ZbKQLxKxMQWgRXSCR3FE6ULeHGxbiIhuEso/s1600/nconsole.jpg"
-  },
-  {
-    "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
-    "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
-    "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-contr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 19 May 2026 10:58:06 +0530",
-    "timestamp": 1779168486.0,
-    "isoDate": "2026-05-19T05:28:06+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7jpVO6HhBuEBTjkwmNjYhKlFmhhmytOqNZHYuGP-dNWrf3AoyE68yoKj77elddOX4Ps2x9jSuwhi5sE-QjK_oEjLXgQW9e6EHx6W0G7qTqYTM3fZh1AQTyrgm2o-PFBeD9ryHnC6fDmK5MYKUzBjU_pJibTilnm1d99WSQkJux6PXXRydkYW5d15Ada-/s1600/step.jpg"
-  },
-  {
-    "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
-    "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
-    "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave. \"The attack affects pa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 19 May 2026 10:24:17 +0530",
-    "timestamp": 1779166457.0,
-    "isoDate": "2026-05-19T04:54:17+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyJDg_FqUDfeOeVX8IyhBHj9HqwkGZ-hV7b998CMLiBK2uPpmuQEN1cv1xYXJzRiznN6u_oXjA0lAGWgrkUH9EqaqfOFyW85ZQiz_Cr2YrHl1uxUHqEztt_iWG1LtRfNMpYTIqhS8vKTUOdZiNAf_r_g0r7LzqsvjmCmsr7_lv9jmXvHs5s76BEQCMnql/s1600/npm-malware.jpg"
   }
 ]
