@@ -1,5 +1,16 @@
 [
   {
+    "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+    "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+    "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 25 May 2026 11:29:13 +0530",
+    "timestamp": 1779688753.0,
+    "isoDate": "2026-05-25T05:59:13+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOb58wXNPgRDazHcSLTObawPnMVsCDUEAoFclGVn3CC8qe6Pr_0-Gce-SxCO7FJ5HzU23WE_soU5iTc0zvLL0zzbXPcO8MqVgHIIAKXJo4ExcujDPV9yiIdN1X1jV63ACBN66_ktTeQ0FVmYsCTJC3tpyxpUBrvxLh_xqF-mKOZy8uaqz3QKyf6XpJHC4z/s1600/npm-python-rust.jpg"
+  },
+  {
     "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
     "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
     "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called stage…",
@@ -317,16 +328,5 @@
     "timestamp": 1779208692.0,
     "isoDate": "2026-05-19T16:38:12+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-ldAXS8Yw3BhdSS9xeJFNzwDm-mrNDxHr28zcknAKH8knTU_WleHEhmJ-vgNokgVbm9y8vRH18v9Oxz6F7twmnBoJfIQ2fVeuhEErRAF31F9MES02sZMhYG-i7F9Ty-C-yD64U4cmgq3CD7nuEnD9OZpxWCTKAPCXfIDKycUeZEfJIBBagPPW72JgWZO/s1600/android-ad-fraud.jpg"
-  },
-  {
-    "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
-    "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
-    "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE). Dubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 19 May 2026 20:26:26 +0530",
-    "timestamp": 1779202586.0,
-    "isoDate": "2026-05-19T14:56:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgecVdZ_vIxfMWdiQkn7dC_SCueSRLBHaU01aHrtW1lUsx3_5gwbM6fG5NyV-VUhnDxvolk_tzMNWgINg06cwjKL1xIeDIFMiFH56IUO_zwZwJqiLnMp-VJcIWFjhulk1AHnlZ_ETgH3vg6Q6SHS4Ae-teRmaLDY4XZhONjoz4MeKvQLyzJ_YdckL8lk3fe/s1600/linux-poc.jpg"
   }
 ]
