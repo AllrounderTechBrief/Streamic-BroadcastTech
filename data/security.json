@@ -1,5 +1,38 @@
 [
   {
+    "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+    "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
+    "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks. According to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 25 May 2026 17:32:46 +0530",
+    "timestamp": 1779710566.0,
+    "isoDate": "2026-05-25T12:02:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bYCvN_MmCGXVH5raR8wqJQv52CST3mK7UBfLXVnqRRL_rHkhJpSOBjdPyR5oXmPsSB-X3-Sib6-eVToqi4UXB218ESR2uFdczESGAM5i4ZkxQyE7AkQteCFCasknPz262ceUOFccS3xcUbaQdvUGoRw0kJE7QQMSbeP2OAQVfY9lFYTj7ZhzCL_GdkuM/s1600/check-cf.jpg"
+  },
+  {
+    "title": "The Alert Firehose Finally Meets Its Match",
+    "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
+    "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually using it to catch thr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 25 May 2026 17:00:00 +0530",
+    "timestamp": 1779708600.0,
+    "isoDate": "2026-05-25T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULc1VvUr1LQ1qZPTiw_sPmN3JbNIk0OSlxHRT0MFdY2kM5Z7psdZtrctiSOybvu8i1sCwcMeSUtXxHb0xBkQ2lCUt2l_kKmhp93ydvN4-E-qObRkmiFK2s-jOPqipBTGfBnv4o-d9nLuPIL2JMGO6FhCFsFV2NkBlARzWW9ScqccGvAVHzM9o-6MDwn4/s1600/corelight-main.jpg"
+  },
+  {
+    "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
+    "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+    "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. RemotePE, per NCC Group …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 25 May 2026 15:02:54 +0530",
+    "timestamp": 1779701574.0,
+    "isoDate": "2026-05-25T09:32:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuOeS1qVC0UHhPnJ0jlSdfScsZDRtkI6VU366iePjKdNTqLiqHcqjRcGL-sNBdUkShUH71YDDVwavzXM1cIu2UU9zE8VYgbJYsRUQeWRZAO75JC2vQHYs4saWOM3rQZKFPqNvlL8ASBocRiZXdO1jLgqLuCCeLHX0bAA1EQEhiBAq3i3Os97qHt_xF5ub/s1600/crypto-firms.jpg"
+  },
+  {
     "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
     "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
     "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384…",
@@ -295,38 +328,5 @@
     "timestamp": 1779273000.0,
     "isoDate": "2026-05-20T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWPxY_gRwc5keQNREyoTXSadlwpCLyUdAq4v1fQA5_lA2tJ0Ia6xOk-FaLuNHwJjV_xaF7M0xzPvqHk4e7aym6R7J2aaGCGm7Bnv8OXh7GScZ-G7ic5pdEgK-0E0_y_yLz16V2A2GL5uTmU7tRPUyoDl5LfzTzQnuMlI1QV7SEhRC9Cli7zci_no9pyk/s1600/ref.jpg"
-  },
-  {
-    "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-    "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
-    "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 20 May 2026 13:58:26 +0530",
-    "timestamp": 1779265706.0,
-    "isoDate": "2026-05-20T08:28:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png"
-  },
-  {
-    "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
-    "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
-    "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environmen…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 20 May 2026 10:42:06 +0530",
-    "timestamp": 1779253926.0,
-    "isoDate": "2026-05-20T05:12:06+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1N3gjAFZQ-1hptUuKwQmHMjlZwIMDn6H6mKc9UuDELAKWl_3Kow6EcD72IkWpBf8ZB2Db8wrZW86zVxKaEgQZ7_sVrWoDokD1LoLPUqhhCw2lLDl9ODqq2ZkfBrK6SUTrbROBuFNXN16HPtMWtS9EMIFsO3yQsISWCK0JrlwiUWineb9sxIq-un41smHG/s1600/grafana-breach.jpg"
-  },
-  {
-    "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
-    "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 19 May 2026 22:08:12 +0530",
-    "timestamp": 1779208692.0,
-    "isoDate": "2026-05-19T16:38:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-ldAXS8Yw3BhdSS9xeJFNzwDm-mrNDxHr28zcknAKH8knTU_WleHEhmJ-vgNokgVbm9y8vRH18v9Oxz6F7twmnBoJfIQ2fVeuhEErRAF31F9MES02sZMhYG-i7F9Ty-C-yD64U4cmgq3CD7nuEnD9OZpxWCTKAPCXfIDKycUeZEfJIBBagPPW72JgWZO/s1600/android-ad-fraud.jpg"
   }
 ]
