@@ -1,5 +1,60 @@
 [
   {
+    "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+    "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+    "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 26 May 2026 17:28:00 +0530",
+    "timestamp": 1779796680.0,
+    "isoDate": "2026-05-26T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiphaRoHMD4mkIzApkJZumEOEdIR0c_RxQrvmjv5qM6Kgo8MBnKrIAxicsojC-CdXhcOfRR9t0DxQeyEMXjXtER-bkSqe97zvFr7mfz3HjwA-79JjLWg0IwhZFTulr__kB02fXgX09tOpLWUjqy-fFmQbfvCZG-2uLLAhJpFAFrPo5d9H0PVZHEaSvmZKFE/s1600/ddossss.jpg"
+  },
+  {
+    "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+    "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+    "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met. The vulnerability, tracked as CVE-20…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 26 May 2026 17:19:53 +0530",
+    "timestamp": 1779796193.0,
+    "isoDate": "2026-05-26T11:49:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34meakbjhvY3-jNVG7Q8tPJ5Xk1a-vtGSeKgfVDApX6pn88G7gYhK2oz34my6QeWHsldmSJuV4o8tlBOmw-9Ul32EJYhC-aFmExZvn6ibinw10_4DhBf6pHmIum2Ha_HggakezqS_uKiOPJzrIdwioMru5Oj74p87z_ZbQt_c-bH8kQl6jEXYycod7Vrw/s1600/sharepoint.png"
+  },
+  {
+    "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+    "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+    "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 26 May 2026 16:00:00 +0530",
+    "timestamp": 1779791400.0,
+    "isoDate": "2026-05-26T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtums9LZoPXx5AzbNIYmdrNPI6vAAWAnYGfW6NzZ4DkICva0wX2GjMPvmYoq4EVuhvWUc6FyLrgJJ0Hvh8w0TBJ4MLkQplbffUwg89oiQxoJhV-93mboD0D2rdkrrhsblZ2tLJv-auc2GBNjIMsg8wGUCYOkZHNDHaQoqhDbLXrFC3-rD3cz0pI12U7rR2/s1600/prompt-1.jpg"
+  },
+  {
+    "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+    "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+    "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard ag…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 26 May 2026 14:43:02 +0530",
+    "timestamp": 1779786782.0,
+    "isoDate": "2026-05-26T09:13:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9yN2AliOVdy0oCCMNYXnnrLjE6yWRz_eXVGFhiIw9vxnia2BMUxqhMrI8Q23Y2hHcF-hjqbw4aIqJTvO4zDD1k_WlKzEqx_FZ7P45mn8RiQ1UEqNUgqXv4DqrkzyyjjjgjKcPnNjzKHTTX8NIelTf4L_Cbx4XyYK6piDr1oPFfSmtk-59NCbU3cGCQEcQ/s1600/indian-cert.jpg"
+  },
+  {
+    "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+    "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+    "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Eur…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 26 May 2026 12:43:05 +0530",
+    "timestamp": 1779779585.0,
+    "isoDate": "2026-05-26T07:13:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL7Xqq7FlHxai3-wKrWcUujSg4cXnMJ_0LiXDaZHaZosFt3sPF1_PwcaqufOoM7q66vakQyKX5-odysTHOhtIG7ESj52Kna0i3OxaOA0sTONuH3NhkmautF8CTeiLBDzHFWjEvIT286ZnhERvK2VsvzxTdqjlEpXsbSELeqVHyr18JodeQZC-qudm2yblS/s1600/iran-hackers.jpg"
+  },
+  {
     "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
     "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
     "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deploym…",
@@ -273,60 +328,5 @@
     "timestamp": 1779337621.0,
     "isoDate": "2026-05-21T04:27:01+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg"
-  },
-  {
-    "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-    "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-    "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, no…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 21 May 2026 09:14:11 +0530",
-    "timestamp": 1779335051.0,
-    "isoDate": "2026-05-21T03:44:11+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhKX1WKEWbBPd4sElCP9BB26eorxZX1Lo25Mcu-A5bfBUuWT63SQ-Hyycv1YPSlvVeZPfLSEbb8mQnuPvf0KEDm8mYTtCLoYZuMG6A8maidLefE12_3Plum0keZ-mbAS4dGN-x7Oj0NWOmoeqp6_PEK0fqpnZwz8ZFV-NhyFl78WS4Nck76yAbfgWRpK7/s1600/drupal-flaw.jpg"
-  },
-  {
-    "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-    "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
-    "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement Platform for Agentic …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 20 May 2026 22:36:54 +0530",
-    "timestamp": 1779296814.0,
-    "isoDate": "2026-05-20T17:06:54+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8SBZDUM83ug6w9EopUahk6CPc27TOD5qpmZWVC8hDMYM-8wdgTLXt1KHv_66Q061_5gm3crZszZf-UvSWWZKb6Aax7BxJ5gzPEyfQTp9JPEcNUmLZnEBD3YuFHoqCU4stvSdSVON7hFJq4ZYb4Rdq1vyOK0VUURDjUpCcEP9_SN5xkQckqwaFS_-dQz/s1600/mss.jpg"
-  },
-  {
-    "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
-    "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
-    "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of mach…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 20 May 2026 20:06:44 +0530",
-    "timestamp": 1779287804.0,
-    "isoDate": "2026-05-20T14:36:44+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiypJnCUStqk0SRgnT6bFPLXM9F10uUBgEZgGScKH8lNthkNnD4zP2-CBNIvo2eukKJzGKOs7RFjIq1KmR-pIGFT3pFS1wgz8ySDW7O9OaMkAHXSaZvHSP_Y2JxqGgkdbCLXcn-VZOYwirKa9gU7FqEZXDafHhgxupVx6cuJam1wsnjq3qjz7q36GlvirT/s1600/windows-ransomware.jpg"
-  },
-  {
-    "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
-    "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
-    "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&C) communications. Web…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 20 May 2026 18:21:43 +0530",
-    "timestamp": 1779281503.0,
-    "isoDate": "2026-05-20T12:51:43+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4cD52DtnzH5FM8ZMrW9KyPrD1ysrJURSmqalrw9f6siP8XxYqClsqV6ofHpM8ir7gBnmmvehj5HB1k0aSHdPmLtKKwtLLvjSi4ELa9eMq12maW7p56a2yBdl7xzdfv6893fvQxLIH0kKGYKnzYM_7-3XysWIGsSNiEYXBjmiWFqe0Pe8uq-TkWlQjjv4/s1600/cyberattack-paki.jpg"
-  },
-  {
-    "title": "Agent AI is Coming. Are You Ready?",
-    "link": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
-    "summary": "New Industry Data Just Released Suggests Not. On May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of identity) now overshadow…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 20 May 2026 17:28:00 +0530",
-    "timestamp": 1779278280.0,
-    "isoDate": "2026-05-20T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjYQaF0euKIc86WLed9RLojSVHUNrnpx7_OeZHvmaPtnFPmL3WrhC-DU-7asOtrYx8fBGP-UCdxI1QljVgaT_wYA6uIye4yHpzpk-uSQb934K7NDSPn-jFJR63cEeUZ8SsDevlcvX-O62_-C8HZeVreeg2aB5stt6z9kluLUvIUgXAGVpAMccDc19lrsmK/s1600/agentai.gif"
   }
 ]
