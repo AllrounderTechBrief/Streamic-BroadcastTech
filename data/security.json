@@ -1,5 +1,16 @@
 [
   {
+    "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+    "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+    "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics ma…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 26 May 2026 21:18:41 +0530",
+    "timestamp": 1779810521.0,
+    "isoDate": "2026-05-26T15:48:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkb692n4xA8jDUKZCkwPSIXqiyTaEk_bQhrNaZj33tRhusSP40-iwlk5x7iblb9M63WKWVbj8Gm6oPJZY3bm602-qFyLLnRXuCKsl40iAZG_5-ehqlQ4CYaO442hgo4FBKrspLCO4r_ET1U4U3fPCKCYOc7DFuDn_mv7ZzbzH_IC0NAt2HVVSxwIBNOruk/s1600/cyber-espionage.jpg"
+  },
+  {
     "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
     "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
     "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks…",
@@ -317,16 +328,5 @@
     "timestamp": 1779348953.0,
     "isoDate": "2026-05-21T07:35:53+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCjgJwva2lZrAwxHWPZFiphHAhxBdWRyU4gUiAZIStkUP4JU6yej3Z1xVhUtrhaIYVu4IL5KpvOomBDHU_aLtvgHV-R9_41nUSrngG0BGBlCv2pByfkVZNKxmwA3Nf6NR7pi6XgwdUjkwFw27lm_vNR_w2Cr1An46yOM8kfIEphrSCq2aRcaKNNj9D-PiN/s1600/linux-exploit.gif"
-  },
-  {
-    "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-    "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-    "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension. The …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 21 May 2026 09:57:01 +0530",
-    "timestamp": 1779337621.0,
-    "isoDate": "2026-05-21T04:27:01+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg"
   }
 ]
