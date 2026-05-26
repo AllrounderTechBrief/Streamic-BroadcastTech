@@ -1,5 +1,16 @@
 [
   {
+    "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+    "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+    "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deploym…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 26 May 2026 10:49:38 +0530",
+    "timestamp": 1779772778.0,
+    "isoDate": "2026-05-26T05:19:38+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZKxsveHlyTguEODsRiYVuCPiOkIgyd3imCYdnpwwV2NQ0pw9oPEQoVw-2T98HW0KgZvRqQ_zeZIT-4E3b6WH6hE-fxJeZ9YN2S9T5769SS11QP-Pf8E1kf8kk0mbwyX_sjXTgrqKDzbDivmQRRmB_qGQmTKkB673oTFD-gWDet_ptXihujQMioqvryplT/s1600/KnowledgeDeliver.jpg"
+  },
+  {
     "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
     "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
     "summary": "Monday recap. Same mess, new week. A sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten …",
@@ -317,16 +328,5 @@
     "timestamp": 1779278280.0,
     "isoDate": "2026-05-20T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjYQaF0euKIc86WLed9RLojSVHUNrnpx7_OeZHvmaPtnFPmL3WrhC-DU-7asOtrYx8fBGP-UCdxI1QljVgaT_wYA6uIye4yHpzpk-uSQb934K7NDSPn-jFJR63cEeUZ8SsDevlcvX-O62_-C8HZeVreeg2aB5stt6z9kluLUvIUgXAGVpAMccDc19lrsmK/s1600/agentai.gif"
-  },
-  {
-    "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
-    "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-    "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 20 May 2026 17:08:43 +0530",
-    "timestamp": 1779277123.0,
-    "isoDate": "2026-05-20T11:38:43+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg"
   }
 ]
