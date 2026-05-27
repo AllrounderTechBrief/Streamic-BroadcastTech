@@ -1,5 +1,16 @@
 [
   {
+    "title": "NASA Develops Sensor to Improve Firefighter Safety",
+    "link": "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/",
+    "summary": "With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sen…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 27 May 2026 21:45:25 +0000",
+    "timestamp": 1779918325.0,
+    "isoDate": "2026-05-27T21:45:25+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/firesense-alabama-04232026-loiacono-6083.jpg"
+  },
+  {
     "title": "Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft",
     "link": "https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/",
     "summary": "The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov.",
@@ -284,17 +295,6 @@
     "timestamp": 1779890960.0,
     "isoDate": "2026-05-27T14:09:20+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/03/mg-6798.jpg?w=2048"
-  },
-  {
-    "title": "NASA’s 2026 Lunabotics: Winning Student Teams Engineering Lunar Future",
-    "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasas-2026-lunabotics-winning-student-teams-engineering-lunar-future/",
-    "summary": "Editor’s Note: This article was updated at 2:45 p.m. EDT on Wednesday, May 27, 2026, to correct the recipient of the Systems Engineering Leaps and Bounds Award. Resilient. Efficient. Autonomous. These are qualities NASA demands of its hardw…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 27 May 2026 13:02:09 +0000",
-    "timestamp": 1779886929.0,
-    "isoDate": "2026-05-27T13:02:09+00:00",
-    "imageUrl": "https://images-assets.nasa.gov/image/KSC-20260521-PH-KLS01_0167/KSC-20260521-PH-KLS01_0167~large.jpg?w=1920&h=1175&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "IAB Tech Lab Releases Guidance On Bot, Crawler Management; Open For Public Comment",
