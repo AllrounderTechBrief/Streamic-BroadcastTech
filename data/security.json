@@ -1,5 +1,38 @@
 [
   {
+    "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+    "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+    "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software d…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 27 May 2026 17:18:37 +0530",
+    "timestamp": 1779882517.0,
+    "isoDate": "2026-05-27T11:48:37+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZssmt_sAQM7Hi8SpkOQnmc9tKVqlTyjMclO_ptRmn45_cDzz3KANdtBi4xzzuf7neoeylx39D4BZN_Wys34O8lCM9KP8qytxEq_QT4tQ_FTHBeRV75qVTNfzQg7UGa0IJGO3tuJBZGiDjNfB401rG6hPvu78_5H_Sp8UeYk9c74KlCr-CaVX1rg-Slxc6/s1600/botnet-down.jpg"
+  },
+  {
+    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+    "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
+    "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work. Acr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 27 May 2026 17:00:00 +0530",
+    "timestamp": 1779881400.0,
+    "isoDate": "2026-05-27T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kyKLwKpVhYgitj4fm1vRuvXJPKSpYpf_WcR-b0_8CVkNeFLtcxO158cmOS_GAVNi7G1xTrDOLVcVqBXKW-rI31rDAVXhN-A3Q1g11l_17bAKuedJx_meh5Pf4hoRVLwx55EECim9EGrI0xRCsq2Dx-8nBNlNwIVqEApy16ZBm48DuqDq2Q7BtRKm3AA/s1600/shadow.jpg"
+  },
+  {
+    "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+    "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+    "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requir…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 27 May 2026 15:36:32 +0530",
+    "timestamp": 1779876392.0,
+    "isoDate": "2026-05-27T10:06:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtYSLWixSGb7jW2drND6NlHzXB4eHO0QyZNOovK9iVyaHGS6fSN4eqhWkijIhevhInH56hv03c29ziWCZiH58kY5EBbfuZloLfMP9yGJuFVtIaoJqj31KVFNeImMNVnLGrRHbhcGw7IMVZ8FEH2tK-Bit50KzXfe0F9jEQAO9iy5PNprbqJzgRB2WkI-0i/s1600/gitea-main.jpg"
+  },
+  {
     "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
     "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
     "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering…",
@@ -295,38 +328,5 @@
     "timestamp": 1779373029.0,
     "isoDate": "2026-05-21T14:17:09+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTZEcd3s0q7NssZnOYvAFrMtE1fTJQtdNoUDwBZKG1DkQWYL4uY6gExiUwuNcMnZG-J8dM8iTJIm6nD2Bv80qI2xMubYmnGScqUNQfeI6kF49vFkU0wKpi7iaVvbl1MX1zPleKP2iOShCd9u4S-EpLA-cBKf5lNlW7OXLu0NmiUlw35Qr0GzXmpylPcXz/s1600/telecom-linux.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-    "link": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-    "summary": "This week starts small. A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 21 May 2026 17:22:14 +0530",
-    "timestamp": 1779364334.0,
-    "isoDate": "2026-05-21T11:52:14+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIiAs3r9mSWAyNYngQby6QllKy0gx1dGJB4MNtgMjRQLUIkp7-fr851xuTEe6-izLAtNHux1PgdVBiWmEQctN2QM1bzV_CP0bcR7_ReqHg-lXrDa-EqUsZAUgC8da72h6tdbZU6H8nWMzAfZEItMY49Big4dpxtSHr5r7sgm7W01mhA31E274dUfWBHMi/s1600/tday.png"
-  },
-  {
-    "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-    "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-    "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploita…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 21 May 2026 16:25:57 +0530",
-    "timestamp": 1779360957.0,
-    "isoDate": "2026-05-21T10:55:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxp-fCwFOYcXoyRTmhjpwfvFCjfE36YoU8z-7es2XrOajnfSfpttiB9KMfwqCNbwzHQ85kILhlUwo4DeQFWXFq29J8p_oVAIe-gKCCegmTid4YW_22sK6CQO_TwELXa7Z-RZmvDvHx7N3Vg7y-xm78iSGjzCg2AU3FnHo1Hp7v80JJkBruCc05JVvVwnx/s1600/windows-defender.jpg"
-  },
-  {
-    "title": "When Identity is the Attack Path",
-    "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
-    "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 21 May 2026 16:00:00 +0530",
-    "timestamp": 1779359400.0,
-    "isoDate": "2026-05-21T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9W2lSuCdHjvqeLUN5WtqUOgCwe2FAyP1Y_z4oUr1LgM1MdOE5A83gkzSOfGjIosfdlfB4SuLbeVbydeuParENW4MH2aWYuWqnB-DeOd7gC3RJnp7wFucmuinh9kiMBI99337kQYcBrlIX-WH3u204eu7FTy5b_gpkXC6ZHupWD3P60yFk4-2DUrTuuc/s1600/xmxm.jpg"
   }
 ]

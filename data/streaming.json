@@ -1,5 +1,16 @@
 [
   {
+    "title": "Ad Observability for Streaming Video: How Real-Time Player Data Protects Revenue for FAST Channels, Live Events, and On-Demand Content",
+    "link": "https://bitmovin.com/blog/ad-observability-streaming-video-real-time-player-data/",
+    "summary": "Why real-time ad analytics have become an operational requirement for streaming businesses and what it costs when they’re missing. Ad revenue is now load-bearing infrastructure The business of streaming has fundamentally changed. According …",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Wed, 27 May 2026 10:10:24 +0000",
+    "timestamp": 1779876624.0,
+    "isoDate": "2026-05-27T10:10:24+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Announcing Claude Compliance API support with Cloudflare CASB",
     "link": "https://blog.cloudflare.com/casb-anthropic-integration/",
     "summary": "Cloudflare now integrates with the Claude Compliance API, so that security teams can monitor Claude Enterprise activity directly in the Cloudflare Dashboard.",
@@ -415,17 +426,6 @@
     "timeAgo": "Thu, 09 Apr 2026 11:48:53 +0000",
     "timestamp": 1775735333.0,
     "isoDate": "2026-04-09T11:48:53+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Hackathon spotlight: live encoding on a sovereign cloud with Scaleway",
-    "link": "https://bitmovin.com/blog/hackathon-live-encoding-sovereign-cloud/",
-    "summary": "For many streaming teams, where live encoding runs is no longer just a deployment choice, it is a constraint driven by data residency, compliance, and infrastructure control. Hyperscaler environments do not always meet these requirements, p…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Wed, 08 Apr 2026 08:33:04 +0000",
-    "timestamp": 1775637184.0,
-    "isoDate": "2026-04-08T08:33:04+00:00",
     "imageUrl": ""
   },
   {
