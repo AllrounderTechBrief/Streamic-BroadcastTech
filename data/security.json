@@ -1,5 +1,38 @@
 [
   {
+    "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+    "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
+    "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according to new findings from WatchGuard and ESET, …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 27 May 2026 21:40:21 +0530",
+    "timestamp": 1779898221.0,
+    "isoDate": "2026-05-27T16:10:21+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLrxY3dAls7M9XrbkVjdGZELLj2DQ4eGof0qKdWXJLGqQgVgcbszD-mSmcUi6ljJEPyuM5qbIzFD2CAkjQMkwdznWW5nXnJpPUOxuLP87xIATaxqvIKByQr0ddq8GnYTJy_O6VX5Z0cv_S9AYbwVUzzMeKM3UoPGGJ3Bzei5FluxHchhuekfAiKxUnBmaa/s1600/android-malware.jpg"
+  },
+  {
+    "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
+    "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
+    "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities. According to OX Security, the package, named \"mouse5212-super-formatter,\" is designed to upload files f…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 27 May 2026 21:14:29 +0530",
+    "timestamp": 1779896669.0,
+    "isoDate": "2026-05-27T15:44:29+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlezHawmKBTFBZSgR52vL_EBxfwIlMa0i4LdDK2xC_c8nw704KQHbRNSHYAy8TY4ShZMFwAJoZKUBSDJBCVnwbORTlz7iE0JI9f9ORbQQ-RB5lA_b9VbUzAsjpVeW2oJ94hdfzOeCWN3zd5Li7zWanNx3s07cF8IRlWuVrLqBNaY0sobbJww1Pa_o2t4JN/s1600/npm-ai.jpg"
+  },
+  {
+    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+    "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
+    "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work. Acr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 27 May 2026 18:58:48 +0530",
+    "timestamp": 1779888528.0,
+    "isoDate": "2026-05-27T13:28:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kyKLwKpVhYgitj4fm1vRuvXJPKSpYpf_WcR-b0_8CVkNeFLtcxO158cmOS_GAVNi7G1xTrDOLVcVqBXKW-rI31rDAVXhN-A3Q1g11l_17bAKuedJx_meh5Pf4hoRVLwx55EECim9EGrI0xRCsq2Dx-8nBNlNwIVqEApy16ZBm48DuqDq2Q7BtRKm3AA/s1600/shadow.jpg"
+  },
+  {
     "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
     "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
     "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software d…",
@@ -11,15 +44,15 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZssmt_sAQM7Hi8SpkOQnmc9tKVqlTyjMclO_ptRmn45_cDzz3KANdtBi4xzzuf7neoeylx39D4BZN_Wys34O8lCM9KP8qytxEq_QT4tQ_FTHBeRV75qVTNfzQg7UGa0IJGO3tuJBZGiDjNfB401rG6hPvu78_5H_Sp8UeYk9c74KlCr-CaVX1rg-Slxc6/s1600/botnet-down.jpg"
   },
   {
-    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-    "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
-    "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work. Acr…",
+    "title": "3 SOC Steps that Shut Down Incident Risks Early",
+    "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
+    "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disguised as routine activity…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Wed, 27 May 2026 17:00:00 +0530",
-    "timestamp": 1779881400.0,
-    "isoDate": "2026-05-27T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kyKLwKpVhYgitj4fm1vRuvXJPKSpYpf_WcR-b0_8CVkNeFLtcxO158cmOS_GAVNi7G1xTrDOLVcVqBXKW-rI31rDAVXhN-A3Q1g11l_17bAKuedJx_meh5Pf4hoRVLwx55EECim9EGrI0xRCsq2Dx-8nBNlNwIVqEApy16ZBm48DuqDq2Q7BtRKm3AA/s1600/shadow.jpg"
+    "timeAgo": "Wed, 27 May 2026 17:15:00 +0530",
+    "timestamp": 1779882300.0,
+    "isoDate": "2026-05-27T11:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5SbPsI2Ip_2s2JkLJSNNO05Qfn3zFQTpOSmRmqTreVUxDWTgZXSUgEtIwEvu5bQ8wGM24s68ikCnVLdKujVhF8j-TxTM5lr38lAdKkEummRkZxVnB5P1CQWNYqY-Oswvf6FHz4gWhFSAbrokC_3bnFksFvzGSC-0Fh5YUUJSNS2jlKrOJt4RCRJlYoJ4/s1600/iocc.jpg"
   },
   {
     "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
@@ -295,38 +328,5 @@
     "timestamp": 1779439818.0,
     "isoDate": "2026-05-22T08:50:18+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5VYMnsK-UMv3L8TZp1KhZ4PQti0VtUXkbDREtK-R9Hbtj6bdYrPRwwn8VItL49asZcHEMSOFJyfV25Da96CerBXrPRnHZHncrTuo7Mj7dxEkNGNR4jZZs19Y2pep2dl7KZ0IK1CkexVOQhr14e5MIP5oe5vglQ2StuxG6xv2ataqy8jvD9T1fXLToZHc5/s1600/ddos-canada.jpg"
-  },
-  {
-    "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-    "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 22 May 2026 11:17:33 +0530",
-    "timestamp": 1779428853.0,
-    "isoDate": "2026-05-22T05:47:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04a_rowIzNPvHHvDTUE34d3bZlOhBeQXtC0UdXyjlf988G4zVE89QKWqSWASKd2LD0T8O2XhkDVgG7UGFIxlpvQWHPx-o_X7vfMK5fH4uSDg3eSUDAaWKtgresEyD9JpINkxtdELWn-qiv6usoLgwSlYNi89xJeVBwYYsCF2y-KKNz0x04KS0PeDPL57J/s1600/cisa-kev-flaws.jpg"
-  },
-  {
-    "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-    "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-    "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arise…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 22 May 2026 11:06:18 +0530",
-    "timestamp": 1779428178.0,
-    "isoDate": "2026-05-22T05:36:18+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLweJvl8B70zomibdr4U6WvYgbmZn4gKKOG9F7xDPXzgeENKK0kg2kgK1yvZDS7AJFkY9De2rG2EQzCLvN1FmjrXXDIm-CkmU88QcexbMkr60gKVKexF-d1qtGHusrr6_j5yrtMv31PSUEygioHJikBsifQ0VHW18IU7lu_oItTzQXugwHPLoO_DYNdnYx/s1600/cisco-workload.jpg"
-  },
-  {
-    "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-    "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat is a modular post-e…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 21 May 2026 19:47:09 +0530",
-    "timestamp": 1779373029.0,
-    "isoDate": "2026-05-21T14:17:09+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTZEcd3s0q7NssZnOYvAFrMtE1fTJQtdNoUDwBZKG1DkQWYL4uY6gExiUwuNcMnZG-J8dM8iTJIm6nD2Bv80qI2xMubYmnGScqUNQfeI6kF49vFkU0wKpi7iaVvbl1MX1zPleKP2iOShCd9u4S-EpLA-cBKf5lNlW7OXLu0NmiUlw35Qr0GzXmpylPcXz/s1600/telecom-linux.jpg"
   }
 ]
