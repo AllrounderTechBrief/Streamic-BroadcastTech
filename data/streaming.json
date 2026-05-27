@@ -1,5 +1,16 @@
 [
   {
+    "title": "Iran's Internet is partially restored, Cloudflare Radar data shows",
+    "link": "https://blog.cloudflare.com/iran-internet-partially-restored-may-2026/",
+    "summary": "Cloudflare Radar data confirms early indications of a partial Internet restoration in Iran, nearly three months after the shutdown began. Traffic spikes and DNS queries have risen, but network activity is currently just 40% of pre-shutdown …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 27 May 2026 17:25:00 GMT",
+    "timestamp": 1779902700.0,
+    "isoDate": "2026-05-27T17:25:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5otxM2P75Aqb1IDbY8l6Cv/1405b5bb93a80b6c8c860dba014ab8e0/BLOG-3321_image13.png"
+  },
+  {
     "title": "Ad Observability for Streaming Video: How Real-Time Player Data Protects Revenue for FAST Channels, Live Events, and On-Demand Content",
     "link": "https://bitmovin.com/blog/ad-observability-streaming-video-real-time-player-data/",
     "summary": "Why real-time ad analytics have become an operational requirement for streaming businesses and what it costs when they’re missing. Ad revenue is now load-bearing infrastructure The business of streaming has fundamentally changed. According …",
@@ -361,17 +372,6 @@
     "timestamp": 1776437142.0,
     "isoDate": "2026-04-17T14:45:42+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Introducing the Agent Readiness score. Is your site agent-ready?",
-    "link": "https://blog.cloudflare.com/agent-readiness/",
-    "summary": "The Agent Readiness score can help site owners understand how well their websites support AI agents. Here we explore new standards, share Radar data, and detail how we made Cloudflare’s docs the most agent-friendly on the web.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 17 Apr 2026 13:05:00 GMT",
-    "timestamp": 1776431100.0,
-    "isoDate": "2026-04-17T13:05:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/sGg5lZjafjQ398V7hYyMv/93e112a34754e2065ffbf6445ebc4500/unnamed.png"
   },
   {
     "title": "Improving ad placement with AI for better viewer experiences",
