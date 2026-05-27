@@ -1,5 +1,16 @@
 [
   {
+    "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+    "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+    "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 27 May 2026 13:15:52 +0530",
+    "timestamp": 1779867952.0,
+    "isoDate": "2026-05-27T07:45:52+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqt5LC8yrEqRzxRxEUTh3yZSnXovvZU0R11suWWfP1FEKvC5ZOpPnLHpdDjAzUADZarX1C3XucsG5OOXN3Zj4-esPhUnz4DBnAdDxkZw3aEqdH_HHPn4N5Eu03Y-tG_kEmPOxKyMH14wpiOYs9w8jh7U6MlHjHqiS4nNxLH_NpS47oR-mRW5GfuDvX9VFo/s1600/ai-tools.jpg"
+  },
+  {
     "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
     "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
     "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics ma…",
@@ -317,16 +328,5 @@
     "timestamp": 1779359400.0,
     "isoDate": "2026-05-21T10:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9W2lSuCdHjvqeLUN5WtqUOgCwe2FAyP1Y_z4oUr1LgM1MdOE5A83gkzSOfGjIosfdlfB4SuLbeVbydeuParENW4MH2aWYuWqnB-DeOd7gC3RJnp7wFucmuinh9kiMBI99337kQYcBrlIX-WH3u204eu7FTy5b_gpkXC6ZHupWD3P60yFk4-2DUrTuuc/s1600/xmxm.jpg"
-  },
-  {
-    "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-    "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
-    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 21 May 2026 13:05:53 +0530",
-    "timestamp": 1779348953.0,
-    "isoDate": "2026-05-21T07:35:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCjgJwva2lZrAwxHWPZFiphHAhxBdWRyU4gUiAZIStkUP4JU6yej3Z1xVhUtrhaIYVu4IL5KpvOomBDHU_aLtvgHV-R9_41nUSrngG0BGBlCv2pByfkVZNKxmwA3Nf6NR7pi6XgwdUjkwFw27lm_vNR_w2Cr1An46yOM8kfIEphrSCq2aRcaKNNj9D-PiN/s1600/linux-exploit.gif"
   }
 ]
