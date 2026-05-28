@@ -1,5 +1,16 @@
 [
   {
+    "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+    "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+    "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 o…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 28 May 2026 22:54:44 +0530",
+    "timestamp": 1779989084.0,
+    "isoDate": "2026-05-28T17:24:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg"
+  },
+  {
     "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
     "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
     "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infras…",
@@ -317,16 +328,5 @@
     "timestamp": 1779521713.0,
     "isoDate": "2026-05-23T07:35:13+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0W1UqsbcZ-8IV_n8ov3V24MQ74VaKe3auGFWNunDUfubEBeKEGREuFjC9-i7H_fLfSwFQQ5wqe8bhVWvAUVC_8U5AQg1c1Qbe-M7bSjuWCwcjTRrc2Du7L0Tm-NKO7ErhPUTR7YS6b1vkpmbYS1VaClWUGOvGe4cxv-jHkQFZMXbSDLfBiF7FFwd7Nfe/s1600/lightspeed.png"
-  },
-  {
-    "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-    "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The v…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 23 May 2026 12:53:48 +0530",
-    "timestamp": 1779521028.0,
-    "isoDate": "2026-05-23T07:23:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKqQ4Uk8lGWwF7f6lrmP6dRHkEmQTJsqFs8xvJ5256xUcHTeWMNVMkPguALNqLPpJWneU9XWIEzi4jSUVTiS2In1QMSl7NEjNDB99yHlGeCjw4OAQ3Lx8jhE5l9RUGMmth_ecUC1GcgierrFk8XKREHXC73mQn3w3jFcqjvJL1UZpPJPP62Uv-IpfBafRI/s1600/cisa-drupal.jpg"
   }
 ]
