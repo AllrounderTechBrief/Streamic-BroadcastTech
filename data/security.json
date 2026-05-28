@@ -1,5 +1,27 @@
 [
   {
+    "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
+    "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
+    "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from. The research shows…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 28 May 2026 17:00:00 +0530",
+    "timestamp": 1779967800.0,
+    "isoDate": "2026-05-28T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXxB1vzDMiskZRwzcQojV8rDdalRXWpzXieLES5nUD0bXfnbXrUwsV00RsMmRFdd-Zd3up_9wAGsvfzTDmWi4MLp70XlajlgakXsuCfdWmOe0uQuy0yIwxC4-fevqlb0Rs3AR_eqInGT1scQfa5oiGqY-TRmswOwkY4Zg2ikCYxlsBF2FQTEGA216b_NF8/s1600/apples.jpg"
+  },
+  {
+    "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
+    "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
+    "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware. \"These camp…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 28 May 2026 13:24:48 +0530",
+    "timestamp": 1779954888.0,
+    "isoDate": "2026-05-28T07:54:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyRUE7TEns58pfRrpwegQH6tBvGORrdclhPKKI7B7l9eNy5bMA1_ra6HAyGPUC_NKD8ZTnpVt7z88AII1Sd8QpA-sqZ7ONKZGwEVFB0u8gNvsBVRtfJuTsvWM4q6V_9MXVj7fX4ug_7mel-x1i2l7qm1GY94gVA1AbyCrvRQA8JcaDmhF1i_tM22NF_RPX/s1600/crypto-hacks.jpg"
+  },
+  {
     "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
     "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
     "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according to new findings from WatchGuard and ESET, …",
@@ -306,27 +328,5 @@
     "timestamp": 1779450924.0,
     "isoDate": "2026-05-22T11:55:24+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC_sjVeLejyyBZJ0DWW2y9-Z2Jvmrzz9h-5XEIKPFTcJvDj49Jlt-z1FNbSp51K9XcQ8FqC9MBDFPPPdZuzRfjqtYvKNaqT0Qzd61oCHVhNq59IcAVcWV3LvDmKCsX5pHn4nU3LclQPEozMp3XsgYZnVHCZEj89AGkWJpqL1EjCjiqMLnvggZLsgb08MYp/s1600/github-worm.jpg"
-  },
-  {
-    "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-    "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-    "summary": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability r…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 22 May 2026 17:08:12 +0530",
-    "timestamp": 1779449892.0,
-    "isoDate": "2026-05-22T11:38:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUdjbDFZeTbwpdUFibGsmuDSgX_NHbFfTYroqcGYEGB6yvuKR3eUBSHo9XaphMTYmXC3cqmICDOGUjlsBrwwyJOxzkj1Cdh2xZcYxLz1WpHrV9QmloScYivp7jfyynDTiB51MTpsgGffJ9bZgYJeV3VhY6OA32tot8mC08F-g6KpU47zR513SkVqk-hIim/s1600/driver.jpg"
-  },
-  {
-    "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-    "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
-    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, C…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 22 May 2026 14:20:18 +0530",
-    "timestamp": 1779439818.0,
-    "isoDate": "2026-05-22T08:50:18+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5VYMnsK-UMv3L8TZp1KhZ4PQti0VtUXkbDREtK-R9Hbtj6bdYrPRwwn8VItL49asZcHEMSOFJyfV25Da96CerBXrPRnHZHncrTuo7Mj7dxEkNGNR4jZZs19Y2pep2dl7KZ0IK1CkexVOQhr14e5MIP5oe5vglQ2StuxG6xv2ataqy8jvD9T1fXLToZHc5/s1600/ddos-canada.jpg"
   }
 ]
