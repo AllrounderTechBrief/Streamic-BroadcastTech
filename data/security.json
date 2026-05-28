@@ -1,5 +1,38 @@
 [
   {
+    "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+    "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+    "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infras…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 28 May 2026 20:56:04 +0530",
+    "timestamp": 1779981964.0,
+    "isoDate": "2026-05-28T15:26:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo8Mb8UwcN2lkMlnUi-l3a8DXNNL2_dW0VcATt8d34xxXX-kQN8HMolrIuw8ty0WZmpURI7hyphenhyphenDrvCAiKAarvJU1__tzxaKMxX3U4ZJbuwydE2zGoyFmutxDtid410NLBq_wi7fv_QFMdmkHGqRPwVcLY8xfeJ1PSb46o0RpCA4ubLLl8_LlLg-Id7ceU8/s1600/fort.jpg"
+  },
+  {
+    "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+    "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+    "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 28 May 2026 19:23:52 +0530",
+    "timestamp": 1779976432.0,
+    "isoDate": "2026-05-28T13:53:52+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMDR_KVt17sFMXeEhMvDYHLwBX_Aix1bz3y0izMs7PsVIuGSQhOLX_khN3Ckl_eRm9OEMAlVmBxPHhQvCGDJB5wXJ2rtOT8uQAiWCWCZwc7dvOfbWyuZ0BpNFAKohIpLUq9KR76XvZ3eT0TpltWDHUWQY-nUJzJflA1y5l7q_UXsjVtAMPhwVAULZZScp/s1600/github-ms.png"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+    "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+    "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 28 May 2026 19:03:16 +0530",
+    "timestamp": 1779975196.0,
+    "isoDate": "2026-05-28T13:33:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnLTRREuP8t8AoMRlakMDVRNoOYCA18IuBTWxA_nms12GdQaSfaU1kgpLSrgUvFFH1goJ_-NOIerDAnZxlD86Oafg_b6QdecLrT4UJdb3_qfmgtxdjrhF8GioeuEZbyZBTVL4cXUcpWqZujpLoI4zBm9y7XvFUjYR5cjF0GmmU_TXlmX0W7zsxlcvV9mW/s1600/tbb.jpg"
+  },
+  {
     "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
     "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
     "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from. The research shows…",
@@ -295,38 +328,5 @@
     "timestamp": 1779521028.0,
     "isoDate": "2026-05-23T07:23:48+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKqQ4Uk8lGWwF7f6lrmP6dRHkEmQTJsqFs8xvJ5256xUcHTeWMNVMkPguALNqLPpJWneU9XWIEzi4jSUVTiS2In1QMSl7NEjNDB99yHlGeCjw4OAQ3Lx8jhE5l9RUGMmth_ecUC1GcgierrFk8XKREHXC73mQn3w3jFcqjvJL1UZpPJPP62Uv-IpfBafRI/s1600/cisa-drupal.jpg"
-  },
-  {
-    "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
-    "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service att…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 22 May 2026 23:05:02 +0530",
-    "timestamp": 1779471302.0,
-    "isoDate": "2026-05-22T17:35:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8yN-yeHodasj_piRqdUbE1MGyOfiyAzo-x6KZ_V9oilxP_v_kFNoyLVU7oNmG05F5g49pLeMY_jgJtU0mFk9ft_0qi4oLFgTxm0KWBncWw9lq0lVJFdkzshBzjul-2ODkaGNoLbgFUqKXbwKJJiF8nm0E6u7q6hnK_Vzb07XT-iygxE6Ct3bxW7A6s6f8/s1600/firstvpn.jpg"
-  },
-  {
-    "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
-    "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-    "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 22 May 2026 21:50:32 +0530",
-    "timestamp": 1779466832.0,
-    "isoDate": "2026-05-22T16:20:32+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNDmjcnVzVIqFFB-CQU7L6G8XVTifkZGmIMcPrui1EoffwwvtPXCrjKhRtIfxYsfPb5OUON4KQ1MVRosbP1BgCeFpqIIWRbgv34naUxEUTzyGRsPB6fY2gJJa5AXgT085SLFuc8ykNinXhnnpQzGAT2Kw1YwNe05vxSxlb6EVTu8_CoDws3QwR_SCk7dXm/s1600/ukuk.jpg"
-  },
-  {
-    "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-    "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identit…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 22 May 2026 17:25:24 +0530",
-    "timestamp": 1779450924.0,
-    "isoDate": "2026-05-22T11:55:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC_sjVeLejyyBZJ0DWW2y9-Z2Jvmrzz9h-5XEIKPFTcJvDj49Jlt-z1FNbSp51K9XcQ8FqC9MBDFPPPdZuzRfjqtYvKNaqT0Qzd61oCHVhNq59IcAVcWV3LvDmKCsX5pHn4nU3LclQPEozMp3XsgYZnVHCZEj89AGkWJpqL1EjCjiqMLnvggZLsgb08MYp/s1600/github-worm.jpg"
   }
 ]

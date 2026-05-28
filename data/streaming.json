@@ -1,5 +1,16 @@
 [
   {
+    "title": "How we built Cloudflare's data platform and an AI agent on top of it",
+    "link": "https://blog.cloudflare.com/our-unified-data-platform/",
+    "summary": "Here’s how we built Town Lake, Cloudflare's unified analytics platform, alongside Skipper, an internal AI agent running on top of it.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 28 May 2026 13:00:00 GMT",
+    "timestamp": 1779973200.0,
+    "isoDate": "2026-05-28T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/47E8uC26eDC4XrOibNlGCi/4b1e083bb76de4f09404bdac07e5f03a/image5.png"
+  },
+  {
     "title": "Customize ad workflows with AWS Elemental MediaTailor Monetization Functions",
     "link": "https://aws.amazon.com/blogs/media/customize-ad-workflows-with-aws-elemental-mediatailor-monetization-functions/",
     "summary": "This post explains the framework and walks through an end-to-end example using LiveRamp identity enrichment.",
@@ -24,7 +35,7 @@
   {
     "title": "Ad Observability for Streaming Video: How Real-Time Player Data Protects Revenue for FAST Channels, Live Events, and On-Demand Content",
     "link": "https://bitmovin.com/blog/ad-observability-streaming-video-real-time-player-data/",
-    "summary": "Why real-time ad analytics have become an operational requirement for streaming businesses and what it costs when they’re missing. Ad revenue is now load-bearing infrastructure The business of streaming has fundamentally changed. According …",
+    "summary": "Ad servers confirm that an ad was sent. They cannot tell you whether it actually played. For streaming platforms where ad revenue is the model, that blind spot is a direct and silent revenue leak. This post examines why player-native, real-…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Wed, 27 May 2026 10:10:24 +0000",
@@ -339,17 +350,6 @@
     "timestamp": 1776690000.0,
     "isoDate": "2026-04-20T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3lMKwBTT3m7DDmS4BnoNhB/9002104b9c6c09cf72f4052d71e22363/BLOG-3270_2.png"
-  },
-  {
-    "title": "Orchestrating AI Code Review at scale",
-    "link": "https://blog.cloudflare.com/ai-code-review/",
-    "summary": "Learn about how we built a CI-native AI code reviewer using OpenCode that helps our engineers ship better, safer code.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 20 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776690000.0,
-    "isoDate": "2026-04-20T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7mAft27PsDQnNSNCvF7waU/fdd2c1c448e1863e34f71c124fa85ea1/BLOG-3284_2.jpg"
   },
   {
     "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
