@@ -1,5 +1,16 @@
 [
   {
+    "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+    "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+    "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is assessed to be a Russian-sp…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 29 May 2026 17:01:59 +0530",
+    "timestamp": 1780054319.0,
+    "isoDate": "2026-05-29T11:31:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg"
+  },
+  {
     "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
     "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
     "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without…",
@@ -317,16 +328,5 @@
     "timestamp": 1779554110.0,
     "isoDate": "2026-05-23T16:35:10+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png"
-  },
-  {
-    "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-    "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-    "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packag…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 23 May 2026 21:37:51 +0530",
-    "timestamp": 1779552471.0,
-    "isoDate": "2026-05-23T16:07:51+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg"
   }
 ]
