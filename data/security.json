@@ -1,5 +1,27 @@
 [
   {
+    "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+    "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 29 May 2026 23:37:12 +0530",
+    "timestamp": 1780078032.0,
+    "isoDate": "2026-05-29T18:07:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1600/chatgpt-phishing.jpg"
+  },
+  {
+    "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+    "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+    "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclos…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 29 May 2026 20:09:56 +0530",
+    "timestamp": 1780065596.0,
+    "isoDate": "2026-05-29T14:39:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png"
+  },
+  {
     "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
     "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
     "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is assessed to be a Russian-sp…",
@@ -306,27 +328,5 @@
     "timestamp": 1779701574.0,
     "isoDate": "2026-05-25T09:32:54+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuOeS1qVC0UHhPnJ0jlSdfScsZDRtkI6VU366iePjKdNTqLiqHcqjRcGL-sNBdUkShUH71YDDVwavzXM1cIu2UU9zE8VYgbJYsRUQeWRZAO75JC2vQHYs4saWOM3rQZKFPqNvlL8ASBocRiZXdO1jLgqLuCCeLHX0bAA1EQEhiBAq3i3Os97qHt_xF5ub/s1600/crypto-firms.jpg"
-  },
-  {
-    "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-    "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-    "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 25 May 2026 11:29:13 +0530",
-    "timestamp": 1779688753.0,
-    "isoDate": "2026-05-25T05:59:13+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOb58wXNPgRDazHcSLTObawPnMVsCDUEAoFclGVn3CC8qe6Pr_0-Gce-SxCO7FJ5HzU23WE_soU5iTc0zvLL0zzbXPcO8MqVgHIIAKXJo4ExcujDPV9yiIdN1X1jV63ACBN66_ktTeQ0FVmYsCTJC3tpyxpUBrvxLh_xqF-mKOZy8uaqz3QKyf6XpJHC4z/s1600/npm-python-rust.jpg"
-  },
-  {
-    "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-    "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-    "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called stage…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 23 May 2026 22:05:10 +0530",
-    "timestamp": 1779554110.0,
-    "isoDate": "2026-05-23T16:35:10+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png"
   }
 ]
