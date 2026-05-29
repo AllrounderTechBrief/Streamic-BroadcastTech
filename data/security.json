@@ -1,5 +1,27 @@
 [
   {
+    "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+    "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+    "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 29 May 2026 16:00:00 +0530",
+    "timestamp": 1780050600.0,
+    "isoDate": "2026-05-29T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_WTd_LhWXwvu2jTcVVVgE_IpLISA8vfn0awG8fVwVv_vxx1LvLU7XOxFCtSLMbiP6JKPQfFMdpA7cRJy0Phlu-RWtKH8m57ZMUwRI-tz0C-cAiASKIFS2Fytms6DnCCEif9l-CYN0drhFUEbrt71isM3LmzuA8Guqmhn6iiRqrTROcX-9tniNTQsglc/s1600/red.jpg"
+  },
+  {
+    "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+    "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
+    "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates. According to…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 29 May 2026 14:41:25 +0530",
+    "timestamp": 1780045885.0,
+    "isoDate": "2026-05-29T09:11:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbmZyAOVZRXrWddG8PMuXbVyex9s5HPD2cH8rDjYP6EHuVadkyj72NdN9PreAnGX9iOCVGxWI2YmSLu818VmdLGEcPkb60qPIUgBYh5oBHsA4KKYufsHbFGhAQDD7SjpZU0In0TPiHN4TxCR4THBwmKa4Bus98vBgx5mO3QTQRpTM5RERk8bFWi4psF7d/s1600/sdk.jpg"
+  },
+  {
     "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
     "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
     "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026. \"Kimsuky employed …",
@@ -306,27 +328,5 @@
     "timestamp": 1779552471.0,
     "isoDate": "2026-05-23T16:07:51+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg"
-  },
-  {
-    "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-    "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-    "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiativ…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 23 May 2026 17:25:35 +0530",
-    "timestamp": 1779537335.0,
-    "isoDate": "2026-05-23T11:55:35+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1600/claude-mythos-flaws.jpg"
-  },
-  {
-    "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-    "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-    "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include -…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 23 May 2026 15:21:13 +0530",
-    "timestamp": 1779529873.0,
-    "isoDate": "2026-05-23T09:51:13+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkqwlAgmL-HrE2pSx8xqfY4-AyYZ59wK4x5AWtnCXSHRoBO1wcYTpWw42Fe6VRoAT77e914MSqZW56fKX95IueHTCrk10XNn2Yxh7CU8iCdX5lzFowGeVkolW-4E3po81w9pFMsaLR_r85abtUv3bwvQMa6pP1BAiSj4DrmapTiYr1twfV61tvGdWJRgs8/s1600/lang-hack.jpg"
   }
 ]
