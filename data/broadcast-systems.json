@@ -1,5 +1,16 @@
 [
   {
+    "title": "RED V-RAPTOR Firmware 2.2",
+    "link": "https://www.newsshooter.com/2026/05/29/red-v-raptor-firmware-2-2/?utm_source=rss&utm_medium=rss&utm_campaign=red-v-raptor-firmware-2-2",
+    "summary": "In the latest RED TECH episode, Cleigh Reed gives an in-depth overview of Firmware 2.2 for the V-RAPTOR platform, including V-RAPTOR XE. Firmware 2.2 brings updates across power efficiency, monitoring, broadcast, RED Connect, and virtual pr…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Sat, 30 May 2026 06:43:28 +0000",
+    "timestamp": 1780123408.0,
+    "isoDate": "2026-05-30T06:43:28+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "BBC Question Time welcomes AI-generated panellists",
     "link": "https://www.tvbeurope.com/artificial-intelligence/bbc-question-time-welcomes-ai-generated-panellists",
     "summary": "The BBC said the use of AI was in line with its editorial guidelines The post BBC Question Time welcomes AI-generated panellists appeared first on TVBEurope.",
@@ -129,17 +140,6 @@
     "timeAgo": "Thu, 28 May 2026 06:51:42 +0000",
     "timestamp": 1779951102.0,
     "isoDate": "2026-05-28T06:51:42+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "DaVinci Resolve 21 Beta 4",
-    "link": "https://www.newsshooter.com/2026/05/27/davinci-resolve-21-beta-4/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-21-beta-4",
-    "summary": "Blackmagic Design has released DaVinci Resolve 21 Beta 4, which adds improvements and bug fixes for the public beta, including better Resolve FX handling on still images. This update also adds support for Fusion motion paths and modifiers i…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 28 May 2026 05:49:28 +0000",
-    "timestamp": 1779947368.0,
-    "isoDate": "2026-05-28T05:49:28+00:00",
     "imageUrl": ""
   },
   {
