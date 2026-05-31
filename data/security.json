@@ -1,5 +1,16 @@
 [
   {
+    "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+    "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+    "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 31 May 2026 17:52:12 +0530",
+    "timestamp": 1780230132.0,
+    "isoDate": "2026-05-31T12:22:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU44Ejz__EFKfpIrEypTxhK3KW7XV3oiEIJEWAC-_PyhbhUvOZzmv3SCAmiuGZdFNdzYIDR2GLwOAhX9nIaAoOD4iFXucpEpB4Ym2vMAqvayyi1JkYyqj2uEYAXPGbXe5dzYNw5a__5KnXvrnJsEVtwnJJs6v_zBlfl3sKo0J83QwylgCL1A2Vck1HktJ8/s1600/botnet.png"
+  },
+  {
     "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
     "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
     "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers t…",
@@ -90,7 +101,7 @@
   {
     "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
     "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-    "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infras…",
+    "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer. \"The campaign abused tr…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Thu, 28 May 2026 20:56:04 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1779710566.0,
     "isoDate": "2026-05-25T12:02:46+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bYCvN_MmCGXVH5raR8wqJQv52CST3mK7UBfLXVnqRRL_rHkhJpSOBjdPyR5oXmPsSB-X3-Sib6-eVToqi4UXB218ESR2uFdczESGAM5i4ZkxQyE7AkQteCFCasknPz262ceUOFccS3xcUbaQdvUGoRw0kJE7QQMSbeP2OAQVfY9lFYTj7ZhzCL_GdkuM/s1600/check-cf.jpg"
-  },
-  {
-    "title": "The Alert Firehose Finally Meets Its Match",
-    "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
-    "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually using it to catch thr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 25 May 2026 17:00:00 +0530",
-    "timestamp": 1779708600.0,
-    "isoDate": "2026-05-25T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULc1VvUr1LQ1qZPTiw_sPmN3JbNIk0OSlxHRT0MFdY2kM5Z7psdZtrctiSOybvu8i1sCwcMeSUtXxHb0xBkQ2lCUt2l_kKmhp93ydvN4-E-qObRkmiFK2s-jOPqipBTGfBnv4o-d9nLuPIL2JMGO6FhCFsFV2NkBlARzWW9ScqccGvAVHzM9o-6MDwn4/s1600/corelight-main.jpg"
   }
 ]
