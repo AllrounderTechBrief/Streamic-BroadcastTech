@@ -1,5 +1,27 @@
 [
   {
+    "title": "How we reduced core unit boot time from hours to minutes",
+    "link": "https://blog.cloudflare.com/optimizing-core-unit-boot-time/",
+    "summary": "We investigated why firmware updates were causing our core servers to take four hours to reboot. By diving into UEFI data structures and iPXE automation, we eliminated unnecessary timeouts and cut boot times back down to minutes.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 01 Jun 2026 16:53:39 GMT",
+    "timestamp": 1780332819.0,
+    "isoDate": "2026-06-01T16:53:39+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6x6QmYn2eTSTq2sncxLGKy/761b443e3e13c721dc4bfd904b8c2393/BLOG-3108_2.png"
+  },
+  {
+    "title": "How Bundesliga built Captain, an AI agent for fans, using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/media/how-bundesliga-built-captain-an-ai-agent-for-fans-using-amazon-bedrock/",
+    "summary": "Learn more about Captain, an agentic AI companion built by Bundesliga Media and embedded inside the official Bundesliga app.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 01 Jun 2026 12:56:50 +0000",
+    "timestamp": 1780318610.0,
+    "isoDate": "2026-06-01T12:56:50+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/25/Figure-1_2.png"
+  },
+  {
     "title": "How we built Cloudflare's data platform and an AI agent on top of it",
     "link": "https://blog.cloudflare.com/our-unified-data-platform/",
     "summary": "Here’s how we built Town Lake, Cloudflare's unified analytics platform, alongside Skipper, an internal AI agent running on top of it.",
@@ -341,17 +363,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6GiG5cEdgwoLU94AuUuLfS/f9022abc8ce823ef2468860474598b6f/BLOG-3239_2.png"
   },
   {
-    "title": "The AI engineering stack we built internally — on the platform we ship",
-    "link": "https://blog.cloudflare.com/internal-ai-engineering-stack/",
-    "summary": "We built our internal AI engineering stack on the same products we ship. That means 20 million requests routed through AI Gateway, 241 billion tokens processed, and inference running on Workers AI, serving more than 3,683 internal users. He…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 20 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776690000.0,
-    "isoDate": "2026-04-20T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3lMKwBTT3m7DDmS4BnoNhB/9002104b9c6c09cf72f4052d71e22363/BLOG-3270_2.png"
-  },
-  {
     "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
     "link": "https://aws.amazon.com/blogs/media/enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws/",
     "summary": "Studios face a critical dilemma: AI tools promise to accelerate production workflows, but adopting them means confronting real concerns about security, intellectual property (IP) protection, and production stability. This post introduces a …",
@@ -537,16 +548,5 @@
     "timestamp": 1772137547.0,
     "isoDate": "2026-02-26T20:25:47+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/22/Figure-1-Live-broadcast-workflow-with-2-inputs-a-mixer-and-an-output.png"
-  },
-  {
-    "title": "How AWS Built a Live AI-Powered Vertical Video Capability for Fox Sports with AWS Elemental Inference",
-    "link": "https://aws.amazon.com/blogs/media/how-aws-built-a-live-ai-powered-vertical-video-capability-for-fox-sports-with-aws-elemental-inference/",
-    "summary": "For media companies, delivering highlights to social platforms quickly is a competitive advantage that directly drives viewership and monetization. With hundreds of live events across multiple leagues, many organizations lack resources for …",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 25 Feb 2026 18:34:06 +0000",
-    "timestamp": 1772044446.0,
-    "isoDate": "2026-02-25T18:34:06+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/02/23/Example-of-video-editor-view-with-time-shifted-playback.png"
   }
 ]

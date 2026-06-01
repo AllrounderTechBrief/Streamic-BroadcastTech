@@ -1,5 +1,38 @@
 [
   {
+    "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+    "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+    "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 01 Jun 2026 23:10:28 +0530",
+    "timestamp": 1780335628.0,
+    "isoDate": "2026-06-01T17:40:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png"
+  },
+  {
+    "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+    "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+    "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, p…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 01 Jun 2026 19:29:54 +0530",
+    "timestamp": 1780322394.0,
+    "isoDate": "2026-06-01T13:59:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV-leTG-MQremNN5Ju342L6LQMn36xeD4jiS4YWT7EdYluHOtFDqIN8y3bQuV-A0D0wtsO5sRpG3Bpy5xdHhMs_sO_w3WoiiJzCd7o-7Hxw736ERxQs4WDd71EQEBIHLzT_UNFMwCDvC8Nij-gDNpMhsRnpsqoDHkuxUWLUEZSSTfDc4aXpx2qlpsaqlgH/s1600/cyberrecap.png"
+  },
+  {
+    "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+    "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+    "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include go…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 01 Jun 2026 17:24:24 +0530",
+    "timestamp": 1780314864.0,
+    "isoDate": "2026-06-01T11:54:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg"
+  },
+  {
     "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
     "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
     "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted…",
@@ -295,38 +328,5 @@
     "timestamp": 1779796193.0,
     "isoDate": "2026-05-26T11:49:53+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34meakbjhvY3-jNVG7Q8tPJ5Xk1a-vtGSeKgfVDApX6pn88G7gYhK2oz34my6QeWHsldmSJuV4o8tlBOmw-9Ul32EJYhC-aFmExZvn6ibinw10_4DhBf6pHmIum2Ha_HggakezqS_uKiOPJzrIdwioMru5Oj74p87z_ZbQt_c-bH8kQl6jEXYycod7Vrw/s1600/sharepoint.png"
-  },
-  {
-    "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-    "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-    "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 26 May 2026 16:00:00 +0530",
-    "timestamp": 1779791400.0,
-    "isoDate": "2026-05-26T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtums9LZoPXx5AzbNIYmdrNPI6vAAWAnYGfW6NzZ4DkICva0wX2GjMPvmYoq4EVuhvWUc6FyLrgJJ0Hvh8w0TBJ4MLkQplbffUwg89oiQxoJhV-93mboD0D2rdkrrhsblZ2tLJv-auc2GBNjIMsg8wGUCYOkZHNDHaQoqhDbLXrFC3-rD3cz0pI12U7rR2/s1600/prompt-1.jpg"
-  },
-  {
-    "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-    "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-    "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard ag…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 26 May 2026 14:43:02 +0530",
-    "timestamp": 1779786782.0,
-    "isoDate": "2026-05-26T09:13:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9yN2AliOVdy0oCCMNYXnnrLjE6yWRz_eXVGFhiIw9vxnia2BMUxqhMrI8Q23Y2hHcF-hjqbw4aIqJTvO4zDD1k_WlKzEqx_FZ7P45mn8RiQ1UEqNUgqXv4DqrkzyyjjjgjKcPnNjzKHTTX8NIelTf4L_Cbx4XyYK6piDr1oPFfSmtk-59NCbU3cGCQEcQ/s1600/indian-cert.jpg"
-  },
-  {
-    "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-    "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-    "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Eur…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 26 May 2026 12:43:05 +0530",
-    "timestamp": 1779779585.0,
-    "isoDate": "2026-05-26T07:13:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL7Xqq7FlHxai3-wKrWcUujSg4cXnMJ_0LiXDaZHaZosFt3sPF1_PwcaqufOoM7q66vakQyKX5-odysTHOhtIG7ESj52Kna0i3OxaOA0sTONuH3NhkmautF8CTeiLBDzHFWjEvIT286ZnhERvK2VsvzxTdqjlEpXsbSELeqVHyr18JodeQZC-qudm2yblS/s1600/iran-hackers.jpg"
   }
 ]
