@@ -1,5 +1,16 @@
 [
   {
+    "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+    "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+    "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. \"Th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 02 Jun 2026 14:35:40 +0530",
+    "timestamp": 1780391140.0,
+    "isoDate": "2026-06-02T09:05:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiilTEadDjLrLdKByKVP6n_zfNSbhTTutHu-9BbbIDTBotobmqmIOI7fDdGGHZQQB7wTo00L66NAKZBA3iRBLQpSf_NgH9hKe9Xd-WUoijt7y-CUbdZore_qSZpTmuBhExaAxeXn39EPCVPYugMnJ85c15e161ttOMRmbSAv7NcbUlYrqDV4NnbzHZvw0A5/s1600/paki.gif"
+  },
+  {
     "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
     "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
     "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an \"ex…",
@@ -317,16 +328,5 @@
     "timestamp": 1779810521.0,
     "isoDate": "2026-05-26T15:48:41+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkb692n4xA8jDUKZCkwPSIXqiyTaEk_bQhrNaZj33tRhusSP40-iwlk5x7iblb9M63WKWVbj8Gm6oPJZY3bm602-qFyLLnRXuCKsl40iAZG_5-ehqlQ4CYaO442hgo4FBKrspLCO4r_ET1U4U3fPCKCYOc7DFuDn_mv7ZzbzH_IC0NAt2HVVSxwIBNOruk/s1600/cyber-espionage.jpg"
-  },
-  {
-    "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-    "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-    "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 26 May 2026 17:28:00 +0530",
-    "timestamp": 1779796680.0,
-    "isoDate": "2026-05-26T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiphaRoHMD4mkIzApkJZumEOEdIR0c_RxQrvmjv5qM6Kgo8MBnKrIAxicsojC-CdXhcOfRR9t0DxQeyEMXjXtER-bkSqe97zvFr7mfz3HjwA-79JjLWg0IwhZFTulr__kB02fXgX09tOpLWUjqy-fFmQbfvCZG-2uLLAhJpFAFrPo5d9H0PVZHEaSvmZKFE/s1600/ddossss.jpg"
   }
 ]
