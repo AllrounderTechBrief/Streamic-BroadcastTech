@@ -1,5 +1,27 @@
 [
   {
+    "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
+    "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+    "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the wind…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 02 Jun 2026 17:28:00 +0530",
+    "timestamp": 1780401480.0,
+    "isoDate": "2026-06-02T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgC5W9v8FZkEWo3lLXfVm96RBtE2mlXcUmv-T0KxRiUVUsBhQOMm8MG6G-IExq0SIu3KlkO309v-a63s4dCkLdR6CCZ3Mf-XK-qi3a7T-Lp_mJB2jio7dLxMAnvAqxlh4J0-F7fUr7uiSeWOk7ldmBLNki4ORg2A_Y5yJ-tk0b9V6iJjjf7U4CRwD9eAA/s1600/watch.jpg"
+  },
+  {
+    "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+    "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
+    "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 02 Jun 2026 16:00:00 +0530",
+    "timestamp": 1780396200.0,
+    "isoDate": "2026-06-02T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdciYseLWNtSuIlPrhxjKI4HId3_-g3E9nr2PmvF-sdPELDdug8zPHASf-hJwZKEUXi9n0pjN08mhpoe-BB_wi241-xBwfKPT8YeJdo41fnHHC9phaZR4TrLiGfTXS8X2SKdlKJMMcwbTuh0LYSbdsHJtNgTfVD5AZU9Y6XzCTqdTg8Vy8qSAVXq254AM/s1600/alert.png"
+  },
+  {
     "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
     "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
     "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. \"Th…",
@@ -306,27 +328,5 @@
     "timestamp": 1779876392.0,
     "isoDate": "2026-05-27T10:06:32+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtYSLWixSGb7jW2drND6NlHzXB4eHO0QyZNOovK9iVyaHGS6fSN4eqhWkijIhevhInH56hv03c29ziWCZiH58kY5EBbfuZloLfMP9yGJuFVtIaoJqj31KVFNeImMNVnLGrRHbhcGw7IMVZ8FEH2tK-Bit50KzXfe0F9jEQAO9iy5PNprbqJzgRB2WkI-0i/s1600/gitea-main.jpg"
-  },
-  {
-    "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-    "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-    "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 27 May 2026 13:15:52 +0530",
-    "timestamp": 1779867952.0,
-    "isoDate": "2026-05-27T07:45:52+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqt5LC8yrEqRzxRxEUTh3yZSnXovvZU0R11suWWfP1FEKvC5ZOpPnLHpdDjAzUADZarX1C3XucsG5OOXN3Zj4-esPhUnz4DBnAdDxkZw3aEqdH_HHPn4N5Eu03Y-tG_kEmPOxKyMH14wpiOYs9w8jh7U6MlHjHqiS4nNxLH_NpS47oR-mRW5GfuDvX9VFo/s1600/ai-tools.jpg"
-  },
-  {
-    "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-    "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-    "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics ma…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 26 May 2026 21:18:41 +0530",
-    "timestamp": 1779810521.0,
-    "isoDate": "2026-05-26T15:48:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkb692n4xA8jDUKZCkwPSIXqiyTaEk_bQhrNaZj33tRhusSP40-iwlk5x7iblb9M63WKWVbj8Gm6oPJZY3bm602-qFyLLnRXuCKsl40iAZG_5-ehqlQ4CYaO442hgo4FBKrspLCO4r_ET1U4U3fPCKCYOc7DFuDn_mv7ZzbzH_IC0NAt2HVVSxwIBNOruk/s1600/cyber-espionage.jpg"
   }
 ]
