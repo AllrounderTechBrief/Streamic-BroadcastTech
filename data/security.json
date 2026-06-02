@@ -1,5 +1,27 @@
 [
   {
+    "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+    "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+    "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 02 Jun 2026 23:51:49 +0530",
+    "timestamp": 1780424509.0,
+    "isoDate": "2026-06-02T18:21:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWYqVAlf5o0isz1fGZ_KcAkqIAroOtFMRAvlOMseZrj7e5iLaZ47_92-zoFzN4rtQHJpmGHjMaOShanlb01qhHO5-_EFXskV2RdVtxShkQDFzCBGrgec2P-6IAFxMqRBkkbnLFyjl0n4ZkPbQBkEMl0OQqlj3CgThRwQ6Z6tQaYPbp1YhZy4wcxdmi5dy/s1600/russian-malware.jpg"
+  },
+  {
+    "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+    "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 02 Jun 2026 23:44:42 +0530",
+    "timestamp": 1780424082.0,
+    "isoDate": "2026-06-02T18:14:42+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTRAA7jrm-wO7d39ZhI2e75GnwqNE6t-CKpScXYfVikGGVRC4fYajbw5kn3aHqZc9rmbdjIqft5nwFLWAxCikfEMsfpt_h6dxGczVBeqAuujhbo01DpypfOJMqGqS0ohY7U1_L084pUvBxX8riiXrWssrwn76k7mMR-yR_3FMQV5fDjxIpRg-BPebCG_J/s1600/oracle.jpg"
+  },
+  {
     "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
     "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
     "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the wind…",
@@ -306,27 +328,5 @@
     "timestamp": 1779882517.0,
     "isoDate": "2026-05-27T11:48:37+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZssmt_sAQM7Hi8SpkOQnmc9tKVqlTyjMclO_ptRmn45_cDzz3KANdtBi4xzzuf7neoeylx39D4BZN_Wys34O8lCM9KP8qytxEq_QT4tQ_FTHBeRV75qVTNfzQg7UGa0IJGO3tuJBZGiDjNfB401rG6hPvu78_5H_Sp8UeYk9c74KlCr-CaVX1rg-Slxc6/s1600/botnet-down.jpg"
-  },
-  {
-    "title": "3 SOC Steps that Shut Down Incident Risks Early",
-    "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-    "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disguised as routine activity…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 27 May 2026 17:15:00 +0530",
-    "timestamp": 1779882300.0,
-    "isoDate": "2026-05-27T11:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5SbPsI2Ip_2s2JkLJSNNO05Qfn3zFQTpOSmRmqTreVUxDWTgZXSUgEtIwEvu5bQ8wGM24s68ikCnVLdKujVhF8j-TxTM5lr38lAdKkEummRkZxVnB5P1CQWNYqY-Oswvf6FHz4gWhFSAbrokC_3bnFksFvzGSC-0Fh5YUUJSNS2jlKrOJt4RCRJlYoJ4/s1600/iocc.jpg"
-  },
-  {
-    "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-    "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-    "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requir…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 27 May 2026 15:36:32 +0530",
-    "timestamp": 1779876392.0,
-    "isoDate": "2026-05-27T10:06:32+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtYSLWixSGb7jW2drND6NlHzXB4eHO0QyZNOovK9iVyaHGS6fSN4eqhWkijIhevhInH56hv03c29ziWCZiH58kY5EBbfuZloLfMP9yGJuFVtIaoJqj31KVFNeImMNVnLGrRHbhcGw7IMVZ8FEH2tK-Bit50KzXfe0F9jEQAO9iy5PNprbqJzgRB2WkI-0i/s1600/gitea-main.jpg"
   }
 ]
