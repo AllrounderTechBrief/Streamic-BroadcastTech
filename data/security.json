@@ -1,5 +1,16 @@
 [
   {
+    "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+    "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+    "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Track…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 03 Jun 2026 00:16:00 +0530",
+    "timestamp": 1780425960.0,
+    "isoDate": "2026-06-02T18:46:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6SfsDfrb_dr_5DP0MiwOMy86maTi3XyrtkQLw-sHAGlBZbhZ0uEfRkamwFqXGT4qNmVIqg6LQtaaRVLr_oGnxvKHiSuCU0Qts79fzGzWbeySgkpak_Cci73EHSyvr1qC1EqiciaI86XW4KtODuln9vUkYHvoH1p3bh_FTzW6scXui1REmWDv84cTxhoX/s1600/android.jpg"
+  },
+  {
     "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
     "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
     "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponi…",
@@ -317,16 +328,5 @@
     "timestamp": 1779888528.0,
     "isoDate": "2026-05-27T13:28:48+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kyKLwKpVhYgitj4fm1vRuvXJPKSpYpf_WcR-b0_8CVkNeFLtcxO158cmOS_GAVNi7G1xTrDOLVcVqBXKW-rI31rDAVXhN-A3Q1g11l_17bAKuedJx_meh5Pf4hoRVLwx55EECim9EGrI0xRCsq2Dx-8nBNlNwIVqEApy16ZBm48DuqDq2Q7BtRKm3AA/s1600/shadow.jpg"
-  },
-  {
-    "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-    "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-    "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software d…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 27 May 2026 17:18:37 +0530",
-    "timestamp": 1779882517.0,
-    "isoDate": "2026-05-27T11:48:37+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZssmt_sAQM7Hi8SpkOQnmc9tKVqlTyjMclO_ptRmn45_cDzz3KANdtBi4xzzuf7neoeylx39D4BZN_Wys34O8lCM9KP8qytxEq_QT4tQ_FTHBeRV75qVTNfzQg7UGa0IJGO3tuJBZGiDjNfB401rG6hPvu78_5H_Sp8UeYk9c74KlCr-CaVX1rg-Slxc6/s1600/botnet-down.jpg"
   }
 ]
