@@ -1,5 +1,60 @@
 [
   {
+    "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+    "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+    "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 03 Jun 2026 18:28:22 +0530",
+    "timestamp": 1780491502.0,
+    "isoDate": "2026-06-03T12:58:22+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHvqmNHvAhdxgoBLbfFWsFBMdvH5SbJovunxx8AYHRkq7HOQ2l6I_ZaJGi_PF5WHKOlHEQHK4HyPBhmzOpYNhPS4HJSna2uLVlEwUV9i2j5YuRqGOLUqgKIrhx2ndFm1OSME7usiLk_ohtIBYyR5Xpq5Pzc2eHAjCK0OA_89JwPNxVrrBVDbTDRVbRG6e/s1600/github.jpg"
+  },
+  {
+    "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+    "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
+    "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 03 Jun 2026 17:28:00 +0530",
+    "timestamp": 1780487880.0,
+    "isoDate": "2026-06-03T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuT21gubKVL2cAsQrEiju_yAE3Pxe1IPxsl9RlGfhMEeis2IuQglnZjwTme6xM1_IJNymXFY1kZsouMGecR2lQnzvMDXyjnY1Y7CT1Dz_xf0pRVkwJEJG9o1EfOlPMfgfZ0MO6eyKGKJDwRHrEsw2-Cai9QO3pfrryeSENy5kH4C_pdjDgsXVOO80TPy8/s1600/orchid.jpg"
+  },
+  {
+    "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+    "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+    "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You contr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 03 Jun 2026 16:58:59 +0530",
+    "timestamp": 1780486139.0,
+    "isoDate": "2026-06-03T11:28:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg"
+  },
+  {
+    "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+    "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+    "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch:…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 03 Jun 2026 15:48:52 +0530",
+    "timestamp": 1780481932.0,
+    "isoDate": "2026-06-03T10:18:52+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Y4FY1kH_mrU4oH2X7TPrnmPdf9Ib4UZ4Xgud4Qgjie69on9qP9D1OU8i3ol3THTISUTy8OBJzPXzbUTyHwx1xF8cWuYvb9r-_7r_g-gFXyW62phdyaEAd41PI5cfduXxd084XQdwhxQ40Ti5n7SvkhIbZRktqP8G9bhufjlrxzxHYWpFTAXAfSSWstwc/s1600/NTLM.jpg"
+  },
+  {
+    "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+    "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+    "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The vulnerability has been codenamed HTTP/2 Bomb by Ca…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 03 Jun 2026 14:03:35 +0530",
+    "timestamp": 1780475615.0,
+    "isoDate": "2026-06-03T08:33:35+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP07q0cgsa0a9VyTU6oPpxqvoZ5Gg2spx-ClmUIzn9LjYzDfuKNxnLXNuXMexiMB8GjKewhk7CnAL5HXgpCL_wq5eaU8VK2mTxxcKJHAZ9eLBskg516sBn4SV5XHWOuZIozDzBD_0MUCAMcVpGyqOEWITNKi2mQFxFLl9gqg_3UxPlwmXCkRfm2JERftyN/s1600/http2.gif"
+  },
+  {
     "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
     "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
     "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed We…",
@@ -273,60 +328,5 @@
     "timestamp": 1779976432.0,
     "isoDate": "2026-05-28T13:53:52+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMDR_KVt17sFMXeEhMvDYHLwBX_Aix1bz3y0izMs7PsVIuGSQhOLX_khN3Ckl_eRm9OEMAlVmBxPHhQvCGDJB5wXJ2rtOT8uQAiWCWCZwc7dvOfbWyuZ0BpNFAKohIpLUq9KR76XvZ3eT0TpltWDHUWQY-nUJzJflA1y5l7q_UXsjVtAMPhwVAULZZScp/s1600/github-ms.png"
-  },
-  {
-    "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-    "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-    "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 28 May 2026 19:03:16 +0530",
-    "timestamp": 1779975196.0,
-    "isoDate": "2026-05-28T13:33:16+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnLTRREuP8t8AoMRlakMDVRNoOYCA18IuBTWxA_nms12GdQaSfaU1kgpLSrgUvFFH1goJ_-NOIerDAnZxlD86Oafg_b6QdecLrT4UJdb3_qfmgtxdjrhF8GioeuEZbyZBTVL4cXUcpWqZujpLoI4zBm9y7XvFUjYR5cjF0GmmU_TXlmX0W7zsxlcvV9mW/s1600/tbb.jpg"
-  },
-  {
-    "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-    "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-    "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from. The research shows…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 28 May 2026 17:00:00 +0530",
-    "timestamp": 1779967800.0,
-    "isoDate": "2026-05-28T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXxB1vzDMiskZRwzcQojV8rDdalRXWpzXieLES5nUD0bXfnbXrUwsV00RsMmRFdd-Zd3up_9wAGsvfzTDmWi4MLp70XlajlgakXsuCfdWmOe0uQuy0yIwxC4-fevqlb0Rs3AR_eqInGT1scQfa5oiGqY-TRmswOwkY4Zg2ikCYxlsBF2FQTEGA216b_NF8/s1600/apples.jpg"
-  },
-  {
-    "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-    "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
-    "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware. \"These camp…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 28 May 2026 13:24:48 +0530",
-    "timestamp": 1779954888.0,
-    "isoDate": "2026-05-28T07:54:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyRUE7TEns58pfRrpwegQH6tBvGORrdclhPKKI7B7l9eNy5bMA1_ra6HAyGPUC_NKD8ZTnpVt7z88AII1Sd8QpA-sqZ7ONKZGwEVFB0u8gNvsBVRtfJuTsvWM4q6V_9MXVj7fX4ug_7mel-x1i2l7qm1GY94gVA1AbyCrvRQA8JcaDmhF1i_tM22NF_RPX/s1600/crypto-hacks.jpg"
-  },
-  {
-    "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
-    "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
-    "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according to new findings from WatchGuard and ESET, …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 27 May 2026 21:40:21 +0530",
-    "timestamp": 1779898221.0,
-    "isoDate": "2026-05-27T16:10:21+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLrxY3dAls7M9XrbkVjdGZELLj2DQ4eGof0qKdWXJLGqQgVgcbszD-mSmcUi6ljJEPyuM5qbIzFD2CAkjQMkwdznWW5nXnJpPUOxuLP87xIATaxqvIKByQr0ddq8GnYTJy_O6VX5Z0cv_S9AYbwVUzzMeKM3UoPGGJ3Bzei5FluxHchhuekfAiKxUnBmaa/s1600/android-malware.jpg"
-  },
-  {
-    "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-    "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
-    "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities. According to OX Security, the package, named \"mouse5212-super-formatter,\" is designed to upload files f…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 27 May 2026 21:14:29 +0530",
-    "timestamp": 1779896669.0,
-    "isoDate": "2026-05-27T15:44:29+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlezHawmKBTFBZSgR52vL_EBxfwIlMa0i4LdDK2xC_c8nw704KQHbRNSHYAy8TY4ShZMFwAJoZKUBSDJBCVnwbORTlz7iE0JI9f9ORbQQ-RB5lA_b9VbUzAsjpVeW2oJ94hdfzOeCWN3zd5Li7zWanNx3s07cF8IRlWuVrLqBNaY0sobbJww1Pa_o2t4JN/s1600/npm-ai.jpg"
   }
 ]
