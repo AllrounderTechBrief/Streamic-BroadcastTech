@@ -1,5 +1,16 @@
 [
   {
+    "title": "Enforcing the First AS in BGP AS_PATHs",
+    "link": "https://blog.cloudflare.com/enforce-first-as-bgp/",
+    "summary": "BGP is vulnerable to routing hijacks and path leaks that negatively impact traffic on the Internet. RPKI helps solve some of these problems, but for some forged paths, we need to rely on a simpler mechanism: First AS enforcement in BGP.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 03 Jun 2026 17:00:00 GMT",
+    "timestamp": 1780506000.0,
+    "isoDate": "2026-06-03T17:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/GRO488rbjQjXDht7DyzL0/dc61e2e2cc4029ba4b15c235d1104ac1/BLOG-3306_image5.png"
+  },
+  {
     "title": "How Bedrock Streaming optimizes its AWS costs",
     "link": "https://aws.amazon.com/blogs/media/how-bedrock-streaming-optimizes-its-aws-costs/",
     "summary": "Learn how Bedrock Streaming hosts their solutions on Amazon Web Services (AWS) to serve major European broadcasters such as M6+, Videoland, and RTL+. With an AWS budget of several million dollars per year, each percentage point of optimizat…",
@@ -372,17 +383,6 @@
     "timestamp": 1776776400.0,
     "isoDate": "2026-04-21T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/61L0GkCvWVQl8TH2i2iwFp/899b2a1936aa7fbfaab45fca71d319d6/1.png"
-  },
-  {
-    "title": "Building the agentic cloud: everything we launched during Agents Week 2026",
-    "link": "https://blog.cloudflare.com/agents-week-in-review/",
-    "summary": "Agents Week 2026 is a wrap. Let’s take a look at everything we announced, from compute and security to the agent toolbox, platform tools, and the emerging agentic web. Everything we shipped for the agentic cloud.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 20 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776690000.0,
-    "isoDate": "2026-04-20T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6GiG5cEdgwoLU94AuUuLfS/f9022abc8ce823ef2468860474598b6f/BLOG-3239_2.png"
   },
   {
     "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
