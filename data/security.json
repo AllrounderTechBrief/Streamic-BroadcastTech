@@ -1,5 +1,16 @@
 [
   {
+    "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+    "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+    "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed We…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 03 Jun 2026 11:46:54 +0530",
+    "timestamp": 1780467414.0,
+    "isoDate": "2026-06-03T06:16:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBhPg_oWS3s5XgNMW4vuwq3Pwrnsw3l3FyzGwoYkQ7AwCuU6VXH6sOv03o04S4jw-7pkVzAsccuFCxzMX1tg8JbB8D9k5onrVg0-D7HBQduN4pAHq2FOH9a-tSeokVqGIyJS-hStrL7fs5I9u67yp2gRKjOYuTYF_xUrsJnIWL3GdTZ7bLiU6u1vObezoD/s1600/hacker-pirate.jpg"
+  },
+  {
     "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
     "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
     "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Track…",
@@ -317,16 +328,5 @@
     "timestamp": 1779896669.0,
     "isoDate": "2026-05-27T15:44:29+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlezHawmKBTFBZSgR52vL_EBxfwIlMa0i4LdDK2xC_c8nw704KQHbRNSHYAy8TY4ShZMFwAJoZKUBSDJBCVnwbORTlz7iE0JI9f9ORbQQ-RB5lA_b9VbUzAsjpVeW2oJ94hdfzOeCWN3zd5Li7zWanNx3s07cF8IRlWuVrLqBNaY0sobbJww1Pa_o2t4JN/s1600/npm-ai.jpg"
-  },
-  {
-    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-    "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
-    "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work. Acr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 27 May 2026 18:58:48 +0530",
-    "timestamp": 1779888528.0,
-    "isoDate": "2026-05-27T13:28:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kyKLwKpVhYgitj4fm1vRuvXJPKSpYpf_WcR-b0_8CVkNeFLtcxO158cmOS_GAVNi7G1xTrDOLVcVqBXKW-rI31rDAVXhN-A3Q1g11l_17bAKuedJx_meh5Pf4hoRVLwx55EECim9EGrI0xRCsq2Dx-8nBNlNwIVqEApy16ZBm48DuqDq2Q7BtRKm3AA/s1600/shadow.jpg"
   }
 ]
