@@ -1,5 +1,38 @@
 [
   {
+    "title": "Bitmovin and Akamai collaborate to bring new energy to NRJ",
+    "link": "https://www.tvbeurope.com/media-delivery/bitmovin-and-akamai-collaborate-to-bring-new-energy-to-nrj",
+    "summary": "The French multimedia company becomes the first to deploy AMP2, supporting the migration of its streaming services to the next-generation media player The post Bitmovin and Akamai collaborate to bring new energy to NRJ appeared first on TVB…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 04 Jun 2026 08:37:18 +0000",
+    "timestamp": 1780562238.0,
+    "isoDate": "2026-06-04T08:37:18+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/Header-726x363.png"
+  },
+  {
+    "title": "Sony extends VENICE 2 capabilities with new lens",
+    "link": "https://www.tvbeurope.com/production-post/sony-extends-venice-2-capabilities-with-new-lens",
+    "summary": "The RIALTO 65 has approximately 2.2x the light-receiving area of a full-frame image sensor The post Sony extends VENICE 2 capabilities with new lens appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 04 Jun 2026 08:35:19 +0000",
+    "timestamp": 1780562119.0,
+    "isoDate": "2026-06-04T08:35:19+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/Sony-VENICE-2-726x484.jpg"
+  },
+  {
+    "title": "Blackmagic Design Fairlight Live Beta 3",
+    "link": "https://www.newsshooter.com/2026/06/04/blackmagic-design-fairlight-live-beta-3/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-design-fairlight-live-beta-3",
+    "summary": "Blackmagic Design has released Fairlight Live Beta 3, which adds improvements and bug fixes for the public beta, including a new fader flip option that lets faders map to aux, matrix, and mix minus send levels, new auto mixing for automatic…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 04 Jun 2026 08:28:37 +0000",
+    "timestamp": 1780561717.0,
+    "isoDate": "2026-06-04T08:28:37+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "HAWK TAKA Spherical Primes",
     "link": "https://www.newsshooter.com/2026/06/03/hawk-taka-spherical-primes/?utm_source=rss&utm_medium=rss&utm_campaign=hawk-taka-spherical-primes",
     "summary": "HAWK is teasing new TAKA Spherical Primes. This new range consists of 10 focal lengths, and they all cover an image circle of 66mm. Taka is commonly written in Japanese as 鷹, meaning “Hawk”. There is currently no more information about thes…",
@@ -41,17 +74,6 @@
     "timeAgo": "Thu, 04 Jun 2026 01:14:38 +0000",
     "timestamp": 1780535678.0,
     "isoDate": "2026-06-04T01:14:38+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Intro to Grip Equipment",
-    "link": "https://www.newsshooter.com/2026/06/03/intro-to-grip-equipment/?utm_source=rss&utm_medium=rss&utm_campaign=intro-to-grip-equipment",
-    "summary": "B&H, in association with Impact, has posted up a 1-hour and 45-minute online workshop. Product developer Jason Friedman covers everything from the basic anatomy of a light stand to advanced rigging techniques. You can also learn about what …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 04 Jun 2026 01:01:11 +0000",
-    "timestamp": 1780534871.0,
-    "isoDate": "2026-06-04T01:01:11+00:00",
     "imageUrl": ""
   },
   {
@@ -251,27 +273,5 @@
     "timestamp": 1779964545.0,
     "isoDate": "2026-05-28T10:35:45+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/SMPTE-Young-Innovators-2026-726x484.jpg"
-  },
-  {
-    "title": "AWS provides infrastructure for Amazon MGM Studios’ new AI animated projects",
-    "link": "https://www.tvbeurope.com/artificial-intelligence/aws-provides-infrastructure-for-amazon-mgm-studios-new-ai-animated-projects",
-    "summary": "The initiative is driven by Project Nara, Amazon MGM Studios' AI production platform built on AWS The post AWS provides infrastructure for Amazon MGM Studios’ new AI animated projects appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 28 May 2026 08:49:08 +0000",
-    "timestamp": 1779958148.0,
-    "isoDate": "2026-05-28T08:49:08+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/Punky-Duck-press-image-v1b-726x405.jpg"
-  },
-  {
-    "title": "German production company brings cinematic production quality to its visual podcasts",
-    "link": "https://www.tvbeurope.com/production-post/german-production-company-brings-cinematic-production-quality-to-its-visual-podcasts",
-    "summary": "Podstars by OMR is employing 12 Sony FX3 full-frame cameras with a full complement of G Master II zooms and primes, and Sony's Monitor & Control app for production oversight on location The post German production company brings cinematic pr…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 28 May 2026 08:42:02 +0000",
-    "timestamp": 1779957722.0,
-    "isoDate": "2026-05-28T08:42:02+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/Podstars-by-OMR-image-726x459.jpg"
   }
 ]

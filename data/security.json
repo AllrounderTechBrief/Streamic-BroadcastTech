@@ -1,5 +1,27 @@
 [
   {
+    "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+    "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, followin…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 04 Jun 2026 12:49:33 +0530",
+    "timestamp": 1780557573.0,
+    "isoDate": "2026-06-04T07:19:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8P5o_wfJsxsTaxY4OONIm2y5N5x9heoFeLchfLU13YA36tGQGJtu00tOCQSKhCTBFobAAWfhXLtNGMu8ZCG7ozeLVggi1tnQVRK_1mJHd6eq1YSb5AlRZq5eDp3rGDL2Uli_b3aBPMBsLfMJ5QEm_XW1MF43_dcCf64rSbVrhsUakhaOAn5-GOmuLiq0s/s1600/mag.jpg"
+  },
+  {
+    "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
+    "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans. The \"Disrup…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 04 Jun 2026 11:36:25 +0530",
+    "timestamp": 1780553185.0,
+    "isoDate": "2026-06-04T06:06:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTf5wAHnoXtVauiln2MwlVvLc4LxcL8SBTLuW648LfFhUd8QyuOUfjmg0Hd91QlksmWF2u-PQhxHDTDmseMIG64V4Fo2I2lXXGO1o0BncbL_UTeBrGztErg66yXAm0trYlWxqGbE-sKb5VjXjqeyNiCMkxbdcxwX1BDRGexhP-b0s3dZl0lNRpY9u6nsTQ/s1600/police-crypto.jpg"
+  },
+  {
     "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
     "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
     "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a message from their boss, push the…",
@@ -306,27 +328,5 @@
     "timestamp": 1780054319.0,
     "isoDate": "2026-05-29T11:31:59+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg"
-  },
-  {
-    "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
-    "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
-    "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 29 May 2026 16:00:00 +0530",
-    "timestamp": 1780050600.0,
-    "isoDate": "2026-05-29T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_WTd_LhWXwvu2jTcVVVgE_IpLISA8vfn0awG8fVwVv_vxx1LvLU7XOxFCtSLMbiP6JKPQfFMdpA7cRJy0Phlu-RWtKH8m57ZMUwRI-tz0C-cAiASKIFS2Fytms6DnCCEif9l-CYN0drhFUEbrt71isM3LmzuA8Guqmhn6iiRqrTROcX-9tniNTQsglc/s1600/red.jpg"
-  },
-  {
-    "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
-    "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
-    "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates. According to…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 29 May 2026 14:41:25 +0530",
-    "timestamp": 1780045885.0,
-    "isoDate": "2026-05-29T09:11:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbmZyAOVZRXrWddG8PMuXbVyex9s5HPD2cH8rDjYP6EHuVadkyj72NdN9PreAnGX9iOCVGxWI2YmSLu818VmdLGEcPkb60qPIUgBYh5oBHsA4KKYufsHbFGhAQDD7SjpZU0In0TPiHN4TxCR4THBwmKa4Bus98vBgx5mO3QTQRpTM5RERk8bFWi4psF7d/s1600/sdk.jpg"
   }
 ]
