@@ -1,5 +1,16 @@
 [
   {
+    "title": "VoidZero is joining Cloudflare",
+    "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+    "summary": "VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 04 Jun 2026 12:59:00 GMT",
+    "timestamp": 1780577940.0,
+    "isoDate": "2026-06-04T12:59:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5gfeiRZUa5M8NfzsnMJ4FA/99600ef4053942f890316e9145a5cc72/BLOG-VOID_2.png"
+  },
+  {
     "title": "Enforcing the First AS in BGP AS_PATHs",
     "link": "https://blog.cloudflare.com/enforce-first-as-bgp/",
     "summary": "BGP is vulnerable to routing hijacks and path leaks that negatively impact traffic on the Internet. RPKI helps solve some of these problems, but for some forged paths, we need to rely on a simpler mechanism: First AS enforcement in BGP.",
@@ -46,7 +57,7 @@
   {
     "title": "Live Encoder Standby Pools: How to Eliminate Queue Time and Go Live Instantly",
     "link": "https://bitmovin.com/blog/what-are-live-encoder-standby-pools/",
-    "summary": "Live streaming at scale is one of the fastest-growing infrastructure challenges in the industry. Bitmovin’s 9th Annual Video Developer Report found it ranks as the third biggest innovation opportunity for video professionals globally, behin…",
+    "summary": "Live streaming at scale has a provisioning problem the industry has quietly normalized. As Netflix described in a 2025 engineering post, even at their scale the challenge is real enough to architect around. They built a full custom orchestr…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Fri, 29 May 2026 16:00:00 +0000",
@@ -372,17 +383,6 @@
     "timestamp": 1776862800.0,
     "isoDate": "2026-04-22T13:00:00+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Moving past bots vs. humans",
-    "link": "https://blog.cloudflare.com/past-bots-and-humans/",
-    "summary": "As AI assistants and privacy proxies challenge the capabilities of traditional bot detection, the Web needs new models for accountability. We believe that control should remain with the client, and that an open ecosystem of anonymous creden…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 21 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776776400.0,
-    "isoDate": "2026-04-21T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/61L0GkCvWVQl8TH2i2iwFp/899b2a1936aa7fbfaab45fca71d319d6/1.png"
   },
   {
     "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
