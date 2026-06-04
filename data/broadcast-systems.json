@@ -1,5 +1,38 @@
 [
   {
+    "title": "Nominees for EBU Technology and Innovation Award 2026 announced",
+    "link": "https://www.tvbeurope.com/business/nominees-for-ebu-technology-and-innovation-award-2026-announced",
+    "summary": "Nominees include projects exploring artificial intelligence, the Dynamic Media Facility, sustainability, software-based production and more The post Nominees for EBU Technology and Innovation Award 2026 announced appeared first on TVBEurope…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 04 Jun 2026 10:47:43 +0000",
+    "timestamp": 1780570063.0,
+    "isoDate": "2026-06-04T10:47:43+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Ofcom publishes latest approach to artificial intelligence",
+    "link": "https://www.tvbeurope.com/artificial-intelligence/ofcom-publishes-latest-approach-to-artificial-intelligence",
+    "summary": "In its latest update, Ofcom explains how its technology-neutral, outcomes-based regulatory principles are applied to AI across multiple sectors The post Ofcom publishes latest approach to artificial intelligence appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 04 Jun 2026 10:08:46 +0000",
+    "timestamp": 1780567726.0,
+    "isoDate": "2026-06-04T10:08:46+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Madrid’s Teatro Monumental updates broadcast tech",
+    "link": "https://www.tvbeurope.com/live-production/madrids-teatro-monumental-updates-broadcast-tech",
+    "summary": "Featuring two UHD Finepix 1.5 MATIX AlfaCOB displays designed for broadcast capture and live performance environments, the installation integrates with the historic space The post Madrid’s Teatro Monumental updates broadcast tech appeared f…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 04 Jun 2026 09:37:38 +0000",
+    "timestamp": 1780565858.0,
+    "isoDate": "2026-06-04T09:37:38+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/Teatro-Monumental-RTVE_Alfalite-726x408.jpg"
+  },
+  {
     "title": "Bitmovin and Akamai collaborate to bring new energy to NRJ",
     "link": "https://www.tvbeurope.com/media-delivery/bitmovin-and-akamai-collaborate-to-bring-new-energy-to-nrj",
     "summary": "The French multimedia company becomes the first to deploy AMP2, supporting the migration of its streaming services to the next-generation media player The post Bitmovin and Akamai collaborate to bring new energy to NRJ appeared first on TVB…",
@@ -240,38 +273,5 @@
     "timestamp": 1780043285.0,
     "isoDate": "2026-05-29T08:28:05+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/Harmonic-XOS-copy-726x463.jpg"
-  },
-  {
-    "title": "New platform enables developers to build real-time interactive applications in just a few lines of code",
-    "link": "https://www.tvbeurope.com/artificial-intelligence/new-platform-enables-developers-to-build-real-time-interactive-applications-in-just-a-few-lines-of-code",
-    "summary": "Reactor is co-founded by former Apple Vision Pro technical leads Alberto Taiuti (CEO) and Bryce Schmidtchen (CTO) The post New platform enables developers to build real-time interactive applications in just a few lines of code appeared firs…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 29 May 2026 08:24:41 +0000",
-    "timestamp": 1780043081.0,
-    "isoDate": "2026-05-29T08:24:41+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/Reactor-logo.jpg"
-  },
-  {
-    "title": "Calrec acts on ImPulse V",
-    "link": "https://www.tvbeurope.com/audio/calrec-acts-on-impulse-v",
-    "summary": "The new options aim to provide broadcasters with greater flexibility in virtualised workflows The post Calrec acts on ImPulse V appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 29 May 2026 07:49:14 +0000",
-    "timestamp": 1780040954.0,
-    "isoDate": "2026-05-29T07:49:14+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/Calrec-ImPulseV-copy-726x513.jpg"
-  },
-  {
-    "title": "Powering the future of media technology",
-    "link": "https://www.tvbeurope.com/business/powering-the-future-of-media-technology",
-    "summary": "SMPTE UK’s annual Young Innovators events serve as a critical bridge between aspiration and reality for the next generation of media technology talent. TVBEurope hears from organisers about how the initiative provides hands-on experience an…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 28 May 2026 10:35:45 +0000",
-    "timestamp": 1779964545.0,
-    "isoDate": "2026-05-28T10:35:45+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/05/SMPTE-Young-Innovators-2026-726x484.jpg"
   }
 ]

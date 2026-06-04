@@ -1,5 +1,27 @@
 [
   {
+    "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
+    "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
+    "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, Ani…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 04 Jun 2026 15:21:28 +0530",
+    "timestamp": 1780566688.0,
+    "isoDate": "2026-06-04T09:51:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7j9PG_c741so0RmX7eIB48xO-ndyZSF0pIU5j2anTqxJNj8A3XVstoIjq3iMnuQxhgyhl3LKP5laenFIj7IT0V8SOJ0lK7-Ywdsr5yBioNKF60SegkvR3SkfaSkPqZxN3rak0J-sZbvjxGDozCupAP3wraZjk0XU6-ZA590Q42cPaHXrdg7PJFGk1Ss/s1600/site.jpg"
+  },
+  {
+    "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
+    "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
+    "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blen…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 04 Jun 2026 15:03:57 +0530",
+    "timestamp": 1780565637.0,
+    "isoDate": "2026-06-04T09:33:57+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpg8pBdHkENT_CKClsSR7f4Rb7BQpM27ynGrkRdJg-bbUfI2NIHQ_rFmkOVHjK8RggTD-XMvVdGGI_qrYyIx-Ml1sfwbRkbjaNo8Fz40cWg8wFWK8h5-f-FaB58HryMM5AYlUHI2uO7x12VFvAB6N3w1gobWmzGgp8xXqHfWMERFh7hVS9lBHxfdu71Xs/s1600/stock-emails.jpg"
+  },
+  {
     "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
     "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, followin…",
@@ -306,27 +328,5 @@
     "timestamp": 1780078032.0,
     "isoDate": "2026-05-29T18:07:12+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1600/chatgpt-phishing.jpg"
-  },
-  {
-    "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-    "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
-    "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclos…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 29 May 2026 20:09:56 +0530",
-    "timestamp": 1780065596.0,
-    "isoDate": "2026-05-29T14:39:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png"
-  },
-  {
-    "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-    "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
-    "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is assessed to be a Russian-sp…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 29 May 2026 17:01:59 +0530",
-    "timestamp": 1780054319.0,
-    "isoDate": "2026-05-29T11:31:59+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg"
   }
 ]
