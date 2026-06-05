@@ -1,5 +1,16 @@
 [
   {
+    "title": "Fighting Fire With Fire",
+    "link": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
+    "summary": "In fire-prone ecosystems in Australia’s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 05 Jun 2026 04:01:00 +0000",
+    "timestamp": 1780632060.0,
+    "isoDate": "2026-06-05T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-fire-with-fire/australiafires_amo_20260528.jpg?w=2160&h=1700&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "NASA Hosts 2026 Review on Advanced Composite Manufacturing",
     "link": "https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/",
     "summary": "NASA’s Hi-Rate Composite Aircraft Manufacturing (HiCAM) project brought together its full team of Advanced Composites Consortium partners for a 2026 spring review at NASA’s Langley Research Center in Hampton, Virginia. The meeting took plac…",
@@ -438,17 +449,6 @@
     "timestamp": 1780494610.0,
     "isoDate": "2026-06-03T13:50:10+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/s1003201.jpg"
-  },
-  {
-    "title": "NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today",
-    "link": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/",
-    "summary": "The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. T…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 03 Jun 2026 13:12:05 +0000",
-    "timestamp": 1780492325.0,
-    "isoDate": "2026-06-03T13:12:05+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/c-original.jpg?w=2048"
   },
   {
     "title": "6 surprising things stadium production teams can learn from Levi’s Stadium’s renovation",
