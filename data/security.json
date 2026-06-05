@@ -1,5 +1,16 @@
 [
   {
+    "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+    "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+    "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, w…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 05 Jun 2026 20:23:40 +0530",
+    "timestamp": 1780671220.0,
+    "isoDate": "2026-06-05T14:53:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png"
+  },
+  {
     "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
     "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
     "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web…",
@@ -317,16 +328,5 @@
     "timestamp": 1780401480.0,
     "isoDate": "2026-06-02T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgC5W9v8FZkEWo3lLXfVm96RBtE2mlXcUmv-T0KxRiUVUsBhQOMm8MG6G-IExq0SIu3KlkO309v-a63s4dCkLdR6CCZ3Mf-XK-qi3a7T-Lp_mJB2jio7dLxMAnvAqxlh4J0-F7fUr7uiSeWOk7ldmBLNki4ORg2A_Y5yJ-tk0b9V6iJjjf7U4CRwD9eAA/s1600/watch.jpg"
-  },
-  {
-    "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-    "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-    "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 02 Jun 2026 16:00:00 +0530",
-    "timestamp": 1780396200.0,
-    "isoDate": "2026-06-02T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdciYseLWNtSuIlPrhxjKI4HId3_-g3E9nr2PmvF-sdPELDdug8zPHASf-hJwZKEUXi9n0pjN08mhpoe-BB_wi241-xBwfKPT8YeJdo41fnHHC9phaZR4TrLiGfTXS8X2SKdlKJMMcwbTuh0LYSbdsHJtNgTfVD5AZU9Y6XzCTqdTg8Vy8qSAVXq254AM/s1600/alert.png"
   }
 ]
