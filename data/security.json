@@ -1,5 +1,16 @@
 [
   {
+    "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+    "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respec…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 05 Jun 2026 23:35:30 +0530",
+    "timestamp": 1780682730.0,
+    "isoDate": "2026-06-05T18:05:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFimSGBOnvlCj_r6fiLdzK6V8DLTIQYjROKxHgQH8QxyRVIL3NDpQe9lBISjqCSjcZNl6VPhHVFtdJ8gPe2FfNjR9kGND1GSZmgx9T_32_Aii5nf_fMLkmBxwkKrJKbmZpcAG8xyj868aHfZ9RePlwlPDfMbI4uDlOCknlGH62Ifdf-nak6qmy4u-9i7X3/s1600/npm-worm.jpg"
+  },
+  {
     "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
     "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
     "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, w…",
@@ -317,16 +328,5 @@
     "timestamp": 1780424082.0,
     "isoDate": "2026-06-02T18:14:42+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTRAA7jrm-wO7d39ZhI2e75GnwqNE6t-CKpScXYfVikGGVRC4fYajbw5kn3aHqZc9rmbdjIqft5nwFLWAxCikfEMsfpt_h6dxGczVBeqAuujhbo01DpypfOJMqGqS0ohY7U1_L084pUvBxX8riiXrWssrwn76k7mMR-yR_3FMQV5fDjxIpRg-BPebCG_J/s1600/oracle.jpg"
-  },
-  {
-    "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
-    "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
-    "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the wind…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 02 Jun 2026 17:28:00 +0530",
-    "timestamp": 1780401480.0,
-    "isoDate": "2026-06-02T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgC5W9v8FZkEWo3lLXfVm96RBtE2mlXcUmv-T0KxRiUVUsBhQOMm8MG6G-IExq0SIu3KlkO309v-a63s4dCkLdR6CCZ3Mf-XK-qi3a7T-Lp_mJB2jio7dLxMAnvAqxlh4J0-F7fUr7uiSeWOk7ldmBLNki4ORg2A_Y5yJ-tk0b9V6iJjjf7U4CRwD9eAA/s1600/watch.jpg"
   }
 ]
