@@ -1,5 +1,16 @@
 [
   {
+    "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
+    "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+    "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC to…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 05 Jun 2026 16:50:00 +0530",
+    "timestamp": 1780658400.0,
+    "isoDate": "2026-06-05T11:20:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdgNCJHCuVqNf4dGZYDAmzpytkCd3NBt-TKUtEo-bSBKeuqJzzk7CGB5l-JxHyIz5mVjHRn7csD0zZNm4MipX2Kwhfx8gB_Qdk8XcMg6kuoOaiBvcZT1LGlmfRGsC2avDBRtTWb9I-hzENpGkSFRouv7YSUiKHAXZ7qmYEbTdwe9dsVQCj_RRxUnaSyE/s1600/main.jpg"
+  },
+  {
     "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
     "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
     "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise. The vulnerability in question i…",
@@ -317,16 +328,5 @@
     "timestamp": 1780391140.0,
     "isoDate": "2026-06-02T09:05:40+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiilTEadDjLrLdKByKVP6n_zfNSbhTTutHu-9BbbIDTBotobmqmIOI7fDdGGHZQQB7wTo00L66NAKZBA3iRBLQpSf_NgH9hKe9Xd-WUoijt7y-CUbdZore_qSZpTmuBhExaAxeXn39EPCVPYugMnJ85c15e161ttOMRmbSAv7NcbUlYrqDV4NnbzHZvw0A5/s1600/paki.gif"
-  },
-  {
-    "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-    "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
-    "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an \"ex…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 02 Jun 2026 09:25:25 +0530",
-    "timestamp": 1780372525.0,
-    "isoDate": "2026-06-02T03:55:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY3oQNaqfV2_sMYMZJ_EbUA90VD_t0w342aOV-tTDXEui63NgSB0SPYPhGVW9e5i8ZcEk7P5uudw6PJOi5od9rdsq9GzG0npc8FiqXuQ33r-zg81AMHW53prz_ovs2YbKrjaNfOOAp1tpmjhE3ADsjVymKPDGf4TyikPb1z18MOWk2YH-BteUQ6EUqYFI/s1600/dashlane.png"
   }
 ]
