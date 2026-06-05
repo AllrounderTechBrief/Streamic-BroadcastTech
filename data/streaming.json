@@ -1,5 +1,16 @@
 [
   {
+    "title": "Your AI bill is out of control. Cloudflare can fix it now.",
+    "link": "https://blog.cloudflare.com/ai-gateway-spend-limits/",
+    "summary": "AI Gateway now features real-time spend limits to prevent runaway token bills across multiple AI providers. By integrating with Cloudflare Access, companies can use identity-driven budgets and policies.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 05 Jun 2026 13:00:00 GMT",
+    "timestamp": 1780664400.0,
+    "isoDate": "2026-06-05T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6sH9TwbSEn2Ct9UFuC0SAq/1a1330737879497b0e2511ac28baaed5/BLOG-3331_image1.png"
+  },
+  {
     "title": "VoidZero is joining Cloudflare",
     "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
     "summary": "VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.",
@@ -372,17 +383,6 @@
     "timestamp": 1776962856.0,
     "isoDate": "2026-04-23T16:47:36+00:00",
     "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/04/image-1.jpeg"
-  },
-  {
-    "title": "Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen",
-    "link": "https://blog.cloudflare.com/making-rust-workers-reliable/",
-    "summary": "Panics in Rust Workers were historically fatal, poisoning the entire instance. By collaborating upstream on the wasm‑bindgen project, Rust Workers now support resilient critical error recovery, including panic unwinding using WebAssembly Ex…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 22 Apr 2026 13:00:00 GMT",
-    "timestamp": 1776862800.0,
-    "isoDate": "2026-04-22T13:00:00+00:00",
-    "imageUrl": ""
   },
   {
     "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
