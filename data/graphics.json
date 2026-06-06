@@ -19,7 +19,7 @@
     "timeAgo": "Fri, 05 Jun 2026 20:44:57 +0000",
     "timestamp": 1780692297.0,
     "isoDate": "2026-06-05T20:44:57+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean.jpg?w=2048"
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean.jpg"
   },
   {
     "title": "NASA Announces Winners of 2026 University Innovation Competition",
@@ -130,17 +130,6 @@
     "timestamp": 1780682809.0,
     "isoDate": "2026-06-05T18:06:49+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "NASA Satellites Help Map Ocean Nutrient Stress",
-    "link": "https://science.nasa.gov/earth/ocean-nutrient-stress/",
-    "summary": "Editor’s note: This article was updated on June 5. A new study combining NASA satellite observations, ocean surveys, and genetic testing on marine microorganisms found evidence that warming ocean waters may be limiting nutrient availability…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 05 Jun 2026 18:00:11 +0000",
-    "timestamp": 1780682411.0,
-    "isoDate": "2026-06-05T18:00:11+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/esnt/OceaNutrientStress2.png?w=3468&h=1190&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Seven Inducted Into The Massachusetts Broadcasters Hall Of Fame",
@@ -438,6 +427,17 @@
     "timestamp": 1780588683.0,
     "isoDate": "2026-06-04T15:58:03+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/pia25729orig.jpg?w=1014"
+  },
+  {
+    "title": "A Moonlit Earth as Seen From Artemis II",
+    "link": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
+    "summary": "An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 04 Jun 2026 04:01:00 +0000",
+    "timestamp": 1780545660.0,
+    "isoDate": "2026-06-04T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_eo.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "AI in broadcast: Less magic, more plumbing",
