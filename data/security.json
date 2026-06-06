@@ -1,5 +1,16 @@
 [
   {
+    "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+    "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+    "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people and organizations that ha…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 06 Jun 2026 19:06:57 +0530",
+    "timestamp": 1780753017.0,
+    "isoDate": "2026-06-06T13:36:57+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg"
+  },
+  {
     "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
     "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
     "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data mar…",
@@ -317,16 +328,5 @@
     "timestamp": 1780487880.0,
     "isoDate": "2026-06-03T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuT21gubKVL2cAsQrEiju_yAE3Pxe1IPxsl9RlGfhMEeis2IuQglnZjwTme6xM1_IJNymXFY1kZsouMGecR2lQnzvMDXyjnY1Y7CT1Dz_xf0pRVkwJEJG9o1EfOlPMfgfZ0MO6eyKGKJDwRHrEsw2-Cai9QO3pfrryeSENy5kH4C_pdjDgsXVOO80TPy8/s1600/orchid.jpg"
-  },
-  {
-    "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
-    "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
-    "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch:…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 03 Jun 2026 15:48:52 +0530",
-    "timestamp": 1780481932.0,
-    "isoDate": "2026-06-03T10:18:52+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Y4FY1kH_mrU4oH2X7TPrnmPdf9Ib4UZ4Xgud4Qgjie69on9qP9D1OU8i3ol3THTISUTy8OBJzPXzbUTyHwx1xF8cWuYvb9r-_7r_g-gFXyW62phdyaEAd41PI5cfduXxd084XQdwhxQ40Ti5n7SvkhIbZRktqP8G9bhufjlrxzxHYWpFTAXAfSSWstwc/s1600/NTLM.jpg"
   }
 ]
