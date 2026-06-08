@@ -1,5 +1,27 @@
 [
   {
+    "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+    "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
+    "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between January and May 2026.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 08 Jun 2026 13:09:28 +0530",
+    "timestamp": 1780904368.0,
+    "isoDate": "2026-06-08T07:39:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUzV1qMNLxMhQ6z22gKy4A5VPPrLn4b1nlfLaMyR6dBM6ostnGD8O3jiaPdM_diQNx24uX-TbI6iiX0Yw4m7msT6_3_UFz_g-g1fQGh3J55fzWzRyKTel4uIp05eBMvxwaQWvNv-VM0_p9jkclDuIyq0Ztu8r4gHIKN1xNSoGYV8Lj31kb_mCcZcBeXrB/s1600/vishing.jpg"
+  },
+  {
+    "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
+    "summary": "Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in an attempt to tackle software supply ch…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 08 Jun 2026 11:38:44 +0530",
+    "timestamp": 1780898924.0,
+    "isoDate": "2026-06-08T06:08:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPMxcu3ZcBpbZRC5rw9BlnoZMoXgrA-dRRquG6F6PSZZUc0JNzGHbl6c50yqTxs60QyQ5ut5ZC2qP9Csk_mR1Aqi48DO0wwDbUZ6zei45FNO2UgXaU0pOf8gWk8iAT81Ee1XJGrYyFgjYJqCeGTlnYeq-U8Nh4i5cxskA5n3eWyaQqMQPmyMAAR30bDKf2/s1600/ms-delay.jpg"
+  },
+  {
     "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
     "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
     "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people and organizations that ha…",
@@ -306,27 +328,5 @@
     "timestamp": 1780498606.0,
     "isoDate": "2026-06-03T14:56:46+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg"
-  },
-  {
-    "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
-    "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
-    "summary": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps. Any other app on the same phone could ask for the signed-in user'…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 03 Jun 2026 20:26:35 +0530",
-    "timestamp": 1780498595.0,
-    "isoDate": "2026-06-03T14:56:35+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_pEYWDRVadGL0WYM3iSY6jqFgBez8snXgoyeyAzcXNmxiytv-FgiKoBJX3aPivuYhSJjXp4o_zO1dQSIPUfduaAlB-rvSti7pFhdDZSrAa-ennBdfdVpe1Xo0dMxKATB8te61pyJAf60x5CP6OJzjzmtpFIg_qHQqA7VP-rUnEpaT37Z0qBOmbZ52BfM/s1600/ms-android.jpg"
-  },
-  {
-    "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-    "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
-    "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 03 Jun 2026 17:28:00 +0530",
-    "timestamp": 1780487880.0,
-    "isoDate": "2026-06-03T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuT21gubKVL2cAsQrEiju_yAE3Pxe1IPxsl9RlGfhMEeis2IuQglnZjwTme6xM1_IJNymXFY1kZsouMGecR2lQnzvMDXyjnY1Y7CT1Dz_xf0pRVkwJEJG9o1EfOlPMfgfZ0MO6eyKGKJDwRHrEsw2-Cai9QO3pfrryeSENy5kH4C_pdjDgsXVOO80TPy8/s1600/orchid.jpg"
   }
 ]
