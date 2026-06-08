@@ -1,14 +1,47 @@
 [
   {
+    "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+    "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
+    "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunc…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 08 Jun 2026 22:38:44 +0530",
+    "timestamp": 1780938524.0,
+    "isoDate": "2026-06-08T17:08:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi00ODwGXyrxQobZ30bAt_HwwRgLni-5_Dc77J-cG8lFCYonl0IGGu3s-tgpNHst6AZOwL1guVsSL02yuQN_4C1SiEBU9jRyBh5rIgPTSRvNkCO0m29zZidWMKb4ymvRZYl6SCD-sXatYAnebdLgtVxiFFHAEJGO6RhlbuGT9iRJbuPuzprB9NthxiuLBXh/s1600/whatsapp.jpg"
+  },
+  {
+    "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
+    "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
+    "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-202…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 08 Jun 2026 19:47:39 +0530",
+    "timestamp": 1780928259.0,
+    "isoDate": "2026-06-08T14:17:39+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYhQjzMpxYhylqWwtRqt0p7upc-fSMohRLJs5lRSXUg51_lrzt63JYz0K9zo2V7Rl9yCOMpQk6YFBfTdE1CuSuFYGA3odGeHu3mIV-LY_JHWyIx7g32NPOx1tuSZ-ZIMasTT5S-43DoYHEpCTykl4E4TfyXw89HksiOppUEMp5ganCT27SF0xu7noBUQ5i/s1600/checkpoint.jpg"
+  },
+  {
     "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
     "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
     "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, ano…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Mon, 08 Jun 2026 18:30:00 +0530",
-    "timestamp": 1780923600.0,
-    "isoDate": "2026-06-08T13:00:00+00:00",
+    "timeAgo": "Mon, 08 Jun 2026 18:49:13 +0530",
+    "timestamp": 1780924753.0,
+    "isoDate": "2026-06-08T13:19:13+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWmg0GCTB3fe3Y57Wr_PMrbYUetN1SDu243ddq7AdKP-gwIbOdVDhXhuWtapmSuA6gDYWwk8ydavt33ZAoWzHmG4Imu4dqiiPaksZKDYK5AEX1XBPr2iz2JflFZoH4uy0_I35Gm6zpJo9wyGttsjdtDwLM_00VOg9qVka3vYjk62LAD3HGSbnE7ov9TMU/s1600/ai-threats.jpg"
+  },
+  {
+    "title": "⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
+    "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
+    "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked. A chatbot got fooled. A bot token got leaked inside…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 08 Jun 2026 18:48:57 +0530",
+    "timestamp": 1780924737.0,
+    "isoDate": "2026-06-08T13:18:57+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwpRME_50jfgFZwHR0bIcYNE3-253LUHG3foA4Xd2IPQ0LCvXI4-_cLxJ-m8erh3Zof0ZY0pMOculHNwlSGAiUnwaL2H2DoXC9aKTehIh_R4vI66aZTzo00jj-hWlZ1lXtuDbDBWROGfTI4tH8G8Mb8cOlqBJLtG2l6bQS62hZlKlEt5qcLaEwsO_RhO4k/s1600/cybersecurity-recap.jpg"
   },
   {
     "title": "The Hardest Fork",
@@ -295,38 +328,5 @@
     "timestamp": 1780553185.0,
     "isoDate": "2026-06-04T06:06:25+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTf5wAHnoXtVauiln2MwlVvLc4LxcL8SBTLuW648LfFhUd8QyuOUfjmg0Hd91QlksmWF2u-PQhxHDTDmseMIG64V4Fo2I2lXXGO1o0BncbL_UTeBrGztErg66yXAm0trYlWxqGbE-sKb5VjXjqeyNiCMkxbdcxwX1BDRGexhP-b0s3dZl0lNRpY9u6nsTQ/s1600/police-crypto.jpg"
-  },
-  {
-    "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
-    "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
-    "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a message from their boss, push the…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 00:41:15 +0530",
-    "timestamp": 1780513875.0,
-    "isoDate": "2026-06-03T19:11:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCJpW9I-QTgQOkP7AV3rwUtEOEs96ek2ySR06Go-xq5AThZV84qY3mDN1Dkh0oQ-94jZHc7zB21ax9ljU0dW2LtsSW5p7xuuX9ARsvoIZQTGaMSkESGxTjl-PgTy8hrnsI8ucVZpENLEuMa9QzoUYVmfp4aug4OnEZq3XeL3ZELNZVELSegpS398l8vKg/s1600/gemini-prompt.jpg"
-  },
-  {
-    "title": "Microsoft Fixes One-Click GitHub Dev Attack That Let Attackers Steal OAuth Tokens",
-    "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-    "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 03 Jun 2026 23:28:00 +0530",
-    "timestamp": 1780509480.0,
-    "isoDate": "2026-06-03T17:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHvqmNHvAhdxgoBLbfFWsFBMdvH5SbJovunxx8AYHRkq7HOQ2l6I_ZaJGi_PF5WHKOlHEQHK4HyPBhmzOpYNhPS4HJSna2uLVlEwUV9i2j5YuRqGOLUqgKIrhx2ndFm1OSME7usiLk_ohtIBYyR5Xpq5Pzc2eHAjCK0OA_89JwPNxVrrBVDbTDRVbRG6e/s1600/github.jpg"
-  },
-  {
-    "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-    "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-    "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 03 Jun 2026 22:10:00 +0530",
-    "timestamp": 1780504800.0,
-    "isoDate": "2026-06-03T16:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTV6zPqD9KC3Rc5Mz9c8XENLiJntboDT6LIoD3L2FXlTUVC3rsWZ_3YLfe_jmhhyphenhyphenjb5RCwkTsdoyypD9VXxYgj_2GYaAupNMlOyZkycm94qr7XiarmBCpYQdZDN_Gwq6KrOmomzx1dmbz4hpUkw4OZparqEbydJneNKaWQI0fcP5tctpKxsZ7kFP5FCv0/s1600/redis-db.png"
   }
 ]

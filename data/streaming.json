@@ -1,5 +1,16 @@
 [
   {
+    "title": "Turning Cloudflare’s threat indicators into real-time WAF rules",
+    "link": "https://blog.cloudflare.com/realtime-threat-intel-waf-rules/",
+    "summary": "Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted industr…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 08 Jun 2026 13:00:00 GMT",
+    "timestamp": 1780923600.0,
+    "isoDate": "2026-06-08T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1YQOp7XzNrFIHE1HSNhz6b/06d1565243b2902df5a5b294e3e80709/BLOG-3272_image3.png"
+  },
+  {
     "title": "Your AI bill is out of control. Cloudflare can fix it now.",
     "link": "https://blog.cloudflare.com/ai-gateway-spend-limits/",
     "summary": "AI Gateway now features real-time spend limits to prevent runaway token bills across multiple AI providers. By integrating with Cloudflare Access, companies can use identity-driven budgets and policies.",
@@ -349,17 +360,6 @@
     "timeAgo": "Thu, 30 Apr 2026 12:28:00 +0000",
     "timestamp": 1777552080.0,
     "isoDate": "2026-04-30T12:28:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
-    "link": "https://blog.cloudflare.com/q1-2026-internet-disruption-summary/",
-    "summary": "The first quarter of 2026 saw a surge in Internet disruptions, from nationwide shutdowns in Uganda and Iran to unprecedented drone strikes on cloud infrastructure. We explore the data behind these events using Cloudflare Radar.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 28 Apr 2026 13:00:00 GMT",
-    "timestamp": 1777381200.0,
-    "isoDate": "2026-04-28T13:00:00+00:00",
     "imageUrl": ""
   },
   {
