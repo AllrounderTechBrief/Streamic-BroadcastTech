@@ -1,5 +1,16 @@
 [
   {
+    "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+    "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+    "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables p…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 01:47:39 +0530",
+    "timestamp": 1780949859.0,
+    "isoDate": "2026-06-08T20:17:39+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA8UsvPZqRGiHkumM_jxIGyax3NmK9lBR-XAaVK3Stujz8_bExONh9gAroIEXnLQo9KaXb2MpyZsqb2kcfaUxNJJtFhiSpCZjHDzOtgt-sZczb2rx2eRi-rqMiqFtfs0lq6iqJd74J3aoFRN-azg51ZhnQq84Ve1y_-AMXudSuiePM0mi1UHwTh0MHtIE/s1600/linux.jpg"
+  },
+  {
     "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
     "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
     "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunc…",
@@ -317,16 +328,5 @@
     "timestamp": 1780565637.0,
     "isoDate": "2026-06-04T09:33:57+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpg8pBdHkENT_CKClsSR7f4Rb7BQpM27ynGrkRdJg-bbUfI2NIHQ_rFmkOVHjK8RggTD-XMvVdGGI_qrYyIx-Ml1sfwbRkbjaNo8Fz40cWg8wFWK8h5-f-FaB58HryMM5AYlUHI2uO7x12VFvAB6N3w1gobWmzGgp8xXqHfWMERFh7hVS9lBHxfdu71Xs/s1600/stock-emails.jpg"
-  },
-  {
-    "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
-    "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
-    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans. The \"Disrup…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 11:36:25 +0530",
-    "timestamp": 1780553185.0,
-    "isoDate": "2026-06-04T06:06:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTf5wAHnoXtVauiln2MwlVvLc4LxcL8SBTLuW648LfFhUd8QyuOUfjmg0Hd91QlksmWF2u-PQhxHDTDmseMIG64V4Fo2I2lXXGO1o0BncbL_UTeBrGztErg66yXAm0trYlWxqGbE-sKb5VjXjqeyNiCMkxbdcxwX1BDRGexhP-b0s3dZl0lNRpY9u6nsTQ/s1600/police-crypto.jpg"
   }
 ]
