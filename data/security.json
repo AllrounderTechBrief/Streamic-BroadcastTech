@@ -1,5 +1,71 @@
 [
   {
+    "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+    "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+    "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The activity has been attributed by Trend Micr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 17:56:10 +0530",
+    "timestamp": 1781007970.0,
+    "isoDate": "2026-06-09T12:26:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdAzGyUad4rioCXpoCvPwiGqto_MgCesTBLTn-1uBtWpWAXB99KN0xiE1oIqwDbVi_vkFDnn05XOxwH3WYjLkPNDykxieuftfe-wLFibGL1o8iiUuGfhiG5yYS7KXBV3gvdIYk5PFCurpn0-L77hajka35iE_a-JxWCaYeKc2Yej1gQrkcrQ61ijTm4HS/s1600/winrar-exploit.jpg"
+  },
+  {
+    "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
+    "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
+    "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 17:29:03 +0530",
+    "timestamp": 1781006343.0,
+    "isoDate": "2026-06-09T11:59:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2H1xd7_K6KgUGsDu0E9YGBOLVgXF4DX0rDhf_pUhDRujatedeTJFwy0e_JxsMGGpQB80HOn4wTXRSxCB2DrxNo0nHYVUJC2ehyphenhyphenum_Cyjg-5bVXOIuGahdDFIIa9NBleTGfYDXQuqf005BOME3HAXVxVQw1OXNJNZwpZ4Tgke2qUK2TITR0qFMgaAH8Mf9/s1600/worm.gif"
+  },
+  {
+    "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+    "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+    "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an ou…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 17:28:49 +0530",
+    "timestamp": 1781006329.0,
+    "isoDate": "2026-06-09T11:58:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg"
+  },
+  {
+    "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
+    "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
+    "summary": "Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce manual effort. But the same challenges …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 17:00:00 +0530",
+    "timestamp": 1781004600.0,
+    "isoDate": "2026-06-09T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJqeGTf-8XwdqkhtSdYoCT3HhGAP5pxBuBeA1ngKoX7BfGUcJMwqGhtf8Eh5TVXaN8-p-Ggk8Uiz4DhtmfT8GkKggOPmqRoh5j6XEumgw9aT7kwo4YcNAi_JrqIhSJU-_7gsyBXfwxAi7YfOS1_6CuDSen29PlEk5O4yA80Ob8_WNh81sExm8vgWSVnsY/s1600/tines.jpg"
+  },
+  {
+    "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
+    "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
+    "summary": "A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt. You open the pa…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 15:20:41 +0530",
+    "timestamp": 1780998641.0,
+    "isoDate": "2026-06-09T09:50:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSiGrvsR8kJp_r8gce1LkFY4oJRt8-0dafO2RdcOzCwQqWy6XrnkRXpGX94NwPbvEupsU7ZhXAUEtKg5Xdl4y_o_IYsi4XLHIo9JSMNcto6JGG76vhkWSOvYa0So2tkUyQovyFwtB8Anpq6SLILSwzd0iXO_fzq4KIwpdG6F1yFIuhJpnXf1lgGIupiSRv/s1600/frost.jpg"
+  },
+  {
+    "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+    "link": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+    "summary": "The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 14:43:32 +0530",
+    "timestamp": 1780996412.0,
+    "isoDate": "2026-06-09T09:13:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimsh1r7uS0J7o39IjoPTuHOzh-EiqtvAat_29YiejSgsn0oTvwmlklYrtu0VqUU05z-THGSE__CFshF8lpSdkRbx-b7Ez0uvlBnWcNQntBPcjv08iKy_hqq5W6NrLSUFek3FfLN5Z6ookVi6zqFE_uQhF56Nu_uyorkUuHOlYxm-cpfFsDwMUhWNRB9Mxi/s1600/python-worm.png"
+  },
+  {
     "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
     "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability,…",
@@ -262,71 +328,5 @@
     "timestamp": 1780592151.0,
     "isoDate": "2026-06-04T16:55:51+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6_xkmI_c8KreZ4cr2oC9gHJERU9xWsLGDrCNCaB11IQVGmJ-r0MYUjqGllvOFc0IVwGYBqnzLJl96WBTSVXUr5Z8KRym9SsnoUlNN6oEditbTFqW3kTfOhujPEPN-KIzGJmxaJGh9mCvY1TadCVfJJfIBoTjbXn2TCcbQE8NHsKhe8ld53YHYsG5MTYg/s1600/cisco-flaw.jpg"
-  },
-  {
-    "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
-    "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
-    "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo u…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 20:45:26 +0530",
-    "timestamp": 1780586126.0,
-    "isoDate": "2026-06-04T15:15:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiaBF9jAklPh1ncr_eVPGnV229BSTNgAjkScVm-yTXAn4IcBjjZoLIglasRdu1XEPafCxJhqVZrC3zkNWilyAhN-6Ox8z2HBRjNg2D4aqJsDiRDg02BgAy4zgwU2100ZLIO8yTOtarI0Vxa3AGUQk0GZq1_zKSFQOhNiNoyVsP2AldJZoW8ZJ1rY936ZI/s1600/claude-code-hack.jpg"
-  },
-  {
-    "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
-    "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
-    "summary": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model was made available to a limited set of or…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 20:40:00 +0530",
-    "timestamp": 1780585800.0,
-    "isoDate": "2026-06-04T15:10:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i36LXqSESJrnuYOf6ULo2Hijp9l8i9UTGbRzCLuWImPpfPJ6cKQgBFGhS8yx3_qn8IoM0MgY0pmL4mZfzegatvhQWDKV5OQ3MfOWvPzYIokXaFDUvBM3EYsMOqtQoxx0AmeiakeocpBIlaNeCiBkPcnK1OW8abfIz0_8zuybqKQvWuriVC97Ir259Sw/s1600/agentic-ai.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
-    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html",
-    "summary": "It got stupid again. The internet still feels held together with tape. Bad plugins, old bugs, fake tools, trusted apps doing shady things. Same mess, new wrapper. And now the weird stuff is normal. Forums go down and come back worse. Cheap …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 19:30:49 +0530",
-    "timestamp": 1780581649.0,
-    "isoDate": "2026-06-04T14:00:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOsPH2SzhBWTxhXi2KCJw0YY29azn2hLkDQwQhyrjmwaRIXQfCAPNIjej3_TBd6VJm1JqWSs2EoI2jiWyVHENmhtd1alqSEqlJC8WxUk4b5zWUqszQ8akhGzRmCHf8OL7wMTZiWLYZDzHRXY8unPcsh2QMTfyTH0XeRszrwCunK2DazuZIF9oNKQUFxlqN/s1600/thh.jpg"
-  },
-  {
-    "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
-    "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
-    "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have been complemented by a \"rapid operational tempo\" and a c…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 17:52:25 +0530",
-    "timestamp": 1780575745.0,
-    "isoDate": "2026-06-04T12:22:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq_JkP80d1IA8rz-SoYEBmuGqK_K7OpGrqiki4vB1ShMW5mFBVSMvl8H5MnYylZMl3AWeqdAmp19oZIL_7amYErNxBGiUAJqrOqGO0zjHH2jxCKCNdiGH_nqjHlksD9dlu4QGCq9KzMRfnWAi7YnPQQ86pnCypNupFDn_h-hSJdfhWT0Y4s01w6Cw-s6Od/s1600/phishing-hook.jpg"
-  },
-  {
-    "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-    "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
-    "summary": "Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell. According to Palo Alto Networks Unit 42, the campaign is said to be the next stage…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 16:49:53 +0530",
-    "timestamp": 1780571993.0,
-    "isoDate": "2026-06-04T11:19:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwFQkJElJQpI5ODTBzh1EzrxsRYamFN0ntC9V6vF4b4FfEJ0svPhI_1TnKm960eIsewSFT-DR1RtNk3M511OQK6I-k3UQNNLut1f_fjM9wB4NHxdvJzJQ3VvhIGO9ja0hNIzRAOZLVMngS4R8hQxXfV-_DO71x0CU0YSnxpclCnV0DGX6TdNmr32ongewk/s1600/macos.jpg"
-  },
-  {
-    "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-    "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-    "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, Ani…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 15:21:28 +0530",
-    "timestamp": 1780566688.0,
-    "isoDate": "2026-06-04T09:51:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7j9PG_c741so0RmX7eIB48xO-ndyZSF0pIU5j2anTqxJNj8A3XVstoIjq3iMnuQxhgyhl3LKP5laenFIj7IT0V8SOJ0lK7-Ywdsr5yBioNKF60SegkvR3SkfaSkPqZxN3rak0J-sZbvjxGDozCupAP3wraZjk0XU6-ZA590Q42cPaHXrdg7PJFGk1Ss/s1600/site.jpg"
   }
 ]

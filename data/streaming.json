@@ -79,7 +79,7 @@
   {
     "title": "Live Encoder Standby Pools: How to Eliminate Queue Time and Go Live Instantly",
     "link": "https://bitmovin.com/blog/what-are-live-encoder-standby-pools/",
-    "summary": "Live streaming at scale has a provisioning problem the industry has quietly normalized. As Netflix described in a 2025 engineering post, even at their scale the challenge is real enough to architect around. They built a full custom orchestr…",
+    "summary": "Cloud encoder provisioning is live streaming's most quietly worked-around problem. When a broadcast triggers, the cloud allocates a machine, deploys software, and only then is the encoder ready, an unpredictable delay that breaks news teams…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Fri, 29 May 2026 16:00:00 +0000",
