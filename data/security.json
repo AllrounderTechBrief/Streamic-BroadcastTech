@@ -1,5 +1,16 @@
 [
   {
+    "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 11:56:14 +0530",
+    "timestamp": 1780986374.0,
+    "isoDate": "2026-06-09T06:26:14+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGMn_z7P9hbHMRzYk9OL9_kLaqTo4GucKa1of13sGhpNvKkSBDrhZSrcG53FJsPKJguHNThZK130Ku7Fjz6i1eFXP4Hx__9KoHxiv0gBT1LAomQr0exe44OnZkJjyIhv2X5hIA-rZAiu1AFLSUXAJSjb6DhF3DqQGx-XBkup8rwwonKFLCeWbNHrS3r2rm/s1600/lite.png"
+  },
+  {
     "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
     "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
     "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables p…",
@@ -317,16 +328,5 @@
     "timestamp": 1780566688.0,
     "isoDate": "2026-06-04T09:51:28+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7j9PG_c741so0RmX7eIB48xO-ndyZSF0pIU5j2anTqxJNj8A3XVstoIjq3iMnuQxhgyhl3LKP5laenFIj7IT0V8SOJ0lK7-Ywdsr5yBioNKF60SegkvR3SkfaSkPqZxN3rak0J-sZbvjxGDozCupAP3wraZjk0XU6-ZA590Q42cPaHXrdg7PJFGk1Ss/s1600/site.jpg"
-  },
-  {
-    "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
-    "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
-    "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blen…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 15:03:57 +0530",
-    "timestamp": 1780565637.0,
-    "isoDate": "2026-06-04T09:33:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpg8pBdHkENT_CKClsSR7f4Rb7BQpM27ynGrkRdJg-bbUfI2NIHQ_rFmkOVHjK8RggTD-XMvVdGGI_qrYyIx-Ml1sfwbRkbjaNo8Fz40cWg8wFWK8h5-f-FaB58HryMM5AYlUHI2uO7x12VFvAB6N3w1gobWmzGgp8xXqHfWMERFh7hVS9lBHxfdu71Xs/s1600/stock-emails.jpg"
   }
 ]
