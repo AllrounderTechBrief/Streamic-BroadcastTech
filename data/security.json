@@ -1,5 +1,38 @@
 [
   {
+    "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
+    "link": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
+    "summary": "Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads. \"Businesses often share infor…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 22:33:58 +0530",
+    "timestamp": 1781024638.0,
+    "isoDate": "2026-06-09T17:03:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQhSgYELKe_2HC7BB5NcjkNvIdsBgzfzSoH7tF0EmyFq9_vXEMFYWH9cczwGUWAxITkKt0TCwTLTyeIz82mfdCBmT1Hez5SO6z5zNEmx-laLfzVEy323arr0yCMHhTWv7igdUMtmriAIGIcIcjhaXfId5iCpwUSQxEaFMP0DqA5Oov8KyEFqoWWKgh21d/s1600/facebook.jpg"
+  },
+  {
+    "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
+    "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
+    "summary": "Veeam has released security patches to address a critical flaw in its Backup & Replication software that could result in remote code execution. Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 22:09:47 +0530",
+    "timestamp": 1781023187.0,
+    "isoDate": "2026-06-09T16:39:47+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIM_y_SajgbuzxJeP8uc2J0ZdX_6Izzhyphenhypheny9PANPhj_Ci0ylC6gnMhvvgeCzMT_AGAQDcAaKpyj_auV5wD8iTtvcfKocAwD61XRdHarhEVyMi9qlmE4aN1wgPOBFP8dH2SWiQh2OPuXY1kAajjypM-Jr1UUpJ_e6L9NInsVJ1qK4nlUFV0zJlR6kn9clw4/s1600/veeam.jpg"
+  },
+  {
+    "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
+    "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
+    "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code. \"Our p…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 09 Jun 2026 22:04:52 +0530",
+    "timestamp": 1781022892.0,
+    "isoDate": "2026-06-09T16:34:52+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-7rxJRihxTgaEj0a_mk4hVtMdwpHB8Gfd5ZgctcXcjOdEnSEJr9Qao5B5kpk2QBpumULMvNi1ZPptGJnA3NhAres2k9CGwhCQTfMciEcl2otHHvKxU9j9AkTyAgANeYS_CCY9WOip8lBCi6cq8JgPr_oqnuw-lpp53u881dYUrH8KzU8xLNPK6Lube-x/s1600/ms-worm.jpg"
+  },
+  {
     "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
     "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
     "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The activity has been attributed by Trend Micr…",
@@ -295,38 +328,5 @@
     "timestamp": 1780648739.0,
     "isoDate": "2026-06-05T08:38:59+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKOwHRwFSrcOI7vBYVGbebtc3DwR3w7SYc9l7FUXp1yXc_N2MbNNlEXtfRjVneU4wz2YB8PqC_k54o_6ZpB2oKZKhVBlK7IC-CGU05B5GgE7qS26MBxKIWLZTC2rNhVf2vufJcwh7RK4zuH-twWCcd_eZtNm25Pmn-pQyOXcB7N_C9918yOP7C1K4KrNz/s1600/wordpress.jpg"
-  },
-  {
-    "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
-    "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
-    "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands of lookalike FIFA domains, banking malware hidden insid…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 05 Jun 2026 12:31:41 +0530",
-    "timestamp": 1780642901.0,
-    "isoDate": "2026-06-05T07:01:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMkj_adwzUUFP7yWyIFVKIKKQGDjqfvPuxKoR4mrrJ_SX3EACoJ3toLV3ZkYmePeA-nKWWfVC-90aOa5yjepuVYNy2lc820-onK23EJN4JU9G9e6QR471FTzPvByhyI7-bkGntT7hLxGXyTqSi7TpLMGqhfiKTQz01jN461HvEGxYY075LsqsB_tqEprcN/s1600/fifa-2026-scams.jpg"
-  },
-  {
-    "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
-    "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
-    "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network. \"Compromised business servers across the U.S., Europe, an…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 05 Jun 2026 11:04:19 +0530",
-    "timestamp": 1780637659.0,
-    "isoDate": "2026-06-05T05:34:19+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibu0mX9Tusu3siXFJzPskfA1ZYZ2OdRJTegsJFkffBc9cBBPGWguTUAI3PPAaFy-WIjziA9PIrMrZNVuFVNmbFhOSPLv6mMBPvjWnR-WQGBD2fvGFTJT358yWFFTxeFSS87aQ_fj30G2VdsGlBjy2KJiby4CS-k3X9FjjpyTGxljOo373cUaZKhdBvWZ_a/s1600/cloud-emails.jpg"
-  },
-  {
-    "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
-    "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
-    "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is alre…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 04 Jun 2026 22:25:51 +0530",
-    "timestamp": 1780592151.0,
-    "isoDate": "2026-06-04T16:55:51+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6_xkmI_c8KreZ4cr2oC9gHJERU9xWsLGDrCNCaB11IQVGmJ-r0MYUjqGllvOFc0IVwGYBqnzLJl96WBTSVXUr5Z8KRym9SsnoUlNN6oEditbTFqW3kTfOhujPEPN-KIzGJmxaJGh9mCvY1TadCVfJJfIBoTjbXn2TCcbQE8NHsKhe8ld53YHYsG5MTYg/s1600/cisco-flaw.jpg"
   }
 ]
