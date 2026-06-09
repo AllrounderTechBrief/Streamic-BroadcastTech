@@ -1,5 +1,16 @@
 [
   {
+    "title": "San Francisco’s Metropolitan Mosaic",
+    "link": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
+    "summary": "Urban development, green spaces, and maritime activity converge in this Northern California city.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 09 Jun 2026 04:00:00 +0000",
+    "timestamp": 1780977600.0,
+    "isoDate": "2026-06-09T04:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/san-francisco’s-metropolitan-mosaic/ISS074-E-619284.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Dow Drops 81, Nasdaq Gains 220, S&P 500 Adds 22",
     "link": "https://tvnewscheck.com/business/article/dow-drops-81-nasdaq-gains-220-sp-500-adds-22/",
     "summary": "Wall Street held steadier Monday as AI stocks recovered some of their sell-off. The post Dow Drops 81, Nasdaq Gains 220, S&P 500 Adds 22 appeared first on TV News Check.",
@@ -427,17 +438,6 @@
     "timestamp": 1780674447.0,
     "isoDate": "2026-06-05T15:47:27+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/s66-38515orig.jpg?w=2048"
-  },
-  {
-    "title": "Fighting Fire With Fire",
-    "link": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
-    "summary": "In fire-prone ecosystems in Australia’s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 05 Jun 2026 04:01:00 +0000",
-    "timestamp": 1780632060.0,
-    "isoDate": "2026-06-05T04:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-fire-with-fire/australiafires_amo_20260528.jpg?w=2160&h=1700&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "AI in broadcast: Less magic, more plumbing",
