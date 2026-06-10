@@ -1,5 +1,38 @@
 [
   {
+    "title": "Tyndall’s Trail of Bergs",
+    "link": "https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/",
+    "summary": "Ice splintered off the southern Patagonia glacier and drifted across a growing glacial lake.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 10 Jun 2026 04:01:00 +0000",
+    "timestamp": 1781064060.0,
+    "isoDate": "2026-06-10T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tyndall’s-trail-of-bergs/ISS074-E-582898.jpg?w=2160&h=1440&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Flight Dynamics Research Facility Characteristics",
+    "link": "https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/",
+    "summary": "HomeCharacteristics The Flight Dynamics Research Facility (FDRF) is a large, subsonic wind tunnel with a vertical test section for conducting flight dynamics research for stability, controllability, free-fall and aircraft spin, and spin rec…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 09 Jun 2026 20:47:02 +0000",
+    "timestamp": 1781038022.0,
+    "isoDate": "2026-06-09T20:47:02+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/clic-x047-2cf8-9.jpg?w=1024"
+  },
+  {
+    "title": "Artemis III Crew Announced",
+    "link": "https://www.nasa.gov/image-article/artemis-iii-crew-announced/",
+    "summary": "NASA astronaut Andre Douglas, ESA (European Space Agency) astronaut Luca Parmitano, and NASA astronauts Randy Bresnik and Frank Rubio take a photo together on June 9, 2026. The four were announced as the Artemis III crew. NASA’s Artemis III…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 09 Jun 2026 19:32:29 +0000",
+    "timestamp": 1781033549.0,
+    "isoDate": "2026-06-09T19:32:29+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e392659.jpg?w=2048"
+  },
+  {
     "title": "Paramount CEO Promises Editorial Independence for ‘60 Minutes,’ Lesley Stahl Says",
     "link": "https://tvnewscheck.com/journalism/article/paramount-ceo-promises-editorial-independence-for-60-minutes-lesley-stahl-says/",
     "summary": "David Ellison told Stahl, one of three remaining correspondents for the news program, that he would respect the show’s editorial decisions after a tumultuous stretch. The post Paramount CEO Promises Editorial Independence for ‘60 Minutes,’ …",
@@ -152,6 +185,50 @@
     "timestamp": 1781023632.0,
     "isoDate": "2026-06-09T16:47:12+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación",
+    "link": "https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/",
+    "summary": "Read this release in English here. La NASA dio el martes otro paso hacia una de las misiones tripuladas más complejas de la historia reciente al ofrecer nuevos detalles sobre Artemis III y anunciar a los cuatro miembros principales de la tr…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 09 Jun 2026 16:19:35 +0000",
+    "timestamp": 1781021975.0,
+    "isoDate": "2026-06-09T16:19:35+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e391567.jpg?w=1024"
+  },
+  {
+    "title": "NASA Marches Toward Artemis III Mission in 2027, Names Crew Members",
+    "link": "https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/",
+    "summary": "Taking another step toward one of the most complex human spaceflight missions in recent history, NASA on Tuesday provided new Artemis III details and announced the four prime crew members and a backup for the test flight. The mission will u…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 09 Jun 2026 16:12:02 +0000",
+    "timestamp": 1781021522.0,
+    "isoDate": "2026-06-09T16:12:02+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/artemis-iii-crew.jpg?w=2048"
+  },
+  {
+    "title": "June 2026 Satellite Puzzler",
+    "link": "https://science.nasa.gov/earth/earth-observatory/june-2026-satellite-puzzler/",
+    "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 09 Jun 2026 15:51:12 +0000",
+    "timestamp": 1781020272.0,
+    "isoDate": "2026-06-09T15:51:12+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/june-2026-satellite-puzzler/junepuzzler.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA Knows: What Is Mass Distribution?",
+    "link": "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/",
+    "summary": "This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation. It’s used to map stars in our universe, figure out what planets are made of, and even to determine ho…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 09 Jun 2026 14:26:32 +0000",
+    "timestamp": 1781015192.0,
+    "isoDate": "2026-06-09T14:26:32+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/distribution-of-mass-banner.png"
   },
   {
     "title": "KCCI Des Moines Receives 2026 Torch Award For Ethics",
@@ -328,6 +405,39 @@
     "timestamp": 1780999827.0,
     "isoDate": "2026-06-09T10:10:27+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "San Francisco’s Metropolitan Mosaic",
+    "link": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
+    "summary": "Urban development, green spaces, and maritime activity converge in this Northern California city.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 09 Jun 2026 04:00:00 +0000",
+    "timestamp": 1780977600.0,
+    "isoDate": "2026-06-09T04:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/san-francisco’s-metropolitan-mosaic/ISS074-E-619284.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup",
+    "link": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
+    "summary": "As the FIFA World Cup approaches, NASA is bringing space science and engineering to soccer fans worldwide. From June 11 to July 19, 2026, NASA will host an exhibit at FIFA Fan Festival™ Houston where visitors can learn how research aboard t…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 08 Jun 2026 19:36:08 +0000",
+    "timestamp": 1780947368.0,
+    "isoDate": "2026-06-08T19:36:08+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0361795.jpg"
+  },
+  {
+    "title": "Supersonic!",
+    "link": "https://www.nasa.gov/image-article/supersonic/",
+    "summary": "On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and l…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 08 Jun 2026 15:28:10 +0000",
+    "timestamp": 1780932490.0,
+    "isoDate": "2026-06-08T15:28:10+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-ata-02.png?w=2048"
   },
   {
     "title": "AI in broadcast: Less magic, more plumbing",
