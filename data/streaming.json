@@ -8,7 +8,18 @@
     "timeAgo": "Wed, 10 Jun 2026 13:00:00 GMT",
     "timestamp": 1781096400.0,
     "isoDate": "2026-06-10T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3dPNpYW2ByViLaO237MJf/388322626e5e583f8b73f6271f73f316/1-connectivity-models_2x__3_.png"
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3dPNpYW2ByViLaO237MJf/c535f739bb0949b908d529bf62e9ad54/1-connectivity-models_2x__4_.png"
+  },
+  {
+    "title": "FIFA World Cup 2026 Streaming: 104 Matches, 39 Days, One Test It Can’t Fail",
+    "link": "https://bitmovin.com/blog/fifa-world-cup-2026-streaming-infrastructure/",
+    "summary": "When a goal goes in during a World Cup knockout match, tens of millions of people react in the same instant. In 2026, that moment happens across 104 matches, in three countries, for a projected 6 billion engagements worldwide, building on a…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Tue, 09 Jun 2026 14:00:00 +0000",
+    "timestamp": 1781013600.0,
+    "isoDate": "2026-06-09T14:00:00+00:00",
+    "imageUrl": ""
   },
   {
     "title": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
@@ -438,17 +449,6 @@
     "timestamp": 1776177671.0,
     "isoDate": "2026-04-14T14:41:11+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/02/Figure-1-High-level-architecture_NDI.png"
-  },
-  {
-    "title": "Hackathon spotlight: what happens when smart chunking meets per-shot encoding",
-    "link": "https://bitmovin.com/blog/smart-chunking-per-shot-encoding/",
-    "summary": "As distributed encoding workflows scale, development teams must increasingly reason about quality and efficiency within system-defined segmentation models. Parallel processing strategies make large-scale VOD encoding predictable and perform…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Mon, 13 Apr 2026 14:50:51 +0000",
-    "timestamp": 1776091851.0,
-    "isoDate": "2026-04-13T14:50:51+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/04/image-4.png"
   },
   {
     "title": "Unlocking next generation audio production with MPEG-H on AWS",

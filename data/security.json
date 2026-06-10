@@ -1,5 +1,49 @@
 [
   {
+    "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+    "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+    "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devic…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 10 Jun 2026 21:38:42 +0530",
+    "timestamp": 1781107722.0,
+    "isoDate": "2026-06-10T16:08:42+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQC0_BYMuNpY7re4OHHsytEfC6fW3KsonxN6e2X0Dj03fJoMazI6EZnvPj_hOUZ99yJLq6RrH3ZSCsfDWOB6AgDJVk_1LY5TzgSpP7QFKcI_grjRI7Pm9QGputoI0LM4LH8ZCOAVb_PnzXAs_bMP6n_3u__fPEmxEKVUv5ZZjG5vOJT_fmhvAy551gjCmi/s1600/bot.png"
+  },
+  {
+    "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+    "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
+    "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security flaw patched by Fortinet relates to a comm…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 10 Jun 2026 20:40:59 +0530",
+    "timestamp": 1781104259.0,
+    "isoDate": "2026-06-10T15:10:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs2l0GUUy91D4hHU067eYWpRzvSJGcfOkHce2jcVXZGWI9sld0hgaomhoKTc3dYEXEbz05oZQ5mFzo34eXp-wNJ2j_ofUjXjR7ZR5obszwH7bCRRmah9Q9HY3RSDrwrAf8QD162ca7nvxTRELWzcVW8AbbVMpXJfHXtaYEiSxXAw49VpCG8ep33SbGeLSF/s1600/ivanti.jpg"
+  },
+  {
+    "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
+    "summary": "A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck. The vulnerabilit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 10 Jun 2026 20:30:59 +0530",
+    "timestamp": 1781103659.0,
+    "isoDate": "2026-06-10T15:00:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidDfz-Q5s2ON-nc6gW-4Lgw1yMocr3YiLP82vXcoWHcs6-_ICHWHZsciCnM2aU4kBZ2yyCJ622deCwKAXZdOFVyIoG41JC7SHyXIG6soj-RrFySsKHp2N51PpbGb7LxJWXvqOXE6GTap75h_QIjH78l0Ys__M_4EtgxMgymWgCS1vfdmWmwgpkW1TIq61I/s1600/lang.png"
+  },
+  {
+    "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+    "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The list of vulnerabilities is as fo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 10 Jun 2026 20:14:29 +0530",
+    "timestamp": 1781102669.0,
+    "isoDate": "2026-06-10T14:44:29+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyS_5xYGR8v-Lv2x6gLklggySrwxfhnOTIwaLNXWT0xCUHcG8742JNest-ScZPBIUEqChp4KxYPdOnrWOJUJ-Dcv1VYYBOGY6eMYgwOw5tIxBxD2RPbFM-xR05SpacfiwmIKeL6jAFpw8PScLXjV_gR9ZNRqQ8HmsOBAbom73N_i3JRkAsf-dZVoBpGVlI/s1600/cisaa.jpg"
+  },
+  {
     "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
     "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
     "summary": "Your pentest report looks clean. That might be the problem. Run automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks stable. Leadership reads \"stable\" as \"…",
@@ -284,49 +328,5 @@
     "timestamp": 1780753017.0,
     "isoDate": "2026-06-06T13:36:57+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg"
-  },
-  {
-    "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
-    "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
-    "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data mar…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 06 Jun 2026 13:59:05 +0530",
-    "timestamp": 1780734545.0,
-    "isoDate": "2026-06-06T08:29:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKr3KoscB_oGLqU5_JV16DIaB7jXY1ko8PiJDTuwrxbHcZV2DYJpfkx8lqwNbscwTSTVQUMwd8vBf-nI13mQE7vzzmUzwKF3BF6q7s5Lnq7kG7CovDsKaHYlvKpEXo2cvNk4mA27BdJSI6buZLqtVCKhYQ31GOaozmEHQecUa9Zdt-jwFJIZ0OCvlF27_p/s1600/smart-tv.jpg"
-  },
-  {
-    "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
-    "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence o…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 06 Jun 2026 13:44:31 +0530",
-    "timestamp": 1780733671.0,
-    "isoDate": "2026-06-06T08:14:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_ZbsHhh5kUS5501itVSeBa91H50qNfHH_PQ1_2WEDLi-B_eKslYeu1_43fNAW55Z9TVR5ae8ZIGDm4vZQS0B7IHvG9Gdp4Knzt8QB1E7317tyEVhJYR8xo1HJ_vf6Ynrdtfj_u-pcryZ5NVulL7vw_9KLaGomIjKe40GYClUu-FDtXXwuKAfK7V8mKN-/s1600/solarwinds-serv-u.jpg"
-  },
-  {
-    "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-    "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-    "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 06 Jun 2026 12:58:30 +0530",
-    "timestamp": 1780730910.0,
-    "isoDate": "2026-06-06T07:28:30+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyg1vRQART17ZjJXANnrQ8Vtn7h_tM5IihGJ4LnxbGTDFL1QSvR_lEDmVm7bsO84br04_oM-RM9ZgX-6b5yVQnEOTwKgk3KzImrhPBrI91GIYmQ-n09hq3vjF3tPVnNqVhHbV22BIxXg9zhGg4b2s4kATPjtnqGWldHRw29GexKQbEcX6HxG46vPfvo26l/s1600/chrome-update.jpg"
-  },
-  {
-    "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-    "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-    "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Az…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 06 Jun 2026 12:28:04 +0530",
-    "timestamp": 1780729084.0,
-    "isoDate": "2026-06-06T06:58:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG8k6LtHNQ3cHl_X1AZbXRn6LZCNZ6lMLjy-9HG7-_OQekMOhCQKkktrnMqVteXfmGHBMMlbTv3v9Rl6kKjXlNQBSHUVybmD_IBVvMDT7IsMGV49OMSfF5V8bMFVW4ZwFjlg_gddyYtiiQqmdpYIJjuKLTZz_rxooZZQQye7omBEOjyxMFFjAaiZuc6Non/s1600/azure-npm.jpg"
   }
 ]
