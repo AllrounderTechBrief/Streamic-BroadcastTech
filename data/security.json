@@ -1,5 +1,38 @@
 [
   {
+    "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
+    "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
+    "summary": "On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers. F…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 10 Jun 2026 13:07:59 +0530",
+    "timestamp": 1781077079.0,
+    "isoDate": "2026-06-10T07:37:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQYvpTDJ-P39EdhVGhwg0QbEd9xU2yd2194Va1QAQaegDG_yW45yTaKCGYCZ7fe-olcVpP-cLSczkES4VDO8IIPOGXXMdL8aOU0mFBOBwPX6b-HHBVDZYcCFLpwm2P11_Xaqc4csTJ2UWLAq2hpGY1TnZMBVNDt1D0P3gkflmAvv8ifdFZbMbcna3oFeo/s1600/claude-fable.jpg"
+  },
+  {
+    "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
+    "link": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
+    "summary": "ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances. \"On June 5, 2026, ServiceNow applied a security update to hosted customer instanc…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 10 Jun 2026 12:32:08 +0530",
+    "timestamp": 1781074928.0,
+    "isoDate": "2026-06-10T07:02:08+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdoQ33nXrsmYyHLAdeWHw4nf5zrUhZhVi755NnYVGzkyNPbpR60m4Rt6w8JiKdPuXgn1Md6_nu253LeMjXG7VyEZcBWMaE-ST8lN8P8QqtACeftxFrV3nyIoF8TEHzX6m2sqjiv6KFz4_4eZoddHKWQYVSQgagI4oW_NcdjcnYrWyNPBbq05O7hdE8zZoj/s1600/servicenow.jpg"
+  },
+  {
+    "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
+    "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
+    "summary": "The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet. \"The exploit is a race condition, so it…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 10 Jun 2026 10:52:01 +0530",
+    "timestamp": 1781068921.0,
+    "isoDate": "2026-06-10T05:22:01+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnTGKGBThpUUZgwRx8hcclb0nuPbrV9o3MSZhFoGEp_3DLGRzdJVpj8Xfrnk1cEPUu76_u8R5Lpt10tcaWPUlbHMwbY225I3jyiBx91pYb4dmdBFbDYVai8DS3UcXAk98dTqEuyW0r3D5c2OaHHaXJzRyCAwS32tpmB83cAJRwKxI4GIT2iGnrdBI_EV7/s1600/windows-exploit.jpg"
+  },
+  {
     "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
     "link": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
     "summary": "Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote code execution (RCE) and …",
@@ -295,38 +328,5 @@
     "timestamp": 1780682730.0,
     "isoDate": "2026-06-05T18:05:30+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFimSGBOnvlCj_r6fiLdzK6V8DLTIQYjROKxHgQH8QxyRVIL3NDpQe9lBISjqCSjcZNl6VPhHVFtdJ8gPe2FfNjR9kGND1GSZmgx9T_32_Aii5nf_fMLkmBxwkKrJKbmZpcAG8xyj868aHfZ9RePlwlPDfMbI4uDlOCknlGH62Ifdf-nak6qmy4u-9i7X3/s1600/npm-worm.jpg"
-  },
-  {
-    "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-    "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-    "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, w…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 05 Jun 2026 20:23:40 +0530",
-    "timestamp": 1780671220.0,
-    "isoDate": "2026-06-05T14:53:40+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png"
-  },
-  {
-    "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
-    "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-    "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 05 Jun 2026 18:03:38 +0530",
-    "timestamp": 1780662818.0,
-    "isoDate": "2026-06-05T12:33:38+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiab_7FEmO4woH_bG4spUNJRFCFvvmpF9ggnhOlkIf7f0Ma7z4oEwL0MxFSe4CstBBQRLFsYxObArJESQWOkwOPIQgO7m17DQFE997ZPe9hBnUPWiY-rabco7Q_OE2LYgp5UuqDfSxk8jvCJvLriBKb6OQAN9ovQbqSTOGD13SWnU3P12FTLgfvMe5sTgPN/s1600/chinese.jpg"
-  },
-  {
-    "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
-    "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
-    "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC to…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 05 Jun 2026 16:50:00 +0530",
-    "timestamp": 1780658400.0,
-    "isoDate": "2026-06-05T11:20:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdgNCJHCuVqNf4dGZYDAmzpytkCd3NBt-TKUtEo-bSBKeuqJzzk7CGB5l-JxHyIz5mVjHRn7csD0zZNm4MipX2Kwhfx8gB_Qdk8XcMg6kuoOaiBvcZT1LGlmfRGsC2avDBRtTWb9I-hzENpGkSFRouv7YSUiKHAXZ7qmYEbTdwe9dsVQCj_RRxUnaSyE/s1600/main.jpg"
   }
 ]
