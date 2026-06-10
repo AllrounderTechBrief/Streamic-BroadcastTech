@@ -1,5 +1,16 @@
 [
   {
+    "title": "Route public traffic to private applications with Cloudflare",
+    "link": "https://blog.cloudflare.com/private-origins-dns-routing/",
+    "summary": "Application Services for Private Origins is available now in closed beta. Route public hostnames to private IP origins over your existing IPsec, GRE, CNI, or Cloudflare Mesh paths. No public IPs or extra connector software required.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 10 Jun 2026 13:00:00 GMT",
+    "timestamp": 1781096400.0,
+    "isoDate": "2026-06-10T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3dPNpYW2ByViLaO237MJf/388322626e5e583f8b73f6271f73f316/1-connectivity-models_2x__3_.png"
+  },
+  {
     "title": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
     "link": "https://blog.cloudflare.com/frontier-model-defense/",
     "summary": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and how…",
@@ -339,17 +350,6 @@
     "timestamp": 1777640400.0,
     "isoDate": "2026-05-01T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3D8fGfZalW4N4h7QngR8tN/59ef281c194cfcba12ea6cfb6ec240d7/image2.png"
-  },
-  {
-    "title": "Post-quantum encryption for Cloudflare IPsec is generally available",
-    "link": "https://blog.cloudflare.com/post-quantum-ipsec/",
-    "summary": "Cloudflare IPsec now has generally available support for post-quantum encryption via hybrid ML-KEM. We’ve confirmed interoperability with Cisco and Fortinet.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 30 Apr 2026 14:00:00 GMT",
-    "timestamp": 1777557600.0,
-    "isoDate": "2026-04-30T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1y7QgyWMG5xGTtYGcwyqTX/48b625d0178c746dbdfba70ee1d2e259/image1.png"
   },
   {
     "title": "How to build a streaming platform in a day with AI and Bitmovin",
