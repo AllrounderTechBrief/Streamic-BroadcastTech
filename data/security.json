@@ -1,5 +1,38 @@
 [
   {
+    "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+    "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
+    "summary": "Most good security work is invisible by design. Today is the exception. The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories. The reason is simple. Cybersecurity is full of work tha…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 11 Jun 2026 18:56:13 +0530",
+    "timestamp": 1781184373.0,
+    "isoDate": "2026-06-11T13:26:13+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSZHAWbb4vxxCvcuKVVx_cF20NdH25LsT22W5ftwdgoPt9RSB_6g399zuxnBqiClQMbMTVTlZ5w2uZ7LoZnhySiv2rdRpu_992csHQmBaTqzkBAB3jkpru_Ofvli3RzA6r2kYxapez3lqhW02JPzqtJcDd2DGnZC62u72F59zUJbsS3CujuYH_mpj9lhk/s1600/winners.jpg"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
+    "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and researc…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 11 Jun 2026 18:50:41 +0530",
+    "timestamp": 1781184041.0,
+    "isoDate": "2026-06-11T13:20:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRILGY9KcqTFlus6q7_YKlkzrx_LNXb7KS96PijLOM63YqrZIcvxXaf9j0i-sJhst_yL59b7pq32rwcHSSByX7dzVRXSv_dRnrAYqn0Hpps_G7odqCYu8BEonGPMlUkCAz-d0q2No-ojqaZou-b06UwZxzq0oV5CthkgjmTdTBU1JEkWRLV28PwRR5UW7/s1600/tt.png"
+  },
+  {
+    "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+    "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
+    "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the f…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 11 Jun 2026 17:00:00 +0530",
+    "timestamp": 1781177400.0,
+    "isoDate": "2026-06-11T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJQm5XK5zijXnauJNV2_6v7g0bNYcdYLA-SuZZHbWZgQWB523V2Z7IgfYMu16QIc-JHnMg_8dXFY-TJ4dK9FpU4iAn2-8S4mE_ZE3M-z2XITVq6X2hF0e5Ngq33PcyeYSOlDceniRcY98Y8JNQwI5MWYbEor7h-h4kQLvaoeQ0OvJmg-UZTG82dv9nZI/s1600/ai-broke.jpg"
+  },
+  {
     "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
     "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
     "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage…",
@@ -295,38 +328,5 @@
     "timestamp": 1780924737.0,
     "isoDate": "2026-06-08T13:18:57+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwpRME_50jfgFZwHR0bIcYNE3-253LUHG3foA4Xd2IPQ0LCvXI4-_cLxJ-m8erh3Zof0ZY0pMOculHNwlSGAiUnwaL2H2DoXC9aKTehIh_R4vI66aZTzo00jj-hWlZ1lXtuDbDBWROGfTI4tH8G8Mb8cOlqBJLtG2l6bQS62hZlKlEt5qcLaEwsO_RhO4k/s1600/cybersecurity-recap.jpg"
-  },
-  {
-    "title": "The Hardest Fork",
-    "link": "https://thehackernews.com/2026/06/the-hardest-fork.html",
-    "summary": "Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is wrong, and that's RCE.\" They're novel comb…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 08 Jun 2026 17:23:00 +0530",
-    "timestamp": 1780919580.0,
-    "isoDate": "2026-06-08T11:53:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRnMnAqwiH7Dgv_dmF2bugYLlu8uMyFQkl7DseYkwwzl5MzUP-KeplSbGg_aNt_OqIDtT5rLyDO_Ea96Hf_uti0eKVIseQTxtS7zt-WQksEp8c4V50Hdq0kWqWjvyOVMHVlbMo1gagsSGu4lmdhlm1NSLQLp9QZVohv74jIWehnGY-l_PAPYzUvtITBMs/s1600/fork.jpg"
-  },
-  {
-    "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
-    "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
-    "summary": "A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux systems. The activity ha…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 08 Jun 2026 15:57:32 +0530",
-    "timestamp": 1780914452.0,
-    "isoDate": "2026-06-08T10:27:32+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhni0Ay24Jcfz-LCxqQ8xD9rJais13OOnt5cfz9XtZY-4LzlGgyVY9S2Cu7V0Uo9JMjIxfyTMk8oOeaPHcIkkYnw4RMiLgYFuiS2CyHd9JAihJsC7SQ-wtm8K545YuACojNwKRfsYBXLWe8s3u1evEVjyGLI2WM9KwAYyWur_XrpPfQRF8s4CzXP8c_OU01/s1600/chinese.jpg"
-  },
-  {
-    "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
-    "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
-    "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between January and May 2026.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 08 Jun 2026 13:09:28 +0530",
-    "timestamp": 1780904368.0,
-    "isoDate": "2026-06-08T07:39:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUzV1qMNLxMhQ6z22gKy4A5VPPrLn4b1nlfLaMyR6dBM6ostnGD8O3jiaPdM_diQNx24uX-TbI6iiX0Yw4m7msT6_3_UFz_g-g1fQGh3J55fzWzRyKTel4uIp05eBMvxwaQWvNv-VM0_p9jkclDuIyq0Ztu8r4gHIKN1xNSoGYV8Lj31kb_mCcZcBeXrB/s1600/vishing.jpg"
   }
 ]

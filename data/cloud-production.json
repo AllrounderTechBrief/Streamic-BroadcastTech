@@ -1,5 +1,16 @@
 [
   {
+    "title": "Generate live subtitles with AWS Elemental Inference Smart Subtitles",
+    "link": "https://aws.amazon.com/blogs/media/generate-live-subtitles-with-aws-elemental-inference-smart-subtitles/",
+    "summary": "This post walks through what the feature does, how to enable it, and where it fits in a typical live streaming workflow.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 11 Jun 2026 13:02:55 +0000",
+    "timestamp": 1781182975.0,
+    "isoDate": "2026-06-11T13:02:55+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/09/Figure-1-Smart-Subtitles-process.png"
+  },
+  {
     "title": "How Bedrock Streaming optimizes its AWS costs",
     "link": "https://aws.amazon.com/blogs/media/how-bedrock-streaming-optimizes-its-aws-costs/",
     "summary": "Learn how Bedrock Streaming hosts their solutions on Amazon Web Services (AWS) to serve major European broadcasters such as M6+, Videoland, and RTL+. With an AWS budget of several million dollars per year, each percentage point of optimizat…",
@@ -207,16 +218,5 @@
     "timestamp": 1772675648.0,
     "isoDate": "2026-03-05T01:54:08+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/03/Figure-1-Solution-architecture.png"
-  },
-  {
-    "title": "Inside NFL IQ: The Analytics Engine Behind the NFL Offseason",
-    "link": "https://aws.amazon.com/blogs/media/inside-nfl-iq-the-analytics-engine-behind-the-nfl-offseason/",
-    "summary": "The biggest decisions in the National Football League (NFL) don’t always happen under stadium lights. More often, they’re made weeks later — when scouts are replaying drills frame by frame, analysts are running probability models late into …",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 03 Mar 2026 02:04:32 +0000",
-    "timestamp": 1772503472.0,
-    "isoDate": "2026-03-03T02:04:32+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/02/nfl-blog-seahawks.png"
   }
 ]

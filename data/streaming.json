@@ -1,5 +1,16 @@
 [
   {
+    "title": "Generate live subtitles with AWS Elemental Inference Smart Subtitles",
+    "link": "https://aws.amazon.com/blogs/media/generate-live-subtitles-with-aws-elemental-inference-smart-subtitles/",
+    "summary": "This post walks through what the feature does, how to enable it, and where it fits in a typical live streaming workflow.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 11 Jun 2026 13:02:55 +0000",
+    "timestamp": 1781182975.0,
+    "isoDate": "2026-06-11T13:02:55+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/09/Figure-1-Smart-Subtitles-process.png"
+  },
+  {
     "title": "Route public traffic to private applications with Cloudflare",
     "link": "https://blog.cloudflare.com/private-origins-dns-routing/",
     "summary": "Application Services for Private Origins is available now in closed beta. Route public hostnames to private IP origins over your existing IPsec, GRE, CNI, or Cloudflare Mesh paths. No public IPs or extra connector software required.",
@@ -13,13 +24,13 @@
   {
     "title": "FIFA World Cup 2026 Streaming: 104 Matches, 39 Days, One Test It Can’t Fail",
     "link": "https://bitmovin.com/blog/fifa-world-cup-2026-streaming-infrastructure/",
-    "summary": "When a goal goes in during a World Cup knockout match, tens of millions of people react in the same instant. In 2026, that moment happens across 104 matches, in three countries, for a projected 6 billion engagements worldwide, building on a…",
+    "summary": "A goal in a World Cup knockout match is a near-instantaneous traffic event across tens of millions of concurrent sessions. In 2026, that happens across 104 matches, streamed across 212 territories, for a projected 6 billion total engagement…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Tue, 09 Jun 2026 14:00:00 +0000",
     "timestamp": 1781013600.0,
     "isoDate": "2026-06-09T14:00:00+00:00",
-    "imageUrl": ""
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/All-devices-Bitmovins-Player-covers.png"
   },
   {
     "title": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
@@ -537,16 +548,5 @@
     "timestamp": 1772675648.0,
     "isoDate": "2026-03-05T01:54:08+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/03/Figure-1-Solution-architecture.png"
-  },
-  {
-    "title": "Inside NFL IQ: The Analytics Engine Behind the NFL Offseason",
-    "link": "https://aws.amazon.com/blogs/media/inside-nfl-iq-the-analytics-engine-behind-the-nfl-offseason/",
-    "summary": "The biggest decisions in the National Football League (NFL) don’t always happen under stadium lights. More often, they’re made weeks later — when scouts are replaying drills frame by frame, analysts are running probability models late into …",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 03 Mar 2026 02:04:32 +0000",
-    "timestamp": 1772503472.0,
-    "isoDate": "2026-03-03T02:04:32+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/02/nfl-blog-seahawks.png"
   }
 ]
