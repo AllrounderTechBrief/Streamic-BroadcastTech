@@ -1,5 +1,27 @@
 [
   {
+    "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+    "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
+    "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 11 Jun 2026 15:15:58 +0530",
+    "timestamp": 1781171158.0,
+    "isoDate": "2026-06-11T09:45:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WExeCWTOdaaW7iQfV9dxGz0_rzPShImjBUQfoeRsJeTLg09lrGsSEgA2k05q-weIqQaQ_VVP25lTObup7E0xtcnxj3AtK1HHkNIAkI_hykxraL74qXTPwCRlRCdTB3S5QJO-e2j5zPGxgvCBg9SyRFl9QD2gwVtOqgg3eNF7_ZXGI9JgFSE4LGPjwoS3/s1600/cyberattacks.jpg"
+  },
+  {
+    "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
+    "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm in…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 11 Jun 2026 11:53:03 +0530",
+    "timestamp": 1781158983.0,
+    "isoDate": "2026-06-11T06:23:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yyoUTLr71Ug2Ge0R7qFSnlGjB3TzlrQ-2NDR5jpPSBjivUSxhxRV1eCg5E6Af15RbJLZpqg9Ohp9ZW9YC9D2oc3VcHrNYQetavvvarn-Pn1P4VWnMw2C-hXbFgplFW9O8pe-zSP9ABGkkR-LM8hhu370dXMgeV-TGQT2p9N7hd7Friim3UkdK5FfyHHp/s1600/npm-github.jpg"
+  },
+  {
     "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
     "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
     "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devic…",
@@ -306,27 +328,5 @@
     "timestamp": 1780904368.0,
     "isoDate": "2026-06-08T07:39:28+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUzV1qMNLxMhQ6z22gKy4A5VPPrLn4b1nlfLaMyR6dBM6ostnGD8O3jiaPdM_diQNx24uX-TbI6iiX0Yw4m7msT6_3_UFz_g-g1fQGh3J55fzWzRyKTel4uIp05eBMvxwaQWvNv-VM0_p9jkclDuIyq0Ztu8r4gHIKN1xNSoGYV8Lj31kb_mCcZcBeXrB/s1600/vishing.jpg"
-  },
-  {
-    "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
-    "link": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
-    "summary": "Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in an attempt to tackle software supply ch…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 08 Jun 2026 11:38:44 +0530",
-    "timestamp": 1780898924.0,
-    "isoDate": "2026-06-08T06:08:44+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPMxcu3ZcBpbZRC5rw9BlnoZMoXgrA-dRRquG6F6PSZZUc0JNzGHbl6c50yqTxs60QyQ5ut5ZC2qP9Csk_mR1Aqi48DO0wwDbUZ6zei45FNO2UgXaU0pOf8gWk8iAT81Ee1XJGrYyFgjYJqCeGTlnYeq-U8Nh4i5cxskA5n3eWyaQqMQPmyMAAR30bDKf2/s1600/ms-delay.jpg"
-  },
-  {
-    "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
-    "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
-    "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people and organizations that ha…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 06 Jun 2026 19:06:57 +0530",
-    "timestamp": 1780753017.0,
-    "isoDate": "2026-06-06T13:36:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg"
   }
 ]
