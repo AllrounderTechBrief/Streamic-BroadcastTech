@@ -1,5 +1,16 @@
 [
   {
+    "title": "How FOX fuels innovation with AI on AWS",
+    "link": "https://aws.amazon.com/blogs/media/how-fox-fuels-innovation-with-ai-on-aws/",
+    "summary": "Learn how by partnering with Amazon Web Services (AWS), FOX transformed how news, sports, and entertainment content gets created, produced and distributed. FOX consolidated into a unified cloud platform that now powers content operations ac…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 11 Jun 2026 18:05:56 +0000",
+    "timestamp": 1781201156.0,
+    "isoDate": "2026-06-11T18:05:56+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-The-FOX-One-highlights-experience.jpg"
+  },
+  {
     "title": "Generate live subtitles with AWS Elemental Inference Smart Subtitles",
     "link": "https://aws.amazon.com/blogs/media/generate-live-subtitles-with-aws-elemental-inference-smart-subtitles/",
     "summary": "This post walks through what the feature does, how to enable it, and where it fits in a typical live streaming workflow.",
@@ -537,16 +548,5 @@
     "timestamp": 1772811916.0,
     "isoDate": "2026-03-06T15:45:16+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/02/Dramaze-Blog-Figure-1.jpg"
-  },
-  {
-    "title": "Building intelligent media supply chain automation using Amazon Bedrock AgentCore",
-    "link": "https://aws.amazon.com/blogs/media/building-intelligent-media-supply-chain-automation-using-amazon-bedrock-agentcore/",
-    "summary": "The media industry is experiencing a fundamental shift in how content is processed, analyzed, and monetized. Recent breakthroughs in vision-based generative AI models have dramatically reduced both the cost and complexity of understanding v…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 05 Mar 2026 01:54:08 +0000",
-    "timestamp": 1772675648.0,
-    "isoDate": "2026-03-05T01:54:08+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/03/Figure-1-Solution-architecture.png"
   }
 ]
