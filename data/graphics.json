@@ -1,5 +1,16 @@
 [
   {
+    "title": "World Cup Fever in Guadalajara",
+    "link": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
+    "summary": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 12 Jun 2026 04:01:00 +0000",
+    "timestamp": 1781236860.0,
+    "isoDate": "2026-06-12T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413.jpg"
+  },
+  {
     "title": "NASA Award Boosts Space Technology Research Capabilities",
     "link": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
     "summary": "NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday a…",
@@ -438,17 +449,6 @@
     "timestamp": 1781150460.0,
     "isoDate": "2026-06-11T04:01:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/nyam_tempo_no2_20260518.jpg"
-  },
-  {
-    "title": "Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!",
-    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/",
-    "summary": "Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning day: Friday, June 5th, 2026 In a very broad sense, Curiosity has two modes of doing science –…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 10 Jun 2026 21:23:02 +0000",
-    "timestamp": 1781126582.0,
-    "isoDate": "2026-06-10T21:23:02+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/june/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04916_opgs_edr_ncam_NLB_833905570EDR_S1221260NCAM00268M_.JPG?w=1024&h=640&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "The shape of things to come: Live production in 2035",
