@@ -1,5 +1,16 @@
 [
   {
+    "title": "Using AWS Elemental Inference with MediaLive",
+    "link": "https://aws.amazon.com/blogs/media/using-aws-elemental-inference-with-medialive/",
+    "summary": "In this post, I show you how to enable Elemental Inference on an AWS Elemental MediaLive channel and use the Smart Crop (vertical video) feature to automatically convert landscape broadcast content into vertical 9:16 format.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 12 Jun 2026 17:55:21 +0000",
+    "timestamp": 1781286921.0,
+    "isoDate": "2026-06-12T17:55:21+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-Solution-architecture-_-elemental-inference.png"
+  },
+  {
     "title": "How FOX fuels innovation with AI on AWS",
     "link": "https://aws.amazon.com/blogs/media/how-fox-fuels-innovation-with-ai-on-aws/",
     "summary": "Learn how by partnering with Amazon Web Services (AWS), FOX transformed how news, sports, and entertainment content gets created, produced and distributed. FOX consolidated into a unified cloud platform that now powers content operations ac…",
@@ -207,16 +218,5 @@
     "timestamp": 1773340071.0,
     "isoDate": "2026-03-12T18:27:51+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/12/PGA-image-1.png"
-  },
-  {
-    "title": "How AWS powers Dramaze AI-enhanced streaming platform",
-    "link": "https://aws.amazon.com/blogs/media/how-aws-powers-dramaze-ai-enhanced-streaming-platform/",
-    "summary": "Netmedias recently launched Dramaze.com, a groundbreaking freemium video-on-demand (VOD) streaming platform that brings short-form drama episodes to audiences across Asia and the Middle East. In an increasingly competitive streaming landsca…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Fri, 06 Mar 2026 15:45:16 +0000",
-    "timestamp": 1772811916.0,
-    "isoDate": "2026-03-06T15:45:16+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/02/Dramaze-Blog-Figure-1.jpg"
   }
 ]
