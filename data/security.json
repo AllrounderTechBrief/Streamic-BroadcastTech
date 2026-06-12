@@ -1,5 +1,38 @@
 [
   {
+    "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+    "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+    "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 13 Jun 2026 01:03:25 +0530",
+    "timestamp": 1781292805.0,
+    "isoDate": "2026-06-12T19:33:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg"
+  },
+  {
+    "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+    "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+    "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 13 Jun 2026 00:29:32 +0530",
+    "timestamp": 1781290772.0,
+    "isoDate": "2026-06-12T18:59:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VG_lHXgOeahfKoUs6hQ7fOmh-dK1ZGloqzAWilTU73LKJF5mBDqw4OSpU8ViE0NEI1iW4cNS5vyz4TpqoJ_aGjHYt4-qJXfmZP2a3mi8GILe4OeP7qSFKeqDWrbHyoMmf49EtaDTylhnpLvem5LCwqX2e8MRSR5rQC5cNv9qH-H_ySeUT5uYHWRLGa5P/s1600/gemini-phishing.jpg"
+  },
+  {
+    "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+    "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+    "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 12 Jun 2026 23:47:55 +0530",
+    "timestamp": 1781288275.0,
+    "isoDate": "2026-06-12T18:17:55+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJqmKAQv_I_7JkmQwoIVSx2BkRPUEb9TTNOd2RkNqTg3tcLyZszN8KiXfUUeIBSPSoxjzMAn2inE6TL791l5B_CbQaHqG708c2tgN-kSUmz_fTuewdcrWHS8u-xdWKIr6fEhx2W7_JDszsJ1oXO9v47JxU81490QKz0ZRL2OOFoljevoD8f6OMozfMZU/s1600/linux-backdoor.jpg"
+  },
+  {
     "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
     "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
     "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack c…",
@@ -295,38 +328,5 @@
     "timestamp": 1781022892.0,
     "isoDate": "2026-06-09T16:34:52+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-7rxJRihxTgaEj0a_mk4hVtMdwpHB8Gfd5ZgctcXcjOdEnSEJr9Qao5B5kpk2QBpumULMvNi1ZPptGJnA3NhAres2k9CGwhCQTfMciEcl2otHHvKxU9j9AkTyAgANeYS_CCY9WOip8lBCi6cq8JgPr_oqnuw-lpp53u881dYUrH8KzU8xLNPK6Lube-x/s1600/ms-worm.jpg"
-  },
-  {
-    "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-    "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-    "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The activity has been attributed by Trend Micr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 09 Jun 2026 17:56:10 +0530",
-    "timestamp": 1781007970.0,
-    "isoDate": "2026-06-09T12:26:10+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdAzGyUad4rioCXpoCvPwiGqto_MgCesTBLTn-1uBtWpWAXB99KN0xiE1oIqwDbVi_vkFDnn05XOxwH3WYjLkPNDykxieuftfe-wLFibGL1o8iiUuGfhiG5yYS7KXBV3gvdIYk5PFCurpn0-L77hajka35iE_a-JxWCaYeKc2Yej1gQrkcrQ61ijTm4HS/s1600/winrar-exploit.jpg"
-  },
-  {
-    "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
-    "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
-    "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 09 Jun 2026 17:29:03 +0530",
-    "timestamp": 1781006343.0,
-    "isoDate": "2026-06-09T11:59:03+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2H1xd7_K6KgUGsDu0E9YGBOLVgXF4DX0rDhf_pUhDRujatedeTJFwy0e_JxsMGGpQB80HOn4wTXRSxCB2DrxNo0nHYVUJC2ehyphenhyphenum_Cyjg-5bVXOIuGahdDFIIa9NBleTGfYDXQuqf005BOME3HAXVxVQw1OXNJNZwpZ4Tgke2qUK2TITR0qFMgaAH8Mf9/s1600/worm.gif"
-  },
-  {
-    "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
-    "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
-    "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an ou…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 09 Jun 2026 17:28:49 +0530",
-    "timestamp": 1781006329.0,
-    "isoDate": "2026-06-09T11:58:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg"
   }
 ]
