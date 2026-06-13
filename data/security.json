@@ -1,5 +1,16 @@
 [
   {
+    "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+    "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
+    "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 13 Jun 2026 11:12:50 +0530",
+    "timestamp": 1781329370.0,
+    "isoDate": "2026-06-13T05:42:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitE4uRkPKzQw_uUTSEzPgbuTByOaSNQeEHcANQCdYOtD8HJxqjIy9e0TIkkYeMN5QQghbvb1Nc4RJdwpGUD4ttQ8FqBpDAIMBe5Biw4zXIF-iYgl-vZPCGL1b5VNZpajQ8_cCPj7jx0DFABYuXLpyHYUSOe3jBKPsSej0y7TxrIHZwG_4m56TrDdTS9Ap1/s1600/Anthropic-claude.jpg"
+  },
+  {
     "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
     "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
     "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer s…",
@@ -317,16 +328,5 @@
     "timestamp": 1781023187.0,
     "isoDate": "2026-06-09T16:39:47+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIM_y_SajgbuzxJeP8uc2J0ZdX_6Izzhyphenhypheny9PANPhj_Ci0ylC6gnMhvvgeCzMT_AGAQDcAaKpyj_auV5wD8iTtvcfKocAwD61XRdHarhEVyMi9qlmE4aN1wgPOBFP8dH2SWiQh2OPuXY1kAajjypM-Jr1UUpJ_e6L9NInsVJ1qK4nlUFV0zJlR6kn9clw4/s1600/veeam.jpg"
-  },
-  {
-    "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-    "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-    "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code. \"Our p…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 09 Jun 2026 22:04:52 +0530",
-    "timestamp": 1781022892.0,
-    "isoDate": "2026-06-09T16:34:52+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-7rxJRihxTgaEj0a_mk4hVtMdwpHB8Gfd5ZgctcXcjOdEnSEJr9Qao5B5kpk2QBpumULMvNi1ZPptGJnA3NhAres2k9CGwhCQTfMciEcl2otHHvKxU9j9AkTyAgANeYS_CCY9WOip8lBCi6cq8JgPr_oqnuw-lpp53u881dYUrH8KzU8xLNPK6Lube-x/s1600/ms-worm.jpg"
   }
 ]
