@@ -1,5 +1,16 @@
 [
   {
+    "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+    "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+    "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 13 Jun 2026 18:53:03 +0530",
+    "timestamp": 1781356983.0,
+    "isoDate": "2026-06-13T13:23:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg"
+  },
+  {
     "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
     "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
     "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals…",
@@ -317,16 +328,5 @@
     "timestamp": 1781024638.0,
     "isoDate": "2026-06-09T17:03:58+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQhSgYELKe_2HC7BB5NcjkNvIdsBgzfzSoH7tF0EmyFq9_vXEMFYWH9cczwGUWAxITkKt0TCwTLTyeIz82mfdCBmT1Hez5SO6z5zNEmx-laLfzVEy323arr0yCMHhTWv7igdUMtmriAIGIcIcjhaXfId5iCpwUSQxEaFMP0DqA5Oov8KyEFqoWWKgh21d/s1600/facebook.jpg"
-  },
-  {
-    "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
-    "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
-    "summary": "Veeam has released security patches to address a critical flaw in its Backup & Replication software that could result in remote code execution. Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 09 Jun 2026 22:09:47 +0530",
-    "timestamp": 1781023187.0,
-    "isoDate": "2026-06-09T16:39:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIM_y_SajgbuzxJeP8uc2J0ZdX_6Izzhyphenhypheny9PANPhj_Ci0ylC6gnMhvvgeCzMT_AGAQDcAaKpyj_auV5wD8iTtvcfKocAwD61XRdHarhEVyMi9qlmE4aN1wgPOBFP8dH2SWiQh2OPuXY1kAajjypM-Jr1UUpJ_e6L9NInsVJ1qK4nlUFV0zJlR6kn9clw4/s1600/veeam.jpg"
   }
 ]
