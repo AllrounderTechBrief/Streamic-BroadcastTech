@@ -1,5 +1,27 @@
 [
   {
+    "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+    "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+    "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research serve…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 01:14:06 +0530",
+    "timestamp": 1781552646.0,
+    "isoDate": "2026-06-15T19:44:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE7EMoBrh5-6_V336v7LMFfChDVp-Sux8RX-UY5zhONtACR6kiz2w_VQ9o7e8nuqaWCqbxrvzPgSrruvEXN0jw_zKnaeVl73yDnfqbVqTPDnjHDPJPuBLd9vhGCJIl1BuqSblleOG9zG9YgbriqE7oiCuTEBQRDadsFOgQdN9PjdOglDeI_y2ZV5-Ehbo/s1600/google-china.jpg"
+  },
+  {
+    "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+    "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+    "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi). According …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 01:02:52 +0530",
+    "timestamp": 1781551972.0,
+    "isoDate": "2026-06-15T19:32:52+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqLMLYAQa1ICXVdOhmxnFqqoh_YonevmQPjEtYbmqLsdFC7JJnGc_F7K1no96DjZhTicVxI7sJUO04JM3e64Ko2eh1X6NlEqpKO2Nc1MKCzDPdqlmPZzTphhJlL7ibJ1CLRsIaVBZZvWtm7mv_jXLT53iwjlRVjBnyKCypFigPA0mZzFew-02Xp_aKu9o/s1600/northkorea.jpg"
+  },
+  {
     "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
     "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
     "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that bro…",
@@ -162,7 +184,7 @@
     "timeAgo": "Fri, 12 Jun 2026 16:30:00 +0530",
     "timestamp": 1781262000.0,
     "isoDate": "2026-06-12T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WauAS1qxBj0Oziu-jmgn34YGvKsu9xISK-gtccFv-0WkcX6EC6e-ge9UF2PCZINf9RW5cN40GWijtbnZOvADSJKZ4ErYKX_Iqoo9AO9nk3E0548I07_5PNz6vWA13UMKwU1jGjXCQJLBFyXj_RPEgiVvCuEZZyijeNBxgaiIB1itadpRaDzzoyR_DcA/s1600/mdr.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcSO1M2s73CaiGKZFJVtCmNoDLgv7Z8_riezdl0vJM2-CIo-aB-rqQONkesvFJ6Rnkj9ZtfGS3eeaNkPHZ9E7RKvQODONxx2JfobEpuppKWkRrylmsptDxYs0Z2NzM_zFsPsjvdHETu0Tvmwc3NGmcdgyGeHfDdkENcQLm_m07WdrsZcHmHzst-gSbGUkb/s1600/info.jpg"
   },
   {
     "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
@@ -306,27 +328,5 @@
     "timestamp": 1781107722.0,
     "isoDate": "2026-06-10T16:08:42+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQC0_BYMuNpY7re4OHHsytEfC6fW3KsonxN6e2X0Dj03fJoMazI6EZnvPj_hOUZ99yJLq6RrH3ZSCsfDWOB6AgDJVk_1LY5TzgSpP7QFKcI_grjRI7Pm9QGputoI0LM4LH8ZCOAVb_PnzXAs_bMP6n_3u__fPEmxEKVUv5ZZjG5vOJT_fmhvAy551gjCmi/s1600/bot.png"
-  },
-  {
-    "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-    "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
-    "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security flaw patched by Fortinet relates to a comm…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 10 Jun 2026 20:40:59 +0530",
-    "timestamp": 1781104259.0,
-    "isoDate": "2026-06-10T15:10:59+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs2l0GUUy91D4hHU067eYWpRzvSJGcfOkHce2jcVXZGWI9sld0hgaomhoKTc3dYEXEbz05oZQ5mFzo34eXp-wNJ2j_ofUjXjR7ZR5obszwH7bCRRmah9Q9HY3RSDrwrAf8QD162ca7nvxTRELWzcVW8AbbVMpXJfHXtaYEiSxXAw49VpCG8ep33SbGeLSF/s1600/ivanti.jpg"
-  },
-  {
-    "title": "Langflow Vulnerability CVE-2026-5027 Exploited for Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
-    "summary": "A high-severity security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck. The vulnerability in quest…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 10 Jun 2026 20:30:59 +0530",
-    "timestamp": 1781103659.0,
-    "isoDate": "2026-06-10T15:00:59+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidDfz-Q5s2ON-nc6gW-4Lgw1yMocr3YiLP82vXcoWHcs6-_ICHWHZsciCnM2aU4kBZ2yyCJ622deCwKAXZdOFVyIoG41JC7SHyXIG6soj-RrFySsKHp2N51PpbGb7LxJWXvqOXE6GTap75h_QIjH78l0Ys__M_4EtgxMgymWgCS1vfdmWmwgpkW1TIq61I/s1600/lang.png"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "title": "Inside the AWS NBA Draft Combine Hub: How AWS turned decades of prospect data into a new fan experience",
+    "link": "https://aws.amazon.com/blogs/media/inside-the-aws-nba-draft-combine-hub-how-aws-turned-decades-of-prospect-data-into-a-new-fan-experience/",
+    "summary": "This blog discusses how the Amazon Web Services (AWS) NBA Draft Combine gives teams one of their first concentrated looks at the next generation of NBA talent. Over several days, prospects undergo a wide range of basketball activities and e…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 15 Jun 2026 20:34:58 +0000",
+    "timestamp": 1781555698.0,
+    "isoDate": "2026-06-15T20:34:58+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/12/NBA-Draft-image-1.png"
+  },
+  {
     "title": "Growing the Cloudflare AI team with talent from Ensemble AI",
     "link": "https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare/",
     "summary": "Cloudflare is deepening our investment in AI with the addition of team members from Ensemble AI, focusing on machine learning infrastructure and efficiency.",
@@ -537,16 +548,5 @@
     "timestamp": 1773669887.0,
     "isoDate": "2026-03-16T14:04:47+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/13/AsiaCup-SSAI.drawio.png"
-  },
-  {
-    "title": "Accelerating sports content creation using agentic AI: PGA TOUR",
-    "link": "https://aws.amazon.com/blogs/media/accelerating-sports-content-creation-usingagentic-ai-pga-tour/",
-    "summary": "In a sport where every stroke, statistic, and storyline unfolds in real time across hundreds of players and thousands of fans, the PGA TOUR is rewriting the rules of sports content. In this blog post, we’ll describe how PGA TOUR uses Amazon…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 12 Mar 2026 18:27:51 +0000",
-    "timestamp": 1773340071.0,
-    "isoDate": "2026-03-12T18:27:51+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/12/PGA-image-1.png"
   }
 ]
