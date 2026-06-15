@@ -11,6 +11,17 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-Solution-architecture-_-elemental-inference.png"
   },
   {
+    "title": "Hackathon spotlight: building Hummer, a Slack-native AI agent for the whole team",
+    "link": "https://bitmovin.com/blog/slack-native-ai-agent-engineering-teams/",
+    "summary": "By David Steinacher and Roland Kákonyi TL;DR Most AI coding tools are built around a single user. You work with the agent in a private window, and when the session ends, everything it learned stays with you. The next person on the team star…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Fri, 12 Jun 2026 13:15:00 +0000",
+    "timestamp": 1781270100.0,
+    "isoDate": "2026-06-12T13:15:00+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-1.jpeg"
+  },
+  {
     "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
     "link": "https://blog.cloudflare.com/scaling-security-scans/",
     "summary": "Cloudflare Security Insights system now processes over 120 scans per second, providing frequent insights for all customers. By optimizing Kafka consumers, Postgres queries, and our API, we scaled our throughput 10x without adding hardware.",
@@ -20,6 +31,17 @@
     "timestamp": 1781269200.0,
     "isoDate": "2026-06-12T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1vJ2DRjdopX1LgymReyped/dbb20abb364acdd4904aba746d7921a6/BLOG-3307_image2.jpg"
+  },
+  {
+    "title": "Hackathon spotlight: Real-Time Observability Custom Dashboarding",
+    "link": "https://bitmovin.com/blog/custom-observability-dashboards-real-time-monitoring/",
+    "summary": "TLDR Bitmovin’s Observability solution already gives teams deep visibility into playback quality and audience behavior. But when an operations team wants to assemble its own view of that data via our API, the current answer is to build it i…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Fri, 12 Jun 2026 10:59:29 +0000",
+    "timestamp": 1781261969.0,
+    "isoDate": "2026-06-12T10:59:29+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-9.png"
   },
   {
     "title": "How FOX fuels innovation with AI on AWS",
@@ -440,17 +462,6 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/17/Figure-1-EngineLab-AIs-project-management-interface.png"
   },
   {
-    "title": "Everything you need to know about Apple AV1 Support",
-    "link": "https://bitmovin.com/blog/apple-av1-support/",
-    "summary": "Apple made waves across the video encoding and streaming communities when they announced the iPhone 15 Pro and 15 Pro Max would have a dedicated AV1 hardware decoder, making them the first Apple devices with official AV1 codec support. We’v…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Sat, 18 Apr 2026 20:35:21 +0000",
-    "timestamp": 1776544521.0,
-    "isoDate": "2026-04-18T20:35:21+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2023/06/iPhone_AV1_decoder.jpg"
-  },
-  {
     "title": "MXL is the foundation. Here’s what it takes to build the house",
     "link": "https://aws.amazon.com/blogs/media/mxl-is-the-foundation-heres-what-it-takes-to-build-the-house/",
     "summary": "The Hard Part Isn’t the Technology Picture a college basketball game. Two teams, a few thousand fans in the arena, and a regional sports network that has promised its subscribers a live broadcast. The production team has done this before — …",
@@ -460,17 +471,6 @@
     "timestamp": 1776437142.0,
     "isoDate": "2026-04-17T14:45:42+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Improving ad placement with AI for better viewer experiences",
-    "link": "https://bitmovin.com/blog/ai-ad-placement-score-scene-level-streaming/",
-    "summary": "You’re watching a key moment in a show. The tension is building, the scene is about to peak, and just as it does, the video cuts to an ad. It’s a familiar experience, and one that immediately breaks immersion, not because the ad exists, but…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Thu, 16 Apr 2026 17:03:44 +0000",
-    "timestamp": 1776359024.0,
-    "isoDate": "2026-04-16T17:03:44+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/04/ad-opportunity-visual.png"
   },
   {
     "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
