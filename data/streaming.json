@@ -1,5 +1,16 @@
 [
   {
+    "title": "Growing the Cloudflare AI team with talent from Ensemble AI",
+    "link": "https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare/",
+    "summary": "Cloudflare is deepening our investment in AI with the addition of team members from Ensemble AI, focusing on machine learning infrastructure and efficiency.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 15 Jun 2026 13:00:00 GMT",
+    "timestamp": 1781528400.0,
+    "isoDate": "2026-06-15T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/IYHFX88nVQ5KvJ2RqEkJW/7bbe337431623665790bda509375b96e/image2.png"
+  },
+  {
     "title": "Using AWS Elemental Inference with MediaLive",
     "link": "https://aws.amazon.com/blogs/media/using-aws-elemental-inference-with-medialive/",
     "summary": "In this post, I show you how to enable Elemental Inference on an AWS Elemental MediaLive channel and use the Smart Crop (vertical video) feature to automatically convert landscape broadcast content into vertical 9:16 format.",
@@ -405,17 +416,6 @@
     "timestamp": 1778086800.0,
     "isoDate": "2026-05-06T17:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4hF64h72z4oKRg28w0mDJm/7f535cf687750f9ea730c27fa5e729e3/BLOG-3309_2.png"
-  },
-  {
-    "title": "Code Orange: Fail Small is complete. The result is a stronger Cloudflare network",
-    "link": "https://blog.cloudflare.com/code-orange-fail-small-complete/",
-    "summary": "We have completed a massive engineering effort to make our infrastructure more resilient. Through new tools like Snapstone and the Engineering Codex, we've implemented safer configuration changes and automated best practices to prevent futu…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 01 May 2026 21:07:30 GMT",
-    "timestamp": 1777669650.0,
-    "isoDate": "2026-05-01T21:07:30+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/27Qu0u1iTXZ6MNI4GabAWs/b47737d63334808155e7dd8148818e06/3278-chart.png"
   },
   {
     "title": "How to build a streaming platform in a day with AI and Bitmovin",
