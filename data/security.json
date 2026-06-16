@@ -1,5 +1,49 @@
 [
   {
+    "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
+    "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
+    "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infe…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 18:40:17 +0530",
+    "timestamp": 1781615417.0,
+    "isoDate": "2026-06-16T13:10:17+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_U2JZgjmQGUfV3q90DEMUgqHK2kqloGQR5lBYn_8UUC2DUIFpJPpCnETlOUh1IldJXcWdr9YZ5hA3yUtZETvviRousyQt7En5mNSjwoJiD_gJ9_kjS7L8ujw_y6CN3NeygZWa-sXCEG1zo5PBmuB5CkSP-EYxBWsUEtUq4iYJ3AYXHVM_TscyngMwPU/s1600/android-banking-trojan.jpg"
+  },
+  {
+    "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
+    "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
+    "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms. Yet despit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 17:00:00 +0530",
+    "timestamp": 1781609400.0,
+    "isoDate": "2026-06-16T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIjJejsRU4njToU8avtW_XwlouRy_HhUCWBUzgTtjb0e-LWzIO6zQprJ_tRqq6KO0Dvn64NNH35d6lYYadq7WSWAjn4jG_onOHYaJYrdg5CgUeVxyXBQJu7LUIAeVrEhFziJvlITCbj4kN9GSi9vp4ZpRpVwnxYCHKskOjUiFf-KIue9JlZzAJqJZUsxE/s1600/Spur-IP-Intel-Study-Feature.png"
+  },
+  {
+    "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+    "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
+    "summary": "Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-3980…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 16:00:41 +0530",
+    "timestamp": 1781605841.0,
+    "isoDate": "2026-06-16T10:30:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisozpc0YfCvHjGAyEZf7c1G10iEOgszA-mkIIrhG3A4VYcq8_Hih8U0hO66iBoDPPJZhfq7Dc3fGTsMLDiFiGSk6-xS7ltGORLe0_sC8VyhZHlfIkeGpOkMTcbQ0R7BeDtDmZFb-VB_GF3le8p0mx2ZMD-CLZb5eWlMJPiBhdu9ljzlh_E01hIon9dA-Y3/s1600/Fortinet.png"
+  },
+  {
+    "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
+    "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
+    "summary": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. \"The Windows variants discovered are internally marked as WIN_DRV and WIN_PLUS,\" ESET sai…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 15:14:34 +0530",
+    "timestamp": 1781603074.0,
+    "isoDate": "2026-06-16T09:44:34+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxym2hiE83TbiNOrIeH3s4QCF0wQ_BYcSYPKlC3m9LGSuJnH7UNicbkgIk4kQTbpPiLRul9dSxQ180XW656_9NPtlqWoTGivTamDVl24ZfUQFPgUleakZq6aZI5kZqszNz3GpVyJQnPiXis_kjlMqAxKBxGKZsDdAvb-rX20fxszdd0pCKRO9GqK3CSu-p/s1600/chinese-proxy.png"
+  },
+  {
     "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
     "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
     "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email con…",
@@ -284,49 +328,5 @@
     "timestamp": 1781199832.0,
     "isoDate": "2026-06-11T17:43:52+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKyNLbT9WYm7m6ZsvIgv0mNbGJCrgEjUUXLbRZV9mmQUVi7jT9IiwlXh2kYKiMOrsCnJ-ZaoAK9GnL9jy6RHJELISIGFuLSZgsSYuclWFcPmItYL04pTVeA7cl_jy8L6RU4CVPypa6u24OH8hCwPL1g1tEVRczTV1YjZ5KUFGZc6DVw8Pdo_CFGXRTS-d/s1600/windows-bitlocker.jpg"
-  },
-  {
-    "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-    "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-    "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 11 Jun 2026 22:20:47 +0530",
-    "timestamp": 1781196647.0,
-    "isoDate": "2026-06-11T16:50:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT390XWb8ahl36RgVGzdXiIpEJ43hxHfayY1i2C_rBLbVyu5A2Q-uOFptUFJL33Ehedvbx97RiUV2NivTy-FxxFCNiIKekiqeljYrI3kThk9Sko4wQlFniMDjIfNqgiP-BaN3JYFjAbo2EfP7EBuEDe_p00RtrAmdUl_lsbgzQgV-M7CM_u3Vi7AtqgbSS/s1600/ransomware.jpg"
-  },
-  {
-    "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
-    "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
-    "summary": "Most good security work is invisible by design. Today is the exception. The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories. The reason is simple. Cybersecurity is full of work tha…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 11 Jun 2026 18:56:13 +0530",
-    "timestamp": 1781184373.0,
-    "isoDate": "2026-06-11T13:26:13+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSZHAWbb4vxxCvcuKVVx_cF20NdH25LsT22W5ftwdgoPt9RSB_6g399zuxnBqiClQMbMTVTlZ5w2uZ7LoZnhySiv2rdRpu_992csHQmBaTqzkBAB3jkpru_Ofvli3RzA6r2kYxapez3lqhW02JPzqtJcDd2DGnZC62u72F59zUJbsS3CujuYH_mpj9lhk/s1600/winners.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
-    "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and researc…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 11 Jun 2026 18:50:41 +0530",
-    "timestamp": 1781184041.0,
-    "isoDate": "2026-06-11T13:20:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRILGY9KcqTFlus6q7_YKlkzrx_LNXb7KS96PijLOM63YqrZIcvxXaf9j0i-sJhst_yL59b7pq32rwcHSSByX7dzVRXSv_dRnrAYqn0Hpps_G7odqCYu8BEonGPMlUkCAz-d0q2No-ojqaZou-b06UwZxzq0oV5CthkgjmTdTBU1JEkWRLV28PwRR5UW7/s1600/tt.png"
-  },
-  {
-    "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
-    "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
-    "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the f…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 11 Jun 2026 17:00:00 +0530",
-    "timestamp": 1781177400.0,
-    "isoDate": "2026-06-11T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJQm5XK5zijXnauJNV2_6v7g0bNYcdYLA-SuZZHbWZgQWB523V2Z7IgfYMu16QIc-JHnMg_8dXFY-TJ4dK9FpU4iAn2-8S4mE_ZE3M-z2XITVq6X2hF0e5Ngq33PcyeYSOlDceniRcY98Y8JNQwI5MWYbEor7h-h4kQLvaoeQ0OvJmg-UZTG82dv9nZI/s1600/ai-broke.jpg"
   }
 ]

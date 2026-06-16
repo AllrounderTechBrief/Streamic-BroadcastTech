@@ -1,5 +1,16 @@
 [
   {
+    "title": "Opinion: very nice, but what does it do?",
+    "link": "https://www.tvbeurope.com/business/very-nice-but-what-does-it-do",
+    "summary": "As the gap between the tech and media industries grows ever more narrow, Matthew Corrigan is still trying to speak clearly The post Opinion: very nice, but what does it do? appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 16 Jun 2026 10:10:21 +0000",
+    "timestamp": 1781604621.0,
+    "isoDate": "2026-06-16T10:10:21+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/AVT123.Analytics.gettyimages_960085942_rf-copy-726x545.jpg"
+  },
+  {
     "title": "Proton expands miniature camera range with the new Proton LS",
     "link": "https://www.tvbeurope.com/live-production/proton-expands-miniature-camera-range-with-the-new-proton-ls",
     "summary": "The camera includes a 1/3-inch global shutter sensor, which delivers high 12-bit dynamic 1080p capture with full HDR compliance across HLG, PQ, and S-Log3 gamma curves The post Proton expands miniature camera range with the new Proton LS ap…",
@@ -262,16 +273,5 @@
     "timestamp": 1781164962.0,
     "isoDate": "2026-06-11T08:02:42+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "HBS prepares for record-breaking FIFA World Cup",
-    "link": "https://www.tvbeurope.com/live-production/hbs-prepares-for-record-breaking-fifa-world-cup",
-    "summary": "To manage the challenge of connectivity across this summer’s FIFA World Cup’s vast geographical footprint, HBS is centralising key operations at the International Broadcast Centre in Dallas, backed by a cutting-edge ST 2110 network using JP…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 10 Jun 2026 13:33:03 +0000",
-    "timestamp": 1781098383.0,
-    "isoDate": "2026-06-10T13:33:03+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/Etienne-left-and-Christophe-726x545.jpg"
   }
 ]
