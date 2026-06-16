@@ -1,5 +1,16 @@
 [
   {
+    "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+    "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+    "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, whic…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 17 Jun 2026 00:35:41 +0530",
+    "timestamp": 1781636741.0,
+    "isoDate": "2026-06-16T19:05:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpiAGZTnvo43enaVYkna4ZSp217mwwW5kW8kZOhaSiLAxicjvHQY-3d8rdLN47bsRvxUIj6R0h_Ttr8NcIJrgz6k_mbcx94KLuPD29KdhFcYQsrV8htgg_iDYMV9aXbr21kv6BdYTzLNOOqQLpsCfpDC4XxDPnu77uVQ3oCYbIUfIpUKdmqx-rZZWj6P0/s1600/Google-Vertex-AI.jpg"
+  },
+  {
     "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
     "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
     "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. …",
@@ -317,16 +328,5 @@
     "timestamp": 1781209763.0,
     "isoDate": "2026-06-11T20:29:23+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpNcbfulhruio1VSh8OPKOjdx3gvP-Chg8OjSm7LZeVK2GaVR-osKeoQjO9e1_56Dtedmlisu76lYc70Wv5I1efqJcs2uh1RnbKJOITEcqcJoN-8PhNfmzAeLkDrST8Kg3qTbqE8wUrOd4jxE-gMi-vKN1B8W2zgY0ymFTtip79RVltY9J3QmXrAOJa4H/s1600/shinyHunters-universities.jpg"
-  },
-  {
-    "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-    "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-    "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva bur…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 11 Jun 2026 23:16:32 +0530",
-    "timestamp": 1781199992.0,
-    "isoDate": "2026-06-11T17:46:32+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6r68iB-MZv_eNGG3y0evEVbk7WXNkMzcKno1phHiSyOwfKd0G7bv8VCCrxQgmZOutmZdP1Nz-Xr1mxxUIx_rV8imT0-Ifk0e0FL525Z2v0C94GWgeo-wUpTk39rDdilNC_K20uqw0JipHlT7XmyTHn786UIAe_z3H2VXT1cYNAIEbKSwn2qYc_9MXzpbi/s1600/openclaw-hacks.jpg"
   }
 ]
