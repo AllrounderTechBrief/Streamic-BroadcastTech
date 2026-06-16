@@ -1,5 +1,16 @@
 [
   {
+    "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+    "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+    "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 23:11:28 +0530",
+    "timestamp": 1781631688.0,
+    "isoDate": "2026-06-16T17:41:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilHq1gG2gCazQF6_B9H-W3ck6nmgu3L4IPuzaMg9RMEAbpHyVqfYmFOquQ9_ldT1kG2r1kYUqt-WlpWWvD3DA4vNH6S-lv6fbsDbSCkB55NP3TtRJA4l5lLCMzosdM1OJiDOatfx4zG284ftwuE9ahYlGfcIpnAy1PkVSfWloFY0zD9Cbh3CkHhNQHgqwF/s1600/clickfix-attacks.jpg"
+  },
+  {
     "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
     "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
     "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infe…",
@@ -317,16 +328,5 @@
     "timestamp": 1781199992.0,
     "isoDate": "2026-06-11T17:46:32+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6r68iB-MZv_eNGG3y0evEVbk7WXNkMzcKno1phHiSyOwfKd0G7bv8VCCrxQgmZOutmZdP1Nz-Xr1mxxUIx_rV8imT0-Ifk0e0FL525Z2v0C94GWgeo-wUpTk39rDdilNC_K20uqw0JipHlT7XmyTHn786UIAe_z3H2VXT1cYNAIEbKSwn2qYc_9MXzpbi/s1600/openclaw-hacks.jpg"
-  },
-  {
-    "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-    "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-    "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it too…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 11 Jun 2026 23:13:52 +0530",
-    "timestamp": 1781199832.0,
-    "isoDate": "2026-06-11T17:43:52+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKyNLbT9WYm7m6ZsvIgv0mNbGJCrgEjUUXLbRZV9mmQUVi7jT9IiwlXh2kYKiMOrsCnJ-ZaoAK9GnL9jy6RHJELISIGFuLSZgsSYuclWFcPmItYL04pTVeA7cl_jy8L6RU4CVPypa6u24OH8hCwPL1g1tEVRczTV1YjZ5KUFGZc6DVw8Pdo_CFGXRTS-d/s1600/windows-bitlocker.jpg"
   }
 ]
