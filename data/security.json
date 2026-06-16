@@ -1,5 +1,38 @@
 [
   {
+    "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
+    "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
+    "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email con…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 13:44:55 +0530",
+    "timestamp": 1781597695.0,
+    "isoDate": "2026-06-16T08:14:55+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Lf-lxaztGp4Ov5_hu7TmA6AEoqhh2oBADVLVEbA1HTzmsAyX9ePZtZvvBlBzNym1RiifCmOnb-pf604J7plqPdarQxnW-m6Ds0Wi-kT1Ytqm1KlGsf4hWmL8YPa17MXv4yxcEN0CwkA_9qwbEGn74XdX4Y0J4t1rR3oflfW5cpy2tXo65kVMFI3oRFxr/s1600/ms-alert.jpg"
+  },
+  {
+    "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
+    "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
+    "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 11:35:58 +0530",
+    "timestamp": 1781589958.0,
+    "isoDate": "2026-06-16T06:05:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-vJIadGle0Cre1cNAxZIcD9ktkl1mPnUwtEtF1xuMbeH75BnvGq3twL0W2OowYW7ZZMxvzMjdbU-VMEZfEvV1q2pTIoG8VU_D0d_rpRqwlViZqUyb1WKcL6pM9Nklx_mISZR2BttoBxMq8w6Z87rf3Stm37ZbcRbAYM0SQeEJqg0T8dc2KsrX1a9l95B7/s1600/cisco-flaw.jpg"
+  },
+  {
+    "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
+    "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 16 Jun 2026 11:11:52 +0530",
+    "timestamp": 1781588512.0,
+    "isoDate": "2026-06-16T05:41:52+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhweJrEaMuAEZCtL6h2H2XMxWOMGzKSktYq9kDvwXAGvIAt39-gz3irXruUA0KVSSupFdIh13o2F5quHfout07-tOHYK334xgNwRq5WcVbfyL5T1i-jYVCGLuVksBYExOncAm72ZuyRacuSG8a1ssx6jrxN8WcQ5Q91gYN3MYh-rWcY_86jVcbvZJbabPR1/s1600/litespeed.jpg"
+  },
+  {
     "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
     "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
     "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research serve…",
@@ -295,38 +328,5 @@
     "timestamp": 1781177400.0,
     "isoDate": "2026-06-11T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJQm5XK5zijXnauJNV2_6v7g0bNYcdYLA-SuZZHbWZgQWB523V2Z7IgfYMu16QIc-JHnMg_8dXFY-TJ4dK9FpU4iAn2-8S4mE_ZE3M-z2XITVq6X2hF0e5Ngq33PcyeYSOlDceniRcY98Y8JNQwI5MWYbEor7h-h4kQLvaoeQ0OvJmg-UZTG82dv9nZI/s1600/ai-broke.jpg"
-  },
-  {
-    "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-    "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-    "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 11 Jun 2026 15:15:58 +0530",
-    "timestamp": 1781171158.0,
-    "isoDate": "2026-06-11T09:45:58+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WExeCWTOdaaW7iQfV9dxGz0_rzPShImjBUQfoeRsJeTLg09lrGsSEgA2k05q-weIqQaQ_VVP25lTObup7E0xtcnxj3AtK1HHkNIAkI_hykxraL74qXTPwCRlRCdTB3S5QJO-e2j5zPGxgvCBg9SyRFl9QD2gwVtOqgg3eNF7_ZXGI9JgFSE4LGPjwoS3/s1600/cyberattacks.jpg"
-  },
-  {
-    "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-    "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-    "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm in…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 11 Jun 2026 11:53:03 +0530",
-    "timestamp": 1781158983.0,
-    "isoDate": "2026-06-11T06:23:03+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yyoUTLr71Ug2Ge0R7qFSnlGjB3TzlrQ-2NDR5jpPSBjivUSxhxRV1eCg5E6Af15RbJLZpqg9Ohp9ZW9YC9D2oc3VcHrNYQetavvvarn-Pn1P4VWnMw2C-hXbFgplFW9O8pe-zSP9ABGkkR-LM8hhu370dXMgeV-TGQT2p9N7hd7Friim3UkdK5FfyHHp/s1600/npm-github.jpg"
-  },
-  {
-    "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
-    "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
-    "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devic…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 10 Jun 2026 21:38:42 +0530",
-    "timestamp": 1781107722.0,
-    "isoDate": "2026-06-10T16:08:42+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQC0_BYMuNpY7re4OHHsytEfC6fW3KsonxN6e2X0Dj03fJoMazI6EZnvPj_hOUZ99yJLq6RrH3ZSCsfDWOB6AgDJVk_1LY5TzgSpP7QFKcI_grjRI7Pm9QGputoI0LM4LH8ZCOAVb_PnzXAs_bMP6n_3u__fPEmxEKVUv5ZZjG5vOJT_fmhvAy551gjCmi/s1600/bot.png"
   }
 ]
