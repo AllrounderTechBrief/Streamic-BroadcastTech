@@ -1,5 +1,16 @@
 [
   {
+    "title": "Low Water at San Carlos Reservoir",
+    "link": "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/",
+    "summary": "Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 17 Jun 2026 04:01:00 +0000",
+    "timestamp": 1781668860.0,
+    "isoDate": "2026-06-17T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/low-water-at-san-carlos-reservoir/az_sancarlosres_oli_20230607.jpg"
+  },
+  {
     "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
     "link": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/",
     "summary": "One well-done gas giant, coming right up! That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweep…",
@@ -449,17 +460,6 @@
     "timestamp": 1781582460.0,
     "isoDate": "2026-06-16T04:01:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/nebraska’s-wide,-rolling-domain/nebraskasandhillswide_oli_20250819.jpg?w=1440&h=1600&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Explore JPL to Take Place Oct. 10, 11",
-    "link": "https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/",
-    "summary": "Celebrating its 90th anniversary this year, NASA’s Jet Propulsion Laboratory invites the public to its campus at the base of the San Gabriel Mountains in Southern California for an open-house event, Explore JPL. On Oct. 10 and 11, from 9:30…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 16 Jun 2026 00:34:34 +0000",
-    "timestamp": 1781570074.0,
-    "isoDate": "2026-06-16T00:34:34+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/misc-jpl-space-heros-2-original.png?w=1920"
   },
   {
     "title": "More Story. Less Setup. This Is PIERO 21.0",
