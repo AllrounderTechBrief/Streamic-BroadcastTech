@@ -1,5 +1,27 @@
 [
   {
+    "title": "Sony Marketing Inc. built Cloud-based live video production for sports events with AWS Elemental MediaConnect Router",
+    "link": "https://aws.amazon.com/blogs/media/cloud-based-live-video-production-for-sports-events-with-aws-elemental-mediaconnect-router/",
+    "summary": "In this post, we walk through how Sony extended their on-premises video production environment into the cloud, and how AWS Elemental MediaConnect Router solved a key technical constraint that made the hybrid architecture possible.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 17 Jun 2026 21:14:32 +0000",
+    "timestamp": 1781730872.0,
+    "isoDate": "2026-06-17T21:14:32+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-System-architecture-showing-MediaConnect-Router.png"
+  },
+  {
+    "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
+    "link": "https://blog.cloudflare.com/agents-platform-flue-sdk/",
+    "summary": "The Agents SDK is now a runtime any agent framework can build on. Today we're opening up the Agents SDK primitives, with Flue as a first framework targeting Agents SDK, and rolling out agents in the dashboard.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 17 Jun 2026 19:35:00 GMT",
+    "timestamp": 1781724900.0,
+    "isoDate": "2026-06-17T19:35:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5U50mjNZpg7RD3fb0pOLLs/5e20ad63c1e6ab92cf5d334b79996c1a/image5.png"
+  },
+  {
     "title": "Introducing the Cloudflare One stack: agent-powered deployment",
     "link": "https://blog.cloudflare.com/cloudflare-one-stack/",
     "summary": "The Cloudflare One stack is a library of agent skills that gives any AI agent the knowledge it needs to plan, deploy, and manage a Zero Trust environment — no migration calls required.",
@@ -407,17 +429,6 @@
     "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/05/example-of-agentic-bot-helping-Bitmovin-customers.png"
   },
   {
-    "title": "Building for the future",
-    "link": "https://blog.cloudflare.com/building-for-the-future/",
-    "summary": "This afternoon, we sent the following email to our global team. One of our core values at Cloudflare is transparency, and we believe it's important that you hear this directly from us because it’s a major moment at Cloudflare.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 07 May 2026 20:15:12 GMT",
-    "timestamp": 1778184912.0,
-    "isoDate": "2026-05-07T20:15:12+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "WNBA Inside the Game, powered by AWS: AI Meets the Next Era of Women’s Basketball",
     "link": "https://aws.amazon.com/blogs/media/wnba-inside-the-game-powered-by-aws-ai-meets-the-next-era-of-womens-basketball/",
     "summary": "In this blog post, learn how WNBA Inside the Game powered by Amazon Web Services (AWS) is bringing its AI-powered basketball intelligence platform to the WNBA for the first time, giving fans, broadcasters, and teams a deeper, more precise u…",
@@ -537,16 +548,5 @@
     "timestamp": 1775049090.0,
     "isoDate": "2026-04-01T13:11:30+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
-  },
-  {
-    "title": "How Sony Pictures Networks India Delivered Personalized Ad Insertion at Scale on AWS",
-    "link": "https://aws.amazon.com/blogs/media/how-sony-pictures-networks-india-delivered-personalized-ad-insertion-at-scale-on-aws/",
-    "summary": "Sony Pictures Network India (SPNI) runs Sony LIV, which is one of the leading popular over-the-top (OTT) video-streaming platform in India. The content offering includes original and acquired TV shows and films, alongside live sporting even…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 16 Mar 2026 14:04:47 +0000",
-    "timestamp": 1773669887.0,
-    "isoDate": "2026-03-16T14:04:47+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/13/AsiaCup-SSAI.drawio.png"
   }
 ]

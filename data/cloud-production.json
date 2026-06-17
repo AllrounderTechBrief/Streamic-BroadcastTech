@@ -1,5 +1,16 @@
 [
   {
+    "title": "Sony Marketing Inc. built Cloud-based live video production for sports events with AWS Elemental MediaConnect Router",
+    "link": "https://aws.amazon.com/blogs/media/cloud-based-live-video-production-for-sports-events-with-aws-elemental-mediaconnect-router/",
+    "summary": "In this post, we walk through how Sony extended their on-premises video production environment into the cloud, and how AWS Elemental MediaConnect Router solved a key technical constraint that made the hybrid architecture possible.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 17 Jun 2026 21:14:32 +0000",
+    "timestamp": 1781730872.0,
+    "isoDate": "2026-06-17T21:14:32+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-System-architecture-showing-MediaConnect-Router.png"
+  },
+  {
     "title": "Inside the AWS NBA Draft Combine Hub: How AWS turned decades of prospect data into a new fan experience",
     "link": "https://aws.amazon.com/blogs/media/inside-the-aws-nba-draft-combine-hub-how-aws-turned-decades-of-prospect-data-into-a-new-fan-experience/",
     "summary": "This blog discusses how the Amazon Web Services (AWS) NBA Draft Combine gives teams one of their first concentrated looks at the next generation of NBA talent. Over several days, prospects undergo a wide range of basketball activities and e…",
@@ -207,16 +218,5 @@
     "timestamp": 1775049090.0,
     "isoDate": "2026-04-01T13:11:30+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
-  },
-  {
-    "title": "How Sony Pictures Networks India Delivered Personalized Ad Insertion at Scale on AWS",
-    "link": "https://aws.amazon.com/blogs/media/how-sony-pictures-networks-india-delivered-personalized-ad-insertion-at-scale-on-aws/",
-    "summary": "Sony Pictures Network India (SPNI) runs Sony LIV, which is one of the leading popular over-the-top (OTT) video-streaming platform in India. The content offering includes original and acquired TV shows and films, alongside live sporting even…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 16 Mar 2026 14:04:47 +0000",
-    "timestamp": 1773669887.0,
-    "isoDate": "2026-03-16T14:04:47+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/13/AsiaCup-SSAI.drawio.png"
   }
 ]
