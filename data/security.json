@@ -1,5 +1,49 @@
 [
   {
+    "title": "The Top 10 Attack Surface Exposures in 2026",
+    "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
+    "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credent…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 17 Jun 2026 16:00:00 +0530",
+    "timestamp": 1781692200.0,
+    "isoDate": "2026-06-17T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM2DfFAWIuQ6v6hyh32CXcT_wKU72aTUxixyWIcnjW04ydv40r8RtVXjDrxKJzksW6zzqYciPMxgYAwcDGRz8kahhZVZXoi0FySWg5o8LpWo_KkHdX4wRX4Qgk6ONxHqyb7_cF5TN5qQp-9B4hOQpB3WljI8sDbHMlOh6n2jyTjV30kxC-ccJVJHu4bTs/s1600/INTRUDER.jpg"
+  },
+  {
+    "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+    "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+    "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin pose…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 17 Jun 2026 15:08:46 +0530",
+    "timestamp": 1781689126.0,
+    "isoDate": "2026-06-17T09:38:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg"
+  },
+  {
+    "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+    "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
+    "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software su…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 17 Jun 2026 13:08:24 +0530",
+    "timestamp": 1781681904.0,
+    "isoDate": "2026-06-17T07:38:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKLWn0zHFuJ8rkb2bqILIyAGxt_-VJ13Ytmv1TRWtGJkI6Rva5Oag5LdLasE2rmenokuRvoEI2wH0Ayfe_P4_5q1Qc5FQ2MrQgUHrgD9wY6DTlYugAtj8CP7Fh0OPjKkU5LbeRKWvPEh0Ol0CmLTe4QVayeZiNlVFvU7MO5tWl-b8Lbn80hKd45q9Z1yOd/s1600/npms.jpg"
+  },
+  {
+    "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+    "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 17 Jun 2026 11:20:46 +0530",
+    "timestamp": 1781675446.0,
+    "isoDate": "2026-06-17T05:50:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisS71RYEu_1Sts3eqAt878RoohdLgeUzyTbRQgFqUYQcwBxzKB1ug6AvOBRXqZvWcChuLVj6KFbIt7nO9RX66ZJZyMEIADvIXe-fdNDrQIYXGtcMt3StDzbK4lF9ZLpF9pqCR1cGEa4lLkFFRVqIyD5w0JqwhVgr-C9ga7pZ6IQWpFmbsojcsGePBnzsGW/s1600/joomla.jpg"
+  },
+  {
     "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
     "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
     "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, whic…",
@@ -284,49 +328,5 @@
     "timestamp": 1781262000.0,
     "isoDate": "2026-06-12T11:00:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcSO1M2s73CaiGKZFJVtCmNoDLgv7Z8_riezdl0vJM2-CIo-aB-rqQONkesvFJ6Rnkj9ZtfGS3eeaNkPHZ9E7RKvQODONxx2JfobEpuppKWkRrylmsptDxYs0Z2NzM_zFsPsjvdHETu0Tvmwc3NGmcdgyGeHfDdkENcQLm_m07WdrsZcHmHzst-gSbGUkb/s1600/info.jpg"
-  },
-  {
-    "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-    "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-    "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 12 Jun 2026 15:20:36 +0530",
-    "timestamp": 1781257836.0,
-    "isoDate": "2026-06-12T09:50:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifnUd6CRFC-YdhoEDgmNoLtKUYjbZvqQJOETqK59Zd5Pk_epd9uGMfPCrujB3grOrajNxMls_p7TWQwnyCxFo1Ou8MM70yUh3dP04776sp-xk3O8544Z9YD-v_konqCTv1eX_42iMBkr4j5c-h0_I5dyBWvrr_3jrphGH3xLcZgaDAN1uH8OA5rWerJE5B/s1600/langgraph.jpg"
-  },
-  {
-    "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
-    "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
-    "summary": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday. The effort, codenamed Operation Ramz, took place between October 2025 and February 2…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 12 Jun 2026 14:22:55 +0530",
-    "timestamp": 1781254375.0,
-    "isoDate": "2026-06-12T08:52:55+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcWT1xHrfFw79S9Oy4jvo4Uw-tcziRPU4yzf1sySQQHWcn2S1Q-ke0f75hujKSNOkS375t93N6FrNzo0JXtXBm4lmsk4DQxVQyb8WVWOrQ2QSVBTMKjOexXV5394bYytXtS6putjNb8A0hqLqu7uvuKhGarI8TmwaxtxJebZJJDu6sEP17k6ic0tPSFiB/s1600/phish.jpg"
-  },
-  {
-    "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-    "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-    "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 12 Jun 2026 12:08:41 +0530",
-    "timestamp": 1781246321.0,
-    "isoDate": "2026-06-12T06:38:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Of2v3fH68mBon8j-FkHg2vnpmDnEko0AOFIqTz07PQRxQdYgAO78dWxylFMVzJT4Z4Q8WI88zsOr6mRyBIW1Ym4gVAE21meQ3GqosaIn9f6i8u2bIuiq9Nn-pa0vYFqLK1Cy_evX4KEP_lfBD9UlmiqAl9SDjuXWbRTe8pnDnFDwgiMXEFcHi5lvDryQ/s1600/dark2web.jpg"
-  },
-  {
-    "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-    "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-    "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 12 Jun 2026 01:59:23 +0530",
-    "timestamp": 1781209763.0,
-    "isoDate": "2026-06-11T20:29:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpNcbfulhruio1VSh8OPKOjdx3gvP-Chg8OjSm7LZeVK2GaVR-osKeoQjO9e1_56Dtedmlisu76lYc70Wv5I1efqJcs2uh1RnbKJOITEcqcJoN-8PhNfmzAeLkDrST8Kg3qTbqE8wUrOd4jxE-gMi-vKN1B8W2zgY0ymFTtip79RVltY9J3QmXrAOJa4H/s1600/shinyHunters-universities.jpg"
   }
 ]
