@@ -1,5 +1,16 @@
 [
   {
+    "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
+    "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
+    "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he install…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 17 Jun 2026 21:30:56 +0530",
+    "timestamp": 1781712056.0,
+    "isoDate": "2026-06-17T16:00:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN4ptzzF7u-dzNyOc4F1HsCUbEszvkkeD1ZVl7MHQNXXcUtgqb40Wgodu3aj61QDzaNsX0eJjRDGK1eNJLCbud-4iWHJjnpHPuCfTak2m9UydSW4DEJErr5L2V_KwD39P__6iVxgaOhH8mYtY2LhPFnyCavP8eJ_1N3QpGo4NkZaFJYVRc-LX0droem8Q/s1600/cyber.jpg"
+  },
+  {
     "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
     "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
     "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin pose…",
@@ -317,16 +328,5 @@
     "timestamp": 1781288275.0,
     "isoDate": "2026-06-12T18:17:55+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJqmKAQv_I_7JkmQwoIVSx2BkRPUEb9TTNOd2RkNqTg3tcLyZszN8KiXfUUeIBSPSoxjzMAn2inE6TL791l5B_CbQaHqG708c2tgN-kSUmz_fTuewdcrWHS8u-xdWKIr6fEhx2W7_JDszsJ1oXO9v47JxU81490QKz0ZRL2OOFoljevoD8f6OMozfMZU/s1600/linux-backdoor.jpg"
-  },
-  {
-    "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-    "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-    "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack c…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 12 Jun 2026 17:34:33 +0530",
-    "timestamp": 1781265873.0,
-    "isoDate": "2026-06-12T12:04:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-B-d2AZdbTGExalcZiBwa9fNa999-EQ1GrAeytHP6tpnC3WmKL4IcKV5voUs-MRq5WGVwwf2NFPyJxdJUPlgzBL8huaGFqRbXgR_qPOSh-5Ef2oZz8E2H38ZMjVipV7XyXpefY2PgDlWomgJ4RW6YJ4Z3tYMGRQh2z8xwpvOa9_LQWHT706ZCvKpaBxP/s1600/Agentjacking.jpg"
   }
 ]
