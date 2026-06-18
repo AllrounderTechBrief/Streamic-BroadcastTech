@@ -1,5 +1,27 @@
 [
   {
+    "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
+    "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
+    "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI too…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 18 Jun 2026 17:28:00 +0530",
+    "timestamp": 1781783880.0,
+    "isoDate": "2026-06-18T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nqjviAfaPP-eOuhtQKNwdvOGLaN-rOmxVnoQPMOruaJvDcw5rsCi-kIKxAhOpxjCggRXt7bfwyRAKMzVKdwIPlRAJpXLl4OReBnbVtOSZYGS4Bsf9EvU71bMIkWdpDwjydNWe22WCdjgqX6b_TrPtXptekJc3N8BH5m56-wauHl5KX0DePQmv2gIoNks/s1600/webinar.jpg"
+  },
+  {
+    "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
+    "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
+    "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here → When a customer types their card number into your checkout, their browser is running far more than your code…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 18 Jun 2026 16:30:00 +0530",
+    "timestamp": 1781780400.0,
+    "isoDate": "2026-06-18T11:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHJHzi-rQqSIiD4wXw_HQpgvXGNTNgvJnxt42OupMrchYSmQPyeXbtsuH62zLqPHDq3bywvirdcqKSq9VQ-pZyL02RAw2IYYh1f4qcpUH4NZu50XLSDsQSSYvyqMAEwSN-8PQMcpwXZMtLC_pVYzqZMYm7qkygfMQeZEIHVWpIkYfUifJvX3oUMSBs3w0/s1600/reflectiz.jpg"
+  },
+  {
     "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
     "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
     "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedi…",
@@ -306,27 +328,5 @@
     "timestamp": 1781356983.0,
     "isoDate": "2026-06-13T13:23:03+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg"
-  },
-  {
-    "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-    "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
-    "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 13 Jun 2026 11:12:50 +0530",
-    "timestamp": 1781329370.0,
-    "isoDate": "2026-06-13T05:42:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitE4uRkPKzQw_uUTSEzPgbuTByOaSNQeEHcANQCdYOtD8HJxqjIy9e0TIkkYeMN5QQghbvb1Nc4RJdwpGUD4ttQ8FqBpDAIMBe5Biw4zXIF-iYgl-vZPCGL1b5VNZpajQ8_cCPj7jx0DFABYuXLpyHYUSOe3jBKPsSej0y7TxrIHZwG_4m56TrDdTS9Ap1/s1600/Anthropic-claude.jpg"
-  },
-  {
-    "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-    "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-    "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer s…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 13 Jun 2026 01:03:25 +0530",
-    "timestamp": 1781292805.0,
-    "isoDate": "2026-06-12T19:33:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg"
   }
 ]
