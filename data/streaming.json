@@ -1,5 +1,16 @@
 [
   {
+    "title": "Celebrating 12 years of Project Galileo",
+    "link": "https://blog.cloudflare.com/celebrating-12-years-of-project-galileo/",
+    "summary": "To mark the 12th anniversary of Project Galileo, Cloudflare has released its first comprehensive report analyzing cyberattacks against civil society.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 18 Jun 2026 13:00:00 GMT",
+    "timestamp": 1781787600.0,
+    "isoDate": "2026-06-18T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5zpBBx4zy05RzFxIgPaU0e/387446f9439c2d4a5c39a9bb4bf69151/image1.jpg"
+  },
+  {
     "title": "Sony Marketing Inc. built Cloud-based live video production for sports events with AWS Elemental MediaConnect Router",
     "link": "https://aws.amazon.com/blogs/media/cloud-based-live-video-production-for-sports-events-with-aws-elemental-mediaconnect-router/",
     "summary": "In this post, we walk through how Sony extended their on-premises video production environment into the cloud, and how AWS Elemental MediaConnect Router solved a key technical constraint that made the hybrid architecture possible.",
@@ -405,17 +416,6 @@
     "timestamp": 1778677200.0,
     "isoDate": "2026-05-13T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3eIJK055QLIl3ay12TIhfQ/9d988169efadb16cb5b18b539b62aa55/image3.png"
-  },
-  {
-    "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
-    "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-    "summary": "We investigated a bug where CUBIC's congestion window became pinned at its minimum floor, causing a performance to plummet. The fix involved correctly measuring idle periods to distinguish RTT wait times from actual application idleness.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 12 May 2026 13:00:00 GMT",
-    "timestamp": 1778590800.0,
-    "isoDate": "2026-05-12T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2f9eyD4uXGCNm7Ni7yHhLB/55f2b686d474173dca610fa74796299d/BLOG-3273_image5.png"
   },
   {
     "title": "Agentic AI in Customer Support: Building a Multi-Agent Support System at Bitmovin",
