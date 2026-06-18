@@ -1,5 +1,27 @@
 [
   {
+    "title": "El Niño Is Underway",
+    "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
+    "summary": "Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 18 Jun 2026 04:00:00 +0000",
+    "timestamp": 1781755200.0,
+    "isoDate": "2026-06-18T04:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608.jpg?w=1440&h=1090&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA Announces Public-Private Partnership to Advance Mars Science",
+    "link": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
+    "summary": "NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payl…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 17 Jun 2026 22:29:09 +0000",
+    "timestamp": 1781735349.0,
+    "isoDate": "2026-06-17T22:29:09+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc00375-002.jpeg?w=2048"
+  },
+  {
     "title": "Dow Drops 507, Nasdaq Sinks 355, S&P 500 Loses 91",
     "link": "https://tvnewscheck.com/business/article/dow-drops-507-nasdaq-sinks-355-sp-500-loses-91/",
     "summary": "U.S. stocks sink Wednesday on worries about a possible hike to interest rates this year by the Federal Reserve. The post Dow Drops 507, Nasdaq Sinks 355, S&P 500 Loses 91 appeared first on TV News Check.",
@@ -9,6 +31,17 @@
     "timestamp": 1781727720.0,
     "isoDate": "2026-06-17T20:22:00+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Search for Hidden Cosmic Companions in Sun’s Backyard",
+    "link": "https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/",
+    "summary": "Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s a…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 17 Jun 2026 19:40:03 +0000",
+    "timestamp": 1781725203.0,
+    "isoDate": "2026-06-17T19:40:03+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/06/STScI-01KTQRQV4XDP5XZRVJT8KB2MFA.jpg?w=3840&h=2160&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Harmonic Completes Divestiture Of Video Business to MediaKind",
@@ -209,6 +242,17 @@
     "imageUrl": ""
   },
   {
+    "title": "Hubble Sees Swarm of Galaxies",
+    "link": "https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/",
+    "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the st…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 17 Jun 2026 14:56:13 +0000",
+    "timestamp": 1781708173.0,
+    "isoDate": "2026-06-17T14:56:13+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/macs0329-0211-sky-sreg-flat-final.jpg?w=2048"
+  },
+  {
     "title": "Spectrum News Launches Statewide Tennessee Network",
     "link": "https://tvnewscheck.com/journalism/article/spectrum-news-launches-statewide-tennessee-network/",
     "summary": "The network will air local headlines every 15 minutes and hyperlocal weather forecasts every 10 minutes on the 1s, the company said. The channel is also available on Xumo Stream Box, Roku and Apple TV. The post Spectrum News Launches Statew…",
@@ -328,6 +372,72 @@
     "timestamp": 1781692549.0,
     "isoDate": "2026-06-17T10:35:49+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Low Water at San Carlos Reservoir",
+    "link": "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/",
+    "summary": "Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 17 Jun 2026 04:01:00 +0000",
+    "timestamp": 1781668860.0,
+    "isoDate": "2026-06-17T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/low-water-at-san-carlos-reservoir/az_sancarlosres_oli_20230607.jpg"
+  },
+  {
+    "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
+    "link": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/",
+    "summary": "That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 16 Jun 2026 21:15:00 +0000",
+    "timestamp": 1781644500.0,
+    "isoDate": "2026-06-16T21:15:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/06/STScI-01KTQRQV4XDP5XZRVJT8KB2MFA.jpg?w=3840&h=2160&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab",
+    "link": "https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/",
+    "summary": "Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 16 Jun 2026 20:41:29 +0000",
+    "timestamp": 1781642489.0,
+    "isoDate": "2026-06-16T20:41:29+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26725/PIA26725.jpg?w=8256&h=5504&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation",
+    "link": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/",
+    "summary": "Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 16 Jun 2026 17:15:00 +0000",
+    "timestamp": 1781630100.0,
+    "isoDate": "2026-06-16T17:15:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/06/STScI-01KTV7RPWZFWRPJZGXFCJHC3SQ.png?w=4144&h=3031&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade",
+    "link": "https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/",
+    "summary": "Astronauts aboard the International Space Station have switched on NASA’s newly upgraded Cold Atom Lab, a one-of-a-kind facility designed to improve how scientists explore the fundamental workings of matter and develop new quantum technolog…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 16 Jun 2026 16:50:40 +0000",
+    "timestamp": 1781628640.0,
+    "isoDate": "2026-06-16T16:50:40+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/1-pia26725-astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab-1.jpg?w=2048"
+  },
+  {
+    "title": "NASA Uses Machine Learning to Enhance Flash Flood Warnings",
+    "link": "https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/",
+    "summary": "The Transient Artifact and Continuous Learning System (TACLS) leverages data from continuously operating satellite networks coupled with machine learning models to help meteorologists at the National Weather Service forecast flash floods mo…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 16 Jun 2026 15:23:02 +0000",
+    "timestamp": 1781623382.0,
+    "isoDate": "2026-06-16T15:23:02+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/Bock_Image_1a.jpg?w=720&h=600&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Why newsroom workflows are breaking under digital-first pressure",
