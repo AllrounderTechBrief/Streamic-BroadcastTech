@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+    "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+    "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a cas…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 19 Jun 2026 12:06:09 +0530",
+    "timestamp": 1781850969.0,
+    "isoDate": "2026-06-19T06:36:09+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvlr0i44MWKmuHJKLS1V3uKSMse7tVsRFBTpyD1VGLaRZy24qq4bIb6K3Db1s0eKtuh3TkLCYFWn6eJ-uEkVnkO9CbPHHUlD3j8Z-SEFFr9A1X6ndd-fQd6UKTAyXO0DhUI2ZTe1sc4Eq7NLoGUyjQUkKmhHp99QGz3WTcFAnucAnfiioLDFiGaTbI8Wvx/s1600/apple.jpg"
+  },
+  {
     "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
     "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
     "summary": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed below - CVE-2026-42530 (CVSS v4 score: 9.2) -…",
@@ -35,7 +46,7 @@
   {
     "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
     "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-    "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026. \"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor pro…",
+    "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide …",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Thu, 18 Jun 2026 20:00:42 +0530",
@@ -233,7 +244,7 @@
   {
     "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
     "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-    "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email con…",
+    "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver a new malware called NarwhalRAT. \"The attack ema…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Tue, 16 Jun 2026 13:44:55 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1781531369.0,
     "isoDate": "2026-06-15T13:49:29+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdohah5P1Lv9egIZCwwxpEdcV4phYigmhvgzB3ulDhSeeffe4qDsVoowrzaTD6WsgwyjKIdJ_vzvnsUJ78zn5oxOl83qUj5ie8NN_MF8pMbdcikrPpV9vAUgm-7NLOztqN17uTx-dktpkgcQSFrmulSyCtE3MCGHOe5yQRVDFbsrx0DUjoHTa76k4Oos/s1600/thn-recap.jpg"
-  },
-  {
-    "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
-    "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
-    "summary": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means sharing a temporary \"first-day\" password so employees can ac…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 15 Jun 2026 17:00:00 +0530",
-    "timestamp": 1781523000.0,
-    "isoDate": "2026-06-15T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDj2pDJr4F9HBYmRTjOtetTz0h0vViw1lMZp6N0YAS5bGKv8ELJ1hjEcSffQg4xCTqhpIEkLchZxDXn-JNCQdUELSWNW5FcfHceLFvjAvVFXNJq5tClyqJ4onrgYp4lX3axgc2u0QU_k9MQoyjLfZt1RV3ZPapqVaZXrJy6H2wn4dw1dYWS1S4iou-dDI/s1600/outpost24.jpg"
   }
 ]
