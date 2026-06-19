@@ -1,5 +1,38 @@
 [
   {
+    "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+    "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+    "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No sof…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 20 Jun 2026 00:07:41 +0530",
+    "timestamp": 1781894261.0,
+    "isoDate": "2026-06-19T18:37:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg"
+  },
+  {
+    "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+    "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+    "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryp…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 20 Jun 2026 00:03:07 +0530",
+    "timestamp": 1781893987.0,
+    "isoDate": "2026-06-19T18:33:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1600/edr-killer.jpg"
+  },
+  {
+    "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+    "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+    "summary": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 19 Jun 2026 21:00:47 +0530",
+    "timestamp": 1781883047.0,
+    "isoDate": "2026-06-19T15:30:47+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wJOg5Y5vAn_dM0DcIB6SwV2B34iO0H-moeyuWLJ_DF1KgEEZMBGtKPDXYk0pL4wclWbnSmOB74sqReSZoGI2_SwUSzKSscUxEdvuJFx_sCIfU7UplU2k5s4UA0cOVAZT_s80PDTek6OGfrsnE8f6QxrQU58rBqPiuk_J__Yja3YNzZLzd-6s8Ji1PBhc/s1600/agent.jpg"
+  },
+  {
     "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
     "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
     "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions…",
@@ -295,38 +328,5 @@
     "timestamp": 1781603074.0,
     "isoDate": "2026-06-16T09:44:34+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxym2hiE83TbiNOrIeH3s4QCF0wQ_BYcSYPKlC3m9LGSuJnH7UNicbkgIk4kQTbpPiLRul9dSxQ180XW656_9NPtlqWoTGivTamDVl24ZfUQFPgUleakZq6aZI5kZqszNz3GpVyJQnPiXis_kjlMqAxKBxGKZsDdAvb-rX20fxszdd0pCKRO9GqK3CSu-p/s1600/chinese-proxy.png"
-  },
-  {
-    "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-    "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-    "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver a new malware called NarwhalRAT. \"The attack ema…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 16 Jun 2026 13:44:55 +0530",
-    "timestamp": 1781597695.0,
-    "isoDate": "2026-06-16T08:14:55+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Lf-lxaztGp4Ov5_hu7TmA6AEoqhh2oBADVLVEbA1HTzmsAyX9ePZtZvvBlBzNym1RiifCmOnb-pf604J7plqPdarQxnW-m6Ds0Wi-kT1Ytqm1KlGsf4hWmL8YPa17MXv4yxcEN0CwkA_9qwbEGn74XdX4Y0J4t1rR3oflfW5cpy2tXo65kVMFI3oRFxr/s1600/ms-alert.jpg"
-  },
-  {
-    "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-    "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-    "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 16 Jun 2026 11:35:58 +0530",
-    "timestamp": 1781589958.0,
-    "isoDate": "2026-06-16T06:05:58+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-vJIadGle0Cre1cNAxZIcD9ktkl1mPnUwtEtF1xuMbeH75BnvGq3twL0W2OowYW7ZZMxvzMjdbU-VMEZfEvV1q2pTIoG8VU_D0d_rpRqwlViZqUyb1WKcL6pM9Nklx_mISZR2BttoBxMq8w6Z87rf3Stm37ZbcRbAYM0SQeEJqg0T8dc2KsrX1a9l95B7/s1600/cisco-flaw.jpg"
-  },
-  {
-    "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-    "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 16 Jun 2026 11:11:52 +0530",
-    "timestamp": 1781588512.0,
-    "isoDate": "2026-06-16T05:41:52+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhweJrEaMuAEZCtL6h2H2XMxWOMGzKSktYq9kDvwXAGvIAt39-gz3irXruUA0KVSSupFdIh13o2F5quHfout07-tOHYK334xgNwRq5WcVbfyL5T1i-jYVCGLuVksBYExOncAm72ZuyRacuSG8a1ssx6jrxN8WcQ5Q91gYN3MYh-rWcY_86jVcbvZJbabPR1/s1600/litespeed.jpg"
   }
 ]
