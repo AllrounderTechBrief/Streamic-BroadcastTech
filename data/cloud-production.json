@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "title": "Sony Marketing Inc. built Cloud-based live video production for sports events with AWS Elemental MediaConnect Router",
+    "link": "https://aws.amazon.com/blogs/media/cloud-based-live-video-production-for-sports-events-with-aws-elemental-mediaconnect-router/",
+    "summary": "In this post, we walk through how Sony extended their on-premises video production environment into the cloud, and how AWS Elemental MediaConnect Router solved a key technical constraint that made the hybrid architecture possible.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 17 Jun 2026 21:14:32 +0000",
+    "timestamp": 1781730872.0,
+    "isoDate": "2026-06-17T21:14:32+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-System-architecture-showing-MediaConnect-Router.png"
+  },
+  {
+    "title": "Inside the AWS NBA Draft Combine Hub: How AWS turned decades of prospect data into a new fan experience",
+    "link": "https://aws.amazon.com/blogs/media/inside-the-aws-nba-draft-combine-hub-how-aws-turned-decades-of-prospect-data-into-a-new-fan-experience/",
+    "summary": "This blog discusses how the Amazon Web Services (AWS) NBA Draft Combine gives teams one of their first concentrated looks at the next generation of NBA talent. Over several days, prospects undergo a wide range of basketball activities and e…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 15 Jun 2026 20:34:58 +0000",
+    "timestamp": 1781555698.0,
+    "isoDate": "2026-06-15T20:34:58+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/12/NBA-Draft-image-1.png"
+  },
+  {
+    "title": "Using AWS Elemental Inference with MediaLive",
+    "link": "https://aws.amazon.com/blogs/media/using-aws-elemental-inference-with-medialive/",
+    "summary": "In this post, I show you how to enable Elemental Inference on an AWS Elemental MediaLive channel and use the Smart Crop (vertical video) feature to automatically convert landscape broadcast content into vertical 9:16 format.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 12 Jun 2026 17:55:21 +0000",
+    "timestamp": 1781286921.0,
+    "isoDate": "2026-06-12T17:55:21+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-Solution-architecture-_-elemental-inference.png"
+  },
+  {
+    "title": "How FOX fuels innovation with AI on AWS",
+    "link": "https://aws.amazon.com/blogs/media/how-fox-fuels-innovation-with-ai-on-aws/",
+    "summary": "Learn how by partnering with Amazon Web Services (AWS), FOX transformed how news, sports, and entertainment content gets created, produced and distributed. FOX consolidated into a unified cloud platform that now powers content operations ac…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 11 Jun 2026 18:05:56 +0000",
+    "timestamp": 1781201156.0,
+    "isoDate": "2026-06-11T18:05:56+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-The-FOX-One-highlights-experience.jpg"
+  },
+  {
+    "title": "Generate live subtitles with AWS Elemental Inference Smart Subtitles",
+    "link": "https://aws.amazon.com/blogs/media/generate-live-subtitles-with-aws-elemental-inference-smart-subtitles/",
+    "summary": "This post walks through what the feature does, how to enable it, and where it fits in a typical live streaming workflow.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 11 Jun 2026 13:02:55 +0000",
+    "timestamp": 1781182975.0,
+    "isoDate": "2026-06-11T13:02:55+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/09/Figure-1-Smart-Subtitles-process.png"
+  },
+  {
+    "title": "How Bedrock Streaming optimizes its AWS costs",
+    "link": "https://aws.amazon.com/blogs/media/how-bedrock-streaming-optimizes-its-aws-costs/",
+    "summary": "Learn how Bedrock Streaming hosts their solutions on Amazon Web Services (AWS) to serve major European broadcasters such as M6+, Videoland, and RTL+. With an AWS budget of several million dollars per year, each percentage point of optimizat…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 02 Jun 2026 23:34:15 +0000",
+    "timestamp": 1780443255.0,
+    "isoDate": "2026-06-02T23:34:15+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/01/Stacked-bar-chart-showing-monthly-Amazon-EC2-costs.png"
+  },
+  {
+    "title": "How Bundesliga built Captain, an AI agent for fans, using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/media/how-bundesliga-built-captain-an-ai-agent-for-fans-using-amazon-bedrock/",
+    "summary": "Learn more about Captain, an agentic AI companion built by Bundesliga Media and embedded inside the official Bundesliga app.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 01 Jun 2026 12:56:50 +0000",
+    "timestamp": 1780318610.0,
+    "isoDate": "2026-06-01T12:56:50+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/25/Figure-1_2.png"
+  },
+  {
+    "title": "Customize ad workflows with AWS Elemental MediaTailor Monetization Functions",
+    "link": "https://aws.amazon.com/blogs/media/customize-ad-workflows-with-aws-elemental-mediatailor-monetization-functions/",
+    "summary": "This post explains the framework and walks through an end-to-end example using LiveRamp identity enrichment.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 28 May 2026 12:25:36 +0000",
+    "timestamp": 1779971136.0,
+    "isoDate": "2026-05-28T12:25:36+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/27/Hook-reference-table1.png"
+  },
+  {
+    "title": "Monetize your live streams using Amazon IVS server-side ad insertion",
+    "link": "https://aws.amazon.com/blogs/media/monetize-your-live-streams-using-amazon-ivs-server-side-ad-insertion/",
+    "summary": "In this post, we show how you can monetize your live streams using Amazon IVS SSAI.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 21 May 2026 14:03:40 +0000",
+    "timestamp": 1779372220.0,
+    "isoDate": "2026-05-21T14:03:40+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/15/Amazon-IVS-SSAI-architecture-overview.png"
+  },
+  {
+    "title": "S4C on Freely: How a local broadcaster delivered a complex live TV workflow with AWS Elemental Media Services",
+    "link": "https://aws.amazon.com/blogs/media/s4c-on-freely-how-a-local-broadcaster-delivered-a-complex-live-tv-workflow-with-aws-elemental-media-services/",
+    "summary": "S4C has been the home of Welsh-language television since 1982. In its recent “digital first” strategy, the public service broadcaster describes itself as being “more than a TV channel,” and its mission is clear: to show the world through th…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 15 May 2026 19:08:47 +0000",
+    "timestamp": 1778872127.0,
+    "isoDate": "2026-05-15T19:08:47+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/30/video1_S4c.png"
+  },
+  {
+    "title": "Getting Started with Wait and Save service-managed fleets on AWS Deadline Cloud",
+    "link": "https://aws.amazon.com/blogs/media/getting-started-with-wait-and-save-service-managed-fleets-on-aws-deadline-cloud/",
+    "summary": "This post shows how to configure Wait and Save for service-managed fleets on Deadline Cloud to reduce CPU rendering costs.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 13 May 2026 14:00:18 +0000",
+    "timestamp": 1778680818.0,
+    "isoDate": "2026-05-13T14:00:18+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/04/Figure-1-Create-Queue.png"
+  },
+  {
+    "title": "WNBA Inside the Game, powered by AWS: AI Meets the Next Era of Women’s Basketball",
+    "link": "https://aws.amazon.com/blogs/media/wnba-inside-the-game-powered-by-aws-ai-meets-the-next-era-of-womens-basketball/",
+    "summary": "In this blog post, learn how WNBA Inside the Game powered by Amazon Web Services (AWS) is bringing its AI-powered basketball intelligence platform to the WNBA for the first time, giving fans, broadcasters, and teams a deeper, more precise u…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 07 May 2026 16:54:12 +0000",
+    "timestamp": 1778172852.0,
+    "isoDate": "2026-05-07T16:54:12+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "AWS Partners driving AI adoption and bringing the future to life for media and entertainment customers worldwide",
+    "link": "https://aws.amazon.com/blogs/media/aws-partners-driving-ai-adoption-and-bringing-the-future-to-life-for-media-and-entertainment-customers-worldwide/",
+    "summary": "As part of AWS’s Three Big Questions podcast series, leaders from AWS partners Thoughtworks, TwelveLabs, and LucidLink shared insights on the trends driving media and entertainment growth and innovation. Audience evolution Vishnu Nair and P…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 23 Apr 2026 17:45:59 +0000",
+    "timestamp": 1776966359.0,
+    "isoDate": "2026-04-23T17:45:59+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
+    "link": "https://aws.amazon.com/blogs/media/enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws/",
+    "summary": "Studios face a critical dilemma: AI tools promise to accelerate production workflows, but adopting them means confronting real concerns about security, intellectual property (IP) protection, and production stability. This post introduces a …",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 19 Apr 2026 18:37:00 +0000",
+    "timestamp": 1776623820.0,
+    "isoDate": "2026-04-19T18:37:00+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/17/Figure-1-EngineLab-AIs-project-management-interface.png"
+  },
+  {
+    "title": "MXL is the foundation. Here’s what it takes to build the house",
+    "link": "https://aws.amazon.com/blogs/media/mxl-is-the-foundation-heres-what-it-takes-to-build-the-house/",
+    "summary": "The Hard Part Isn’t the Technology Picture a college basketball game. Two teams, a few thousand fans in the arena, and a regional sports network that has promised its subscribers a live broadcast. The production team has done this before — …",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Fri, 17 Apr 2026 14:45:42 +0000",
+    "timestamp": 1776437142.0,
+    "isoDate": "2026-04-17T14:45:42+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
+    "link": "https://aws.amazon.com/blogs/media/distribute-ndi-content-from-aws-with-aws-elemental-mediaconnect/",
+    "summary": "In this post, learn how to build a demonstration of low-latency live NDI video conversion to a transport stream in the AWS Cloud with MediaConnect.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 14 Apr 2026 14:41:11 +0000",
+    "timestamp": 1776177671.0,
+    "isoDate": "2026-04-14T14:41:11+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/02/Figure-1-High-level-architecture_NDI.png"
+  },
+  {
+    "title": "Unlocking next generation audio production with MPEG-H on AWS",
+    "link": "https://aws.amazon.com/blogs/media/unlocking-next-generation-audio-production-with-mpeg-h-on-aws/",
+    "summary": "In this post, learn the implementation of cloud-based NGA production workflows using MPEG-H Audio on AWS. By combining Jünger Audio's audio processing expertise, MainConcept's encoding capabilities, Techex's stream processing platform, and …",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 12 Apr 2026 19:17:18 +0000",
+    "timestamp": 1776021438.0,
+    "isoDate": "2026-04-12T19:17:18+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/01/Figure-1-Solution-architecture-and-signal-workflow.png"
+  },
+  {
+    "title": "How NFL Next Gen Stats Built the NFL IQ AI Assistant with Amazon Quick",
+    "link": "https://aws.amazon.com/blogs/media/how-nfl-next-gen-stats-built-the-nfl-iq-ai-assistant-with-amazon-quick/",
+    "summary": "NFL IQ’s conversational approach to football data replaces tool navigation with natural conversation across stats, models, and team insights so fans get instant answers. Every NFL offseason runs on data. Player tracking from NFL Next Gen St…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 07 Apr 2026 12:23:23 +0000",
+    "timestamp": 1775564603.0,
+    "isoDate": "2026-04-07T12:23:23+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "AWS brings AI-powered scale to storytellers at NAB 2026",
+    "link": "https://aws.amazon.com/blogs/media/aws-brings-ai-powered-scale-to-storytellers-at-nab-2026/",
+    "summary": "NAB Show brings together the global media and entertainment community to explore new ideas and discover emerging tools, setting new trends for how stories are created, distributed, and monetized. At this year’s NAB, being held April 18-22, …",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 06 Apr 2026 21:16:39 +0000",
+    "timestamp": 1775510199.0,
+    "isoDate": "2026-04-06T21:16:39+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/06/header-blog.png"
+  },
+  {
+    "title": "Live streaming localization and accessibility using AWS Media Services",
+    "link": "https://aws.amazon.com/blogs/media/live-streaming-localization-and-accessibility-using-aws-media-services/",
+    "summary": "This blog post provides a comprehensive overview of current streaming technology for localization and accessibility. It helps you evaluate live streaming localization technology and choose cost-effective, proven, integrated, deployable, and…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 01 Apr 2026 13:11:30 +0000",
+    "timestamp": 1775049090.0,
+    "isoDate": "2026-04-01T13:11:30+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
+  }
+]
