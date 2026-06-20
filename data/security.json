@@ -145,7 +145,7 @@
   {
     "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
     "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-    "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide …",
+    "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign codenamed CryptoBandits that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor an…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Thu, 18 Jun 2026 20:00:42 +0530",
