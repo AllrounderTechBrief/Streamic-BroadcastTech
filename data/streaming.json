@@ -1,5 +1,16 @@
 [
   {
+    "title": "How we found a bug in the hyper HTTP library",
+    "link": "https://blog.cloudflare.com/hyper-bug/",
+    "summary": "By rearchitecting the Images binding, we accidentally uncovered a bug that existed in the open-source hyper library across multiple major versions.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 22 Jun 2026 18:00:00 GMT",
+    "timestamp": 1782151200.0,
+    "isoDate": "2026-06-22T18:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/25KzBWgTy4UfdPbzJOg1lO/9c179230f783e9012624a8a9d99b7dac/image4.png"
+  },
+  {
     "title": "Hackathon Spotlight: AI-Powered Ad Insertion Using Generative Video Models",
     "link": "https://bitmovin.com/blog/ai-powered-ad-insertion-generative-video-models/",
     "summary": "TL;DR Advertising in video has not changed much in decades. You watch content, it stops, an ad plays, and then your content resumes. For viewers, that interruption breaks immersion and trains people to tune out the moment a cut happens. For…",
@@ -394,17 +405,6 @@
     "timestamp": 1779195600.0,
     "isoDate": "2026-05-19T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6nYyreZYWyaKo6Xf2XjmtM/5cc21576a83e223a2cf67e8ed3fde928/image5.png"
-  },
-  {
-    "title": "Project Glasswing: what Mythos showed us",
-    "link": "https://blog.cloudflare.com/cyber-frontier-models/",
-    "summary": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look like b…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 18 May 2026 06:00:00 GMT",
-    "timestamp": 1779084000.0,
-    "isoDate": "2026-05-18T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5St6rLRq9wkuxwmLHZ88CV/b4eb948c917ef7f7b0028ccc8ec0aefe/image2.png"
   },
   {
     "title": "S4C on Freely: How a local broadcaster delivered a complex live TV workflow with AWS Elemental Media Services",
