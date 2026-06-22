@@ -1,5 +1,60 @@
 [
   {
+    "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+    "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+    "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-p…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 22 Jun 2026 19:59:46 +0530",
+    "timestamp": 1782138586.0,
+    "isoDate": "2026-06-22T14:29:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4IfKMjQxVhpOYdrcCC4ty0vlGBDg_qCZuuvSTvyVWXYPXQlli7qyCZkPdHHuGJp-HVH1s-HGmf_Zqn97o2Qz5JOHaZ-Mk1mecm4W4yUBiCaejJL5guczISx2Q8ZH7RvS_4fXiNdHemr1aWKwz0CcyBJI_4_jFjQhY5JedBz_-pSiSQ1eQCF_BPYEbRs/s1600/sq.jpg"
+  },
+  {
+    "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+    "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic Security Labs, the campaign leverages malicious Google A…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 22 Jun 2026 18:50:12 +0530",
+    "timestamp": 1782134412.0,
+    "isoDate": "2026-06-22T13:20:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sz7SHbQd4E8HNEKbvGGSYhPpJrUydP_gCRt_mWYYTr6QHLmChyphenhyphenca6BXhLBXA4OyKw-eS9xbqRqpKcYWFqDp4HoLBYKjVdWzhF0K1pqjX2bPtB91y1P1PZ8gh5r7Bpp-PIeUJVi_Hki91Qf6YjFAtFmf-qh7V9gNzmbEh_A2lISCvCDnNMALAuiqAlkL_/s1600/loader.jpg"
+  },
+  {
+    "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+    "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+    "summary": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Android phones in Brazil, Ind…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 22 Jun 2026 18:15:08 +0530",
+    "timestamp": 1782132308.0,
+    "isoDate": "2026-06-22T12:45:08+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisV9q8kKe0eopbInTHgwScUvzjKlnPTpk74j7M6F-6BH46hVr9wcadvztA2RYJdKDQDzpV89bN4wH0hEL9qTfIh2_4f3FEIT1OWwSeYehcOb-sVNNkEshTBBC6qviBMlFuwMXQL2iG_VVVBaT6NoGnbdcVBfcMm61T6NosKLtOdMgIebKCRh7hukQxIOk/s1600/playstore.jpg"
+  },
+  {
+    "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+    "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+    "summary": "Earlier this month, I spoke at the Gartner Security & Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hij…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 22 Jun 2026 17:28:00 +0530",
+    "timestamp": 1782129480.0,
+    "isoDate": "2026-06-22T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdS_7552zEvsn5xVfDcVMG2u8ponFIE1E65j5A8Wx-qUroU49h-f6qF7FPCABA063IjNnw-JntL-L1iZjHpiuqATqkDv-2vpi6lCVG1idXkg_elRJkyoUgASk4uYCTJ95EHfVQLJngVLKOxM2H5zLkdeFY7kpzveHUuKFoks0_ujNo9tJNQxm7XVgYb4/s1600/xmcyber.jpg"
+  },
+  {
+    "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+    "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+    "summary": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying p…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 22 Jun 2026 16:25:10 +0530",
+    "timestamp": 1782125710.0,
+    "isoDate": "2026-06-22T10:55:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1600/recap-main.gif"
+  },
+  {
     "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
     "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
     "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets. The Federal Court released a public version of the ruling on June 15. …",
@@ -8,7 +63,7 @@
     "timeAgo": "Mon, 22 Jun 2026 14:41:37 +0530",
     "timestamp": 1782119497.0,
     "isoDate": "2026-06-22T09:11:37+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKdFZ8X3qY44sjGFbQxJtogYdOcHTqy6L8zM5WrFEIcBfNui5A5cDTdrf932hfXB-Ugw_Uluy31ujP1EGMDy5d5_G-C0tpfQ02iFhQ4H0kNnK8MNujfZPVZpPjVFXzi6IeRfHb2TXJl5dKnC14l8addqgYJ2_KyMiweZema7rUu2JIUZM_hqX1ro-czjHQ/s1600/canada.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwfeNp6y7paVA9a8F1NvROjNla494WBkRnt8JfQrDpxLCB-cEiewUAhyQeD9_xw1xL_KQkfXp5EnMImW7_js9HDTAjN5b-Sf5uIV4RghVuxpHYvd0YdAeJMXuRsm-xJldrNnBnoRK1lfZNT3aFUd-re2yS6X5Q05F2k7_RXQb1sPkhQp3_faoocFqayvj/s1600/cn.jpg"
   },
   {
     "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
@@ -273,60 +328,5 @@
     "timestamp": 1781704318.0,
     "isoDate": "2026-06-17T13:51:58+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg"
-  },
-  {
-    "title": "The Top 10 Attack Surface Exposures in 2026",
-    "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-    "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credent…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 17 Jun 2026 16:00:00 +0530",
-    "timestamp": 1781692200.0,
-    "isoDate": "2026-06-17T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM2DfFAWIuQ6v6hyh32CXcT_wKU72aTUxixyWIcnjW04ydv40r8RtVXjDrxKJzksW6zzqYciPMxgYAwcDGRz8kahhZVZXoi0FySWg5o8LpWo_KkHdX4wRX4Qgk6ONxHqyb7_cF5TN5qQp-9B4hOQpB3WljI8sDbHMlOh6n2jyTjV30kxC-ccJVJHu4bTs/s1600/INTRUDER.jpg"
-  },
-  {
-    "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
-    "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-    "summary": "As many as 145 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software su…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 17 Jun 2026 13:08:24 +0530",
-    "timestamp": 1781681904.0,
-    "isoDate": "2026-06-17T07:38:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKLWn0zHFuJ8rkb2bqILIyAGxt_-VJ13Ytmv1TRWtGJkI6Rva5Oag5LdLasE2rmenokuRvoEI2wH0Ayfe_P4_5q1Qc5FQ2MrQgUHrgD9wY6DTlYugAtj8CP7Fh0OPjKkU5LbeRKWvPEh0Ol0CmLTe4QVayeZiNlVFvU7MO5tWl-b8Lbn80hKd45q9Z1yOd/s1600/npms.jpg"
-  },
-  {
-    "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-    "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 17 Jun 2026 11:20:46 +0530",
-    "timestamp": 1781675446.0,
-    "isoDate": "2026-06-17T05:50:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisS71RYEu_1Sts3eqAt878RoohdLgeUzyTbRQgFqUYQcwBxzKB1ug6AvOBRXqZvWcChuLVj6KFbIt7nO9RX66ZJZyMEIADvIXe-fdNDrQIYXGtcMt3StDzbK4lF9ZLpF9pqCR1cGEa4lLkFFRVqIyD5w0JqwhVgr-C9ga7pZ6IQWpFmbsojcsGePBnzsGW/s1600/joomla.jpg"
-  },
-  {
-    "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-    "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-    "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, whic…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 17 Jun 2026 00:35:41 +0530",
-    "timestamp": 1781636741.0,
-    "isoDate": "2026-06-16T19:05:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpiAGZTnvo43enaVYkna4ZSp217mwwW5kW8kZOhaSiLAxicjvHQY-3d8rdLN47bsRvxUIj6R0h_Ttr8NcIJrgz6k_mbcx94KLuPD29KdhFcYQsrV8htgg_iDYMV9aXbr21kv6BdYTzLNOOqQLpsCfpDC4XxDPnu77uVQ3oCYbIUfIpUKdmqx-rZZWj6P0/s1600/Google-Vertex-AI.jpg"
-  },
-  {
-    "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
-    "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
-    "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 16 Jun 2026 23:11:28 +0530",
-    "timestamp": 1781631688.0,
-    "isoDate": "2026-06-16T17:41:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilHq1gG2gCazQF6_B9H-W3ck6nmgu3L4IPuzaMg9RMEAbpHyVqfYmFOquQ9_ldT1kG2r1kYUqt-WlpWWvD3DA4vNH6S-lv6fbsDbSCkB55NP3TtRJA4l5lLCMzosdM1OJiDOatfx4zG284ftwuE9ahYlGfcIpnAy1PkVSfWloFY0zD9Cbh3CkHhNQHgqwF/s1600/clickfix-attacks.jpg"
   }
 ]

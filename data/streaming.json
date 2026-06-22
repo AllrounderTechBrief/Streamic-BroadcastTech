@@ -1,5 +1,16 @@
 [
   {
+    "title": "Hackathon Spotlight: AI-Powered Ad Insertion Using Generative Video Models",
+    "link": "https://bitmovin.com/blog/ai-powered-ad-insertion-generative-video-models/",
+    "summary": "TL;DR Advertising in video has not changed much in decades. You watch content, it stops, an ad plays, and then your content resumes. For viewers, that interruption breaks immersion and trains people to tune out the moment a cut happens. For…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Fri, 19 Jun 2026 14:21:33 +0000",
+    "timestamp": 1781878893.0,
+    "isoDate": "2026-06-19T14:21:33+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-5.jpeg"
+  },
+  {
     "title": "Temporary Cloudflare Accounts for AI agents",
     "link": "https://blog.cloudflare.com/temporary-accounts/",
     "summary": "The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in se…",
@@ -9,6 +20,17 @@
     "timestamp": 1781874000.0,
     "isoDate": "2026-06-19T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6joSXmAJAARgyGphPhXGla/9c3e8cef6f269df6a9c458495c5fe40b/image2.png"
+  },
+  {
+    "title": "The Essential Guide to SCTE-35",
+    "link": "https://bitmovin.com/blog/scte-35-guide/",
+    "summary": "SCTE-35 is the backbone of ad insertion and program control in modern video streaming, but few people outside of broadcast engineering truly understand how it works. This essential guide covers everything: what SCTE-35 is, where it came fro…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Fri, 19 Jun 2026 09:51:00 +0000",
+    "timestamp": 1781862660.0,
+    "isoDate": "2026-06-19T09:51:00+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2024/01/Screenshot-2024-01-19-at-4.38.03 PM-283x300.png"
   },
   {
     "title": "Build your own vulnerability harness",
@@ -220,6 +242,17 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6sH9TwbSEn2Ct9UFuC0SAq/1a1330737879497b0e2511ac28baaed5/BLOG-3331_image1.png"
   },
   {
+    "title": "Adaptive Bitrate Streaming (ABR): What is it & How Does it Work? [2026 Update]",
+    "link": "https://bitmovin.com/blog/adaptive-streaming/",
+    "summary": "What is Adaptive Bitrate (ABR) Streaming? Adaptive Bitrate Streaming (ABR) is a technology used in modern video streaming applications that can dynamically adapt in real-time, in order to provide the best quality for each individual viewer.…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Fri, 05 Jun 2026 11:49:00 +0000",
+    "timestamp": 1780660140.0,
+    "isoDate": "2026-06-05T11:49:00+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2023/08/compression-1-3000x1786.png"
+  },
+  {
     "title": "VoidZero is joining Cloudflare",
     "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
     "summary": "VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.",
@@ -418,17 +451,6 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/04/Figure-1-Create-Queue.png"
   },
   {
-    "title": "Agentic AI in Customer Support: Building a Multi-Agent Support System at Bitmovin",
-    "link": "https://bitmovin.com/blog/building-multi-agent-ai-support-system-bitmovin/",
-    "summary": "What happens when a support engineer ships a production AI system? At Bitmovin, a Senior Support Engineer built a fully operational multi-agent AI support system that now triages incoming customer tickets, searches documentation, diagnoses …",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Fri, 08 May 2026 07:15:29 +0000",
-    "timestamp": 1778224529.0,
-    "isoDate": "2026-05-08T07:15:29+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/05/example-of-agentic-bot-helping-Bitmovin-customers.png"
-  },
-  {
     "title": "WNBA Inside the Game, powered by AWS: AI Meets the Next Era of Women’s Basketball",
     "link": "https://aws.amazon.com/blogs/media/wnba-inside-the-game-powered-by-aws-ai-meets-the-next-era-of-womens-basketball/",
     "summary": "In this blog post, learn how WNBA Inside the Game powered by Amazon Web Services (AWS) is bringing its AI-powered basketball intelligence platform to the WNBA for the first time, giving fans, broadcasters, and teams a deeper, more precise u…",
@@ -437,17 +459,6 @@
     "timeAgo": "Thu, 07 May 2026 16:54:12 +0000",
     "timestamp": 1778172852.0,
     "isoDate": "2026-05-07T16:54:12+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "How to build a streaming platform in a day with AI and Bitmovin",
-    "link": "https://bitmovin.com/blog/how-to-build-video-streaming-platform-ai-bitmovin/",
-    "summary": "Building a video streaming platform used to take weeks and a team of specialists. With an AI coding agent and Bitmovin, it now takes a day. Bitmovin's CEO proved it by building Bitflix, a fully working Netflix-style streaming service in 24 …",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Thu, 30 Apr 2026 12:28:00 +0000",
-    "timestamp": 1777552080.0,
-    "isoDate": "2026-04-30T12:28:00+00:00",
     "imageUrl": ""
   },
   {
@@ -460,17 +471,6 @@
     "timestamp": 1776966359.0,
     "isoDate": "2026-04-23T17:45:59+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Enabling agent-driven video workflows with the Bitmovin CLI",
-    "link": "https://bitmovin.com/blog/agent-driven-video-workflows-bitmovin-cli/",
-    "summary": "TL;DR Most video workflows are automated in parts. Encoding jobs run on one system, Player configuration lives somewhere else, and playback performance data requires yet another tool to query. The pieces exist, they just aren’t connected. T…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Thu, 23 Apr 2026 16:47:36 +0000",
-    "timestamp": 1776962856.0,
-    "isoDate": "2026-04-23T16:47:36+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/04/image-1.jpeg"
   },
   {
     "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
