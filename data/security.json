@@ -1,8 +1,30 @@
 [
   {
+    "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+    "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+    "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads) postcss-min…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 23 Jun 2026 14:24:32 +0530",
+    "timestamp": 1782204872.0,
+    "isoDate": "2026-06-23T08:54:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiENcFC1DFPXKuRCT_WmSwq-wpzC8IcZUdZzu5IHi597n77W8LFs9qSUdDPCuMK9QzkRZEBMbBh4p2xhnI1OXZu4akIgR5suIv_yRA7AtEkojDcyXaU5x0UiZKRDRvTn0n0wy9HIQnhJj9zUO0rpemNOFNZEmMl4NQsCj5aDEpDrqXUkivsOX1QoLRqeKZh/s1600/npmm.jpg"
+  },
+  {
+    "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+    "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+    "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the acti…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 23 Jun 2026 11:08:40 +0530",
+    "timestamp": 1782193120.0,
+    "isoDate": "2026-06-23T05:38:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDqA3duB8U44C_MQ5PM061Wch2-j7uRvX_D52lK_2Dsm2lxcquuICTnFZ-dhQiQfxxKTnIJz4tf7ffCupdkoU1giCEGhHXLKJ0xC3dw7duptIHq15dD0E5XlkvB9JbKztGCTJOk2iJ53shzUQexv2So6rrFy8djOO1etfsolTM5UbvMUkKvNwNpHqFvS7V/s1600/whatsapp-main.jpg"
+  },
+  {
     "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
     "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-    "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative, the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its \"strongest…",
+    "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its \"strongest …",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Tue, 23 Jun 2026 09:26:58 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1781789407.0,
     "isoDate": "2026-06-18T13:30:07+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidEg1Q-FcDTwCPci3OMxGy0TghiI1dbWJoaJVc88gpGgO2ia6bgne18KfS3A9qAzBnMX2rGY9H78ewtofXQO22RRpzHxWXmvQJvRZ1nsvwj37aZBtLOXXltzd1KkNRKhu2N5LpIro5Fi0BBkftPqP_IO6B3HCKx5WPtFXZKA1bfbP3xV71CpEqpT7H6RPN/s1600/teams.jpg"
-  },
-  {
-    "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-    "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-    "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 17 Jun 2026 23:44:24 +0530",
-    "timestamp": 1781720064.0,
-    "isoDate": "2026-06-17T18:14:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbbJOofP7P7zruPGvktMERgtQqGnu5msB1iDGyfukJA9g72QHXmHx9eJNbQaF7VIGcUqB76e5bGpnBnfg9AE4-F5kJQnY2fKtfHoi9zggEgteLN6rpYJeYE2nPlHFHWfj58a_DmklTT0x0GcWmRAxJsVGeysX9CUadCIygZTpDzBxCWZ4HvrPqhPwQy6Ng/s1600/scam.jpg"
-  },
-  {
-    "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-    "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
-    "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant des…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 17 Jun 2026 23:06:28 +0530",
-    "timestamp": 1781717788.0,
-    "isoDate": "2026-06-17T17:36:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3ayOlDb3vsL747G9hStxxjTd3N5i2u8hegcT_hTs4RlNqylS_HyYH4mGLQEavD-QwH3G4l-p2tE5xrXoeK-Btj5YjbENpZcnqRZ7mXCjnJgqHKaoqyE3I3yqy3tYxafbDGNOMrDsvTnJ8UKkn7DDQ8PY_sQNZI6TsNTV0lOmSqs1uxUKm3pgpmkSDpeZ/s1600/ms-patch.jpg"
   }
 ]
