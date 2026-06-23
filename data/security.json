@@ -1,5 +1,16 @@
 [
   {
+    "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+    "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
+    "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative, the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its \"strongest…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 23 Jun 2026 09:26:58 +0530",
+    "timestamp": 1782187018.0,
+    "isoDate": "2026-06-23T03:56:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5t7SN4kPSfgifNku4Z0eWG5x1Dd8CIb99OAHuktz4ZGAeIrwDEnLwD9DUkRj8nStBQjzxOgWO2hfsGYI07Yp8gQGtXiSBIqlQXtzDTc3bkveScQ2gd-WbUmBA0L1xVDXhbrukUIuWdLaMPyiDZO-5-tWlq-kwFdImdd-h7YVkO7oGDN08bv25RJ2TRDt8/s1600/opne.jpg"
+  },
+  {
     "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
     "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
     "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and di…",
@@ -317,16 +328,5 @@
     "timestamp": 1781717788.0,
     "isoDate": "2026-06-17T17:36:28+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3ayOlDb3vsL747G9hStxxjTd3N5i2u8hegcT_hTs4RlNqylS_HyYH4mGLQEavD-QwH3G4l-p2tE5xrXoeK-Btj5YjbENpZcnqRZ7mXCjnJgqHKaoqyE3I3yqy3tYxafbDGNOMrDsvTnJ8UKkn7DDQ8PY_sQNZI6TsNTV0lOmSqs1uxUKm3pgpmkSDpeZ/s1600/ms-patch.jpg"
-  },
-  {
-    "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
-    "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
-    "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he install…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 17 Jun 2026 21:30:56 +0530",
-    "timestamp": 1781712056.0,
-    "isoDate": "2026-06-17T16:00:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN4ptzzF7u-dzNyOc4F1HsCUbEszvkkeD1ZVl7MHQNXXcUtgqb40Wgodu3aj61QDzaNsX0eJjRDGK1eNJLCbud-4iWHJjnpHPuCfTak2m9UydSW4DEJErr5L2V_KwD39P__6iVxgaOhH8mYtY2LhPFnyCavP8eJ_1N3QpGo4NkZaFJYVRc-LX0droem8Q/s1600/cyber.jpg"
   }
 ]
