@@ -1,5 +1,27 @@
 [
   {
+    "title": "NASA Names Sean Gallagher as Chief Information Officer",
+    "link": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/",
+    "summary": "NASA has selected Sean Gallagher as the agency’s chief information officer (CIO). In this role, he is responsible for the agency’s entire portfolio of Information Technology products and services. Gallagher has been serving in an acting cap…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 23 Jun 2026 21:32:03 +0000",
+    "timestamp": 1782250323.0,
+    "isoDate": "2026-06-23T21:32:03+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/03/gallagher-nasa-2023.jpg?w=1638"
+  },
+  {
+    "title": "Dow Drops 46, Nasdaq Tumbles 580, S&P 500 Loses 107",
+    "link": "https://tvnewscheck.com/business/article/dow-drops-46-nasdaq-tumbles-580-sp-500-loses-107/",
+    "summary": "Wall Street gave up more of its recent gains Tuesday after a sell-off in big technology stocks spread from Asia back to the U.S. over worries about potentially higher interest rates by … The post Dow Drops 46, Nasdaq Tumbles 580, S&P 500 Lo…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Tue, 23 Jun 2026 20:31:10 +0000",
+    "timestamp": 1782246670.0,
+    "isoDate": "2026-06-23T20:31:10+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Mark Zuckerberg Directed Meta To Create A Prediction Markets App",
     "link": "https://tvnewscheck.com/business/article/mark-zuckerberg-directed-meta-to-create-a-prediction-markets-app/",
     "summary": "The experimental app, internally called “Arena,” would be independent of Facebook and Instagram. It could compete for attention with Polymarket and Kalshi, the biggest prediction markets. The post Mark Zuckerberg Directed Meta To Create A P…",
@@ -416,28 +438,6 @@
     "timestamp": 1782215086.0,
     "isoDate": "2026-06-23T11:44:46+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "This Chatbot Wants To Solve AI’s News Problem",
-    "link": "https://tvnewscheck.com/ai/article/this-chatbot-wants-to-solve-ais-news-problem/",
-    "summary": "NewsGuard, a startup that rates the reliability of news sources, says it sees a way to solve several problems at once. Today, it is launching a new product, NewsGuard AI, that accesses and aggregates information only from the sources it has…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Tue, 23 Jun 2026 11:28:14 +0000",
-    "timestamp": 1782214094.0,
-    "isoDate": "2026-06-23T11:28:14+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Rising Waters Swamp Lake Naivasha",
-    "link": "https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/",
-    "summary": "Relentless rains are threatening a lake in Kenya’s Great Rift Valley that has become a key hub in the global flower trade.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 23 Jun 2026 04:01:00 +0000",
-    "timestamp": 1782187260.0,
-    "isoDate": "2026-06-23T04:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/rising-waters-swamp-lake-naivasha/kenyawater_tm5_20100130.jpg"
   },
   {
     "title": "Why newsroom workflows are breaking under digital-first pressure",
