@@ -1,5 +1,16 @@
 [
   {
+    "title": "The post-quantum EO is an important milestone. Now it’s time to get to work",
+    "link": "https://blog.cloudflare.com/post-quantum-eo-2026/",
+    "summary": "The new post-quantum executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and ind…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 23 Jun 2026 18:25:18 GMT",
+    "timestamp": 1782239118.0,
+    "isoDate": "2026-06-23T18:25:18+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/399EKuhN38jLx1pAGEgx3z/1f93784f4c98df9a108b5c8d1803218b/BLOG-3360_3.png"
+  },
+  {
     "title": "How we found a bug in the hyper HTTP library",
     "link": "https://blog.cloudflare.com/hyper-bug/",
     "summary": "By rearchitecting the Images binding, we accidentally uncovered a bug that existed in the open-source hyper library across multiple major versions.",
@@ -394,17 +405,6 @@
     "timestamp": 1779372220.0,
     "isoDate": "2026-05-21T14:03:40+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/15/Amazon-IVS-SSAI-architecture-overview.png"
-  },
-  {
-    "title": "Announcing Claude Managed Agents on Cloudflare",
-    "link": "https://blog.cloudflare.com/claude-managed-agents/",
-    "summary": "Cloudflare has integrated with Anthropic's Claude Managed Agents to provide a fast, isolated execution environment for autonomous code delivery. This means builders can scale agent workflows globally while strictly controlling access to pri…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 19 May 2026 13:00:00 GMT",
-    "timestamp": 1779195600.0,
-    "isoDate": "2026-05-19T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6nYyreZYWyaKo6Xf2XjmtM/5cc21576a83e223a2cf67e8ed3fde928/image5.png"
   },
   {
     "title": "S4C on Freely: How a local broadcaster delivered a complex live TV workflow with AWS Elemental Media Services",

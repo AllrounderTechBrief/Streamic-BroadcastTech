@@ -1,5 +1,16 @@
 [
   {
+    "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+    "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+    "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally. The campaign, ac…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 23 Jun 2026 23:50:49 +0530",
+    "timestamp": 1782238849.0,
+    "isoDate": "2026-06-23T18:20:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJkhDD5qINhfAhBFXG2C13raQF6T6zAOmnHlArhnLUP5z0ifBzpyq6M_4n11cgynQfZW0mxJWnYU-TDYSpKQHYFHvXsZHCB7uoMFg0w02yZILY-JLMm2-uqm-CA_wIqZHhzl25FfO_lMd7dYm6VfprDP83bz_SoB3MWLEc059E4YCa554bba-qWHW5udHv/s1600/fortigate.jpg"
+  },
+  {
     "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
     "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
     "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security scanner the firm tested …",
@@ -317,16 +328,5 @@
     "timestamp": 1781796829.0,
     "isoDate": "2026-06-18T15:33:49+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nqjviAfaPP-eOuhtQKNwdvOGLaN-rOmxVnoQPMOruaJvDcw5rsCi-kIKxAhOpxjCggRXt7bfwyRAKMzVKdwIPlRAJpXLl4OReBnbVtOSZYGS4Bsf9EvU71bMIkWdpDwjydNWe22WCdjgqX6b_TrPtXptekJc3N8BH5m56-wauHl5KX0DePQmv2gIoNks/s1600/webinar.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-    "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 18 Jun 2026 20:57:54 +0530",
-    "timestamp": 1781796474.0,
-    "isoDate": "2026-06-18T15:27:54+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6k3CSWsyKHS6UdXmxX-w92fdsWjTSL7JR7xeaPBPh8d5G6rkZbMhmJHr9o3gxF5G2I2GojubOJnzhRqxjtKYxlXTrmlgrdRFRrmmyEEIi_zXAQXT3zpq5KNQqOFHrfGKhUFHzsMx1E2Eqs7S_jvTFfN3Jnz1YO58Ryvk0urKEDUZggoQgI07lKFWQDMfw/s1600/threatss.jpg"
   }
 ]
