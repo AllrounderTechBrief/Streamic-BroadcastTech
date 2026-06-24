@@ -1,5 +1,16 @@
 [
   {
+    "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+    "link": "https://blog.cloudflare.com/oauth-for-all/",
+    "summary": "Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "timestamp": 1782280800.0,
+    "isoDate": "2026-06-24T06:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/tbiQb2wX9zyyC2n6cOMmv/706bacb728d5abef09117c3893ec288d/hydra_upgrade_diagram.png"
+  },
+  {
     "title": "The post-quantum EO is an important milestone. Now it’s time to get to work",
     "link": "https://blog.cloudflare.com/post-quantum-eo-2026/",
     "summary": "The new post-quantum executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and ind…",
@@ -24,7 +35,7 @@
   {
     "title": "Hackathon Spotlight: AI-Powered Ad Insertion Using Generative Video Models",
     "link": "https://bitmovin.com/blog/ai-powered-ad-insertion-generative-video-models/",
-    "summary": "TL;DR Advertising in video has not changed much in decades. You watch content, it stops, an ad plays, and then your content resumes. For viewers, that interruption breaks immersion and trains people to tune out the moment a cut happens. For…",
+    "summary": "Advertising in video has not changed much in decades. You watch content, it stops, an ad plays, and then your content resumes. For viewers, that interruption breaks immersion and trains people to tune out the moment a cut happens. The assum…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Fri, 19 Jun 2026 14:21:33 +0000",
@@ -156,7 +167,7 @@
   {
     "title": "Hackathon spotlight: building Hummer, a Slack-native AI agent for the whole team",
     "link": "https://bitmovin.com/blog/slack-native-ai-agent-engineering-teams/",
-    "summary": "By David Steinacher and Roland Kákonyi TL;DR Most AI coding tools are built around a single user. You work with the agent in a private window, and when the session ends, everything it learned stays with you. The next person on the team star…",
+    "summary": "Most AI coding tools are built around a single user. You work with the agent in a private window, and when the session ends, everything it learned stays with you. The next person on the team starts from zero. That bothered us, so for Bitmov…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Fri, 12 Jun 2026 13:15:00 +0000",
@@ -178,7 +189,7 @@
   {
     "title": "Hackathon spotlight: Real-Time Observability Custom Dashboarding",
     "link": "https://bitmovin.com/blog/custom-observability-dashboards-real-time-monitoring/",
-    "summary": "TLDR Bitmovin’s Observability solution already gives teams deep visibility into playback quality and audience behavior. But when an operations team wants to assemble its own view of that data via our API, the current answer is to build it i…",
+    "summary": "Bitmovin’s Observability solution already gives teams deep visibility into playback quality and audience behavior. But when an operations team wants to assemble its own view of that data via our API, the current answer is to build it in a t…",
     "source": "Bitmovin",
     "category": "streaming",
     "timeAgo": "Fri, 12 Jun 2026 10:59:29 +0000",
@@ -382,17 +393,6 @@
     "timeAgo": "Wed, 27 May 2026 10:10:24 +0000",
     "timestamp": 1779876624.0,
     "isoDate": "2026-05-27T10:10:24+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Announcing Claude Compliance API support with Cloudflare CASB",
-    "link": "https://blog.cloudflare.com/casb-anthropic-integration/",
-    "summary": "Cloudflare now integrates with the Claude Compliance API, so that security teams can monitor Claude Enterprise activity directly in the Cloudflare Dashboard.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 21 May 2026 17:00:00 GMT",
-    "timestamp": 1779382800.0,
-    "isoDate": "2026-05-21T17:00:00+00:00",
     "imageUrl": ""
   },
   {
