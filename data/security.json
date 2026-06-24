@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+    "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+    "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 24 Jun 2026 12:20:38 +0530",
+    "timestamp": 1782283838.0,
+    "isoDate": "2026-06-24T06:50:38+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivauBSNOsDqBHvUFSnF1NdlWJ8BAt2JVgIo_ZUQhBkVppSz0PvkEmrc9RP1hMf2-oFFRgr5PNm7pxLmPngAJHcxV6-F3e43bEqmdEg38013JmlUKDlGVOLQTj6bYbyk_R7WXBqbW3o2yPHdosqz7nncLivqDqXGAuiTFcHkPqiVPBJuDHlsvYWtEreVmk_/s1600/cc.jpg"
+  },
+  {
     "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
     "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
     "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally. The campaign, ac…",
@@ -317,16 +328,5 @@
     "timestamp": 1781803934.0,
     "isoDate": "2026-06-18T17:32:14+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxYclMMaAOBe1jlW_s0S1SfdX3sPrGB9MZ7R9Hfo2ktoF9DiLqPA5ZYmFAyGmzws5eNmqopdPw7bBV7TTO8KgS2C8CJU8cgHNXw0ERAvk8sGRLYXH7M98eqxDM9c-rQTU0Hlj8ISEmSWMCnw6OqJMyhgxxLHCFPwP1JugZ3bCJow7AfTZ40kOo8XpY3WdF/s1600/f5.jpg"
-  },
-  {
-    "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-    "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-    "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI too…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 18 Jun 2026 21:03:49 +0530",
-    "timestamp": 1781796829.0,
-    "isoDate": "2026-06-18T15:33:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nqjviAfaPP-eOuhtQKNwdvOGLaN-rOmxVnoQPMOruaJvDcw5rsCi-kIKxAhOpxjCggRXt7bfwyRAKMzVKdwIPlRAJpXLl4OReBnbVtOSZYGS4Bsf9EvU71bMIkWdpDwjydNWe22WCdjgqX6b_TrPtXptekJc3N8BH5m56-wauHl5KX0DePQmv2gIoNks/s1600/webinar.jpg"
   }
 ]
