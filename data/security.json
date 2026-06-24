@@ -1,5 +1,16 @@
 [
   {
+    "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+    "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine indiv…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 24 Jun 2026 14:25:12 +0530",
+    "timestamp": 1782291312.0,
+    "isoDate": "2026-06-24T08:55:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwWpkKj6KRX5Q7jeH07PFaANRRfRbl_CdrBEZ0cypjUg2UBsy49GSGNAOXF74dDez1H9xz_FXTMWh1lziO6f1Q0xrhjZRICtxmzQQJruQoQ8fk33kgTacTn5Y0BrNHmkHfLy3iC4s2oEL7H2CRCaBTcbLBqCbg3jcSFfHTSYiIa_RZV49sE58GCHOWorXJ/s1600/cybercrime.jpg"
+  },
+  {
     "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
     "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
     "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, t…",
@@ -317,16 +328,5 @@
     "timestamp": 1781850969.0,
     "isoDate": "2026-06-19T06:36:09+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvlr0i44MWKmuHJKLS1V3uKSMse7tVsRFBTpyD1VGLaRZy24qq4bIb6K3Db1s0eKtuh3TkLCYFWn6eJ-uEkVnkO9CbPHHUlD3j8Z-SEFFr9A1X6ndd-fQd6UKTAyXO0DhUI2ZTe1sc4Eq7NLoGUyjQUkKmhHp99QGz3WTcFAnucAnfiioLDFiGaTbI8Wvx/s1600/apple.jpg"
-  },
-  {
-    "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-    "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
-    "summary": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed below - CVE-2026-42530 (CVSS v4 score: 9.2) -…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 18 Jun 2026 23:02:14 +0530",
-    "timestamp": 1781803934.0,
-    "isoDate": "2026-06-18T17:32:14+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxYclMMaAOBe1jlW_s0S1SfdX3sPrGB9MZ7R9Hfo2ktoF9DiLqPA5ZYmFAyGmzws5eNmqopdPw7bBV7TTO8KgS2C8CJU8cgHNXw0ERAvk8sGRLYXH7M98eqxDM9c-rQTU0Hlj8ISEmSWMCnw6OqJMyhgxxLHCFPwP1JugZ3bCJow7AfTZ40kOo8XpY3WdF/s1600/f5.jpg"
   }
 ]
