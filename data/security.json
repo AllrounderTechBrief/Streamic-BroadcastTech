@@ -1,5 +1,27 @@
 [
   {
+    "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+    "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 25 Jun 2026 17:54:43 +0530",
+    "timestamp": 1782390283.0,
+    "isoDate": "2026-06-25T12:24:43+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO1f6pZmhVaPQd2FjrrAG-IbL0vMk7zHVZ6BqjzkzJS8qd7HlAtIJ-7chRUbqR7tZHPNqdZFbm0QL9O03mkW7YsOh0pVwW1_ogikaoxNX8dFd5-ZB4SwB7-tfpWmp9Hr22DJL6tzZgTdeFnCU4VwaZXSY_htGs2_xlaB8n0EOedrfe7wHuI30GXTF6Pofc/s1600/threatsday-june.jpg"
+  },
+  {
+    "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+    "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+    "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 25 Jun 2026 16:47:31 +0530",
+    "timestamp": 1782386251.0,
+    "isoDate": "2026-06-25T11:17:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGC4Kd3HcSGw5TQ1GQNwgQST4imnVTlHZ4yW1dDr_kwUksDH1MHmlPUMzW8LhePZZTM1HszkIQwL8Ggm-cxlXRRMbUdcXbXfQ57FUfzbN4yj1OimJJxQy0XokmSC-lVr4XyFM5b3LqVQ8hMDIqr34xQXHpD0q8FnuR50Rdg19jXFC9xKKtn3Yap5BQhZg/s1600/corelight.jpg"
+  },
+  {
     "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
     "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
     "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an…",
@@ -306,27 +328,5 @@
     "timestamp": 1781949364.0,
     "isoDate": "2026-06-20T09:56:04+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg"
-  },
-  {
-    "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-    "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-    "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No sof…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 20 Jun 2026 00:07:41 +0530",
-    "timestamp": 1781894261.0,
-    "isoDate": "2026-06-19T18:37:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg"
-  },
-  {
-    "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-    "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-    "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryp…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 20 Jun 2026 00:03:07 +0530",
-    "timestamp": 1781893987.0,
-    "isoDate": "2026-06-19T18:33:07+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1600/edr-killer.jpg"
   }
 ]
