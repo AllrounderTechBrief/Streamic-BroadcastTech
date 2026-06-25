@@ -1,5 +1,16 @@
 [
   {
+    "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+    "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+    "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 25 Jun 2026 19:42:52 +0530",
+    "timestamp": 1782396772.0,
+    "isoDate": "2026-06-25T14:12:52+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtdBDQ0Y38i0JZmDwU6XKiZ1R6HJ0KHe59012E0krnPubG5pJgiTg6IUg4fHEzoW5jm7QyEk8fXOL9swj7FlpXdMcjyn0ltziMhQJD2pYPtzjXimsntV8DFg-c1erOgWkLl8du8eBvJYlukTCDDycp5jSmWNfwmv5WwGKlJRJvZt1GvUZZl24dP2HVDkn/s1600/adblocker.jpg"
+  },
+  {
     "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
     "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
     "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows…",
@@ -317,16 +328,5 @@
     "timestamp": 1782108413.0,
     "isoDate": "2026-06-22T06:06:53+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCZyCo0qR6bFgeSdNHxD4d56tgq1YYTWI2aMHnDz63YlOYGrMbPnbpAumvGLNyZxxfLVTYEi7VBiVscqTpCC2sgfMtX-YFVAvy_flQZTKinHhT6qtKIc6boJfuGC4sbpNl9qYfblyZZizkaDRkMIScE3upxa-vBcGYeL6YqTBufD1ro3t0Mpwa6O8Ag4iU/s1600/asia.jpg"
-  },
-  {
-    "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
-    "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
-    "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity informatio…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 20 Jun 2026 15:26:04 +0530",
-    "timestamp": 1781949364.0,
-    "isoDate": "2026-06-20T09:56:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg"
   }
 ]

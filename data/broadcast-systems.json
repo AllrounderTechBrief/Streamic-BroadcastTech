@@ -1,5 +1,38 @@
 [
   {
+    "title": "Adobe Acquires Topaz Labs, Bringing AI Upscaling and Restoration In-House",
+    "link": "https://www.newsshooter.com/2026/06/25/adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house",
+    "summary": "Adobe has entered into a definitive agreement to acquire Topaz Labs, the company behind Topaz Video, Topaz Photo, and Gigapixel. The deal was announced June 25, 2026, and is expected to close in the second half of the year, pending regulato…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 25 Jun 2026 15:46:17 +0000",
+    "timestamp": 1782402377.0,
+    "isoDate": "2026-06-25T15:46:17+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "The technology behind ITV’s hybrid World Cup studio",
+    "link": "https://www.tvbeurope.com/virtual-production/the-technology-behind-itvs-hybrid-world-cup-studio",
+    "summary": "ITV Sport's New York studio has been a big hit with viewers. TVBEurope talks to Jim Mann, creative director at Lightwell, about how it employs a mix of physical and virtual sets The post The technology behind ITV’s hybrid World Cup studio a…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 25 Jun 2026 15:13:38 +0000",
+    "timestamp": 1782400418.0,
+    "isoDate": "2026-06-25T15:13:38+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/Wide10-1-726x408.jpg"
+  },
+  {
+    "title": "How the World Cup is reshaping the economics of sports advertising",
+    "link": "https://www.tvbeurope.com/adtech/world-cup-2026-how-the-tournament-is-reshaping-the-economics-of-sports-advertising",
+    "summary": "Paul Davies, head of marketing and partnerships at Yospace, explains how this year's FIFA World Cup is creating significant new commercial opportunities for broadcasters through increased match inventory and innovative advertising formats T…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 25 Jun 2026 13:51:00 +0000",
+    "timestamp": 1782395460.0,
+    "isoDate": "2026-06-25T13:51:00+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/TVB-Worldcup2026-England-Croatia-1-726x379.jpg"
+  },
+  {
     "title": "Capitalising on excitement",
     "link": "https://www.tvbeurope.com/media-consumption/capitalising-on-excitement",
     "summary": "Mark Phillips, founder of Are You Watching This, explains how predictive technology is enabling fan engagement in a congested sports landscape The post Capitalising on excitement appeared first on TVBEurope.",
@@ -74,17 +107,6 @@
     "timeAgo": "Thu, 25 Jun 2026 08:31:53 +0000",
     "timestamp": 1782376313.0,
     "isoDate": "2026-06-25T08:31:53+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Samyang AF 60-180mm F2.8 FE",
-    "link": "https://www.newsshooter.com/2026/06/25/samyang-af-60-180mm-f2-8-fe/?utm_source=rss&utm_medium=rss&utm_campaign=samyang-af-60-180mm-f2-8-fe",
-    "summary": "Samyang has introduced the AF 60-180mm F2.8 FE that was created through a collaboration between Schneider-Kreuznach and Samyang. The new zoom is claimed to combine outstanding portability and performance. The AF 60-180mm F2.8 FE now joins t…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 25 Jun 2026 08:27:02 +0000",
-    "timestamp": 1782376022.0,
-    "isoDate": "2026-06-25T08:27:02+00:00",
     "imageUrl": ""
   },
   {
@@ -251,27 +273,5 @@
     "timestamp": 1781858413.0,
     "isoDate": "2026-06-19T08:40:13+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/2026_t-i_award_winner_svt_buhr_1280x720-726x408.jpg"
-  },
-  {
-    "title": "Axel Gallant named Irdeto CEO",
-    "link": "https://www.tvbeurope.com/business/people/axel-gallant-named-irdeto-ceo",
-    "summary": "He will take over from Doug Lowther, who has led the company since 2015 The post Axel Gallant named Irdeto CEO appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 19 Jun 2026 08:15:34 +0000",
-    "timestamp": 1781856934.0,
-    "isoDate": "2026-06-19T08:15:34+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/Axel-Gallant-Irdeto.jpg"
-  },
-  {
-    "title": "InterDigital wins injunction against Disney over video encoding patents",
-    "link": "https://www.tvbeurope.com/business/interdigital-wins-injunction-against-disney-over-video-encoding-patents",
-    "summary": "The company instigated proceedings against Disney in February 2025 over the use of video encoding techniques related to HEVC The post InterDigital wins injunction against Disney over video encoding patents appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 19 Jun 2026 08:02:01 +0000",
-    "timestamp": 1781856121.0,
-    "isoDate": "2026-06-19T08:02:01+00:00",
-    "imageUrl": ""
   }
 ]

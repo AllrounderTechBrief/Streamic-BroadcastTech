@@ -1,5 +1,16 @@
 [
   {
+    "title": "How we built saga rollbacks for Cloudflare Workflows",
+    "link": "https://blog.cloudflare.com/rollbacks-for-workflows/",
+    "summary": "Cloudflare Workflows, our durable execution engine for multi-step applications, now supports saga-style rollbacks, allowing developers to specify a compensating action for each step.do().",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 25 Jun 2026 13:00:00 GMT",
+    "timestamp": 1782392400.0,
+    "isoDate": "2026-06-25T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1j8xfDeKb3FCgE2Ktxf4fq/723e2b9e34189747d3c8eb65f906fb41/BLOG-3317_image6.png"
+  },
+  {
     "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
     "link": "https://blog.cloudflare.com/oauth-for-all/",
     "summary": "Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen.",
@@ -372,17 +383,6 @@
     "timestamp": 1779971136.0,
     "isoDate": "2026-05-28T12:25:36+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/27/Hook-reference-table1.png"
-  },
-  {
-    "title": "Iran's Internet is partially restored, Cloudflare Radar data shows",
-    "link": "https://blog.cloudflare.com/iran-internet-partially-restored-may-2026/",
-    "summary": "Cloudflare Radar data confirms early indications of a partial Internet restoration in Iran, nearly three months after the shutdown began. Traffic spikes and DNS queries have risen, but network activity is currently just 40% of pre-shutdown …",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 27 May 2026 17:25:00 GMT",
-    "timestamp": 1779902700.0,
-    "isoDate": "2026-05-27T17:25:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5otxM2P75Aqb1IDbY8l6Cv/1405b5bb93a80b6c8c860dba014ab8e0/BLOG-3321_image13.png"
   },
   {
     "title": "Ad Observability for Streaming Video: How Real-Time Player Data Protects Revenue for FAST Channels, Live Events, and On-Demand Content",
