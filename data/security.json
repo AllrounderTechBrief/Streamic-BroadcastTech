@@ -1,5 +1,27 @@
 [
   {
+    "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+    "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+    "summary": "The FBI and CISA have updated their March warning about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key. Hand it over once, and the…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 27 Jun 2026 01:08:29 +0530",
+    "timestamp": 1782502709.0,
+    "isoDate": "2026-06-26T19:38:29+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjt2-y25_EiB31BmVQQpt9ne8mH9iPOJpYJmItVSIKGexUBmKRwzNSvDYzbVyRm9xxR6H0rE880CTv3QTblUdJgkRh2EoXqYGJ9wwOq-cOktE6iIvI0fZdeuxf8gTmdEpStuzq5CywuWYEjb32JqfwIznRc6YtDK_V5dFH1bcx2EoqvQ1Koieo4g7QDKA/s1600/signal-phishing.jpg"
+  },
+  {
+    "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+    "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+    "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 26 Jun 2026 23:47:46 +0530",
+    "timestamp": 1782497866.0,
+    "isoDate": "2026-06-26T18:17:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsnAZNjHSEX7UtabbKNVn68uohH8pK5LKuU2CgckZTJowWHxYmEjx9ROquO9tFsThy-3_759_ko2TQEX4Wm3PI1Y-opfzyeAzW8Tni0-gz2YMtPMln9XQRzcKq1mviZSTW7MNShxVRhbuUXBSuNGTNStlwj_NCfFsyrptpXvkLNt5CUfARwENz0IshNDma/s1600/shark.jpg"
+  },
+  {
     "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
     "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
     "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularl…",
@@ -306,27 +328,5 @@
     "timestamp": 1782204872.0,
     "isoDate": "2026-06-23T08:54:32+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiENcFC1DFPXKuRCT_WmSwq-wpzC8IcZUdZzu5IHi597n77W8LFs9qSUdDPCuMK9QzkRZEBMbBh4p2xhnI1OXZu4akIgR5suIv_yRA7AtEkojDcyXaU5x0UiZKRDRvTn0n0wy9HIQnhJj9zUO0rpemNOFNZEmMl4NQsCj5aDEpDrqXUkivsOX1QoLRqeKZh/s1600/npmm.jpg"
-  },
-  {
-    "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-    "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-    "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the acti…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 23 Jun 2026 11:08:40 +0530",
-    "timestamp": 1782193120.0,
-    "isoDate": "2026-06-23T05:38:40+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDqA3duB8U44C_MQ5PM061Wch2-j7uRvX_D52lK_2Dsm2lxcquuICTnFZ-dhQiQfxxKTnIJz4tf7ffCupdkoU1giCEGhHXLKJ0xC3dw7duptIHq15dD0E5XlkvB9JbKztGCTJOk2iJ53shzUQexv2So6rrFy8djOO1etfsolTM5UbvMUkKvNwNpHqFvS7V/s1600/whatsapp-main.jpg"
-  },
-  {
-    "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-    "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-    "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its \"strongest …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 23 Jun 2026 09:26:58 +0530",
-    "timestamp": 1782187018.0,
-    "isoDate": "2026-06-23T03:56:58+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5t7SN4kPSfgifNku4Z0eWG5x1Dd8CIb99OAHuktz4ZGAeIrwDEnLwD9DUkRj8nStBQjzxOgWO2hfsGYI07Yp8gQGtXiSBIqlQXtzDTc3bkveScQ2gd-WbUmBA0L1xVDXhbrukUIuWdLaMPyiDZO-5-tWlq-kwFdImdd-h7YVkO7oGDN08bv25RJ2TRDt8/s1600/opne.jpg"
   }
 ]
