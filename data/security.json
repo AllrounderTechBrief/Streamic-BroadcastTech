@@ -1,5 +1,38 @@
 [
   {
+    "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+    "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+    "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The c…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 26 Jun 2026 14:57:12 +0530",
+    "timestamp": 1782466032.0,
+    "isoDate": "2026-06-26T09:27:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWYWOSDRBtv65eOzqdHSuOxXN7BWyBo1EAltLLUTTKGt68GYJ67zn9ixdKIQjTPCgE3P1o09UzrwXzvbopRZIhjN0LxYAZR06WaXOd116NQutGo1zLaceeob3nkuIHCeP6ZhlVp1yVOfc7dt-YZKFhEJJiPF8H5P03bc1ny0E3mi7jbIhqh7wqodC_zKE/s1600/hotel-photo-zip.jpg"
+  },
+  {
+    "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+    "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+    "summary": "Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 26 Jun 2026 14:19:35 +0530",
+    "timestamp": 1782463775.0,
+    "isoDate": "2026-06-26T08:49:35+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBSVw_gpnELsdqj1fhZXQ6Jm-ycv8RsT1-Q7vfNeyj0_Sd-keBXqrAA9w7Vz8qt0tKM3yXkVPknx8FtRKBGBShrelNUIlZbkoUDdDz4MEeWbStRxJt5ggHFA2LFTv5Lc2g-1VC9L7-HGtWY_8VZMTInbZrXa0UY_oZsu2GUeFDH8VsHnUekF4m64OET3U/s1600/iphone-hack.jpg"
+  },
+  {
+    "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+    "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
+    "summary": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 26 Jun 2026 12:45:46 +0530",
+    "timestamp": 1782458146.0,
+    "isoDate": "2026-06-26T07:15:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9SthtlfUvEkaX0iZanYdYTAOV5hgm44yCwHu_3GCaoa11rO-GkO9oc0_qN9JGw2n86dsEsN_sdaYt2ra_4I_dQ57ja0kiUeYtkg1eY8ZJtu45oKtN-TqWLdKudnJPFQQFGPReCfu1xcfHGgfqgtLe8zyFlEoMnO2AwnsEsosf9LCZS9gJHq58Q8OcPlWP/s1600/STOCKSTAY.jpg"
+  },
+  {
     "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
     "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
     "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has …",
@@ -295,38 +328,5 @@
     "timestamp": 1782125710.0,
     "isoDate": "2026-06-22T10:55:10+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1600/recap-main.gif"
-  },
-  {
-    "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-    "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-    "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets. The Federal Court released a public version of the ruling on June 15. …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 22 Jun 2026 14:41:37 +0530",
-    "timestamp": 1782119497.0,
-    "isoDate": "2026-06-22T09:11:37+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwfeNp6y7paVA9a8F1NvROjNla494WBkRnt8JfQrDpxLCB-cEiewUAhyQeD9_xw1xL_KQkfXp5EnMImW7_js9HDTAjN5b-Sf5uIV4RghVuxpHYvd0YdAeJMXuRsm-xJldrNnBnoRK1lfZNT3aFUd-re2yS6X5Q05F2k7_RXQb1sPkhQp3_faoocFqayvj/s1600/cn.jpg"
-  },
-  {
-    "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-    "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-    "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's XLab calls it AryStinger and counts at least 4,300 infected routers, …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 22 Jun 2026 12:27:44 +0530",
-    "timestamp": 1782111464.0,
-    "isoDate": "2026-06-22T06:57:44+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr0TUOEuqak_4OJNaS9ogmGXQl1QWTMkdmvIDNy6mlYVxjA-Z5qfywF_6OwxaJRDuvrq9E106Cx9hqmsFMKMnVATj5uApKOILaXa3BeTojf-TBEqe80iUtz-dyqlLSxbgygqj-hE_rSeJMWAM40HIdWkY1YhGD5dYjzVSMwNAn4GbfaCijDUoudDau-DIj/s1600/router.jpg"
-  },
-  {
-    "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-    "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-    "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 22 Jun 2026 11:36:53 +0530",
-    "timestamp": 1782108413.0,
-    "isoDate": "2026-06-22T06:06:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCZyCo0qR6bFgeSdNHxD4d56tgq1YYTWI2aMHnDz63YlOYGrMbPnbpAumvGLNyZxxfLVTYEi7VBiVscqTpCC2sgfMtX-YFVAvy_flQZTKinHhT6qtKIc6boJfuGC4sbpNl9qYfblyZZizkaDRkMIScE3upxa-vBcGYeL6YqTBufD1ro3t0Mpwa6O8Ag4iU/s1600/asia.jpg"
   }
 ]
