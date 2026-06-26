@@ -1,5 +1,60 @@
 [
   {
+    "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+    "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+    "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 26 Jun 2026 18:30:41 +0530",
+    "timestamp": 1782478841.0,
+    "isoDate": "2026-06-26T13:00:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0PC1aWOiorYx2AGD7fl-IVefJBKPJvjy7sMo5MURoMlaq492QcSdpSqqdGZRZk3u3e6BMS7qVzrJXBuWk-kH4oRqQy1cHTxkvHBLMMbllF9R_rNqL618rz5zEV_FfOvE0_YQgI-VVWbVX772Bc72qSphwMK-TtOAoZ5A9swYpvSNYsFfdR17i8AAXXzDZ/s1600/linux-hack.jpg"
+  },
+  {
+    "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+    "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 26 Jun 2026 18:01:56 +0530",
+    "timestamp": 1782477116.0,
+    "isoDate": "2026-06-26T12:31:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1600/ptc.jpg"
+  },
+  {
+    "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+    "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+    "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration for this variant. Tracked as CVE-2026-435…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 26 Jun 2026 17:21:35 +0530",
+    "timestamp": 1782474695.0,
+    "isoDate": "2026-06-26T11:51:35+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrcFiZh5KSQ9sYpF7Fafoy8kYny6olyD5WlY_oaAdYt0krMeOL8eNiTItqYmEmJ55wueKdZJlhIKMun7kwQR8AbbFPKTw0Nv-qJbPiaKA1n2J1rUHBV3YuRmdJHQpOTlsKctFMXoO8ogpgHC8rXls3FGamF7p7K1gxc-7dmU2va58Es1c40FV8AZFR-w/s1600/dirtyclone.jpg"
+  },
+  {
+    "title": "Guardian Agents: The Next Layer of Identity Governance",
+    "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+    "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 26 Jun 2026 17:00:00 +0530",
+    "timestamp": 1782473400.0,
+    "isoDate": "2026-06-26T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySQAlgg9_uk-lgoIhvKGoXnx274-L4HUyTdvRdDTEabD2GvfR6LY81pn8p-Vo1mSdb_ycPyUyilvhlpWRYRlb9nulwVW1MCIkZABPd-KelEYK9NAqh_tefhmTmPeDkU9D7LQqW1Yfk0rAMbK1S9-q2CVCDgDk3uu5AQOT_hcnkYKRsD169PeWiwqTq4g/s1600/guardian-agents.jpg"
+  },
+  {
+    "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+    "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecos…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 26 Jun 2026 16:35:45 +0530",
+    "timestamp": 1782471945.0,
+    "isoDate": "2026-06-26T11:05:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhatZ2Vkvxd086INLXiuhbRJrli5Ao9hoNajbVq-Xr0HVAS70cCzhRBfM78KEusnBPI1sXyAK5tYrKt55U5mTIXCQDAmBzY2e860qtXo4YAlvAnVWHDV3DddKUML1q1g71h97Ke1i-714gv5SaVW9lmaFNtRda5XP1kc20urtc-HzlX5JXwkQv0g_-1VwC3/s1600/Miasma.jpg"
+  },
+  {
     "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
     "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
     "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The c…",
@@ -273,60 +328,5 @@
     "timestamp": 1782145740.0,
     "isoDate": "2026-06-22T16:29:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4IfKMjQxVhpOYdrcCC4ty0vlGBDg_qCZuuvSTvyVWXYPXQlli7qyCZkPdHHuGJp-HVH1s-HGmf_Zqn97o2Qz5JOHaZ-Mk1mecm4W4yUBiCaejJL5guczISx2Q8ZH7RvS_4fXiNdHemr1aWKwz0CcyBJI_4_jFjQhY5JedBz_-pSiSQ1eQCF_BPYEbRs/s1600/sq.jpg"
-  },
-  {
-    "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-    "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-    "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conve…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 22 Jun 2026 21:43:28 +0530",
-    "timestamp": 1782144808.0,
-    "isoDate": "2026-06-22T16:13:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjCumekV1hjkgdgebp4RqfYc_Yt9Swv4lG7ds3XMDHG9f-JxSuJSWY3UcWIoivJoJkJjdlBvtiQAHKy7NNgApCoD8ADtOpicXvKf9RJwAZT1DEGUkgX87bmSR8cO75Ss__mnLn8MyDEddnzhyphenhyphenRfcf_gWEtoLiKu53yXNQJtT0DP7nZufqBhB3P8VmvV48/s1600/dify.png"
-  },
-  {
-    "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-    "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic Security Labs, the campaign leverages malicious Google A…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 22 Jun 2026 18:50:12 +0530",
-    "timestamp": 1782134412.0,
-    "isoDate": "2026-06-22T13:20:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sz7SHbQd4E8HNEKbvGGSYhPpJrUydP_gCRt_mWYYTr6QHLmChyphenhyphenca6BXhLBXA4OyKw-eS9xbqRqpKcYWFqDp4HoLBYKjVdWzhF0K1pqjX2bPtB91y1P1PZ8gh5r7Bpp-PIeUJVi_Hki91Qf6YjFAtFmf-qh7V9gNzmbEh_A2lISCvCDnNMALAuiqAlkL_/s1600/loader.jpg"
-  },
-  {
-    "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-    "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-    "summary": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Android phones in Brazil, Ind…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 22 Jun 2026 18:15:08 +0530",
-    "timestamp": 1782132308.0,
-    "isoDate": "2026-06-22T12:45:08+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisV9q8kKe0eopbInTHgwScUvzjKlnPTpk74j7M6F-6BH46hVr9wcadvztA2RYJdKDQDzpV89bN4wH0hEL9qTfIh2_4f3FEIT1OWwSeYehcOb-sVNNkEshTBBC6qviBMlFuwMXQL2iG_VVVBaT6NoGnbdcVBfcMm61T6NosKLtOdMgIebKCRh7hukQxIOk/s1600/playstore.jpg"
-  },
-  {
-    "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-    "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-    "summary": "Earlier this month, I spoke at the Gartner Security & Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hij…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 22 Jun 2026 17:28:00 +0530",
-    "timestamp": 1782129480.0,
-    "isoDate": "2026-06-22T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdS_7552zEvsn5xVfDcVMG2u8ponFIE1E65j5A8Wx-qUroU49h-f6qF7FPCABA063IjNnw-JntL-L1iZjHpiuqATqkDv-2vpi6lCVG1idXkg_elRJkyoUgASk4uYCTJ95EHfVQLJngVLKOxM2H5zLkdeFY7kpzveHUuKFoks0_ujNo9tJNQxm7XVgYb4/s1600/xmcyber.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-    "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-    "summary": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying p…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 22 Jun 2026 16:25:10 +0530",
-    "timestamp": 1782125710.0,
-    "isoDate": "2026-06-22T10:55:10+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1600/recap-main.gif"
   }
 ]
