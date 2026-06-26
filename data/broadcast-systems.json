@@ -1,13 +1,57 @@
 [
   {
-    "title": "Adobe Acquires Topaz Labs, Bringing AI Upscaling and Restoration In-House",
-    "link": "https://www.newsshooter.com/2026/06/25/adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house",
-    "summary": "Adobe has entered into a definitive agreement to acquire Topaz Labs, the company behind Topaz Video, Topaz Photo, and Gigapixel. The deal was announced June 25, 2026, and is expected to close in the second half of the year, pending regulato…",
+    "title": "Canon EOS C400, EOS C80, & EOS C50 Firmware Updates",
+    "link": "https://www.newsshooter.com/2026/06/25/canon-eos-c400-eos-c80-eos-c50-firmware-updates/?utm_source=rss&utm_medium=rss&utm_campaign=canon-eos-c400-eos-c80-eos-c50-firmware-updates",
+    "summary": "New firmware is now available for the Canon EOS C400, EOS C80, and EOS C50. This update introduces new workflow enhancements, including USB-C camera control, improved level indicator visibility, SRT auto-reconnection, and more. The new firm…",
     "source": "Newsshooter",
     "category": "broadcast-systems",
-    "timeAgo": "Thu, 25 Jun 2026 15:46:17 +0000",
-    "timestamp": 1782402377.0,
-    "isoDate": "2026-06-25T15:46:17+00:00",
+    "timeAgo": "Fri, 26 Jun 2026 03:00:11 +0000",
+    "timestamp": 1782442811.0,
+    "isoDate": "2026-06-26T03:00:11+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Profoto Softboxes XL",
+    "link": "https://www.newsshooter.com/2026/06/25/profoto-softboxes-xl/?utm_source=rss&utm_medium=rss&utm_campaign=profoto-softboxes-xl",
+    "summary": "Profoto Softboxes XL are now available in three new sizes: 5’ Octa, 4×6’, and 1×6’ with silver and white interior options. The three XL options combine a larger, softer light source with a quick setup. The softboxes feature an integrated sp…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 26 Jun 2026 02:45:07 +0000",
+    "timestamp": 1782441907.0,
+    "isoDate": "2026-06-26T02:45:07+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Krotos Video to Sound Plugin Now Available for Adobe Premiere Pro",
+    "link": "https://www.newsshooter.com/2026/06/25/krotos-video-to-sound-plugin-now-available-for-adobe-premiere-pro/?utm_source=rss&utm_medium=rss&utm_campaign=krotos-video-to-sound-plugin-now-available-for-adobe-premiere-pro",
+    "summary": "Krotos has announced its Video to Sound Plugin is now available for Adobe Premiere Pro. Editors can now analyze footage, generate synchronized sound effects, and refine results directly inside Adobe Premiere Pro using Krotos’ library of pro…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 26 Jun 2026 02:23:53 +0000",
+    "timestamp": 1782440633.0,
+    "isoDate": "2026-06-26T02:23:53+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Leica SL3-P Mirrorless Camera with 50mm f/1.4 & 100mm f/2.8 Lenses",
+    "link": "https://www.newsshooter.com/2026/06/25/leica-sl3-p-mirrorless-camera-with-50mm-f-1-4-100mm-f-2-8-lenses/?utm_source=rss&utm_medium=rss&utm_campaign=leica-sl3-p-mirrorless-camera-with-50mm-f-1-4-100mm-f-2-8-lenses",
+    "summary": "Leica’s first new camera of 2026 is the SL3-P Mirrorless Camera, and they have also announced two new lenses, the APO-Macro-Elmarit-SL 100mm f/2.8 and the Summilux-SL 50mm f/1.4 ASPH. Leica is claiming that the SL3-P is the most advanced fu…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 26 Jun 2026 02:05:19 +0000",
+    "timestamp": 1782439519.0,
+    "isoDate": "2026-06-26T02:05:19+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "OWC Atlas Core 256GB CFExpress 4.0 Type B Memory Card",
+    "link": "https://www.newsshooter.com/2026/06/25/owc-atlas-core-256gb-cfexpress-4-0-type-b-memory-card/?utm_source=rss&utm_medium=rss&utm_campaign=owc-atlas-core-256gb-cfexpress-4-0-type-b-memory-card",
+    "summary": "OWC has announced the Atlas Core CFexpress 4.0 Type B 256GB memory card. The Atlas Core memory card is claimed to provide essential speed and the highest level of reliability at a very reasonable price. The card was designed for Canon R-ser…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 26 Jun 2026 01:20:57 +0000",
+    "timestamp": 1782436857.0,
+    "isoDate": "2026-06-26T01:20:57+00:00",
     "imageUrl": ""
   },
   {
@@ -85,28 +129,6 @@
     "timeAgo": "Thu, 25 Jun 2026 08:42:23 +0000",
     "timestamp": 1782376943.0,
     "isoDate": "2026-06-25T08:42:23+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Fusion Studio 21.0.1 Update",
-    "link": "https://www.newsshooter.com/2026/06/25/fusion-studio-21-0-1-update/?utm_source=rss&utm_medium=rss&utm_campaign=fusion-studio-21-0-1-update",
-    "summary": "Blackmagic Design has released the Fusion Studio 21.0.1 Update that adds improvements and bug fixes for the Fairlight Live public beta, including a new fader flip option, which lets faders map to aux, matrix, and mix minus send levels, new …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 25 Jun 2026 08:35:41 +0000",
-    "timestamp": 1782376541.0,
-    "isoDate": "2026-06-25T08:35:41+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "DaVinci Resolve 21.0.1 Update",
-    "link": "https://www.newsshooter.com/2026/06/25/davinci-resolve-21-0-1-update/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-21-0-1-update",
-    "summary": "Blackmagic Design has released the DaVinci Resolve 21.0.1 Update that adds more accurate DNG and Apple ProRAW decoding for consistent color and brightness of images, plus improved HDR metadata handling for H.265 HDR renders. The update also…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 25 Jun 2026 08:31:53 +0000",
-    "timestamp": 1782376313.0,
-    "isoDate": "2026-06-25T08:31:53+00:00",
     "imageUrl": ""
   },
   {
@@ -198,17 +220,6 @@
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/Moments-Lab-EBU-Collections-726x412.png"
   },
   {
-    "title": "SmallRig Amazon Prime Day Sale Starts Now. Save Up to 30%",
-    "link": "https://www.newsshooter.com/2026/06/22/smallrig-amazon-prime-day-sale-starts-now-save-up-to-30/?utm_source=rss&utm_medium=rss&utm_campaign=smallrig-amazon-prime-day-sale-starts-now-save-up-to-30",
-    "summary": "Sponsored Article SmallRig is running Prime Day deals across its full lineup — tripods, V-mount batteries, LED lights, phone filmmaking rigs, action camera cages, and more. Discounts range from 10% to 35%. All deals are live on Amazon.com. …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 23 Jun 2026 05:35:00 +0000",
-    "timestamp": 1782192900.0,
-    "isoDate": "2026-06-23T05:35:00+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Partnership brings emotionally authentic multilingual AI dubbing to vertical video",
     "link": "https://www.tvbeurope.com/audio/partnership-brings-emotionally-authentic-multilingual-ai-dubbing-to-vertical-video",
     "summary": "The collaboration aims to enable emotionally authentic AI-driven dubbing at scale, meeting the growth in demand for mobile-first microdrama content The post Partnership brings emotionally authentic multilingual AI dubbing to vertical video …",
@@ -240,17 +251,6 @@
     "timestamp": 1782117874.0,
     "isoDate": "2026-06-22T08:44:34+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/BBC-RD-SIgnals-Wimbledon-726x408.jpg"
-  },
-  {
-    "title": "Prime Day Camera Deals: DJI Osmo 360 at Its Best Price of the Year, Osmo Nano Supports 4 Interest-Free Installments",
-    "link": "https://www.newsshooter.com/2026/06/22/prime-day-camera-deals-dji-osmo-360-at-its-best-price-of-the-year-osmo-nano-supports-4-interest-free-installments/?utm_source=rss&utm_medium=rss&utm_campaign=prime-day-camera-deals-dji-osmo-360-at-its-best-price-of-the-year-osmo-nano-supports-4-interest-free-installments",
-    "summary": "Sponsored Article Amazon Prime Day is just around the corner. Every year, gear enthusiasts mark June 23–26 on their calendars — this is one of the rare opportunities to bring home your long-coveted camera at a price significantly lower than…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 22 Jun 2026 07:00:12 +0000",
-    "timestamp": 1782111612.0,
-    "isoDate": "2026-06-22T07:00:12+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Warner Bros Discovery builds agentic AI-powered adtech stack on AWS",
