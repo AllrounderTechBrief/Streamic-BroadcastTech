@@ -1,5 +1,16 @@
 [
   {
+    "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
+    "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
+    "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 27 Jun 2026 22:57:11 +0530",
+    "timestamp": 1782581231.0,
+    "isoDate": "2026-06-27T17:27:11+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL9wu_kGShq1lDTiDFjL3VdxF51l9aXdtW8vfE6Z0f3nLKXnr3WctY8jw3INV7FcO0FmLzv_EVCkfmsC4AmEaPih-SD_c24f8R_MJjjNT8OBdd6SuwVECGV3VdxnMDBs7ULHaVBFPPGkZZcruUhMcbmYE-RQu-QTZfn7rEWltSSSdFLhJeZKIZy4jZzl7L/s1600/cyberattack.jpg"
+  },
+  {
     "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
     "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
     "summary": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government. While Sol is the latest flagship model and the …",
@@ -317,16 +328,5 @@
     "timestamp": 1782224523.0,
     "isoDate": "2026-06-23T14:22:03+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcacTEKD_LZFda1wwX5aClbAVOb6mwah2lVUY-jUZwNsrSZGDOFL18LP5zYLX3M2DwKng0qknZ5qo_hMk4q-NExgZv1ozhCy7DJuZwvviZE0sv36PQ2k8Y2emv1KMDFplakFwVzulOFPteWkmVoLO6Le912KAbJGFW0nkqKWHEkwJQLbsGhz5npWO3aJaR/s1600/github-actions.jpg"
-  },
-  {
-    "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-    "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-    "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 23 Jun 2026 17:00:00 +0530",
-    "timestamp": 1782214200.0,
-    "isoDate": "2026-06-23T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5YrdKJuy4ZmnWf_7L2RdXqS2QWC2BHJIbGsapJLmmYy1hBXfHxE7WMk-itWDkh-oCbAr8-CZOiUTyLftdM6191lDL8Iu2ENNU_i6Wfw2qy3lKY41iCrOnaLXHIl8cWDto42eqVlnsM4OetK0ymQUnwdpRXIniZQ-o7pBIDkqOYbm7o4CMlQTYFOeQyJI/s1600/ai-weapon.jpg"
   }
 ]
