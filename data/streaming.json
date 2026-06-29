@@ -1,5 +1,16 @@
 [
   {
+    "title": "Hackathon spotlight: bringing Media over QUIC into Bitmovin’s Live Encoder",
+    "link": "https://bitmovin.com/moq-live-encoding-hackathon/",
+    "summary": "TL;DR Live streaming protocols have long been shaped by the constraints of TCP. RTMP and SRT both work around those constraints in different ways, but neither was designed for the low-latency, resilient delivery that modern live streaming d…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Thu, 25 Jun 2026 14:22:09 +0000",
+    "timestamp": 1782397329.0,
+    "isoDate": "2026-06-25T14:22:09+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-10.jpeg"
+  },
+  {
     "title": "Hackathon spotlight: making video ads smarter with V.I.B.E.",
     "link": "https://bitmovin.com/blog/shoppable-video-ai-vibe-bitmovin/",
     "summary": "TL;DR Ad opportunities are being missed. Someone is watching a thriller on a streaming service. A character pulls on a jacket that looks incredible. They reach for their phone, open a browser, try to describe what they just saw, scroll thro…",
@@ -427,17 +438,6 @@
     "timestamp": 1778872127.0,
     "isoDate": "2026-05-15T19:08:47+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/30/video1_S4c.png"
-  },
-  {
-    "title": "How Purpose-Built Observability Improves Streaming Quality and Reduces Churn",
-    "link": "https://bitmovin.com/blog/observability-for-video-playback/",
-    "summary": "General-purpose observability tools were built for infrastructure, not video. When streaming teams try to adapt them to player-level workflows, they hit immediate limits: no native understanding of buffering or bitrate shifts, no visibility…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Fri, 15 May 2026 15:44:12 +0000",
-    "timestamp": 1778859852.0,
-    "isoDate": "2026-05-15T15:44:12+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2025/07/Real-time-observability-example.png"
   },
   {
     "title": "Getting Started with Wait and Save service-managed fleets on AWS Deadline Cloud",

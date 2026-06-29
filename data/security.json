@@ -1,5 +1,38 @@
 [
   {
+    "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+    "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+    "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The optional feature is designed to help users connect with…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 29 Jun 2026 21:39:21 +0530",
+    "timestamp": 1782749361.0,
+    "isoDate": "2026-06-29T16:09:21+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio-ZtaOMuibm1cwTHj1YFNRqRbs2GdaipPSXv1pzX9qcUI2VS6MGjpxEcNnhU0zniwOokUFL530mntMPSO2X8CjA3ybwYDXEwsJb9sV7nP9QWiDHLTiYV6Yf10B9qHNTdqsU3hn-ac8mzmzghyphenhyphenrhvgSJQBEgP723mfcyNA4y1ck5wKPBY1ELzb_xpQhB_s/s1600/whatsapp-usernames.jpg"
+  },
+  {
+    "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+    "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+    "summary": "The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel. Acronis Threat Research Un…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 29 Jun 2026 20:33:40 +0530",
+    "timestamp": 1782745420.0,
+    "isoDate": "2026-06-29T15:03:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4479X60pqma2HNkNzrVQuQlGImd-48w4eYTTW-wylTLfK7XfLPtmNOMi79oy48LNiFg-4a_vqF378ZobR2Dy6VTO38VxbsFc_l8xQypwe-V43txSB7f73JS142E4uBXjrLKx0lcS-UOUMZ45kLeYgaqCjg2Je2TElLosoBvARIQpzam5q3ckk5CVXsoAF/s1600/india-china.jpg"
+  },
+  {
+    "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+    "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+    "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 29 Jun 2026 20:11:07 +0530",
+    "timestamp": 1782744067.0,
+    "isoDate": "2026-06-29T14:41:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXmUW2VYnBd5oSyq6V328rZOIdanacqm-k4Wae2x53iAvPb7YvO7rqDcfWTklR_skhgLDVTThASQvf4UATgFVoVy1iHddO0Nxp9zkhuVEROXkqDAEyyWZZWzMZLNy1apXbCj1xttx9kYI_jPbLmV5hmUHJEkS_Efo9GiFAg5snM_JNwWKDDbMW5wuvwyl/s1600/thn-recap-main.jpg"
+  },
+  {
     "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
     "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
     "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App. The templates …",
@@ -295,38 +328,5 @@
     "timestamp": 1782321558.0,
     "isoDate": "2026-06-24T17:19:18+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjZtIkR9YS2fMY5MvIzgyEShmJAP1bgHqhBdU115iSY7WZ2EcBAbFKb1OQP6Nq8hoF4HlnRifxW890ztCcnezyAivPNWZjVsyJrhoNe8BVnZgSfcRo1Jbl4XilQM9bcQTU9nOeDgfWXSzh9sBru4RH6mDhwa1IijucDmj-l1gVI8NAiQRzu0IJ8d2AIVh9/s1600/1000085210.jpg"
-  },
-  {
-    "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
-    "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
-    "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC. \"The main commo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 24 Jun 2026 21:29:50 +0530",
-    "timestamp": 1782316790.0,
-    "isoDate": "2026-06-24T15:59:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBVSibdiZdJ1tNYJFrsHtZ8Vr1EG28rqKLY4E7HvAtuax2i3vgpcaMZjEAcGDRxUVu5aa_BHzCAahpw5l2RP2HNw9t7PF6zknNICdw0iuW5jozt5fzqsSfb3Lw55MIvStq2vh5W0139JychUhhJHvchyphenhyphenm7tT2oTS555CkVZrBYSkhmlMKWaXMLtO4OcSp6/s1600/cybercrime-ms.jpg"
-  },
-  {
-    "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
-    "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
-    "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical exploitable pattern\" has been codenamed Cordyceps by Novee Secur…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 24 Jun 2026 18:18:11 +0530",
-    "timestamp": 1782305291.0,
-    "isoDate": "2026-06-24T12:48:11+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_D6QzBWfQRZAXbjo9RhhLXSedzJR2Q2sUQoQYnDxpC7yETzJgn3KnpT8CcoqlfXdqkcnTCNcEpR1QKphy77NvG_9PIO57hHNF27x8pBb1pLf_4n3A6pTBs3qXQMsz81rvzpGIOqHZn7VqvJoJoB98o7COHOxi5wfkQvxhL4LcOxBkziY4MLxVCEOljX8/s1600/1000085115.jpg"
-  },
-  {
-    "title": "Dawn of the Apex Agentic Adversary",
-    "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
-    "summary": "We are standing at the end of an era we never thought to mourn: the era of human-speed threats. For years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a vendor navigated a patch…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 24 Jun 2026 17:00:00 +0530",
-    "timestamp": 1782300600.0,
-    "isoDate": "2026-06-24T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuQ2GvCcnjBgMTXoXBXqazE9MU3nbNgeccOlWELBQOL9WcHHH4uXS1BKCrrmv6iWWAn6vu1LZJzpHl1MGetv8EfnylIM48MlBK91Gyiz5zCL6cMFr6sJd5x0qdSvjPkwm-V5ON79TgMNPHdOuGQIqSWwTdQcmBnEjehYuDoKMllm9Xray6dVy2uqexoas/s1600/apex.jpg"
   }
 ]
