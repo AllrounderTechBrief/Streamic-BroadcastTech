@@ -1,5 +1,38 @@
 [
   {
+    "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+    "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+    "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company ca…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 29 Jun 2026 14:02:31 +0530",
+    "timestamp": 1782721951.0,
+    "isoDate": "2026-06-29T08:32:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmbNHaJMqOcEeoUkaQeIZC_ilbUt8RpG-kyweNVY_fJ_3BQk19-pmJQXV_soXqZiHleBISNTwcYSqew2nzpc3eBEDULz52KaY1RNrJTb7u87f2oEtpJuTtmi4OL6Lc_HXP9WQcMDRco_w4U5mklzQ1QJj8ndNiBYVQRRUsevzc1P6hZe2N26_lyAhkQbsP/s1600/edge.jpg"
+  },
+  {
+    "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+    "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+    "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user inte…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 29 Jun 2026 12:36:34 +0530",
+    "timestamp": 1782716794.0,
+    "isoDate": "2026-06-29T07:06:34+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9yQyR_bCP0-I73R6EpwLjJtptGUvzeJD90oYzZvFZXVnM99EIvHFtIJlhZ2f4NSZkAyO7JWjJOy6Zd3lAtPz1Bbk2vmj7Ls8aMIZsFqiIVtIArSjypgJRIHJzlDN5BykKcZziAicpJiNE02Wg3Aheu5BIF1SvY3Pn09WYcdLtvWAT5giGf9mC_uY9GkG/s1600/ssh.jpg"
+  },
+  {
+    "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+    "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+    "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most comm…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 29 Jun 2026 11:06:06 +0530",
+    "timestamp": 1782711366.0,
+    "isoDate": "2026-06-29T05:36:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjmO4haWCgXfALMAtSHKJXRWIlLfYqulkKflfK-3BSYON-8A4MjUNoZRxOyaLGc-4Bsj1eIfGDhdpJuKZrJORz4HZHx5iM7lj0-VlehqqZ6kaq5_ZWP08MviAchtNF1XORD_Fps-IWderGKNM18TT-Jgh_0LRFULqdMeOfv_FKDd8oWmHmv-iR1-_7XZP/s1600/gogo.jpg"
+  },
+  {
     "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
     "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
     "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government …",
@@ -295,38 +328,5 @@
     "timestamp": 1782238849.0,
     "isoDate": "2026-06-23T18:20:49+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJkhDD5qINhfAhBFXG2C13raQF6T6zAOmnHlArhnLUP5z0ifBzpyq6M_4n11cgynQfZW0mxJWnYU-TDYSpKQHYFHvXsZHCB7uoMFg0w02yZILY-JLMm2-uqm-CA_wIqZHhzl25FfO_lMd7dYm6VfprDP83bz_SoB3MWLEc059E4YCa554bba-qWHW5udHv/s1600/fortigate.jpg"
-  },
-  {
-    "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-    "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
-    "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security scanner the firm tested …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 23 Jun 2026 20:46:43 +0530",
-    "timestamp": 1782227803.0,
-    "isoDate": "2026-06-23T15:16:43+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb14v3ddlfpybc15jRbk-cwHI-0S8BAzdp8Ix83L5ZCZ4AB8gCySG7J4tZr4od9q3Jbuic1a4J29VAvRcdSQag_-ju1o9ae9yCcL6XV_jRDVhgd31E5BljiThpXcfHu_gdsmSySY8o0WyjuUoSQ5CGOyKO3cKXVDYeGKa1b1up2VM5ZJE6_PjPNCVOD_M/s1600/skills.jpg"
-  },
-  {
-    "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
-    "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
-    "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key establishment must move by December 31, 2030; digital signa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 23 Jun 2026 20:46:40 +0530",
-    "timestamp": 1782227800.0,
-    "isoDate": "2026-06-23T15:16:40+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoC7KFWoDGkSi-UzAyKNUkw-Ogs4oy2tCOAYXiYAAkqEUC1WMotLAE1GUwoWApfXK3prWVctTP05aLGjru0hDBfJkZ1NzPiFeI1VObgSNCx4egTrYhKIUt4m1S14eQ6_GpdffFBL4Ak3Mgjw7UiiBethv1lmyd_OaPIfhk_b-zuMjxCHLZtih8Tk6MtRg/s1600/unitedstates.jpg"
-  },
-  {
-    "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
-    "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-    "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's ful…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 23 Jun 2026 19:52:03 +0530",
-    "timestamp": 1782224523.0,
-    "isoDate": "2026-06-23T14:22:03+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcacTEKD_LZFda1wwX5aClbAVOb6mwah2lVUY-jUZwNsrSZGDOFL18LP5zYLX3M2DwKng0qknZ5qo_hMk4q-NExgZv1ozhCy7DJuZwvviZE0sv36PQ2k8Y2emv1KMDFplakFwVzulOFPteWkmVoLO6Le912KAbJGFW0nkqKWHEkwJQLbsGhz5npWO3aJaR/s1600/github-actions.jpg"
   }
 ]
