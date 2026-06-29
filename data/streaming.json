@@ -1,5 +1,16 @@
 [
   {
+    "title": "Hackathon spotlight: making video ads smarter with V.I.B.E.",
+    "link": "https://bitmovin.com/blog/shoppable-video-ai-vibe-bitmovin/",
+    "summary": "TL;DR Ad opportunities are being missed. Someone is watching a thriller on a streaming service. A character pulls on a jacket that looks incredible. They reach for their phone, open a browser, try to describe what they just saw, scroll thro…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Thu, 25 Jun 2026 13:12:08 +0000",
+    "timestamp": 1782393128.0,
+    "isoDate": "2026-06-25T13:12:08+00:00",
+    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-8.jpeg"
+  },
+  {
     "title": "How we built saga rollbacks for Cloudflare Workflows",
     "link": "https://blog.cloudflare.com/rollbacks-for-workflows/",
     "summary": "Cloudflare Workflows, our durable execution engine for multi-step applications, now supports saga-style rollbacks, allowing developers to specify a compensating action for each step.do().",
@@ -30,7 +41,7 @@
     "timeAgo": "Tue, 23 Jun 2026 18:25:18 GMT",
     "timestamp": 1782239118.0,
     "isoDate": "2026-06-23T18:25:18+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/399EKuhN38jLx1pAGEgx3z/1f93784f4c98df9a108b5c8d1803218b/BLOG-3360_3.png"
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4ZPdZZj0jIz2ZFsgOdTLnW/b3633cb8438622a4af0bba1ad63c799d/Screenshot_2026-06-29_at_12.23.04.png"
   },
   {
     "title": "How we found a bug in the hyper HTTP library",
@@ -427,17 +438,6 @@
     "timestamp": 1778859852.0,
     "isoDate": "2026-05-15T15:44:12+00:00",
     "imageUrl": "https://bitmovin.com/wp-content/uploads/2025/07/Real-time-observability-example.png"
-  },
-  {
-    "title": "The Future of VOD Workflows in an AI-Driven Streaming Industry",
-    "link": "https://bitmovin.com/blog/ai-vod-workflows-performance-revenue/",
-    "summary": "Over 90% of video teams are already exploring AI in their workflows. The question is how to integrate it in a way that actually moves the needle. This post covers how content-aware encoding, automated scene metadata, contextual advertising,…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Thu, 14 May 2026 14:59:48 +0000",
-    "timestamp": 1778770788.0,
-    "isoDate": "2026-05-14T14:59:48+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Getting Started with Wait and Save service-managed fleets on AWS Deadline Cloud",

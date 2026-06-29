@@ -1,5 +1,38 @@
 [
   {
+    "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+    "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+    "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App. The templates …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 29 Jun 2026 17:27:40 +0530",
+    "timestamp": 1782734260.0,
+    "isoDate": "2026-06-29T11:57:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK82zgZh0edVIi1z4Rs0V9v_8tn_Mh_X6_H5TQYnFwEtbrE1dhjw5Z-9U99Lojet5RdcrIgwJK0bZusY4u22qKVFBzpCuHihAzXd4RNuJQGSxEfdNlBH4GFZYedXXohyQdbfNYIxr9LV6KFgUyX3CWVjfsOiIQRq3JEXmGRrR9afqsfMoeR-BH_kZmTCKd/s1600/phish-uni.jpg"
+  },
+  {
+    "title": "Why Post-Quantum Cryptography Starts With Credentials",
+    "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+    "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryp…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 29 Jun 2026 17:12:16 +0530",
+    "timestamp": 1782733336.0,
+    "isoDate": "2026-06-29T11:42:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufw7UrtG2RgRTMvdhUaNVywdIBuSIRFLngtWMIY_3fzq7gzTZnlL7KMi_kzPhfpdny4vP5Rd9QVLpkX9xR5Vpk0cVvDV8Xsy4wljRyA5TjKvojsoBsYJt7yhhk1VK46OegGewBgqi-c41Z5mX5Ivos1PMrgrrmgLZKUJ8hqb4xl8o85sB7jQJLvI3gj0/s1600/keeper.jpg"
+  },
+  {
+    "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+    "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+    "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinc…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 29 Jun 2026 17:10:24 +0530",
+    "timestamp": 1782733224.0,
+    "isoDate": "2026-06-29T11:40:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvTMs5lEwRQ2ndqc7YNsz1eNQK0XuR_q4uSjl8tLZ8Nh8vA4WRKZsQhyphenhyphenUx1O0gR-QJtdvAj8LDEUaGscAEXAlA9_e9c0LNtEeV-6NJzdqEdGt0gb7mDEUBNmlMNI2L05YQ8lPXA6kNBFL4s7BsjiJSPD72fyhQq2fmYJwZBPQhyHI4PN_zvSrnxtRbRtI/s1600/uk.jpg"
+  },
+  {
     "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
     "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
     "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company ca…",
@@ -295,38 +328,5 @@
     "timestamp": 1782300600.0,
     "isoDate": "2026-06-24T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuQ2GvCcnjBgMTXoXBXqazE9MU3nbNgeccOlWELBQOL9WcHHH4uXS1BKCrrmv6iWWAn6vu1LZJzpHl1MGetv8EfnylIM48MlBK91Gyiz5zCL6cMFr6sJd5x0qdSvjPkwm-V5ON79TgMNPHdOuGQIqSWwTdQcmBnEjehYuDoKMllm9Xray6dVy2uqexoas/s1600/apex.jpg"
-  },
-  {
-    "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
-    "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
-    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine indiv…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 24 Jun 2026 14:25:12 +0530",
-    "timestamp": 1782291312.0,
-    "isoDate": "2026-06-24T08:55:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwWpkKj6KRX5Q7jeH07PFaANRRfRbl_CdrBEZ0cypjUg2UBsy49GSGNAOXF74dDez1H9xz_FXTMWh1lziO6f1Q0xrhjZRICtxmzQQJruQoQ8fk33kgTacTn5Y0BrNHmkHfLy3iC4s2oEL7H2CRCaBTcbLBqCbg3jcSFfHTSYiIa_RZV49sE58GCHOWorXJ/s1600/cybercrime.jpg"
-  },
-  {
-    "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
-    "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
-    "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 24 Jun 2026 12:20:38 +0530",
-    "timestamp": 1782283838.0,
-    "isoDate": "2026-06-24T06:50:38+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivauBSNOsDqBHvUFSnF1NdlWJ8BAt2JVgIo_ZUQhBkVppSz0PvkEmrc9RP1hMf2-oFFRgr5PNm7pxLmPngAJHcxV6-F3e43bEqmdEg38013JmlUKDlGVOLQTj6bYbyk_R7WXBqbW3o2yPHdosqz7nncLivqDqXGAuiTFcHkPqiVPBJuDHlsvYWtEreVmk_/s1600/cc.jpg"
-  },
-  {
-    "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-    "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
-    "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally. The campaign, ac…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 23 Jun 2026 23:50:49 +0530",
-    "timestamp": 1782238849.0,
-    "isoDate": "2026-06-23T18:20:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJkhDD5qINhfAhBFXG2C13raQF6T6zAOmnHlArhnLUP5z0ifBzpyq6M_4n11cgynQfZW0mxJWnYU-TDYSpKQHYFHvXsZHCB7uoMFg0w02yZILY-JLMm2-uqm-CA_wIqZHhzl25FfO_lMd7dYm6VfprDP83bz_SoB3MWLEc059E4YCa554bba-qWHW5udHv/s1600/fortigate.jpg"
   }
 ]
