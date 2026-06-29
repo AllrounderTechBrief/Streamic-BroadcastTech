@@ -1,5 +1,16 @@
 [
   {
+    "title": "How 5 migrated to AWS Elemental MediaPackage v2",
+    "link": "https://aws.amazon.com/blogs/media/how-5-migrated-to-aws-elemental-mediapackage-v2/",
+    "summary": "In this blog, learn how 5, part of Paramount, migrated from a dual-pipeline packaging architecture to AWS Elemental MediaPackage v2—consolidating infrastructure, eliminating manual failover, and expanding to new platforms across a 12-month …",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 29 Jun 2026 22:04:40 +0000",
+    "timestamp": 1782770680.0,
+    "isoDate": "2026-06-29T22:04:40+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/28/How-5-migrated-to-AWS-Elemental-MediaPackage-v2.png"
+  },
+  {
     "title": "Sony Marketing Inc. built Cloud-based live video production for sports events with AWS Elemental MediaConnect Router",
     "link": "https://aws.amazon.com/blogs/media/cloud-based-live-video-production-for-sports-events-with-aws-elemental-mediaconnect-router/",
     "summary": "In this post, we walk through how Sony extended their on-premises video production environment into the cloud, and how AWS Elemental MediaConnect Router solved a key technical constraint that made the hybrid architecture possible.",
@@ -207,16 +218,5 @@
     "timestamp": 1775510199.0,
     "isoDate": "2026-04-06T21:16:39+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/06/header-blog.png"
-  },
-  {
-    "title": "Live streaming localization and accessibility using AWS Media Services",
-    "link": "https://aws.amazon.com/blogs/media/live-streaming-localization-and-accessibility-using-aws-media-services/",
-    "summary": "This blog post provides a comprehensive overview of current streaming technology for localization and accessibility. It helps you evaluate live streaming localization technology and choose cost-effective, proven, integrated, deployable, and…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 01 Apr 2026 13:11:30 +0000",
-    "timestamp": 1775049090.0,
-    "isoDate": "2026-04-01T13:11:30+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/03/31/Figure-1-Integrations-points-in-the-media-processing-pipeline.png"
   }
 ]
