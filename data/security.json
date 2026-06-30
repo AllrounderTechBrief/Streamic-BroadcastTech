@@ -1,5 +1,27 @@
 [
   {
+    "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+    "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+    "summary": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitat…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 30 Jun 2026 16:48:47 +0530",
+    "timestamp": 1782818327.0,
+    "isoDate": "2026-06-30T11:18:47+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEid1CxvsX2dPrKoA1VzJ6PUhwrXxvSC4ehRmgyaRRCJlP_MFSeOxvwrT2ODJSbQx3E-7bBwBG4YpP3CQGLzojfXEveOgwZgUlcCSf-trk_G0k0Q1_nz4rb1nbRfhXgijfZ9eLDT8v_ATsmqz5AnbNgBuGX7UIc3YwAw1hYZwvzp5Z0eopWNRqTs4W3bP3/s1600/help-hackers.jpg"
+  },
+  {
+    "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+    "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+    "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior conn…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 30 Jun 2026 14:57:58 +0530",
+    "timestamp": 1782811678.0,
+    "isoDate": "2026-06-30T09:27:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCyrr25-wXst4kOLIEi1-Q1d5XMVDCvWqUacEoSRsLn6C5CbKoXGLb4nzTB-DVr9cLOkyuIT5wyMrQICAVhQFlTsXrR_Ng9CBBXPZGeK_rLtOVXh5C8CsrZHaGyJ5WukGI3vTpMOw1S09_U9j_s5rzEFcYq55g7ZmOthGTPw5XxJJkALMH9VOxr0DjX8Vi/s1600/share-ai.jpg"
+  },
+  {
     "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
     "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
     "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's crede…",
@@ -306,27 +328,5 @@
     "timestamp": 1782458146.0,
     "isoDate": "2026-06-26T07:15:46+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9SthtlfUvEkaX0iZanYdYTAOV5hgm44yCwHu_3GCaoa11rO-GkO9oc0_qN9JGw2n86dsEsN_sdaYt2ra_4I_dQ57ja0kiUeYtkg1eY8ZJtu45oKtN-TqWLdKudnJPFQQFGPReCfu1xcfHGgfqgtLe8zyFlEoMnO2AwnsEsosf9LCZS9gJHq58Q8OcPlWP/s1600/STOCKSTAY.jpg"
-  },
-  {
-    "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
-    "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
-    "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 25 Jun 2026 19:42:52 +0530",
-    "timestamp": 1782396772.0,
-    "isoDate": "2026-06-25T14:12:52+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtdBDQ0Y38i0JZmDwU6XKiZ1R6HJ0KHe59012E0krnPubG5pJgiTg6IUg4fHEzoW5jm7QyEk8fXOL9swj7FlpXdMcjyn0ltziMhQJD2pYPtzjXimsntV8DFg-c1erOgWkLl8du8eBvJYlukTCDDycp5jSmWNfwmv5WwGKlJRJvZt1GvUZZl24dP2HVDkn/s1600/adblocker.jpg"
-  },
-  {
-    "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
-    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
-    "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 25 Jun 2026 17:54:43 +0530",
-    "timestamp": 1782390283.0,
-    "isoDate": "2026-06-25T12:24:43+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO1f6pZmhVaPQd2FjrrAG-IbL0vMk7zHVZ6BqjzkzJS8qd7HlAtIJ-7chRUbqR7tZHPNqdZFbm0QL9O03mkW7YsOh0pVwW1_ogikaoxNX8dFd5-ZB4SwB7-tfpWmp9Hr22DJL6tzZgTdeFnCU4VwaZXSY_htGs2_xlaB8n0EOedrfe7wHuI30GXTF6Pofc/s1600/threatsday-june.jpg"
   }
 ]

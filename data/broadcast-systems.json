@@ -1,5 +1,27 @@
 [
   {
+    "title": "How ITV News uses story-centric working to power collaboration at scale",
+    "link": "https://www.tvbeurope.com/live-production/how-itv-news-uses-story-centric-working-to-power-collaboration-at-scale",
+    "summary": "A unified, 'single pane of glass' approach to ITV's newsroom technology aims to drive faster, better and more collaborative journalism at the UK's leading commercial broadcaster The post How ITV News uses story-centric working to power coll…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 30 Jun 2026 10:32:44 +0000",
+    "timestamp": 1782815564.0,
+    "isoDate": "2026-06-30T10:32:44+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/Jon-Roberts-726x408.jpg"
+  },
+  {
+    "title": "nanocosmos releases ‘first ever’ real-world dataset from MoQ in commercial video production",
+    "link": "https://www.tvbeurope.com/media-delivery/nanocosmos-releases-first-ever-real-world-dataset-from-moq-in-commercial-video-production",
+    "summary": "The MoQ data was gathered from across six continents during a 12-month period to present a broad picture of real-world performance The post nanocosmos releases ‘first ever’ real-world dataset from MoQ in commercial video production appeared…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 30 Jun 2026 09:41:34 +0000",
+    "timestamp": 1782812494.0,
+    "isoDate": "2026-06-30T09:41:34+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/unnamed-1-2-726x379.jpg"
+  },
+  {
     "title": "MainStreaming Edge video delivery helps ITVX boost ‘population level’ QoE",
     "link": "https://www.tvbeurope.com/media-delivery/mainstreaming-edge-video-delivery-helps-itvx-boost-population-level-qoe",
     "summary": "The collaboration aims to build a path towards broadcast-grade QoE at full population scale, said MainStreaming The post MainStreaming Edge video delivery helps ITVX boost ‘population level’ QoE appeared first on TVBEurope.",
@@ -251,27 +273,5 @@
     "timestamp": 1782296997.0,
     "isoDate": "2026-06-24T10:29:57+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Sportway capital injection boosts global expansion ambitions",
-    "link": "https://www.tvbeurope.com/business/sportway-capital-injection-boosts-global-expansion-ambitions",
-    "summary": "The investment reflects growing global demand for AI-powered sports production, personalised fan experiences and data-driven content solutions, said Sportway The post Sportway capital injection boosts global expansion ambitions appeared fir…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 24 Jun 2026 08:44:27 +0000",
-    "timestamp": 1782290667.0,
-    "isoDate": "2026-06-24T08:44:27+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/06/Ice-Hockey-726x408-1.jpg"
-  },
-  {
-    "title": "BBC records biggest ever UHD event during France v Senegal",
-    "link": "https://www.tvbeurope.com/media-consumption/bbc-records-biggest-ever-uhd-event-during-france-v-senegal",
-    "summary": "The broadcaster's second-screen 3D Experience was used more than a million times during the first week of the tournament The post BBC records biggest ever UHD event during France v Senegal appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 24 Jun 2026 08:36:42 +0000",
-    "timestamp": 1782290202.0,
-    "isoDate": "2026-06-24T08:36:42+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2019/01/bbciplayer_482.jpg"
   }
 ]
