@@ -1,5 +1,27 @@
 [
   {
+    "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+    "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+    "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthentica…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 30 Jun 2026 21:17:20 +0530",
+    "timestamp": 1782834440.0,
+    "isoDate": "2026-06-30T15:47:20+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA2GvsvmPnHZF-e1GDbhOVW4DxQZr79HzSMLp7-YKaA9DC-V2fVo6cmBig0bxUxWjK0Kz1mTm2Cmg6CrjaKgNhxC7xE6SsBxRx8DW5ljkMWPuJ0-7WUzxYbSrRWFdix8Nks8tobGkIY5cpNjczspeiKYyXYVSgoVct-7u1SFpWXB0mEi8AB5X-Wcp59Vca/s1600/Langflow.jpg"
+  },
+  {
+    "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+    "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+    "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 30 Jun 2026 21:10:18 +0530",
+    "timestamp": 1782834018.0,
+    "isoDate": "2026-06-30T15:40:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfz8WYO9wONzogh2V8g9VorZ8Ab_nAUZMD7rOM9xrVUhg3cbKGA5zc73PGQiAkbsNgY-qbm2AFAUjBdeMcpemGmDNWrvnpyjzKiqU8iJHMetkW68d20V_U-96mHOaHF6fff7VKBREN2v6fz1R_ahyIklq-Fd7ILYKxXck5ahL1BoFWC_CDQFrQZqQqg3hm/s1600/chrome-wallet.jpg"
+  },
+  {
     "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
     "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
     "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is named the bypass GuardFal…",
@@ -306,27 +328,5 @@
     "timestamp": 1782474695.0,
     "isoDate": "2026-06-26T11:51:35+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrcFiZh5KSQ9sYpF7Fafoy8kYny6olyD5WlY_oaAdYt0krMeOL8eNiTItqYmEmJ55wueKdZJlhIKMun7kwQR8AbbFPKTw0Nv-qJbPiaKA1n2J1rUHBV3YuRmdJHQpOTlsKctFMXoO8ogpgHC8rXls3FGamF7p7K1gxc-7dmU2va58Es1c40FV8AZFR-w/s1600/dirtyclone.jpg"
-  },
-  {
-    "title": "Guardian Agents: The Next Layer of Identity Governance",
-    "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-    "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 26 Jun 2026 17:00:00 +0530",
-    "timestamp": 1782473400.0,
-    "isoDate": "2026-06-26T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySQAlgg9_uk-lgoIhvKGoXnx274-L4HUyTdvRdDTEabD2GvfR6LY81pn8p-Vo1mSdb_ycPyUyilvhlpWRYRlb9nulwVW1MCIkZABPd-KelEYK9NAqh_tefhmTmPeDkU9D7LQqW1Yfk0rAMbK1S9-q2CVCDgDk3uu5AQOT_hcnkYKRsD169PeWiwqTq4g/s1600/guardian-agents.jpg"
-  },
-  {
-    "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-    "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-    "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecos…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 26 Jun 2026 16:35:45 +0530",
-    "timestamp": 1782471945.0,
-    "isoDate": "2026-06-26T11:05:45+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhatZ2Vkvxd086INLXiuhbRJrli5Ao9hoNajbVq-Xr0HVAS70cCzhRBfM78KEusnBPI1sXyAK5tYrKt55U5mTIXCQDAmBzY2e860qtXo4YAlvAnVWHDV3DddKUML1q1g71h97Ke1i-714gv5SaVW9lmaFNtRda5XP1kc20urtc-HzlX5JXwkQv0g_-1VwC3/s1600/Miasma.jpg"
   }
 ]
