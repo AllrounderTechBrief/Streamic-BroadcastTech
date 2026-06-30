@@ -1,5 +1,27 @@
 [
   {
+    "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+    "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+    "summary": "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent ne…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 30 Jun 2026 23:16:07 +0530",
+    "timestamp": 1782841567.0,
+    "isoDate": "2026-06-30T17:46:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbjfrraZ05p0kN5CedcQSOZYouoHGrdpCvi9TGxEZM_9zlXc_juWZ1F8VsvjV9c-iD7Ejgj0V6b0uYwOb9mLpb7ALcOVk53m2ppmg6mDI3qwANc8KZFMt3X7H7fT_Eym3OJijFmr0CZS6yJNTtf4kef0gOYtbx6A3LYa15PNzpzJuOg-nd6orLosZzfQ8/s1600/ms-ai.jpg"
+  },
+  {
+    "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+    "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+    "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin'…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 30 Jun 2026 23:15:25 +0530",
+    "timestamp": 1782841525.0,
+    "isoDate": "2026-06-30T17:45:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2XzOOqoX4E_CfxUMxd0YAH9MRjvZ8-kBBiVhd2VvCvbie3zla8PA80fO2xZ4Ux3_gmreVKG7ANFrSGpDk1lsURfQZuVVapjqi565oGmkqImmFdiQsQFL5z7V9s7TTkH4KgmGbEFnpdAQz94DrXip4q8Qa-ec9K1B1cmeL3szEBWUq9nX-MWppatyug3A/s1600/RustDuck.jpg"
+  },
+  {
     "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
     "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
     "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthentica…",
@@ -306,27 +328,5 @@
     "timestamp": 1782481980.0,
     "isoDate": "2026-06-26T13:53:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig3gygt20RdznayWN2yru6wSgNt8CSdr16F8I-naxtPn837cr6v0uV0bXdhz36P1XYrpnjmzDXTAtH0wa43Me8rqD2hvET-xQP0ndoX-ddXsypZCjSSNJUqmfl69g96R6yMiUqgXE_NGAL8bl2z6lYutrgKiY74tNIafz_xRsNsJQSB9s_9lSHiybX2kQ/s1600/aws.jpg"
-  },
-  {
-    "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-    "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 26 Jun 2026 18:01:56 +0530",
-    "timestamp": 1782477116.0,
-    "isoDate": "2026-06-26T12:31:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1600/ptc.jpg"
-  },
-  {
-    "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-    "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-    "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration for this variant. Tracked as CVE-2026-435…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 26 Jun 2026 17:21:35 +0530",
-    "timestamp": 1782474695.0,
-    "isoDate": "2026-06-26T11:51:35+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrcFiZh5KSQ9sYpF7Fafoy8kYny6olyD5WlY_oaAdYt0krMeOL8eNiTItqYmEmJ55wueKdZJlhIKMun7kwQR8AbbFPKTw0Nv-qJbPiaKA1n2J1rUHBV3YuRmdJHQpOTlsKctFMXoO8ogpgHC8rXls3FGamF7p7K1gxc-7dmU2va58Es1c40FV8AZFR-w/s1600/dirtyclone.jpg"
   }
 ]
