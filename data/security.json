@@ -1,5 +1,16 @@
 [
   {
+    "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+    "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+    "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigge…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Jul 2026 09:24:22 +0530",
+    "timestamp": 1782878062.0,
+    "isoDate": "2026-07-01T03:54:22+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaU5jHNUkuBuH0Obx-gU_L4wSKOWP9bPwZeyD8tY1hIHShQozXYO2UckRTb2z5SwreXgHxLzePWkBfixNzYWsJ6eXioRllicv96TA8QvXBerGAguD3uA2T1DcMaURdi5BdMcNlY4DF_DPk-kdNXvIZfz8QMnrekgc-Hjksqf5OCHy11j0zcT668GgBhnc/s1600/citrix.jpg"
+  },
+  {
     "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
     "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
     "summary": "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent ne…",
@@ -317,16 +328,5 @@
     "timestamp": 1782482275.0,
     "isoDate": "2026-06-26T13:57:55+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBWN46D03nuGH8FWFxZD7Ax6T3Wvmf5bt3WrqjghU6ZJU65L6pfoPjt2fVw4-dGXfyEx8fkygfYUftIDlMpPaRcegTEH6eL58nSyiFvbbg5A0GxtFTIhwQUIj16DF-vIqiH2B6jnC7C3DebkJja3v6ayIjOF-eY5DoDL9qef319S3m4ny2lnodtc1WeE59/s1600/linux-cow.jpg"
-  },
-  {
-    "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-    "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-    "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patch…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 26 Jun 2026 19:23:00 +0530",
-    "timestamp": 1782481980.0,
-    "isoDate": "2026-06-26T13:53:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig3gygt20RdznayWN2yru6wSgNt8CSdr16F8I-naxtPn837cr6v0uV0bXdhz36P1XYrpnjmzDXTAtH0wa43Me8rqD2hvET-xQP0ndoX-ddXsypZCjSSNJUqmfl69g96R6yMiUqgXE_NGAL8bl2z6lYutrgKiY74tNIafz_xRsNsJQSB9s_9lSHiybX2kQ/s1600/aws.jpg"
   }
 ]
