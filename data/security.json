@@ -1,5 +1,49 @@
 [
   {
+    "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+    "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+    "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, w…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 02 Jul 2026 01:10:06 +0530",
+    "timestamp": 1782934806.0,
+    "isoDate": "2026-07-01T19:40:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9emdIsaMBcMQoyS0ot-ckXq8LWhMk6P2zAm3WdCVFBhRMNUqN6E1vZqllIq6qYHBvGm8WhCGi8C3PLUNOecmNYU4LLoWH5zRBadBejDgpbC5DihDwqiYAMLpZNsQBk2MsiN89nt-honwtPiQzjg4fDUp5w2aiCXWZBKk94qHwfG4yEHak6zoZuNmXKgY/s1600/argo-cd.jpg"
+  },
+  {
+    "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+    "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+    "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice announced on July 1. Peter Stokes, 19, …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 02 Jul 2026 00:58:07 +0530",
+    "timestamp": 1782934087.0,
+    "isoDate": "2026-07-01T19:28:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitCA6eGqIT2msGTmYh2Qr84lq5GYGvI4Y8FSzzNira0osd5SNIbnpLKZfLZLggblyWGxZ1ScIR_I06M-RoM5wM3he2KRkFCnwYxIKtGBDb9PA1JtoK1JM5f0vObSITDMGt4eeVV82LUF3DBNkYiHLhCTYNwnlOP3DlfCHYLkP6NfHjwRJDsHSMTHEGKAs/s1600/hacker-arrested.jpg"
+  },
+  {
+    "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+    "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
+    "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installe…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Jul 2026 23:23:06 +0530",
+    "timestamp": 1782928386.0,
+    "isoDate": "2026-07-01T17:53:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbKfADFEhazeaRztmVJkTBhFqZxALUDBwsOV_25bWjZ6Qm3pCBoSSawssWOOJC2ZQ7M6hrUDRXLfR5gcpWRkkaSdNtSPCz-FLrG5Dy4-Y-IzEMt_souSqJuc3JK9FNQ9p2-dT7Ojf3ufzPkWBpLNyDAVeeuYS7Ya-BJWT4MmAHz7OjHvwjMSCfF5Jvahyphenhyphenj/s1600/SEO-MALWARE.jpg"
+  },
+  {
+    "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+    "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
+    "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Jul 2026 22:48:50 +0530",
+    "timestamp": 1782926330.0,
+    "isoDate": "2026-07-01T17:18:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3OuCh7SjXAd7hG_0Q0p__EmpV5MwYh0fOfMZHc1wxRHpsCN9qlonLr93NB6-iJMWJd6nv8VoMqSt9hWW34H7R7tpoGuhkn1mkEL8UgsiUIfNxh9L1Bh0Qpvt0xrX9Pqq6rw1vb-0CEC3KLAT5N7fdlgEHWnYVDyeuUHt2pD59vugSKLaC9n8-LBLoqV0Y/s1600/blogger.jpg"
+  },
+  {
     "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
     "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
     "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that t…",
@@ -284,49 +328,5 @@
     "timestamp": 1782747600.0,
     "isoDate": "2026-06-29T15:40:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcObOpyIQZzuiNoFu6Lv4jCDh64o1WYrC3stGdk58mMRg69RT56svVrXVwu618f6szk2lj_Tqbt6b7Rg25yV0cauxIDTbMAI8cbftKVYibIt5SMeaOT2zE3oeuu-RLI7M1mkEV3zirqDiO-nLMikX7QixM2EpVIdKQERGc7I_0p58L4J-s5mBjSCpgHc/s1600/pp-ai.jpg"
-  },
-  {
-    "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-    "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-    "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Cl…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 21:00:00 +0530",
-    "timestamp": 1782747000.0,
-    "isoDate": "2026-06-29T15:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgEWbrJH-z_uAL6GFaOqplYF1ewSOBvFpaKD24W74VEBaSO-pW3sy0I0e57Bmc9yBKV4vb6zWYaVjd-oTSy2sSQNSubgQHcmFav_bp3HnySXcSGR-ocRiUfYcXgUXm44XZyrdNnIq2JqJxZQG5bnbui12eVoG3GPgVnGy9AE6vfDp3km5TTtf6rjPv6FZV/s1600/apple-updates-ai.jpg"
-  },
-  {
-    "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-    "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
-    "summary": "The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel. Acronis Threat Research Un…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 20:33:40 +0530",
-    "timestamp": 1782745420.0,
-    "isoDate": "2026-06-29T15:03:40+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4479X60pqma2HNkNzrVQuQlGImd-48w4eYTTW-wylTLfK7XfLPtmNOMi79oy48LNiFg-4a_vqF378ZobR2Dy6VTO38VxbsFc_l8xQypwe-V43txSB7f73JS142E4uBXjrLKx0lcS-UOUMZ45kLeYgaqCjg2Je2TElLosoBvARIQpzam5q3ckk5CVXsoAF/s1600/india-china.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-    "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-    "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 20:11:07 +0530",
-    "timestamp": 1782744067.0,
-    "isoDate": "2026-06-29T14:41:07+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXmUW2VYnBd5oSyq6V328rZOIdanacqm-k4Wae2x53iAvPb7YvO7rqDcfWTklR_skhgLDVTThASQvf4UATgFVoVy1iHddO0Nxp9zkhuVEROXkqDAEyyWZZWzMZLNy1apXbCj1xttx9kYI_jPbLmV5hmUHJEkS_Efo9GiFAg5snM_JNwWKDDbMW5wuvwyl/s1600/thn-recap-main.jpg"
-  },
-  {
-    "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-    "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-    "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App. The templates …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 17:27:40 +0530",
-    "timestamp": 1782734260.0,
-    "isoDate": "2026-06-29T11:57:40+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK82zgZh0edVIi1z4Rs0V9v_8tn_Mh_X6_H5TQYnFwEtbrE1dhjw5Z-9U99Lojet5RdcrIgwJK0bZusY4u22qKVFBzpCuHihAzXd4RNuJQGSxEfdNlBH4GFZYedXXohyQdbfNYIxr9LV6KFgUyX3CWVjfsOiIQRq3JEXmGRrR9afqsfMoeR-BH_kZmTCKd/s1600/phish-uni.jpg"
   }
 ]
