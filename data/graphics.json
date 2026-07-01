@@ -11,6 +11,39 @@
     "imageUrl": ""
   },
   {
+    "title": "NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th",
+    "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/",
+    "summary": "In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency explores. The images a…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 30 Jun 2026 19:54:29 +0000",
+    "timestamp": 1782849269.0,
+    "isoDate": "2026-06-30T19:54:29+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/250th_ngc4736.jpg?w=4200&h=4200&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "A Day of Flight Testing at NASA Armstrong",
+    "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
+    "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of aerodynamics and advance aviation. Earlier this year, NASA’s Crossf…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 30 Jun 2026 19:27:13 +0000",
+    "timestamp": 1782847633.0,
+    "isoDate": "2026-06-30T19:27:13+00:00",
+    "imageUrl": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades",
+    "link": "https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/",
+    "summary": "Read this news release in English here. Nota del editor: Este comunicado se actualizó el 30 de junio de 2026 para aclarar la versión de desarrollo de ingeniería del rover PROMISE.La NASA anunció el martes la selección de tres empresas para …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 30 Jun 2026 19:04:43 +0000",
+    "timestamp": 1782846283.0,
+    "isoDate": "2026-06-30T19:04:43+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/moon-base-june-30-2026-updates-press-release-black-borders.jpg"
+  },
+  {
     "title": "NPR Retracts Article That Mistakenly Said Justice Alito Would Retire",
     "link": "https://tvnewscheck.com/journalism/article/npr-retracts-article-that-mistakenly-said-justice-alito-would-retire/",
     "summary": "The news outlet quickly removed the article, which was written by NPR’s seasoned Supreme Court reporter, Nina Totenberg, from its website. The post NPR Retracts Article That Mistakenly Said Justice Alito Would Retire appeared first on TV Ne…",
@@ -20,6 +53,28 @@
     "timestamp": 1782845946.0,
     "isoDate": "2026-06-30T18:59:06+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "NextSTEP-3 B: Moon Base Demonstrations",
+    "link": "https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/",
+    "summary": "Notice ID: Coming Soon NASA’s Human Spaceflight Mission Directorate is seeking innovative ideas from industry partners through a new solicitation appendix under the NextSTEP-3 Omnibus Broad Agency Announcement. Appendix B: Moon Base Demonst…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 30 Jun 2026 18:48:52 +0000",
+    "timestamp": 1782845332.0,
+    "isoDate": "2026-06-30T18:48:52+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/moon-base-advisory-may-20.jpg?w=2048"
+  },
+  {
+    "title": "NASA Awards More Moon Base Science, Previews New Opportunities",
+    "link": "https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/",
+    "summary": "Editor’s note: This release was updated on June 30, 2026, to clarify the engineering development version for the PROMISE rover. NASA announced Tuesday the selection of three companies to land four new missions on the Moon in late 2028 as pa…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 30 Jun 2026 18:48:09 +0000",
+    "timestamp": 1782845289.0,
+    "isoDate": "2026-06-30T18:48:09+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/rovers.jpg"
   },
   {
     "title": "Comcast’s NBC Universal Split Could Give The NFL More Leverage",
@@ -187,6 +242,17 @@
     "imageUrl": ""
   },
   {
+    "title": "Starry Chandelier Cluster",
+    "link": "https://www.nasa.gov/image-article/starry-chandelier-cluster/",
+    "summary": "This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster. Like its namesake, it sparkles with countless lights. However, each ‘lightbulb’ in this chandelier is an individual star …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 30 Jun 2026 15:02:59 +0000",
+    "timestamp": 1782831779.0,
+    "isoDate": "2026-06-30T15:02:59+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/55357496142-295d2a4b87-o.jpg?w=1273"
+  },
+  {
     "title": "Krotos Video-To-Sound Plugin Now Available For Adobe Premiere Pro",
     "link": "https://tvnewscheck.com/tech/article/krotos-video-to-sound-plugin-now-available-for-adobe-premiere-pro/",
     "summary": "Krotos announced that Video to Sound for Adobe Premiere Pro is now available to Krotos Studio subscribers. First previewed earlier this year, the plugin enables editors to automatically generate and place synchronized … The post Krotos Vide…",
@@ -328,6 +394,50 @@
     "timestamp": 1782819296.0,
     "isoDate": "2026-06-30T11:34:56+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Ames Science Stars of the Month July 2026",
+    "link": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/",
+    "summary": "NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sungshin Choi, Yi-Chun Chen, Emma Yates, Eduardo Bendek. Their commitment to the NASA mis…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 30 Jun 2026 09:12:44 +0000",
+    "timestamp": 1782810764.0,
+    "isoDate": "2026-06-30T09:12:44+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/slide1.jpeg?w=1920"
+  },
+  {
+    "title": "Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge",
+    "link": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/",
+    "summary": "The Northwest Earth and Space Science Pathways (NESSP) project recently concluded its 2025–2026 ROADS (Rover Observation And Discoveries in Space) from Earth to Venus National Challenge, a NASA Science Activation program student challenge t…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 29 Jun 2026 22:05:58 +0000",
+    "timestamp": 1782770758.0,
+    "isoDate": "2026-06-29T22:05:58+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/NESSP_e2v_photo_5-Darci_Snowden.jpg?w=1440&h=1080&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA, SBA Announce New Initiative to Scale American Space Economy",
+    "link": "https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/",
+    "summary": "NASA and the U.S. Small Business Administration (SBA) launched the SBIC-NASA Initiative on Monday to increase investment in American manufacturers of industrial components and providers of technologies critical to space exploration to suppo…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 29 Jun 2026 20:39:57 +0000",
+    "timestamp": 1782765597.0,
+    "isoDate": "2026-06-29T20:39:57+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/nhq202606290002-002.jpg?w=2048"
+  },
+  {
+    "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+    "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
+    "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel and the 20-Foot Vertical Spin…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 29 Jun 2026 20:38:23 +0000",
+    "timestamp": 1782765503.0,
+    "isoDate": "2026-06-29T20:38:23+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/lrc-2026-ocio-p-01883-image-1.jpg"
   },
   {
     "title": "Why newsroom workflows are breaking under digital-first pressure",
