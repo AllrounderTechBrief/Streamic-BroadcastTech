@@ -1,5 +1,71 @@
 [
   {
+    "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+    "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+    "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Jul 2026 20:56:55 +0530",
+    "timestamp": 1782919615.0,
+    "isoDate": "2026-07-01T15:26:55+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GnjevIMTqO1nAZ7LWeRKAz2NCKGTKCC2ldSx5dsd2SShjh4pWcmddVJse4MP4QLhA_DOP1K_RajPwe8YR7rc57CqPUO0i9RDYoZQA0yRAokZt1r2hyphenhyphenccOjcFh2SgUTnyUjj-M-y7WUUXVF0rpSrcxTrjb5nPOnpnIP5YvdxzUaLXkubSTXFaj0RzxEvH/s1600/windows-trojan.jpg"
+  },
+  {
+    "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+    "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+    "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code executi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Jul 2026 20:55:46 +0530",
+    "timestamp": 1782919546.0,
+    "isoDate": "2026-07-01T15:25:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2LpF3s-oL3WaiHtAZ9N33J120bvGnWDoQ39eE1fyToERHmJgkAtMzarRyW9-gOG0N4U1_nOEQmwg-3krYIZDcXXB6JYpurMezefSiM5-ygJd9CuuS1sS-gHNjoKgBRayO0wBow5GB1yaanR55TW2fwus6MQXwlqeXDJ2Xu7z2fiOGbPXo4qio4LpXZPO/s1600/adobe.jpg"
+  },
+  {
+    "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+    "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+    "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Jul 2026 20:12:54 +0530",
+    "timestamp": 1782916974.0,
+    "isoDate": "2026-07-01T14:42:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjItlLuWZZxw3YcKcnCVEsKn7HKF0QcPnXqFNjor23XT93Xp49dvLt4tZFYIbUApP4eABXQZ3pwnoidAp5GW1wm7ZfBA6vXRlX7i0Lbzw4KWlSkxayxjZQeoxg3TEAQWmLdGP9DePsYjoC1p07KGommOwATsJOHhRQ2zZatOaFRzHoKHVHcQW8K9s-Hd5w/s1600/cato.jpg"
+  },
+  {
+    "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+    "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+    "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identifie…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Jul 2026 19:26:18 +0530",
+    "timestamp": 1782914178.0,
+    "isoDate": "2026-07-01T13:56:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMOqrFNgwfokWIpvUBFpDUO-So-0focm0a7d9mhocEHiwdB2cHmPQ9q4STjyCr-gVUPK67TYluInMr0_v1omCJVWbd9OVOg6AqVROoxZb44b5BOpxdBb2GECjFw77NhlCf6nWC5oJF3x3KvE3EyDV2pUR3lvROAWjaFs9SOyvzM3qRB6MzEUCFYuVAoCb/s1600/pro-exploit.jpg"
+  },
+  {
+    "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+    "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+    "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Jul 2026 18:29:19 +0530",
+    "timestamp": 1782910759.0,
+    "isoDate": "2026-07-01T12:59:19+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4BJdHYquuxXoz8n0LhMEmm9KPcWcMC57w4LnqbMNCPXMAFdS95ys3zE6F5jZOvSKwsVWp6t3z8pVImRJ3Nvxgkr4QiPI5O06zJywlL5uuBIU2G0ZtPucYq80Z_G-PnVzjYfChzbnpLxGyD2PpbH8VdLWjIuNLt0RoAe5Q8mVulX2s_4Ueg7XR0pxZVwKn/s1600/chrome-ransomware.jpg"
+  },
+  {
+    "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+    "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+    "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's fi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 01 Jul 2026 17:00:00 +0530",
+    "timestamp": 1782905400.0,
+    "isoDate": "2026-07-01T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1ozclOI3O1fTjKYLZrt0RCp54Fr-6NPYAifKy5c1fYwj4ceFq9U62ra9eoBq4Qw7qAh3qXE7ttfy6239qiAwK3SFyQxg316fl8BNxeeZ6IRDJFbjl09AE-gHC9Qa2V3nFljMblCovx6MgP66ZxMfawWVnAWEPNX9YS_FATZFtC69nlKhTvQQeOD58_I/s1600/Assessment.jpg"
+  },
+  {
     "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
     "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
     "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected. \"Advances in q…",
@@ -262,71 +328,5 @@
     "timestamp": 1782734260.0,
     "isoDate": "2026-06-29T11:57:40+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK82zgZh0edVIi1z4Rs0V9v_8tn_Mh_X6_H5TQYnFwEtbrE1dhjw5Z-9U99Lojet5RdcrIgwJK0bZusY4u22qKVFBzpCuHihAzXd4RNuJQGSxEfdNlBH4GFZYedXXohyQdbfNYIxr9LV6KFgUyX3CWVjfsOiIQRq3JEXmGRrR9afqsfMoeR-BH_kZmTCKd/s1600/phish-uni.jpg"
-  },
-  {
-    "title": "Why Post-Quantum Cryptography Starts With Credentials",
-    "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-    "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryp…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 17:12:16 +0530",
-    "timestamp": 1782733336.0,
-    "isoDate": "2026-06-29T11:42:16+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufw7UrtG2RgRTMvdhUaNVywdIBuSIRFLngtWMIY_3fzq7gzTZnlL7KMi_kzPhfpdny4vP5Rd9QVLpkX9xR5Vpk0cVvDV8Xsy4wljRyA5TjKvojsoBsYJt7yhhk1VK46OegGewBgqi-c41Z5mX5Ivos1PMrgrrmgLZKUJ8hqb4xl8o85sB7jQJLvI3gj0/s1600/keeper.jpg"
-  },
-  {
-    "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-    "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-    "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinc…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 17:10:24 +0530",
-    "timestamp": 1782733224.0,
-    "isoDate": "2026-06-29T11:40:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvTMs5lEwRQ2ndqc7YNsz1eNQK0XuR_q4uSjl8tLZ8Nh8vA4WRKZsQhyphenhyphenUx1O0gR-QJtdvAj8LDEUaGscAEXAlA9_e9c0LNtEeV-6NJzdqEdGt0gb7mDEUBNmlMNI2L05YQ8lPXA6kNBFL4s7BsjiJSPD72fyhQq2fmYJwZBPQhyHI4PN_zvSrnxtRbRtI/s1600/uk.jpg"
-  },
-  {
-    "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-    "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-    "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company ca…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 14:02:31 +0530",
-    "timestamp": 1782721951.0,
-    "isoDate": "2026-06-29T08:32:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmbNHaJMqOcEeoUkaQeIZC_ilbUt8RpG-kyweNVY_fJ_3BQk19-pmJQXV_soXqZiHleBISNTwcYSqew2nzpc3eBEDULz52KaY1RNrJTb7u87f2oEtpJuTtmi4OL6Lc_HXP9WQcMDRco_w4U5mklzQ1QJj8ndNiBYVQRRUsevzc1P6hZe2N26_lyAhkQbsP/s1600/edge.jpg"
-  },
-  {
-    "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-    "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-    "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user inte…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 12:36:34 +0530",
-    "timestamp": 1782716794.0,
-    "isoDate": "2026-06-29T07:06:34+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9yQyR_bCP0-I73R6EpwLjJtptGUvzeJD90oYzZvFZXVnM99EIvHFtIJlhZ2f4NSZkAyO7JWjJOy6Zd3lAtPz1Bbk2vmj7Ls8aMIZsFqiIVtIArSjypgJRIHJzlDN5BykKcZziAicpJiNE02Wg3Aheu5BIF1SvY3Pn09WYcdLtvWAT5giGf9mC_uY9GkG/s1600/ssh.jpg"
-  },
-  {
-    "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-    "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-    "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most comm…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 11:06:06 +0530",
-    "timestamp": 1782711366.0,
-    "isoDate": "2026-06-29T05:36:06+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjmO4haWCgXfALMAtSHKJXRWIlLfYqulkKflfK-3BSYON-8A4MjUNoZRxOyaLGc-4Bsj1eIfGDhdpJuKZrJORz4HZHx5iM7lj0-VlehqqZ6kaq5_ZWP08MviAchtNF1XORD_Fps-IWderGKNM18TT-Jgh_0LRFULqdMeOfv_FKDd8oWmHmv-iR1-_7XZP/s1600/gogo.jpg"
-  },
-  {
-    "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-    "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-    "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 27 Jun 2026 22:57:11 +0530",
-    "timestamp": 1782581231.0,
-    "isoDate": "2026-06-27T17:27:11+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL9wu_kGShq1lDTiDFjL3VdxF51l9aXdtW8vfE6Z0f3nLKXnr3WctY8jw3INV7FcO0FmLzv_EVCkfmsC4AmEaPih-SD_c24f8R_MJjjNT8OBdd6SuwVECGV3VdxnMDBs7ULHaVBFPPGkZZcruUhMcbmYE-RQu-QTZfn7rEWltSSSdFLhJeZKIZy4jZzl7L/s1600/cyberattack.jpg"
   }
 ]

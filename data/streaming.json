@@ -1,5 +1,60 @@
 [
   {
+    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
+    "link": "https://blog.cloudflare.com/monetization-gateway/",
+    "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stac…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
+    "timestamp": 1782910800.0,
+    "isoDate": "2026-07-01T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/775Xg4N8Ic9Vk7Y4dvMgTE/0267b9f7672fd65d7c329553eb567d8c/BLOG-3342_2.png"
+  },
+  {
+    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
+    "link": "https://blog.cloudflare.com/agentic-internet-bot-report/",
+    "summary": "One year after declaring Content Independence Day, a dynamic market for monetized content has officially emerged. In this report, we examine how the rise of autonomous AI agents is upending traditional search referrals and detail the new in…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
+    "timestamp": 1782910800.0,
+    "isoDate": "2026-07-01T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3M69Z8Mu3wANYivgEMbUqZ/e891d57b2569c021bad63c0bfeca0530/BLOG-3368_2.png"
+  },
+  {
+    "title": "Making AI search smarter",
+    "link": "https://blog.cloudflare.com/making-ai-search-smarter/",
+    "summary": "Search is how we find nearly everything on the web — creators, merchants, answers. AI is rewriting the rules, leaving creators caught between staying discoverable in an agentic era and getting paid for their work. Today we're launching two …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
+    "timestamp": 1782910800.0,
+    "isoDate": "2026-07-01T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3zED8SPiCSPFBL13KA1ifg/0cbe54a3c863e365318ccb9e33cfad11/BLOG-3339_2.png"
+  },
+  {
+    "title": "Your site, your rules: new AI traffic options for all customers",
+    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "summary": "For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside t…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
+    "timestamp": 1782910800.0,
+    "isoDate": "2026-07-01T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3XlnMWyLXLpLgWLP7hgRGP/d01b9b60c513a7904558fdc674fb74b3/BLOG-3337_2.png"
+  },
+  {
+    "title": "Unmasking the crawls with Attribution Business Insights",
+    "link": "https://blog.cloudflare.com/attribution-business-insights/",
+    "summary": "Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 01 Jul 2026 06:00:00 GMT",
+    "timestamp": 1782885600.0,
+    "isoDate": "2026-07-01T06:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/44iTYHoY6xZ0tmWlxmVg4k/e4defd336a295f2887ec41bb1ca5a629/image4.png"
+  },
+  {
     "title": "How 5 migrated to AWS Elemental MediaPackage v2",
     "link": "https://aws.amazon.com/blogs/media/how-5-migrated-to-aws-elemental-mediapackage-v2/",
     "summary": "In this blog, learn how 5, part of Paramount, migrated from a dual-pipeline packaging architecture to AWS Elemental MediaPackage v2—consolidating infrastructure, eliminating manual failover, and expanding to new platforms across a 12-month …",
@@ -308,17 +363,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1YQOp7XzNrFIHE1HSNhz6b/06d1565243b2902df5a5b294e3e80709/BLOG-3272_image3.png"
   },
   {
-    "title": "Your AI bill is out of control. Cloudflare can fix it now.",
-    "link": "https://blog.cloudflare.com/ai-gateway-spend-limits/",
-    "summary": "AI Gateway now features real-time spend limits to prevent runaway token bills across multiple AI providers. By integrating with Cloudflare Access, companies can use identity-driven budgets and policies.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 05 Jun 2026 13:00:00 GMT",
-    "timestamp": 1780664400.0,
-    "isoDate": "2026-06-05T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6sH9TwbSEn2Ct9UFuC0SAq/1a1330737879497b0e2511ac28baaed5/BLOG-3331_image1.png"
-  },
-  {
     "title": "Adaptive Bitrate Streaming (ABR): What is it & How Does it Work? [2026 Update]",
     "link": "https://bitmovin.com/blog/adaptive-streaming/",
     "summary": "What is Adaptive Bitrate (ABR) Streaming? Adaptive Bitrate Streaming (ABR) is a technology used in modern video streaming applications that can dynamically adapt in real-time, in order to provide the best quality for each individual viewer.…",
@@ -330,28 +374,6 @@
     "imageUrl": "https://bitmovin.com/wp-content/uploads/2023/08/compression-1-3000x1786.png"
   },
   {
-    "title": "VoidZero is joining Cloudflare",
-    "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-    "summary": "VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 04 Jun 2026 12:59:00 GMT",
-    "timestamp": 1780577940.0,
-    "isoDate": "2026-06-04T12:59:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5gfeiRZUa5M8NfzsnMJ4FA/99600ef4053942f890316e9145a5cc72/BLOG-VOID_2.png"
-  },
-  {
-    "title": "Enforcing the First AS in BGP AS_PATHs",
-    "link": "https://blog.cloudflare.com/enforce-first-as-bgp/",
-    "summary": "BGP is vulnerable to routing hijacks and path leaks that negatively impact traffic on the Internet. RPKI helps solve some of these problems, but for some forged paths, we need to rely on a simpler mechanism: First AS enforcement in BGP.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 03 Jun 2026 17:00:00 GMT",
-    "timestamp": 1780506000.0,
-    "isoDate": "2026-06-03T17:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/GRO488rbjQjXDht7DyzL0/dc61e2e2cc4029ba4b15c235d1104ac1/BLOG-3306_image5.png"
-  },
-  {
     "title": "How Bedrock Streaming optimizes its AWS costs",
     "link": "https://aws.amazon.com/blogs/media/how-bedrock-streaming-optimizes-its-aws-costs/",
     "summary": "Learn how Bedrock Streaming hosts their solutions on Amazon Web Services (AWS) to serve major European broadcasters such as M6+, Videoland, and RTL+. With an AWS budget of several million dollars per year, each percentage point of optimizat…",
@@ -361,17 +383,6 @@
     "timestamp": 1780443255.0,
     "isoDate": "2026-06-02T23:34:15+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/01/Stacked-bar-chart-showing-monthly-Amazon-EC2-costs.png"
-  },
-  {
-    "title": "How we reduced core unit boot time from hours to minutes",
-    "link": "https://blog.cloudflare.com/optimizing-core-unit-boot-time/",
-    "summary": "We investigated why firmware updates were causing our core servers to take four hours to reboot. By diving into UEFI data structures and iPXE automation, we eliminated unnecessary timeouts and cut boot times back down to minutes.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 01 Jun 2026 16:53:39 GMT",
-    "timestamp": 1780332819.0,
-    "isoDate": "2026-06-01T16:53:39+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6x6QmYn2eTSTq2sncxLGKy/4b7dcbe2ed23feec5382f59ec6e271fc/image__8_.png"
   },
   {
     "title": "How Bundesliga built Captain, an AI agent for fans, using Amazon Bedrock",
@@ -394,17 +405,6 @@
     "timestamp": 1780070400.0,
     "isoDate": "2026-05-29T16:00:00+00:00",
     "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image.jpeg"
-  },
-  {
-    "title": "How we built Cloudflare's data platform and an AI agent on top of it",
-    "link": "https://blog.cloudflare.com/our-unified-data-platform/",
-    "summary": "Here’s how we built Town Lake, Cloudflare's unified analytics platform, alongside Skipper, an internal AI agent running on top of it.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 28 May 2026 13:00:00 GMT",
-    "timestamp": 1779973200.0,
-    "isoDate": "2026-05-28T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/47E8uC26eDC4XrOibNlGCi/4b1e083bb76de4f09404bdac07e5f03a/image5.png"
   },
   {
     "title": "Customize ad workflows with AWS Elemental MediaTailor Monetization Functions",
