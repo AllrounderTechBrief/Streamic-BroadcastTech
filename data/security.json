@@ -1,5 +1,27 @@
 [
   {
+    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+    "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+    "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Jul 2026 00:24:06 +0530",
+    "timestamp": 1783018446.0,
+    "isoDate": "2026-07-02T18:54:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg"
+  },
+  {
+    "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+    "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+    "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Jul 2026 00:00:33 +0530",
+    "timestamp": 1783017033.0,
+    "isoDate": "2026-07-02T18:30:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg"
+  },
+  {
     "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
     "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
     "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This …",
@@ -306,27 +328,5 @@
     "timestamp": 1782829575.0,
     "isoDate": "2026-06-30T14:26:15+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR59EidY6iMYv3s9bikjIxpj6_YTaUIesrZ3MyD9OqUbOk262aDW7bCArqr-IjT9CUQUSzE2F_knKKvs4bIJ2d9cuzZ-DKlmkW_Q3SO43HkA79kSVhCELVyKaStWliNZc9l1xxEGEFE5UmT1Abn6XMKTjk-rxBRTTtRAjb-jYDRKj-ODtIYy8dGQvbzDE/s1600/shell-ai.jpg"
-  },
-  {
-    "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-    "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
-    "summary": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic. In many cases, the path in was visible just by watching what the app sent: a plaintext AP…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 30 Jun 2026 19:19:34 +0530",
-    "timestamp": 1782827374.0,
-    "isoDate": "2026-06-30T13:49:34+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ9nmTBu_vYBf5fRZV4Jc-qtFGPySofVDYHUd-9-ogdve-M4Qd4j7_CnH9Zmvln6O3nfXSsDqQiMoL3rDYBSXZSrXlkCnSWSQUdAYJX1PkRzmytlVaYAc2AyrFOCpo9doU58gO6Gl5fQ-0SZ5D3yGP2SspNgK0U4f5jViSBnY_PAMUOjr42Nt8OLrhnTsQ/s1600/llm-keys.jpg"
-  },
-  {
-    "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
-    "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
-    "summary": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, acr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 30 Jun 2026 17:00:00 +0530",
-    "timestamp": 1782819000.0,
-    "isoDate": "2026-06-30T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEZt1Yxw3eiMzyzPpblDGru8JlEmw-Rr1Lgn8hG9YCvxeCNDpKOCyn5_Evvmc_lB9tKDpcmBLfH3a6mHGkZBMDT8cr9Q39XpMpDhwCrqSieA2wG1BVYDBXTppmPkOJA2Sj8kakQExnh207X99wqRR1nOnYMcWPZ41BNKGhQHdOCkUzzgkRkMjzX-RdvyA/s1600/checkpoint-main.jpg"
   }
 ]
