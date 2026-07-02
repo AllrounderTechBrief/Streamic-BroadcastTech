@@ -1,5 +1,27 @@
 [
   {
+    "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+    "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+    "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 02 Jul 2026 12:54:23 +0530",
+    "timestamp": 1782977063.0,
+    "isoDate": "2026-07-02T07:24:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_BdKzn7-7TCZJfnsZBy25kGm8xiQTrJquj8vMVsjlRXf7LXqMiJLQs8ic-lNLRc51whJzP-B4Nv9OOzfgOSHKzmIjZFv0krEDBuSeuXXNj-OccwbpBBBBIofZFMBT4DaThqLeE2Bsx-Nkp8aZZfEs6tVB43kby1L5UbtPjauqfedlANNzOYGrNB7ec5o/s1600/fake.jpg"
+  },
+  {
+    "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+    "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 02 Jul 2026 11:16:45 +0530",
+    "timestamp": 1782971205.0,
+    "isoDate": "2026-07-02T05:46:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEHDpcGNoddFf8yfkJ1L21X61VSA66xZiVjYA5qdfJpZ8tyWxzRy7Il8fwcY59pRUm7mlNChrPHhjySmFLV-dHEIdZiOXj0ZDQ9Wv8yxgfU8qKm_ga3kYcNer9z85cj7KwtYkRuxGtPaNUL0ebiuM2SILSWMVr-fZtnVFejlJ24h48ECds-iMQBTW3vHb/s1600/cisa-ms.jpg"
+  },
+  {
     "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
     "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
     "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, w…",
@@ -88,7 +110,7 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMOqrFNgwfokWIpvUBFpDUO-So-0focm0a7d9mhocEHiwdB2cHmPQ9q4STjyCr-gVUPK67TYluInMr0_v1omCJVWbd9OVOg6AqVROoxZb44b5BOpxdBb2GECjFw77NhlCf6nWC5oJF3x3KvE3EyDV2pUR3lvROAWjaFs9SOyvzM3qRB6MzEUCFYuVAoCb/s1600/pro-exploit.jpg"
   },
   {
-    "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+    "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
     "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
     "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware…",
     "source": "The Hacker News",
@@ -306,27 +328,5 @@
     "timestamp": 1782795846.0,
     "isoDate": "2026-06-30T05:04:06+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYwCBjb2uPzIs-8BNIxo90ae4xRgxzM1av-ijebBJ32Y2DEvRUvM-jMd6S535UdnbPKrLtFHxm0k9Lo7GJgVjCWCrH-0RNFZukDv7shdA02IkDs1Iqx8C-uH2hOCyfpJ01tmNVGhrvQ-6FGlmdjnCP0nXrq7zl5KVL3XZ84I9QTImD5DM8HYoJbA0A1P3w/s1600/oracle.jpg"
-  },
-  {
-    "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
-    "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
-    "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The optional feature is designed to help users connect with…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 21:39:21 +0530",
-    "timestamp": 1782749361.0,
-    "isoDate": "2026-06-29T16:09:21+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio-ZtaOMuibm1cwTHj1YFNRqRbs2GdaipPSXv1pzX9qcUI2VS6MGjpxEcNnhU0zniwOokUFL530mntMPSO2X8CjA3ybwYDXEwsJb9sV7nP9QWiDHLTiYV6Yf10B9qHNTdqsU3hn-ac8mzmzghyphenhyphenrhvgSJQBEgP723mfcyNA4y1ck5wKPBY1ELzb_xpQhB_s/s1600/whatsapp-usernames.jpg"
-  },
-  {
-    "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-    "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-    "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 29 Jun 2026 21:10:00 +0530",
-    "timestamp": 1782747600.0,
-    "isoDate": "2026-06-29T15:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcObOpyIQZzuiNoFu6Lv4jCDh64o1WYrC3stGdk58mMRg69RT56svVrXVwu618f6szk2lj_Tqbt6b7Rg25yV0cauxIDTbMAI8cbftKVYibIt5SMeaOT2zE3oeuu-RLI7M1mkEV3zirqDiO-nLMikX7QixM2EpVIdKQERGc7I_0p58L4J-s5mBjSCpgHc/s1600/pp-ai.jpg"
   }
 ]
