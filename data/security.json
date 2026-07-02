@@ -1,5 +1,16 @@
 [
   {
+    "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+    "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+    "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 02 Jul 2026 20:54:18 +0530",
+    "timestamp": 1783005858.0,
+    "isoDate": "2026-07-02T15:24:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMzwXbN53zy07KSkFJL7uOzty4Pj7VgKS6lSwWWGSCppX0wEX5eY0ZLur2NiFcs-ByBBhbd1WZ270Y4VMMGL6WkvOIZ5MhyphenhyphenkDX2B45wiQue-W88oiF_-RZs0HxvrvcxCHI8Zhhv1-fqHDgnX-VLWk00gt463rQhyKY7Mzcd5STMCYeCUcyVri3aBSUpl2t/s1600/threatsday-board.jpg"
+  },
+  {
     "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
     "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
     "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attenti…",
@@ -317,16 +328,5 @@
     "timestamp": 1782819000.0,
     "isoDate": "2026-06-30T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEZt1Yxw3eiMzyzPpblDGru8JlEmw-Rr1Lgn8hG9YCvxeCNDpKOCyn5_Evvmc_lB9tKDpcmBLfH3a6mHGkZBMDT8cr9Q39XpMpDhwCrqSieA2wG1BVYDBXTppmPkOJA2Sj8kakQExnh207X99wqRR1nOnYMcWPZ41BNKGhQHdOCkUzzgkRkMjzX-RdvyA/s1600/checkpoint-main.jpg"
-  },
-  {
-    "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-    "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-    "summary": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitat…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 30 Jun 2026 16:48:47 +0530",
-    "timestamp": 1782818327.0,
-    "isoDate": "2026-06-30T11:18:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEid1CxvsX2dPrKoA1VzJ6PUhwrXxvSC4ehRmgyaRRCJlP_MFSeOxvwrT2ODJSbQx3E-7bBwBG4YpP3CQGLzojfXEveOgwZgUlcCSf-trk_G0k0Q1_nz4rb1nbRfhXgijfZ9eLDT8v_ATsmqz5AnbNgBuGX7UIc3YwAw1hYZwvzp5Z0eopWNRqTs4W3bP3/s1600/help-hackers.jpg"
   }
 ]
