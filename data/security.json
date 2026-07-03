@@ -1,5 +1,16 @@
 [
   {
+    "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+    "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+    "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 04 Jul 2026 01:49:31 +0530",
+    "timestamp": 1783109971.0,
+    "isoDate": "2026-07-03T20:19:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
+  },
+  {
     "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
     "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
     "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in …",
@@ -317,16 +328,5 @@
     "timestamp": 1782884763.0,
     "isoDate": "2026-07-01T05:46:03+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlhMdp0ML_DO3inv2zhyphenhyphenoZ9CmB1ESRBbVh_YHPol3serW7D4zTsXPGVjF62GhEcvamH6fmTs0ZLguVOM72ynrL6ebpPxBgpCv3XeUJNCb4un1Ue4o1V5BjB4r9pEnW_t717d8d49ZdH4OPavLgNkov9VNaJDMruqwG65QoBkxpzFx8q7QofYHuH9gDie-O/s1600/login.jpg"
-  },
-  {
-    "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-    "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
-    "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give eac…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Jul 2026 11:02:12 +0530",
-    "timestamp": 1782883932.0,
-    "isoDate": "2026-07-01T05:32:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXEaR4unJmt3rBY1LzI0Gq_veoF7Qzi-yPQNUcoR2oNV802lQ4MZAviyeq7bBh73PLAyp1quTozDq0ki_zm_9qsJIIfAUTaG8jFTv5dpxvuDUPJZA2BU4Zo11wIVyysWeMROXv8z2XOZoPOoJPVqMEJEhCI_OE1mM5wnSCFHJ1sgjl5411fZ4srklq5Fbs/s1600/clickfix-payloads.jpg"
   }
 ]
