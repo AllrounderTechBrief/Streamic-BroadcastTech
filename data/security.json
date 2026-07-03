@@ -1,5 +1,27 @@
 [
   {
+    "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+    "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+    "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 04 Jul 2026 01:10:01 +0530",
+    "timestamp": 1783107601.0,
+    "isoDate": "2026-07-03T19:40:01+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
+  },
+  {
+    "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+    "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+    "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines c…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 04 Jul 2026 00:25:24 +0530",
+    "timestamp": 1783104924.0,
+    "isoDate": "2026-07-03T18:55:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
+  },
+  {
     "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
     "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
     "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfi…",
@@ -306,27 +328,5 @@
     "timestamp": 1782883932.0,
     "isoDate": "2026-07-01T05:32:12+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXEaR4unJmt3rBY1LzI0Gq_veoF7Qzi-yPQNUcoR2oNV802lQ4MZAviyeq7bBh73PLAyp1quTozDq0ki_zm_9qsJIIfAUTaG8jFTv5dpxvuDUPJZA2BU4Zo11wIVyysWeMROXv8z2XOZoPOoJPVqMEJEhCI_OE1mM5wnSCFHJ1sgjl5411fZ4srklq5Fbs/s1600/clickfix-payloads.jpg"
-  },
-  {
-    "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-    "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-    "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigge…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Jul 2026 09:24:22 +0530",
-    "timestamp": 1782878062.0,
-    "isoDate": "2026-07-01T03:54:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaU5jHNUkuBuH0Obx-gU_L4wSKOWP9bPwZeyD8tY1hIHShQozXYO2UckRTb2z5SwreXgHxLzePWkBfixNzYWsJ6eXioRllicv96TA8QvXBerGAguD3uA2T1DcMaURdi5BdMcNlY4DF_DPk-kdNXvIZfz8QMnrekgc-Hjksqf5OCHy11j0zcT668GgBhnc/s1600/citrix.jpg"
-  },
-  {
-    "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-    "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-    "summary": "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent ne…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 30 Jun 2026 23:16:07 +0530",
-    "timestamp": 1782841567.0,
-    "isoDate": "2026-06-30T17:46:07+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbjfrraZ05p0kN5CedcQSOZYouoHGrdpCvi9TGxEZM_9zlXc_juWZ1F8VsvjV9c-iD7Ejgj0V6b0uYwOb9mLpb7ALcOVk53m2ppmg6mDI3qwANc8KZFMt3X7H7fT_Eym3OJijFmr0CZS6yJNTtf4kef0gOYtbx6A3LYa15PNzpzJuOg-nd6orLosZzfQ8/s1600/ms-ai.jpg"
   }
 ]
