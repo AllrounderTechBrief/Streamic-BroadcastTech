@@ -1,5 +1,27 @@
 [
   {
+    "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+    "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
+    "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with inve…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Jul 2026 16:35:43 +0530",
+    "timestamp": 1783076743.0,
+    "isoDate": "2026-07-03T11:05:43+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
+  },
+  {
+    "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+    "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+    "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a co…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Jul 2026 13:33:37 +0530",
+    "timestamp": 1783065817.0,
+    "isoDate": "2026-07-03T08:03:37+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
+  },
+  {
     "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
     "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
     "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week i…",
@@ -306,27 +328,5 @@
     "timestamp": 1782834440.0,
     "isoDate": "2026-06-30T15:47:20+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA2GvsvmPnHZF-e1GDbhOVW4DxQZr79HzSMLp7-YKaA9DC-V2fVo6cmBig0bxUxWjK0Kz1mTm2Cmg6CrjaKgNhxC7xE6SsBxRx8DW5ljkMWPuJ0-7WUzxYbSrRWFdix8Nks8tobGkIY5cpNjczspeiKYyXYVSgoVct-7u1SFpWXB0mEi8AB5X-Wcp59Vca/s1600/Langflow.jpg"
-  },
-  {
-    "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-    "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-    "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activit…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 30 Jun 2026 21:10:18 +0530",
-    "timestamp": 1782834018.0,
-    "isoDate": "2026-06-30T15:40:18+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfz8WYO9wONzogh2V8g9VorZ8Ab_nAUZMD7rOM9xrVUhg3cbKGA5zc73PGQiAkbsNgY-qbm2AFAUjBdeMcpemGmDNWrvnpyjzKiqU8iJHMetkW68d20V_U-96mHOaHF6fff7VKBREN2v6fz1R_ahyIklq-Fd7ILYKxXck5ahL1BoFWC_CDQFrQZqQqg3hm/s1600/chrome-wallet.jpg"
-  },
-  {
-    "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-    "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-    "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is named the bypass GuardFal…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 30 Jun 2026 19:56:15 +0530",
-    "timestamp": 1782829575.0,
-    "isoDate": "2026-06-30T14:26:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR59EidY6iMYv3s9bikjIxpj6_YTaUIesrZ3MyD9OqUbOk262aDW7bCArqr-IjT9CUQUSzE2F_knKKvs4bIJ2d9cuzZ-DKlmkW_Q3SO43HkA79kSVhCELVyKaStWliNZc9l1xxEGEFE5UmT1Abn6XMKTjk-rxBRTTtRAjb-jYDRKj-ODtIYy8dGQvbzDE/s1600/shell-ai.jpg"
   }
 ]
