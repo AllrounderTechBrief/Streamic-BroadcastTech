@@ -1,5 +1,16 @@
 [
   {
+    "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+    "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+    "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends financially motivate…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 03 Jul 2026 19:06:33 +0530",
+    "timestamp": 1783085793.0,
+    "isoDate": "2026-07-03T13:36:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
+  },
+  {
     "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
     "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
     "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with inve…",
@@ -317,16 +328,5 @@
     "timestamp": 1782841525.0,
     "isoDate": "2026-06-30T17:45:25+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2XzOOqoX4E_CfxUMxd0YAH9MRjvZ8-kBBiVhd2VvCvbie3zla8PA80fO2xZ4Ux3_gmreVKG7ANFrSGpDk1lsURfQZuVVapjqi565oGmkqImmFdiQsQFL5z7V9s7TTkH4KgmGbEFnpdAQz94DrXip4q8Qa-ec9K1B1cmeL3szEBWUq9nX-MWppatyug3A/s1600/RustDuck.jpg"
-  },
-  {
-    "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-    "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-    "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthentica…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 30 Jun 2026 21:17:20 +0530",
-    "timestamp": 1782834440.0,
-    "isoDate": "2026-06-30T15:47:20+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA2GvsvmPnHZF-e1GDbhOVW4DxQZr79HzSMLp7-YKaA9DC-V2fVo6cmBig0bxUxWjK0Kz1mTm2Cmg6CrjaKgNhxC7xE6SsBxRx8DW5ljkMWPuJ0-7WUzxYbSrRWFdix8Nks8tobGkIY5cpNjczspeiKYyXYVSgoVct-7u1SFpWXB0mEi8AB5X-Wcp59Vca/s1600/Langflow.jpg"
   }
 ]
