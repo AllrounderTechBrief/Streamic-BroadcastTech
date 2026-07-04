@@ -1,5 +1,16 @@
 [
   {
+    "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+    "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+    "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 04 Jul 2026 16:47:24 +0530",
+    "timestamp": 1783163844.0,
+    "isoDate": "2026-07-04T11:17:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg"
+  },
+  {
     "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
     "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
     "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere.…",
@@ -317,16 +328,5 @@
     "timestamp": 1782888377.0,
     "isoDate": "2026-07-01T06:46:17+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AmA92QCIqSJfXqC3z9I1jjdJGEkIvN4k-Oc5MlWZb4yZLPg5clokead6q8yXUfeI4DbdsKVn4qbd1sufvo47zyIy-Wcr15xK9oJJyet1vlFGiOKOU0ylMhgXWI0Duuztk7W_YURPKwdgfOyFsm2k3Rj1Db5tEVB9jzNi3xeYD0R_wfOaRKranmNj6kOy/s1600/claude-fable-5.jpg"
-  },
-  {
-    "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-    "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
-    "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates f…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Jul 2026 11:16:03 +0530",
-    "timestamp": 1782884763.0,
-    "isoDate": "2026-07-01T05:46:03+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlhMdp0ML_DO3inv2zhyphenhyphenoZ9CmB1ESRBbVh_YHPol3serW7D4zTsXPGVjF62GhEcvamH6fmTs0ZLguVOM72ynrL6ebpPxBgpCv3XeUJNCb4un1Ue4o1V5BjB4r9pEnW_t717d8d49ZdH4OPavLgNkov9VNaJDMruqwG65QoBkxpzFx8q7QofYHuH9gDie-O/s1600/login.jpg"
   }
 ]
