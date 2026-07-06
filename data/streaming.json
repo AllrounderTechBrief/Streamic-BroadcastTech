@@ -11,6 +11,17 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2Xyk1rkPl9p44y48mdoPk/2178d252281c0165e03e7cb9245a4c3a/BLOG-3262_image1.png"
   },
   {
+    "title": "Hackathon spotlight: Upgrading MoQ support in Bitmovin’s Player Web X",
+    "link": "https://bitmovin.com/blog/moq-player-upgrade-playa/",
+    "summary": "MoQ (Media over QUIC Transport) is still an evolving standard, which means the libraries and implementations built on it are a moving target. For Bitmovin as a member of the OpenMoQ consortium, staying current is not optional. A Player buil…",
+    "source": "Bitmovin",
+    "category": "streaming",
+    "timeAgo": "Fri, 03 Jul 2026 14:30:03 +0000",
+    "timestamp": 1783089003.0,
+    "isoDate": "2026-07-03T14:30:03+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
     "link": "https://blog.cloudflare.com/monetization-gateway/",
     "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stac…",
@@ -416,17 +427,6 @@
     "timestamp": 1779971136.0,
     "isoDate": "2026-05-28T12:25:36+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/27/Hook-reference-table1.png"
-  },
-  {
-    "title": "Ad Observability for Streaming Video: How Real-Time Player Data Protects Revenue for FAST Channels, Live Events, and On-Demand Content",
-    "link": "https://bitmovin.com/blog/ad-observability-streaming-video-real-time-player-data/",
-    "summary": "Ad servers confirm that an ad was sent. They cannot tell you whether it actually played. For streaming platforms where ad revenue is the model, that blind spot is a direct and silent revenue leak. This post examines why player-native, real-…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Wed, 27 May 2026 10:10:24 +0000",
-    "timestamp": 1779876624.0,
-    "isoDate": "2026-05-27T10:10:24+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Monetize your live streams using Amazon IVS server-side ad insertion",
