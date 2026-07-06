@@ -1,5 +1,16 @@
 [
   {
+    "title": "Your Worker can now have its own cache in front of it",
+    "link": "https://blog.cloudflare.com/workers-cache/",
+    "summary": "We are launching Workers Cache, a regionally tiered cache that sits directly in front of your Worker entrypoints. Infinitely composable, configured via standard HTTP headers",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 06 Jul 2026 13:00:00 GMT",
+    "timestamp": 1783342800.0,
+    "isoDate": "2026-07-06T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2Xyk1rkPl9p44y48mdoPk/2178d252281c0165e03e7cb9245a4c3a/BLOG-3262_image1.png"
+  },
+  {
     "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
     "link": "https://blog.cloudflare.com/monetization-gateway/",
     "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stac…",
@@ -350,17 +361,6 @@
     "timestamp": 1780984800.0,
     "isoDate": "2026-06-09T06:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5KSSyocxKzsJsOfG4pxOM7/059a597af1b67a3d5a5ccdeda5ab7ca1/image2.png"
-  },
-  {
-    "title": "Turning Cloudflare’s threat indicators into real-time WAF rules",
-    "link": "https://blog.cloudflare.com/realtime-threat-intel-waf-rules/",
-    "summary": "Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted industr…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 08 Jun 2026 13:00:00 GMT",
-    "timestamp": 1780923600.0,
-    "isoDate": "2026-06-08T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1YQOp7XzNrFIHE1HSNhz6b/06d1565243b2902df5a5b294e3e80709/BLOG-3272_image3.png"
   },
   {
     "title": "Adaptive Bitrate Streaming (ABR): What is it & How Does it Work? [2026 Update]",
