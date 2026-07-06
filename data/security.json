@@ -1,5 +1,49 @@
 [
   {
+    "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+    "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
+    "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Jul 2026 14:20:54 +0530",
+    "timestamp": 1783327854.0,
+    "isoDate": "2026-07-06T08:50:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1600/TrojPix-attack.jpg"
+  },
+  {
+    "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+    "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
+    "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware is advertised under …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Jul 2026 13:43:33 +0530",
+    "timestamp": 1783325613.0,
+    "isoDate": "2026-07-06T08:13:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg"
+  },
+  {
+    "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+    "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+    "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Jul 2026 12:57:50 +0530",
+    "timestamp": 1783322870.0,
+    "isoDate": "2026-07-06T07:27:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_WItJUaS3rk5pAYa5yOsKuUt0Yovlv1T-jIz2GBBhcmMjToCgnWuEApyWfgDwngwAPcEGke0zwo_2DKKHaN9vzzHMAnd7Z3esepEvjSM022BzOdjo0sJW2bSMlslKXVv5Fg701ozva1HDgZPJV4Qya8Xevye-eT4dB0UmIJK9CKq-_wLnEGgNYigRLzh/s1600/opera-data-leak.jpg"
+  },
+  {
+    "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+    "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+    "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology. Th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 06 Jul 2026 12:03:56 +0530",
+    "timestamp": 1783319636.0,
+    "isoDate": "2026-07-06T06:33:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4ZKsU9PwSPcL_Vs2ZqYIh0ahMuSFSNcCv_Y5MiM7MRsUgeZCDa5XTSWVYQXjLg-ByFbm4cHoo-8SSeWrB7KSdYrl4A1Ioif-v8NLNA43asXEHtYjn6uad21Savnzi_1iJ0YQ44iuXECEIBbyc3l7lJ9l2pdofVvP7dM3n9Ji5OeUeuPDHX5sqBJreUUB/s1600/ai-skills.jpg"
+  },
+  {
     "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
     "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
     "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left. The odd p…",
@@ -284,49 +328,5 @@
     "timestamp": 1782914178.0,
     "isoDate": "2026-07-01T13:56:18+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMOqrFNgwfokWIpvUBFpDUO-So-0focm0a7d9mhocEHiwdB2cHmPQ9q4STjyCr-gVUPK67TYluInMr0_v1omCJVWbd9OVOg6AqVROoxZb44b5BOpxdBb2GECjFw77NhlCf6nWC5oJF3x3KvE3EyDV2pUR3lvROAWjaFs9SOyvzM3qRB6MzEUCFYuVAoCb/s1600/pro-exploit.jpg"
-  },
-  {
-    "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
-    "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-    "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Jul 2026 18:29:19 +0530",
-    "timestamp": 1782910759.0,
-    "isoDate": "2026-07-01T12:59:19+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4BJdHYquuxXoz8n0LhMEmm9KPcWcMC57w4LnqbMNCPXMAFdS95ys3zE6F5jZOvSKwsVWp6t3z8pVImRJ3Nvxgkr4QiPI5O06zJywlL5uuBIU2G0ZtPucYq80Z_G-PnVzjYfChzbnpLxGyD2PpbH8VdLWjIuNLt0RoAe5Q8mVulX2s_4Ueg7XR0pxZVwKn/s1600/chrome-ransomware.jpg"
-  },
-  {
-    "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
-    "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
-    "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's fi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Jul 2026 17:00:00 +0530",
-    "timestamp": 1782905400.0,
-    "isoDate": "2026-07-01T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1ozclOI3O1fTjKYLZrt0RCp54Fr-6NPYAifKy5c1fYwj4ceFq9U62ra9eoBq4Qw7qAh3qXE7ttfy6239qiAwK3SFyQxg316fl8BNxeeZ6IRDJFbjl09AE-gHC9Qa2V3nFljMblCovx6MgP66ZxMfawWVnAWEPNX9YS_FATZFtC69nlKhTvQQeOD58_I/s1600/Assessment.jpg"
-  },
-  {
-    "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
-    "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
-    "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected. \"Advances in q…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Jul 2026 16:11:36 +0530",
-    "timestamp": 1782902496.0,
-    "isoDate": "2026-07-01T10:41:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyPq-iy_BsDM3LGWIEtwydOynDIApb_bokv6EuarUGUbyIw8tFnntySLPL5FuN0Qw1PIGNzlabEaSq00S9ojIShTnbJyM0kWKUbCcIEOH3eEbdLOpgOumlnXHVvrsn2o9A75a2R3_8vjpTB18P45qaK7CtSuggZyGAb2uA8SGGXp_bUV7mqY4aGNlYGXwM/s1600/Microsoft-Encryption.jpg"
-  },
-  {
-    "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-    "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
-    "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 01 Jul 2026 12:50:51 +0530",
-    "timestamp": 1782890451.0,
-    "isoDate": "2026-07-01T07:20:51+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX2IWQhpupx-U0U70hWTg9afsBb41pslrGP733mXXdBKValODZrPoYD3UQqGVq1j9fSgmgf9rqDyxEAx1iKzblSnc_AcfO_CzQ-CA4G24vKEO5YC9P1vC_K_K01RfbMAvN1eaqgRjJUYRIyWZVLQjxYVleEsgcgD_Ifm04sjBCp08xk6W7QjbX4Rgm2vXp/s1600/ai-domains.jpg"
   }
 ]
