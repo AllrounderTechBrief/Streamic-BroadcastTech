@@ -1,5 +1,27 @@
 [
   {
+    "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+    "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+    "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The activity involves th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Jul 2026 14:40:51 +0530",
+    "timestamp": 1783415451.0,
+    "isoDate": "2026-07-07T09:10:51+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg"
+  },
+  {
+    "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+    "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+    "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interfaces, the CERT Coord…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Jul 2026 12:10:47 +0530",
+    "timestamp": 1783406447.0,
+    "isoDate": "2026-07-07T06:40:47+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg"
+  },
+  {
     "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
     "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
     "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susc…",
@@ -306,27 +328,5 @@
     "timestamp": 1782977063.0,
     "isoDate": "2026-07-02T07:24:23+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_BdKzn7-7TCZJfnsZBy25kGm8xiQTrJquj8vMVsjlRXf7LXqMiJLQs8ic-lNLRc51whJzP-B4Nv9OOzfgOSHKzmIjZFv0krEDBuSeuXXNj-OccwbpBBBBIofZFMBT4DaThqLeE2Bsx-Nkp8aZZfEs6tVB43kby1L5UbtPjauqfedlANNzOYGrNB7ec5o/s1600/fake.jpg"
-  },
-  {
-    "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-    "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 02 Jul 2026 11:16:45 +0530",
-    "timestamp": 1782971205.0,
-    "isoDate": "2026-07-02T05:46:45+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEHDpcGNoddFf8yfkJ1L21X61VSA66xZiVjYA5qdfJpZ8tyWxzRy7Il8fwcY59pRUm7mlNChrPHhjySmFLV-dHEIdZiOXj0ZDQ9Wv8yxgfU8qKm_ga3kYcNer9z85cj7KwtYkRuxGtPaNUL0ebiuM2SILSWMVr-fZtnVFejlJ24h48ECds-iMQBTW3vHb/s1600/cisa-ms.jpg"
-  },
-  {
-    "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-    "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-    "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, w…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 02 Jul 2026 01:10:06 +0530",
-    "timestamp": 1782934806.0,
-    "isoDate": "2026-07-01T19:40:06+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9emdIsaMBcMQoyS0ot-ckXq8LWhMk6P2zAm3WdCVFBhRMNUqN6E1vZqllIq6qYHBvGm8WhCGi8C3PLUNOecmNYU4LLoWH5zRBadBejDgpbC5DihDwqiYAMLpZNsQBk2MsiN89nt-honwtPiQzjg4fDUp5w2aiCXWZBKk94qHwfG4yEHak6zoZuNmXKgY/s1600/argo-cd.jpg"
   }
 ]
