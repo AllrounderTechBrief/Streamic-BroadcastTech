@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
+    "link": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
+    "summary": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this framewo…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 07 Jul 2026 13:00:00 GMT",
+    "timestamp": 1783429200.0,
+    "isoDate": "2026-07-07T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Your Worker can now have its own cache in front of it",
     "link": "https://blog.cloudflare.com/workers-cache/",
     "summary": "We are launching Workers Cache, a regionally tiered cache that sits directly in front of your Worker entrypoints. Infinitely composable, configured via standard HTTP headers",
@@ -361,17 +372,6 @@
     "timestamp": 1781013600.0,
     "isoDate": "2026-06-09T14:00:00+00:00",
     "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/All-devices-Bitmovins-Player-covers.png"
-  },
-  {
-    "title": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
-    "link": "https://blog.cloudflare.com/frontier-model-defense/",
-    "summary": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and how…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 09 Jun 2026 06:00:00 GMT",
-    "timestamp": 1780984800.0,
-    "isoDate": "2026-06-09T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5KSSyocxKzsJsOfG4pxOM7/059a597af1b67a3d5a5ccdeda5ab7ca1/image2.png"
   },
   {
     "title": "Adaptive Bitrate Streaming (ABR): What is it & How Does it Work? [2026 Update]",
