@@ -1,5 +1,38 @@
 [
   {
+    "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+    "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+    "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint. Microsoft records tied that ID first to the account…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Jul 2026 18:57:20 +0530",
+    "timestamp": 1783430840.0,
+    "isoDate": "2026-07-07T13:27:20+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRD_854zsswRvh7xWklnbEkAjmk7UZy_-dQzlueMbq1ib7deDs-QH0av7XRZ1WEq3vcX57cDDcioIdkebKCiF7qr8xC9Evw7GmFuDS0kQt3mnpXgb3Q2H62eHPIgCy3rk1Mj3uM-Mge0XTfMgSCGaumk3i5KatoyrFnu_PUhg8cZGY1ZAd185qsNqZ1jE/s1600/md-id.jpg"
+  },
+  {
+    "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+    "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+    "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant compromise. The one-clic…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Jul 2026 18:57:09 +0530",
+    "timestamp": 1783430829.0,
+    "isoDate": "2026-07-07T13:27:09+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0EnuZfnTZVOg-ACF0jKSHBB8TemRtJ6vlDerjpWy9giH2VsJTP_XiktA9SCytwnDcP95jn4gyQaPk2r92S-J-4EcB7FDvenxXiNwJKtg1VQkV_f564nT6mrS6S3wuMX3SC22kdd5nJM9y4IecNKJ3CRq569DtujHzUgaVOAwQDpfvCgkCrSrfeRjT1CQ/s1600/writerai.jpg"
+  },
+  {
+    "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+    "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+    "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline. For five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, which transitive depend…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 07 Jul 2026 17:00:00 +0530",
+    "timestamp": 1783423800.0,
+    "isoDate": "2026-07-07T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0OJ0wrmDju3vsLQqciy7DCza9juzf5jkuI6VPy8mXFoQ-2hVj7uNgqJD8ti8Pft2gayFWUH9TfOuIkqnKyduhjMP9-wqBxuvHPoyp39keS52R_MpsuO0bsKX03-fy2PA3V-gjqOaKuSKoOWaotAyzf9Tsc_zUGJpf4i81bHMrCJYhTo7AjtfsdN_OKuY/s1600/AI-WRITER.jpg"
+  },
+  {
     "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
     "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
     "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The activity involves th…",
@@ -295,38 +328,5 @@
     "timestamp": 1782991800.0,
     "isoDate": "2026-07-02T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwwp0Bf4s6Xp_L13nlIV5Pf2D0awJsA5cDdev6yCr9f7nLVbmJmzqJ01cmdJkO4K0E3KEvdHhK10ZDai_tXV6gZDmgJqhnsARjEhVScA9gsWHKL4zzt64aQSSgPBImpeYxLuMiORSByYXgQunRUhYhymV8AQfvYf6qsBieuh82794N44iaJ9lEl8IS8Z0/s1600/Identity-Lifecycle-Management.jpg"
-  },
-  {
-    "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-    "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-    "summary": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: br…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 02 Jul 2026 14:43:13 +0530",
-    "timestamp": 1782983593.0,
-    "isoDate": "2026-07-02T09:13:13+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirfJNnWRTyyKkXeatZdtLvMsQhba-L0J9yuyASwy4T-6nlbGWnkEl0FUBVO8wS6je9Hc9wPdu01JJ0TETOa1jOjQelGiJY3ZrvsJzFIqpr_gbEvv5F4lnQrJWxTHbpYM6ah6sPJbQ63XtdxlOcFy7KZ06S69LW2escSgSAM-ycKZCqttjAZEcHJ_sO9DdQ/s1600/ai-agent-ransomware.jpg"
-  },
-  {
-    "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-    "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
-    "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to Forti…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 02 Jul 2026 13:30:49 +0530",
-    "timestamp": 1782979249.0,
-    "isoDate": "2026-07-02T08:00:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcA80dQWiuszAlBgwcxzc3suImls2cKOwk_2nYMo7UY5MNSdlKNMgibekQNEhWRuxmX5s1JcLHCd_dsDZ3m9oy_FxN-livXwyMIqre86oK8WIOMKUSZwDBvoN7XQOaV63zVBAIKQCH77-RGxhyLNc0bnip4LoUd0P7HsWQx-bxBu8nHr7St5HKs6T1cS6Z/s1600/bleed-ransomware.jpg"
-  },
-  {
-    "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-    "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-    "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 02 Jul 2026 12:54:23 +0530",
-    "timestamp": 1782977063.0,
-    "isoDate": "2026-07-02T07:24:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_BdKzn7-7TCZJfnsZBy25kGm8xiQTrJquj8vMVsjlRXf7LXqMiJLQs8ic-lNLRc51whJzP-B4Nv9OOzfgOSHKzmIjZFv0krEDBuSeuXXNj-OccwbpBBBBIofZFMBT4DaThqLeE2Bsx-Nkp8aZZfEs6tVB43kby1L5UbtPjauqfedlANNzOYGrNB7ec5o/s1600/fake.jpg"
   }
 ]
