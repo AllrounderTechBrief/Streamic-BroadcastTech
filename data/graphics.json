@@ -1,5 +1,38 @@
 [
   {
+    "title": "Adwave Launches Wavemaker, An AI Video Generator For Creators & Marketers",
+    "link": "https://tvnewscheck.com/ai/article/adwave-launches-wavemaker-an-ai-video-generator-for-creators-marketers/",
+    "summary": "Adwave, an AI-powered connected-TV advertising platform, on July 7 launched Wavemaker, a standalone AI video generation platform that turns text prompts, URLs, uploaded files or topics into scripted, voiced and … The post Adwave Launches Wa…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Wed, 08 Jul 2026 15:25:20 +0000",
+    "timestamp": 1783524320.0,
+    "isoDate": "2026-07-08T15:25:20+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "The Hill Launches The Hill Insider, Paid Digital Subscription Service",
+    "link": "https://tvnewscheck.com/journalism/article/the-hill-launches-the-hill-insider-paid-digital-subscription-service/",
+    "summary": "The service adds a premium layer to The Hill’s existing free, ad-supported site, TheHill.com, and is meant for readers seeking “deeper access, richer context, and direct engagement,” the company said. The post The Hill Launches The Hill Ins…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Wed, 08 Jul 2026 14:28:57 +0000",
+    "timestamp": 1783520937.0,
+    "isoDate": "2026-07-08T14:28:57+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Hubble Captures Star-Studded Cluster",
+    "link": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
+    "summary": "This image from NASA’s Hubble Space Telescope showcases Messier 3 (M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars. Globular clusters are made up of ancient stars th…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 08 Jul 2026 14:13:53 +0000",
+    "timestamp": 1783520033.0,
+    "isoDate": "2026-07-08T14:13:53+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/hubble-m3-july4-final.jpg?w=2012"
+  },
+  {
     "title": "New York State Broadcasters Hall Of Fame Announces Class Of 2026",
     "link": "https://www.insideradio.com/free/new-york-state-broadcasters-hall-of-fame-announces-class-of-2026/article_64085c77-5154-463e-afba-3c5beb04b8dc.html",
     "summary": "The post New York State Broadcasters Hall Of Fame Announces Class Of 2026 appeared first on TV News Check.",
@@ -319,28 +352,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Rewriting The Control Room: How Broadcasters Are Going Remote",
-    "link": "https://tvnewscheck.com/tech/article/rewriting-the-control-room-how-broadcasters-are-going-remote/",
-    "summary": "KVM-over-IP, hybrid infrastructure and REMI workflows are helping broadcasters centralize control without abandoning existing systems. The post Rewriting The Control Room: How Broadcasters Are Going Remote appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Tue, 07 Jul 2026 18:18:27 +0000",
-    "timestamp": 1783448307.0,
-    "isoDate": "2026-07-07T18:18:27+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Fincons Group Names Andrea Fravega Global BU Media General Manager",
-    "link": "https://tvnewscheck.com/business/article/fincons-group-names-andrea-fravega-global-bu-media-general-manager/",
-    "summary": "International IT consultancy Fincons Group named Andrea Fravega Global BU Media general manager on Tuesday, tasking him with leading strategy, operations and commercial expansion for the company’s media business worldwide. … The post Fincon…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Tue, 07 Jul 2026 18:15:47 +0000",
-    "timestamp": 1783448147.0,
-    "isoDate": "2026-07-07T18:15:47+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
     "link": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
     "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The…",
@@ -427,17 +438,6 @@
     "timestamp": 1783350054.0,
     "isoDate": "2026-07-06T15:00:54+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/11/acd22-0003-002_orig.jpg?w=1536"
-  },
-  {
-    "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
-    "link": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
-    "summary": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across n…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 06 Jul 2026 14:00:00 +0000",
-    "timestamp": 1783346400.0,
-    "isoDate": "2026-07-06T14:00:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVT4GQMQ5MXV6XDPFPZMXG65.png?w=4490&h=1859&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Why newsroom workflows are breaking under digital-first pressure",
