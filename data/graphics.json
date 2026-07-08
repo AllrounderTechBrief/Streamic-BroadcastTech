@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cottonwood Fire Chars Utah",
+    "link": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
+    "summary": "The blaze burned more than 150 square miles and swept through parts of a ski resort.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 08 Jul 2026 04:01:00 +0000",
+    "timestamp": 1783483260.0,
+    "isoDate": "2026-07-08T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cottonwood-fire-chars-utah/utcottonwoodfire_oli2_20260605.jpg"
+  },
+  {
     "title": "Dow Drops 131, Nasdaq Sinks 302, S&P 500 Falls 34",
     "link": "https://tvnewscheck.com/business/article/dow-drops-131-nasdaq-sinks-302-sp-500-falls-34/",
     "summary": "AI stocks sink and dragged markets lower worldwide on Tuesday. The post Dow Drops 131, Nasdaq Sinks 302, S&P 500 Falls 34 appeared first on TV News Check.",
@@ -427,17 +438,6 @@
     "timestamp": 1783346400.0,
     "isoDate": "2026-07-06T14:00:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVT4GQMQ5MXV6XDPFPZMXG65.png?w=4490&h=1859&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Examining Algal Blooms in Blue Mesa",
-    "link": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
-    "summary": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 06 Jul 2026 04:01:00 +0000",
-    "timestamp": 1783310460.0,
-    "isoDate": "2026-07-06T04:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20170919.jpg"
   },
   {
     "title": "Why newsroom workflows are breaking under digital-first pressure",
