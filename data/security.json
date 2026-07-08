@@ -1,5 +1,16 @@
 [
   {
+    "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+    "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+    "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious. They just do a lo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Jul 2026 22:32:12 +0530",
+    "timestamp": 1783530132.0,
+    "isoDate": "2026-07-08T17:02:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEtVOCcf8-6_z0F4FVoPlTMQRFJ4CfHCbl-GvhT9EbRrfZgTJsNbBkzAq72212RbMT1Knk5GJsYDY8p5W7YO8x29vQ782QW6CRorl_oKVyAgOmS46Y9HyTPcdZOmMjOPtWjpAHH3C91EPVk4dnHqaAEX8QoaSvGzCbjMy0YhF7lJaIR6-T9Dq5jzZycIc/s1600/alarm.jpg"
+  },
+  {
     "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
     "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
     "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that …",
@@ -317,16 +328,5 @@
     "timestamp": 1783322870.0,
     "isoDate": "2026-07-06T07:27:50+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8-lhQ-1VSjFAnsj0p-4zGDK1crPeBer06vGaA7XU8XCN-lNLkZypKypuQmxyQHx9z_h6Fss3n2BEURplg0uIg4Wal1kQflJxg25IboOZVzFhD4GhRbQF07jgQ5QmOFpayQY7CPW4BPdNo36hi79iv9Eq_8TnNd1ash8cby6ow7poa82cSf38yUyehb-aJ/s1600/opera-browser.jpg"
-  },
-  {
-    "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-    "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-    "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology. Th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Jul 2026 12:03:56 +0530",
-    "timestamp": 1783319636.0,
-    "isoDate": "2026-07-06T06:33:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4ZKsU9PwSPcL_Vs2ZqYIh0ahMuSFSNcCv_Y5MiM7MRsUgeZCDa5XTSWVYQXjLg-ByFbm4cHoo-8SSeWrB7KSdYrl4A1Ioif-v8NLNA43asXEHtYjn6uad21Savnzi_1iJ0YQ44iuXECEIBbyc3l7lJ9l2pdofVvP7dM3n9Ji5OeUeuPDHX5sqBJreUUB/s1600/ai-skills.jpg"
   }
 ]
