@@ -1,5 +1,27 @@
 [
   {
+    "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+    "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+    "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code has shipped by default…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Jul 2026 11:46:44 +0530",
+    "timestamp": 1783491404.0,
+    "isoDate": "2026-07-08T06:16:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif"
+  },
+  {
+    "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+    "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Jul 2026 11:03:12 +0530",
+    "timestamp": 1783488792.0,
+    "isoDate": "2026-07-08T05:33:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg"
+  },
+  {
     "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
     "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
     "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that …",
@@ -306,27 +328,5 @@
     "timestamp": 1783076743.0,
     "isoDate": "2026-07-03T11:05:43+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
-  },
-  {
-    "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-    "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-    "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a co…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 03 Jul 2026 13:33:37 +0530",
-    "timestamp": 1783065817.0,
-    "isoDate": "2026-07-03T08:03:37+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
-  },
-  {
-    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-    "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-    "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 03 Jul 2026 00:24:06 +0530",
-    "timestamp": 1783018446.0,
-    "isoDate": "2026-07-02T18:54:06+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg"
   }
 ]
