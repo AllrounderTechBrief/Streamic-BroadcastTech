@@ -1,5 +1,60 @@
 [
   {
+    "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+    "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+    "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life inside the victim’s …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Jul 2026 18:30:00 +0530",
+    "timestamp": 1783515600.0,
+    "isoDate": "2026-07-08T13:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl6gaxMQBH0Bjb1ZhuaOiM5gKEk-zuSf821eRfV33ogx6YWwENunjyOPF8VXHtgtHgIevENLfBV2O04QI4TtjtDe2PGGevWptQEEagmp6q-G4FqOankGokz70XzVtz7dmNbEZ5G7-pV0yINgd2-ima7ap8xeOxuhZBKw2WPoUo81wKmGrwsPxbzYkW5Wk/s1600/anyrun-main.jpg"
+  },
+  {
+    "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+    "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
+    "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under the moniker REF6045, in…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Jul 2026 18:22:15 +0530",
+    "timestamp": 1783515135.0,
+    "isoDate": "2026-07-08T12:52:15+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguw-rOR8Masg2W1UVlfj5rr1nTNdwmhHfXvKG-8rLXWxkwDjtEy-O2ZCb40GEca78DPql7PPEPIrRL_tYt9Ob51ZW7_L-i7w-Ej7DzX2NtNGBrRHuorMowS0d89GxVjQW492-J1LansFJY7SqZgVCtBvcwhyphenhyphenpOcveL_9rNcsgyJm-cRSwnbwvFXKQuLMA9/s1600/clickfix-banking.jpg"
+  },
+  {
+    "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+    "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+    "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Jul 2026 17:21:24 +0530",
+    "timestamp": 1783511484.0,
+    "isoDate": "2026-07-08T11:51:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifE8OSGx2cVUZ1jiVnMC-LHyladj2cJ1FWw2-t0wDJEK4Icxrhk_bFReZr8jCiNkmpamFxdBGLpgruMJh1g7c687TCf4R76GG8xJEzB9kzPLTXo18DUZkT9_T5LHeikWsoEDeBm-gapabqgRUl2sAyhaPeYOWIs7Re0-jr2CMoKVn5AzlXdU1W6oWIy6mv/s1600/git-hash.jpg"
+  },
+  {
+    "title": "The Verification Step Is the New ATO Battleground in 2026",
+    "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
+    "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively w…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Jul 2026 17:00:00 +0530",
+    "timestamp": 1783510200.0,
+    "isoDate": "2026-07-08T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaJMgdxAojXQ55Emgp0cdpY7ibLUdpF2qw_6WRHLpgdFhT82J_HFoOeqj69x1MNb7EqqMLp23NxnAsbzCeH0rg5cOrrM6bdDFNWlvvXbNZ9-QGzCYyX0q9AqYAGKwXVOb35u2lE91pm27dzyikSEF7zzfmNG-asRkTjhR30sdWgmf7TsZj8tqieCYUnTY/s1600/main-veriff.jpg"
+  },
+  {
+    "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+    "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+    "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a new study of GitHub Copil…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 08 Jul 2026 16:51:07 +0530",
+    "timestamp": 1783509667.0,
+    "isoDate": "2026-07-08T11:21:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3sdn3FMdKySUzvuf2007OIkov1V6r7gOe6npkdpODZqGK0avIBUu4fc4XVYsccnBD3ij71TroVDezuYTjSmXj6le7luxRFK-S1q3itvZHcIwPaY2NzDYjEUH-hnBbOBa_GZSq7-Es2DG4v-6vlbqeZWvYohveEleH8n8eWD6GxafIJIvanFGzsLarQY/s1600/copilot-prompts.jpg"
+  },
+  {
     "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
     "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
     "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is a…",
@@ -239,7 +294,7 @@
     "timeAgo": "Mon, 06 Jul 2026 12:57:50 +0530",
     "timestamp": 1783322870.0,
     "isoDate": "2026-07-06T07:27:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_WItJUaS3rk5pAYa5yOsKuUt0Yovlv1T-jIz2GBBhcmMjToCgnWuEApyWfgDwngwAPcEGke0zwo_2DKKHaN9vzzHMAnd7Z3esepEvjSM022BzOdjo0sJW2bSMlslKXVv5Fg701ozva1HDgZPJV4Qya8Xevye-eT4dB0UmIJK9CKq-_wLnEGgNYigRLzh/s1600/opera-data-leak.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8-lhQ-1VSjFAnsj0p-4zGDK1crPeBer06vGaA7XU8XCN-lNLkZypKypuQmxyQHx9z_h6Fss3n2BEURplg0uIg4Wal1kQflJxg25IboOZVzFhD4GhRbQF07jgQ5QmOFpayQY7CPW4BPdNo36hi79iv9Eq_8TnNd1ash8cby6ow7poa82cSf38yUyehb-aJ/s1600/opera-browser.jpg"
   },
   {
     "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
@@ -273,60 +328,5 @@
     "timestamp": 1783163844.0,
     "isoDate": "2026-07-04T11:17:24+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg"
-  },
-  {
-    "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-    "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-    "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 04 Jul 2026 01:49:31 +0530",
-    "timestamp": 1783109971.0,
-    "isoDate": "2026-07-03T20:19:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
-  },
-  {
-    "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-    "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-    "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 04 Jul 2026 01:10:01 +0530",
-    "timestamp": 1783107601.0,
-    "isoDate": "2026-07-03T19:40:01+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
-  },
-  {
-    "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-    "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-    "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines c…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 04 Jul 2026 00:25:24 +0530",
-    "timestamp": 1783104924.0,
-    "isoDate": "2026-07-03T18:55:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
-  },
-  {
-    "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-    "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-    "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 03 Jul 2026 21:37:15 +0530",
-    "timestamp": 1783094835.0,
-    "isoDate": "2026-07-03T16:07:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg"
-  },
-  {
-    "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-    "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-    "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends financially motivate…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 03 Jul 2026 19:06:33 +0530",
-    "timestamp": 1783085793.0,
-    "isoDate": "2026-07-03T13:36:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
   }
 ]

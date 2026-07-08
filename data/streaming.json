@@ -1,5 +1,16 @@
 [
   {
+    "title": "Introducing Meerkat: an experiment in global consensus",
+    "link": "https://blog.cloudflare.com/meerkat-introduction/",
+    "summary": "Cloudflare Research is building a global consensus service called Meerkat that uses a new consensus algorithm called QuePaxa. We plan to use Meerkat to build a strongly consistent, fault-tolerant key-value store, and other applications.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 08 Jul 2026 13:00:00 GMT",
+    "timestamp": 1783515600.0,
+    "isoDate": "2026-07-08T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/Ie5OrNyD2MJVN47XewDiD/52d0c61577c39f026ed49d5035a8d7cd/BLOG-3347_image4.png"
+  },
+  {
     "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
     "link": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
     "summary": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this framewo…",
@@ -350,17 +361,6 @@
     "timestamp": 1781182975.0,
     "isoDate": "2026-06-11T13:02:55+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/09/Figure-1-Smart-Subtitles-process.png"
-  },
-  {
-    "title": "Route public traffic to private applications with Cloudflare",
-    "link": "https://blog.cloudflare.com/private-origins-dns-routing/",
-    "summary": "Application Services for Private Origins is available now in closed beta. Route public hostnames to private IP origins over your existing IPsec, GRE, CNI, or Cloudflare Mesh paths. No public IPs or extra connector software required.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 10 Jun 2026 13:00:00 GMT",
-    "timestamp": 1781096400.0,
-    "isoDate": "2026-06-10T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3dPNpYW2ByViLaO237MJf/c535f739bb0949b908d529bf62e9ad54/1-connectivity-models_2x__4_.png"
   },
   {
     "title": "FIFA World Cup 2026 Streaming: 104 Matches, 39 Days, One Test It Can’t Fail",
