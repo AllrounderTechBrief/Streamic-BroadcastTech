@@ -1,5 +1,16 @@
 [
   {
+    "title": "Why we cannot wait for better post-quantum signature algorithms",
+    "link": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
+    "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 09 Jul 2026 14:00:00 GMT",
+    "timestamp": 1783605600.0,
+    "isoDate": "2026-07-09T14:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3OKVqLAZqT4c91Te27LsF3/8c4a30f1f7d1ba896a8593f0331202ae/image3.png"
+  },
+  {
     "title": "Introducing Meerkat: an experiment in global consensus",
     "link": "https://blog.cloudflare.com/meerkat-introduction/",
     "summary": "Cloudflare Research is building a global consensus service called Meerkat that uses a new consensus algorithm called QuePaxa. We plan to use Meerkat to build a strongly consistent, fault-tolerant key-value store, and other applications.",
@@ -317,17 +328,6 @@
     "timestamp": 1781270100.0,
     "isoDate": "2026-06-12T13:15:00+00:00",
     "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-1.jpeg"
-  },
-  {
-    "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
-    "link": "https://blog.cloudflare.com/scaling-security-scans/",
-    "summary": "Cloudflare Security Insights system now processes over 120 scans per second, providing frequent insights for all customers. By optimizing Kafka consumers, Postgres queries, and our API, we scaled our throughput 10x without adding hardware.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 12 Jun 2026 13:00:00 GMT",
-    "timestamp": 1781269200.0,
-    "isoDate": "2026-06-12T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1vJ2DRjdopX1LgymReyped/dbb20abb364acdd4904aba746d7921a6/BLOG-3307_image2.jpg"
   },
   {
     "title": "Hackathon spotlight: Real-Time Observability Custom Dashboarding",

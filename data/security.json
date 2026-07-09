@@ -1,5 +1,16 @@
 [
   {
+    "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+    "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+    "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the firs…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 09 Jul 2026 17:56:58 +0530",
+    "timestamp": 1783600018.0,
+    "isoDate": "2026-07-09T12:26:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVBCdd1YLOTAhXs53MgUBJHfid7uAH-uFr4vzULJu6BL5H7TDiBbZUDxS9RTwC1FH7q2HhEiI2BHLlymHQ7btIBDidvIohoiVJ2XH2uvQcan7Lio_iIh3Ku3J3LoM8SgaHrlAnyFeVLo77qE93hFykG4CJZUj1IsJb75jFMjAK9Q1V-akTkdagA_NLm4A/s1600/thn-webinar.jpg"
+  },
+  {
     "title": "Summer of Clearinghouses",
     "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
     "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, …",
@@ -317,16 +328,5 @@
     "timestamp": 1783362866.0,
     "isoDate": "2026-07-06T18:34:26+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg"
-  },
-  {
-    "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-    "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-    "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw sits in the shadow MMU…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Jul 2026 23:07:01 +0530",
-    "timestamp": 1783359421.0,
-    "isoDate": "2026-07-06T17:37:01+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG42lgj1grtq5EQICr-9RYvPU59uHFRBluzVoZ3TZLXEXBcF5bOPerpb_Ck-e6oNz6P4MO1VAiqbBXuPbImhng1CoRnRYHWSZTGOloHmYB5khhpCK5wW348uMgqmWIjTQPnOwCGV7OiPXJoJDWV0n1IPGP80hADXD3AnmRKbTb8jxyGQenhlgIpvNo29I/s1600/linux-kvm.jpg"
   }
 ]
