@@ -1,5 +1,27 @@
 [
   {
+    "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+    "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+    "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 09 Jul 2026 22:19:02 +0530",
+    "timestamp": 1783615742.0,
+    "isoDate": "2026-07-09T16:49:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbP2w2lzNWbB041oSXvx2Nb1uOJaf81XNUBioDv_3K73S-JnzIU4OnUHfwG3Q3RLbf_p2wJBpHC0m2M4cQhCMfcSRRx1MY9n2vCVSNI4ddai3uJ3eE2Kb-d_ryU_HSEx_R2Rjoxz2D3TBcZCgLRWf-rOBf9k73Vi1Q04aWNG9Ux-A5AOf-v1HjSGD3YZcg/s1600/npm-security.jpg"
+  },
+  {
+    "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+    "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+    "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. Not clever. Just small…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 09 Jul 2026 20:39:28 +0530",
+    "timestamp": 1783609768.0,
+    "isoDate": "2026-07-09T15:09:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAXvG0n7eiC50jtfO-3MYOPx-Z0iWiucBfHqzY2QNH-5fUyfWcGu3NME0yERr2qWKcAeg6rIYMtP_VEeRInpeghztHmnjDa4QyuXSbaktcOdHHK9sx8lurd2RmejcmBjSZIznBl0zKQ-mk4dcCsVdL29g4XPEwUdrlQgj5-GgxvVnolSJJfCJW7g4vosLe/s1600/ThreatsDay-main.jpg"
+  },
+  {
     "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
     "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
     "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the firs…",
@@ -306,27 +328,5 @@
     "timestamp": 1783406447.0,
     "isoDate": "2026-07-07T06:40:47+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg"
-  },
-  {
-    "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-    "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-    "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susc…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 07 Jul 2026 10:46:51 +0530",
-    "timestamp": 1783401411.0,
-    "isoDate": "2026-07-07T05:16:51+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg"
-  },
-  {
-    "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-    "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-    "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations. …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 07 Jul 2026 00:04:26 +0530",
-    "timestamp": 1783362866.0,
-    "isoDate": "2026-07-06T18:34:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg"
   }
 ]
