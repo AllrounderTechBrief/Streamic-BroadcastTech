@@ -1,5 +1,27 @@
 [
   {
+    "title": "Super Typhoon Bavi",
+    "link": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+    "summary": "The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 09 Jul 2026 04:01:00 +0000",
+    "timestamp": 1783569660.0,
+    "isoDate": "2026-07-09T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705.jpg?w=2160&h=1540&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Dylan Eckhart Named WAOW Wausau Sports Director",
+    "link": "https://tvnewscheck.com/journalism/article/dylan-eckhart-named-waow-wausau-sports-director/",
+    "summary": "Dylan Eckhart has been promoted to sports director at WAOW, Allen Media Group’s ABC affiliate in Wausau, Wis. Eckhart, previously a multimedia journalist, will join anchor Justin Betti and meteorologist … The post Dylan Eckhart Named WAOW W…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 09 Jul 2026 00:42:59 +0000",
+    "timestamp": 1783557779.0,
+    "isoDate": "2026-07-09T00:42:59+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
     "link": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
     "summary": "For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coa…",
@@ -151,6 +173,17 @@
     "timeAgo": "Wed, 08 Jul 2026 17:09:37 +0000",
     "timestamp": 1783530577.0,
     "isoDate": "2026-07-08T17:09:37+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "NASA Awards Contracts for Mars Advanced Surface Mobility Technology",
+    "link": "https://science.nasa.gov/directorates/smd/planetary-science-division/mars-exploration-program/nasa-awards-contracts-for-mars-advanced-surface-mobility-technology/",
+    "summary": "July 8, 2026 C.13 NASA Awards Contracts for Mars Advanced Surface Mobility Technology NASA has selected seven companies for contract awards under the Mars Exploration Program’s Science Transport and Robotic Innovation for Deployment and Exp…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 08 Jul 2026 16:22:50 +0000",
+    "timestamp": 1783527770.0,
+    "isoDate": "2026-07-08T16:22:50+00:00",
     "imageUrl": ""
   },
   {
@@ -341,17 +374,6 @@
     "imageUrl": ""
   },
   {
-    "title": "What Sky Is Really Buying In The ITV Deal",
-    "link": "https://tvnewscheck.com/business/article/what-sky-is-really-buying-in-the-itv-deal/",
-    "summary": "The blockbuster deal separates two things that made ITV unusually powerful — its network and its studio — and raises uncomfortable questions about the future of British television. The post What Sky Is Really Buying In The ITV Deal appeared…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Wed, 08 Jul 2026 10:01:27 +0000",
-    "timestamp": 1783504887.0,
-    "isoDate": "2026-07-08T10:01:27+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Cottonwood Fire Chars Utah",
     "link": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
     "summary": "The blaze burned more than 150 square miles and swept through parts of a ski resort.",
@@ -416,28 +438,6 @@
     "timestamp": 1783396800.0,
     "isoDate": "2026-07-07T04:00:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_wide.jpg?w=1440&h=959&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "NASA Takes Flight For America’s 250th",
-    "link": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/",
-    "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America has pushed the boundar…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 06 Jul 2026 18:38:20 +0000",
-    "timestamp": 1783363100.0,
-    "isoDate": "2026-07-06T18:38:20+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/55374566234-d7c31b6e97-o.jpg?w=2048"
-  },
-  {
-    "title": "NASA Seeks Industry Input on Second Phase of Commercial Space Stations",
-    "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
-    "summary": "On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in low Earth orbit from…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 06 Jul 2026 15:33:00 +0000",
-    "timestamp": 1783351980.0,
-    "isoDate": "2026-07-06T15:33:00+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg?w=1080"
   },
   {
     "title": "Why newsroom workflows are breaking under digital-first pressure",

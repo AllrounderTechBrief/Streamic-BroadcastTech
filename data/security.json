@@ -1,5 +1,27 @@
 [
   {
+    "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+    "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+    "summary": "Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 09 Jul 2026 09:57:18 +0530",
+    "timestamp": 1783571238.0,
+    "isoDate": "2026-07-09T04:27:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijymBd057efx1JbDRjjqh0RBYH7RA2pE75UYG8DDd7Vl2UyXMsMjXtgEaxoPyHt5wz8s0fT6B43ovQskxZBchyiYI9G34t7YjyC6_T0xwzs_0SOJaHnHI7vXfMTOqtDn1R6up52ol5UH_uT86b1dRjaJ-Bw6pa_lAX6igS_pFLV_z_0kRhyXuNo8Q2rFU/s1600/wiz-ai.jpg"
+  },
+  {
+    "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+    "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 09 Jul 2026 09:31:49 +0530",
+    "timestamp": 1783569709.0,
+    "isoDate": "2026-07-09T04:01:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R7K2HuXIaXAr6VokIBdoRH5Zk8L2jJMM5abiDPtiOsT3DsQnI-FRSuTO02mekKGj2Cup9RBBYgAhyo92KHjyCTsMuctH8lYgwysOxpLpHp9uIuL7xBEuojc83nmWH7pcA1KRlu8W9-7b1caaoQMaNX2qATV_7e-CwoPSFk08VwjbRx2M-fgfMcjN3KeW/s1600/7-zip-malware.png"
+  },
+  {
     "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
     "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
     "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious. They just do a lo…",
@@ -306,27 +328,5 @@
     "timestamp": 1783327854.0,
     "isoDate": "2026-07-06T08:50:54+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1600/TrojPix-attack.jpg"
-  },
-  {
-    "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-    "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-    "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware is advertised under …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Jul 2026 13:43:33 +0530",
-    "timestamp": 1783325613.0,
-    "isoDate": "2026-07-06T08:13:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg"
-  },
-  {
-    "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-    "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-    "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 06 Jul 2026 12:57:50 +0530",
-    "timestamp": 1783322870.0,
-    "isoDate": "2026-07-06T07:27:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8-lhQ-1VSjFAnsj0p-4zGDK1crPeBer06vGaA7XU8XCN-lNLkZypKypuQmxyQHx9z_h6Fss3n2BEURplg0uIg4Wal1kQflJxg25IboOZVzFhD4GhRbQF07jgQ5QmOFpayQY7CPW4BPdNo36hi79iv9Eq_8TnNd1ash8cby6ow7poa82cSf38yUyehb-aJ/s1600/opera-browser.jpg"
   }
 ]
