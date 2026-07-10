@@ -1,13 +1,24 @@
 [
   {
+    "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+    "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+    "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporaril…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 10 Jul 2026 22:00:00 +0530",
+    "timestamp": 1783701000.0,
+    "isoDate": "2026-07-10T16:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgULXOG2_Ph1198nw2lOea2pYE9u1GkPHaaMlzhpO48pOmejpWKFuHbchUac5JIRQHGiIMMTefXq-LktA8AjsqqMIsBS54bLaludxIJbq7chYfo_Vsoqf9Xi7YomnSUL9wHAYa5InCST76k1aP10VMmNKK_MDLD3o5zNXyB4ODMRMl0DbLkz9f2mg2k2S8/s1600/progress.jpg"
+  },
+  {
     "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
     "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
     "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised …",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Fri, 10 Jul 2026 22:59:28 +0530",
-    "timestamp": 1783704568.0,
-    "isoDate": "2026-07-10T17:29:28+00:00",
+    "timeAgo": "Fri, 10 Jul 2026 21:59:00 +0530",
+    "timestamp": 1783700940.0,
+    "isoDate": "2026-07-10T16:29:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNxzPo9jxkW3GuuZLBgtPOrG3vZ3va6E710jDJu_JF0jCpyQ1JTpymdVwdSH2VHL6-Ib6YLInvKsuNwgFJxna1nvDhwKMZ_hycTik5OgQniZei2FQ59-F3s80lsnPmhQ1aJsr7qIWWrf63V0AtHQxd_1Nlk6LkVEheoN5lRYH8aTeBoJ-kM1-bOjUgAwa/s1600/npm-malware-2.jpg"
   },
   {
@@ -317,16 +328,5 @@
     "timestamp": 1783515135.0,
     "isoDate": "2026-07-08T12:52:15+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguw-rOR8Masg2W1UVlfj5rr1nTNdwmhHfXvKG-8rLXWxkwDjtEy-O2ZCb40GEca78DPql7PPEPIrRL_tYt9Ob51ZW7_L-i7w-Ej7DzX2NtNGBrRHuorMowS0d89GxVjQW492-J1LansFJY7SqZgVCtBvcwhyphenhyphenpOcveL_9rNcsgyJm-cRSwnbwvFXKQuLMA9/s1600/clickfix-banking.jpg"
-  },
-  {
-    "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-    "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-    "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Jul 2026 17:21:24 +0530",
-    "timestamp": 1783511484.0,
-    "isoDate": "2026-07-08T11:51:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifE8OSGx2cVUZ1jiVnMC-LHyladj2cJ1FWw2-t0wDJEK4Icxrhk_bFReZr8jCiNkmpamFxdBGLpgruMJh1g7c687TCf4R76GG8xJEzB9kzPLTXo18DUZkT9_T5LHeikWsoEDeBm-gapabqgRUl2sAyhaPeYOWIs7Re0-jr2CMoKVn5AzlXdU1W6oWIy6mv/s1600/git-hash.jpg"
   }
 ]
