@@ -1,5 +1,27 @@
 [
   {
+    "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+    "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+    "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 10 Jul 2026 20:21:49 +0530",
+    "timestamp": 1783695109.0,
+    "isoDate": "2026-07-10T14:51:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTLgENs5MJo_gV_QbX1x2nGoQHhWCWzGJl6D8ssjbC4gbSDAO2zfpMBjVKTt0l8kqw_K230z5k2KdxldED7j-dseI_a46u241eUTbIa3z0gphXahdPKVxGU7xdjLiLun9ooeGWLHsoYks00SsjqJv0d1-N157CMvuTVjFgYA1UXGz5N5esdGiWrK975J8q/s1600/hardware-wallet-password-reset.jpg"
+  },
+  {
+    "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+    "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+    "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution o…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 10 Jul 2026 19:49:50 +0530",
+    "timestamp": 1783693190.0,
+    "isoDate": "2026-07-10T14:19:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs80_SEcGa8Q18LOUd4Y3fWiWZRh6MOX6U3LhAyAVVewqJVSd1cq2bgepE_2vS0eg9qvr0iM1JOYnYd9GPDQ-LZiTP4-J8oEpZjAMc2ivQ9QiNTMbf1BYONSvBOvZaVat_1PUWjM9O72K_pdF74UKhHm-dd-wXKLp8BDoV4dQZTi1HWOUCWbozpd4muH0i/s1600/openclaw-whatsapp.jpg"
+  },
+  {
     "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
     "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
     "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophis…",
@@ -306,27 +328,5 @@
     "timestamp": 1783509667.0,
     "isoDate": "2026-07-08T11:21:07+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3sdn3FMdKySUzvuf2007OIkov1V6r7gOe6npkdpODZqGK0avIBUu4fc4XVYsccnBD3ij71TroVDezuYTjSmXj6le7luxRFK-S1q3itvZHcIwPaY2NzDYjEUH-hnBbOBa_GZSq7-Es2DG4v-6vlbqeZWvYohveEleH8n8eWD6GxafIJIvanFGzsLarQY/s1600/copilot-prompts.jpg"
-  },
-  {
-    "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-    "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-    "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Jul 2026 14:34:33 +0530",
-    "timestamp": 1783501473.0,
-    "isoDate": "2026-07-08T09:04:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXpYmSnXODMABymw2qCiVS3p13OIwfJ45yIZq-o8wXfgtWXxOPjPbsGjdgEExUsWcvkKhtyPBhGsc6mSIzg8fzwrVJE_GIIm0k3qbzMd7BSjUcAjRFznnsXjv-dnG-Zq671G-_PYcHe88J4yTpy0FBc_pReVfNVrwGvGceEvAbLqA_roMRNI2DjbwohEqK/s1600/routers.jpg"
-  },
-  {
-    "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-    "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-    "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code has shipped by default…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Jul 2026 11:46:44 +0530",
-    "timestamp": 1783491404.0,
-    "isoDate": "2026-07-08T06:16:44+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif"
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "title": "NAB Relaunches Spot Center for Local Stations",
+    "link": "https://tvnewscheck.com/promotion/article/nab-relaunches-spot-center-for-local-stations/",
+    "summary": "Local radio and television stations now have easier access to free, broadcast-ready public service campaigns through a redesigned Spot Center launched by the National Association of Broadcasters. NAB says the … The post NAB Relaunches Spot …",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 10 Jul 2026 16:52:28 +0000",
+    "timestamp": 1783702348.0,
+    "isoDate": "2026-07-10T16:52:28+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "NASA Photographer Captures Images from F-18 Over Washington",
+    "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
+    "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work ha…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 10 Jul 2026 16:36:14 +0000",
+    "timestamp": 1783701374.0,
+    "isoDate": "2026-07-10T16:36:14+00:00",
+    "imageUrl": "https://images-assets.nasa.gov/image/AFRC2026-0146-90/AFRC2026-0146-90~large.jpg?w=1920&h=1439&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Waxing Gibbous Moon",
+    "link": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/",
+    "summary": "The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous ph…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 10 Jul 2026 15:08:59 +0000",
+    "timestamp": 1783696139.0,
+    "isoDate": "2026-07-10T15:08:59+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/55379860699-326a74df60-o.jpg?w=2048"
+  },
+  {
     "title": "Dalet Updates Flex LTS With Expanded AI, Ingest and Editing Tools",
     "link": "https://tvnewscheck.com/tech/article/dalet-updates-flex-lts-with-expanded-ai-ingest-and-editing-tools/",
     "summary": "Dalet has rolled out a new long-term supported release of its Flex media-operations platform, adding expanded AI-powered media intelligence, modernized ingest and editing workflows, and deeper integration with the company’s … The post Dalet…",
@@ -352,17 +385,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Harris Katleman, Former Top Television Executive At MGM & Fox, Dies At 97",
-    "link": "https://www.hollywoodreporter.com/tv/tv-news/harris-katleman-dead-mgm-fox-television-executive-1236643241/",
-    "summary": "The post Harris Katleman, Former Top Television Executive At MGM & Fox, Dies At 97 appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 09 Jul 2026 18:45:25 +0000",
-    "timestamp": 1783622725.0,
-    "isoDate": "2026-07-09T18:45:25+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data",
     "link": "https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/",
     "summary": "The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications.",
@@ -416,28 +438,6 @@
     "timestamp": 1783544654.0,
     "isoDate": "2026-07-08T21:04:14+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/06.29.26_Students_Connect_NASA_Science_With_Indigenous_Knowledge_to_Study_Coastal_Erosion.png?w=835&h=624&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Hubble Captures Star-Studded Cluster",
-    "link": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
-    "summary": "This image from NASA’s Hubble Space Telescope showcases Messier 3 (M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars. Globular clusters are made up of ancient stars th…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 08 Jul 2026 14:13:53 +0000",
-    "timestamp": 1783520033.0,
-    "isoDate": "2026-07-08T14:13:53+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/hubble-m3-july4-final.jpg?w=2012"
-  },
-  {
-    "title": "Cottonwood Fire Chars Utah",
-    "link": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
-    "summary": "The blaze burned more than 150 square miles and swept through parts of a ski resort.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 08 Jul 2026 04:01:00 +0000",
-    "timestamp": 1783483260.0,
-    "isoDate": "2026-07-08T04:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cottonwood-fire-chars-utah/utcottonwoodfire_oli2_20260605.jpg"
   },
   {
     "title": "Why newsroom workflows are breaking under digital-first pressure",
