@@ -1,5 +1,16 @@
 [
   {
+    "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+    "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+    "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophis…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 10 Jul 2026 18:45:23 +0530",
+    "timestamp": 1783689323.0,
+    "isoDate": "2026-07-10T13:15:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKTCUzhkUq2Y7DPv0yS2FatrHQTcHfupRly6f5kSWyQU-So3FOjpC8pt_VKR4qo1SoUGR65ycOEQonbW5heKWj1g_A8qDy69YtWGZDO4m2t46Sip-jdPAlNs2fpRj-w1yd8WpyJpNFUpj1iTBO0X6fy3n9DJ4aEdsWaQz_tN-VV-PxDrufKZR9wkznmXJQ/s1600/MODBEACON.jpg"
+  },
+  {
     "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
     "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
     "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry disclosed the flaw o…",
@@ -55,7 +66,7 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1L4YdSw3-1jg88TMzYxjsqRmu3Bq-VkmyGg742mMsJaIyhyaBk5MBeEFOxagE4H6GFjfH8ey1114iqyT0LuKYFdu7ocZhOrA3WQCvtNZGBknEJ1wTdb5vJ-M8w5kLXaUoBi39TXducoH8jZVrQ1xQQsBtEf0rrGJGfappdR1CrSB3xvaJC8Dgos2XdC37/s1600/Microsoft-Entra-Passkey-Enrollment.jpg"
   },
   {
-    "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+    "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
     "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
     "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is …",
     "source": "The Hacker News",
@@ -317,16 +328,5 @@
     "timestamp": 1783491404.0,
     "isoDate": "2026-07-08T06:16:44+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif"
-  },
-  {
-    "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-    "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Jul 2026 11:03:12 +0530",
-    "timestamp": 1783488792.0,
-    "isoDate": "2026-07-08T05:33:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg"
   }
 ]
