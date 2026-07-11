@@ -1,5 +1,27 @@
 [
   {
+    "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+    "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+    "summary": "Version 8.14.0 of the jscrambler npm package shipped with a malicious preinstall hook that silently drops and runs a native infostealer during installation, one build each for Windows, macOS, and Linux. Published on July 11, 2026, it needs …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 11 Jul 2026 23:29:26 +0530",
+    "timestamp": 1783792766.0,
+    "isoDate": "2026-07-11T17:59:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg"
+  },
+  {
+    "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+    "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+    "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 20…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 11 Jul 2026 23:19:31 +0530",
+    "timestamp": 1783792171.0,
+    "isoDate": "2026-07-11T17:49:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
+  },
+  {
     "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
     "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
     "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scr…",
@@ -306,27 +328,5 @@
     "timestamp": 1783523244.0,
     "isoDate": "2026-07-08T15:07:24+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLRfTvakP4spTkbT8iiV9ndUR4EwlHOmGkZrO4JdBl3QsmWS5zA_sx081fvr3R11VEnZcjHOFcirZAQ5eaqB3n8sFJQ7m64edzVHNONHsD9j9Obds8E_Z9VC08y42TCyJV_3zpWam1LTHhiZBLX5WCLNp-4tdR-AwYzlyoifh1Seu-ND4OKbnZOEhMks/s1600/ai-botnet.jpg"
-  },
-  {
-    "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-    "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-    "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution. The list of v…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Jul 2026 20:08:05 +0530",
-    "timestamp": 1783521485.0,
-    "isoDate": "2026-07-08T14:38:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx2TRa1CP7yIs67Wa1bxiFVW5yq1S7vtAaQHf_htjuDbpAETKv8tfw7rchtVvME0FsA8YJ_uQzRp_ZAV-nPhLyRUQw_NNdgN0zhjyVR_L3wzt1ZX08PknwSF2FBLeieIUIx7t4hLMF1sDnsRuFCzllq8auoKriKlGMdllY8IYG04bID6cgGzty0e9mVhoM/s1600/uu.jpg"
-  },
-  {
-    "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
-    "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-    "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life inside the victim’s …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Jul 2026 18:30:00 +0530",
-    "timestamp": 1783515600.0,
-    "isoDate": "2026-07-08T13:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl6gaxMQBH0Bjb1ZhuaOiM5gKEk-zuSf821eRfV33ogx6YWwENunjyOPF8VXHtgtHgIevENLfBV2O04QI4TtjtDe2PGGevWptQEEagmp6q-G4FqOankGokz70XzVtz7dmNbEZ5G7-pV0yINgd2-ima7ap8xeOxuhZBKw2WPoUo81wKmGrwsPxbzYkW5Wk/s1600/anyrun-main.jpg"
   }
 ]
