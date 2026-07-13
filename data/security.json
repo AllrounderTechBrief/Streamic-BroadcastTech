@@ -1,5 +1,27 @@
 [
   {
+    "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+    "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+    "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting in the readable .bas…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 13 Jul 2026 13:00:00 +0530",
+    "timestamp": 1783927800.0,
+    "isoDate": "2026-07-13T07:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVh0XoiKxyvhXW_SN-Ynau8iPG3vd2ltt4cDr4L_cGUhc5oBmsogZt5A_l2qbTdPG8Ciu73I0mHhRBDRJ2uWasrA_vqnkdvpbQcdh0ipe-d_cz2HTFJWOCBNxplCO0RuppogFhl1OONqWWXOLQWhH_Bt89c160ZzHtkrnDJN6PsnYWNV1W510diYait_g/s1600/phishing-server-ms.jpg"
+  },
+  {
+    "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+    "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of z…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 13 Jul 2026 11:06:02 +0530",
+    "timestamp": 1783920962.0,
+    "isoDate": "2026-07-13T05:36:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg"
+  },
+  {
     "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
     "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
     "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and executes a native binary, o…",
@@ -306,27 +328,5 @@
     "timestamp": 1783569709.0,
     "isoDate": "2026-07-09T04:01:49+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ4fDgcv7XotFa_pTjSE7b7R54gK9f468IGzZJJ2fIrgldSHesQF3rwBUiq3eTFJLD_0U8aYmtT9XJ1UrKWycyuT4vqdQK3IYEZxqz_TyhUZCHo36jl7WadUytz4GyuBoDl91X_YRzz7X_OK4mU3tYTI6V-LkjOaGyRHGRhhAK-ECSf3jGwNFMxsNs1Rgf/s1600/z-zip.jpg"
-  },
-  {
-    "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-    "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-    "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious. They just do a lo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Jul 2026 22:32:12 +0530",
-    "timestamp": 1783530132.0,
-    "isoDate": "2026-07-08T17:02:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEtVOCcf8-6_z0F4FVoPlTMQRFJ4CfHCbl-GvhT9EbRrfZgTJsNbBkzAq72212RbMT1Knk5GJsYDY8p5W7YO8x29vQ782QW6CRorl_oKVyAgOmS46Y9HyTPcdZOmMjOPtWjpAHH3C91EPVk4dnHqaAEX8QoaSvGzCbjMy0YhF7lJaIR6-T9Dq5jzZycIc/s1600/alarm.jpg"
-  },
-  {
-    "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-    "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-    "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 08 Jul 2026 20:37:24 +0530",
-    "timestamp": 1783523244.0,
-    "isoDate": "2026-07-08T15:07:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLRfTvakP4spTkbT8iiV9ndUR4EwlHOmGkZrO4JdBl3QsmWS5zA_sx081fvr3R11VEnZcjHOFcirZAQ5eaqB3n8sFJQ7m64edzVHNONHsD9j9Obds8E_Z9VC08y42TCyJV_3zpWam1LTHhiZBLX5WCLNp-4tdR-AwYzlyoifh1Seu-ND4OKbnZOEhMks/s1600/ai-botnet.jpg"
   }
 ]

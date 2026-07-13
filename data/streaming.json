@@ -55,17 +55,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2Xyk1rkPl9p44y48mdoPk/2178d252281c0165e03e7cb9245a4c3a/BLOG-3262_image1.png"
   },
   {
-    "title": "Hackathon spotlight: Upgrading MoQ support in Bitmovin’s Player Web X",
-    "link": "https://bitmovin.com/blog/moq-player-upgrade-playa/",
-    "summary": "MoQ (Media over QUIC Transport) is still an evolving standard, which means the libraries and implementations built on it are a moving target. For Bitmovin as a member of the OpenMoQ consortium, staying current is not optional. A Player buil…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Fri, 03 Jul 2026 14:30:03 +0000",
-    "timestamp": 1783089003.0,
-    "isoDate": "2026-07-03T14:30:03+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
     "link": "https://blog.cloudflare.com/monetization-gateway/",
     "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stac…",
@@ -132,28 +121,6 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/28/How-5-migrated-to-AWS-Elemental-MediaPackage-v2.png"
   },
   {
-    "title": "Hackathon spotlight: bringing Media over QUIC into Bitmovin’s Live Encoder",
-    "link": "https://bitmovin.com/moq-live-encoding-hackathon/",
-    "summary": "TL;DR Live streaming protocols have long been shaped by the constraints of TCP. RTMP and SRT both work around those constraints in different ways, but neither was designed for the low-latency, resilient delivery that modern live streaming d…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Thu, 25 Jun 2026 14:22:09 +0000",
-    "timestamp": 1782397329.0,
-    "isoDate": "2026-06-25T14:22:09+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-10.jpeg"
-  },
-  {
-    "title": "Hackathon spotlight: making video ads smarter with V.I.B.E.",
-    "link": "https://bitmovin.com/blog/shoppable-video-ai-vibe-bitmovin/",
-    "summary": "TL;DR Ad opportunities are being missed. Someone is watching a thriller on a streaming service. A character pulls on a jacket that looks incredible. They reach for their phone, open a browser, try to describe what they just saw, scroll thro…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Thu, 25 Jun 2026 13:12:08 +0000",
-    "timestamp": 1782393128.0,
-    "isoDate": "2026-06-25T13:12:08+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-8.jpeg"
-  },
-  {
     "title": "How we built saga rollbacks for Cloudflare Workflows",
     "link": "https://blog.cloudflare.com/rollbacks-for-workflows/",
     "summary": "Cloudflare Workflows, our durable execution engine for multi-step applications, now supports saga-style rollbacks, allowing developers to specify a compensating action for each step.do().",
@@ -198,17 +165,6 @@
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/25KzBWgTy4UfdPbzJOg1lO/9c179230f783e9012624a8a9d99b7dac/image4.png"
   },
   {
-    "title": "Hackathon Spotlight: AI-Powered Ad Insertion Using Generative Video Models",
-    "link": "https://bitmovin.com/blog/ai-powered-ad-insertion-generative-video-models/",
-    "summary": "Advertising in video has not changed much in decades. You watch content, it stops, an ad plays, and then your content resumes. For viewers, that interruption breaks immersion and trains people to tune out the moment a cut happens. The assum…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Fri, 19 Jun 2026 14:21:33 +0000",
-    "timestamp": 1781878893.0,
-    "isoDate": "2026-06-19T14:21:33+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-5.jpeg"
-  },
-  {
     "title": "Temporary Cloudflare Accounts for AI agents",
     "link": "https://blog.cloudflare.com/temporary-accounts/",
     "summary": "The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in se…",
@@ -218,17 +174,6 @@
     "timestamp": 1781874000.0,
     "isoDate": "2026-06-19T13:00:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6joSXmAJAARgyGphPhXGla/9c3e8cef6f269df6a9c458495c5fe40b/image2.png"
-  },
-  {
-    "title": "The Essential Guide to SCTE-35",
-    "link": "https://bitmovin.com/blog/scte-35-guide/",
-    "summary": "SCTE-35 is the backbone of ad insertion and program control in modern video streaming, but few people outside of broadcast engineering truly understand how it works. This essential guide covers everything: what SCTE-35 is, where it came fro…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Fri, 19 Jun 2026 09:51:00 +0000",
-    "timestamp": 1781862660.0,
-    "isoDate": "2026-06-19T09:51:00+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2024/01/Screenshot-2024-01-19-at-4.38.03 PM-283x300.png"
   },
   {
     "title": "Build your own vulnerability harness",
@@ -319,28 +264,6 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-Solution-architecture-_-elemental-inference.png"
   },
   {
-    "title": "Hackathon spotlight: building Hummer, a Slack-native AI agent for the whole team",
-    "link": "https://bitmovin.com/blog/slack-native-ai-agent-engineering-teams/",
-    "summary": "Most AI coding tools are built around a single user. You work with the agent in a private window, and when the session ends, everything it learned stays with you. The next person on the team starts from zero. That bothered us, so for Bitmov…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Fri, 12 Jun 2026 13:15:00 +0000",
-    "timestamp": 1781270100.0,
-    "isoDate": "2026-06-12T13:15:00+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-1.jpeg"
-  },
-  {
-    "title": "Hackathon spotlight: Real-Time Observability Custom Dashboarding",
-    "link": "https://bitmovin.com/blog/custom-observability-dashboards-real-time-monitoring/",
-    "summary": "Bitmovin’s Observability solution already gives teams deep visibility into playback quality and audience behavior. But when an operations team wants to assemble its own view of that data via our API, the current answer is to build it in a t…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Fri, 12 Jun 2026 10:59:29 +0000",
-    "timestamp": 1781261969.0,
-    "isoDate": "2026-06-12T10:59:29+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image-9.png"
-  },
-  {
     "title": "How FOX fuels innovation with AI on AWS",
     "link": "https://aws.amazon.com/blogs/media/how-fox-fuels-innovation-with-ai-on-aws/",
     "summary": "Learn how by partnering with Amazon Web Services (AWS), FOX transformed how news, sports, and entertainment content gets created, produced and distributed. FOX consolidated into a unified cloud platform that now powers content operations ac…",
@@ -363,28 +286,6 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/09/Figure-1-Smart-Subtitles-process.png"
   },
   {
-    "title": "FIFA World Cup 2026 Streaming: 104 Matches, 39 Days, One Test It Can’t Fail",
-    "link": "https://bitmovin.com/blog/fifa-world-cup-2026-streaming-infrastructure/",
-    "summary": "A goal in a World Cup knockout match is a near-instantaneous traffic event across tens of millions of concurrent sessions. In 2026, that happens across 104 matches, streamed across 212 territories, for a projected 6 billion total engagement…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Tue, 09 Jun 2026 14:00:00 +0000",
-    "timestamp": 1781013600.0,
-    "isoDate": "2026-06-09T14:00:00+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/All-devices-Bitmovins-Player-covers.png"
-  },
-  {
-    "title": "Adaptive Bitrate Streaming (ABR): What is it & How Does it Work? [2026 Update]",
-    "link": "https://bitmovin.com/blog/adaptive-streaming/",
-    "summary": "What is Adaptive Bitrate (ABR) Streaming? Adaptive Bitrate Streaming (ABR) is a technology used in modern video streaming applications that can dynamically adapt in real-time, in order to provide the best quality for each individual viewer.…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Fri, 05 Jun 2026 11:49:00 +0000",
-    "timestamp": 1780660140.0,
-    "isoDate": "2026-06-05T11:49:00+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2023/08/compression-1-3000x1786.png"
-  },
-  {
     "title": "How Bedrock Streaming optimizes its AWS costs",
     "link": "https://aws.amazon.com/blogs/media/how-bedrock-streaming-optimizes-its-aws-costs/",
     "summary": "Learn how Bedrock Streaming hosts their solutions on Amazon Web Services (AWS) to serve major European broadcasters such as M6+, Videoland, and RTL+. With an AWS budget of several million dollars per year, each percentage point of optimizat…",
@@ -405,17 +306,6 @@
     "timestamp": 1780318610.0,
     "isoDate": "2026-06-01T12:56:50+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/25/Figure-1_2.png"
-  },
-  {
-    "title": "Live Encoder Standby Pools: How to Eliminate Queue Time and Go Live Instantly",
-    "link": "https://bitmovin.com/blog/what-are-live-encoder-standby-pools/",
-    "summary": "Cloud encoder provisioning is live streaming's most quietly worked-around problem. When a broadcast triggers, the cloud allocates a machine, deploys software, and only then is the encoder ready, an unpredictable delay that breaks news teams…",
-    "source": "Bitmovin",
-    "category": "streaming",
-    "timeAgo": "Fri, 29 May 2026 16:00:00 +0000",
-    "timestamp": 1780070400.0,
-    "isoDate": "2026-05-29T16:00:00+00:00",
-    "imageUrl": "https://bitmovin.com/wp-content/uploads/2026/06/image.jpeg"
   },
   {
     "title": "Customize ad workflows with AWS Elemental MediaTailor Monetization Functions",
