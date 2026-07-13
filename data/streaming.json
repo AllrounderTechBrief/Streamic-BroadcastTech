@@ -1,5 +1,16 @@
 [
   {
+    "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
+    "link": "https://blog.cloudflare.com/introducing-precursor/",
+    "summary": "Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it ident…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 13 Jul 2026 13:00:00 GMT",
+    "timestamp": 1783947600.0,
+    "isoDate": "2026-07-13T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7HGyTpEcRUXpf3oeEV2uCM/1b6b635c945db2d2cf7b6d03970aec10/BLOG-3362_image2.png"
+  },
+  {
     "title": "Improving Smart Tiered Cache for Public Cloud Regions",
     "link": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/",
     "summary": "Smart Tiered Cache allows for precise upper tier selection for origins hosted on AWS, GCP, Azure, and Oracle Cloud with customer-provided cloud region hints.",
@@ -229,17 +240,6 @@
     "timestamp": 1781701200.0,
     "isoDate": "2026-06-17T13:00:00+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Cloudflare DMARC Management is now generally available",
-    "link": "https://blog.cloudflare.com/dmarc-management-ga/",
-    "summary": "Get unified visibility into your email authentication posture and reach full DMARC enforcement with deeper reporting, record analysis, and SPF audits free for every Cloudflare customer.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 16 Jun 2026 13:00:00 GMT",
-    "timestamp": 1781614800.0,
-    "isoDate": "2026-06-16T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3GpMX09ltKkw9PcTW53xNF/9e862b59311cfdd08bb9b74fbb69bc42/BLOG-3332_image7.png"
   },
   {
     "title": "Inside the AWS NBA Draft Combine Hub: How AWS turned decades of prospect data into a new fan experience",

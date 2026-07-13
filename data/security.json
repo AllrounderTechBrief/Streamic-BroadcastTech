@@ -1,5 +1,38 @@
 [
   {
+    "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+    "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+    "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. Each read gets pinned to the moment it h…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 13 Jul 2026 17:24:46 +0530",
+    "timestamp": 1783943686.0,
+    "isoDate": "2026-07-13T11:54:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiElxdOUOnt8DZ-78o4IBYmmieJL3gm-RPGxQYpkPhzk8o-kMG_bWAGAHjVzPbVEGnkPmhF80RlbaRmvtgVLfABQSKApl6fsQ2RkhkWuZsxF9WR-HnsthEl_bfg4A6w_hMThqQoWAFimIXGTSZ0QLA6DSHprkHQTTp3WNwy-QmyaosOcs3ksJxy5lztSoc/s1600/meta-facebook.jpg"
+  },
+  {
+    "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+    "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+    "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 13 Jul 2026 17:07:05 +0530",
+    "timestamp": 1783942625.0,
+    "isoDate": "2026-07-13T11:37:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV-KJeaayQ7Le5oAYYddL3LmP0k3zaJOoLo9puHLF8y_fVAoBUcJba3ZyyCfJWdvvMBQTt__x0v8iggR1HfDgXOO1b5CD1xZUVr03ZnoO_1moKSeA9iNhOsPoLZMJXG9IwPJYO1NYYPNsWrBqmlx2FHM7tKF5pxRcLXLqSNtnLGP80Q4MxK5vGeB74tug/s1600/slow.jpg"
+  },
+  {
+    "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+    "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+    "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, compute…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 13 Jul 2026 16:32:33 +0530",
+    "timestamp": 1783940553.0,
+    "isoDate": "2026-07-13T11:02:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43TJKqVkJoN7Q3donw2FnXp1IrJEr6vvDteFOBCSR-PptAc8fMXXCq07kvKWoDacCHo6gi5-eUoX9mIBHggv-KXsoH31yBi0-_MZBjxYbiYNlhvAu8V_xhjuKHgnQj43x5S2pORBIGONxE_yLZdZOnDCmcjMegQjhwZtHDThg_4nlhZqwSizsMRCfZFQW/s1600/ps-ai.jpg"
+  },
+  {
     "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
     "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
     "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting in the readable .bas…",
@@ -295,38 +328,5 @@
     "timestamp": 1783581666.0,
     "isoDate": "2026-07-09T07:21:06+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsjiT58V2lRqaqYwo2AHkilx81c58T9dBHa_W5KiHgom4-UgZqV18Ax-zQb8_fN7p_OQpqi0b4nTzt4SpDnHW-RozKjIcgs-B8KN8HI_QnCMzIjDMmcg2grJEyP7r1ZNd_SRB5R1MDw-vo-jQ4v198ZDhMsWaBpFnXmShkouRZvXIXpu-32FQ_30h4HQrq/s1600/metaai.jpg"
-  },
-  {
-    "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-    "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-    "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published Wednesday by the AI Now Institute, an attack it calls …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 09 Jul 2026 10:45:02 +0530",
-    "timestamp": 1783574102.0,
-    "isoDate": "2026-07-09T05:15:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynXsBDNXYgGgYPWB6cmy9zuZDStl-XaVvlwMQsqa6AxvNCvi7qI9Xq3h1vdk30Tv1u-fOAtB_OZ_Q-i5O0z5D0KL1Eh0joKyFmuhIoH4-7Z16ubplbIcNQpXJ7P7Sl2xju-z6ZvbhSeJbGKiL1gzx-I151GVMAp5jpCS27zvn791sC2WYQllTRT8ye-0/s1600/Friendly-Fire-AI-demo.gif"
-  },
-  {
-    "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-    "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-    "summary": "Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 09 Jul 2026 09:57:18 +0530",
-    "timestamp": 1783571238.0,
-    "isoDate": "2026-07-09T04:27:18+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijymBd057efx1JbDRjjqh0RBYH7RA2pE75UYG8DDd7Vl2UyXMsMjXtgEaxoPyHt5wz8s0fT6B43ovQskxZBchyiYI9G34t7YjyC6_T0xwzs_0SOJaHnHI7vXfMTOqtDn1R6up52ol5UH_uT86b1dRjaJ-Bw6pa_lAX6igS_pFLV_z_0kRhyXuNo8Q2rFU/s1600/wiz-ai.jpg"
-  },
-  {
-    "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-    "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 09 Jul 2026 09:31:49 +0530",
-    "timestamp": 1783569709.0,
-    "isoDate": "2026-07-09T04:01:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ4fDgcv7XotFa_pTjSE7b7R54gK9f468IGzZJJ2fIrgldSHesQF3rwBUiq3eTFJLD_0U8aYmtT9XJ1UrKWycyuT4vqdQK3IYEZxqz_TyhUZCHo36jl7WadUytz4GyuBoDl91X_YRzz7X_OK4mU3tYTI6V-LkjOaGyRHGRhhAK-ECSf3jGwNFMxsNs1Rgf/s1600/z-zip.jpg"
   }
 ]
