@@ -1,5 +1,60 @@
 [
   {
+    "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+    "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+    "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeov…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Jul 2026 19:18:07 +0530",
+    "timestamp": 1784036887.0,
+    "isoDate": "2026-07-14T13:48:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhRQ9rN4_5eYqXiJ7svWKwWY0dcPiiALZ6EkDG05ruFzTANJtwyw_w2Ht29dON1oFiLAkQkE0M75FYExbXmvFSr4jU0K0sNlwRxG3Q1rU51ouVIt3UtnrazRwhCer3coTHbU3So1dXx_8Frh1KhJKKXc7Lq2h5DZTGkBq35Y2ngnGVg6wAGubf8cVRx0F/s1600/rebbitmq.jpg"
+  },
+  {
+    "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+    "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+    "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Jul 2026 18:16:18 +0530",
+    "timestamp": 1784033178.0,
+    "isoDate": "2026-07-14T12:46:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgVI5ZeWhnWkl-lXmJYMLjAOXmxw21Y3sgxeF9rrOS_JqjQ7k_yyV_2KU_ELhmsm3nA3qNV0farc_31WCAhPPZRq7iIrYm90R_24lvc1f68Gv-yZPsM3bwDiUuCaCBAzq-S8ymLrrD7dx349vEjlR0eID2LXm5SO3Ocq1sG8sWkhAEG9RWX07avTOu3dW/s1600/shim.gif"
+  },
+  {
+    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+    "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+    "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and block…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Jul 2026 17:25:00 +0530",
+    "timestamp": 1784030100.0,
+    "isoDate": "2026-07-14T11:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw92quWqf4LGudVaNPBRwhiCIP4ZEBpolIRqMKbQuG6hzrXUSx89QCQT1IjMWF_6v7GEkYGOi0kYoc-ES_fELZm6pg1P8lVpRxv5mYmpzAHQMm6A_XC_fXWSWlRVh1JfjFc8wXlqtyGWovxUOOhQn8HiG4XutLeKlyv5aLY2R4UKlHTcD2pgXANePlhBq/s1600/wallet-fingerprint.jpg"
+  },
+  {
+    "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+    "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+    "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Jul 2026 17:00:00 +0530",
+    "timestamp": 1784028600.0,
+    "isoDate": "2026-07-14T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkjrecx65rZWCn-e7KyG-ScNo2HupwMwFl9-XIOcdW1Pls-d0g80WyhkIHPCHTszjYDoUBtmpV_ystgF4Lc6z_noxysLX2xs11QU1jNALxkVa8gW6_QkevNLJkr8mCqupKYHRZSv518HoHlmwpnaYV-qMVyciXNsoMQAS8RrH1rLT2BsLS2t3u52Lrf8/s1600/pentera-main.jpg"
+  },
+  {
+    "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+    "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+    "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen creden…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Jul 2026 16:51:35 +0530",
+    "timestamp": 1784028095.0,
+    "isoDate": "2026-07-14T11:21:35+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmB1bLC9cna7xlnvFdK0hUnsi8jeo6E7jMh20nj4XTvsF9ogpjbnlPCxx9QYQ1O2aS7JiSDQi4swIRNG6-Xjg2TGR4bn4Zn-KBkjsLTYcKUrXOD-rlGu4XYsvRx06eRqrT4duW0xwklKeYjZvRV1VSarJBKldBzN4DNhkWudVCGRdKPi9uVGrqEwL66mz5/s1600/OAuth-ClientID.jpg"
+  },
+  {
     "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
     "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
     "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.9…",
@@ -273,60 +328,5 @@
     "timestamp": 1783683002.0,
     "isoDate": "2026-07-10T11:30:02+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgruetcUTsay2-ledgCIdCPKK_bPRiTzuXzYeUiLR3xuazZgHTmxO4Gz6PyyuwdFUVoHHOCbq5PksEMW18dSsdzCJddBMr8vQ3TQO3PIqXExF_17RGVfKRD8cPltNjh6eV1fgXM-pYYlwZnWaZcf7oo50CahUBY5AWt8-IS1K7KxhlL9GFLDcAk1ruwMSI/s1600/hacker-server.jpg"
-  },
-  {
-    "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-    "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-    "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure. The apps flagged wi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 10 Jul 2026 16:26:23 +0530",
-    "timestamp": 1783680983.0,
-    "isoDate": "2026-07-10T10:56:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJR5fh4xv_X2JER6SMxM62unaK2pucigiJwiE69bCR9n3fgVMqlH2zWpTsmiy4d936R46czjNmkAjDpU7yZgPMl6KFp7phz3kQ9sO1XaE3JHMW0VCUtwN3_zOqOcUfKdbJTJjWjahA44NPMXMif0JqnO_kzJDfuHT0HJvtOlndAvheFqNrpviHXVQ_DIb/s1600/android-vpn-security.jpg"
-  },
-  {
-    "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-    "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-    "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks. The threat acto…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 10 Jul 2026 16:00:20 +0530",
-    "timestamp": 1783679420.0,
-    "isoDate": "2026-07-10T10:30:20+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1L4YdSw3-1jg88TMzYxjsqRmu3Bq-VkmyGg742mMsJaIyhyaBk5MBeEFOxagE4H6GFjfH8ey1114iqyT0LuKYFdu7ocZhOrA3WQCvtNZGBknEJ1wTdb5vJ-M8w5kLXaUoBi39TXducoH8jZVrQ1xQQsBtEf0rrGJGfappdR1CrSB3xvaJC8Dgos2XdC37/s1600/Microsoft-Entra-Passkey-Enrollment.jpg"
-  },
-  {
-    "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
-    "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-    "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 10 Jul 2026 14:30:05 +0530",
-    "timestamp": 1783674005.0,
-    "isoDate": "2026-07-10T09:00:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkED95MupJS7PoLW-VquW2mYDI869jXcCfUDUH240NRo4Yo_T63CRuicNBeGadfXW4MvDfie5vJqJ-bXkfD0VQPUl6_iUSR6C0csoL_JDjEeQmQGBoO9DDfdwzNpS8G4dendKvweGkYQypGPVx-_z0cQd_kmdVIA4YFRxNJiIwKpwU1wIUC5H8gnGDgg/s1600/crypto-wallet.jpg"
-  },
-  {
-    "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-    "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-    "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple victims and working…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 10 Jul 2026 13:40:12 +0530",
-    "timestamp": 1783671012.0,
-    "isoDate": "2026-07-10T08:10:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMfAeNe_4YwD_9txUToRE4uGigzg48NOJjGKREMneC5B57ROnoCbTMO-4rUiFu76ZsmJwizj28wLcHWmkuRQaQYxUFtWfrfWh3OyqFz61J7sk62rGkVO8jyP_-enVjRDhjYxWOyenL_ToZ3uVusHEuedtF63JPmcwCw_K2UieFO53HqI-yr5RBYWToxEb/s1600/Ransomware-Negotiator.jpg"
-  },
-  {
-    "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-    "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-    "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub API. \"Operators rely on automated scraping tooling wi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 10 Jul 2026 00:08:49 +0530",
-    "timestamp": 1783622329.0,
-    "isoDate": "2026-07-09T18:38:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDslymdYqhkFwIm3ZeaXVZweYVT_R1d6LCQhIm799y9-5hQ3C45cumIStxGYheFbwosbd_JtrB6FgOthR2KJgfe8PYs0k47eGV7263ATac5UR0t7OOaqOUGOf5DHAR4b0IaKTozk0UEiHJz5-nze3b1ureycPGqdPVlqrImWreOWwMpGxC8kgBvONCLGbH/s1600/github-ghost.jpg"
   }
 ]
