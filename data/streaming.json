@@ -1,5 +1,16 @@
 [
   {
+    "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
+    "link": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
+    "summary": "When a failed DNSSEC key rollover took down the .AL TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals d…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 14 Jul 2026 13:00:00 GMT",
+    "timestamp": 1784034000.0,
+    "isoDate": "2026-07-14T13:00:00+00:00",
+    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4AHysIybSQRvTzjfb37Eq0/b2b988abd17b006479c10979aea6b792/BLOG-3376_image5.png"
+  },
+  {
     "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
     "link": "https://blog.cloudflare.com/introducing-precursor/",
     "summary": "Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it ident…",
@@ -229,17 +240,6 @@
     "timestamp": 1781724900.0,
     "isoDate": "2026-06-17T19:35:00+00:00",
     "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5U50mjNZpg7RD3fb0pOLLs/5e20ad63c1e6ab92cf5d334b79996c1a/image5.png"
-  },
-  {
-    "title": "Introducing the Cloudflare One stack: agent-powered deployment",
-    "link": "https://blog.cloudflare.com/cloudflare-one-stack/",
-    "summary": "The Cloudflare One stack is a library of agent skills that gives any AI agent the knowledge it needs to plan, deploy, and manage a Zero Trust environment — no migration calls required.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 17 Jun 2026 13:00:00 GMT",
-    "timestamp": 1781701200.0,
-    "isoDate": "2026-06-17T13:00:00+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Inside the AWS NBA Draft Combine Hub: How AWS turned decades of prospect data into a new fan experience",
