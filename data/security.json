@@ -1,6 +1,6 @@
 [
   {
-    "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+    "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
     "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
     "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.9…",
     "source": "The Hacker News",
