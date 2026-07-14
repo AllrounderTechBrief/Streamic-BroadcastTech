@@ -1,5 +1,16 @@
 [
   {
+    "title": "Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths",
+    "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+    "summary": "Attackers whose methods line up with the data-extortion group ShinyHunters have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the trust the organizat…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 14 Jul 2026 11:49:24 +0530",
+    "timestamp": 1784009964.0,
+    "isoDate": "2026-07-14T06:19:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu2gmOSckwOqmlhqAYdrlHfRuTsOJIi7dr9cFZosLQAJeoJxcUVQ9PvibcfnCsBdPWvfJRRrxoS8nx9yTt9NtDNCwVCFavEt7tQT0viD7AwGvUjhu-_k0B2J4KBSAJ-5GUGFZHCTSyOuW4I082lHoUkbsbH33tsIeo3gm71_CkjMd_bcAN7i4xPvMnefA/s1600/salesforce-attack-path.jpg"
+  },
+  {
     "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
     "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
     "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or Obj…",
@@ -317,16 +328,5 @@
     "timestamp": 1783609768.0,
     "isoDate": "2026-07-09T15:09:28+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAXvG0n7eiC50jtfO-3MYOPx-Z0iWiucBfHqzY2QNH-5fUyfWcGu3NME0yERr2qWKcAeg6rIYMtP_VEeRInpeghztHmnjDa4QyuXSbaktcOdHHK9sx8lurd2RmejcmBjSZIznBl0zKQ-mk4dcCsVdL29g4XPEwUdrlQgj5-GgxvVnolSJJfCJW7g4vosLe/s1600/ThreatsDay-main.jpg"
-  },
-  {
-    "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-    "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-    "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the firs…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 09 Jul 2026 17:56:58 +0530",
-    "timestamp": 1783600018.0,
-    "isoDate": "2026-07-09T12:26:58+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVBCdd1YLOTAhXs53MgUBJHfid7uAH-uFr4vzULJu6BL5H7TDiBbZUDxS9RTwC1FH7q2HhEiI2BHLlymHQ7btIBDidvIohoiVJ2XH2uvQcan7Lio_iIh3Ku3J3LoM8SgaHrlAnyFeVLo77qE93hFykG4CJZUj1IsJb75jFMjAK9Q1V-akTkdagA_NLm4A/s1600/thn-webinar.jpg"
   }
 ]

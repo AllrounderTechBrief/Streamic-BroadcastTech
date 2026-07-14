@@ -1,5 +1,38 @@
 [
   {
+    "title": "Best of Show Awards return for IBC2026",
+    "link": "https://www.tvbeurope.com/business/best-of-show-awards-return-for-ibc2026",
+    "summary": "All nominees receive a fully-licensed nominee badge, while the winners receive complimentary winner badges and trophies as well as dedicated editorial coverage across participating brands The post Best of Show Awards return for IBC2026 appe…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 14 Jul 2026 08:02:00 +0000",
+    "timestamp": 1784016120.0,
+    "isoDate": "2026-07-14T08:02:00+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/IBCBOS_Creative-Assets_Jun26_1200x627_TW_20-726x379.png"
+  },
+  {
+    "title": "RieberVision Hybrid Film/Digital Motion Picture Camera System Concept",
+    "link": "https://www.newsshooter.com/2026/07/13/riebervision-hybrid-film-digital-motion-picture-camera-system-concept/?utm_source=rss&utm_medium=rss&utm_campaign=riebervision-hybrid-film-digital-motion-picture-camera-system-concept",
+    "summary": "After 25 years of development, Frank Riebert has unveiled RieberVision, a hybrid film/digital motion picture camera system concept. The concept camera is designed to shoot traditional analog motion picture film while simultaneously capturin…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 14 Jul 2026 06:01:58 +0000",
+    "timestamp": 1784008918.0,
+    "isoDate": "2026-07-14T06:01:58+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "PixelTools HDR Toolkit",
+    "link": "https://www.newsshooter.com/2026/07/13/pixeltools-hdr-toolkit/?utm_source=rss&utm_medium=rss&utm_campaign=pixeltools-hdr-toolkit",
+    "summary": "PixelTools has released HDR Toolkit. If you are generating dual deliverables (SDR and HDR) for a current project or remastering catalog titles from an archival SDR master, moving an approved look into a high-brightness container usually mea…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 14 Jul 2026 05:33:07 +0000",
+    "timestamp": 1784007187.0,
+    "isoDate": "2026-07-14T05:33:07+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Save $600 USD on the Sachtler Flowtech 75 MS Carbon Fiber Tripod with Mid-Level Spreader and Rubber Feet",
     "link": "https://www.newsshooter.com/2026/07/13/save-600-usd-on-the-sachtler-flowtech-75-ms-carbon-fiber-tripod-with-mid-level-spreader-and-rubber-feet/?utm_source=rss&utm_medium=rss&utm_campaign=save-600-usd-on-the-sachtler-flowtech-75-ms-carbon-fiber-tripod-with-mid-level-spreader-and-rubber-feet",
     "summary": "The Sachtler Flowtech 75 MS Carbon Fiber Tripod with Mid-Level Spreader and Rubber Feet is on sale for $1,580.20 USD, which is a discount of $600 USD. The post Save $600 USD on the Sachtler Flowtech 75 MS Carbon Fiber Tripod with Mid-Level …",
@@ -30,28 +63,6 @@
     "timeAgo": "Tue, 14 Jul 2026 05:12:12 +0000",
     "timestamp": 1784005932.0,
     "isoDate": "2026-07-14T05:12:12+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Think Tank updates its Airport Backpack Series",
-    "link": "https://www.newsshooter.com/2026/07/13/think-tank-updates-its-airport-backpack-series/?utm_source=rss&utm_medium=rss&utm_campaign=think-tank-updates-its-airport-backpack-series",
-    "summary": "Think Tanks has updated its popular Airport Backpack Series and Airport Essentials Rolling Backpack. They are now claimed to be built with stronger materials, improved comfort, and smarter organization. According to the company, the series …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 14 Jul 2026 05:05:56 +0000",
-    "timestamp": 1784005556.0,
-    "isoDate": "2026-07-14T05:05:56+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Cadrage Studio is now available to purchase",
-    "link": "https://www.newsshooter.com/2026/07/13/cadrage-studio-is-now-available-to-purchase/?utm_source=rss&utm_medium=rss&utm_campaign=cadrage-studio-is-now-available-to-purchase",
-    "summary": "Cadrage Studio is now available to purchase after being in Beta for around a year. Studio is a native macOS and iOS app that allows users to add shot lists, camera diagrams, mood boards, and locations. If you are not familiar with Cadrage, …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 13 Jul 2026 23:45:55 +0000",
-    "timestamp": 1783986355.0,
-    "isoDate": "2026-07-13T23:45:55+00:00",
     "imageUrl": ""
   },
   {
@@ -262,16 +273,5 @@
     "timestamp": 1783416898.0,
     "isoDate": "2026-07-07T09:34:58+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/02/nqUkeN6DCXc-ivhc22rkR-copy-726x446.jpg"
-  },
-  {
-    "title": "Big Blue Marble and Ateme PoC demonstrates ultra-low latency MoQ streaming",
-    "link": "https://www.tvbeurope.com/media-delivery/big-blue-marble-and-ateme-poc-demonstrates-ultra-low-latency-moq-streaming",
-    "summary": "Big Blue Marble's engineering team extended the open-source MoQ implementation as part of the project, adding features such as NTP timestamp insertion, end-to-end latency measurements, enhanced monitoring metadata, and backend analytics int…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 07 Jul 2026 08:51:35 +0000",
-    "timestamp": 1783414295.0,
-    "isoDate": "2026-07-07T08:51:35+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/BBM_Shooting_33-726x408.jpg"
   }
 ]
