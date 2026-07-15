@@ -1,5 +1,49 @@
 [
   {
+    "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+    "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+    "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly compone…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 15 Jul 2026 18:48:53 +0530",
+    "timestamp": 1784121533.0,
+    "isoDate": "2026-07-15T13:18:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjCjGBZhkRcB4m5BQu0Fcn-Qjs1_VPnfOlt3oFxu7CKMZ5Wc1JpvZEvhVSorBJW-AWV1pACLDkg4rFmCCcdH6vDk-pmD5ai0ZewlmPyeWPnfsmTcg-D3UJXdT902oUD32DjSm5CrBsnf2rcVTQPUo5o-LJRKUlsjOwPNfYMpN7kOfmNhnyw552cv-Gtqk/s1600/adobes.jpg"
+  },
+  {
+    "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+    "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+    "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up. Enterprise workflows now live across SaaS applications, browsers, and an…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 15 Jul 2026 17:20:01 +0530",
+    "timestamp": 1784116201.0,
+    "isoDate": "2026-07-15T11:50:01+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy5qXcxZFGTQiQ1Sb-SHAyKnjOmjdz1fA1FEFMLTVXd7Xcyr9aSptzafuOwTnzCkzHCqZCOV-z_tPKKeoeS6Rd2kYWtAL_IWTRXFaZkr8V371LH2Rbq0JHlLwCbkuhO_D-hRv73LHSQgEW9tfI9Oxj9jmh9ROMZLOAZFZztDH1qzHvO2uc7EO6AlxPh8Cl/s1600/island.jpg"
+  },
+  {
+    "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+    "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+    "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerabili…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 15 Jul 2026 16:37:07 +0530",
+    "timestamp": 1784113627.0,
+    "isoDate": "2026-07-15T11:07:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvtiVnhkF-YVsPEXyedqj9REY5pN1-KiSsf-rCeXK5yClGbAcsL1Tg7-9UDDA8VQg5RbM0uWkV23rDxqiFFIJ2RkpkY6cn90-5LPbZOC2oktF7_3FjD5La_FGkYdVBEKeXMJGiGRZfPvxmMBXd99tncWdEZ4HxX62hbxmWEnA02eu-LSVwZtmecjuykqDb/s1600/windows-0day.jpg"
+  },
+  {
+    "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+    "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+    "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This on-demand webinar reveals how this Approval Gap forms, and giv…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 15 Jul 2026 16:36:57 +0530",
+    "timestamp": 1784113617.0,
+    "isoDate": "2026-07-15T11:06:57+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYTg22vVssJ3SSHZzP0PtS8d5g8oCH2fU2IkXoBoIPOR4-XblNQ7Hg6S-qkO6bIB9JLC3yI4QdpQ4iNWsQsu9QnMpNbHdHzwHhRyX0zr-Vklk2DaCe3UlOd8M53pp5Uu_mfds265f_MsrF_RaQ-lnPEc3b5UoIVsTIV-On5qJ9DqMpk05AsKM3FhlgtXV/s1600/ref.jpg"
+  },
+  {
     "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
     "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
     "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does…",
@@ -284,49 +328,5 @@
     "timestamp": 1783920962.0,
     "isoDate": "2026-07-13T05:36:02+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg"
-  },
-  {
-    "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-    "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-    "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and executes a native binary, o…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 11 Jul 2026 23:29:26 +0530",
-    "timestamp": 1783792766.0,
-    "isoDate": "2026-07-11T17:59:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg"
-  },
-  {
-    "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-    "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-    "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 20…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 11 Jul 2026 23:19:31 +0530",
-    "timestamp": 1783792171.0,
-    "isoDate": "2026-07-11T17:49:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
-  },
-  {
-    "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-    "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-    "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 11 Jul 2026 12:15:55 +0530",
-    "timestamp": 1783752355.0,
-    "isoDate": "2026-07-11T06:45:55+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg"
-  },
-  {
-    "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-    "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-    "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporaril…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 10 Jul 2026 22:00:00 +0530",
-    "timestamp": 1783701000.0,
-    "isoDate": "2026-07-10T16:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgULXOG2_Ph1198nw2lOea2pYE9u1GkPHaaMlzhpO48pOmejpWKFuHbchUac5JIRQHGiIMMTefXq-LktA8AjsqqMIsBS54bLaludxIJbq7chYfo_Vsoqf9Xi7YomnSUL9wHAYa5InCST76k1aP10VMmNKK_MDLD3o5zNXyB4ODMRMl0DbLkz9f2mg2k2S8/s1600/progress.jpg"
   }
 ]
