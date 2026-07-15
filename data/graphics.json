@@ -1,5 +1,16 @@
 [
   {
+    "title": "Heat Dome Broils the Western U.S.",
+    "link": "https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/",
+    "summary": "A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 15 Jul 2026 04:01:00 +0000",
+    "timestamp": 1784088060.0,
+    "isoDate": "2026-07-15T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712.jpg?w=2160&h=1640&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony",
     "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
     "summary": "The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Serbia’s Minister of Foreign Affairs Marko Đurić a…",
@@ -427,17 +438,6 @@
     "timestamp": 1783955476.0,
     "isoDate": "2026-07-13T15:11:16+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e000758orig.jpg?w=1638"
-  },
-  {
-    "title": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes",
-    "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
-    "summary": "Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 13 Jul 2026 14:00:00 +0000",
-    "timestamp": 1783951200.0,
-    "isoDate": "2026-07-13T14:00:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/07/keystones/STScI-01J1TC4ZFSNREMHK7R0FC90RQM.png?w=1340&h=520&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Vizrt graphics help Girraphic deliver exclusive MMA event in stadium and on Netflix",
