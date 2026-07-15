@@ -1,5 +1,16 @@
 [
   {
+    "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+    "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+    "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution. The vulnerabilities are listed …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 15 Jul 2026 11:00:21 +0530",
+    "timestamp": 1784093421.0,
+    "isoDate": "2026-07-15T05:30:21+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0n94FUIdljCnLvlh0SNz5l8xDWbdDqmk7OesE7HAKxrRAMUMIfXpppuMBoI-7F0Q1PB7eXPRjrfg9fgZTTVj3JY5jKsr1Ebheb2mU65p4MUVYbs59lCPPWCBQ4LVYZnoZ0o6nRkoBQitrwwnyLVQc2oYJ41zVjPS6_HchwIR-U8EuWrOdPpl1-Y9Rw1Lm/s1600/sonicwall-patches.jpg"
+  },
+  {
     "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
     "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
     "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's …",
@@ -317,16 +328,5 @@
     "timestamp": 1783699034.0,
     "isoDate": "2026-07-10T15:57:14+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihuE5rUYRadx5Q2auJjv9dVeFNIP8XSwSTaH0PDwGLUA54MXlPy3AyI532a8OnhXadtWnCCH30qvUKW9C3rCOu1LPld1or5_lXwNhRVqbohHNInDzNd1f9E77Sox5yB-ir7H69LmlYRKnoqnFASOMFa2TIK2RfTThJvu_oofIXHCpiRbXGXWy-bquBWsw/s1600/bootloader.gif"
-  },
-  {
-    "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-    "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-    "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 10 Jul 2026 20:21:49 +0530",
-    "timestamp": 1783695109.0,
-    "isoDate": "2026-07-10T14:51:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BbJcQ3TUJxFvOCpAChyC5saD3RGgDCtLtVG-Wupee7poBksO2TzSWFtzQmjjoXuZ-9hnCNR3HuWdSsBv7YZl477fdOcjoOBh72RY4vJ9R0hxUWktV2R7wgTsRa-_Zz5Bj_ZGfQOVT8v292QJ55C9hMumk-IgXd-PVZ6LFu2ZDyCGwjNtJhCYb4W-mPDO/s1600/ll.jpg"
   }
 ]
