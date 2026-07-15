@@ -1,14 +1,14 @@
 [
   {
-    "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
+    "title": "A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed",
     "link": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
-    "summary": "When a failed DNSSEC key rollover took down the .AL TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals d…",
+    "summary": "When a failed DNSSEC key rollover took down the .al TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals d…",
     "source": "The Cloudflare Blog",
     "category": "streaming",
     "timeAgo": "Tue, 14 Jul 2026 13:00:00 GMT",
     "timestamp": 1784034000.0,
     "isoDate": "2026-07-14T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4AHysIybSQRvTzjfb37Eq0/b2b988abd17b006479c10979aea6b792/BLOG-3376_image5.png"
+    "imageUrl": ""
   },
   {
     "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
@@ -19,7 +19,7 @@
     "timeAgo": "Mon, 13 Jul 2026 13:00:00 GMT",
     "timestamp": 1783947600.0,
     "isoDate": "2026-07-13T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7HGyTpEcRUXpf3oeEV2uCM/1b6b635c945db2d2cf7b6d03970aec10/BLOG-3362_image2.png"
+    "imageUrl": ""
   },
   {
     "title": "Improving Smart Tiered Cache for Public Cloud Regions",
@@ -27,10 +27,10 @@
     "summary": "Smart Tiered Cache allows for precise upper tier selection for origins hosted on AWS, GCP, Azure, and Oracle Cloud with customer-provided cloud region hints.",
     "source": "The Cloudflare Blog",
     "category": "streaming",
-    "timeAgo": "Fri, 10 Jul 2026 13:00:00 GMT",
-    "timestamp": 1783688400.0,
-    "isoDate": "2026-07-10T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1pLDhUXVPPshpZr9zeP4bb/cecf1530616ab1d6097597d5d26039a7/BLOG-3328_image6.png"
+    "timeAgo": "Fri, 10 Jul 2026 12:00:00 GMT",
+    "timestamp": 1783684800.0,
+    "isoDate": "2026-07-10T12:00:00+00:00",
+    "imageUrl": ""
   },
   {
     "title": "Why we cannot wait for better post-quantum signature algorithms",
@@ -38,10 +38,10 @@
     "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA…",
     "source": "The Cloudflare Blog",
     "category": "streaming",
-    "timeAgo": "Thu, 09 Jul 2026 14:00:00 GMT",
-    "timestamp": 1783605600.0,
-    "isoDate": "2026-07-09T14:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3OKVqLAZqT4c91Te27LsF3/8c4a30f1f7d1ba896a8593f0331202ae/image3.png"
+    "timeAgo": "Thu, 09 Jul 2026 13:40:47 GMT",
+    "timestamp": 1783604447.0,
+    "isoDate": "2026-07-09T13:40:47+00:00",
+    "imageUrl": ""
   },
   {
     "title": "Introducing Meerkat: an experiment in global consensus",
@@ -49,10 +49,10 @@
     "summary": "Cloudflare Research is building a global consensus service called Meerkat that uses a new consensus algorithm called QuePaxa. We plan to use Meerkat to build a strongly consistent, fault-tolerant key-value store, and other applications.",
     "source": "The Cloudflare Blog",
     "category": "streaming",
-    "timeAgo": "Wed, 08 Jul 2026 13:00:00 GMT",
-    "timestamp": 1783515600.0,
-    "isoDate": "2026-07-08T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/Ie5OrNyD2MJVN47XewDiD/52d0c61577c39f026ed49d5035a8d7cd/BLOG-3347_image4.png"
+    "timeAgo": "Wed, 08 Jul 2026 12:00:00 GMT",
+    "timestamp": 1783512000.0,
+    "isoDate": "2026-07-08T12:00:00+00:00",
+    "imageUrl": ""
   },
   {
     "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
@@ -60,9 +60,9 @@
     "summary": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this framewo…",
     "source": "The Cloudflare Blog",
     "category": "streaming",
-    "timeAgo": "Tue, 07 Jul 2026 13:00:00 GMT",
-    "timestamp": 1783429200.0,
-    "isoDate": "2026-07-07T13:00:00+00:00",
+    "timeAgo": "Tue, 07 Jul 2026 12:00:00 GMT",
+    "timestamp": 1783425600.0,
+    "isoDate": "2026-07-07T12:00:00+00:00",
     "imageUrl": ""
   },
   {
@@ -74,29 +74,7 @@
     "timeAgo": "Mon, 06 Jul 2026 13:00:00 GMT",
     "timestamp": 1783342800.0,
     "isoDate": "2026-07-06T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2Xyk1rkPl9p44y48mdoPk/2178d252281c0165e03e7cb9245a4c3a/BLOG-3262_image1.png"
-  },
-  {
-    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
-    "link": "https://blog.cloudflare.com/monetization-gateway/",
-    "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stac…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
-    "timestamp": 1782910800.0,
-    "isoDate": "2026-07-01T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/775Xg4N8Ic9Vk7Y4dvMgTE/0267b9f7672fd65d7c329553eb567d8c/BLOG-3342_2.png"
-  },
-  {
-    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
-    "link": "https://blog.cloudflare.com/agentic-internet-bot-report/",
-    "summary": "One year after declaring Content Independence Day, a dynamic market for monetized content has officially emerged. In this report, we examine how the rise of autonomous AI agents is upending traditional search referrals and detail the new in…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
-    "timestamp": 1782910800.0,
-    "isoDate": "2026-07-01T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3M69Z8Mu3wANYivgEMbUqZ/e891d57b2569c021bad63c0bfeca0530/BLOG-3368_2.png"
+    "imageUrl": ""
   },
   {
     "title": "Making AI search smarter",
@@ -107,7 +85,7 @@
     "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
     "timestamp": 1782910800.0,
     "isoDate": "2026-07-01T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3zED8SPiCSPFBL13KA1ifg/0cbe54a3c863e365318ccb9e33cfad11/BLOG-3339_2.png"
+    "imageUrl": ""
   },
   {
     "title": "Your site, your rules: new AI traffic options for all customers",
@@ -118,7 +96,29 @@
     "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
     "timestamp": 1782910800.0,
     "isoDate": "2026-07-01T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3XlnMWyLXLpLgWLP7hgRGP/d01b9b60c513a7904558fdc674fb74b3/BLOG-3337_2.png"
+    "imageUrl": ""
+  },
+  {
+    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
+    "link": "https://blog.cloudflare.com/monetization-gateway/",
+    "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stac…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
+    "timestamp": 1782910800.0,
+    "isoDate": "2026-07-01T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
+    "link": "https://blog.cloudflare.com/agentic-internet-bot-report/",
+    "summary": "One year after declaring Content Independence Day, a dynamic market for monetized content has officially emerged. In this report, we examine how the rise of autonomous AI agents is upending traditional search referrals and detail the new in…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
+    "timestamp": 1782910800.0,
+    "isoDate": "2026-07-01T13:00:00+00:00",
+    "imageUrl": ""
   },
   {
     "title": "Unmasking the crawls with Attribution Business Insights",
@@ -129,7 +129,7 @@
     "timeAgo": "Wed, 01 Jul 2026 06:00:00 GMT",
     "timestamp": 1782885600.0,
     "isoDate": "2026-07-01T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/44iTYHoY6xZ0tmWlxmVg4k/e4defd336a295f2887ec41bb1ca5a629/image4.png"
+    "imageUrl": ""
   },
   {
     "title": "How 5 migrated to AWS Elemental MediaPackage v2",
@@ -151,7 +151,7 @@
     "timeAgo": "Thu, 25 Jun 2026 13:00:00 GMT",
     "timestamp": 1782392400.0,
     "isoDate": "2026-06-25T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1j8xfDeKb3FCgE2Ktxf4fq/723e2b9e34189747d3c8eb65f906fb41/BLOG-3317_image6.png"
+    "imageUrl": ""
   },
   {
     "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
@@ -162,7 +162,7 @@
     "timeAgo": "Wed, 24 Jun 2026 06:00:00 GMT",
     "timestamp": 1782280800.0,
     "isoDate": "2026-06-24T06:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/tbiQb2wX9zyyC2n6cOMmv/706bacb728d5abef09117c3893ec288d/hydra_upgrade_diagram.png"
+    "imageUrl": ""
   },
   {
     "title": "The White House's post-quantum executive order is an important milestone. It’s time to get to work",
@@ -173,7 +173,7 @@
     "timeAgo": "Tue, 23 Jun 2026 18:25:18 GMT",
     "timestamp": 1782239118.0,
     "isoDate": "2026-06-23T18:25:18+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4ZPdZZj0jIz2ZFsgOdTLnW/b3633cb8438622a4af0bba1ad63c799d/Screenshot_2026-06-29_at_12.23.04.png"
+    "imageUrl": ""
   },
   {
     "title": "How we found a bug in the hyper HTTP library",
@@ -184,7 +184,7 @@
     "timeAgo": "Mon, 22 Jun 2026 18:00:00 GMT",
     "timestamp": 1782151200.0,
     "isoDate": "2026-06-22T18:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/25KzBWgTy4UfdPbzJOg1lO/9c179230f783e9012624a8a9d99b7dac/image4.png"
+    "imageUrl": ""
   },
   {
     "title": "Temporary Cloudflare Accounts for AI agents",
@@ -195,7 +195,7 @@
     "timeAgo": "Fri, 19 Jun 2026 13:00:00 GMT",
     "timestamp": 1781874000.0,
     "isoDate": "2026-06-19T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6joSXmAJAARgyGphPhXGla/9c3e8cef6f269df6a9c458495c5fe40b/image2.png"
+    "imageUrl": ""
   },
   {
     "title": "Build your own vulnerability harness",
@@ -206,7 +206,7 @@
     "timeAgo": "Thu, 18 Jun 2026 17:59:40 GMT",
     "timestamp": 1781805580.0,
     "isoDate": "2026-06-18T17:59:40+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/65jRLGhBLnc1IvleCfC7rh/7246ae5bb6b63d7e7ee655704f224200/BLOG-3344_2.png"
+    "imageUrl": ""
   },
   {
     "title": "Celebrating 12 years of Project Galileo",
@@ -217,7 +217,7 @@
     "timeAgo": "Thu, 18 Jun 2026 13:00:00 GMT",
     "timestamp": 1781787600.0,
     "isoDate": "2026-06-18T13:00:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5zpBBx4zy05RzFxIgPaU0e/387446f9439c2d4a5c39a9bb4bf69151/image1.jpg"
+    "imageUrl": ""
   },
   {
     "title": "Sony Marketing Inc. built Cloud-based live video production for sports events with AWS Elemental MediaConnect Router",
@@ -233,13 +233,13 @@
   {
     "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
     "link": "https://blog.cloudflare.com/agents-platform-flue-sdk/",
-    "summary": "The Agents SDK is now a runtime any agent framework can build on. Today we're opening up the Agents SDK primitives, with Flue as a first framework targeting Agents SDK, and rolling out agents in the dashboard.",
+    "summary": "The Agents SDK is now a runtime any agent framework can build on. Today we're opening up the Agents SDK primitives, with Flue as a first framework targeting Agents SDK, and rolling out agents in the dashboard",
     "source": "The Cloudflare Blog",
     "category": "streaming",
     "timeAgo": "Wed, 17 Jun 2026 19:35:00 GMT",
     "timestamp": 1781724900.0,
     "isoDate": "2026-06-17T19:35:00+00:00",
-    "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5U50mjNZpg7RD3fb0pOLLs/5e20ad63c1e6ab92cf5d334b79996c1a/image5.png"
+    "imageUrl": ""
   },
   {
     "title": "Inside the AWS NBA Draft Combine Hub: How AWS turned decades of prospect data into a new fan experience",
