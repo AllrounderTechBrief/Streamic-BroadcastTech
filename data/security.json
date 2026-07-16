@@ -1,5 +1,27 @@
 [
   {
+    "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+    "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+    "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 15:40:00 +0530",
+    "timestamp": 1784196600.0,
+    "isoDate": "2026-07-16T10:10:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFHlEVhBtz6htSsevgYmwuQZHGlEXKK9eqiOqgiXJ587449tNZfWR9y74kC9MfZ6CDSPx6IBloYogs0PBSeynORkAZsD6825INUqoJaIMwtAbBVkve-A8xBNmz6fNpxsuwjsF_jfXHqBumqTT9VY7Jn5gEP3C0fVLOtuVFZ2krUvHSagGvupLXQSH-YI/s1600/cvss.jpg"
+  },
+  {
+    "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+    "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+    "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-F…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 14:53:19 +0530",
+    "timestamp": 1784193799.0,
+    "isoDate": "2026-07-16T09:23:19+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5tbAe6HgEiYpwgRNJ04jo1HJ_PV3INByd4ggz2t4h_dCa4u2zkCBimnzDZt7V-p208q7-BfaHSmR5_aXg6VvnnThfnc9_UX8oP0hnRa6rP1JVgKka-D76BpYUzhEuc3O0nbEGgoVeCQsTY2RBsVTrYnViTmGPqgPJ9e4lNeKWtxZNxKqvUajphbl-ENY/s1600/shark-hack.jpg"
+  },
+  {
     "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
     "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
     "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our p…",
@@ -306,27 +328,5 @@
     "timestamp": 1783950588.0,
     "isoDate": "2026-07-13T13:49:48+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_pk3JKY3zis-iTRVKpcttwfy-GP-gEzPE_NQQpqDEaMvVs65uqa3v_dG7pD_DmZWLHcwBQzjFtTYqob5wWSgO2F-0-KkwZaahqTUpGP1xbvyifaf2UnMDzI8j9pnP9EWyARmN2SHHl0eBo4UszZx3VZvicjU_MMFOEA8sjcLvzBFzAkNeFg3GIR2yncA/s1600/memghost.jpg"
-  },
-  {
-    "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-    "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-    "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise m…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Jul 2026 18:33:33 +0530",
-    "timestamp": 1783947813.0,
-    "isoDate": "2026-07-13T13:03:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlR-dy6ENZN5NKa1_sViQqXH6fEfEROkwjKV9vTowPmCu_nOALJ89JzGg-ueVJMCAqDHHozMZGd8oWbIlAQDTI8anEd6A2ZK0MdBN_FiShR3UoHGL6Cf0Gbhv8dY9RkVlZxpOCmks29u8Fnmx-JcytGZlnKC_9EuColvIMY4Y5IXH91aRaN5HOgjvvSPEo/s1600/ms-device-code1.jpg"
-  },
-  {
-    "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-    "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-    "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. Each read gets pinned to the moment it h…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Jul 2026 17:24:46 +0530",
-    "timestamp": 1783943686.0,
-    "isoDate": "2026-07-13T11:54:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiElxdOUOnt8DZ-78o4IBYmmieJL3gm-RPGxQYpkPhzk8o-kMG_bWAGAHjVzPbVEGnkPmhF80RlbaRmvtgVLfABQSKApl6fsQ2RkhkWuZsxF9WR-HnsthEl_bfg4A6w_hMThqQoWAFimIXGTSZ0QLA6DSHprkHQTTp3WNwy-QmyaosOcs3ksJxy5lztSoc/s1600/meta-facebook.jpg"
   }
 ]
