@@ -1,5 +1,27 @@
 [
   {
+    "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+    "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+    "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our p…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 14:12:31 +0530",
+    "timestamp": 1784191351.0,
+    "isoDate": "2026-07-16T08:42:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSi9EGhWziKlNlaSAnaOE4OjgZ5pyqoajOxDz4zEQl77NDSF_Pf8ME6wfKfrmrTWhLy9jDR1wvmVb7gd5JLhyszunIomhOnyyHKuTfvBCjb8vGypAPXbQzTVG-n5wWUdsTToUXQ5z_uh3XPDX3KKzgZ8vDB9PZ40FOd6xGi2iALOu-wSqSoHpkpYf5eKjk/s1600/openai-gpt-red.jpg"
+  },
+  {
+    "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+    "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+    "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Win…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 12:52:44 +0530",
+    "timestamp": 1784186564.0,
+    "isoDate": "2026-07-16T07:22:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPR-qLKvfH8KZydz4_DnqiB9bJDjgFi6KdfrbbCHNkywiDcR_1SILe12UqjuyM_1yQXEDBok-ZeYRX0hEjIZpx-Dz2hnIW2xXnwAqrmA3voWWfG_vnGMavgE4-E_DFzICLfizByiwAis02VEJqSoxQrEECCMibS0X27D5k0o08IPp1JR0tVCnXwpj2u3e2/s1600/zoom.jpg"
+  },
+  {
     "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
     "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
     "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit w…",
@@ -306,27 +328,5 @@
     "timestamp": 1783943686.0,
     "isoDate": "2026-07-13T11:54:46+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiElxdOUOnt8DZ-78o4IBYmmieJL3gm-RPGxQYpkPhzk8o-kMG_bWAGAHjVzPbVEGnkPmhF80RlbaRmvtgVLfABQSKApl6fsQ2RkhkWuZsxF9WR-HnsthEl_bfg4A6w_hMThqQoWAFimIXGTSZ0QLA6DSHprkHQTTp3WNwy-QmyaosOcs3ksJxy5lztSoc/s1600/meta-facebook.jpg"
-  },
-  {
-    "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-    "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-    "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Jul 2026 17:07:05 +0530",
-    "timestamp": 1783942625.0,
-    "isoDate": "2026-07-13T11:37:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV-KJeaayQ7Le5oAYYddL3LmP0k3zaJOoLo9puHLF8y_fVAoBUcJba3ZyyCfJWdvvMBQTt__x0v8iggR1HfDgXOO1b5CD1xZUVr03ZnoO_1moKSeA9iNhOsPoLZMJXG9IwPJYO1NYYPNsWrBqmlx2FHM7tKF5pxRcLXLqSNtnLGP80Q4MxK5vGeB74tug/s1600/slow.jpg"
-  },
-  {
-    "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-    "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-    "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, compute…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Jul 2026 16:32:33 +0530",
-    "timestamp": 1783940553.0,
-    "isoDate": "2026-07-13T11:02:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43TJKqVkJoN7Q3donw2FnXp1IrJEr6vvDteFOBCSR-PptAc8fMXXCq07kvKWoDacCHo6gi5-eUoX9mIBHggv-KXsoH31yBi0-_MZBjxYbiYNlhvAu8V_xhjuKHgnQj43x5S2pORBIGONxE_yLZdZOnDCmcjMegQjhwZtHDThg_4nlhZqwSizsMRCfZFQW/s1600/ps-ai.jpg"
   }
 ]
