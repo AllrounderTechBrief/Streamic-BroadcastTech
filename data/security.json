@@ -1,5 +1,60 @@
 [
   {
+    "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+    "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+    "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 18:20:13 +0530",
+    "timestamp": 1784206213.0,
+    "isoDate": "2026-07-16T12:50:13+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv5Rn7Ccy_az1UqogtcMmy8m09NuHcnSuylWjVMecOfxDKbvUAt4FnqKIJp4uZUcOPUmnYGIywea1nJG-yiSqcQbPC-ULonG5US-gEbUnkEHbGN3cVnQdkqbxKGt0EY4We_j8V9RrH4NVgtbPFEfc5mdMxV9sTOWSx_p3ShB0LWleupJbo74xMVlGHistw/s1600/click-malware.jpg"
+  },
+  {
+    "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+    "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+    "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 18:03:42 +0530",
+    "timestamp": 1784205222.0,
+    "isoDate": "2026-07-16T12:33:42+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4iNrh8DJbIsaAsGTCFlS4kGWAwdRNMghQm9-o8MV8X2txyJ4iTH1P4g7v5sdjuhw9dOeozn9Q6GenUi4wxBTw9uyoJ1D2j5WIcwCWuTk5XEVyGqjAg4jmP4kOEMp2qtd0BnPiVwrz2MJnTwaAnQP0jR3yCGvojGLQMOEc9syp00LKXIkbjUZrWqh0_GSe/s1600/macos-stealer.jpg"
+  },
+  {
+    "title": "20+ Hijacked Government Websites Became an Attack Channel",
+    "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
+    "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat intelligence solution…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 17:28:00 +0530",
+    "timestamp": 1784203080.0,
+    "isoDate": "2026-07-16T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_Ix6AmdT0f-NuPj2BLNRcSaOhWHf5pPdDuwR0eykvHCnOmoHUhq5Z2axM2GJX9gX5A3FlesfKuynGTsj012HNIJZURuZ8S7uCfa7_cSXIZDWC1donHjiQbkNr3jNLSq8B2PGpUG24fddwOaG2POjEQuvlrVEnp3yPa1F3tV2fpYDVQHEsaIHbnShUuQ/s1600/hacked.jpg"
+  },
+  {
+    "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+    "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
+    "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stran…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 17:02:28 +0530",
+    "timestamp": 1784201548.0,
+    "isoDate": "2026-07-16T11:32:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiapJDNa0fN3WsyrkYjRiRo3L8tqmE_RJm9AmQV5KO9p5To-PBWdVz7EW294xtn-VZtJ2xS_scIq3LyqyxYkPG3R5TdJoPF_axjEaLpaXSqGHK_uO274wM315GEqHtnDAMIfFN2vZlcEYJ3Ca11Ml_E-l32H63EYNfx7l9ldtjNlH8hL_19w4RL6vDpOWMz/s1600/adi.jpg"
+  },
+  {
+    "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+    "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
+    "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the ke…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 16:47:23 +0530",
+    "timestamp": 1784200643.0,
+    "isoDate": "2026-07-16T11:17:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoN2-EflBc7bABKWw8GsIF_E9I7A9Ond88d-yFCAc6t850C9RGNxpGFAP3G9NichaP7JHa_BA-4bsMDNze5837hGCFGuAbyEHPVsxmQgMNS9A8e1jFL19Z1MVv9KOq0TX5ShDG46Xrv3MxH-vR3sQtEcDkH5OMxQQo11NXMKWRicC8T1OwTqw3ENoXEdIK/s1600/WINDOWS-malware.jpg"
+  },
+  {
     "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
     "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
     "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize a…",
@@ -273,60 +328,5 @@
     "timestamp": 1784012916.0,
     "isoDate": "2026-07-14T07:08:36+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAJ1TN76Et1GvWFCTaivnNcys4rEEVk1QEd6WIb0wu3cxroYcwng-0a0uM8eyHdrOuiHLU8lFJg5eFzSbZj95aEfXVnletlFE9BKsDJP_0uV4w9-YbHg7p9LuMyRMcj4rJPftYmIYCcD3_VmbgFrGuaJ6yqUuJgIvVtbqlNUPrkJO2FSuFQ6dJ7gzKFV0/s1600/lucide-botnet.jpg"
-  },
-  {
-    "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-    "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-    "summary": "Attackers whose methods line up with the data-extortion group ShinyHunters have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the trust the organizat…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Jul 2026 11:49:24 +0530",
-    "timestamp": 1784009964.0,
-    "isoDate": "2026-07-14T06:19:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu2gmOSckwOqmlhqAYdrlHfRuTsOJIi7dr9cFZosLQAJeoJxcUVQ9PvibcfnCsBdPWvfJRRrxoS8nx9yTt9NtDNCwVCFavEt7tQT0viD7AwGvUjhu-_k0B2J4KBSAJ-5GUGFZHCTSyOuW4I082lHoUkbsbH33tsIeo3gm71_CkjMd_bcAN7i4xPvMnefA/s1600/salesforce-attack-path.jpg"
-  },
-  {
-    "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-    "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-    "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or Obj…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Jul 2026 23:06:12 +0530",
-    "timestamp": 1783964172.0,
-    "isoDate": "2026-07-13T17:36:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbZ5yNN1gA3Yzt-6i1sekVk3AFnHGEpas31-UowjFTXB9Rj4DhkS8H4cqjr655w9HCDKZIzcRAqn1NvLSmPLs_-oDDYpCteWgGlkUIpuyMkPIeXnfgxKCYRG54K8oV0j4vVaWj928DfJBsYJzR98e5BuZDp5OmoeFtDubZ90Qnz0a7G9VmukCII5kVE3rQ/s1600/macos-malware-1.jpg"
-  },
-  {
-    "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-    "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-    "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version. The …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Jul 2026 22:47:24 +0530",
-    "timestamp": 1783963044.0,
-    "isoDate": "2026-07-13T17:17:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSvBtzUXyAbjgtvPJVS9zZ29ULkaIs0fMMa53ZKSip2pJbZ7_HMTGn3SV27X28JLwaq9atS1B_jvH_7qgfsjW0wyVDV_jGyqFSyO-z_vHuoigCy14xfb7DKuuWGIMUVeLiOhnap1yICNPEC2OUkA0d_e8RXtPs7oTo3BAz9I2DTxRwg67vgObResLQ7c4/s1600/browser-edge.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-    "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-    "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. T…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Jul 2026 20:35:57 +0530",
-    "timestamp": 1783955157.0,
-    "isoDate": "2026-07-13T15:05:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuCIplQpj7CGra4jEeX4qO6DfR9_OazwL_c55clD60cy9pWK42qAsCmqrwe0YBUmPq0cg_6Gt52VlqoOGuigf4qwI8lazIdogbl8pjBDfprTbktGn96fxMbtCh06kyGFF9qCXg9PgMhSXu8V02QBxTmBArc-84ZI3jXwmoDQdj-SCp-_JY7z5XqrQR2IlP/s1600/monday-recap.jpg"
-  },
-  {
-    "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-    "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-    "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 13 Jul 2026 19:19:48 +0530",
-    "timestamp": 1783950588.0,
-    "isoDate": "2026-07-13T13:49:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_pk3JKY3zis-iTRVKpcttwfy-GP-gEzPE_NQQpqDEaMvVs65uqa3v_dG7pD_DmZWLHcwBQzjFtTYqob5wWSgO2F-0-KkwZaahqTUpGP1xbvyifaf2UnMDzI8j9pnP9EWyARmN2SHHl0eBo4UszZx3VZvicjU_MMFOEA8sjcLvzBFzAkNeFg3GIR2yncA/s1600/memghost.jpg"
   }
 ]
