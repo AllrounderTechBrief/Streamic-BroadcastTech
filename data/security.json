@@ -1,5 +1,16 @@
 [
   {
+    "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+    "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+    "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored is…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 16 Jul 2026 19:03:25 +0530",
+    "timestamp": 1784208805.0,
+    "isoDate": "2026-07-16T13:33:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s1600/n8n-main.jpg"
+  },
+  {
     "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
     "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
     "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic…",
@@ -317,16 +328,5 @@
     "timestamp": 1784016153.0,
     "isoDate": "2026-07-14T08:02:33+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhseKXQcobfKfQC4K6ja7LMDD4ntr9cnmn_88cEPY7jw6wbmiy0p_0xup5NyNrvKHvN4gm2Y1gT4P9kn_FV0ogJEsN6hQ0Dal0xqZgWMNW0mHfrUtnxDkm0FjIN13xxH2_mCkBIVcQeEAK8j2w46HuvE5yv8W6MIsj5VQP37keKQBdHeF2NU-ujhcdaLwdE/s1600/sanctions.jpg"
-  },
-  {
-    "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-    "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-    "summary": "A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from JFrog. The packages did not go after the deve…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Jul 2026 12:38:36 +0530",
-    "timestamp": 1784012916.0,
-    "isoDate": "2026-07-14T07:08:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAJ1TN76Et1GvWFCTaivnNcys4rEEVk1QEd6WIb0wu3cxroYcwng-0a0uM8eyHdrOuiHLU8lFJg5eFzSbZj95aEfXVnletlFE9BKsDJP_0uV4w9-YbHg7p9LuMyRMcj4rJPftYmIYCcD3_VmbgFrGuaJ6yqUuJgIvVtbqlNUPrkJO2FSuFQ6dJ7gzKFV0/s1600/lucide-botnet.jpg"
   }
 ]
