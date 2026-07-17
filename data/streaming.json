@@ -5,9 +5,9 @@
     "summary": "Cloudflare has deployed two WAF rules in response to high-severity vulnerabilities disclosed to us by the WordPress security team. The new rules protect all Cloudflare customers using affected WordPress versions, but customers should still …",
     "source": "The Cloudflare Blog",
     "category": "streaming",
-    "timeAgo": "Fri, 17 Jul 2026 20:18:59 GMT",
-    "timestamp": 1784319539.0,
-    "isoDate": "2026-07-17T20:18:59+00:00",
+    "timeAgo": "Fri, 17 Jul 2026 21:30:43 GMT",
+    "timestamp": 1784323843.0,
+    "isoDate": "2026-07-17T21:30:43+00:00",
     "imageUrl": ""
   },
   {

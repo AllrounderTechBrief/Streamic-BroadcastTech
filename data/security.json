@@ -1,5 +1,16 @@
 [
   {
+    "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+    "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+    "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 18 Jul 2026 02:50:10 +0530",
+    "timestamp": 1784323210.0,
+    "isoDate": "2026-07-17T21:20:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s1600/wordpress-core.jpg"
+  },
+  {
     "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
     "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
     "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in Ju…",
@@ -317,16 +328,5 @@
     "timestamp": 1784113617.0,
     "isoDate": "2026-07-15T11:06:57+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYTg22vVssJ3SSHZzP0PtS8d5g8oCH2fU2IkXoBoIPOR4-XblNQ7Hg6S-qkO6bIB9JLC3yI4QdpQ4iNWsQsu9QnMpNbHdHzwHhRyX0zr-Vklk2DaCe3UlOd8M53pp5Uu_mfds265f_MsrF_RaQ-lnPEc3b5UoIVsTIV-On5qJ9DqMpk05AsKM3FhlgtXV/s1600/ref.jpg"
-  },
-  {
-    "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-    "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-    "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 15 Jul 2026 16:25:22 +0530",
-    "timestamp": 1784112922.0,
-    "isoDate": "2026-07-15T10:55:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnrtjbcXdDBTEYOhVnUpFO4CSqhCGj5xdvaYlhih4oUCd3phzBQTjjMogZeFDlYqTiO8Xt2jaHevba5peaV76dT417Vq9W-DZFSpu2_cEbAMtGwz-mqKZJcYgAAXmZT_Rnkdc0f3jAW-eANKWd6XZZJvYfYCt6l5Pp-2ZKjlnn4zG7G6gS7ivWruzeU/s1600/git.png"
   }
 ]
