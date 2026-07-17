@@ -1,5 +1,16 @@
 [
   {
+    "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+    "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executiv…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 17 Jul 2026 12:12:23 +0530",
+    "timestamp": 1784270543.0,
+    "isoDate": "2026-07-17T06:42:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1600/sharepoint-cisa.jpg"
+  },
+  {
     "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
     "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
     "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inoperable and forced all 27…",
@@ -123,7 +134,7 @@
   {
     "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
     "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-    "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Win…",
+    "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Workplace for Windows …",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Thu, 16 Jul 2026 12:52:44 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1784028600.0,
     "isoDate": "2026-07-14T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkjrecx65rZWCn-e7KyG-ScNo2HupwMwFl9-XIOcdW1Pls-d0g80WyhkIHPCHTszjYDoUBtmpV_ystgF4Lc6z_noxysLX2xs11QU1jNALxkVa8gW6_QkevNLJkr8mCqupKYHRZSv518HoHlmwpnaYV-qMVyciXNsoMQAS8RrH1rLT2BsLS2t3u52Lrf8/s1600/pentera-main.jpg"
-  },
-  {
-    "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-    "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-    "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen creden…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Jul 2026 16:51:35 +0530",
-    "timestamp": 1784028095.0,
-    "isoDate": "2026-07-14T11:21:35+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmB1bLC9cna7xlnvFdK0hUnsi8jeo6E7jMh20nj4XTvsF9ogpjbnlPCxx9QYQ1O2aS7JiSDQi4swIRNG6-Xjg2TGR4bn4Zn-KBkjsLTYcKUrXOD-rlGu4XYsvRx06eRqrT4duW0xwklKeYjZvRV1VSarJBKldBzN4DNhkWudVCGRdKPi9uVGrqEwL66mz5/s1600/OAuth-ClientID.jpg"
   }
 ]
