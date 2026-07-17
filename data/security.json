@@ -1,5 +1,27 @@
 [
   {
+    "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+    "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+    "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders. It gets in…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 17 Jul 2026 14:26:39 +0530",
+    "timestamp": 1784278599.0,
+    "isoDate": "2026-07-17T08:56:39+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png"
+  },
+  {
+    "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+    "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+    "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence ga…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 17 Jul 2026 14:16:45 +0530",
+    "timestamp": 1784278005.0,
+    "isoDate": "2026-07-17T08:46:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
+  },
+  {
     "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
     "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executiv…",
@@ -306,27 +328,5 @@
     "timestamp": 1784033178.0,
     "isoDate": "2026-07-14T12:46:18+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgVI5ZeWhnWkl-lXmJYMLjAOXmxw21Y3sgxeF9rrOS_JqjQ7k_yyV_2KU_ELhmsm3nA3qNV0farc_31WCAhPPZRq7iIrYm90R_24lvc1f68Gv-yZPsM3bwDiUuCaCBAzq-S8ymLrrD7dx349vEjlR0eID2LXm5SO3Ocq1sG8sWkhAEG9RWX07avTOu3dW/s1600/shim.gif"
-  },
-  {
-    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
-    "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-    "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and block…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Jul 2026 17:25:00 +0530",
-    "timestamp": 1784030100.0,
-    "isoDate": "2026-07-14T11:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw92quWqf4LGudVaNPBRwhiCIP4ZEBpolIRqMKbQuG6hzrXUSx89QCQT1IjMWF_6v7GEkYGOi0kYoc-ES_fELZm6pg1P8lVpRxv5mYmpzAHQMm6A_XC_fXWSWlRVh1JfjFc8wXlqtyGWovxUOOhQn8HiG4XutLeKlyv5aLY2R4UKlHTcD2pgXANePlhBq/s1600/wallet-fingerprint.jpg"
-  },
-  {
-    "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-    "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-    "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severit…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Jul 2026 17:00:00 +0530",
-    "timestamp": 1784028600.0,
-    "isoDate": "2026-07-14T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkjrecx65rZWCn-e7KyG-ScNo2HupwMwFl9-XIOcdW1Pls-d0g80WyhkIHPCHTszjYDoUBtmpV_ystgF4Lc6z_noxysLX2xs11QU1jNALxkVa8gW6_QkevNLJkr8mCqupKYHRZSv518HoHlmwpnaYV-qMVyciXNsoMQAS8RrH1rLT2BsLS2t3u52Lrf8/s1600/pentera-main.jpg"
   }
 ]
