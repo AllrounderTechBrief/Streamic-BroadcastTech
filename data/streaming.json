@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+    "link": "https://blog.cloudflare.com/wordpress-vulnerabilities/",
+    "summary": "Cloudflare has deployed two WAF rules in response to high-severity vulnerabilities disclosed to us by the WordPress security team. The new rules protect all Cloudflare customers using affected WordPress versions, but customers should still …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 17 Jul 2026 20:18:59 GMT",
+    "timestamp": 1784319539.0,
+    "isoDate": "2026-07-17T20:18:59+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed",
     "link": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
     "summary": "When a failed DNSSEC key rollover took down the .al TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals d…",
@@ -229,17 +240,6 @@
     "timestamp": 1781730872.0,
     "isoDate": "2026-06-17T21:14:32+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-System-architecture-showing-MediaConnect-Router.png"
-  },
-  {
-    "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
-    "link": "https://blog.cloudflare.com/agents-platform-flue-sdk/",
-    "summary": "The Agents SDK is now a runtime any agent framework can build on. Today we're opening up the Agents SDK primitives, with Flue as a first framework targeting Agents SDK, and rolling out agents in the dashboard",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 17 Jun 2026 19:35:00 GMT",
-    "timestamp": 1781724900.0,
-    "isoDate": "2026-06-17T19:35:00+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Inside the AWS NBA Draft Combine Hub: How AWS turned decades of prospect data into a new fan experience",
