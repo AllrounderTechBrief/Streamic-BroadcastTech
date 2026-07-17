@@ -1,5 +1,16 @@
 [
   {
+    "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+    "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+    "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any use…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 17 Jul 2026 19:18:56 +0530",
+    "timestamp": 1784296136.0,
+    "isoDate": "2026-07-17T13:48:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg"
+  },
+  {
     "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
     "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
     "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the abil…",
@@ -317,16 +328,5 @@
     "timestamp": 1784053077.0,
     "isoDate": "2026-07-14T18:17:57+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rN4ge3zuUmonccBl2yC_AcOKiCQPKQFAV31BzB3DZk3JO7SxAjx1HdJlg1vBOMEj3cq2Mrg06ZU64I1fdkWCDRBsPhqpuyJwTxjbJHJXmzUoXF8KRDkupk6JxznlI9tjMXwU_hJqh4InVEOsiknPoszVZkQsqWSKfcD5Y90qz63Cv_pOHL8zO4CxGOop/s1600/sap-patch.jpg"
-  },
-  {
-    "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-    "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-    "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 14 Jul 2026 22:57:23 +0530",
-    "timestamp": 1784050043.0,
-    "isoDate": "2026-07-14T17:27:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6dKqmptCkoLw0bB5PV9wa9zqqfMmsIU0yrc4vQ2FdIFYClQBeZyUifVSr4wny1umoGovVKP57bzeh3-8RjmK8VktgN_y8TGTnkkw6Ua49L3xfWT_n8Ks6ob2NpIy78NSAV4-XU7HxfdmYqAZcKYz7DIjihqBI8OsQIgW3a4vca7taNTohCTDrqEamAk4/s1600/claude-chrome-flaw.jpg"
   }
 ]
