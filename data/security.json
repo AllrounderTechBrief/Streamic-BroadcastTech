@@ -1,5 +1,27 @@
 [
   {
+    "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+    "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+    "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 19 Jul 2026 19:00:55 +0530",
+    "timestamp": 1784467855.0,
+    "isoDate": "2026-07-19T13:30:55+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz79enQjrnXLRTDKacoJm6HMEpOZX59zUr-X-czDXaohlQymWPOYcD0ERz14lU9Sp_6DubTeBvC1085D3vh6VwMqreCDn8F9ZKkcrvgSTlCfwS1RhmT7ubTPrc5VRd5tX7dHAJAu8n8PUy94X3a72vYU4vO769JGWttb3x9gp9lXUkilEnloggpXyk2p/s1600/click.jpg"
+  },
+  {
+    "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+    "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+    "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecuri…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 19 Jul 2026 18:48:56 +0530",
+    "timestamp": 1784467136.0,
+    "isoDate": "2026-07-19T13:18:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s1600/sma-sonicwall.jpg"
+  },
+  {
     "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
     "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
     "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP…",
@@ -306,27 +328,5 @@
     "timestamp": 1784116201.0,
     "isoDate": "2026-07-15T11:50:01+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy5qXcxZFGTQiQ1Sb-SHAyKnjOmjdz1fA1FEFMLTVXd7Xcyr9aSptzafuOwTnzCkzHCqZCOV-z_tPKKeoeS6Rd2kYWtAL_IWTRXFaZkr8V371LH2Rbq0JHlLwCbkuhO_D-hRv73LHSQgEW9tfI9Oxj9jmh9ROMZLOAZFZztDH1qzHvO2uc7EO6AlxPh8Cl/s1600/island.jpg"
-  },
-  {
-    "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-    "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-    "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerabili…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 15 Jul 2026 16:37:07 +0530",
-    "timestamp": 1784113627.0,
-    "isoDate": "2026-07-15T11:07:07+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvtiVnhkF-YVsPEXyedqj9REY5pN1-KiSsf-rCeXK5yClGbAcsL1Tg7-9UDDA8VQg5RbM0uWkV23rDxqiFFIJ2RkpkY6cn90-5LPbZOC2oktF7_3FjD5La_FGkYdVBEKeXMJGiGRZfPvxmMBXd99tncWdEZ4HxX62hbxmWEnA02eu-LSVwZtmecjuykqDb/s1600/windows-0day.jpg"
-  },
-  {
-    "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
-    "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
-    "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This on-demand webinar reveals how this Approval Gap forms, and giv…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 15 Jul 2026 16:36:57 +0530",
-    "timestamp": 1784113617.0,
-    "isoDate": "2026-07-15T11:06:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYTg22vVssJ3SSHZzP0PtS8d5g8oCH2fU2IkXoBoIPOR4-XblNQ7Hg6S-qkO6bIB9JLC3yI4QdpQ4iNWsQsu9QnMpNbHdHzwHhRyX0zr-Vklk2DaCe3UlOd8M53pp5Uu_mfds265f_MsrF_RaQ-lnPEc3b5UoIVsTIV-On5qJ9DqMpk05AsKM3FhlgtXV/s1600/ref.jpg"
   }
 ]
