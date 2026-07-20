@@ -1,5 +1,27 @@
 [
   {
+    "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+    "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+    "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 20 Jul 2026 10:57:26 +0530",
+    "timestamp": 1784525246.0,
+    "isoDate": "2026-07-20T05:27:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
+  },
+  {
+    "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+    "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+    "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue ge…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 20 Jul 2026 10:45:39 +0530",
+    "timestamp": 1784524539.0,
+    "isoDate": "2026-07-20T05:15:39+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg"
+  },
+  {
     "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
     "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
     "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and …",
@@ -306,27 +328,5 @@
     "timestamp": 1784140988.0,
     "isoDate": "2026-07-15T18:43:08+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKa1OIdUu8LgLPgZkc9qbOTzhARf1dEJa_fzyVt7vvSzidHy3Lrb-2R4hs2ryt9b4Aq3zOnJRtWVuQ8KHKUZ5x9Iv6Q0vGTVMPxNMLTdGaNsquyrL18QXk8TcMP2nEwFHE1snKt2aG6rEmyVMwRp7Fk4G_x_sXjk_4AmYWsH2JCvOe2Adut2PZbLVc4YI/s1600/tuxbot.jpg"
-  },
-  {
-    "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-    "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
-    "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 15 Jul 2026 21:00:30 +0530",
-    "timestamp": 1784129430.0,
-    "isoDate": "2026-07-15T15:30:30+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwz558IbCLKi1RAJRcX_tLnJrGR3xjXSXfBJHnREqKc0aTs9Ie67rKN6xRHDV4g6JNByEH5Vr-x-14HOK8dSKj_B6HFn303OMiFrpr2wHf9PNUONqlUPn8IdMzr9QoZB9uWq14ElryYTydVAUXNeCARv-cN7KMmmwfb9FpMw_NCDIk8faF6QlSboXey08/s1600/seed.jpg"
-  },
-  {
-    "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-    "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-    "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly compone…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 15 Jul 2026 18:48:53 +0530",
-    "timestamp": 1784121533.0,
-    "isoDate": "2026-07-15T13:18:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjCjGBZhkRcB4m5BQu0Fcn-Qjs1_VPnfOlt3oFxu7CKMZ5Wc1JpvZEvhVSorBJW-AWV1pACLDkg4rFmCCcdH6vDk-pmD5ai0ZewlmPyeWPnfsmTcg-D3UJXdT902oUD32DjSm5CrBsnf2rcVTQPUo5o-LJRKUlsjOwPNfYMpN7kOfmNhnyw552cv-Gtqk/s1600/adobes.jpg"
   }
 ]
