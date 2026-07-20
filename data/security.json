@@ -1,5 +1,16 @@
 [
   {
+    "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+    "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+    "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartL…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 20 Jul 2026 23:53:03 +0530",
+    "timestamp": 1784571783.0,
+    "isoDate": "2026-07-20T18:23:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg"
+  },
+  {
     "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
     "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
     "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was …",
@@ -317,16 +328,5 @@
     "timestamp": 1784205222.0,
     "isoDate": "2026-07-16T12:33:42+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4iNrh8DJbIsaAsGTCFlS4kGWAwdRNMghQm9-o8MV8X2txyJ4iTH1P4g7v5sdjuhw9dOeozn9Q6GenUi4wxBTw9uyoJ1D2j5WIcwCWuTk5XEVyGqjAg4jmP4kOEMp2qtd0BnPiVwrz2MJnTwaAnQP0jR3yCGvojGLQMOEc9syp00LKXIkbjUZrWqh0_GSe/s1600/macos-stealer.jpg"
-  },
-  {
-    "title": "20+ Hijacked Government Websites Became an Attack Channel",
-    "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-    "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat intelligence solution…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Jul 2026 17:28:00 +0530",
-    "timestamp": 1784203080.0,
-    "isoDate": "2026-07-16T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_Ix6AmdT0f-NuPj2BLNRcSaOhWHf5pPdDuwR0eykvHCnOmoHUhq5Z2axM2GJX9gX5A3FlesfKuynGTsj012HNIJZURuZ8S7uCfa7_cSXIZDWC1donHjiQbkNr3jNLSq8B2PGpUG24fddwOaG2POjEQuvlrVEnp3yPa1F3tV2fpYDVQHEsaIHbnShUuQ/s1600/hacked.jpg"
   }
 ]
