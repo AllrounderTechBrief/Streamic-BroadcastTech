@@ -1,5 +1,16 @@
 [
   {
+    "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+    "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+    "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 20 Jul 2026 22:59:50 +0530",
+    "timestamp": 1784568590.0,
+    "isoDate": "2026-07-20T17:29:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg"
+  },
+  {
     "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
     "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
     "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, …",
@@ -317,16 +328,5 @@
     "timestamp": 1784203080.0,
     "isoDate": "2026-07-16T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_Ix6AmdT0f-NuPj2BLNRcSaOhWHf5pPdDuwR0eykvHCnOmoHUhq5Z2axM2GJX9gX5A3FlesfKuynGTsj012HNIJZURuZ8S7uCfa7_cSXIZDWC1donHjiQbkNr3jNLSq8B2PGpUG24fddwOaG2POjEQuvlrVEnp3yPa1F3tV2fpYDVQHEsaIHbnShUuQ/s1600/hacked.jpg"
-  },
-  {
-    "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-    "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-    "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stran…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Jul 2026 17:02:28 +0530",
-    "timestamp": 1784201548.0,
-    "isoDate": "2026-07-16T11:32:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiapJDNa0fN3WsyrkYjRiRo3L8tqmE_RJm9AmQV5KO9p5To-PBWdVz7EW294xtn-VZtJ2xS_scIq3LyqyxYkPG3R5TdJoPF_axjEaLpaXSqGHK_uO274wM315GEqHtnDAMIfFN2vZlcEYJ3Ca11Ml_E-l32H63EYNfx7l9ldtjNlH8hL_19w4RL6vDpOWMz/s1600/adi.jpg"
   }
 ]
