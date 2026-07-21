@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+    "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+    "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue w…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Jul 2026 00:16:32 +0530",
+    "timestamp": 1784659592.0,
+    "isoDate": "2026-07-21T18:46:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiIg3Sasyz94bt9uOMqOnkEhZ4APzMbVwOObUmNzIGuYtxHO0wYNBu1LXTGi0Q5mTT6SI_CgqPwCWgejCc7BnclxwtLvDKiUlJR80nzE6dniSdomYMVcQU8Z1BQECtTvevKArxtEsJjB8Zeh2ouEgblz0vOiTDKcXUzpMzW70C56-Xbj-LT1gLp0Mbw99p/s1600/apple-email.jpg"
+  },
+  {
     "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
     "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
     "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Secu…",
@@ -317,16 +328,5 @@
     "timestamp": 1784306356.0,
     "isoDate": "2026-07-17T16:39:16+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg"
-  },
-  {
-    "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-    "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-    "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any use…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Jul 2026 19:18:56 +0530",
-    "timestamp": 1784296136.0,
-    "isoDate": "2026-07-17T13:48:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg"
   }
 ]
