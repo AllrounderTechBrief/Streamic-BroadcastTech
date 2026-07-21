@@ -1,5 +1,38 @@
 [
   {
+    "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+    "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+    "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CV…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Jul 2026 14:29:30 +0530",
+    "timestamp": 1784624370.0,
+    "isoDate": "2026-07-21T08:59:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4qOga3YGcLZ3JclK_mkOkQ-pRmQowUUqu6Hp3fj1QTmsNuuhkSj4OiFqgAtL7e6yeGkv-K1jC0v4bRayI40oDQ8UMeYishuNzRap3E5RYmIEbjRbmq-uAk4iWKWwIfMdNi6owJrVWE_3fcWzj5lZgVm9P96ddcqghwnp3rGx3pM3N6hck6UiaFUgVRbtC/s1600/wordpress-ex.jpg"
+  },
+  {
+    "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+    "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+    "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go r…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Jul 2026 13:04:32 +0530",
+    "timestamp": 1784619272.0,
+    "isoDate": "2026-07-21T07:34:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTNXJkg3w9ziG7euHnlaoQkTjogtjIhtwE-ZudPv_9wOpJUCUNVc-i_BtBkDTCflKzRSfUOEp5xHyRWAOcQWv18pf2kv9-yuI75SOM52X3akV3VrguZf6GDH9MZejxFG7FoJGMIgARuiWyncCOmNznSofFT8Fn9Zu2ZGmk0V_Ni3niha2I9qAO59VKHw/s1600/ransomware-ai.jpg"
+  },
+  {
+    "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+    "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+    "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of C…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Jul 2026 11:59:26 +0530",
+    "timestamp": 1784615366.0,
+    "isoDate": "2026-07-21T06:29:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg"
+  },
+  {
     "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
     "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
     "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartL…",
@@ -295,38 +328,5 @@
     "timestamp": 1784216475.0,
     "isoDate": "2026-07-16T15:41:15+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
-  },
-  {
-    "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-    "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-    "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored is…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Jul 2026 19:03:25 +0530",
-    "timestamp": 1784208805.0,
-    "isoDate": "2026-07-16T13:33:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s1600/n8n-main.jpg"
-  },
-  {
-    "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-    "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-    "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Jul 2026 18:20:13 +0530",
-    "timestamp": 1784206213.0,
-    "isoDate": "2026-07-16T12:50:13+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv5Rn7Ccy_az1UqogtcMmy8m09NuHcnSuylWjVMecOfxDKbvUAt4FnqKIJp4uZUcOPUmnYGIywea1nJG-yiSqcQbPC-ULonG5US-gEbUnkEHbGN3cVnQdkqbxKGt0EY4We_j8V9RrH4NVgtbPFEfc5mdMxV9sTOWSx_p3ShB0LWleupJbo74xMVlGHistw/s1600/click-malware.jpg"
-  },
-  {
-    "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-    "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-    "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Jul 2026 18:03:42 +0530",
-    "timestamp": 1784205222.0,
-    "isoDate": "2026-07-16T12:33:42+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4iNrh8DJbIsaAsGTCFlS4kGWAwdRNMghQm9-o8MV8X2txyJ4iTH1P4g7v5sdjuhw9dOeozn9Q6GenUi4wxBTw9uyoJ1D2j5WIcwCWuTk5XEVyGqjAg4jmP4kOEMp2qtd0BnPiVwrz2MJnTwaAnQP0jR3yCGvojGLQMOEc9syp00LKXIkbjUZrWqh0_GSe/s1600/macos-stealer.jpg"
   }
 ]
