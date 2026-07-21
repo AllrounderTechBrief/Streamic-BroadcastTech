@@ -1,5 +1,38 @@
 [
   {
+    "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+    "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+    "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Jul 2026 17:28:00 +0530",
+    "timestamp": 1784635080.0,
+    "isoDate": "2026-07-21T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg"
+  },
+  {
+    "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+    "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+    "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Jul 2026 17:12:23 +0530",
+    "timestamp": 1784634143.0,
+    "isoDate": "2026-07-21T11:42:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg"
+  },
+  {
+    "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+    "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+    "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejian…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Jul 2026 16:54:50 +0530",
+    "timestamp": 1784633090.0,
+    "isoDate": "2026-07-21T11:24:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg"
+  },
+  {
     "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
     "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
     "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CV…",
@@ -295,38 +328,5 @@
     "timestamp": 1784278005.0,
     "isoDate": "2026-07-17T08:46:45+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
-  },
-  {
-    "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-    "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executiv…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Jul 2026 12:12:23 +0530",
-    "timestamp": 1784270543.0,
-    "isoDate": "2026-07-17T06:42:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1600/sharepoint-cisa.jpg"
-  },
-  {
-    "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
-    "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-    "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inoperable and forced all 27…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Jul 2026 22:39:25 +0530",
-    "timestamp": 1784221765.0,
-    "isoDate": "2026-07-16T17:09:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPDzKH0EAg764dc_I7qiwOAUUcWqBwDJcoojyb1-SwTOL5Gv24t1oGcIxnW8NkJjgXEadKJTIkcoN7nrFzrPk87AhHJj9Z5hPGk-vHGEkIppuyKJ-Sx_2M5aLF9z1VbD7G3uzf_kn_Wy1BYJ_R3RWwqM376W1hkWmfOdXYhlzCSqzSBRcJSbzGvFMkMg/s1600/Scattered-Spider.jpg"
-  },
-  {
-    "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-    "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-    "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 16 Jul 2026 21:11:15 +0530",
-    "timestamp": 1784216475.0,
-    "isoDate": "2026-07-16T15:41:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
   }
 ]

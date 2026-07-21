@@ -1,5 +1,16 @@
 [
   {
+    "title": "How the 2026 World Cup affected Internet traffic",
+    "link": "https://blog.cloudflare.com/2026-world-cup-internet-traffic/",
+    "summary": "We analyzed global HTTP traffic to explore how kickoff times, streaming habits, and hydration breaks reshaped online activity worldwide. From late-night traffic surges to halftime browsing spikes, here is how the world connected during the …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 21 Jul 2026 12:59:40 GMT",
+    "timestamp": 1784638780.0,
+    "isoDate": "2026-07-21T12:59:40+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Cloudflare Internal DNS is now generally available",
     "link": "https://blog.cloudflare.com/internal-dns/",
     "summary": "Cloudflare Internal DNS brings authoritative and recursive DNS for private networks to the same global network and control plane that runs Cloudflare's Zero Trust, networking, and public DNS.",
@@ -228,17 +239,6 @@
     "timeAgo": "Fri, 19 Jun 2026 13:00:00 GMT",
     "timestamp": 1781874000.0,
     "isoDate": "2026-06-19T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Build your own vulnerability harness",
-    "link": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
-    "summary": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM context l…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 18 Jun 2026 17:59:40 GMT",
-    "timestamp": 1781805580.0,
-    "isoDate": "2026-06-18T17:59:40+00:00",
     "imageUrl": ""
   },
   {
