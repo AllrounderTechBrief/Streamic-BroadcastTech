@@ -1,5 +1,27 @@
 [
   {
+    "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+    "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+    "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Secu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Jul 2026 21:36:12 +0530",
+    "timestamp": 1784649972.0,
+    "isoDate": "2026-07-21T16:06:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfMUQ_pVP5as41uM_4cR8oRUsCwuXPMLLG63jNd5Djqso9kJyQZLiZgQrMQzykhRaX8BQCydIMPokGoITYY30kc3dH-8iy4Bd-ux36RoIjyNYXtKwb1F1fPdP00hoHD-9Q9s5CGD30w58s5wfyzBGOQvnIxM8JlHkig881HSQQuu4Hk6GBiDJicUYE8o/s1600/AWS-Kiro.jpg"
+  },
+  {
+    "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+    "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+    "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. Ac…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 21 Jul 2026 20:39:28 +0530",
+    "timestamp": 1784646568.0,
+    "isoDate": "2026-07-21T15:09:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEErOjlKug3DfeSGwzEbvNrUSCkzDF0o7uAnDNHFuE5MWaTlnB8sSfYJ4VsQaG39Kv_-L50Zc5GOJrpLYvW_2i8TFFI1xAWMRnFa-M6smZrswwGgnUMmEe-F-FB5Hw3OQWxVdSfPAKCFidVnQODRBSDT9WbF4dZmfrOsvvvhHmIAnroCkyFmmhlc_YQyC/s1600/gemini-cyber-flash.jpg"
+  },
+  {
     "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
     "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
     "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deseriali…",
@@ -306,27 +328,5 @@
     "timestamp": 1784296136.0,
     "isoDate": "2026-07-17T13:48:56+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg"
-  },
-  {
-    "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-    "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-    "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the abil…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Jul 2026 17:14:41 +0530",
-    "timestamp": 1784288681.0,
-    "isoDate": "2026-07-17T11:44:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUt3BtyXt68oBeDmMvhp3Sg9c8WNu5xCMYsjqNGGg1A84ykQQ3qpk3Kfsq-msZGxHxtu-gZjML5fDvgV7CoakS6D-_-h2oWAd4m8b4dIS9p1C_003gGvCmg1SDwE7HYc64tdglQW5JWq6XYfssJibuxnxwtd7pu7fbvvkzDIPqdBOQwguwPKAXC2zVOU/s1600/google-android.jpg"
-  },
-  {
-    "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-    "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-    "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how ca…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Jul 2026 17:00:00 +0530",
-    "timestamp": 1784287800.0,
-    "isoDate": "2026-07-17T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg"
   }
 ]
