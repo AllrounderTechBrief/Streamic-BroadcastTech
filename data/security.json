@@ -1,5 +1,38 @@
 [
   {
+    "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+    "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+    "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, nam…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Jul 2026 11:30:06 +0530",
+    "timestamp": 1784700006.0,
+    "isoDate": "2026-07-22T06:00:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg"
+  },
+  {
+    "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+    "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+    "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's of…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Jul 2026 10:27:52 +0530",
+    "timestamp": 1784696272.0,
+    "isoDate": "2026-07-22T04:57:52+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg"
+  },
+  {
+    "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+    "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+    "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure las…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 22 Jul 2026 09:48:33 +0530",
+    "timestamp": 1784693913.0,
+    "isoDate": "2026-07-22T04:18:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
+  },
+  {
     "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
     "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
     "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue w…",
@@ -295,38 +328,5 @@
     "timestamp": 1784319653.0,
     "isoDate": "2026-07-17T20:20:53+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s1600/openssl.jpg"
-  },
-  {
-    "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-    "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-    "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, m…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 18 Jul 2026 00:24:51 +0530",
-    "timestamp": 1784314491.0,
-    "isoDate": "2026-07-17T18:54:51+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg"
-  },
-  {
-    "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-    "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-    "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Jul 2026 22:42:23 +0530",
-    "timestamp": 1784308343.0,
-    "isoDate": "2026-07-17T17:12:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg"
-  },
-  {
-    "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-    "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-    "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of Gold…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 17 Jul 2026 22:09:16 +0530",
-    "timestamp": 1784306356.0,
-    "isoDate": "2026-07-17T16:39:16+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg"
   }
 ]
