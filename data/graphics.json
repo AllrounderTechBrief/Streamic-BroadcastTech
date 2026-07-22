@@ -1,5 +1,49 @@
 [
   {
+    "title": "Mapping Io’s Hidden Heat With NASA’s Juno",
+    "link": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
+    "summary": "Description This graphic illustrates the areas of Jupiter’s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA’s Juno spacecraft during two close flybys. The black overlapping lines show the instrument’s footprints dur…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 22 Jul 2026 15:00:19 +0000",
+    "timestamp": 1784732419.0,
+    "isoDate": "2026-07-22T15:00:19+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png?w=1307&h=1188&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA’s Juno Peers Beneath Io’s Surface",
+    "link": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
+    "summary": "Description This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of Jupiter’s moon Io. While infrared instruments measure the temperature of …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 22 Jul 2026 14:58:58 +0000",
+    "timestamp": 1784732338.0,
+    "isoDate": "2026-07-22T14:58:58+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png?w=1339&h=813&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io",
+    "link": "https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/",
+    "summary": "NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant heating within the shallow subsurface of the most volcanically active world in the solar system. Collec…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 22 Jul 2026 14:54:35 +0000",
+    "timestamp": 1784732075.0,
+    "isoDate": "2026-07-22T14:54:35+00:00",
+    "imageUrl": "https://images-assets.nasa.gov/image/PIA26484/PIA26484~large.jpg?w=1920&h=1241&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA Joins Genesis Mission to Accelerate AI-Driven Discovery",
+    "link": "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
+    "summary": "NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering challenges to advance a new era of discovery. President Donald J. Trump issued the Executiv…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 22 Jul 2026 14:04:06 +0000",
+    "timestamp": 1784729046.0,
+    "isoDate": "2026-07-22T14:04:06+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920"
+  },
+  {
     "title": "Writers Guild Seeks Preliminary Injunction To Halt Paramount-WBD Merger",
     "link": "https://tvnewscheck.com/business/article/writers-guild-seeks-preliminary-injunction-to-halt-paramount-wbd-merger/",
     "summary": "The union is hoping to align the timing of its case with that of a dozen state attorneys general. The post Writers Guild Seeks Preliminary Injunction To Halt Paramount-WBD Merger appeared first on TV News Check.",
@@ -350,50 +394,6 @@
     "timestamp": 1784647815.0,
     "isoDate": "2026-07-21T15:30:15+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/2026-web-graphic-banner-ph-i-final.png?w=2048"
-  },
-  {
-    "title": "Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection",
-    "link": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
-    "summary": "Paul StankusBrookhaven Science Associates The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature — gravitational waves passing by the Earth will cause a (ver…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 21 Jul 2026 15:23:54 +0000",
-    "timestamp": 1784647434.0,
-    "isoDate": "2026-07-21T15:23:54+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-stankus-2.png?w=1419"
-  },
-  {
-    "title": "Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging",
-    "link": "https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/",
-    "summary": "Paul StankusBrookhaven Science Associates The scientific goal of the proposed work will be reconstructing the image, ie resolving surface features, of an Earth-like exoplanet around a nearby star as seen in visible light. The innovation is …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 21 Jul 2026 15:23:51 +0000",
-    "timestamp": 1784647431.0,
-    "isoDate": "2026-07-21T15:23:51+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-stankus-1.png?w=687"
-  },
-  {
-    "title": "Interworld Slingshot Resource Surveys",
-    "link": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/",
-    "summary": "Pablo Sobron SanchezSETI Institute This proposal explores a new class of reconnaissance spacecraft that map minerals from orbit using Raman spectroscopy during high-speed flybys–without landing, sample return, or extended dwell. If feasible…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 21 Jul 2026 15:23:49 +0000",
-    "timestamp": 1784647429.0,
-    "isoDate": "2026-07-21T15:23:49+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-sobron.png?w=889"
-  },
-  {
-    "title": "Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness",
-    "link": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
-    "summary": "David SmithDuke University The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA). While the US space surveillance network (SSN) is able to monitor…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 21 Jul 2026 15:23:46 +0000",
-    "timestamp": 1784647426.0,
-    "isoDate": "2026-07-21T15:23:46+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-smith.png?w=1409"
   },
   {
     "title": "Denisha Thomas Named KSDK St. Louis News Director",
