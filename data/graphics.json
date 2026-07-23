@@ -1,5 +1,93 @@
 [
   {
+    "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
+    "link": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
+    "summary": "Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-ac…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 23 Jul 2026 15:20:19 +0000",
+    "timestamp": 1784820019.0,
+    "isoDate": "2026-07-23T15:20:19+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/maf-20260515-cs4-lh2to451-08orig.jpg?w=2048"
+  },
+  {
+    "title": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
+    "link": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/",
+    "summary": "NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras. Results published Th…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 23 Jul 2026 15:19:33 +0000",
+    "timestamp": 1784819973.0,
+    "isoDate": "2026-07-23T15:19:33+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22076/PIA22076.tif?w=2048"
+  },
+  {
+    "title": "Qvest, Ateme & Scaleway Team To Offer Production-Ready Sovereign OTT Platforms For Europe",
+    "link": "https://tvnewscheck.com/tech/article/qvest-ateme-scaleway-team-to-offer-production-ready-sovereign-ott-platforms-for-europe/",
+    "summary": "Qvest, Ateme and Scaleway have partnered to deliver production-ready over-the-top platforms built entirely on European technology, aimed at broadcasters, media organizations and sports rights holders facing growing regulatory pressure to … …",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 23 Jul 2026 15:11:25 +0000",
+    "timestamp": 1784819485.0,
+    "isoDate": "2026-07-23T15:11:25+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "LTN Says It Has Completed More Than 3,000 Satellite-to-IP Migrations As FCC Clears Next Phase Of C-Band Change",
+    "link": "https://tvnewscheck.com/tech/article/ltn-says-it-has-completed-more-than-3000-satellite-to-ip-migrations-as-fcc-clears-next-phase-of-c-band-change/",
+    "summary": "LTN said today it has completed satellite-to-IP migrations at more than 3,000 broadcaster, MVPD, head-end and content-owner sites as the FCC approved rules moving forward with an auction of upper … The post LTN Says It Has Completed More Th…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 23 Jul 2026 14:46:57 +0000",
+    "timestamp": 1784818017.0,
+    "isoDate": "2026-07-23T14:46:57+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Digital Alert Systems Says Its DASDEC System Already Meets New FCC 15-Character Password Rule",
+    "link": "https://tvnewscheck.com/tech/article/digital-alert-systems-says-its-dasdec-system-already-meets-new-fcc-15-character-password-rule/",
+    "summary": "Digital Alert Systems said today that its DASDEC emergency alert system already supports the FCC’s new requirement that passwords be at least 15 characters long, allowing customers to comply immediately … The post Digital Alert Systems Says…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 23 Jul 2026 14:30:07 +0000",
+    "timestamp": 1784817007.0,
+    "isoDate": "2026-07-23T14:30:07+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Edward F. O’Keefe Named President-CEO Of WNET Group",
+    "link": "https://tvnewscheck.com/people/article/edward-f-okeefe-named-president-ceo-of-wnet-group/",
+    "summary": "The broadcast and digital media veteran will succeed the retiring Neal Shapiro on Sept. 21. The post Edward F. O’Keefe Named President-CEO Of WNET Group appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 23 Jul 2026 14:25:08 +0000",
+    "timestamp": 1784816708.0,
+    "isoDate": "2026-07-23T14:25:08+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Nexstar Completes NextGen TV Rollout In Cleveland",
+    "link": "https://tvnewscheck.com/tech/article/nexstar-completes-nextgen-tv-rollout-in-cleveland/",
+    "summary": "With that, ATSC 3.0 is now available in all Top 25 U.S. TV markets. The post Nexstar Completes NextGen TV Rollout In Cleveland appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 23 Jul 2026 14:13:59 +0000",
+    "timestamp": 1784816039.0,
+    "isoDate": "2026-07-23T14:13:59+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission",
+    "link": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
+    "summary": "After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his assignment, Williams contributed to research for new cancer treatments, advanced the …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 23 Jul 2026 14:00:00 +0000",
+    "timestamp": 1784815200.0,
+    "isoDate": "2026-07-23T14:00:00+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/12/55167953296-8a5e30d6a1-o.jpg"
+  },
+  {
     "title": "IBC: Mediagenix To Showcase Real-Time Media Enterprise",
     "link": "https://tvnewscheck.com/tech/article/ibc-mediagenix-to-showcase-real-time-media-enterprise/",
     "summary": "Mediagenix, a global provider of smart content solutions to profitably connect the right content to the right audience, will showcase its vision for the Real-Time Media Enterprise at IBC 2026 … The post IBC: Mediagenix To Showcase Real-Time…",
@@ -176,6 +264,17 @@
     "imageUrl": ""
   },
   {
+    "title": "Olympic Mountain Glory",
+    "link": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+    "summary": "Snow-capped mountains carved by deep river valleys preside over northwestern Washington state.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 23 Jul 2026 04:01:00 +0000",
+    "timestamp": 1784779260.0,
+    "isoDate": "2026-07-23T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/olympic-mountain-glory/ISS047-E-104144.jpg?w=2160&h=1008&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Waverunner Automates Cross-Platform Advertising For Small Businesses",
     "link": "https://tvnewscheck.com/ai/article/waverunner-automates-cross-platform-advertising-for-small-businesses/",
     "summary": "Small businesses can now launch coordinated ad campaigns across web, mobile and streaming TV with a single daily budget using Waverunner, a new offering from Adwave, an AI-powered advertising platform. … The post Waverunner Automates Cross-…",
@@ -242,6 +341,17 @@
     "imageUrl": ""
   },
   {
+    "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+    "link": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+    "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind tunnel in more than 40 y…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 22 Jul 2026 18:47:05 +0000",
+    "timestamp": 1784746025.0,
+    "isoDate": "2026-07-22T18:47:05+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026.jpg?w=2048"
+  },
+  {
     "title": "Trail Blazers Slash Broadcast Team As Dundon Keeps Cutting Costs",
     "link": "https://tvnewscheck.com/journalism/article/trail-blazers-slash-broadcast-team-as-dundon-keeps-cutting-costs/",
     "summary": "Dundon continues to lay off employees and reduce costs after his March takeover. The post Trail Blazers Slash Broadcast Team As Dundon Keeps Cutting Costs appeared first on TV News Check.",
@@ -275,59 +385,59 @@
     "imageUrl": ""
   },
   {
-    "title": "World Cup May Be Over, But Fox Sports CEO Eric Shanks Thinks Hydration Breaks Could Return",
-    "link": "https://tvnewscheck.com/programming/article/world-cup-may-be-over-but-fox-sports-ceo-eric-shanks-thinks-hydration-breaks-could-return/",
-    "summary": "The World Cup wrapped over the weekend, but the TV industry may well be kicking it around for quite some time. The post World Cup May Be Over, But Fox Sports CEO Eric Shanks Thinks Hydration Breaks Could Return appeared first on TV News Che…",
-    "source": "TV News Check",
+    "title": "Robotic Servicing Mission Launches with NASA Support",
+    "link": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
+    "summary": "Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en route to geosynchrono…",
+    "source": "NASA",
     "category": "graphics",
-    "timeAgo": "Wed, 22 Jul 2026 18:22:19 +0000",
-    "timestamp": 1784744539.0,
-    "isoDate": "2026-07-22T18:22:19+00:00",
-    "imageUrl": ""
+    "timeAgo": "Wed, 22 Jul 2026 18:04:15 +0000",
+    "timestamp": 1784743455.0,
+    "isoDate": "2026-07-22T18:04:15+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/20260721-cc-mrv-mep-curbh-img-0499.jpg?w=2048"
   },
   {
-    "title": "Dixon Q. Dern, Entertainment Lawyer Who Represented Desilu And Helped Get CAA Off The Ground, Dies At 97",
-    "link": "https://www.hollywoodreporter.com/business/business-news/dixon-dern-desilu-caa-lawyer-1236653649/",
-    "summary": "The post Dixon Q. Dern, Entertainment Lawyer Who Represented Desilu And Helped Get CAA Off The Ground, Dies At 97 appeared first on TV News Check.",
-    "source": "TV News Check",
+    "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return",
+    "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
+    "summary": "Editor’s Note: This advisory was updated on July 23, 2026, to reflect changes to the mission timeline. NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboar…",
+    "source": "NASA",
     "category": "graphics",
-    "timeAgo": "Wed, 22 Jul 2026 18:15:22 +0000",
-    "timestamp": 1784744122.0,
-    "isoDate": "2026-07-22T18:15:22+00:00",
-    "imageUrl": ""
+    "timeAgo": "Wed, 22 Jul 2026 17:17:43 +0000",
+    "timestamp": 1784740663.0,
+    "isoDate": "2026-07-22T17:17:43+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/williams.jpg?w=2048"
   },
   {
-    "title": "‘The Late Show’ Sign Pops Up In West Hollywood",
-    "link": "https://tvnewscheck.com/programming/article/the-late-show-sign-pops-up-in-west-hollywood/",
-    "summary": "The famous 12-foot illuminated marquee was auctioned off after Stephen Colbert’s talk show was yanked off the air. Now it's landed at a bistro on La Cienega. The post ‘The Late Show’ Sign Pops Up In West Hollywood appeared first on TV News …",
-    "source": "TV News Check",
+    "title": "A New Look – and Sound – for Messier 94",
+    "link": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
+    "summary": "NASA’s Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026. Messier 94 is a spiral galaxy with a bright inner ring around it, called a starburst ring, where new stars are formi…",
+    "source": "NASA",
     "category": "graphics",
-    "timeAgo": "Wed, 22 Jul 2026 18:12:38 +0000",
-    "timestamp": 1784743958.0,
-    "isoDate": "2026-07-22T18:12:38+00:00",
-    "imageUrl": ""
+    "timeAgo": "Wed, 22 Jul 2026 16:45:52 +0000",
+    "timestamp": 1784738752.0,
+    "isoDate": "2026-07-22T16:45:52+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/250th-ngc4736.jpg?w=864"
   },
   {
-    "title": "Spectrum Reach Expands Operations In New York",
-    "link": "https://tvnewscheck.com/business/article/spectrum-reach-expands-operations-in-new-york/",
-    "summary": "Charter's ad sales business will provide many of the products and services of New York Interconnect which will cease operations on Sept.28. The post Spectrum Reach Expands Operations In New York appeared first on TV News Check.",
-    "source": "TV News Check",
+    "title": "Mapping Io’s Hidden Heat With NASA’s Juno",
+    "link": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
+    "summary": "Description This graphic illustrates the areas of Jupiter’s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA’s Juno spacecraft during two close flybys. The black overlapping lines show the instrument’s footprints dur…",
+    "source": "NASA",
     "category": "graphics",
-    "timeAgo": "Wed, 22 Jul 2026 18:01:20 +0000",
-    "timestamp": 1784743280.0,
-    "isoDate": "2026-07-22T18:01:20+00:00",
-    "imageUrl": ""
+    "timeAgo": "Wed, 22 Jul 2026 15:00:19 +0000",
+    "timestamp": 1784732419.0,
+    "isoDate": "2026-07-22T15:00:19+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png?w=1307&h=1188&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
-    "title": "IAB Tech Lab Updates Podcast Technical Measurement Guidelines",
-    "link": "https://www.tvtechnology.com/platform/streaming/iab-tech-lab-updates-podcast-technical-measurement-guidelines",
-    "summary": "The post IAB Tech Lab Updates Podcast Technical Measurement Guidelines appeared first on TV News Check.",
-    "source": "TV News Check",
+    "title": "NASA’s Juno Peers Beneath Io’s Surface",
+    "link": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
+    "summary": "Description This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of Jupiter’s moon Io. While infrared instruments measure the temperature of …",
+    "source": "NASA",
     "category": "graphics",
-    "timeAgo": "Wed, 22 Jul 2026 17:58:20 +0000",
-    "timestamp": 1784743100.0,
-    "isoDate": "2026-07-22T17:58:20+00:00",
-    "imageUrl": ""
+    "timeAgo": "Wed, 22 Jul 2026 14:58:58 +0000",
+    "timestamp": 1784732338.0,
+    "isoDate": "2026-07-22T14:58:58+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png?w=1339&h=813&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Video display technology and graphics workflows for smaller venues",
