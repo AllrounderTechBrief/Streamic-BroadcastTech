@@ -1,5 +1,16 @@
 [
   {
+    "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+    "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Jul 2026 12:20:57 +0530",
+    "timestamp": 1784875857.0,
+    "isoDate": "2026-07-24T06:50:57+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCA0-yh9EAnhFa2V3NzQVw2m-sLgbCNVQ8GVMBX4Y6vUNwPXE-vHzdJLFKXVi3rdGXhx5RawHTwox7cd9ph20u5qn_H8TJUOKG8nITccTkzqfiyBKStdCgcrJOgAeGf9Mkzr1g8iCB0HrpuonkIQQTx15L2P53RPX9GeMYVIuvl51jJ2hn1jn0PcQARQaj/s1600/notepad-malware-code.jpg"
+  },
+  {
     "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
     "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
     "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the passwo…",
@@ -90,7 +101,7 @@
   {
     "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
     "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-    "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red …",
+    "summary": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat …",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Thu, 23 Jul 2026 13:34:35 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1784633090.0,
     "isoDate": "2026-07-21T11:24:50+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg"
-  },
-  {
-    "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-    "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-    "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CV…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Jul 2026 14:29:30 +0530",
-    "timestamp": 1784624370.0,
-    "isoDate": "2026-07-21T08:59:30+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4qOga3YGcLZ3JclK_mkOkQ-pRmQowUUqu6Hp3fj1QTmsNuuhkSj4OiFqgAtL7e6yeGkv-K1jC0v4bRayI40oDQ8UMeYishuNzRap3E5RYmIEbjRbmq-uAk4iWKWwIfMdNi6owJrVWE_3fcWzj5lZgVm9P96ddcqghwnp3rGx3pM3N6hck6UiaFUgVRbtC/s1600/wordpress-ex.jpg"
   }
 ]
