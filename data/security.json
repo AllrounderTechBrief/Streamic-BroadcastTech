@@ -1,5 +1,27 @@
 [
   {
+    "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+    "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+    "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source cod…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Jul 2026 13:11:06 +0530",
+    "timestamp": 1784878866.0,
+    "isoDate": "2026-07-24T07:41:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixTLaT7NCY3UuotqW1AHLiB1xN5K-nlqtpnOav_n7PWHNWWZmrSmmPTzmL6oA7N7dOgwSGxEbbBq90Q3OVK6wF2PSXdXLs7mKmBYc1dEBIc64Qsq6XEl7rYbv5PjRMViYiGXr8-ypMSs0ZJv_rJXqSWIbS4FVTuIphO7g9IfC0MG6m5dDXPXJoz7iezck/s1600/nodebb.jpg"
+  },
+  {
+    "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+    "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+    "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 ch…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Jul 2026 12:28:27 +0530",
+    "timestamp": 1784876307.0,
+    "isoDate": "2026-07-24T06:58:27+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TE9DH98zjhcQPB99o9CcCvYH1otVTUwpXl_9Af1Nbl89gqHBAqP2jtb-BFrmXdR-4OYmPOGJJoilFiac2ooKHM5Lbe_kD5kLpW1eRcdpOWsG53701lGhFi93e0UpvGrptdb2usksom4mF56GWE1of2M7KsmAZav9cENd90xYAVz7Dq3yPIBJEODDDaQ/s1600/redis-0day.jpg"
+  },
+  {
     "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
     "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
     "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by t…",
@@ -19,7 +41,7 @@
     "timeAgo": "Fri, 24 Jul 2026 00:06:08 +0530",
     "timestamp": 1784831768.0,
     "isoDate": "2026-07-23T18:36:08+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlA3Ln3fk8yzrfLwR9egB99u67BL7NlRui9XkKviyXhFmZ3sYVTF5laSjHTwyphN51YvL39R0irNNPn2hDpVcn6EFi_NmuuSH3XTS9I71aPdZvgZRTOxXczmyqbSkcpqSy2TgOzSSJ0RzAyeQA4YXED73kIChZFtiuZ1fIVzCFvDJK4bEJ5M6Sj-qPeI/s1600/zimbra-email.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkCZuPeRyg1ChSuRUngYAxHTfN5dCHgGrSaCg3hA40XvmX2vRmKxgGJ7Pzli72_i9XK9XgCQhhRNK5dE3XJ_EklUH_Nzoqx4YLy7NeKSHB4RCd4KkdhrCB1vdEEcGsgnzumTMwi3_J4BxsGc3t0pjb2mhjkHfBcF5PDUqTe9F0wZPaC94Y6AwMXICZ9E/s1600/zimbra-exploit.jpg"
   },
   {
     "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
@@ -306,27 +328,5 @@
     "timestamp": 1784635080.0,
     "isoDate": "2026-07-21T11:58:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg"
-  },
-  {
-    "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-    "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-    "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Jul 2026 17:12:23 +0530",
-    "timestamp": 1784634143.0,
-    "isoDate": "2026-07-21T11:42:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg"
-  },
-  {
-    "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-    "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-    "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejian…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Jul 2026 16:54:50 +0530",
-    "timestamp": 1784633090.0,
-    "isoDate": "2026-07-21T11:24:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg"
   }
 ]
