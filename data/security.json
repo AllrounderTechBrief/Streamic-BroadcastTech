@@ -1,5 +1,38 @@
 [
   {
+    "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+    "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+    "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Jul 2026 17:00:00 +0530",
+    "timestamp": 1784892600.0,
+    "isoDate": "2026-07-24T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg"
+  },
+  {
+    "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+    "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+    "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax co…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Jul 2026 15:45:29 +0530",
+    "timestamp": 1784888129.0,
+    "isoDate": "2026-07-24T10:15:29+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qmYxOjHl19UJl8lK9TMJt86it1bULCh3SK1wSiD4JjiKU98fsHnko_QWzUWuG2ZmoHG7yxLrIgSTFRCKep1Ebj0JAH8xuTLFP_aIzGpTobs7C8u5OKGGTq79vqkHpY_Iy6LIEG-AHv-_uSJTVt2kxapGAu7qjfgiT4qpIAtnlfK3bR8he5-dubMNLYs/s1600/hermes-agent.jpg"
+  },
+  {
+    "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+    "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+    "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into thei…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 24 Jul 2026 15:39:24 +0530",
+    "timestamp": 1784887764.0,
+    "isoDate": "2026-07-24T10:09:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6m42WBQBHda1ntTqYkaxPyEiKYjc2xnTFIawfUcAxMuYQ_HtOz3ebO0HTtt3qyhUIIg8NB8W92WIfldPiOjZKCY1_aTGfgWq2NnZOhrgoU_Z8y8rtfVxCdJuc1QL94IcLm0IF_h-euFZydB5Qc8z4ifT-lx84glPyRnfTX8-R31O_0aswgRZR0uUTxs1/s1600/malwares.jpg"
+  },
+  {
     "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
     "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
     "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source cod…",
@@ -295,38 +328,5 @@
     "timestamp": 1784645871.0,
     "isoDate": "2026-07-21T14:57:51+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiY-8bLYm125By8D7AuLG0iHjE5hB2_ysYdB1WkSc0wxB_virPrL19JZ0Ow8Nzsu0DkoTWboikIsKEyDs9393o1yaFJ0LZMFy64Hzk4XGzOqnpjJMgptlxVsHnmDm6twDSVhCkT1HFTFVmDW2zvlmz3qvQP9vftatDZFCw_GvauRT_2yEF-REvZlXyb_I/s1600/sharepoint.jpg"
-  },
-  {
-    "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-    "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-    "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Jul 2026 19:34:57 +0530",
-    "timestamp": 1784642697.0,
-    "isoDate": "2026-07-21T14:04:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1HNhUk3hMm0HOAQBAVExGT5-PQfrxeAtKrKRpG_eaXz5qEtVKiuH4-nOVMVdbtZ5XVzfk-hM-eFwpS0IAZNpGkp2DmE4wiNauEA3GT-t1UtLNGjtyVuDRPezJSyj4jEw8zeNgoPnyloZe_6K_vM1-nfYYoehFdoWRgVzVnmJUF3wwfamG0BgDdN1BvMJ/s1600/ransomware-attack.jpg"
-  },
-  {
-    "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-    "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-    "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Jul 2026 18:48:31 +0530",
-    "timestamp": 1784639911.0,
-    "isoDate": "2026-07-21T13:18:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_Q67gFWBtG5q7zVuyna7iJj3lSm-UQRoMsami8jaf-WYMCXqQlVprQ_ifyXx-PqJg2chDHN3KrFppnZSvejTvSco4kN-P_S4U3vKQHNtvZ48g5wftlSILrMulX1WUMOeeybU4apJ5Iv8BM6ipceEVGSJucR7yRJZguIrfTUaCbbHqefGt6o2BkHrJqV0/s1600/zimbra.jpg"
-  },
-  {
-    "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-    "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-    "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 21 Jul 2026 17:28:00 +0530",
-    "timestamp": 1784635080.0,
-    "isoDate": "2026-07-21T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg"
   }
 ]
