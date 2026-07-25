@@ -1,5 +1,16 @@
 [
   {
+    "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+    "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+    "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 26 Jul 2026 00:18:44 +0530",
+    "timestamp": 1785005324.0,
+    "isoDate": "2026-07-25T18:48:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
+  },
+  {
     "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
     "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
     "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the…",
@@ -317,16 +328,5 @@
     "timestamp": 1784723796.0,
     "isoDate": "2026-07-22T12:36:36+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnFuvwtbu7JlyR-HJX7Eyz41wIZYMuzDLiZ1XlV2ipWOE-d2aPRZkYZn8nCWJynhewu3iTAR8H15UaKqmeAMkb85_m2NpSjRyaNlp6gTgKwswcVtwzjQ8A6pQXESU-AIwRUf6qUkeVDewHfGovPjgN0lKC2lHBb3dkSJGs3NYhmv5_QawPER0P4xFGpHf/s1600/git.jpg"
-  },
-  {
-    "title": "The Fastest Path to AI Adoption Runs Through Security",
-    "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-    "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 22 Jul 2026 17:28:00 +0530",
-    "timestamp": 1784721480.0,
-    "isoDate": "2026-07-22T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg"
   }
 ]
