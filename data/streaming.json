@@ -1,6 +1,6 @@
 [
   {
-    "title": "We’re open sourcing our privacy proxy CLI",
+    "title": "We’re open-sourcing our privacy proxy CLI",
     "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
     "summary": "pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP.",
     "source": "The Cloudflare Blog",
