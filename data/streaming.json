@@ -1,5 +1,16 @@
 [
   {
+    "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption event",
+    "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/",
+    "summary": "Cloudflare Radar tracked Internet disruptions driven by natural disasters, government-mandated shutdowns, and DNSSEC key rollovers over the last quarter. This blog post analyzes traffic telemetry to explain how these events impacted global …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 28 Jul 2026 13:00:00 GMT",
+    "timestamp": 1785243600.0,
+    "isoDate": "2026-07-28T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "We’re open-sourcing our privacy proxy CLI",
     "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
     "summary": "pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP.",
@@ -239,17 +250,6 @@
     "timeAgo": "Thu, 25 Jun 2026 13:00:00 GMT",
     "timestamp": 1782392400.0,
     "isoDate": "2026-06-25T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
-    "link": "https://blog.cloudflare.com/oauth-for-all/",
-    "summary": "Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 24 Jun 2026 06:00:00 GMT",
-    "timestamp": 1782280800.0,
-    "isoDate": "2026-06-24T06:00:00+00:00",
     "imageUrl": ""
   },
   {
