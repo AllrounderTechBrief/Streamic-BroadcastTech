@@ -1,5 +1,16 @@
 [
   {
+    "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+    "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+    "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 29 Jul 2026 00:29:07 +0530",
+    "timestamp": 1785265147.0,
+    "isoDate": "2026-07-28T18:59:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhJ6dzEL23Ak57nA_XsbXtGaxl5wNrcGBPMQBVz1jddDuX_oTndpQjl3omqMxhRnQ1P4cSF7Ut18tccLFT2BxngpYTqTP8Kg6f4clFWRQ2GvxetR-uAGjMS2SsZwsiPcq5vyxCmP_AN3rCPvO5WMQeLNEit0q14i0iY9wuIUDAHMXkyvO3KjIC6c6Ozg/s1600/Claude.jpg"
+  },
+  {
     "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
     "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
     "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it…",
@@ -317,16 +328,5 @@
     "timestamp": 1784892600.0,
     "isoDate": "2026-07-24T11:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg"
-  },
-  {
-    "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-    "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-    "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax co…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 24 Jul 2026 15:45:29 +0530",
-    "timestamp": 1784888129.0,
-    "isoDate": "2026-07-24T10:15:29+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qmYxOjHl19UJl8lK9TMJt86it1bULCh3SK1wSiD4JjiKU98fsHnko_QWzUWuG2ZmoHG7yxLrIgSTFRCKep1Ebj0JAH8xuTLFP_aIzGpTobs7C8u5OKGGTq79vqkHpY_Iy6LIEG-AHv-_uSJTVt2kxapGAu7qjfgiT4qpIAtnlfK3bR8he5-dubMNLYs/s1600/hermes-agent.jpg"
   }
 ]
