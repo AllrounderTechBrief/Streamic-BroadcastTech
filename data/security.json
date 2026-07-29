@@ -1,5 +1,16 @@
 [
   {
+    "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+    "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+    "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 29 Jul 2026 23:40:00 +0530",
+    "timestamp": 1785348600.0,
+    "isoDate": "2026-07-29T18:10:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg"
+  },
+  {
     "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
     "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
     "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, t…",
@@ -317,16 +328,5 @@
     "timestamp": 1785155869.0,
     "isoDate": "2026-07-27T12:37:49+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ69OB4Ww_Yj5rfCn7WOwEue0i4sxEuvzaqGj1v71E-W52Q6DDfFRKpesydsd2bD9_QQVghes677fGD0S-PJpJQOz10JYs_NV6wv5peadJtT-dbxFzl7eMqaavlrBl0OfePVtGIm9WvI-rEAAUcDqdFdYcBF6ByDv4iPSCzLZgbuzg0Nb-ASL0uzTb90Ag/s1600/teams-malware.jpg"
-  },
-  {
-    "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-    "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-    "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra. Acco…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 27 Jul 2026 16:21:45 +0530",
-    "timestamp": 1785149505.0,
-    "isoDate": "2026-07-27T10:51:45+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg"
   }
 ]
