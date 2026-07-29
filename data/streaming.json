@@ -1,5 +1,16 @@
 [
   {
+    "title": "Post-quantum authentication to origins is now supported",
+    "link": "https://blog.cloudflare.com/post-quantum-authentication-to-origins/",
+    "summary": "Cloudflare now supports post-quantum (PQ) authentication when connecting to customer origin servers via Authenticated Origin Pulls and Custom Origin Trust Store. This is the first step towards providing PQ authentication for all Cloudflare …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 29 Jul 2026 13:00:00 GMT",
+    "timestamp": 1785330000.0,
+    "isoDate": "2026-07-29T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
     "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/",
     "summary": "Cloudflare Radar tracked Internet disruptions driven by natural disasters, government-mandated shutdowns, and DNSSEC key rollovers over the last quarter. This post analyzes traffic telemetry to explain how these events impacted global conne…",
@@ -240,17 +251,6 @@
     "timestamp": 1782770680.0,
     "isoDate": "2026-06-29T22:04:40+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/28/How-5-migrated-to-AWS-Elemental-MediaPackage-v2.png"
-  },
-  {
-    "title": "How we built saga rollbacks for Cloudflare Workflows",
-    "link": "https://blog.cloudflare.com/rollbacks-for-workflows/",
-    "summary": "Cloudflare Workflows, our durable execution engine for multi-step applications, now supports saga-style rollbacks, allowing developers to specify a compensating action for each step.do().",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 25 Jun 2026 13:00:00 GMT",
-    "timestamp": 1782392400.0,
-    "isoDate": "2026-06-25T13:00:00+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Sony Marketing Inc. built Cloud-based live video production for sports events with AWS Elemental MediaConnect Router",
