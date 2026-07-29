@@ -1,5 +1,16 @@
 [
   {
+    "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+    "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
+    "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 29 Jul 2026 16:30:00 +0530",
+    "timestamp": 1785322800.0,
+    "isoDate": "2026-07-29T11:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg"
+  },
+  {
     "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
     "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
     "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active…",
@@ -317,16 +328,5 @@
     "timestamp": 1784974443.0,
     "isoDate": "2026-07-25T10:14:03+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg"
-  },
-  {
-    "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-    "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-    "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersec…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 25 Jul 2026 15:23:41 +0530",
-    "timestamp": 1784973221.0,
-    "isoDate": "2026-07-25T09:53:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg"
   }
 ]
