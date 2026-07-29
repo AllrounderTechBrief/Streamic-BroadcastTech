@@ -1,5 +1,16 @@
 [
   {
+    "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+    "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+    "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 29 Jul 2026 09:50:57 +0530",
+    "timestamp": 1785298857.0,
+    "isoDate": "2026-07-29T04:20:57+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg"
+  },
+  {
     "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
     "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
     "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice …",
@@ -317,16 +328,5 @@
     "timestamp": 1784893517.0,
     "isoDate": "2026-07-24T11:45:17+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirbs2h3QyfDG1ChFBHv8CQNwf9JrDdDWLaZ0AZ2WTiJrsjmmeQUXSFc8FM4OvPgxDig-z2H1Di7OMqCC_0mHbicAvDw6TGF-1jWihJ458GYQBKznb3VOehlOPqWfALnkz8k3DBfehWG2z5nmpu77OgRxJ1iQxL7lsrd1IH3YR6ZHPpSUns-tdmDYScHck/s1600/bing-image.jpg"
-  },
-  {
-    "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-    "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-    "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 24 Jul 2026 17:00:00 +0530",
-    "timestamp": 1784892600.0,
-    "isoDate": "2026-07-24T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg"
   }
 ]
