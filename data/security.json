@@ -1,5 +1,27 @@
 [
   {
+    "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+    "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+    "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Micros…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 30 Jul 2026 17:24:49 +0530",
+    "timestamp": 1785412489.0,
+    "isoDate": "2026-07-30T11:54:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s1600/copilot-word.jpg"
+  },
+  {
+    "title": "The Network Has Become the Control Plane for AI Security",
+    "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+    "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a r…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 30 Jul 2026 17:02:46 +0530",
+    "timestamp": 1785411166.0,
+    "isoDate": "2026-07-30T11:32:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg"
+  },
+  {
     "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
     "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
     "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect target…",
@@ -306,27 +328,5 @@
     "timestamp": 1785225884.0,
     "isoDate": "2026-07-28T08:04:44+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgBRFXQr7hvRBIkSC-vqaka7UlRsU8Y380TbDC3jFpFlSlCK1RuVthJDLKt5KaNzAn82kMBNUWPp5s1Voug8ptjn0DiHoxbzw9QdoKXhFfR9SR9zCm1uYeE43tZUba0H7F-mlLogft-qyvtdggSASBR8qAxrRK3U3uPzvf_bkRmJPNzcWX-vfb7qW0VD8/s1600/linux.jpg"
-  },
-  {
-    "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-    "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-    "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It als…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 28 Jul 2026 11:37:22 +0530",
-    "timestamp": 1785218842.0,
-    "isoDate": "2026-07-28T06:07:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg"
-  },
-  {
-    "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-    "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-    "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating s…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 28 Jul 2026 10:13:53 +0530",
-    "timestamp": 1785213833.0,
-    "isoDate": "2026-07-28T04:43:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg"
   }
 ]

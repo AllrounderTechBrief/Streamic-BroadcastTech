@@ -1,5 +1,16 @@
 [
   {
+    "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
+    "link": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
+    "summary": "We moved cdnjs, serving 9 billion requests a day, entirely onto Cloudflare's Developer Platform. That means we’re running one of the Internet's busiest open-source CDNs on our own building blocks, and we pushed Workflows and Workers limits …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 30 Jul 2026 13:00:00 GMT",
+    "timestamp": 1785416400.0,
+    "isoDate": "2026-07-30T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Post-quantum authentication to origins is now supported",
     "link": "https://blog.cloudflare.com/post-quantum-authentication-to-origins/",
     "summary": "Cloudflare now supports post-quantum (PQ) authentication when connecting to customer origin servers via Authenticated Origin Pulls and Custom Origin Trust Store. This is the first step towards providing PQ authentication for all Cloudflare …",
@@ -212,17 +223,6 @@
     "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
     "link": "https://blog.cloudflare.com/monetization-gateway/",
     "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stac…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
-    "timestamp": 1782910800.0,
-    "isoDate": "2026-07-01T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
-    "link": "https://blog.cloudflare.com/agentic-internet-bot-report/",
-    "summary": "One year after declaring Content Independence Day, a dynamic market for monetized content has officially emerged. In this report, we examine how the rise of autonomous AI agents is upending traditional search referrals and detail the new in…",
     "source": "The Cloudflare Blog",
     "category": "streaming",
     "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
