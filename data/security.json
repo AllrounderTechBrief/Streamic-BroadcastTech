@@ -1,5 +1,38 @@
 [
   {
+    "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+    "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+    "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European governm…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 30 Jul 2026 13:10:48 +0530",
+    "timestamp": 1785397248.0,
+    "isoDate": "2026-07-30T07:40:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHLuK9rcrkKZxWdmWf50USFH75iYP3nViQrL7sP_6gBJUipIQfUTU0XmA2xnOTR57ZCQWd83Y2joLatEV3XVV10ph4uQV7LrrYLzDCfW4dBiDyvVtpyhD3fgrGY7J2hFbNtCzzp4CGU7DxDYCxnuzJtgCJKCMFuRxloks-iW4dXJlZADetaMQK5rZiUKF/s1600/outlook.jpg"
+  },
+  {
+    "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+    "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+    "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for im…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 30 Jul 2026 12:58:43 +0530",
+    "timestamp": 1785396523.0,
+    "isoDate": "2026-07-30T07:28:43+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s1600/robots.jpg"
+  },
+  {
+    "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+    "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+    "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 30 Jul 2026 11:35:17 +0530",
+    "timestamp": 1785391517.0,
+    "isoDate": "2026-07-30T06:05:17+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1600/northkorean-npm.jpg"
+  },
+  {
     "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
     "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, follo…",
@@ -295,38 +328,5 @@
     "timestamp": 1785172588.0,
     "isoDate": "2026-07-27T17:16:28+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg"
-  },
-  {
-    "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-    "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-    "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interac…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 27 Jul 2026 20:10:00 +0530",
-    "timestamp": 1785163200.0,
-    "isoDate": "2026-07-27T14:40:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-    "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-    "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 27 Jul 2026 19:40:54 +0530",
-    "timestamp": 1785161454.0,
-    "isoDate": "2026-07-27T14:10:54+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZShQJv7u2hWKu_7xOJWw1-8rjxg7jwXoaFDJqqKPTzPa2-u608uDu_uxZ4fn2DmullQ7Kkx6YUIbjK0cKuZNxaQuirr5icArrmvx70FFuvnWkrxulAHi-_chuqNvTCWtBGyS7qkCnGh28qubTDmQC_YCmj8Q77Y_bp7McFTJlAv9oT5KqPRUGxlVoXli8/s1600/recap-thn.jpg"
-  },
-  {
-    "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
-    "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-    "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's Febr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 27 Jul 2026 18:35:15 +0530",
-    "timestamp": 1785157515.0,
-    "isoDate": "2026-07-27T13:05:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg"
   }
 ]
