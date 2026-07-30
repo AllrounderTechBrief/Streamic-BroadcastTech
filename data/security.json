@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+    "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, follo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 30 Jul 2026 10:38:39 +0530",
+    "timestamp": 1785388119.0,
+    "isoDate": "2026-07-30T05:08:39+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg"
+  },
+  {
     "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
     "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
     "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), …",
@@ -317,16 +328,5 @@
     "timestamp": 1785157515.0,
     "isoDate": "2026-07-27T13:05:15+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg"
-  },
-  {
-    "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
-    "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-    "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through compromised web infr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 27 Jul 2026 18:07:49 +0530",
-    "timestamp": 1785155869.0,
-    "isoDate": "2026-07-27T12:37:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ69OB4Ww_Yj5rfCn7WOwEue0i4sxEuvzaqGj1v71E-W52Q6DDfFRKpesydsd2bD9_QQVghes677fGD0S-PJpJQOz10JYs_NV6wv5peadJtT-dbxFzl7eMqaavlrBl0OfePVtGIm9WvI-rEAAUcDqdFdYcBF6ByDv4iPSCzLZgbuzg0Nb-ASL0uzTb90Ag/s1600/teams-malware.jpg"
   }
 ]
