@@ -1,5 +1,38 @@
 [
   {
+    "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+    "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
+    "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 31 Jul 2026 16:54:59 +0530",
+    "timestamp": 1785497099.0,
+    "isoDate": "2026-07-31T11:24:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJN4Z-p-XmpB_1nwgfCMj2JvWAmGP4avhjI3pBYb11kgANQy4wQf2DQ4VGJEXom4eZCFoqVozP4aJPPtpGufYrEe5E9xkebmctud6KO7NZEfNCiT14ln7CmZA1bB3m6HYNdiUnShVsIpr03SYa7jlZWnbml9R1HbqECSbnUH0DTqyETz1fpiNIqhExw/s1600/push-main.jpg"
+  },
+  {
+    "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+    "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+    "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 31 Jul 2026 16:51:27 +0530",
+    "timestamp": 1785496887.0,
+    "isoDate": "2026-07-31T11:21:27+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2dGysHIR6yJWx6hMxq6lAct7fi4YTury_WDkrcenDv-psd-fU7I8K3RbM6Blox_5OE3MQojew5bnPamtI_DPzdBX6fOk295hhQh6rBkA2f9a1sN7t7ZbSyU-kWdLoIb7XnseOHKPmLOGRb9wRRvmV0scVZ4rhMtxSmqOLZmZIUjtg_IHT4FBg5gzeX50/s1600/deepseek-telegram.jpg"
+  },
+  {
+    "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+    "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+    "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecuri…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 31 Jul 2026 12:11:44 +0530",
+    "timestamp": 1785480104.0,
+    "isoDate": "2026-07-31T06:41:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3hIjH82iCzMILnA0uACotjW9waDLj4siTRhyphenhyphenBSiVyis0Ul0j7-7FcWyDzmCAzZPLJ72iYRezpbd9dUAB_UMw5G4eMBRwph0Sb_aQr9yCRXeLXAkjGiNFekM_qDtOZNFsSk6LLC81Ef74JaqIrcJN58-5p2ShHmUuhKC1IYeVgpQ7D76NWXLnR44RN6G6/s1600/claude.jpg"
+  },
+  {
     "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
     "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
     "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of…",
@@ -295,38 +328,5 @@
     "timestamp": 1785250893.0,
     "isoDate": "2026-07-28T15:01:33+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zv7PihU6xAba7-fb5OY-Xv5YIEPM1HhmCu2ET65l5TSKYrPh6q4pYVQRNJtHb9RkvO1oNsBBrsxs50Hm_GRnPKCu4XoG1hhtPOoeGILfRHN99ICGSO72NOGQ6AdUc_haCrQvHRUn4YiyFmCy99WgH1v4-4GRLirZzsV1b5MmCjfTX3a2yWmg1tWOr38/s1600/tengu-botnet.jpg"
-  },
-  {
-    "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-    "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-    "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 28 Jul 2026 20:11:36 +0530",
-    "timestamp": 1785249696.0,
-    "isoDate": "2026-07-28T14:41:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s1600/bmcs.jpg"
-  },
-  {
-    "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-    "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-    "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 28 Jul 2026 19:03:47 +0530",
-    "timestamp": 1785245627.0,
-    "isoDate": "2026-07-28T13:33:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s1600/openai-0day.jpg"
-  },
-  {
-    "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-    "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-    "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in O…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 28 Jul 2026 18:26:14 +0530",
-    "timestamp": 1785243374.0,
-    "isoDate": "2026-07-28T12:56:14+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmz4Rv-IWcHYP4Y_-WINLECGsPviBOTJXEPhvz2mO671_s8c1Rao7iErkNghWYtomczRf82scnXyzrBTAIc4urvwSlv3j4AK1XaEw75WVsIfXLfNDQd1JGUoVRWW50H48KA3VxzAbL1KTuf3sKCgzmSE3toXbqcIA-N5vwN4A_wcmRdwDLBSJbBpmmME/s1600/OpenWrt.jpg"
   }
 ]
