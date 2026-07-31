@@ -1,5 +1,16 @@
 [
   {
+    "title": "An API for MoQ: provision your own isolated relays",
+    "link": "https://blog.cloudflare.com/moq-relays/",
+    "summary": "Last year we made every Cloudflare server a Media over QUIC (MoQ) relay. Now the new provisioning API lets you create your own isolated relay and control who can publish and who can only watch.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 31 Jul 2026 13:00:00 GMT",
+    "timestamp": 1785502800.0,
+    "isoDate": "2026-07-31T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
     "link": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
     "summary": "We moved cdnjs, serving 9 billion requests a day, entirely onto Cloudflare's Developer Platform. That means we’re running one of the Internet's busiest open-source CDNs on our own building blocks, and we pushed Workflows and Workers limits …",
@@ -212,17 +223,6 @@
     "title": "Your site, your rules: new AI traffic options for all customers",
     "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
     "summary": "For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside t…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
-    "timestamp": 1782910800.0,
-    "isoDate": "2026-07-01T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
-    "link": "https://blog.cloudflare.com/monetization-gateway/",
-    "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stac…",
     "source": "The Cloudflare Blog",
     "category": "streaming",
     "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
