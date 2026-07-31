@@ -1,5 +1,38 @@
 [
   {
+    "title": "ABC News: Inside the move to 7 Hudson Square",
+    "link": "https://www.tvbeurope.com/ip-migration/abc-news-inside-the-move-to-7-hudson-square",
+    "summary": "Along with other subsidiaries of The Walt Disney Company, ABC News recently relocated to a huge new facility in Manhattan. As he retires from ABC after nearly 40 years, engineering head Mike J Strein takes David Davies through the recent tr…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 31 Jul 2026 09:37:32 +0000",
+    "timestamp": 1785490652.0,
+    "isoDate": "2026-07-31T09:37:32+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/ABC-Studios-1-726x409.jpg"
+  },
+  {
+    "title": "NEP Platform adds Riedel’s SimplyLive production suite",
+    "link": "https://www.tvbeurope.com/live-production/nep-platform-adds-riedels-simplylive-production-suite",
+    "summary": "The addition of SimplyLive further expands customer choice while continuing to grow NEP's software ecosystem for media production The post NEP Platform adds Riedel’s SimplyLive production suite appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 31 Jul 2026 08:10:19 +0000",
+    "timestamp": 1785485419.0,
+    "isoDate": "2026-07-31T08:10:19+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "How ITV’s Believe Me used virtual production to drive the story forward",
+    "link": "https://www.tvbeurope.com/virtual-production/how-itvs-believe-me-used-virtual-production-to-drive-the-story-forward",
+    "summary": "Developed by fivefold studios, the virtual production elements used a 30m-wide by 4m-high ROE Visual BP2V2 LED wall driven by four Brompton 4K Tessera SX40 processors The post How ITV’s Believe Me used virtual production to drive the story …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 31 Jul 2026 07:51:57 +0000",
+    "timestamp": 1785484317.0,
+    "isoDate": "2026-07-31T07:51:57+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/fivefold-studios_Believe-Me_5-726x408.jpg"
+  },
+  {
     "title": "What Does the Atlas Lens Co. Mercury Series Look Like on the Sony FX5?",
     "link": "https://www.newsshooter.com/2026/07/31/what-does-the-atlas-lens-co-mercury-series-look-like-on-the-sony-fx5/?utm_source=rss&utm_medium=rss&utm_campaign=what-does-the-atlas-lens-co-mercury-series-look-like-on-the-sony-fx5",
     "summary": "Atlas Lens Co. has posted up a video showing what their Mercury Series 1.5x anamorphics look like when used with the new Sony FX5. The test footage showcases a practical lens test that was filmed at their headquarters in Glendale, Californi…",
@@ -240,38 +273,5 @@
     "timestamp": 1785137866.0,
     "isoDate": "2026-07-27T07:37:46+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/STVR_Sportsstudio_Leyard-Europe_DLS1.2mm_001-726x484.jpeg"
-  },
-  {
-    "title": "New guidance to enhance work-life balance for freelancers",
-    "link": "https://www.tvbeurope.com/business/new-guidance-to-enhance-work-life-balance-for-freelancers",
-    "summary": "The guidance sets out seven key principles aiming to enhance working conditions The post New guidance to enhance work-life balance for freelancers appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 24 Jul 2026 10:34:29 +0000",
-    "timestamp": 1784889269.0,
-    "isoDate": "2026-07-24T10:34:29+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "ITV News debuts first use of AI in current affairs",
-    "link": "https://www.tvbeurope.com/artificial-intelligence/itv-news-debuts-first-use-of-ai-in-current-affairs",
-    "summary": "ITV News and ITN worked with Twinnin to recruit performers who consented to being part of the project, and transform their facial features, body shape and physique using AI prompts to create stylised characters The post ITV News debuts firs…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 24 Jul 2026 09:27:54 +0000",
-    "timestamp": 1784885274.0,
-    "isoDate": "2026-07-24T09:27:54+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/ITV-Exposure-726x408.jpg"
-  },
-  {
-    "title": "YouTube’s World Cup content scores more than 200 billion views",
-    "link": "https://www.tvbeurope.com/media-consumption/youtubes-world-cup-content-scores-more-than-200-billion-views",
-    "summary": "YouTube content accumulated more than 200 billion views throughout the tournament, with a combined 27 million watching Spain beat Argentina in the final The post YouTube’s World Cup content scores more than 200 billion views appeared first …",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 24 Jul 2026 09:17:44 +0000",
-    "timestamp": 1784884664.0,
-    "isoDate": "2026-07-24T09:17:44+00:00",
-    "imageUrl": ""
   }
 ]
