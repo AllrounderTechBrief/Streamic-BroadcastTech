@@ -1,5 +1,27 @@
 [
   {
+    "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+    "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+    "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 01 Aug 2026 00:22:04 +0530",
+    "timestamp": 1785523924.0,
+    "isoDate": "2026-07-31T18:52:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBagWdesuJqVgNAHPh7t75IGrajY_oJeL9HHI7r23AK7CuLUN22-GBwDCWJWTlIutBApsdhSGproqxtR6kV_Dg04FT2zc6vZXZCQed8Kx3bD-jw-VXkYfAHlJsNgcQOcqRFW8TTh1kyN34MisnGx3ImU9vejv_oNy4jN0sPNcPM7jclq7klrMmGrnROjk/s1600/chinese-hackers.jpg"
+  },
+  {
+    "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+    "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+    "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 31 Jul 2026 22:09:31 +0530",
+    "timestamp": 1785515971.0,
+    "isoDate": "2026-07-31T16:39:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg"
+  },
+  {
     "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
     "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
     "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fu…",
@@ -306,27 +328,5 @@
     "timestamp": 1785311460.0,
     "isoDate": "2026-07-29T07:51:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg"
-  },
-  {
-    "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-    "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-    "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gite…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Jul 2026 13:17:19 +0530",
-    "timestamp": 1785311239.0,
-    "isoDate": "2026-07-29T07:47:19+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9I3aoAsUS5yCtKTvSX6LYxjKfJu-RShA1QmcUiBLu760VFfeqd6D4NfH3ttKHoQkfWT57oL0_4KJBovY7nshgiGQ4R5wimWh-2k48f9qjdlJtjKqK0oM5vxquJFPuguLbBkbqzA7xc4NgjQaxkcU7tVSQ0a3GyXreEyvdvR4NmERWPbkiR6Um2thKfY/s1600/Gitea-rce.jpg"
-  },
-  {
-    "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-    "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-    "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet se…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Jul 2026 12:37:23 +0530",
-    "timestamp": 1785308843.0,
-    "isoDate": "2026-07-29T07:07:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg"
   }
 ]
