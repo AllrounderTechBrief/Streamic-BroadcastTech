@@ -1,5 +1,16 @@
 [
   {
+    "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+    "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+    "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious co…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 01 Aug 2026 14:33:07 +0530",
+    "timestamp": 1785574987.0,
+    "isoDate": "2026-08-01T09:03:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg"
+  },
+  {
     "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
     "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
     "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CV…",
@@ -317,16 +328,5 @@
     "timestamp": 1785323590.0,
     "isoDate": "2026-07-29T11:13:10+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg"
-  },
-  {
-    "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-    "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-    "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Jul 2026 16:30:00 +0530",
-    "timestamp": 1785322800.0,
-    "isoDate": "2026-07-29T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg"
   }
 ]
