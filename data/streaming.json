@@ -1,5 +1,60 @@
 [
   {
+    "title": "Your agent needs a computer, not a container — introducing @cloudflare/computer",
+    "link": "https://blog.cloudflare.com/cloudflare-computer/",
+    "summary": "Agents need more than just a container to scale. We're introducing @cloudflare/computer, an agent runtime that dynamically orchestrates between fast, efficient isolates and full Linux containers to give every agent a computer of its own.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 03 Aug 2026 13:15:24 GMT",
+    "timestamp": 1785762924.0,
+    "isoDate": "2026-08-03T13:15:24+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
+    "link": "https://blog.cloudflare.com/grpc-workers/",
+    "summary": "Cloudflare Workers now support inbound TCP connections via Spectrum, allowing direct socket forwarding to Durable Objects and Containers. Developers can run full-duplex gRPC applications or leverage automatic gRPC-to-gRPC-web translation di…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 03 Aug 2026 13:00:00 GMT",
+    "timestamp": 1785762000.0,
+    "isoDate": "2026-08-03T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Introducing the Billable Usage API: programmatic cost visibility for Cloudflare",
+    "link": "https://blog.cloudflare.com/billable-usage-api/",
+    "summary": "Cloudflare has launched a new Billable Usage API for accounts, giving developers and FinOps teams single-endpoint programmatic visibility into cost and usage across all self-serve products. Built around the FOCUS specification, spend can no…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 03 Aug 2026 13:00:00 GMT",
+    "timestamp": 1785762000.0,
+    "isoDate": "2026-08-03T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "summary": "Serving frontier models like Kimi and GLM means fighting for GPU memory. Here's how we quantize KV caches, compress model weights, and add integrity checks to serve them faster, cheaper, and safely.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 03 Aug 2026 13:00:00 GMT",
+    "timestamp": 1785762000.0,
+    "isoDate": "2026-08-03T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Workers RPC now works across Python and JavaScript",
+    "link": "https://blog.cloudflare.com/python-workers-rpc/",
+    "summary": "One coding agent can write a Python Worker and another can write a JavaScript Worker. At runtime, those Workers can exchange references to live objects and call their methods without defining APIs, schemas, or serialization code",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 03 Aug 2026 13:00:00 GMT",
+    "timestamp": 1785762000.0,
+    "isoDate": "2026-08-03T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Welcome to Agents Week",
     "link": "https://blog.cloudflare.com/agents-week-welcome/",
     "summary": "Agents Week explores how cloud infrastructure must evolve to serve autonomous agents rather than human browsers. Join us as we unpack the storage, execution, and security primitives needed for an agent-native web.",
@@ -184,61 +239,6 @@
     "timeAgo": "Thu, 09 Jul 2026 14:00:00 GMT",
     "timestamp": 1783605600.0,
     "isoDate": "2026-07-09T14:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Introducing Meerkat: an experiment in global consensus",
-    "link": "https://blog.cloudflare.com/meerkat-introduction/",
-    "summary": "Cloudflare Research is building a global consensus service called Meerkat that uses a new consensus algorithm called QuePaxa. We plan to use Meerkat to build a strongly consistent, fault-tolerant key-value store, and other applications.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 08 Jul 2026 12:00:00 GMT",
-    "timestamp": 1783512000.0,
-    "isoDate": "2026-07-08T12:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
-    "link": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
-    "summary": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this framewo…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 07 Jul 2026 12:00:00 GMT",
-    "timestamp": 1783425600.0,
-    "isoDate": "2026-07-07T12:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Your Worker can now have its own cache in front of it",
-    "link": "https://blog.cloudflare.com/workers-cache/",
-    "summary": "We are launching Workers Cache, a regionally tiered cache that sits directly in front of your Worker entrypoints. Infinitely composable, configured via standard HTTP headers",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 06 Jul 2026 13:00:00 GMT",
-    "timestamp": 1783342800.0,
-    "isoDate": "2026-07-06T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Making AI search smarter",
-    "link": "https://blog.cloudflare.com/making-ai-search-smarter/",
-    "summary": "Search is how we find nearly everything on the web — creators, merchants, answers. AI is rewriting the rules, leaving creators caught between staying discoverable in an agentic era and getting paid for their work. Today we're launching two …",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 01 Jul 2026 13:00:00 GMT",
-    "timestamp": 1782910800.0,
-    "isoDate": "2026-07-01T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Unmasking the crawls with Attribution Business Insights",
-    "link": "https://blog.cloudflare.com/attribution-business-insights/",
-    "summary": "Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 01 Jul 2026 06:00:00 GMT",
-    "timestamp": 1782885600.0,
-    "isoDate": "2026-07-01T06:00:00+00:00",
     "imageUrl": ""
   },
   {

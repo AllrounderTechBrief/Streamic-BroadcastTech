@@ -1,5 +1,38 @@
 [
   {
+    "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+    "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+    "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automat…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 03 Aug 2026 17:00:00 +0530",
+    "timestamp": 1785756600.0,
+    "isoDate": "2026-08-03T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
+  },
+  {
+    "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+    "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+    "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 03 Aug 2026 16:19:06 +0530",
+    "timestamp": 1785754146.0,
+    "isoDate": "2026-08-03T10:49:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg"
+  },
+  {
+    "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+    "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+    "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to pol…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 03 Aug 2026 14:43:56 +0530",
+    "timestamp": 1785748436.0,
+    "isoDate": "2026-08-03T09:13:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg"
+  },
+  {
     "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
     "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
     "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetec…",
@@ -295,38 +328,5 @@
     "timestamp": 1785348600.0,
     "isoDate": "2026-07-29T18:10:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg"
-  },
-  {
-    "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-    "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-    "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Jul 2026 21:09:30 +0530",
-    "timestamp": 1785339570.0,
-    "isoDate": "2026-07-29T15:39:30+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg"
-  },
-  {
-    "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-    "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-    "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CV…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Jul 2026 21:01:15 +0530",
-    "timestamp": 1785339075.0,
-    "isoDate": "2026-07-29T15:31:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg"
-  },
-  {
-    "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-    "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-    "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly des…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Jul 2026 19:18:36 +0530",
-    "timestamp": 1785332916.0,
-    "isoDate": "2026-07-29T13:48:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg"
   }
 ]
