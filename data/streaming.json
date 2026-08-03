@@ -24,7 +24,7 @@
   {
     "title": "Introducing the Billable Usage API: programmatic cost visibility for Cloudflare",
     "link": "https://blog.cloudflare.com/billable-usage-api/",
-    "summary": "Cloudflare has launched a new Billable Usage API for accounts, giving developers and FinOps teams single-endpoint programmatic visibility into cost and usage across all self-serve products. Built around the FOCUS specification, spend can no…",
+    "summary": "Cloudflare has launched a new Billable Usage API for accounts, giving developers and FinOps teams single-endpoint programmatic visibility into cost and usage across all self-serve products. Built around the FOCUS specification, track spend …",
     "source": "The Cloudflare Blog",
     "category": "streaming",
     "timeAgo": "Mon, 03 Aug 2026 13:00:00 GMT",
