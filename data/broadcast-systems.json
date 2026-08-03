@@ -1,5 +1,49 @@
 [
   {
+    "title": "Opinion: European data sovereignty and the cloud",
+    "link": "https://www.tvbeurope.com/media-management/opinion-european-data-sovereignty-and-the-cloud",
+    "summary": "Media organisations must navigate technical and financial cloud dependencies to maintain data sovereignty, operational independence, and long-term infrastructure control, writes BCNEXXT's Graham Sharp The post Opinion: European data soverei…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 03 Aug 2026 10:39:42 +0000",
+    "timestamp": 1785753582.0,
+    "isoDate": "2026-08-03T10:39:42+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/08/Graham_Sharp.png"
+  },
+  {
+    "title": "Corsair takes minority stake in Bitfocus",
+    "link": "https://www.tvbeurope.com/business/corsair-takes-minority-stake-in-bitfocus",
+    "summary": "The investment will boost the media tech company's growth plans, particularly in Europe and North America The post Corsair takes minority stake in Bitfocus appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 03 Aug 2026 09:33:57 +0000",
+    "timestamp": 1785749637.0,
+    "isoDate": "2026-08-03T09:33:57+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/08/Bitfocus-726x370.jpg"
+  },
+  {
+    "title": "Brandvox scores slam dunk with basketball coverage",
+    "link": "https://www.tvbeurope.com/live-production/brandvox-scores-slam-dunk-with-basketball-coverage",
+    "summary": "Brandvox partnered with Intinor to deliver rhigh-quality, cost-effective remote live broadcasts for 240 Super League Basketball games per season The post Brandvox scores slam dunk with basketball coverage appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 03 Aug 2026 09:09:36 +0000",
+    "timestamp": 1785748176.0,
+    "isoDate": "2026-08-03T09:09:36+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/08/Intinor-basketball-2-726x484.jpg"
+  },
+  {
+    "title": "MediaCity delivered 54 bespoke virtual environments for BBC’s World Cup coverage",
+    "link": "https://www.tvbeurope.com/virtual-production/mediacity-delivered-54-bespoke-virtual-environments-for-bbcs-world-cup-coverage",
+    "summary": "The virtual environments precisely aligned with the physical studio space using LiDAR scanning and camera calibration The post MediaCity delivered 54 bespoke virtual environments for BBC’s World Cup coverage appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 03 Aug 2026 08:11:22 +0000",
+    "timestamp": 1785744682.0,
+    "isoDate": "2026-08-03T08:11:22+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/08/WC_Studio_Images02-726x408.jpg"
+  },
+  {
     "title": "Saramonic SG MS1 stereo shotgun microphone",
     "link": "https://www.newsshooter.com/2026/08/02/saramonic-sg-ms1-stereo-shotgun-microphone/?utm_source=rss&utm_medium=rss&utm_campaign=saramonic-sg-ms1-stereo-shotgun-microphone",
     "summary": "Saramonic has announced its new SG MS1 stereo shotgun microphone. Using the M-S configuration, it can simultaneously capture both the subject and ambient sound. The microphone is being targeted at production sound technicians, sound enginee…",
@@ -229,49 +273,5 @@
     "timestamp": 1785225911.0,
     "isoDate": "2026-07-28T08:05:11+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Broadcasters and content creators score with LiveU technology",
-    "link": "https://www.tvbeurope.com/live-production/broadcasters-and-content-creators-score-with-liveu-technology",
-    "summary": "The operation at this summer's major football tournament supported 31,000 live transmissions and 17,000 broadcast hours for customers in 45 countries, representing 695TB of data The post Broadcasters and content creators score with LiveU te…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 28 Jul 2026 07:57:04 +0000",
-    "timestamp": 1785225424.0,
-    "isoDate": "2026-07-28T07:57:04+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2025/09/LU900Q-LiveU-726x480.png"
-  },
-  {
-    "title": "‘Spades in the ground’ for Crown Works Studios by autumn",
-    "link": "https://www.tvbeurope.com/production-post/spades-in-the-ground-for-crown-works-studios-by-autumn",
-    "summary": "Studio One at Crown Works is the first phase in the transformation of the 31-hectare site, which is aiming to bring major TV and film production to the North East The post ‘Spades in the ground’ for Crown Works Studios by autumn appeared fi…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 27 Jul 2026 09:52:31 +0000",
-    "timestamp": 1785145951.0,
-    "isoDate": "2026-07-27T09:52:31+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/Crown-Works-Studios-Stage-One-726x405.jpg"
-  },
-  {
-    "title": "OBS plans expanded cloud services, AI-ready infrastructure for LA28",
-    "link": "https://www.tvbeurope.com/live-production/obs-plans-expanded-cloud-services-ai-ready-infrastructure-for-la28",
-    "summary": "The broadcast ecosystem will be designed around virtualisation, cloud-based workflows and AI-ready infrastructure, said OBS The post OBS plans expanded cloud services, AI-ready infrastructure for LA28 appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 27 Jul 2026 09:29:14 +0000",
-    "timestamp": 1785144554.0,
-    "isoDate": "2026-07-27T09:29:14+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "AV and Broadcast Summit moves online",
-    "link": "https://www.tvbeurope.com/business/av-and-broadcast-summit-moves-online",
-    "summary": "The free event, which is being held in conjunction with our sister title Installation, will now be held online during the afternoon of Wednesday 2nd September The post AV and Broadcast Summit moves online appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 27 Jul 2026 08:27:02 +0000",
-    "timestamp": 1785140822.0,
-    "isoDate": "2026-07-27T08:27:02+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/AVB_DigitalAssets_Jan26_v3_1200x400_Register_Now-726x242.gif"
   }
 ]

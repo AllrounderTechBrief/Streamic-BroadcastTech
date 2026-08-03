@@ -1,5 +1,38 @@
 [
   {
+    "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+    "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+    "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetec…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 03 Aug 2026 13:35:30 +0530",
+    "timestamp": 1785744330.0,
+    "isoDate": "2026-08-03T08:05:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg"
+  },
+  {
+    "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+    "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+    "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds p…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 03 Aug 2026 12:11:46 +0530",
+    "timestamp": 1785739306.0,
+    "isoDate": "2026-08-03T06:41:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg"
+  },
+  {
+    "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+    "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+    "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 03 Aug 2026 12:10:31 +0530",
+    "timestamp": 1785739231.0,
+    "isoDate": "2026-08-03T06:40:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg"
+  },
+  {
     "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
     "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
     "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet m…",
@@ -295,38 +328,5 @@
     "timestamp": 1785332916.0,
     "isoDate": "2026-07-29T13:48:36+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg"
-  },
-  {
-    "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-    "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-    "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Jul 2026 19:12:57 +0530",
-    "timestamp": 1785332577.0,
-    "isoDate": "2026-07-29T13:42:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg"
-  },
-  {
-    "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-    "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-    "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Jul 2026 17:45:00 +0530",
-    "timestamp": 1785327300.0,
-    "isoDate": "2026-07-29T12:15:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg"
-  },
-  {
-    "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-    "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-    "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 29 Jul 2026 17:27:00 +0530",
-    "timestamp": 1785326220.0,
-    "isoDate": "2026-07-29T11:57:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s1600/tor-exploit.gif"
   }
 ]
