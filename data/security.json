@@ -1,5 +1,27 @@
 [
   {
+    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+    "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+    "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned versions across 79 pac…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 04 Aug 2026 19:00:23 +0530",
+    "timestamp": 1785850223.0,
+    "isoDate": "2026-08-04T13:30:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg"
+  },
+  {
+    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+    "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+    "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthil…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 04 Aug 2026 18:41:22 +0530",
+    "timestamp": 1785849082.0,
+    "isoDate": "2026-08-04T13:11:22+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg"
+  },
+  {
     "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
     "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
     "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state …",
@@ -306,27 +328,5 @@
     "timestamp": 1785435504.0,
     "isoDate": "2026-07-30T18:18:24+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHbm6QCC9jjGwa-7P1N2PwhDjRvpC2hlS2hl09-DUZa5xdDeHt9qH1zISepl2ERqDzmDbdQ_zfE2vkHDsvE7G8QsetJHjzC45DpPr5-83lc1BGaLHfEwMfdYEA04d5xc7GL02_qkz1HjhIenSKBWF0FZqHnICaLn9agLEoEGnnN2n-smXxYFuQQaYNd8A/s1600/all-secure.jpg"
-  },
-  {
-    "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-    "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-    "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 30 Jul 2026 20:55:57 +0530",
-    "timestamp": 1785425157.0,
-    "isoDate": "2026-07-30T15:25:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg"
-  },
-  {
-    "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-    "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-    "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chai…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 30 Jul 2026 19:04:09 +0530",
-    "timestamp": 1785418449.0,
-    "isoDate": "2026-07-30T13:34:09+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "title": "The Agent Development Lifecycle has arrived on Cloudflare",
     "link": "https://blog.cloudflare.com/agent-development-lifecycle/",
-    "summary": "Agents can write code faster than teams can review, deploy, and maintain it. Today we’re introducing the Agent Development Lifecycle and the Cloudflare primitives that underpin it.",
+    "summary": "Agents can write code faster than teams can review, deploy, and maintain it. Today we’re introducing the Agent Development Lifecycle and the Cloudflare primitives that underpin it",
     "source": "The Cloudflare Blog",
     "category": "streaming",
     "timeAgo": "Tue, 04 Aug 2026 13:00:00 GMT",
@@ -11,7 +11,7 @@
     "imageUrl": ""
   },
   {
-    "title": "Announcing Cloudflare Wallets: The programmable wallet for the agentic Internet",
+    "title": "Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet",
     "link": "https://blog.cloudflare.com/wallets/",
     "summary": "Cloudflare Wallets will provide AI agents with native payments and verifiable identity on the web. Using the x402 protocol, agents can autonomously purchase APIs and content within clear safety guardrails.",
     "source": "The Cloudflare Blog",
