@@ -1,5 +1,38 @@
 [
   {
+    "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+    "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+    "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 04 Aug 2026 17:00:00 +0530",
+    "timestamp": 1785843000.0,
+    "isoDate": "2026-08-04T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg"
+  },
+  {
+    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+    "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+    "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent. The researcher…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 04 Aug 2026 16:46:23 +0530",
+    "timestamp": 1785842183.0,
+    "isoDate": "2026-08-04T11:16:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif"
+  },
+  {
+    "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+    "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+    "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a tar…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 04 Aug 2026 16:06:27 +0530",
+    "timestamp": 1785839787.0,
+    "isoDate": "2026-08-04T10:36:27+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg"
+  },
+  {
     "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
     "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
     "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access t…",
@@ -295,38 +328,5 @@
     "timestamp": 1785418449.0,
     "isoDate": "2026-07-30T13:34:09+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg"
-  },
-  {
-    "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
-    "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
-    "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Micros…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 30 Jul 2026 17:24:49 +0530",
-    "timestamp": 1785412489.0,
-    "isoDate": "2026-07-30T11:54:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s1600/copilot-word.jpg"
-  },
-  {
-    "title": "The Network Has Become the Control Plane for AI Security",
-    "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
-    "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a r…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 30 Jul 2026 17:02:46 +0530",
-    "timestamp": 1785411166.0,
-    "isoDate": "2026-07-30T11:32:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg"
-  },
-  {
-    "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-    "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
-    "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect target…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 30 Jul 2026 16:03:15 +0530",
-    "timestamp": 1785407595.0,
-    "isoDate": "2026-07-30T10:33:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s1600/south-korea.jpg"
   }
 ]
