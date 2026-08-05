@@ -1,5 +1,27 @@
 [
   {
+    "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+    "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+    "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for wee…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 00:14:31 +0530",
+    "timestamp": 1785955471.0,
+    "isoDate": "2026-08-05T18:44:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg"
+  },
+  {
+    "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+    "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+    "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that e…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 00:03:47 +0530",
+    "timestamp": 1785954827.0,
+    "isoDate": "2026-08-05T18:33:47+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg"
+  },
+  {
     "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
     "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
     "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, cl…",
@@ -306,27 +328,5 @@
     "timestamp": 1785744330.0,
     "isoDate": "2026-08-03T08:05:30+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg"
-  },
-  {
-    "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-    "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-    "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds p…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 03 Aug 2026 12:11:46 +0530",
-    "timestamp": 1785739306.0,
-    "isoDate": "2026-08-03T06:41:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg"
-  },
-  {
-    "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-    "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-    "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) s…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 03 Aug 2026 12:10:31 +0530",
-    "timestamp": 1785739231.0,
-    "isoDate": "2026-08-03T06:40:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg"
   }
 ]
