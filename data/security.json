@@ -1,5 +1,27 @@
 [
   {
+    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+    "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+    "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, cl…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 05 Aug 2026 21:06:03 +0530",
+    "timestamp": 1785944163.0,
+    "isoDate": "2026-08-05T15:36:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3V9f5UsiH1E6dHfRvy0DEOYvcK14BatMbbLVfdPjLbu3PMInRmVXDi4xoGw-pSIuxUjZS1rdv4X7N1V9xRoV9RRVfaYdAWI6OTxKZzOhAlHYh6dKZNeAWCPkaPdGAvwgcOwFQ0atoRBUxKfE_KfhJpnm1yV1tXr5_Wv2yqND0vZCMMEfRB0V220SZbne/s1600/ai-access.jpg"
+  },
+  {
+    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+    "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+    "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 05 Aug 2026 20:44:05 +0530",
+    "timestamp": 1785942845.0,
+    "isoDate": "2026-08-05T15:14:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNyDWyCEMrA99LxVQMqKNr188rBBjKa6Kg3nHdjVLxWCCVgfqa0cChHo_JWbHgbSLHgZVpcgWn0kw0FUySWhScczQi6LNme-wY9rkUAxE-IvoFLvfum-zWxEnppDBu6bAHBO0ObN39kCDwSK4jnsqdCAOhCPGG0FtoLX_2vvCi2DcoWPmzGUk6Hs_gB4/s1600/paperclipai.jpg"
+  },
+  {
     "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
     "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
     "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over…",
@@ -11,7 +33,7 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg"
   },
   {
-    "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
+    "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
     "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
     "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. …",
     "source": "The Hacker News",
@@ -306,27 +328,5 @@
     "timestamp": 1785739231.0,
     "isoDate": "2026-08-03T06:40:31+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg"
-  },
-  {
-    "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-    "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-    "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet m…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 01 Aug 2026 22:47:22 +0530",
-    "timestamp": 1785604642.0,
-    "isoDate": "2026-08-01T17:17:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg"
-  },
-  {
-    "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-    "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-    "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious co…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 01 Aug 2026 14:33:07 +0530",
-    "timestamp": 1785574987.0,
-    "isoDate": "2026-08-01T09:03:07+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg"
   }
 ]
