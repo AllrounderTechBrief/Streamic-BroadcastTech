@@ -1,5 +1,60 @@
 [
   {
+    "title": "The Agent Access Model",
+    "link": "https://blog.cloudflare.com/the-agent-access-model/",
+    "summary": "The Agent Access Model proposes a new architecture to secure task-scoped agents using strict identity brokering, continuous mediation, and stateful trust.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 05 Aug 2026 13:00:41 GMT",
+    "timestamp": 1785934841.0,
+    "isoDate": "2026-08-05T13:00:41+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
+    "link": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
+    "summary": "We built Cloudflare OS to equip our teams to safely rethink how they get work done with AI. The platform brings together the best of our technologies, from our Compute primitives to our Zero Trust suite. This post walks through our journey …",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 05 Aug 2026 13:00:01 GMT",
+    "timestamp": 1785934801.0,
+    "isoDate": "2026-08-05T13:00:01+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "link": "https://blog.cloudflare.com/cloudflare-os/",
+    "summary": "Cloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 05 Aug 2026 13:00:00 GMT",
+    "timestamp": 1785934800.0,
+    "isoDate": "2026-08-05T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "WriteGuard: fine-grained controls for MCP Servers",
+    "link": "https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/",
+    "summary": "At Cloudflare, we knew we could not depend on every employee to configure every agent perfectly or watch every tool call. Before expanding write access across our own internal MCP servers, we built WriteGuard. We are now bringing those cont…",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 05 Aug 2026 13:00:00 GMT",
+    "timestamp": 1785934800.0,
+    "isoDate": "2026-08-05T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Catching rogue AI behavior with identity-aware analytics",
+    "link": "https://blog.cloudflare.com/identity-aware-ai-gateway/",
+    "summary": "Identity-aware AI Gateway is now in open beta. User Insights turns that traffic into a behavioral baseline for every person and agent, and flags insider risk the moment it appears.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 05 Aug 2026 13:00:00 GMT",
+    "timestamp": 1785934800.0,
+    "isoDate": "2026-08-05T13:00:00+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "The Agent Development Lifecycle has arrived on Cloudflare",
     "link": "https://blog.cloudflare.com/agent-development-lifecycle/",
     "summary": "Agents can write code faster than teams can review, deploy, and maintain it. Today we’re introducing the Agent Development Lifecycle and the Cloudflare primitives that underpin it",
@@ -162,61 +217,6 @@
     "timeAgo": "Thu, 30 Jul 2026 13:00:00 GMT",
     "timestamp": 1785416400.0,
     "isoDate": "2026-07-30T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Post-quantum authentication to origins is now supported",
-    "link": "https://blog.cloudflare.com/post-quantum-authentication-to-origins/",
-    "summary": "Cloudflare now supports post-quantum (PQ) authentication when connecting to customer origin servers via Authenticated Origin Pulls and Custom Origin Trust Store. This is the first step towards providing PQ authentication for all Cloudflare …",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 29 Jul 2026 13:00:00 GMT",
-    "timestamp": 1785330000.0,
-    "isoDate": "2026-07-29T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
-    "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/",
-    "summary": "Cloudflare Radar tracked Internet disruptions driven by natural disasters, government-mandated shutdowns, and DNSSEC key rollovers over the last quarter. This post analyzes traffic telemetry to explain how these events impacted global conne…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 28 Jul 2026 13:00:00 GMT",
-    "timestamp": 1785243600.0,
-    "isoDate": "2026-07-28T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "We’re open-sourcing our privacy proxy CLI",
-    "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
-    "summary": "pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP.",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 27 Jul 2026 13:00:00 GMT",
-    "timestamp": 1785157200.0,
-    "isoDate": "2026-07-27T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-    "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
-    "summary": "By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route select…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 24 Jul 2026 17:25:28 GMT",
-    "timestamp": 1784913928.0,
-    "isoDate": "2026-07-24T17:25:28+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Introducing Cache Response Rules",
-    "link": "https://blog.cloudflare.com/introducing-cache-response-rules/",
-    "summary": "Perhaps you’ve seen something that should sail out of cache get dragged back to the origin by a stray Set-Cookie or Cache-Control, headers that can be difficult to change on the origin itself. Cache Response Rules is the fix, applied at the…",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 23 Jul 2026 18:40:38 GMT",
-    "timestamp": 1784832038.0,
-    "isoDate": "2026-07-23T18:40:38+00:00",
     "imageUrl": ""
   },
   {
