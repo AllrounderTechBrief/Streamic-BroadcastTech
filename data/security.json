@@ -1,5 +1,49 @@
 [
   {
+    "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+    "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+    "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel buil…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 05 Aug 2026 17:13:27 +0530",
+    "timestamp": 1785930207.0,
+    "isoDate": "2026-08-05T11:43:27+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg"
+  },
+  {
+    "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+    "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+    "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 05 Aug 2026 17:13:19 +0530",
+    "timestamp": 1785930199.0,
+    "isoDate": "2026-08-05T11:43:19+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg"
+  },
+  {
+    "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+    "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+    "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup ar…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 05 Aug 2026 16:34:23 +0530",
+    "timestamp": 1785927863.0,
+    "isoDate": "2026-08-05T11:04:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg"
+  },
+  {
+    "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+    "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+    "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vuln…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 05 Aug 2026 16:05:29 +0530",
+    "timestamp": 1785926129.0,
+    "isoDate": "2026-08-05T10:35:29+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif"
+  },
+  {
     "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
     "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
     "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. The \"evil twin\" exte…",
@@ -284,49 +328,5 @@
     "timestamp": 1785565745.0,
     "isoDate": "2026-08-01T06:29:05+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg"
-  },
-  {
-    "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-    "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-    "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 01 Aug 2026 00:22:04 +0530",
-    "timestamp": 1785523924.0,
-    "isoDate": "2026-07-31T18:52:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBagWdesuJqVgNAHPh7t75IGrajY_oJeL9HHI7r23AK7CuLUN22-GBwDCWJWTlIutBApsdhSGproqxtR6kV_Dg04FT2zc6vZXZCQed8Kx3bD-jw-VXkYfAHlJsNgcQOcqRFW8TTh1kyN34MisnGx3ImU9vejv_oNy4jN0sPNcPM7jclq7klrMmGrnROjk/s1600/chinese-hackers.jpg"
-  },
-  {
-    "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-    "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-    "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a s…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 31 Jul 2026 22:09:31 +0530",
-    "timestamp": 1785515971.0,
-    "isoDate": "2026-07-31T16:39:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg"
-  },
-  {
-    "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-    "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-    "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 31 Jul 2026 20:15:01 +0530",
-    "timestamp": 1785509101.0,
-    "isoDate": "2026-07-31T14:45:01+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg"
-  },
-  {
-    "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-    "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
-    "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were released last month…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 31 Jul 2026 18:21:52 +0530",
-    "timestamp": 1785502312.0,
-    "isoDate": "2026-07-31T12:51:52+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqUoKsOzzL1DJubfk79p5F7EfcWUNP-tPwTMNDt329zqRohKeX2tE3qxMCciII-FZEHofHM72OihyAfF_7Eqs48MRmxxVOcGZyKML5LHynh5Akf1fWeNSsDlY2D-EaGLx2T9wy6y2jNfOGx-5xmKNhf0koUmkpIGcuShRA47RVW_207PVhnxdlPijMUmkx/s1600/chrome.jpg"
   }
 ]
