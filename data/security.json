@@ -1,5 +1,49 @@
 [
   {
+    "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
+    "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
+    "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan counted 4,407 exposed …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 17:46:58 +0530",
+    "timestamp": 1786018618.0,
+    "isoDate": "2026-08-06T12:16:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUzp-V2FqPXO6jQl0K2Qnn-2Ys6UG168FNhA0TcFv7CGHtBIgWuD66JsjhDiQhf_DkSTBo_YpVGTY3wcLe3SITSszBT0XAD01P6_nFLkXOHNNoKmp6VTsQ-zB9oKR6qYU2tCpf5RwHZ_u35lJiF41Sa3T7zuGfXujh_Ums9snpXTUAJIbcL6LfF9a5bIw/s1600/power.jpg"
+  },
+  {
+    "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
+    "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
+    "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affecte…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 17:19:48 +0530",
+    "timestamp": 1786016988.0,
+    "isoDate": "2026-08-06T11:49:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg"
+  },
+  {
+    "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
+    "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+    "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to ensure users' privacy…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 17:03:08 +0530",
+    "timestamp": 1786015988.0,
+    "isoDate": "2026-08-06T11:33:08+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53VbynsVNPTCihg9qrqybX7Yu90yM3Tm7KlJnJCHz2_MOUQPyJys1uK6H5QkVqxGekck8qe-pA55tcy19IDYQ4_ndOKasvoaFiPJCI_NJClfHv6G14Ga5P_FPr0zyNijjRMBM-GBlt-XYRqCGAcrZxm9ETsAAu4kPh829ZKABQonHDlx2GuWG9-B-V383/s1600/apple-relay.jpg"
+  },
+  {
+    "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+    "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+    "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 17:00:00 +0530",
+    "timestamp": 1786015800.0,
+    "isoDate": "2026-08-06T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg"
+  },
+  {
     "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
     "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
     "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the datab…",
@@ -284,49 +328,5 @@
     "timestamp": 1785839787.0,
     "isoDate": "2026-08-04T10:36:27+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg"
-  },
-  {
-    "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-    "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-    "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 04 Aug 2026 14:33:23 +0530",
-    "timestamp": 1785834203.0,
-    "isoDate": "2026-08-04T09:03:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg"
-  },
-  {
-    "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-    "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the w…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 04 Aug 2026 12:30:13 +0530",
-    "timestamp": 1785826813.0,
-    "isoDate": "2026-08-04T07:00:13+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png"
-  },
-  {
-    "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-    "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-    "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack ta…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 04 Aug 2026 00:13:53 +0530",
-    "timestamp": 1785782633.0,
-    "isoDate": "2026-08-03T18:43:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg"
-  },
-  {
-    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-    "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-    "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chro…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 03 Aug 2026 21:54:47 +0530",
-    "timestamp": 1785774287.0,
-    "isoDate": "2026-08-03T16:24:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg"
   }
 ]
