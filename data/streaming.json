@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports",
+    "link": "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/",
+    "summary": "We're honored to announce that Cloudflare is the only vendor that has been recognized as a Visionary in both the 2026 Gartner® Magic Quadrant™ for SASE Platforms and the 2026 Gartner® Magic Quadrant™ for Security Service Edge reports.",
+    "source": "The Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 05 Aug 2026 23:24:51 GMT",
+    "timestamp": 1785972291.0,
+    "isoDate": "2026-08-05T23:24:51+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "The Agent Access Model",
     "link": "https://blog.cloudflare.com/the-agent-access-model/",
     "summary": "The Agent Access Model proposes a new architecture to secure task-scoped agents using strict identity brokering, continuous mediation, and stateful trust.",
@@ -206,17 +217,6 @@
     "timeAgo": "Fri, 31 Jul 2026 13:00:00 GMT",
     "timestamp": 1785502800.0,
     "isoDate": "2026-07-31T13:00:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
-    "link": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
-    "summary": "We moved cdnjs, serving 9 billion requests a day, entirely onto Cloudflare's Developer Platform. That means we’re running one of the Internet's busiest open-source CDNs on our own building blocks, and we pushed Workflows and Workers limits …",
-    "source": "The Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 30 Jul 2026 13:00:00 GMT",
-    "timestamp": 1785416400.0,
-    "isoDate": "2026-07-30T13:00:00+00:00",
     "imageUrl": ""
   },
   {
