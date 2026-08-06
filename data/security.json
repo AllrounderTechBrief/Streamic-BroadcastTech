@@ -1,5 +1,49 @@
 [
   {
+    "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+    "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+    "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 13:35:22 +0530",
+    "timestamp": 1786003522.0,
+    "isoDate": "2026-08-06T08:05:22+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3VqhMa79pNymspvzHhSpHG4HCDAGn4nAD-7ZwQgDuSOELhM0xxHASqfnd2ThEv8XJ0tM58bPsGPHcobfoaEEWW4Am9H-Wd9bpb-QqYRQfFcFKrvbLjwEGYu0VfIAclBcVn9PpMWS02ZAtOa7hhwg8e45cYcgYYX0C1_yQptZh7-ZvqFHpf-9uqq5csbCj/s1600/router-hacking.jpg"
+  },
+  {
+    "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+    "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+    "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel con…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 12:49:54 +0530",
+    "timestamp": 1786000794.0,
+    "isoDate": "2026-08-06T07:19:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsIRDdzzjtJRcq3kiouQy7I8wwCFvWIKA5VHAKEVdGC2OJL3WCGnKPZUvAHUi-Jrz9yLN5pfTtS0QI8MRUuSbGOlbg_3jNktHGZSb4wsOKvjcwehZYqL671hB0UgjVjUPnKju5QFDO4BXhjePhJuvGDw_mJs1scXXI_veItNxCej7uEwjKfTHzc9Nkm90/s1600/Ransom-Cartel.jpg"
+  },
+  {
+    "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+    "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+    "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 12:21:43 +0530",
+    "timestamp": 1785999103.0,
+    "isoDate": "2026-08-06T06:51:43+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg"
+  },
+  {
+    "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+    "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+    "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at leas…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 11:34:30 +0530",
+    "timestamp": 1785996270.0,
+    "isoDate": "2026-08-06T06:04:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg"
+  },
+  {
     "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
     "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
     "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for wee…",
@@ -284,49 +328,5 @@
     "timestamp": 1785765791.0,
     "isoDate": "2026-08-03T14:03:11+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg"
-  },
-  {
-    "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-    "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-    "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automat…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 03 Aug 2026 17:00:00 +0530",
-    "timestamp": 1785756600.0,
-    "isoDate": "2026-08-03T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
-  },
-  {
-    "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-    "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-    "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 03 Aug 2026 16:19:06 +0530",
-    "timestamp": 1785754146.0,
-    "isoDate": "2026-08-03T10:49:06+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg"
-  },
-  {
-    "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-    "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-    "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to pol…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 03 Aug 2026 14:43:56 +0530",
-    "timestamp": 1785748436.0,
-    "isoDate": "2026-08-03T09:13:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg"
-  },
-  {
-    "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-    "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-    "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetec…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 03 Aug 2026 13:35:30 +0530",
-    "timestamp": 1785744330.0,
-    "isoDate": "2026-08-03T08:05:30+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg"
   }
 ]
