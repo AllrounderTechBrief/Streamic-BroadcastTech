@@ -1,5 +1,49 @@
 [
   {
+    "title": "Unveiling good and bad behaviors on the Agentic Internet",
+    "link": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
+    "summary": "Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precursor — and try out ou…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 07 Aug 2026 13:01:00 GMT",
+    "timestamp": 1786107660.0,
+    "isoDate": "2026-08-07T13:01:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZCHB9VT6PFY8DZNPV0SX1SS.png"
+  },
+  {
+    "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+    "link": "https://blog.cloudflare.com/introducing-radar-researcher/",
+    "summary": "Cloudflare Radar Researcher is a new AI-powered tool that lets you explore global Internet trends and traffic data using plain language. Built entirely on Cloudflare's Developer Platform, it turns natural language queries into real, interac…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 07 Aug 2026 13:00:00 GMT",
+    "timestamp": 1786107600.0,
+    "isoDate": "2026-08-07T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZCGV8J1HF1P5HPSDNRYWTR7.png"
+  },
+  {
+    "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
+    "link": "https://blog.cloudflare.com/community-program-refresh/",
+    "summary": "We are launching updated community programs, including Cloudflare Ambassadors and Community Engineers, backed by $1M in open-source funding. Learn how we are supporting maintainers and scaling our developer community.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 07 Aug 2026 13:00:00 GMT",
+    "timestamp": 1786107600.0,
+    "isoDate": "2026-08-07T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZCB5TGPAH6A73FHJ2QHFR7T.png"
+  },
+  {
+    "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+    "link": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+    "summary": "Cloudflare is unifying AI Gateway and Workers AI into a single control plane, giving developers observability, billing, and dynamic routing across both managed GPUs and external providers. Learn how unified bindings and model-first routing …",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 07 Aug 2026 13:00:00 GMT",
+    "timestamp": 1786107600.0,
+    "isoDate": "2026-08-07T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZA5VCX2R70YMT8M56D89B37.png"
+  },
+  {
     "title": "Cloudflare AI Search: give your agents a search engine for your data",
     "link": "https://blog.cloudflare.com/ai-search-easier/",
     "summary": "AI Search makes search easier than ever, with no Cloudflare primitives to stitch together. Point it at your data to create a search for your own files and websites. We're also sharing a preview of our new pricing model.",
@@ -174,50 +218,6 @@
     "timestamp": 1785848400.0,
     "isoDate": "2026-08-04T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ4XJH53PWRDTBHRX5D3VJH4.png"
-  },
-  {
-    "title": "Introducing: Cloudflare Agents",
-    "link": "https://blog.cloudflare.com/agents-on-cloudflare/",
-    "summary": "Cloudflare Agents brings all of your deployed agent sessions into a single experience, surfacing key information and insights into how your agents perform at scale.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 04 Aug 2026 13:00:00 GMT",
-    "timestamp": 1785848400.0,
-    "isoDate": "2026-08-04T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ4WGXSXP7S27P8VKV4F0D2N.png"
-  },
-  {
-    "title": "Your agent can now debug Workers with local tracing",
-    "link": "https://blog.cloudflare.com/local-tracing/",
-    "summary": "wrangler dev now produces structured traces for every local request. Your coding agent can hit a single API to pinpoint exactly what failed and why — no deployment required.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 04 Aug 2026 13:00:00 GMT",
-    "timestamp": 1785848400.0,
-    "isoDate": "2026-08-04T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ4VE2P2E0N8JGH2VJ245E2G.png"
-  },
-  {
-    "title": "How we built a software factory to drive Astro’s GitHub issue count to zero",
-    "link": "https://blog.cloudflare.com/astro-issue-triage/",
-    "summary": "By replacing manual issue verification with isolated AI subagents running in GitHub Actions, the Astro maintainers reduced open issue count by 85%. This post explores the architecture behind automated bug reproduction, patch verification, a…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 04 Aug 2026 13:00:00 GMT",
-    "timestamp": 1785848400.0,
-    "isoDate": "2026-08-04T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ4HKHHS409626RAQN3HX651.png"
-  },
-  {
-    "title": "Your agent needs a computer, not a container — introducing @cloudflare/computer",
-    "link": "https://blog.cloudflare.com/cloudflare-computer/",
-    "summary": "Agents need more than just a container to scale. We're introducing @cloudflare/computer, an agent runtime that dynamically orchestrates between fast, efficient isolates and full Linux containers to give every agent a computer of its own.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 03 Aug 2026 13:15:24 GMT",
-    "timestamp": 1785762924.0,
-    "isoDate": "2026-08-03T13:15:24+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ0Q510F63VHS6DFGP9SAV3H.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",

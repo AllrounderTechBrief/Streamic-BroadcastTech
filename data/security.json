@@ -1,5 +1,38 @@
 [
   {
+    "title": "Growing Up The Hard Way",
+    "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+    "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from any…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 07 Aug 2026 17:25:26 +0530",
+    "timestamp": 1786103726.0,
+    "isoDate": "2026-08-07T11:55:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz974dYXx9klEa_qhJoTHKqb5QNoQwTpxsMKoZeqsvQtvWZPgPKobw1QySvcNGgnFocbYaFaaBGsB4COPaw-fqqgOHERJEVc8sgRSjto5VCrQeIWr5Nz21r3PjMTIXmwUmvakUlP4sB3iYqF2qXiabCvrqKFyFBq3GzOUwqM7LGRV68q_Ib9zt1ilCBJo/s1600/open-source.jpg"
+  },
+  {
+    "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+    "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+    "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 07 Aug 2026 16:40:33 +0530",
+    "timestamp": 1786101033.0,
+    "isoDate": "2026-08-07T11:10:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTGemKyDLZPr_sBbt2AdOQMEBEcRFzic8_Ddtkx92vtPOfFdoiwxJ60b00usecTjHuIGUJuUIR2aB8MU2P7-GLc0NOuWsa3ctofrA2-wD38wgI4Fke3moSskWjiRJEXT8Yxl7Ye56NgGl9DZKr8zf974rHRsc1PtHie_iIPVyD18HMx49S02tGZ2EeDY/s1600/linux-sctp.jpg"
+  },
+  {
+    "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+    "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+    "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 07 Aug 2026 16:28:38 +0530",
+    "timestamp": 1786100318.0,
+    "isoDate": "2026-08-07T10:58:38+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg"
+  },
+  {
     "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
     "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
     "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel …",
@@ -13,24 +46,13 @@
   {
     "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
     "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-    "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors. PortSwigger said a…",
+    "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Fri, 07 Aug 2026 15:39:54 +0530",
     "timestamp": 1786097394.0,
     "isoDate": "2026-08-07T10:09:54+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg"
-  },
-  {
-    "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-    "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-    "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 07 Aug 2026 15:02:57 +0530",
-    "timestamp": 1786095177.0,
-    "isoDate": "2026-08-07T09:32:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg"
   },
   {
     "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
@@ -306,27 +328,5 @@
     "timestamp": 1785930199.0,
     "isoDate": "2026-08-05T11:43:19+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg"
-  },
-  {
-    "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-    "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-    "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup ar…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 05 Aug 2026 16:34:23 +0530",
-    "timestamp": 1785927863.0,
-    "isoDate": "2026-08-05T11:04:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg"
-  },
-  {
-    "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-    "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-    "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vuln…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 05 Aug 2026 16:05:29 +0530",
-    "timestamp": 1785926129.0,
-    "isoDate": "2026-08-05T10:35:29+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif"
   }
 ]
