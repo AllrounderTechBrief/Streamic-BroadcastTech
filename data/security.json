@@ -1,5 +1,27 @@
 [
   {
+    "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+    "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+    "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 07 Aug 2026 16:08:27 +0530",
+    "timestamp": 1786099107.0,
+    "isoDate": "2026-08-07T10:38:27+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg"
+  },
+  {
+    "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+    "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+    "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors. PortSwigger said a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 07 Aug 2026 15:39:54 +0530",
+    "timestamp": 1786097394.0,
+    "isoDate": "2026-08-07T10:09:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg"
+  },
+  {
     "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
     "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
     "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT t…",
@@ -13,7 +35,7 @@
   {
     "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
     "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-    "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, disclose victim IP addresses and mappe…",
+    "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establis…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Fri, 07 Aug 2026 14:22:11 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1785926129.0,
     "isoDate": "2026-08-05T10:35:29+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif"
-  },
-  {
-    "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-    "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-    "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. The \"evil twin\" exte…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 05 Aug 2026 14:53:03 +0530",
-    "timestamp": 1785921783.0,
-    "isoDate": "2026-08-05T09:23:03+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh28AJU8_kuimN9uKY5xj-0XMAMxfVP4rejHEWMJ_5FD99mAvt8dEsRuGhlCGb63VjWykzePg_-tuaTqNycmvhZy3oFRFAuVHbwpsAg6ae599Pl7bYQVb7Qo7fDuDjWMHmHZOLfWc9HZkQlyAis8LNMmkS_wnKbvliVNsOej4p6XV_KbiFHHzJp1SjGFU1G/s1600/vscode.jpg"
-  },
-  {
-    "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-    "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-    "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code w…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 05 Aug 2026 13:23:50 +0530",
-    "timestamp": 1785916430.0,
-    "isoDate": "2026-08-05T07:53:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvip0I7Uu7TeEHOGkVi4gl93ktZtzWF1krMsS1XPlRcql2xIf9UU4rXjDvdrF0HPPQaFCgNhhrrp9IM0HBJgHEzweJM41lccFe19e2DYqzkk5Au2STfT_Bjzzdfp_-UibeQ2o19Rh3OTtj5nOpbEn61gKQR4w7dPpOJ_5gP4Ob8KqqYLfWwAnoZ59FCo/s1600/claude-ai-agent.jpg"
   }
 ]
