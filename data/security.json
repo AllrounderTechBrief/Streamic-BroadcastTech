@@ -1,5 +1,49 @@
 [
   {
+    "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+    "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+    "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 23:28:30 +0530",
+    "timestamp": 1786039110.0,
+    "isoDate": "2026-08-06T17:58:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BBX-j7uA7NqPF9tVWhx3y09F3whJ3zweRoWGyI2kJDxhW6ymOG1oumq5Oz0sZWtCAKSCALcd9TTl7Kf5Mo3aqE3aWKH8jfKWt2uUD-CUa6tmid-3MvMTM08EAEhg5iLQ2mlEgFkVeuVKv1QkRqr2T0Ya9JcNtMYheggInGndCG0n-N7BPjyH9vbKCg8/s1600/Zapscape.gif"
+  },
+  {
+    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+    "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+    "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 22:43:15 +0530",
+    "timestamp": 1786036395.0,
+    "isoDate": "2026-08-06T17:13:15+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkSwdiUeH8rB-KgSkEXrT-oNL19IyghM7Ks8UDOedxPYB5czgwO8pXNf0YUt7OHqAbRRDJkRvJffzJ0lfpEdqfLn-w-Bc9pwOa_1FNJjJkrVbD-diaZu9HRFqAlOBWogXEsZ4sSFRDW-HYmsaUmVD98QGQoyq2rHep_dwDa5ueafTUO0Lh6zsA-Czd3he/s1600/cisco-flaws.jpg"
+  },
+  {
+    "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+    "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+    "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Daniël T…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 21:47:13 +0530",
+    "timestamp": 1786033033.0,
+    "isoDate": "2026-08-06T16:17:13+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_BgCPUTlxOgmh4ljCoOazIkcoSA_BHUGZmfAuhxD8TiUzui2nhB5b5KV_lv50ocFWI14FG5RIe8rqrm6D8ZC8ACR7mY1bXE4JADKcTRIY1bfIeXtnYs07yXk2T9Jsv0-vcxPkKbl6FuNXxXylv5BQQQLTDSpJ2XSyqxvIsxYy5d2X1Kwt_2CSJegj9Tv/s1600/place.jpg"
+  },
+  {
+    "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+    "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+    "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisone…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 06 Aug 2026 20:54:31 +0530",
+    "timestamp": 1786029871.0,
+    "isoDate": "2026-08-06T15:24:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl0f74Tyvl6NQ4TAbPMIpgYWuHQN8THsYSQ77D9qmHuZdKsK2ZDrTLyWshLPV-UfSYW6Rbtfj866jP0X_D1QHmOFYIoEDZG90G3cy7JGFJrKsq0m7VeGqa0CCDygB9F3ttryPRQm-6MY50zIOsGFBdnwZZgAf31swGo5dOIa0noWuIoEk7rPrUkdfoddIj/s1600/threatsd.jpg"
+  },
+  {
     "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
     "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
     "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan counted 4,407 exposed …",
@@ -284,49 +328,5 @@
     "timestamp": 1785850223.0,
     "isoDate": "2026-08-04T13:30:23+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg"
-  },
-  {
-    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
-    "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
-    "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthil…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 04 Aug 2026 18:41:22 +0530",
-    "timestamp": 1785849082.0,
-    "isoDate": "2026-08-04T13:11:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg"
-  },
-  {
-    "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-    "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-    "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 04 Aug 2026 17:00:00 +0530",
-    "timestamp": 1785843000.0,
-    "isoDate": "2026-08-04T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg"
-  },
-  {
-    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-    "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-    "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent. The researcher…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 04 Aug 2026 16:46:23 +0530",
-    "timestamp": 1785842183.0,
-    "isoDate": "2026-08-04T11:16:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif"
-  },
-  {
-    "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-    "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-    "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a tar…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 04 Aug 2026 16:06:27 +0530",
-    "timestamp": 1785839787.0,
-    "isoDate": "2026-08-04T10:36:27+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg"
   }
 ]
