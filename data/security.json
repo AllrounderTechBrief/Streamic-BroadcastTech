@@ -1,5 +1,16 @@
 [
   {
+    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+    "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 07 Aug 2026 18:26:23 +0530",
+    "timestamp": 1786107383.0,
+    "isoDate": "2026-08-07T12:56:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg"
+  },
+  {
     "title": "Growing Up The Hard Way",
     "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
     "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from any…",
@@ -317,16 +328,5 @@
     "timestamp": 1785930207.0,
     "isoDate": "2026-08-05T11:43:27+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg"
-  },
-  {
-    "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-    "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-    "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 05 Aug 2026 17:13:19 +0530",
-    "timestamp": 1785930199.0,
-    "isoDate": "2026-08-05T11:43:19+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg"
   }
 ]
