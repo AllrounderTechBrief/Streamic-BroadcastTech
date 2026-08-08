@@ -1,5 +1,27 @@
 [
   {
+    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+    "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+    "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different rou…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 08 Aug 2026 14:24:50 +0530",
+    "timestamp": 1786179290.0,
+    "isoDate": "2026-08-08T08:54:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFYjJTxVoOMkR9DDRPZ5PkeR_EWAqmBScR3TPw3mlweipGlnQKq0OdfVqR2f26QIV3kBJWQIM65f8XwMSFq3zT6Bl4fsTvkPHxJiU2LilhK9s0tcreXt2gotEpE8sKoDrLQJ3SSVY9B-RS0FsS2dC480op8OV-caeaZvNyTiIipQbeNFJGMnAcjWEVq7g/s1600/rovo.jpg"
+  },
+  {
+    "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+    "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+    "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture p…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 08 Aug 2026 13:33:57 +0530",
+    "timestamp": 1786176237.0,
+    "isoDate": "2026-08-08T08:03:57+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUnWbFb6UGu3ML1MqcuVXYwk0yoD6WzgXIQmi8ijkZQjS6M3g1F3kgV-RanNgyP1bdpNxDOOqMJzJnutZGh4MUVyYCbbu98sNXtAp-GWxueyKH9fDo3z9HmBl4tL-rj91kb11bhdhRvWGAYe56YGYMEzJgGIZeUqj9eGH10Bynj0YE6WMLl0J7O-HhLc/s1600/css-bomb.jpg"
+  },
+  {
     "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
     "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
     "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a…",
@@ -74,7 +96,7 @@
     "timeAgo": "Fri, 07 Aug 2026 18:26:23 +0530",
     "timestamp": 1786107383.0,
     "isoDate": "2026-08-07T12:56:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAXYZlxtz4bLTF4gNuVpVMMykRZpDR7IKjIFSR7jhL6CBKSsE1PZ7aIRpSGE57XGGb69NbrYV7wMJLjsRG_lP4SJzyvNZ0nUj9SHArph87e8bWBHKUsOGy1-9rymiMesSAcvUFrPP2Xrf_EuUXiOmKJC2MeBYFRcXmgxKhAv5UBcRzV0ku-_DLEONVLQuV/s1600/word.jpg"
   },
   {
     "title": "Growing Up The Hard Way",
@@ -306,27 +328,5 @@
     "timestamp": 1785999103.0,
     "isoDate": "2026-08-06T06:51:43+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg"
-  },
-  {
-    "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-    "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
-    "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at leas…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 06 Aug 2026 11:34:30 +0530",
-    "timestamp": 1785996270.0,
-    "isoDate": "2026-08-06T06:04:30+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg"
-  },
-  {
-    "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-    "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-    "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for wee…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 06 Aug 2026 00:14:31 +0530",
-    "timestamp": 1785955471.0,
-    "isoDate": "2026-08-05T18:44:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg"
   }
 ]
