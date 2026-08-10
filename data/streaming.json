@@ -1,5 +1,16 @@
 [
   {
+    "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
+    "link": "https://blog.cloudflare.com/fedramp-class-d-certification/",
+    "summary": "Cloudflare for Government achieves FedRAMP Class D (High) Certified status. We also announce our commitment to pursue DoD IL4 authorization. Cloudflare brings world-class security, performance, and developer products to the public sector.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 10 Aug 2026 13:00:00 GMT",
+    "timestamp": 1786366800.0,
+    "isoDate": "2026-08-10T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KWJ8S81EFDW5RYDPNZEQSX7A.png"
+  },
+  {
     "title": "Unveiling good and bad behaviors on the Agentic Internet",
     "link": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
     "summary": "Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precursor — and try out ou…",
@@ -207,17 +218,6 @@
     "timestamp": 1785848400.0,
     "isoDate": "2026-08-04T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ4Z776V82BHE7244CN1VVD7.png"
-  },
-  {
-    "title": "How Cloudflare enforces engineering standards using AI",
-    "link": "https://blog.cloudflare.com/engineering-standards-enforcement/",
-    "summary": "We created the Cloudflare Codex, a governed body of engineering standards that AI agents consume across the development lifecycle. By pairing structured RFCs with agentic reviews, teams automatically enforce consistency across code, specs, …",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 04 Aug 2026 13:00:00 GMT",
-    "timestamp": 1785848400.0,
-    "isoDate": "2026-08-04T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ4XJH53PWRDTBHRX5D3VJH4.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
