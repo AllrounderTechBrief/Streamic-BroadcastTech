@@ -1,5 +1,16 @@
 [
   {
+    "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+    "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are back, supply chains…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 10 Aug 2026 20:30:29 +0530",
+    "timestamp": 1786374029.0,
+    "isoDate": "2026-08-10T15:00:29+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s1600/recaps.jpg"
+  },
+  {
     "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
     "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
     "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools t…",
@@ -317,16 +328,5 @@
     "timestamp": 1786016988.0,
     "isoDate": "2026-08-06T11:49:48+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg"
-  },
-  {
-    "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
-    "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-    "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to ensure users' privacy…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 06 Aug 2026 17:03:08 +0530",
-    "timestamp": 1786015988.0,
-    "isoDate": "2026-08-06T11:33:08+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53VbynsVNPTCihg9qrqybX7Yu90yM3Tm7KlJnJCHz2_MOUQPyJys1uK6H5QkVqxGekck8qe-pA55tcy19IDYQ4_ndOKasvoaFiPJCI_NJClfHv6G14Ga5P_FPr0zyNijjRMBM-GBlt-XYRqCGAcrZxm9ETsAAu4kPh829ZKABQonHDlx2GuWG9-B-V383/s1600/apple-relay.jpg"
   }
 ]
