@@ -1,5 +1,27 @@
 [
   {
+    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 10 Aug 2026 22:59:17 +0530",
+    "timestamp": 1786382957.0,
+    "isoDate": "2026-08-10T17:29:17+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg"
+  },
+  {
+    "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+    "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+    "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's prev…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 10 Aug 2026 22:08:37 +0530",
+    "timestamp": 1786379917.0,
+    "isoDate": "2026-08-10T16:38:37+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s1600/strom-ransomware.jpg"
+  },
+  {
     "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
     "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
     "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are back, supply chains…",
@@ -31,17 +53,6 @@
     "timestamp": 1786364704.0,
     "isoDate": "2026-08-10T12:25:04+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWKCkGCqH-c6Yaqkd_NnzFQijViu34tjAEsdl9tl2CmZLHL4m1rLhezO76zF6XFRTGS9Sr4R3jhMD7z15QV0BMqG948bjg8SoZb_j6HtQajd0PUDR8Tmw06GMqDwS6VhAtH-ZNtD06lzb9KMhJsHi-Vvkps0n6bl6C8n6rSBHCldBuc1cMczr30h11N-8/s1600/passkeys.jpg"
-  },
-  {
-    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 10 Aug 2026 17:22:16 +0530",
-    "timestamp": 1786362736.0,
-    "isoDate": "2026-08-10T11:52:16+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg"
   },
   {
     "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
@@ -317,16 +328,5 @@
     "timestamp": 1786018618.0,
     "isoDate": "2026-08-06T12:16:58+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUzp-V2FqPXO6jQl0K2Qnn-2Ys6UG168FNhA0TcFv7CGHtBIgWuD66JsjhDiQhf_DkSTBo_YpVGTY3wcLe3SITSszBT0XAD01P6_nFLkXOHNNoKmp6VTsQ-zB9oKR6qYU2tCpf5RwHZ_u35lJiF41Sa3T7zuGfXujh_Ums9snpXTUAJIbcL6LfF9a5bIw/s1600/power.jpg"
-  },
-  {
-    "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-    "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-    "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affecte…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 06 Aug 2026 17:19:48 +0530",
-    "timestamp": 1786016988.0,
-    "isoDate": "2026-08-06T11:49:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg"
   }
 ]

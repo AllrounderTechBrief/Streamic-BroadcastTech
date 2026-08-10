@@ -1,5 +1,16 @@
 [
   {
+    "title": "Everything we launched during Agents Week",
+    "link": "https://blog.cloudflare.com/agents-week-review-august-2026/",
+    "summary": "Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made, from Wallets to Radar.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 10 Aug 2026 18:34:10 GMT",
+    "timestamp": 1786386850.0,
+    "isoDate": "2026-08-10T18:34:10+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZEF2H4G3BD74C5TP4BWMS76.png"
+  },
+  {
     "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
     "link": "https://blog.cloudflare.com/fedramp-class-d-certification/",
     "summary": "Cloudflare for Government achieves FedRAMP Class D (High) Certified status. We also announce our commitment to pursue DoD IL4 authorization. Cloudflare brings world-class security, performance, and developer products to the public sector.",
@@ -207,17 +218,6 @@
     "timestamp": 1785848400.0,
     "isoDate": "2026-08-04T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ517G3BSVKQBTH2KNXENF5D.png"
-  },
-  {
-    "title": "Run CI/CD for millions of repos — on your platform, on Cloudflare",
-    "link": "https://blog.cloudflare.com/ci-workflows/",
-    "summary": "Learn how to build customizable, sandboxed CI/CD pipelines natively on Cloudflare using Workflows, Artifacts, and the CI SDK. We walk through replacing complex YAML configurations with TypeScript workflow steps and self-healing AI agents.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 04 Aug 2026 13:00:00 GMT",
-    "timestamp": 1785848400.0,
-    "isoDate": "2026-08-04T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ4Z776V82BHE7244CN1VVD7.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
