@@ -1,5 +1,16 @@
 [
   {
+    "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+    "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+    "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditiona…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 11 Aug 2026 11:18:44 +0530",
+    "timestamp": 1786427324.0,
+    "isoDate": "2026-08-11T05:48:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg"
+  },
+  {
     "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
     "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
     "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, t…",
@@ -317,16 +328,5 @@
     "timestamp": 1786029871.0,
     "isoDate": "2026-08-06T15:24:31+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl0f74Tyvl6NQ4TAbPMIpgYWuHQN8THsYSQ77D9qmHuZdKsK2ZDrTLyWshLPV-UfSYW6Rbtfj866jP0X_D1QHmOFYIoEDZG90G3cy7JGFJrKsq0m7VeGqa0CCDygB9F3ttryPRQm-6MY50zIOsGFBdnwZZgAf31swGo5dOIa0noWuIoEk7rPrUkdfoddIj/s1600/threatsd.jpg"
-  },
-  {
-    "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-    "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-    "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan counted 4,407 exposed …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 06 Aug 2026 17:46:58 +0530",
-    "timestamp": 1786018618.0,
-    "isoDate": "2026-08-06T12:16:58+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUzp-V2FqPXO6jQl0K2Qnn-2Ys6UG168FNhA0TcFv7CGHtBIgWuD66JsjhDiQhf_DkSTBo_YpVGTY3wcLe3SITSszBT0XAD01P6_nFLkXOHNNoKmp6VTsQ-zB9oKR6qYU2tCpf5RwHZ_u35lJiF41Sa3T7zuGfXujh_Ums9snpXTUAJIbcL6LfF9a5bIw/s1600/power.jpg"
   }
 ]
