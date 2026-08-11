@@ -1,8 +1,19 @@
 [
   {
+    "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+    "link": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
+    "summary": "In the first half of 2026, Cloudflare detected a 519% surge in hyper-volumetric DDos attacks across its network. These attacks were driven heavily by DNS and CLDAP reflection vectors. This report breaks down how major geopolitical conflicts…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 11 Aug 2026 13:00:00 GMT",
+    "timestamp": 1786453200.0,
+    "isoDate": "2026-08-11T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZQNQBJ1WH5E5QSQP8KFDVJV.png"
+  },
+  {
     "title": "Everything we launched during Agents Week",
     "link": "https://blog.cloudflare.com/agents-week-review-august-2026/",
-    "summary": "Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made, from Wallets to Radar.",
+    "summary": "Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar.",
     "source": "Cloudflare Blog",
     "category": "streaming",
     "timeAgo": "Mon, 10 Aug 2026 18:34:10 GMT",
@@ -207,17 +218,6 @@
     "timestamp": 1785848400.0,
     "isoDate": "2026-08-04T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ6A4Q5CY65JFVVYMJCV4AG7.png"
-  },
-  {
-    "title": "Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet",
-    "link": "https://blog.cloudflare.com/wallets/",
-    "summary": "Cloudflare Wallets will provide AI agents with native payments and verifiable identity on the web. Using the x402 protocol, agents can autonomously purchase APIs and content within clear safety guardrails.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 04 Aug 2026 13:00:00 GMT",
-    "timestamp": 1785848400.0,
-    "isoDate": "2026-08-04T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ517G3BSVKQBTH2KNXENF5D.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
