@@ -1,5 +1,38 @@
 [
   {
+    "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+    "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+    "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 12 Aug 2026 13:01:40 +0530",
+    "timestamp": 1786519900.0,
+    "isoDate": "2026-08-12T07:31:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg"
+  },
+  {
+    "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+    "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+    "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Micro…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 12 Aug 2026 12:11:38 +0530",
+    "timestamp": 1786516898.0,
+    "isoDate": "2026-08-12T06:41:38+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg"
+  },
+  {
+    "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+    "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+    "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-203…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 12 Aug 2026 11:45:58 +0530",
+    "timestamp": 1786515358.0,
+    "isoDate": "2026-08-12T06:15:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s1600/cisco-powerhouse.jpg"
+  },
+  {
     "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
     "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
     "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already …",
@@ -295,38 +328,5 @@
     "timestamp": 1786172263.0,
     "isoDate": "2026-08-08T06:57:43+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsaNpVaG83aDE1lJwcNllVSeS-ebafbbt4FgaKHH1_4dt1i4qvCtw-dYVrE_MiWf2GZ5vyGPhyphenhyphenCieChBz2IChMJew0I1Ze2HEYJpB-j3rB2VnfNrzbFpPDD7VFkWCkYBn2CJRLpOBIKNaeKPXlVPHpz7-1Wx9go7IfyUKSVNliDO644rNsoMmAk5a3Qf_W/s1600/nc.jpg"
-  },
-  {
-    "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-    "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploita…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 08 Aug 2026 12:22:16 +0530",
-    "timestamp": 1786171936.0,
-    "isoDate": "2026-08-08T06:52:16+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DF22WirQj4KZe5A4NxYmG3UhC2o4BRQ4AybyFlmr80n5Wkf15sbtMn11P0msoMyAe65WBqMpL2XBsqTiHdDNNH1i6qz11ydD9X4AIOoiaSfCYb1MCe7dfJD0n4TEIc5_83tsMq5zJ5zVpGbpCq7b8rACen1oMvW8XGBbz3T4hy_9J6igpOk0oCDp6vkA/s1600/progress.jpg"
-  },
-  {
-    "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-    "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-    "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 08 Aug 2026 00:18:17 +0530",
-    "timestamp": 1786128497.0,
-    "isoDate": "2026-08-07T18:48:17+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg"
-  },
-  {
-    "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-    "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-    "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is des…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 07 Aug 2026 23:59:08 +0530",
-    "timestamp": 1786127348.0,
-    "isoDate": "2026-08-07T18:29:08+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg"
   }
 ]
