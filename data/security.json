@@ -1,5 +1,38 @@
 [
   {
+    "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+    "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+    "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extens…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 12 Aug 2026 19:39:50 +0530",
+    "timestamp": 1786543790.0,
+    "isoDate": "2026-08-12T14:09:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+    "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 12 Aug 2026 17:17:38 +0530",
+    "timestamp": 1786535258.0,
+    "isoDate": "2026-08-12T11:47:38+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg"
+  },
+  {
+    "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+    "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+    "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 12 Aug 2026 17:11:34 +0530",
+    "timestamp": 1786534894.0,
+    "isoDate": "2026-08-12T11:41:34+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg"
+  },
+  {
     "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
     "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
     "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The mos…",
@@ -295,38 +328,5 @@
     "timestamp": 1786361621.0,
     "isoDate": "2026-08-10T11:33:41+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaZH1uRwKD4SlLCwgb-7zVkEGjYYXdFxb21glBm3grBdwOZ_M-ECnOmNVFPPY6mg6wXUCf4R4xm9mI8mBiEm21Ixh6y9GXYvL9DKQgKEBkTN65AVQqFz9DJpMs6BRmrGWjGC5vDC-cFgx774ASr7j73D0wiRxrs9tKNdovUbwmLuGicKgcZeQR53z71bT/s1600/trueconf.jpg"
-  },
-  {
-    "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-    "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-    "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names of the extensions a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 10 Aug 2026 13:08:23 +0530",
-    "timestamp": 1786347503.0,
-    "isoDate": "2026-08-10T07:38:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR5_Dx4heVYIxaujo8ybl0OFdVuLzMFe0qdEdr6-q_QTdhSVlgHdrP6MeooXamFpRNfHjoAqTquvk3CkkCKUw1TQDkQJCrZY1RTC9iYK_bsTLNvpj0BZfFKFcnlt1RAlBvfcsWeSuLAn6Gwh9lur7v9-HlH-6ZpSmw7npsn9TSZAEpwFSFE54_xcFPcuDi/s1600/pro.jpg"
-  },
-  {
-    "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-    "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-    "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. I…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 10 Aug 2026 11:20:03 +0530",
-    "timestamp": 1786341003.0,
-    "isoDate": "2026-08-10T05:50:03+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg"
-  },
-  {
-    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-    "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-    "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different rou…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 08 Aug 2026 14:24:50 +0530",
-    "timestamp": 1786179290.0,
-    "isoDate": "2026-08-08T08:54:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFYjJTxVoOMkR9DDRPZ5PkeR_EWAqmBScR3TPw3mlweipGlnQKq0OdfVqR2f26QIV3kBJWQIM65f8XwMSFq3zT6Bl4fsTvkPHxJiU2LilhK9s0tcreXt2gotEpE8sKoDrLQJ3SSVY9B-RS0FsS2dC480op8OV-caeaZvNyTiIipQbeNFJGMnAcjWEVq7g/s1600/rovo.jpg"
   }
 ]

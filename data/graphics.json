@@ -1,5 +1,38 @@
 [
   {
+    "title": "Net Insight Enables One Of Europe’s Largest Broadcast-Grade Centralized Live Productions Over Internet & Cloud",
+    "link": "https://tvnewscheck.com/tech/article/net-insight-enables-one-of-europes-largest-broadcast-grade-centralized-live-productions-over-internet-cloud/",
+    "summary": "DMC Production Norway selected NetInsight’s Open Live Media solution to centralize the production of Blinkfestivalen 2026 (Aug. 5-8). Combining Nimbra 520, Nimbra Edge and Nimbra Live Intelligence, the solution will … The post Net Insight E…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Wed, 12 Aug 2026 14:50:39 +0000",
+    "timestamp": 1786546239.0,
+    "isoDate": "2026-08-12T14:50:39+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Zixi Names Alyson Stewart Senior Director Of Sales",
+    "link": "https://tvnewscheck.com/tech/article/zixi-names-alyson-stewart-senior-director-of-sales/",
+    "summary": "Zixi has appointed Alyson Stewart as senior director of sales. She will lead direct sales and partnerships as Zixi expands its presence with broadcasters, media companies and enterprise customers, the … The post Zixi Names Alyson Stewart Se…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Wed, 12 Aug 2026 14:43:24 +0000",
+    "timestamp": 1786545804.0,
+    "isoDate": "2026-08-12T14:43:24+00:00",
+    "imageUrl": "https://tvnewscheck.com/wp-content/uploads/2026/08/Stewart_Alyson_2026.jpg"
+  },
+  {
+    "title": "Land Communications Deploys Dielectric OptiLoad Systems For High-Power TV Upgrades In Texas",
+    "link": "https://tvnewscheck.com/tech/article/land-communications-deploys-dielectric-optiload-systems-for-high-power-tv-upgrades-in-texas/",
+    "summary": "Broadcasters in Texas are using OptiLoad systems from Sinclair Broadcast Group’s Dielectric to support high-power transmitter upgrades and improve transmitter protection, company and integrator representatives said. Land Communications inst…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Wed, 12 Aug 2026 14:30:13 +0000",
+    "timestamp": 1786545013.0,
+    "isoDate": "2026-08-12T14:30:13+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "After Trump Plane Ruse, WHCA Presses White House On Press Pool Safeguards",
     "link": "https://tvnewscheck.com/journalism/article/after-trump-plane-ruse-whca-presses-white-house-on-press-pool-safeguards/",
     "summary": "The White House Correspondents’ Association has asked President Donald Trump’s administration to “work with us on a protocol for handling extraordinary security circumstances in the future,” now that his secret plane switch last month has b…",
@@ -143,39 +176,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Stops Along the Path of Totality",
-    "link": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
-    "summary": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 12 Aug 2026 04:01:00 +0000",
-    "timestamp": 1786507260.0,
-    "isoDate": "2026-08-12T04:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg?w=2160&h=1500&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
-    "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
-    "summary": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 21:04:39 +0000",
-    "timestamp": 1786482279.0,
-    "isoDate": "2026-08-11T21:04:39+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/nancy-grace-roman-space-telescope-visualization.jpeg?w=1200"
-  },
-  {
-    "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
-    "link": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/",
-    "summary": "NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 19:41:34 +0000",
-    "timestamp": 1786477294.0,
-    "isoDate": "2026-08-11T19:41:34+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/GSFC_20260130_LEMSA3_001911%201.jpg?w=4500&h=3000&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
     "title": "KDKA Debuts AR/VR News Studio",
     "link": "https://tvnewscheck.com/tech/article/kdka-debuts-ar-vr-news-studio/",
     "summary": "The station the 13th CBS-owned to integrate the technology into its news operations. The post KDKA Debuts AR/VR News Studio appeared first on TV News Check.",
@@ -286,17 +286,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Lion Nebula Roars in Webb’s Sights",
-    "link": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/",
-    "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula’s “mane” is clear and detailed in this image released on Aug. 10, 2026, due to Webb’s h…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 17:02:49 +0000",
-    "timestamp": 1786467769.0,
-    "isoDate": "2026-08-11T17:02:49+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kx6d0xbhsyp7q1em5qtc43rp.png?w=2048"
-  },
-  {
     "title": "Roger Keating To Retire As Chief Strategy & Business Development Officer At Hearst Television",
     "link": "https://tvnewscheck.com/business/article/roger-keating-to-retire-as-chief-strategy-business-development-officer-at-hearst-television/",
     "summary": "Keating joined Hearst Television in 2008 to build its digital media unit. Under his leadership, many of the company’s digital properties became market leaders in many of its markets. He also helped lead and found several industry consortia …",
@@ -308,17 +297,6 @@
     "imageUrl": ""
   },
   {
-    "title": "NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula",
-    "link": "https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/",
-    "summary": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation regio…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 15:19:15 +0000",
-    "timestamp": 1786461555.0,
-    "isoDate": "2026-08-11T15:19:15+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/30dor_crop.jpg?w=8249&h=7282&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
     "title": "Unified Streaming Launches Trusted Media To Add Verifiable Provenance To Live & On-Demand Streams",
     "link": "https://tvnewscheck.com/tech/article/unified-streaming-launches-trusted-media-to-add-verifiable-provenance-to-live-on-demand-streams/",
     "summary": "Unified Streaming is rolling out Trusted Media, a tool that lets broadcasters, streaming platforms and content owners attach verifiable authenticity information to live, on-demand and virtual channel streams as they … The post Unified Strea…",
@@ -328,28 +306,6 @@
     "timestamp": 1786459105.0,
     "isoDate": "2026-08-11T14:38:25+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Building the Moon Base: NASA Stories at the Ion",
-    "link": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/",
-    "summary": "As NASA prepares to return astronauts to the lunar surface for longer stays and increasingly complex operations, building the Moon Base will require new ideas, advanced technologies, and expertise across many fields. During NASA Stories at …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 14:16:45 +0000",
-    "timestamp": 1786457805.0,
-    "isoDate": "2026-08-11T14:16:45+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc03215-e1786419412406.jpg?w=1536"
-  },
-  {
-    "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
-    "link": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
-    "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Arte…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 14:00:00 +0000",
-    "timestamp": 1786456800.0,
-    "isoDate": "2026-08-11T14:00:00+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg"
   },
   {
     "title": "Sinclair To Launch ‘Pittsburgh Sports Tonight’ On Aug. 31",
@@ -372,72 +328,6 @@
     "timestamp": 1786449877.0,
     "isoDate": "2026-08-11T12:04:37+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Ben Jones, ‘Dukes Of Hazzard’ Actor & Congressman, Dies At 84",
-    "link": "https://www.nytimes.com/2026/08/10/arts/television/ben-jones-dead.html",
-    "summary": "The post Ben Jones, ‘Dukes Of Hazzard’ Actor & Congressman, Dies At 84 appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 11:54:29 +0000",
-    "timestamp": 1786449269.0,
-    "isoDate": "2026-08-11T11:54:29+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Trump Media Reports More Than 10 Sign-Ups To Real-Time Truth Social Feed",
-    "link": "https://tvnewscheck.com/business/article/trump-media-reports-more-than-10-sign-ups-to-real-time-truth-social-feed/",
-    "summary": "Early customers are primarily high-frequency trading firms. The post Trump Media Reports More Than 10 Sign-Ups To Real-Time Truth Social Feed appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 11:50:01 +0000",
-    "timestamp": 1786449001.0,
-    "isoDate": "2026-08-11T11:50:01+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Anthropic Tries To Shore Up Investor Confidence Ahead Of Blockbuster IPO",
-    "link": "https://tvnewscheck.com/ai/article/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo/",
-    "summary": "The company is racing to public markets this fall and has fielded tough investor questions on Chinese rivals, Trump-era tensions and AI infrastructure boom. The post Anthropic Tries To Shore Up Investor Confidence Ahead Of Blockbuster IPO a…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 11:47:37 +0000",
-    "timestamp": 1786448857.0,
-    "isoDate": "2026-08-11T11:47:37+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity",
-    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
-    "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, July 31, 2026 As mentioned in the previous blog, Curiosity has been exploring a large-scale feature in Gale’s sedimentary record sus…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 06:50:07 +0000",
-    "timestamp": 1786431007.0,
-    "isoDate": "2026-08-11T06:50:07+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04972_mhli_4972MH0008410011802510C00_DXXX.jpg?w=1632&h=1200&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "APOD: 2026 August 11 – Six Moons of Saturn",
-    "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
-    "summary": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinat…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 04:05:00 +0000",
-    "timestamp": 1786421100.0,
-    "isoDate": "2026-08-11T04:05:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08-05-0609_7-SaturnSystem_c.jpg?w=1000&h=896&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Bountiful Roebuck Bay",
-    "link": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
-    "summary": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 11 Aug 2026 04:01:00 +0000",
-    "timestamp": 1786420860.0,
-    "isoDate": "2026-08-11T04:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "From compliance to confidence: How modern organizations are rethinking accessible communication",
