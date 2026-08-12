@@ -1,5 +1,16 @@
 [
   {
+    "title": "Stops Along the Path of Totality",
+    "link": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
+    "summary": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 12 Aug 2026 04:01:00 +0000",
+    "timestamp": 1786507260.0,
+    "isoDate": "2026-08-12T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg?w=2160&h=1500&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
     "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
     "summary": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark …",
@@ -427,17 +438,6 @@
     "timestamp": 1786420860.0,
     "isoDate": "2026-08-11T04:01:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Community College Instructors Bring Astronomy Textbook Into 21st Century",
-    "link": "https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/",
-    "summary": "Teaching the beautiful and inspirational science of astronomy using only the conceptual framework offered by a traditional textbook – without incorporating the wealth of incredible resources, images and activities from NASA – falls short of…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 10 Aug 2026 18:08:56 +0000",
-    "timestamp": 1786385336.0,
-    "isoDate": "2026-08-10T18:08:56+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Community_College_Instructors_Bring_Astronomy_Textbook_Into_21st_Century.jpg?w=979&h=748&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "From compliance to confidence: How modern organizations are rethinking accessible communication",
