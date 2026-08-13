@@ -1,5 +1,16 @@
 [
   {
+    "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+    "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 13 Aug 2026 11:39:48 +0530",
+    "timestamp": 1786601388.0,
+    "isoDate": "2026-08-13T06:09:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg"
+  },
+  {
     "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
     "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
     "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace compa…",
@@ -317,16 +328,5 @@
     "timestamp": 1786367998.0,
     "isoDate": "2026-08-10T13:19:58+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgatgimOxtzWBp5R0l6yiMeoFVAeLE-hn-RGePbOlgUMgb3Vj9cEKav3AadjZBcppLfoDs4o-oREZ0OimLYX9WDnIRwebA4P7nVa-wh8KwHW-z7HUALW_bj2B-53kotBjkGw-6QXx-Awo3OxBlhjIwEIuueFEXLOgpT7cPpz5e_MSlD4l_FHgJocN6QA/s1600/north.jpg"
-  },
-  {
-    "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-    "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-    "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused si…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 10 Aug 2026 17:55:04 +0530",
-    "timestamp": 1786364704.0,
-    "isoDate": "2026-08-10T12:25:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmfqNoa09hdS94VkCzlDhqshyphenhyphenLXM3mo93MtChM8pXBFJxCEh6iP7mlU-wcwnWZGROVidduvOqpGfWajbLA5PaTrH7tibyCqcvmlnS-b4c0yBcGZJ7eJLPPXxoutiEEt_rqGlPf4pSFUjWfmuuME7kegCwQam0Kf7VivC9nAUjKIvxYeBETap8ElXjck5R/s1600/intraid.jpg"
   }
 ]
