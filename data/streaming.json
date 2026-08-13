@@ -1,5 +1,16 @@
 [
   {
+    "title": "Announcing AI-Powered Video Advertising & Operations knowledge badge on AWS Skill Builder",
+    "link": "https://aws.amazon.com/blogs/media/announcing-ai-powered-video-advertising-operations-knowledge-badge-on-aws-skill-builder/",
+    "summary": "Learn more about the new AI-Powered Video Advertising & Operations knowledge badge readiness path, available at no cost on AWS Skill Builder, gives you structured training across the full programmatic advertising stack, from foundational co…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 13 Aug 2026 14:30:48 +0000",
+    "timestamp": 1786631448.0,
+    "isoDate": "2026-08-13T14:30:48+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/09/AWS-knowledge-logo.png"
+  },
+  {
     "title": "Certificate Transparency Monitoring is now generally available",
     "link": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
     "summary": "Cloudflare's Certificate Transparency Monitoring is now generally available. The biggest change: we no longer email you about certificates Cloudflare issued for your domain, so when an alert lands in your inbox, it's worth a look.",
@@ -427,16 +438,5 @@
     "timestamp": 1776177671.0,
     "isoDate": "2026-04-14T14:41:11+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/02/Figure-1-High-level-architecture_NDI.png"
-  },
-  {
-    "title": "Unlocking next generation audio production with MPEG-H on AWS",
-    "link": "https://aws.amazon.com/blogs/media/unlocking-next-generation-audio-production-with-mpeg-h-on-aws/",
-    "summary": "In this post, learn the implementation of cloud-based NGA production workflows using MPEG-H Audio on AWS. By combining Jünger Audio's audio processing expertise, MainConcept's encoding capabilities, Techex's stream processing platform, and …",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Sun, 12 Apr 2026 19:17:18 +0000",
-    "timestamp": 1776021438.0,
-    "isoDate": "2026-04-12T19:17:18+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/01/Figure-1-Solution-architecture-and-signal-workflow.png"
   }
 ]
