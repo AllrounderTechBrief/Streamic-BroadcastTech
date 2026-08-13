@@ -1,5 +1,16 @@
 [
   {
+    "title": "Certificate Transparency Monitoring is now generally available",
+    "link": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
+    "summary": "Cloudflare's Certificate Transparency Monitoring is now generally available. The biggest change: we no longer email you about certificates Cloudflare issued for your domain, so when an alert lands in your inbox, it's worth a look.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 13 Aug 2026 13:00:00 GMT",
+    "timestamp": 1786626000.0,
+    "isoDate": "2026-08-13T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZQPYFA4V0A6ZGSYZDJGASME.png"
+  },
+  {
     "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
     "link": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
     "summary": "In the first half of 2026, Cloudflare detected a 519% surge in hyper-volumetric DDos attacks across its network. These attacks were driven heavily by DNS and CLDAP reflection vectors. This report breaks down how major geopolitical conflicts…",
@@ -207,17 +218,6 @@
     "timestamp": 1785934800.0,
     "isoDate": "2026-08-05T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7B4V2YNVJJXE8VE6E5ZK5E.png"
-  },
-  {
-    "title": "The Agent Development Lifecycle has arrived on Cloudflare",
-    "link": "https://blog.cloudflare.com/agent-development-lifecycle/",
-    "summary": "Agents can write code faster than teams can review, deploy, and maintain it. Today we’re introducing the Agent Development Lifecycle and the Cloudflare primitives that underpin it",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 04 Aug 2026 13:00:00 GMT",
-    "timestamp": 1785848400.0,
-    "isoDate": "2026-08-04T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ6A4Q5CY65JFVVYMJCV4AG7.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
