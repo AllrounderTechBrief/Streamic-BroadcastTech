@@ -1,5 +1,16 @@
 [
   {
+    "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
+    "link": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
+    "summary": "Cloudflare's data shows a clear impact on Internet traffic from Iceland to Spain and Portugal, following the path of totality of the total solar eclipse that occurred on August 12, 2026.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 13 Aug 2026 19:58:01 GMT",
+    "timestamp": 1786651081.0,
+    "isoDate": "2026-08-13T19:58:01+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZY9E03GZQKFZPVFDA5EKNGP.png"
+  },
+  {
     "title": "Announcing AI-Powered Video Advertising & Operations knowledge badge on AWS Skill Builder",
     "link": "https://aws.amazon.com/blogs/media/announcing-ai-powered-video-advertising-operations-knowledge-badge-on-aws-skill-builder/",
     "summary": "Learn more about the new AI-Powered Video Advertising & Operations knowledge badge readiness path, available at no cost on AWS Skill Builder, gives you structured training across the full programmatic advertising stack, from foundational co…",
@@ -218,17 +229,6 @@
     "timestamp": 1785934800.0,
     "isoDate": "2026-08-05T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7CJ0VE6ERSW1KPEN5DGYJX.png"
-  },
-  {
-    "title": "Catching rogue AI behavior with identity-aware analytics",
-    "link": "https://blog.cloudflare.com/identity-aware-ai-gateway/",
-    "summary": "Identity-aware AI Gateway is now in open beta. User Insights turns that traffic into a behavioral baseline for every person and agent, and flags insider risk the moment it appears.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 05 Aug 2026 13:00:00 GMT",
-    "timestamp": 1785934800.0,
-    "isoDate": "2026-08-05T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7B4V2YNVJJXE8VE6E5ZK5E.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
