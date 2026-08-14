@@ -1,5 +1,16 @@
 [
   {
+    "title": "Secure all your internal vibe-coded applications — in one click",
+    "link": "https://blog.cloudflare.com/workers-protected-by-access/",
+    "summary": "Introducing Cloudflare Access for Workers. Attach an Access policy directly to a Worker and it applies everywhere that Worker runs — routes, custom domains, workers.dev, and previews — automatically.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 14 Aug 2026 13:00:00 GMT",
+    "timestamp": 1786712400.0,
+    "isoDate": "2026-08-14T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZW0HXCQS1KX2QJ1MD5YT1JP.png"
+  },
+  {
     "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
     "link": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
     "summary": "Cloudflare's data shows a clear impact on Internet traffic from Iceland to Spain and Portugal, following the path of totality of the total solar eclipse that occurred on August 12, 2026.",
@@ -218,17 +229,6 @@
     "timestamp": 1785934800.0,
     "isoDate": "2026-08-05T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7PDXE4XKZZQV409JNYTS85.png"
-  },
-  {
-    "title": "WriteGuard: fine-grained controls for MCP Servers",
-    "link": "https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/",
-    "summary": "At Cloudflare, we knew we could not depend on every employee to configure every agent perfectly or watch every tool call. Before expanding write access across our own internal MCP servers, we built WriteGuard. We are now bringing those cont…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 05 Aug 2026 13:00:00 GMT",
-    "timestamp": 1785934800.0,
-    "isoDate": "2026-08-05T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7CJ0VE6ERSW1KPEN5DGYJX.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
