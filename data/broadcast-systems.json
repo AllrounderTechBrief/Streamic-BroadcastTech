@@ -1,5 +1,16 @@
 [
   {
+    "title": ".Lab macOS offload tool",
+    "link": "https://www.newsshooter.com/2026/08/16/lab-macos-offload-tool/?utm_source=rss&utm_medium=rss&utm_campaign=lab-macos-offload-tool",
+    "summary": ".Lab is a macOS offload tool built by Yusuke Taki, a working DIT in Tokyo. He decided to build .Lab because he could not get a straight answer about when a copy tool says verified and what it has actually checked. Most copy and verification…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 17 Aug 2026 01:33:02 +0000",
+    "timestamp": 1786930382.0,
+    "isoDate": "2026-08-17T01:33:02+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "WaveXML– Auto-sync for cameras & audio",
     "link": "https://www.newsshooter.com/2026/08/16/wavexml-auto-sync-for-cameras-audio/?utm_source=rss&utm_medium=rss&utm_campaign=wavexml-auto-sync-for-cameras-audio",
     "summary": "WaveXML lines up the Zoom / Sound Devices tracks with the picture, and it also syncs the camera footage. You then export an XML and keep cutting in your NLE. WaveXML beta is a fully functioning app that is free, with no clip or feature limi…",
@@ -41,17 +52,6 @@
     "timeAgo": "Sat, 15 Aug 2026 01:10:10 +0000",
     "timestamp": 1786756210.0,
     "isoDate": "2026-08-15T01:10:10+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "ZineControl Android Version 1.1.0 now available",
-    "link": "https://www.newsshooter.com/2026/08/14/zinecontrol-android-version-1-1-0-now-available/?utm_source=rss&utm_medium=rss&utm_campaign=zinecontrol-android-version-1-1-0-now-available",
-    "summary": "ZineControl Android Version 1.1.0 is now available to download. It has previously been available for iOS devices. The app is Compatible with Nikon Z-series cameras via Wi-Fi or USB. Key Features Real-time live view on your phone ISO, shutte…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Sat, 15 Aug 2026 00:30:12 +0000",
-    "timestamp": 1786753812.0,
-    "isoDate": "2026-08-15T00:30:12+00:00",
     "imageUrl": ""
   },
   {
