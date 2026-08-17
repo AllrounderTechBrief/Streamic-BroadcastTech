@@ -1,5 +1,16 @@
 [
   {
+    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+    "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+    "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 18 Aug 2026 02:33:04 +0530",
+    "timestamp": 1787000584.0,
+    "isoDate": "2026-08-17T21:03:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg"
+  },
+  {
     "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
     "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
     "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to exe…",
@@ -317,16 +328,5 @@
     "timestamp": 1786534894.0,
     "isoDate": "2026-08-12T11:41:34+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg"
-  },
-  {
-    "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-    "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-    "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The mos…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 12 Aug 2026 16:43:03 +0530",
-    "timestamp": 1786533183.0,
-    "isoDate": "2026-08-12T11:13:03+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
   }
 ]
