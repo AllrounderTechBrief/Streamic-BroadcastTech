@@ -1,5 +1,16 @@
 [
   {
+    "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+    "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the origina…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 17 Aug 2026 18:53:51 +0530",
+    "timestamp": 1786973031.0,
+    "isoDate": "2026-08-17T13:23:51+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg"
+  },
+  {
     "title": "How MCP Servers Can Expose Enterprise Secrets",
     "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
     "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their sy…",
@@ -317,16 +328,5 @@
     "timestamp": 1786519900.0,
     "isoDate": "2026-08-12T07:31:40+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg"
-  },
-  {
-    "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-    "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-    "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Micro…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 12 Aug 2026 12:11:38 +0530",
-    "timestamp": 1786516898.0,
-    "isoDate": "2026-08-12T06:41:38+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg"
   }
 ]
