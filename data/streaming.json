@@ -1,5 +1,16 @@
 [
   {
+    "title": "BGP Role model: tracking the adoption of RFC 9234",
+    "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
+    "summary": "RFC 9234 lets routers reject route leaks on their own, using BGP Roles and the Only to Customer attribute. We measured who has deployed it, and found two Tier 1 networks unexpectedly stripping OTC.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 18 Aug 2026 15:21:32 GMT",
+    "timestamp": 1787066492.0,
+    "isoDate": "2026-08-18T15:21:32+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0AP04HK7ZM02ZWP3G59W4DP.png"
+  },
+  {
     "title": "How Cloudflare detects MCP traffic and helps secure it",
     "link": "https://blog.cloudflare.com/mcp-security-updates/",
     "summary": "Cloudflare Gateway identifies MCP requests using protocol-level heuristics. Security teams can use that signal to find shadow MCP traffic, enforce Portal-only access for approved servers, and block direct connections on managed network path…",
@@ -218,17 +229,6 @@
     "timestamp": 1785934841.0,
     "isoDate": "2026-08-05T13:00:41+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7NYA8BN3XM3K0Y64KJCWP4.png"
-  },
-  {
-    "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
-    "link": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
-    "summary": "We built Cloudflare OS to equip our teams to safely rethink how they get work done with AI. The platform brings together the best of our technologies, from our Compute primitives to our Zero Trust suite. This post walks through our journey …",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 05 Aug 2026 13:00:01 GMT",
-    "timestamp": 1785934801.0,
-    "isoDate": "2026-08-05T13:00:01+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7KNN2D04NCEJK30R669DBR.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
