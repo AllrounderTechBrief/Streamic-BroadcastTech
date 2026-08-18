@@ -1,5 +1,38 @@
 [
   {
+    "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+    "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+    "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 18 Aug 2026 23:17:22 +0530",
+    "timestamp": 1787075242.0,
+    "isoDate": "2026-08-18T17:47:22+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg"
+  },
+  {
+    "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+    "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing ma…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 18 Aug 2026 23:14:05 +0530",
+    "timestamp": 1787075045.0,
+    "isoDate": "2026-08-18T17:44:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg"
+  },
+  {
+    "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+    "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+    "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 18 Aug 2026 22:28:16 +0530",
+    "timestamp": 1787072296.0,
+    "isoDate": "2026-08-18T16:58:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg"
+  },
+  {
     "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
     "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
     "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harn…",
@@ -295,38 +328,5 @@
     "timestamp": 1786645030.0,
     "isoDate": "2026-08-13T18:17:10+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnZSPrbeVOhfz52pccm_PbosfzvUlARZ8YoAhLmLd28aHQJ0Nw4T-TeYS2gCgc4bQaNS_c7sFfSFY-tQdGZDD4Uajt1hFhjPzl-XZVyoM72eC5vYStjyfuKwis_vDgrvUgTK7MUJx0kkEHwBJxmIuqp6qkPB-km81UXl6ycj1u9uIORUrVXtYz9L5-Julh/s1600/td.jpg"
-  },
-  {
-    "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
-    "link": "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html",
-    "summary": "Afghan telecom providers and South Asian critical infrastructure organizations have emerged as the target of a new ongoing campaign that delivers a previously undocumented backdoor called PATCHCORD. According to Acronis Threat Research Unit…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 13 Aug 2026 20:30:29 +0530",
-    "timestamp": 1786633229.0,
-    "isoDate": "2026-08-13T15:00:29+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN1h6yVKjJz0W6b8QMy2lmsHgFoVD9MGmbvZs4XRnHXDPcMJw8SDNNgHSnAnDTRCvXD5VyMFl1XtMFqU3uZiKdmtW-1Voos4cqw_JuUiE8mTWy44FFgKQMPvgX-8qzIbNUkk8XMC2l7mU9RyhMIaRI7k1yyDI2SW9o4U8MxfzHNX8xkijzygYkenrWeCOs/s1600/telecom.jpg"
-  },
-  {
-    "title": "AmnesiaStealer Hijacks Chromium Sessions to Give Attackers Live Browser Control on macOS",
-    "link": "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new macOS-oriented, Rust-based information stealer called AmnesiaStealer that's capable of hijacking Chromium web browsers to steal session data. The multi-stage stealer is spread via a …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 13 Aug 2026 19:13:14 +0530",
-    "timestamp": 1786628594.0,
-    "isoDate": "2026-08-13T13:43:14+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKseTvCwFqcMpefo-t9iVJcgB3VNAmPh_RHG1CadNUW-VA2Dn2NRE2HJQwnnwY9JqGD4AEElHZHGX9IlrT2Ts9ayfnIqk_sEJz4uSNzDi8wZhneDyiEovqm8LvP_8QTN5XoF92mQcWDeQFiS_1cJeOeWSC7J11alfbow-dRhIAOVL5y_ggDVEmsbDQSGpo/s1600/chrome-remote.jpg"
-  },
-  {
-    "title": "WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud",
-    "link": "https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html",
-    "summary": "A previously unseen Android near field communication (NFC) relay malware family dubbed WindRelay is being deployed in conjunction with a known remote access trojan (RAT) called SpyNote as part of a contactless payment fraud scheme. The purp…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 13 Aug 2026 17:23:14 +0530",
-    "timestamp": 1786621994.0,
-    "isoDate": "2026-08-13T11:53:14+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvbWVauAzyuLHoSWQPE7jx3sgMZNZ_7yBHAzP_dimt9W0VEgwixqcmdyIAEP-tg3Hya5hZG2KvgrQbYBfbPg1KofrMJTaRppWhN7jg4S9TKhE1UYTO4oqNayOePQWS2OQBcJex49YVMQEZUvvgn4-IpZsspMXw5j5nYwOsxow5y7POPw2fkfjUu0OUYDO/s1600/nfc.jpg"
   }
 ]
