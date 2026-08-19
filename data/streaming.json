@@ -1,5 +1,16 @@
 [
   {
+    "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "summary": "In 2024 and 2025, we reassessed remote Spectre attacks on our Workers infrastructure. We share details about the new attack primitives like Spectre gadgets, remote timers, achieving co-location and how new defenses further harden Cloudflare…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 19 Aug 2026 16:00:28 GMT",
+    "timestamp": 1787155228.0,
+    "isoDate": "2026-08-19T16:00:28+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M00XZZC7473CXRW6EF1Z69ZW.png"
+  },
+  {
     "title": "BGP Role model: tracking the adoption of RFC 9234",
     "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
     "summary": "RFC 9234 lets routers reject route leaks on their own, using BGP Roles and the Only to Customer attribute. We measured who has deployed it, and found two Tier 1 networks unexpectedly stripping OTC.",
@@ -218,17 +229,6 @@
     "timestamp": 1785972291.0,
     "isoDate": "2026-08-05T23:24:51+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7BWZQ3V6HEP8XX36S72VZE.png"
-  },
-  {
-    "title": "The Agent Access Model",
-    "link": "https://blog.cloudflare.com/the-agent-access-model/",
-    "summary": "The Agent Access Model proposes a new architecture to secure task-scoped agents using strict identity brokering, continuous mediation, and stateful trust.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 05 Aug 2026 13:00:41 GMT",
-    "timestamp": 1785934841.0,
-    "isoDate": "2026-08-05T13:00:41+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7NYA8BN3XM3K0Y64KJCWP4.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
