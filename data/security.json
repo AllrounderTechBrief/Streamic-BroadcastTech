@@ -1,5 +1,27 @@
 [
   {
+    "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+    "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+    "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from pay…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 19 Aug 2026 11:31:53 +0530",
+    "timestamp": 1787119313.0,
+    "isoDate": "2026-08-19T06:01:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg"
+  },
+  {
+    "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+    "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+    "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to ne…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 19 Aug 2026 11:09:25 +0530",
+    "timestamp": 1787117965.0,
+    "isoDate": "2026-08-19T05:39:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg"
+  },
+  {
     "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
     "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
     "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilo…",
@@ -306,27 +328,5 @@
     "timestamp": 1786694058.0,
     "isoDate": "2026-08-14T07:54:18+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbxt8OBph0rxAoZdbLb382s4l_N39bPLE0AvbTOd3cIGyvzmQ6PDhyrausjW5xrX-pEbIxhCz1Kc17gbrTdx801nov73lNVJ20DpXeH84JadBPM0rhyWYZqqYmhgJ2Ksjp3iO0dUQA0InqpuyHWWoXsaA1L5lLmxhlxH2lnT9ObfOZxXaERpITVNFOzPv/s1600/cyber.jpg"
-  },
-  {
-    "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
-    "link": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
-    "summary": "A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr. The vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability in the open-source platform that can lead…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 14 Aug 2026 00:15:12 +0530",
-    "timestamp": 1786646712.0,
-    "isoDate": "2026-08-13T18:45:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBHrFMdn5ekgZuyeE4m-ez0biA_lSQ3abNCs7s0YNhWXi-MvjTNhJBgQtjTw_j9zNfDNtp0DtDC6wH9lJcD7obhh9ujkfuk6E0FiX9qH3njE5mcNrtyaxWR3E2RO1ROmlx4B4YbjBtby_P9FXXpl-Be9voGWxC7PbkyVpBrk1zB3KanenH2jVRf_Uv48s4/s1600/geo.jpg"
-  },
-  {
-    "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
-    "link": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
-    "summary": "Some weeks have one big security story. Others bring many smaller updates that are easy to miss but still matter. This week has plenty of them, covering cloud services, AI tools, malware, data breaches, scams, and new attack methods. The la…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 13 Aug 2026 23:47:10 +0530",
-    "timestamp": 1786645030.0,
-    "isoDate": "2026-08-13T18:17:10+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnZSPrbeVOhfz52pccm_PbosfzvUlARZ8YoAhLmLd28aHQJ0Nw4T-TeYS2gCgc4bQaNS_c7sFfSFY-tQdGZDD4Uajt1hFhjPzl-XZVyoM72eC5vYStjyfuKwis_vDgrvUgTK7MUJx0kkEHwBJxmIuqp6qkPB-km81UXl6ycj1u9uIORUrVXtYz9L5-Julh/s1600/td.jpg"
   }
 ]
