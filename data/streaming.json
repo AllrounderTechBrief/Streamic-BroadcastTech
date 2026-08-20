@@ -1,5 +1,16 @@
 [
   {
+    "title": "From all-or-nothing to task-based OAuth consent",
+    "link": "https://blog.cloudflare.com/task-based-oauth-consent/",
+    "summary": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 20 Aug 2026 17:03:03 GMT",
+    "timestamp": 1787245383.0,
+    "isoDate": "2026-08-20T17:03:03+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0E2VFX1WXFF6TK51VFNP5V3.png"
+  },
+  {
     "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
     "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
     "summary": "In 2024 and 2025, we reassessed remote Spectre attacks on our Workers infrastructure. We share details about the new attack primitives like Spectre gadgets, remote timers, achieving co-location and how new defenses further harden Cloudflare…",
@@ -218,17 +229,6 @@
     "timestamp": 1786021200.0,
     "isoDate": "2026-08-06T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZBCD42EV16T4QX44FMGRZ1E.png"
-  },
-  {
-    "title": "Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports",
-    "link": "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/",
-    "summary": "We're honored to announce that Cloudflare is the only vendor that has been recognized as a Visionary in both the 2026 Gartner® Magic Quadrant™ for SASE Platforms and the 2026 Gartner® Magic Quadrant™ for Security Service Edge reports.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 05 Aug 2026 23:24:51 GMT",
-    "timestamp": 1785972291.0,
-    "isoDate": "2026-08-05T23:24:51+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7BWZQ3V6HEP8XX36S72VZE.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
