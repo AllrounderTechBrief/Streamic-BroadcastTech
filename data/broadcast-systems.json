@@ -1,5 +1,27 @@
 [
   {
+    "title": "The end-to-end advantage: how AI-Media’s LEXI Suite is transforming broadcast language workflows",
+    "link": "https://www.tvbeurope.com/media-consumption/the-end-to-end-advantage-how-ai-medias-lexi-suite-is-redefining-broadcast-workflows",
+    "summary": "At IBC2026, AI-Media will showcase how its LEXI Suite makes it easier for broadcasters to subtitle, translate and voice content in real time. Designed to integrate with existing broadcast infrastructure, LEXI brings AI-powered language capa…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 20 Aug 2026 12:25:45 +0000",
+    "timestamp": 1787228745.0,
+    "isoDate": "2026-08-20T12:25:45+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Atomos AtomOS 12.7.4 firmware update",
+    "link": "https://www.newsshooter.com/2026/08/20/atomos-atomos-12-7-4-firmware-update/?utm_source=rss&utm_medium=rss&utm_campaign=atomos-atomos-12-7-4-firmware-update",
+    "summary": "Atomos has released the AtomOS 12.7.4 free firmware update, which introduces a new ‘F-Log2 C Eterna’ gamma option for Ninja RAW, Ninja TX GO, Ninja TX, Shogun AV-19, and Sumo Pro-19, complete with a dedicated EL Zone false colour table cali…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 20 Aug 2026 12:20:35 +0000",
+    "timestamp": 1787228435.0,
+    "isoDate": "2026-08-20T12:20:35+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Alexandra Palace celebrates 90 years since its first BBC TV broadcast",
     "link": "https://www.tvbeurope.com/business/alexandra-palace-celebrates-90-years-since-its-first-bbc-tv-broadcast",
     "summary": "Highlights include free public displays and new digital exhibitions, and the Palace's television transmitter mast will be illuminated throughout the anniversary celebrations The post Alexandra Palace celebrates 90 years since its first BBC …",
@@ -96,17 +118,6 @@
     "timeAgo": "Thu, 20 Aug 2026 05:39:21 +0000",
     "timestamp": 1787204361.0,
     "isoDate": "2026-08-20T05:39:21+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Canon EOS C400 & EOS C80 Firmware Updates",
-    "link": "https://www.newsshooter.com/2026/08/19/canon-eos-c400-eos-c80-firmware-updates-2/?utm_source=rss&utm_medium=rss&utm_campaign=canon-eos-c400-eos-c80-firmware-updates-2",
-    "summary": "Canon has announced a new free firmware update for the EOS C400 and EOS C80 digital cinema cameras. Canon is introducing a new Cinema Exposure Mode, which is designed to improve highlight performance when shooting above base ISO levels (up …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 19 Aug 2026 14:22:35 +0000",
-    "timestamp": 1787149355.0,
-    "isoDate": "2026-08-19T14:22:35+00:00",
     "imageUrl": ""
   },
   {
@@ -262,16 +273,5 @@
     "timestamp": 1786699381.0,
     "isoDate": "2026-08-14T09:23:01+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "How a broadcast industry veteran singlehandedly built an alternative to YouTube",
-    "link": "https://www.tvbeurope.com/media-delivery/how-a-broadcast-industry-veteran-singlehandedly-built-an-alternative-to-youtube",
-    "summary": "Master control veteran Clint Rolfe tells TVBEurope how he built Long Play: an ad-free, algorithm-free platform built to broadcast standards that prioritises preservation, quality control, and creator ownership over engagement metrics The po…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 14 Aug 2026 08:27:56 +0000",
-    "timestamp": 1786696076.0,
-    "isoDate": "2026-08-14T08:27:56+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/08/LongPlay001-726x669.png"
   }
 ]
