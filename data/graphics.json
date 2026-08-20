@@ -1,5 +1,49 @@
 [
   {
+    "title": "MediaCity Studios Upgrades Production Infrastructure With Avid",
+    "link": "https://tvnewscheck.com/tech/article/mediacity-studios-upgrades-production-infrastructure-with-avid/",
+    "summary": "MediaCity Studios, the United Kingdom’s leading television facility based in Salford, has upgraded its production infrastructure with an expanded Avid production ecosystem intended to speed ingest, editing and playout for … The post MediaCi…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 20 Aug 2026 14:32:39 +0000",
+    "timestamp": 1787236359.0,
+    "isoDate": "2026-08-20T14:32:39+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "IBC: swXtch.io Expands Global Distribution Services With SRT & Native Multicast Transport",
+    "link": "https://tvnewscheck.com/tech/article/ibc-swxtch-io-expands-global-distribution-services-with-srt-native-multicast-transport/",
+    "summary": "swXtch.io will unveil the next evolution of its global media transport strategy at IBC 2026 in Amsterdam, Sept. 11-14, expanding its fully managed Global SRT Distribution service and launching native multicast transport for … The post IBC: …",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 20 Aug 2026 14:23:28 +0000",
+    "timestamp": 1787235808.0,
+    "isoDate": "2026-08-20T14:23:28+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "IBC: MultiDyne MRMC Bringing Strengthened Motion Control Business & Expanded Presence",
+    "link": "https://tvnewscheck.com/tech/article/ibc-multidyne-mrmc-bringing-strengthened-motion-control-business-expanded-presence/",
+    "summary": "MultiDyne Video & Fiber Optic Systems will demonstrate its expanding commitment to camera robotics and motion control at IBC 2026 in Amsterdam, Sept. 11-14, where MRMC (MultiDyne Robotics Motion Control), will exhibit for … The post IBC: Mu…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 20 Aug 2026 14:18:23 +0000",
+    "timestamp": 1787235503.0,
+    "isoDate": "2026-08-20T14:18:23+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "IBC: Chyron To Preview HTML Graphics, Cloud Tools & AI Features",
+    "link": "https://tvnewscheck.com/tech/article/ibc-chyron-to-preview-html-graphics-cloud-tools-ai-features/",
+    "summary": "Chyron, a longtime provider of broadcast graphics systems, is showcasing a suite of newsroom-focused tools at IBC 2026 in Amsterdam, Sept. 11-14, aimed at modernizing how stations produce graphics, localize … The post IBC: Chyron To Preview…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Thu, 20 Aug 2026 14:12:12 +0000",
+    "timestamp": 1787235132.0,
+    "isoDate": "2026-08-20T14:12:12+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Charter Closes $34.5 Billion Cox Merger",
     "link": "https://tvnewscheck.com/business/article/charter-closes-34-5-billion-cox-merger/",
     "summary": "The deal will create the nation’s largest Internet and video provider by subscriber base. The post Charter Closes $34.5 Billion Cox Merger appeared first on TV News Check.",
@@ -352,28 +396,6 @@
     "imageUrl": ""
   },
   {
-    "title": "NTP Technology Adds 128-Channel ST 2110-30-RAVENNA AoIP Card for DAD Audio Interfaces",
-    "link": "https://tvnewscheck.com/tech/article/ntp-technology-adds-128-channel-st-2110-30-ravenna-aoip-card-for-dad-audio-interfaces/",
-    "summary": "NTP Technology has added ST 2110-30 audio-over-IP connectivity with AES67 and RAVENNA support to its DAD-branded audio interfaces through a new 128-channel expansion card. The Digital Audio Denmark ST 2110-30-RAVENNA … The post NTP Technolo…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Wed, 19 Aug 2026 14:17:20 +0000",
-    "timestamp": 1787149040.0,
-    "isoDate": "2026-08-19T14:17:20+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "IBC: QuickLink To Showcase New 4K Capabilities Across StudioEdge and StudioCall",
-    "link": "https://tvnewscheck.com/tech/article/ibc-quicklink-to-showcase-new-4k-capabilities-across-studioedge-and-studiocall/",
-    "summary": "QuickLink will spotlight new 4K capabilities for remote guest contribution at IBC 2026, introducing StudioEdge-4K and native 4K 60 fps support for StudioCall, the company said. The new StudioEdge-4K device … The post IBC: QuickLink To Showc…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Wed, 19 Aug 2026 14:05:02 +0000",
-    "timestamp": 1787148302.0,
-    "isoDate": "2026-08-19T14:05:02+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Career Spotlight: Mechanic (Ages 14-18)",
     "link": "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/",
     "summary": "What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you …",
@@ -383,28 +405,6 @@
     "timestamp": 1787147300.0,
     "isoDate": "2026-08-19T13:48:20+00:00",
     "imageUrl": "https://images-assets.nasa.gov/image/KSC-20190326-PH_KLS01_0047/KSC-20190326-PH_KLS01_0047~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "EMAM, PlayBox Neo & SNEWS Unveil Nuvex Integrated Broadcast Platform",
-    "link": "https://tvnewscheck.com/tech/article/emam-playbox-neo-snews-unveil-nuvex-integrated-broadcast-platform/",
-    "summary": "EMAM, PlayBox Neo and SNEWS have launched Nuvex, a connected broadcast workflow platform that combines media asset management, newsroom production and automated playout in a single environment, the companies say. … The post EMAM, PlayBox Ne…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Wed, 19 Aug 2026 13:47:58 +0000",
-    "timestamp": 1787147278.0,
-    "isoDate": "2026-08-19T13:47:58+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Diversified Names Rob Mello To Lead Global Managed Services Practice",
-    "link": "https://tvnewscheck.com/tech/article/diversified-names-rob-mello-to-lead-global-managed-services-practice/",
-    "summary": "Diversified, a provider of audiovisual, broadcast and digital experience integration, has created a Global Managed Services Practice and named Rob Mello vice president of global managed services to lead the unit. … The post Diversified Name…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Wed, 19 Aug 2026 13:41:55 +0000",
-    "timestamp": 1787146915.0,
-    "isoDate": "2026-08-19T13:41:55+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
