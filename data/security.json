@@ -1,5 +1,16 @@
 [
   {
+    "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+    "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 22 Aug 2026 00:23:00 +0530",
+    "timestamp": 1787338380.0,
+    "isoDate": "2026-08-21T18:53:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg"
+  },
+  {
     "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
     "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
     "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 thro…",
@@ -317,16 +328,5 @@
     "timestamp": 1787137308.0,
     "isoDate": "2026-08-19T11:01:48+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg"
-  },
-  {
-    "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-    "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-    "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from pay…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 19 Aug 2026 11:31:53 +0530",
-    "timestamp": 1787119313.0,
-    "isoDate": "2026-08-19T06:01:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg"
   }
 ]
