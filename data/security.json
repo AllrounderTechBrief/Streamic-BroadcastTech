@@ -1,5 +1,27 @@
 [
   {
+    "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+    "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+    "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 thro…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 21 Aug 2026 21:22:10 +0530",
+    "timestamp": 1787327530.0,
+    "isoDate": "2026-08-21T15:52:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg"
+  },
+  {
+    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+    "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+    "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the ma…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 21 Aug 2026 21:11:44 +0530",
+    "timestamp": 1787326904.0,
+    "isoDate": "2026-08-21T15:41:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
+  },
+  {
     "title": "Wazuh and AI For Enhanced SOC Workflows",
     "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
     "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden with…",
@@ -306,27 +328,5 @@
     "timestamp": 1787119313.0,
     "isoDate": "2026-08-19T06:01:53+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg"
-  },
-  {
-    "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-    "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-    "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to ne…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 19 Aug 2026 11:09:25 +0530",
-    "timestamp": 1787117965.0,
-    "isoDate": "2026-08-19T05:39:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg"
-  },
-  {
-    "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-    "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-    "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 18 Aug 2026 23:17:22 +0530",
-    "timestamp": 1787075242.0,
-    "isoDate": "2026-08-18T17:47:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg"
   }
 ]
