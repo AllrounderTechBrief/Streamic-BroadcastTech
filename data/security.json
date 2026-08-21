@@ -1,5 +1,16 @@
 [
   {
+    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+    "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+    "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 21 Aug 2026 12:34:25 +0530",
+    "timestamp": 1787295865.0,
+    "isoDate": "2026-08-21T07:04:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
+  },
+  {
     "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
     "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
     "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a c…",
@@ -317,16 +328,5 @@
     "timestamp": 1787072296.0,
     "isoDate": "2026-08-18T16:58:16+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg"
-  },
-  {
-    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-    "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-    "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harn…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 18 Aug 2026 18:08:36 +0530",
-    "timestamp": 1787056716.0,
-    "isoDate": "2026-08-18T12:38:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg"
   }
 ]
