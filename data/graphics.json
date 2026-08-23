@@ -1,5 +1,16 @@
 [
   {
+    "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+    "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After ta…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Sun, 23 Aug 2026 07:39:28 +0000",
+    "timestamp": 1787470768.0,
+    "isoDate": "2026-08-23T07:39:28+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04982_mcam_4982MR1098550121904994C00_DXXX.jpg?w=1328&h=1184&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Paramount Prepares To Begin Early Settlement Talks With California Officials",
     "link": "https://tvnewscheck.com/business/article/paramount-prepares-to-begin-early-settlement-talks-with-california-officials/",
     "summary": "California and 11 other states sued in July to block the $81 billion merger between Paramount and Warner Bros. Discovery. The post Paramount Prepares To Begin Early Settlement Talks With California Officials appeared first on TV News Check.",
@@ -9,6 +20,17 @@
     "timestamp": 1787430762.0,
     "isoDate": "2026-08-22T20:32:42+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "APOD: 2026 August 22 – Mostly Perseids",
+    "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
+    "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating un…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Sat, 22 Aug 2026 04:05:00 +0000",
+    "timestamp": 1787371500.0,
+    "isoDate": "2026-08-22T04:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg?w=4457&h=4457&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Dow Jumps 518, Nasdaq Adds 113, S&P 500 Rises 33",
@@ -64,6 +86,17 @@
     "timestamp": 1787338438.0,
     "isoDate": "2026-08-21T18:53:58+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+    "link": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
+    "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 21 Aug 2026 18:43:40 +0000",
+    "timestamp": 1787337820.0,
+    "isoDate": "2026-08-21T18:43:40+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/NHQ202608120208.jpg?w=25145&h=17074&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "IBC: Sennheiser Group To Showcase Broadcast Audio Workflow Tools",
@@ -152,6 +185,39 @@
     "timestamp": 1787335431.0,
     "isoDate": "2026-08-21T18:03:51+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+    "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
+    "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides e…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 21 Aug 2026 17:41:00 +0000",
+    "timestamp": 1787334060.0,
+    "isoDate": "2026-08-21T17:41:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Webb Opens Treasure Chest",
+    "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
+    "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary glo…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 21 Aug 2026 17:35:11 +0000",
+    "timestamp": 1787333711.0,
+    "isoDate": "2026-08-21T17:35:11+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg?w=1497"
+  },
+  {
+    "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
+    "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
+    "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wi…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 21 Aug 2026 17:06:36 +0000",
+    "timestamp": 1787331996.0,
+    "isoDate": "2026-08-21T17:06:36+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/artemis-ii-crew-at-wh-aug-19.webp?w=2048"
   },
   {
     "title": "The CW Drops ‘Miss USA Pageant’ One Week Before Air Over ‘Contractual Issue’",
@@ -328,6 +394,50 @@
     "timestamp": 1787307337.0,
     "isoDate": "2026-08-21T10:15:37+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Europe’s Scorching Summer",
+    "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
+    "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 21 Aug 2026 04:01:00 +0000",
+    "timestamp": 1787284860.0,
+    "isoDate": "2026-08-21T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300"
+  },
+  {
+    "title": "SmallSat 2026",
+    "link": "https://science.nasa.gov/earth/smallsat-2026/",
+    "summary": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher Frankli…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 20 Aug 2026 20:05:41 +0000",
+    "timestamp": 1787256341.0,
+    "isoDate": "2026-08-20T20:05:41+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Artemis Mission Patches",
+    "link": "https://www.nasa.gov/image-article/artemis-mission-patches/",
+    "summary": "A jacket decorated with Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida duri…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 20 Aug 2026 15:13:51 +0000",
+    "timestamp": 1787238831.0,
+    "isoDate": "2026-08-20T15:13:51+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260806-ph-rcr01-0010orig.jpg?w=2048"
+  },
+  {
+    "title": "NASA Selects University Teams to Help Advance Aviation Research",
+    "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
+    "summary": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes for small aircraft flying through cities. The agency made award…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 20 Aug 2026 14:57:01 +0000",
+    "timestamp": 1787237821.0,
+    "isoDate": "2026-08-20T14:57:01+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg?w=1400"
   },
   {
     "title": "From compliance to confidence: How modern organizations are rethinking accessible communication",
