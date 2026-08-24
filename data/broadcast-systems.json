@@ -1,5 +1,27 @@
 [
   {
+    "title": "Building the future together: what European broadcasters can learn from CBC/Radio-Canada",
+    "link": "https://www.tvbeurope.com/business/building-the-future-together-what-european-broadcasters-can-learn-from-cbc-radio-canada",
+    "summary": "TVBEurope speaks to François Legrand, senior director, Innovation Hub, to find out what European broadcasters can learn from the organisation's experiences of pushing technological boundaries The post Building the future together: what Euro…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 24 Aug 2026 08:55:21 +0000",
+    "timestamp": 1787561721.0,
+    "isoDate": "2026-08-24T08:55:21+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/08/CBC-Radio-Canada-726x474.jpg"
+  },
+  {
+    "title": "PTZOptics debuts flagship Rise 4K robotic camera",
+    "link": "https://www.tvbeurope.com/live-production/ptzoptics-debuts-flagship-rise-4k-robotic-camera",
+    "summary": "Capturing 4K Ultra HD video at up to 60 fps and featuring 20x optical zoom with approximately 71-degree horizontal field of view, the camera is designed for live sports and events The post PTZOptics debuts flagship Rise 4K robotic camera ap…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Mon, 24 Aug 2026 08:49:38 +0000",
+    "timestamp": 1787561378.0,
+    "isoDate": "2026-08-24T08:49:38+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/08/Product-Photo-PT20X-RISE-4K-BK-Stylized-Angle-Left-4-copy-726x484.jpg"
+  },
+  {
     "title": "Quality, cost, and complexity: TAG Video Systems on the future of live workflows",
     "link": "https://www.tvbeurope.com/media-management/quality-cost-and-complexity-tag-video-systems-on-the-future-of-live-workflows",
     "summary": "Broadcasters are no longer choosing between quality, cost, and productivity—they’re demanding all three. TAG Video Systems’ Kevin Joyce reveals how cloud-native monitoring and open interoperability are helping the industry navigate its most…",
@@ -251,27 +273,5 @@
     "timestamp": 1787047928.0,
     "isoDate": "2026-08-18T10:12:08+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Calrec ImPulseV joins NEP Platform",
-    "link": "https://www.tvbeurope.com/audio/calrec-impulsev-joins-nep-platform",
-    "summary": "The integration aims to bring scalable, operator-friendly audio processing to hybrid broadcast workflows The post Calrec ImPulseV joins NEP Platform appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 18 Aug 2026 09:23:55 +0000",
-    "timestamp": 1787045035.0,
-    "isoDate": "2026-08-18T09:23:55+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/08/NEP-Platform_Calrec-726x408.jpg"
-  },
-  {
-    "title": "PoC demonstrates remote live production over bonded 5G and satellite",
-    "link": "https://www.tvbeurope.com/live-production/poc-demonstrates-remote-live-production-over-bonded-5g-and-satellite",
-    "summary": "Appear X5 simultaneously transported four live camera feeds and two return feeds within a single compact platform, combining with SRT technology to deliver robust, low-latency transport across variable network conditions The post PoC demons…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 18 Aug 2026 08:46:51 +0000",
-    "timestamp": 1787042811.0,
-    "isoDate": "2026-08-18T08:46:51+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/08/X20-Assembly-Front-view-020621-726x380.jpg"
   }
 ]
