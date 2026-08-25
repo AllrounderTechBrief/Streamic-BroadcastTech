@@ -1,5 +1,49 @@
 [
   {
+    "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+    "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+    "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. Ac…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 25 Aug 2026 17:26:15 +0530",
+    "timestamp": 1787658975.0,
+    "isoDate": "2026-08-25T11:56:15+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPS7eK6wOjr-bcJ7RjMVB4C03l21IHeGkyUQNGJANpvXsE90ssTzIlECk6HcpnLkw5_4PYTQ7ZP9k8pj2GBmvLnIfFkv6e-0NkLC4ouAf8Hn24SrQY2egjmzprIkgcvfLRHrYrzPYtx6mXKb59jjGazFjHe_7ttNqB-7AX0OB8ZvTI_QpgCA_NCEZY8Q/s1600/usa.jpg"
+  },
+  {
+    "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+    "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 25 Aug 2026 17:22:43 +0530",
+    "timestamp": 1787658763.0,
+    "isoDate": "2026-08-25T11:52:43+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg"
+  },
+  {
+    "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+    "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 25 Aug 2026 17:03:44 +0530",
+    "timestamp": 1787657624.0,
+    "isoDate": "2026-08-25T11:33:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7P2s27TjJNZnYUm7sRvosSHWRKaS2x-ITabU2QoWKkFiXRH1ggmPOby95djEZo62zvTn3LviG9HuetNXjY9km-dk9XqX_yNzD0Vh6yUfisio5rUP7c0DPDhW_1J877JL4RVY0QjM2vDXXH62rGegDhL0sSPedL99_Rw8P_z-LM67zUFXCiSI1mXGhoM/s1600/ftp-server.jpg"
+  },
+  {
+    "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+    "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+    "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 25 Aug 2026 16:44:07 +0530",
+    "timestamp": 1787656447.0,
+    "isoDate": "2026-08-25T11:14:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3Y0aFTDbQ21xc915TfR8Ij8yXtuti3S7fG8opbdhlekh0FmwKsgWcuHXs8kCr01WBmZCInn_OldVjnXtLed_aDiCd41L1kkup8-CXGOkc4YLfZq7dmlkSNiaT4EHNMqcoA10SOr018r6ZElA3HMOOLWi9Ye-99WlJzKtX4vdDgPZSWwfpgT9Eo8mres/s1600/sans.jpg"
+  },
+  {
     "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
     "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
     "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrato…",
@@ -284,49 +328,5 @@
     "timestamp": 1787232268.0,
     "isoDate": "2026-08-20T13:24:28+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg"
-  },
-  {
-    "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-    "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-    "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over nea…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 20 Aug 2026 17:31:24 +0530",
-    "timestamp": 1787227284.0,
-    "isoDate": "2026-08-20T12:01:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsJMUJluWegBU4C6RiZ4QHg6rTqhFHMt5JJt3RR2K7l06c3FOFlnq8gIVuBqVUX8qsJFiAh6KKAlDXpVAydAoC2rM0dUKUayta50sqRXoW36_V2OgSXJBKaaAFY4boBYhtHkqeyBaBZavbo7bz3S8otNwyb3NUmW9j88edph6zAfnyJikYhLBrAHuCdBA/s1600/visa.jpg"
-  },
-  {
-    "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-    "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-    "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 20 Aug 2026 17:15:00 +0530",
-    "timestamp": 1787226300.0,
-    "isoDate": "2026-08-20T11:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0UN7paSPEt1BbP-tObzJmXd5LHvNrZpta_hHK2pwYGVsYyZt2FQO20Ld8uePEO35Hg9MUqHRoA3tvbxXf9Wdh2D8IgHIt9M56YTvveuPUILhMZ_drcaBL6ILCPzZmAwryt6cqjNvh4A0NUIPIBS6tpJCHJz6R5Lu42t06EyJ56wnlATWOg5UC-5JlBA/s1600/tines.jpg"
-  },
-  {
-    "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-    "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-    "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-ba…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 20 Aug 2026 17:09:35 +0530",
-    "timestamp": 1787225975.0,
-    "isoDate": "2026-08-20T11:39:35+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDFisNx669R67D6R9VnkWr_DIhB1VjYqDPrXqKAoeCz0YxbSngLxB15XYLtuKb00YSEE0rxQEfop5v7JIr2SMVOErIM2r_GZqA6q1FDNl_wBeAaukVoAse6l0kXv35dJRTQjT8R0DhS9ihwYUXNd9cFuqYM3GS0o28NyIBAgliuQR8XhKQqhixFcjdZpo/s1600/cdn-boost.jpg"
-  },
-  {
-    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
-    "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
-    "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurren…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 20 Aug 2026 16:56:08 +0530",
-    "timestamp": 1787225168.0,
-    "isoDate": "2026-08-20T11:26:08+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJ75E0bEnkBf9REZEnmMNusCu2L2mrut4dSX8g-VVXH2THKdkXD1GwCZ_O5ZsnGzdamG2t0TVnelMj1TKMghauv4cIndc3OA7kuHQAdxf7FbngV7BaWV_-qmhvLZRNwN_5tkv5dSHViEwDgZ4Mou0TNLrFlyQ2yzyb7GYNQ6PPNVjCoJ7VzeKmly4Ntsf/s1600/Manic.jpg"
   }
 ]
