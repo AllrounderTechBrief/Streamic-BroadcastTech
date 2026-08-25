@@ -1,5 +1,16 @@
 [
   {
+    "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+    "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+    "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 25 Aug 2026 23:47:17 +0530",
+    "timestamp": 1787681837.0,
+    "isoDate": "2026-08-25T18:17:17+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg"
+  },
+  {
     "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
     "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
     "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. Th…",
@@ -317,16 +328,5 @@
     "timestamp": 1787245184.0,
     "isoDate": "2026-08-20T16:59:44+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1600/plc.jpg"
-  },
-  {
-    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-    "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-    "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 20 Aug 2026 20:06:27 +0530",
-    "timestamp": 1787236587.0,
-    "isoDate": "2026-08-20T14:36:27+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg"
   }
 ]
