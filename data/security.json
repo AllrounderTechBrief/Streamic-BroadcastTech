@@ -1,5 +1,16 @@
 [
   {
+    "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+    "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+    "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrato…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 25 Aug 2026 14:04:07 +0530",
+    "timestamp": 1787646847.0,
+    "isoDate": "2026-08-25T08:34:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxn6tX1r1BmVfN_4cdoh6p5jmcAe3D9ckNhjscacXx5HpxZJAdb1SvIWo404cGlwahzCLyFIRB-MdUjGcQdBLLC5pMwaCB75e9AT5jKvC49cvIP5jGIOB4IjcQGaOpibWbIPKj929DICeMilGRZn5JmVIcVslRm2hWgz5RTXIZK5d2b2N5dlEnRBBwWVO/s1600/wordpress-hack.jpg"
+  },
+  {
     "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
     "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence …",
@@ -317,16 +328,5 @@
     "timestamp": 1787225168.0,
     "isoDate": "2026-08-20T11:26:08+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJ75E0bEnkBf9REZEnmMNusCu2L2mrut4dSX8g-VVXH2THKdkXD1GwCZ_O5ZsnGzdamG2t0TVnelMj1TKMghauv4cIndc3OA7kuHQAdxf7FbngV7BaWV_-qmhvLZRNwN_5tkv5dSHViEwDgZ4Mou0TNLrFlyQ2yzyb7GYNQ6PPNVjCoJ7VzeKmly4Ntsf/s1600/Manic.jpg"
-  },
-  {
-    "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-    "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-    "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the sof…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 20 Aug 2026 16:35:11 +0530",
-    "timestamp": 1787223911.0,
-    "isoDate": "2026-08-20T11:05:11+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aHi13XpphD98KUUKTJJB0T5eJW8TLe8qecYWanC8lqujxWOn4dtJUXThwqpfnrd9daSkiLMxXb7r6EFFbYY2fy3qSZteMtPB5Sl5t4K01MKoHywiyohPzUQX17h3oj126zywGtTEP8twGQnbs0wjaecaY8nLhAWXLw0anuJuL2iSJmKBVnzlZhy842E/s1600/nasa.jpg"
   }
 ]
