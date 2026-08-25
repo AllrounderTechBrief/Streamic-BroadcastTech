@@ -66,6 +66,17 @@
     "imageUrl": ""
   },
   {
+    "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+    "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
+    "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important t…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "timestamp": 1787662800.0,
+    "isoDate": "2026-08-25T13:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/HelioSwarm.jpg?w=1650&h=1290&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Clear-Com Appoints Venuetech As Main Middle East Partner",
     "link": "https://tvnewscheck.com/tech/article/clear-com-appoints-venuetech-as-main-middle-east-partner/",
     "summary": "Clear-Com has named Dubai-based Venuetech as its main partner for the Middle East, expanding the company’s regional reach through Venuetech’s network of customers and system integrators. The partnership will put … The post Clear-Com Appoint…",
@@ -427,17 +438,6 @@
     "timestamp": 1787544060.0,
     "isoDate": "2026-08-24T04:01:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg?w=2322&h=1940&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
-    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-    "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After ta…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Sun, 23 Aug 2026 07:39:28 +0000",
-    "timestamp": 1787470768.0,
-    "isoDate": "2026-08-23T07:39:28+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04982_mcam_4982MR1098550121904994C00_DXXX.jpg?w=1328&h=1184&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "From compliance to confidence: How modern organizations are rethinking accessible communication",
