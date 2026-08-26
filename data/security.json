@@ -1,5 +1,27 @@
 [
   {
+    "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+    "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. I…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 26 Aug 2026 19:14:31 +0530",
+    "timestamp": 1787751871.0,
+    "isoDate": "2026-08-26T13:44:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg"
+  },
+  {
+    "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+    "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 26 Aug 2026 18:37:02 +0530",
+    "timestamp": 1787749622.0,
+    "isoDate": "2026-08-26T13:07:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg"
+  },
+  {
     "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
     "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
     "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it. The flaws…",
@@ -306,27 +328,5 @@
     "timestamp": 1787338380.0,
     "isoDate": "2026-08-21T18:53:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg"
-  },
-  {
-    "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-    "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-    "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 thro…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 21 Aug 2026 21:22:10 +0530",
-    "timestamp": 1787327530.0,
-    "isoDate": "2026-08-21T15:52:10+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg"
-  },
-  {
-    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-    "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-    "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the ma…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 21 Aug 2026 21:11:44 +0530",
-    "timestamp": 1787326904.0,
-    "isoDate": "2026-08-21T15:41:44+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
   }
 ]
