@@ -1,5 +1,27 @@
 [
   {
+    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+    "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+    "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 26 Aug 2026 15:57:23 +0530",
+    "timestamp": 1787740043.0,
+    "isoDate": "2026-08-26T10:27:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiLH7AlxOwnKOlTs4Zi3D7tyko_H-564oFmjcBu-YP4_YR7HMgRvWhGB9r0NhXwpVoqVk82yjCt9XjEcDfo7-iSoAVduYsjNndt3gU2fHqJ7PlwnFCjRaHJSYEMuZMAZOn6M_yGZ24JuUUjVCs1hTXes8h-q4OLFj2liDETlKzvCRAqKa-jX2Yrh-iErI/s1600/claude-gym.jpg"
+  },
+  {
+    "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+    "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+    "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and com…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 26 Aug 2026 15:08:45 +0530",
+    "timestamp": 1787737125.0,
+    "isoDate": "2026-08-26T09:38:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigTy6eveBIHNz8iNQ-RoRYOH0dYFTNhtA48mobGTTueVsSSQpFu7qFmSGivtklGBbQutM5ro14LI3Yzq3SxTFaTGPfq350Fe73t_FE4ehl9Y0kRnEVIYIN5K66R-sxa86YTuYDaLOyWdLSxR1AUmCx3UlEMed7dUvA-RtcVLFdmeVP2PTPyebMV-tDBuSg/s1600/chatgpt.jpg"
+  },
+  {
     "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
     "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
     "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six continents, is a response t…",
@@ -306,27 +328,5 @@
     "timestamp": 1787306591.0,
     "isoDate": "2026-08-21T10:03:11+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
-  },
-  {
-    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-    "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-    "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 21 Aug 2026 12:34:25 +0530",
-    "timestamp": 1787295865.0,
-    "isoDate": "2026-08-21T07:04:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
-  },
-  {
-    "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-    "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-    "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 21 Aug 2026 11:36:11 +0530",
-    "timestamp": 1787292371.0,
-    "isoDate": "2026-08-21T06:06:11+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg"
   }
 ]
