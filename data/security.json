@@ -1,5 +1,16 @@
 [
   {
+    "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+    "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+    "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives;…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 26 Aug 2026 17:06:49 +0530",
+    "timestamp": 1787744209.0,
+    "isoDate": "2026-08-26T11:36:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg"
+  },
+  {
     "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
     "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
     "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9…",
@@ -317,16 +328,5 @@
     "timestamp": 1787311299.0,
     "isoDate": "2026-08-21T11:21:39+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
-  },
-  {
-    "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-    "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-    "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Cr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 21 Aug 2026 15:33:11 +0530",
-    "timestamp": 1787306591.0,
-    "isoDate": "2026-08-21T10:03:11+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
   }
 ]
