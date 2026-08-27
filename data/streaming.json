@@ -1,5 +1,16 @@
 [
   {
+    "title": "How CNN Weather is reimaging forecasts with AWS AI",
+    "link": "https://aws.amazon.com/blogs/media/how-cnn-weather-is-reimaging-forecasts-with-aws-ai/",
+    "summary": "In this blog, learn how the CNN Weather app delivers real-time weather summaries using AI/ML, alongside its trusted journalism.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 27 Aug 2026 12:15:33 +0000",
+    "timestamp": 1787832933.0,
+    "isoDate": "2026-08-27T12:15:33+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/27/CNN-Weather-Image.png"
+  },
+  {
     "title": "The Cloudflare Blog – Brought to you by EmDash",
     "link": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
     "summary": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
@@ -427,16 +438,5 @@
     "timestamp": 1776437142.0,
     "isoDate": "2026-04-17T14:45:42+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
-    "link": "https://aws.amazon.com/blogs/media/distribute-ndi-content-from-aws-with-aws-elemental-mediaconnect/",
-    "summary": "In this post, learn how to build a demonstration of low-latency live NDI video conversion to a transport stream in the AWS Cloud with MediaConnect.",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 14 Apr 2026 14:41:11 +0000",
-    "timestamp": 1776177671.0,
-    "isoDate": "2026-04-14T14:41:11+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/02/Figure-1-High-level-architecture_NDI.png"
   }
 ]

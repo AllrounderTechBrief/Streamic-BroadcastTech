@@ -1,5 +1,16 @@
 [
   {
+    "title": "How CNN Weather is reimaging forecasts with AWS AI",
+    "link": "https://aws.amazon.com/blogs/media/how-cnn-weather-is-reimaging-forecasts-with-aws-ai/",
+    "summary": "In this blog, learn how the CNN Weather app delivers real-time weather summaries using AI/ML, alongside its trusted journalism.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 27 Aug 2026 12:15:33 +0000",
+    "timestamp": 1787832933.0,
+    "isoDate": "2026-08-27T12:15:33+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/27/CNN-Weather-Image.png"
+  },
+  {
     "title": "Announcing AI-Powered Video Advertising & Operations knowledge badge on AWS Skill Builder",
     "link": "https://aws.amazon.com/blogs/media/announcing-ai-powered-video-advertising-operations-knowledge-badge-on-aws-skill-builder/",
     "summary": "Learn more about the new AI-Powered Video Advertising & Operations knowledge badge readiness path, available at no cost on AWS Skill Builder, gives you structured training across the full programmatic advertising stack, from foundational co…",
@@ -207,16 +218,5 @@
     "timestamp": 1776437142.0,
     "isoDate": "2026-04-17T14:45:42+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Distribute NDI content from AWS with AWS Elemental MediaConnect",
-    "link": "https://aws.amazon.com/blogs/media/distribute-ndi-content-from-aws-with-aws-elemental-mediaconnect/",
-    "summary": "In this post, learn how to build a demonstration of low-latency live NDI video conversion to a transport stream in the AWS Cloud with MediaConnect.",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 14 Apr 2026 14:41:11 +0000",
-    "timestamp": 1776177671.0,
-    "isoDate": "2026-04-14T14:41:11+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/02/Figure-1-High-level-architecture_NDI.png"
   }
 ]
