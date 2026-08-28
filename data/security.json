@@ -1,5 +1,71 @@
 [
   {
+    "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+    "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+    "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement discl…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 29 Aug 2026 03:00:52 +0530",
+    "timestamp": 1787952652.0,
+    "isoDate": "2026-08-28T21:30:52+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg"
+  },
+  {
+    "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+    "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+    "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rate…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 29 Aug 2026 02:08:47 +0530",
+    "timestamp": 1787949527.0,
+    "isoDate": "2026-08-28T20:38:47+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg"
+  },
+  {
+    "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+    "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+    "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an un…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 28 Aug 2026 22:42:15 +0530",
+    "timestamp": 1787937135.0,
+    "isoDate": "2026-08-28T17:12:15+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg"
+  },
+  {
+    "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+    "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+    "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support for Encrypted Client…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 28 Aug 2026 21:50:46 +0530",
+    "timestamp": 1787934046.0,
+    "isoDate": "2026-08-28T16:20:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg"
+  },
+  {
+    "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+    "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weapo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 28 Aug 2026 21:26:55 +0530",
+    "timestamp": 1787932615.0,
+    "isoDate": "2026-08-28T15:56:55+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg"
+  },
+  {
+    "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+    "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+    "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 28 Aug 2026 20:57:26 +0530",
+    "timestamp": 1787930846.0,
+    "isoDate": "2026-08-28T15:27:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg"
+  },
+  {
     "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
     "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
     "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws…",
@@ -262,71 +328,5 @@
     "timestamp": 1787744209.0,
     "isoDate": "2026-08-26T11:36:49+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg"
-  },
-  {
-    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-    "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-    "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 15:57:23 +0530",
-    "timestamp": 1787740043.0,
-    "isoDate": "2026-08-26T10:27:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiLH7AlxOwnKOlTs4Zi3D7tyko_H-564oFmjcBu-YP4_YR7HMgRvWhGB9r0NhXwpVoqVk82yjCt9XjEcDfo7-iSoAVduYsjNndt3gU2fHqJ7PlwnFCjRaHJSYEMuZMAZOn6M_yGZ24JuUUjVCs1hTXes8h-q4OLFj2liDETlKzvCRAqKa-jX2Yrh-iErI/s1600/claude-gym.jpg"
-  },
-  {
-    "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-    "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-    "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and com…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 15:08:45 +0530",
-    "timestamp": 1787737125.0,
-    "isoDate": "2026-08-26T09:38:45+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigTy6eveBIHNz8iNQ-RoRYOH0dYFTNhtA48mobGTTueVsSSQpFu7qFmSGivtklGBbQutM5ro14LI3Yzq3SxTFaTGPfq350Fe73t_FE4ehl9Y0kRnEVIYIN5K66R-sxa86YTuYDaLOyWdLSxR1AUmCx3UlEMed7dUvA-RtcVLFdmeVP2PTPyebMV-tDBuSg/s1600/chatgpt.jpg"
-  },
-  {
-    "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
-    "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
-    "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six continents, is a response t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 13:24:12 +0530",
-    "timestamp": 1787730852.0,
-    "isoDate": "2026-08-26T07:54:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYeHiMtBGSU21fSYRfXqsYMwsXlIfdl_w5goundqFoLSR1HYz30bgzdHuA1ft2gHjWiS5B-nE5ZpmY1gJiTDlsF8bwwYK9ogGAPmEHWNTA-hVLp09KaMvsu6DbcCW-ZTNtcZj2xHoH4fHhTsr7_zbUoiYKJI6Yj9YdxtbQNBEdv0apv1c3buQiaXmLeMkT/s1600/interpol.jpg"
-  },
-  {
-    "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
-    "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-    "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 12:42:55 +0530",
-    "timestamp": 1787728375.0,
-    "isoDate": "2026-08-26T07:12:55+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnbO35IDgg9dQouCuUCpAko8PiGwwI3lhn7I68m0Ok-PGL84lR1CU0sKk5rWfurFY7u1Fz-9U0-CXi1VCuAVpZDpKF3uDnvtyb062Kls6vW8L7xkTnZBPPJteihNrIWV3C__6JMphWMC7ER4_2bsgKDfzIuq5naTBB3pgZvKvD2v4djmpMh96F62y8Qg/s1600/sleepwalker.jpg"
-  },
-  {
-    "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-    "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS sco…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 11:57:07 +0530",
-    "timestamp": 1787725627.0,
-    "isoDate": "2026-08-26T06:27:07+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg"
-  },
-  {
-    "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
-    "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
-    "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask fo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 11:17:28 +0530",
-    "timestamp": 1787723248.0,
-    "isoDate": "2026-08-26T05:47:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7ibePn1YRPkAC27RIrMl_O-41pR7ieF0Mkpr8WUTkzCddWjpttUiIrXWI3CYGukgNR8eoppnOFUYjzSbEm66XiK4ttGge7-KicMnSf49N5L-wKXyf4NIzWi1Yi5JbKQXPYpmtWfZfMADrNswG9-ZfOOE9LjWwUFl7twHmvEskgU9iXPR5AGEQ4hUETo/s1600/iphone-passcode.jpg"
   }
 ]
