@@ -1,16 +1,5 @@
 [
   {
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching co…",
-    "source": "AI | VentureBeat",
-    "category": "ai-in-media",
-    "timeAgo": "Thu, 27 Aug 2026 14:30:00 GMT",
-    "timestamp": 1787841000.0,
-    "isoDate": "2026-08-27T14:30:00+00:00",
-    "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30"
-  },
-  {
     "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
     "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
     "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling…",
@@ -31,6 +20,17 @@
     "timestamp": 1787832060.0,
     "isoDate": "2026-08-27T12:01:00+00:00",
     "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching co…",
+    "source": "AI | VentureBeat",
+    "category": "ai-in-media",
+    "timeAgo": "Wed, 26 Aug 2026 14:30:00 GMT",
+    "timestamp": 1787754600.0,
+    "isoDate": "2026-08-26T14:30:00+00:00",
+    "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30"
   },
   {
     "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",

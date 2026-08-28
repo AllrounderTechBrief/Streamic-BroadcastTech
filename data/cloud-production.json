@@ -1,5 +1,16 @@
 [
   {
+    "title": "Building audio provenance for AI-generated content at the source with AWS",
+    "link": "https://aws.amazon.com/blogs/media/building-audio-provenance-for-ai-generated-content-at-the-source-with-aws/",
+    "summary": "In this post, we show how to build SENTINEL, an Amazon Web Services (AWS) pipeline that embeds a cryptographic provenance watermark into AI-generated audio at the point of synthesis and carries a verifiable chain of custody through a live-s…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 27 Aug 2026 17:36:05 +0000",
+    "timestamp": 1787852165.0,
+    "isoDate": "2026-08-27T17:36:05+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/25/Figure-1-SENTINEL-four-plane-architecture.png"
+  },
+  {
     "title": "How CNN Weather is reimaging forecasts with AWS AI",
     "link": "https://aws.amazon.com/blogs/media/how-cnn-weather-is-reimaging-forecasts-with-aws-ai/",
     "summary": "In this blog, learn how the CNN Weather app delivers real-time weather summaries using AI/ML, alongside its trusted journalism.",
@@ -207,16 +218,5 @@
     "timestamp": 1776623820.0,
     "isoDate": "2026-04-19T18:37:00+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/17/Figure-1-EngineLab-AIs-project-management-interface.png"
-  },
-  {
-    "title": "MXL is the foundation. Here’s what it takes to build the house",
-    "link": "https://aws.amazon.com/blogs/media/mxl-is-the-foundation-heres-what-it-takes-to-build-the-house/",
-    "summary": "The Hard Part Isn’t the Technology Picture a college basketball game. Two teams, a few thousand fans in the arena, and a regional sports network that has promised its subscribers a live broadcast. The production team has done this before — …",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Fri, 17 Apr 2026 14:45:42 +0000",
-    "timestamp": 1776437142.0,
-    "isoDate": "2026-04-17T14:45:42+00:00",
-    "imageUrl": ""
   }
 ]

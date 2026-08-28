@@ -1,5 +1,27 @@
 [
   {
+    "title": "Building audio provenance for AI-generated content at the source with AWS",
+    "link": "https://aws.amazon.com/blogs/media/building-audio-provenance-for-ai-generated-content-at-the-source-with-aws/",
+    "summary": "In this post, we show how to build SENTINEL, an Amazon Web Services (AWS) pipeline that embeds a cryptographic provenance watermark into AI-generated audio at the point of synthesis and carries a verifiable chain of custody through a live-s…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 27 Aug 2026 17:36:05 +0000",
+    "timestamp": 1787852165.0,
+    "isoDate": "2026-08-27T17:36:05+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/25/Figure-1-SENTINEL-four-plane-architecture.png"
+  },
+  {
+    "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+    "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "summary": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 27 Aug 2026 17:02:35 GMT",
+    "timestamp": 1787850155.0,
+    "isoDate": "2026-08-27T17:02:35+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M117Y6R8CDGVT4K2XX6VQ2YX.png"
+  },
+  {
     "title": "How CNN Weather is reimaging forecasts with AWS AI",
     "link": "https://aws.amazon.com/blogs/media/how-cnn-weather-is-reimaging-forecasts-with-aws-ai/",
     "summary": "In this blog, learn how the CNN Weather app delivers real-time weather summaries using AI/ML, alongside its trusted journalism.",
@@ -231,17 +253,6 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZA2SCKMZTHER9AEFBD0TPDP.png"
   },
   {
-    "title": "Building an open Agentic Internet: readable, discoverable, callable, and payable",
-    "link": "https://blog.cloudflare.com/the-agentic-internet/",
-    "summary": "Agents are a new kind of visitor. They don't render CSS or click ads, but they have a paying human on the other end. Block them and you block your customer. We're building the open tools and protocols so publishers and agents can cooperate …",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 06 Aug 2026 13:00:00 GMT",
-    "timestamp": 1786021200.0,
-    "isoDate": "2026-08-06T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZA0FMHPRQW9N737YVV9WYRZ.png"
-  },
-  {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
     "link": "https://aws.amazon.com/blogs/media/benchmarking-video-codec-quality-by-comparing-ndi-speedhq-and-jpeg-xs/",
     "summary": "Learn more about two codecs frequently used in production workflows are Network Digital Interface (NDI) SpeedHQ and JPEG XS.",
@@ -427,16 +438,5 @@
     "timestamp": 1776623820.0,
     "isoDate": "2026-04-19T18:37:00+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/17/Figure-1-EngineLab-AIs-project-management-interface.png"
-  },
-  {
-    "title": "MXL is the foundation. Here’s what it takes to build the house",
-    "link": "https://aws.amazon.com/blogs/media/mxl-is-the-foundation-heres-what-it-takes-to-build-the-house/",
-    "summary": "The Hard Part Isn’t the Technology Picture a college basketball game. Two teams, a few thousand fans in the arena, and a regional sports network that has promised its subscribers a live broadcast. The production team has done this before — …",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 17 Apr 2026 14:45:42 +0000",
-    "timestamp": 1776437142.0,
-    "isoDate": "2026-04-17T14:45:42+00:00",
-    "imageUrl": ""
   }
 ]
