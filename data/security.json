@@ -1,5 +1,16 @@
 [
   {
+    "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+    "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+    "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code exec…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 29 Aug 2026 21:55:03 +0530",
+    "timestamp": 1788020703.0,
+    "isoDate": "2026-08-29T16:25:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg"
+  },
+  {
     "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
     "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
     "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement discl…",
@@ -317,16 +328,5 @@
     "timestamp": 1787745300.0,
     "isoDate": "2026-08-26T11:55:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vWsyC0OylljN3m8OwCHpDKLPXe9Sw7VI5ddPEuRswkrrsHlTyfbfkXAKOTX7jemZjktTQh1IlD1hjeWsOJwZm2aSe4OtppGdqTBMUCxgFAPIfI2RY-jAdZD5hfHsj7KpRexnN4SbfUJ8nsLB8w6P_me_L8xM00ZjskYgpyEbMkDBC5hSt5FAuLbFaK0/s1600/kaltura.jpg"
-  },
-  {
-    "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-    "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-    "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives;…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 17:06:49 +0530",
-    "timestamp": 1787744209.0,
-    "isoDate": "2026-08-26T11:36:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg"
   }
 ]
