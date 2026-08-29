@@ -1,5 +1,16 @@
 [
   {
+    "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+    "link": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+    "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug.…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 28 Aug 2026 22:21:31 +0000",
+    "timestamp": 1787955691.0,
+    "isoDate": "2026-08-28T22:21:31+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg?w=2048"
+  },
+  {
     "title": "Dow Dips 9, Nasdaq Sinks 139, S&P 500 Falls 19",
     "link": "https://tvnewscheck.com/business/article/dow-dips-9-nasdaq-sinks-139-sp-500-falls-19/",
     "summary": "The bond market prepared for a hike to interest rates, while U.S. stocks drifted lower onFriday. The post Dow Dips 9, Nasdaq Sinks 139, S&P 500 Falls 19 appeared first on TV News Check.",
@@ -9,6 +20,17 @@
     "timestamp": 1787950147.0,
     "isoDate": "2026-08-28T20:49:07+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+    "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
+    "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 28 Aug 2026 20:30:52 +0000",
+    "timestamp": 1787949052.0,
+    "isoDate": "2026-08-28T20:30:52+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/cerberuz-lunarecycle-winners.jpg?w=2048"
   },
   {
     "title": "KPRC Houston Adds Executive Reporter For New Weekly Investigative Newscast, ‘Enough’",
@@ -88,6 +110,28 @@
     "imageUrl": ""
   },
   {
+    "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+    "link": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+    "summary": "President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artem…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 28 Aug 2026 17:37:01 +0000",
+    "timestamp": 1787938621.0,
+    "isoDate": "2026-08-28T17:37:01+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/congressional-space-medal-of-honor-ceremony-1.jpg?w=2048"
+  },
+  {
+    "title": "President Trump Signs Executive Order to Create US Space Academy",
+    "link": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+    "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 28 Aug 2026 17:21:04 +0000",
+    "timestamp": 1787937664.0,
+    "isoDate": "2026-08-28T17:21:04+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/eo-1.png?w=1320"
+  },
+  {
     "title": "KERV.ai Expands LG Ad Solutions Partnership To More Markets",
     "link": "https://tvnewscheck.com/business/article/kerv-ai-expands-lg-ad-solutions-partnership-to-more-markets/",
     "summary": "KERV.ai said it is expanding its partnership with LG Ad Solutions to bring interactive and commerce-enabled connected TV advertising to more international markets, including Canada, Europe, Australia and New Zealand. … The post KERV.ai Expa…",
@@ -119,6 +163,17 @@
     "timestamp": 1787933726.0,
     "isoDate": "2026-08-28T16:15:26+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Grants",
+    "link": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+    "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the i…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 28 Aug 2026 15:45:43 +0000",
+    "timestamp": 1787931943.0,
+    "isoDate": "2026-08-28T15:45:43+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2020/08/NSSC-BLDG-2012-03.jpg?w=1536"
   },
   {
     "title": "TAG Video Systems Cuts Live Production Latency Below Two Frames",
@@ -328,6 +383,61 @@
     "timestamp": 1787913347.0,
     "isoDate": "2026-08-28T10:35:47+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "APOD: 2026 August 28 – The Sky Turns Above Paranal",
+    "link": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/",
+    "summary": "APOD Science APOD APOD: 2026 August 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinat…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 28 Aug 2026 04:05:00 +0000",
+    "timestamp": 1787889900.0,
+    "isoDate": "2026-08-28T04:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TheSkyTurnsAboveParanal.jpg?w=3940&h=5922&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "The Forested Floodplains of Congaree National Park",
+    "link": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/",
+    "summary": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 28 Aug 2026 04:01:00 +0000",
+    "timestamp": 1787889660.0,
+    "isoDate": "2026-08-28T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-forested-floodplains-of-congaree-national-park/congareenp_oli2_20250818.jpg?w=1914&h=1063&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
+    "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/",
+    "summary": "Turkey will sign the Artemis Accords during a ceremony at 2:30 p.m. EDT Monday, Aug. 31, at NASA Headquarters in Washington, becoming the 71st country signatory. NASA Administrator Jared Isaacman will host Turkish Minister of Industry and T…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 27 Aug 2026 18:42:38 +0000",
+    "timestamp": 1787856158.0,
+    "isoDate": "2026-08-27T18:42:38+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg?w=1080"
+  },
+  {
+    "title": "Civil Servants Sworn in at NASA Ames",
+    "link": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/",
+    "summary": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026. The civil servants were sworn-in the same day in…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 27 Aug 2026 18:02:54 +0000",
+    "timestamp": 1787853774.0,
+    "isoDate": "2026-08-27T18:02:54+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0108-042orig.jpg?w=2048"
+  },
+  {
+    "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
+    "link": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
+    "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman mission, visit: https:…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 27 Aug 2026 17:47:11 +0000",
+    "timestamp": 1787852831.0,
+    "isoDate": "2026-08-27T17:47:11+00:00",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/08/encap.jpg?w=1439"
   },
   {
     "title": "From compliance to confidence: How modern organizations are rethinking accessible communication",
