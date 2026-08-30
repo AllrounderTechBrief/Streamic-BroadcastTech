@@ -1,5 +1,16 @@
 [
   {
+    "title": "How Xytech AI cut media production scheduling from hours to minutes with AWS",
+    "link": "https://aws.amazon.com/blogs/media/how-xytech-ai-cut-media-production-scheduling-from-hours-to-minutes-with-aws/",
+    "summary": "Launched at NAB Show 2026, Xytech AI is the first step in a much larger vision: making the full depth of the Xytech media operations platform accessible through natural language.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Sun, 30 Aug 2026 14:26:38 +0000",
+    "timestamp": 1788099998.0,
+    "isoDate": "2026-08-30T14:26:38+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/27/Figure-1-XytechMCP-architecture-diagram.png"
+  },
+  {
     "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
     "link": "https://blog.cloudflare.com/botbase-for-operators/",
     "summary": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.",
@@ -427,16 +438,5 @@
     "timestamp": 1776966359.0,
     "isoDate": "2026-04-23T17:45:59+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
-    "link": "https://aws.amazon.com/blogs/media/enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws/",
-    "summary": "Studios face a critical dilemma: AI tools promise to accelerate production workflows, but adopting them means confronting real concerns about security, intellectual property (IP) protection, and production stability. This post introduces a …",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Sun, 19 Apr 2026 18:37:00 +0000",
-    "timestamp": 1776623820.0,
-    "isoDate": "2026-04-19T18:37:00+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/17/Figure-1-EngineLab-AIs-project-management-interface.png"
   }
 ]

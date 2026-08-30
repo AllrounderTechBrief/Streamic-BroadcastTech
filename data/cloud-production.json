@@ -1,5 +1,16 @@
 [
   {
+    "title": "How Xytech AI cut media production scheduling from hours to minutes with AWS",
+    "link": "https://aws.amazon.com/blogs/media/how-xytech-ai-cut-media-production-scheduling-from-hours-to-minutes-with-aws/",
+    "summary": "Launched at NAB Show 2026, Xytech AI is the first step in a much larger vision: making the full depth of the Xytech media operations platform accessible through natural language.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 30 Aug 2026 14:26:38 +0000",
+    "timestamp": 1788099998.0,
+    "isoDate": "2026-08-30T14:26:38+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/27/Figure-1-XytechMCP-architecture-diagram.png"
+  },
+  {
     "title": "Building audio provenance for AI-generated content at the source with AWS",
     "link": "https://aws.amazon.com/blogs/media/building-audio-provenance-for-ai-generated-content-at-the-source-with-aws/",
     "summary": "In this post, we show how to build SENTINEL, an Amazon Web Services (AWS) pipeline that embeds a cryptographic provenance watermark into AI-generated audio at the point of synthesis and carries a verifiable chain of custody through a live-s…",
@@ -207,16 +218,5 @@
     "timestamp": 1776966359.0,
     "isoDate": "2026-04-23T17:45:59+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "EngineLab AI: Production-ready AI for studios and creators on AWS",
-    "link": "https://aws.amazon.com/blogs/media/enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws/",
-    "summary": "Studios face a critical dilemma: AI tools promise to accelerate production workflows, but adopting them means confronting real concerns about security, intellectual property (IP) protection, and production stability. This post introduces a …",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Sun, 19 Apr 2026 18:37:00 +0000",
-    "timestamp": 1776623820.0,
-    "isoDate": "2026-04-19T18:37:00+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/17/Figure-1-EngineLab-AIs-project-management-interface.png"
   }
 ]
