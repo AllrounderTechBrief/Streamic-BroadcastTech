@@ -1,5 +1,16 @@
 [
   {
+    "title": "AWS at IBC 2026: How AI is transforming the way media gets made",
+    "link": "https://aws.amazon.com/blogs/media/aws-at-ibc-2026-how-ai-is-transforming-the-way-media-gets-made/",
+    "summary": "Check out the AWS IBC 2026 Attendee Guide for full demo details and a few programming highlights below.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 31 Aug 2026 21:00:16 +0000",
+    "timestamp": 1788210016.0,
+    "isoDate": "2026-08-31T21:00:16+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "How PGA TOUR automated live profanity detection with AWS using Amazon Transcribe",
     "link": "https://aws.amazon.com/blogs/media/how-pga-tour-automated-live-profanity-detection-with-aws-using-amazon-transcribe/",
     "summary": "In this post, we share how the PGA TOUR automated their approach with an AI-powered profanity detection and filtering system built on Amazon Transcribe. The solution meant that experienced production staff could take on higher value creativ…",
@@ -207,16 +218,5 @@
     "timestamp": 1778680818.0,
     "isoDate": "2026-05-13T14:00:18+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/04/Figure-1-Create-Queue.png"
-  },
-  {
-    "title": "WNBA Inside the Game, powered by AWS: AI Meets the Next Era of Women’s Basketball",
-    "link": "https://aws.amazon.com/blogs/media/wnba-inside-the-game-powered-by-aws-ai-meets-the-next-era-of-womens-basketball/",
-    "summary": "In this blog post, learn how WNBA Inside the Game powered by Amazon Web Services (AWS) is bringing its AI-powered basketball intelligence platform to the WNBA for the first time, giving fans, broadcasters, and teams a deeper, more precise u…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 07 May 2026 16:54:12 +0000",
-    "timestamp": 1778172852.0,
-    "isoDate": "2026-05-07T16:54:12+00:00",
-    "imageUrl": ""
   }
 ]

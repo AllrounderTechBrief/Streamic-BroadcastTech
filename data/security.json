@@ -1,5 +1,16 @@
 [
   {
+    "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+    "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+    "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected work…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 31 Aug 2026 22:54:28 +0530",
+    "timestamp": 1788197068.0,
+    "isoDate": "2026-08-31T17:24:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg79i0RXS7ZzzPurGwbsquOv8l9-GsYQmsw9y1qCzEeDMKYNXjn84VZVfVZU9aiGqnyDyQ6ZdgKosZxn60KtJ6TgTREMyC_ZnhyCxv3kSLtAXBHA2suVHDYFdWYllL4aN0-exJxnCfjXJL5dlo08aVU1YtzJchTD7nORvsBe0oXivCBhctDCcEn85Cmjiab/s1600/1000104722.jpg"
+  },
+  {
     "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
     "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
     "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even …",
@@ -317,16 +328,5 @@
     "timestamp": 1787828457.0,
     "isoDate": "2026-08-27T11:00:57+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqqkrFYi_Np3w-hHvDbFZqWnf1qCrkS6zwJARAyiKX99YdH2w37pqvD-Zy1HPAYdbJbFu3Tztap9lcuv-lkq8wd9elTkfK0NWN5a9J8218OE9btcQHMdyM93GiuYLuj5mC_TPFBXnVZkUEckgARKceSsJKRqHDeW-U_tsDcPscO3-s2Oid28OEZTz7cIw/s1600/combo-malware.jpg"
-  },
-  {
-    "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-    "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-    "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCara…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 27 Aug 2026 15:03:38 +0530",
-    "timestamp": 1787823218.0,
-    "isoDate": "2026-08-27T09:33:38+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDE2TgdHU9cQ1MQ7milMPfNWnlskvIWM9VB_9t59o4zxCWPtZY5yyhrJ9Pc558pdVGdapBNcv9SP38IyfrHp0KIgLQeYlAQIPGwopzDvg2WimSzte5wkju-6YypllUrEr8-yto3Bx8mZAhfs7Hf64MTLwyDqAUCPEFlSey89QZx3L-xmHFzVBBwQmRVU/s1600/go.jpg"
   }
 ]
