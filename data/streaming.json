@@ -1,5 +1,27 @@
 [
   {
+    "title": "How PGA TOUR automated live profanity detection with AWS using Amazon Transcribe",
+    "link": "https://aws.amazon.com/blogs/media/how-pga-tour-automated-live-profanity-detection-with-aws-using-amazon-transcribe/",
+    "summary": "In this post, we share how the PGA TOUR automated their approach with an AI-powered profanity detection and filtering system built on Amazon Transcribe. The solution meant that experienced production staff could take on higher value creativ…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 31 Aug 2026 14:09:07 +0000",
+    "timestamp": 1788185347.0,
+    "isoDate": "2026-08-31T14:09:07+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/30/Figure-1-Live-profanity-detection-and-filtering-architecture.png"
+  },
+  {
+    "title": "Introducing Adaptive Intelligence: undermining the economics of every bot attack",
+    "link": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+    "summary": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling. Cloudflare's new Adaptive Intelligence engine flips this dynamic by autonomously learning from the…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 31 Aug 2026 12:59:00 GMT",
+    "timestamp": 1788181140.0,
+    "isoDate": "2026-08-31T12:59:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M15GS9CV1VMMQCAPHYE4AFD2.01M15GSA31CJVHRJCPHH7FBX77.png"
+  },
+  {
     "title": "How Xytech AI cut media production scheduling from hours to minutes with AWS",
     "link": "https://aws.amazon.com/blogs/media/how-xytech-ai-cut-media-production-scheduling-from-hours-to-minutes-with-aws/",
     "summary": "Launched at NAB Show 2026, Xytech AI is the first step in a much larger vision: making the full depth of the Xytech media operations platform accessible through natural language.",
@@ -253,17 +275,6 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZA4N9Q0TF9PKSV1ESVPJ9M1.png"
   },
   {
-    "title": "The next generation of MCP",
-    "link": "https://blog.cloudflare.com/mcp-v2/",
-    "summary": "The next version of MCP has a rewritten, stateless core that just works on Workers. We cover upgrades to the protocol, the new feature lifecycle and SDK migration path, and hear from early adopters already running it in production.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 06 Aug 2026 13:00:00 GMT",
-    "timestamp": 1786021200.0,
-    "isoDate": "2026-08-06T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZA53A5G2PQVSM15SFEAYVAS.png"
-  },
-  {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
     "link": "https://aws.amazon.com/blogs/media/benchmarking-video-codec-quality-by-comparing-ndi-speedhq-and-jpeg-xs/",
     "summary": "Learn more about two codecs frequently used in production workflows are Network Digital Interface (NDI) SpeedHQ and JPEG XS.",
@@ -426,17 +437,6 @@
     "timeAgo": "Thu, 07 May 2026 16:54:12 +0000",
     "timestamp": 1778172852.0,
     "isoDate": "2026-05-07T16:54:12+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "AWS Partners driving AI adoption and bringing the future to life for media and entertainment customers worldwide",
-    "link": "https://aws.amazon.com/blogs/media/aws-partners-driving-ai-adoption-and-bringing-the-future-to-life-for-media-and-entertainment-customers-worldwide/",
-    "summary": "As part of AWS’s Three Big Questions podcast series, leaders from AWS partners Thoughtworks, TwelveLabs, and LucidLink shared insights on the trends driving media and entertainment growth and innovation. Audience evolution Vishnu Nair and P…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 23 Apr 2026 17:45:59 +0000",
-    "timestamp": 1776966359.0,
-    "isoDate": "2026-04-23T17:45:59+00:00",
     "imageUrl": ""
   }
 ]

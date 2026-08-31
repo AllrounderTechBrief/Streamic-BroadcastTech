@@ -1,5 +1,71 @@
 [
   {
+    "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+    "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 31 Aug 2026 19:20:00 +0530",
+    "timestamp": 1788184200.0,
+    "isoDate": "2026-08-31T13:50:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQHUlnyxCIYFLSRsvotvppFdq5zZ2BQQXJ4PI03uluqvzH3d4FhLogVr2pn0zbUGUQlQQXrk53CDaRZ3q4jC3wLxxG9NPQMtAsx0qkU4yatwjEogU-3RF4s2jpxb394Sd2JMEYhBKbv9TJd41QqI3WRZEcd5UWHXvszq1cKblrRBthblIYeefUx3wPbBM/s1600/recap.jpg"
+  },
+  {
+    "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+    "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+    "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antiv…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 31 Aug 2026 17:44:00 +0530",
+    "timestamp": 1788178440.0,
+    "isoDate": "2026-08-31T12:14:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OUY2TmBxA9RLM9yG0dnv8OShMmr_0KXcJUWtPvcTbFKQ-jmG4_6PyVNCNxQH9VacMVqmi3ZdmcHepDqoLT4XOl5AHZ6mnxmg_QrTUmK2D01fsjrBJKQ1KmlodLNjgbNp65TVoTslEHW5s1IqgFR8xYQWab9WQBvn30sYuM-xh7pSQfAKUOFi3v4q3Do/s1600/adblock.jpg"
+  },
+  {
+    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+    "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+    "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Securi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 31 Aug 2026 17:17:24 +0530",
+    "timestamp": 1788176844.0,
+    "isoDate": "2026-08-31T11:47:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyB4qaQy8srcEIgc1oMi08PMKtoVFIsmW3ho_7f7rISFML8Kmz8jYzDE1FCN9Nfo4LvvgVFV_FEijgLbCrZcJ5zy7xlvAYTKuyGrcE0IU6yqEd-awlmOyRQ3FXcSeA5yM71NLDa5nxpj9taGnNiVXvCb_5tun5j3dfb6z8j7cmwQ2O0PE2V3y0oKWv6sB/s1600/cursor.jpg"
+  },
+  {
+    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+    "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+    "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. T…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 31 Aug 2026 17:01:47 +0530",
+    "timestamp": 1788175907.0,
+    "isoDate": "2026-08-31T11:31:47+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithkMoEFgk1IZj_h_hGp94DwzD4UyQGh2f-epiRD6fn_XcMyB44HkXe-7XaHzviE8sImzIctDBjibyY0Gdrt_OPFFeja3KnOd9KsPFP3PeTxUzlshseSyukl0-cmQWZctAeVQHTUpvW99C8FZrhCcwPDZWoYShfC9jTGqmj1Va2K-Mo2kK6GbSksGIbM4/s1600/dan.jpg"
+  },
+  {
+    "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+    "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+    "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux manageme…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 31 Aug 2026 14:34:55 +0530",
+    "timestamp": 1788167095.0,
+    "isoDate": "2026-08-31T09:04:55+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYI5Ntk3CPoEGUHNQbd80hij-0QLnz3V_HBU3aXV-mvQq98IE6xsRlbuwZ2PNbbSV7dA-HlNfqRWj0_bd3XpQCOPt9R2gS3PJMm8lfMP_9IoKyhDNbY9NOotNDHO68v2DSUT_R-0UYTqZQc16DJM7OqS8_35iVUMqyy3GrUt7iMaIWz6iW6OSP2ddiDc/s1600/cisco-creds.jpg"
+  },
+  {
+    "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+    "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targ…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 31 Aug 2026 13:26:53 +0530",
+    "timestamp": 1788163013.0,
+    "isoDate": "2026-08-31T07:56:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmPwSKHINCGncOKbSs9X05lJ2CJQivbfLYQ6LP3njVHAc-4fgSYJz-C1u6SUiFEtcF4ddjW3PBayFsVaF2a03OOkaLfWlg8pxJelp5bEhJT0LEv8-XPs9bUf8ruFcGOzjWAbumEJ4Veirq9lAAalOThmUfD0i19Mo5X_HpDcI21_5pJp7WsA8OPh74Ad_/s1600/justice.jpg"
+  },
+  {
     "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
     "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
     "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows …",
@@ -262,71 +328,5 @@
     "timestamp": 1787823218.0,
     "isoDate": "2026-08-27T09:33:38+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDE2TgdHU9cQ1MQ7milMPfNWnlskvIWM9VB_9t59o4zxCWPtZY5yyhrJ9Pc558pdVGdapBNcv9SP38IyfrHp0KIgLQeYlAQIPGwopzDvg2WimSzte5wkju-6YypllUrEr8-yto3Bx8mZAhfs7Hf64MTLwyDqAUCPEFlSey89QZx3L-xmHFzVBBwQmRVU/s1600/go.jpg"
-  },
-  {
-    "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-    "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-    "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 27 Aug 2026 13:43:11 +0530",
-    "timestamp": 1787818391.0,
-    "isoDate": "2026-08-27T08:13:11+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2AxQ4SD6_1WKkpvBVi_M7oKLMeBAiKU4Ek4HbnJXHLX5xSbUg7ky1ITdUJY91n-zZGyK55-qQRd24PWRymLmik7cRl4CYPoaeZL5JuLedlsOTJGHChwF1eQWGhUE6AhOZUSW7CoajwQcKCu8E_zrYn8I6203Nrvr9NvheYL-5ISm0fs1xdWNiKGWqIs0/s1600/nvidia-bits.jpg"
-  },
-  {
-    "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
-    "link": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScale…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 27 Aug 2026 12:35:28 +0530",
-    "timestamp": 1787814328.0,
-    "isoDate": "2026-08-27T07:05:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOm0ydTRNpwfiKMNN7TGZyoellV9LHrcra7ES8hU8PvT6haNsS-QQ5IlystrzP1eq5jiIRfyykIZyB5JKrya5K4ryBRp9gKAmsoVW7OMis-YT4T6jnpbN11M8mUnPn-2yY-caG31-iXmDAhJ9CTbRg8r1UPWWqCob_S8St7McsKCM-4I36jD_xqE8D3BS/s1600/cisa-flaws.jpg"
-  },
-  {
-    "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-    "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country. Th…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 22:12:03 +0530",
-    "timestamp": 1787762523.0,
-    "isoDate": "2026-08-26T16:42:03+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRjXW8RS8eKAVsCBovWfkRO7QMTfrgvWcTQtLccJCxq6wXC4OhegU26JXGqEKA0zS951ogEjKmNugfT1jDKlC8Kff6m-LZm-AFQe8Y57c1H_d44_bJPayRw-HpXwbb_MmN3pds3BdBUziNNBlAA_nHqX-BTb6nQLQWrKgJYnpqikUzENaV68VpD9LHsQlX/s1600/chinese.jpg"
-  },
-  {
-    "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-    "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-    "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC).…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 21:05:05 +0530",
-    "timestamp": 1787758505.0,
-    "isoDate": "2026-08-26T15:35:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDtkssu1a2OfGXtU3IlV8MARDVh3XpsurXStcVxASTKf_ACkwIhG6XVbR6fqqWFEFcOEOzLWpy1GGKHgTogw1hQL1O5CtLrLweaGx9GLnM-6CXDApf6VcpFzWFe0FaYgPi1TdhOotRrJ9xU39dk4efUJsMejezEs8t0v8oLyafMuVZrzgkeP-AEhls-x8/s1600/nimbus.png"
-  },
-  {
-    "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-    "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. I…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 19:14:31 +0530",
-    "timestamp": 1787751871.0,
-    "isoDate": "2026-08-26T13:44:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg"
-  },
-  {
-    "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-    "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 26 Aug 2026 18:37:02 +0530",
-    "timestamp": 1787749622.0,
-    "isoDate": "2026-08-26T13:07:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg"
   }
 ]
