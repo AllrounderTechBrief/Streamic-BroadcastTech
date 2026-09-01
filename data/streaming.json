@@ -1,5 +1,16 @@
 [
   {
+    "title": "Build redundant live video workflows with AWS Elemental MediaConnect Router",
+    "link": "https://aws.amazon.com/blogs/media/build-redundant-live-video-workflows-with-aws-elemental-mediaconnect-router/",
+    "summary": "In this post, we assume that you’re familiar with MediaConnect Router inputs, outputs, and network interfaces. If you need a refresher, see Using the MediaConnect Router.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 01 Sep 2026 13:51:36 +0000",
+    "timestamp": 1788270696.0,
+    "isoDate": "2026-09-01T13:51:36+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/26/Figure-1-Single-pipeline.png"
+  },
+  {
     "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
     "link": "https://blog.cloudflare.com/cache-transcoding/",
     "summary": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
@@ -88,7 +99,7 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M117Y6R8CDGVT4K2XX6VQ2YX.png"
   },
   {
-    "title": "How CNN Weather is reimaging forecasts with AWS AI",
+    "title": "How CNN Weather is reimagining forecasts with AWS AI",
     "link": "https://aws.amazon.com/blogs/media/how-cnn-weather-is-reimaging-forecasts-with-aws-ai/",
     "summary": "In this blog, learn how the CNN Weather app delivers real-time weather summaries using AI/ML, alongside its trusted journalism.",
     "source": "AWS for M&E Blog",
@@ -427,16 +438,5 @@
     "timestamp": 1778872127.0,
     "isoDate": "2026-05-15T19:08:47+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/30/video1_S4c.png"
-  },
-  {
-    "title": "Getting Started with Wait and Save service-managed fleets on AWS Deadline Cloud",
-    "link": "https://aws.amazon.com/blogs/media/getting-started-with-wait-and-save-service-managed-fleets-on-aws-deadline-cloud/",
-    "summary": "This post shows how to configure Wait and Save for service-managed fleets on Deadline Cloud to reduce CPU rendering costs.",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 13 May 2026 14:00:18 +0000",
-    "timestamp": 1778680818.0,
-    "isoDate": "2026-05-13T14:00:18+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/04/Figure-1-Create-Queue.png"
   }
 ]
