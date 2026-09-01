@@ -1,5 +1,60 @@
 [
   {
+    "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+    "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+    "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 01 Sep 2026 18:38:58 +0530",
+    "timestamp": 1788268138.0,
+    "isoDate": "2026-09-01T13:08:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2I0vj1ygDfFQ8UzazaxECq0aAP3UJ_VRMzeCN0MgTkWk4yLEUbKKU9dE0pIyXZIfJ0MgxjYEqAqWLAXAtuATDCdFZPI9WGkgwz04Mdd7LChIfMrWk-vhGfaHDGtySDkbIXgzBcNfh5qcobm-bz8QWuyVCcH7z9CM_RNZusA2rPEHV5g2WJ2tU6Llrdnu/s1600/iran-hacking.jpg"
+  },
+  {
+    "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+    "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+    "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a term…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 01 Sep 2026 17:00:00 +0530",
+    "timestamp": 1788262200.0,
+    "isoDate": "2026-09-01T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRNAAGu1amxjm97oXzRGvVBD23d-thmuPvBbQm10hKlACH58ndu51swo4ggT2P2FJw1vbmWy6qdMZSyTRrgAXoi19O0Zf0vCcS47oMuhMuPSyKc1kL7bpIySVrQwgrIaYJkc4IiavU0rucYYMYWHwXgDCmsPLanV2LZv3mt__srP93r0vLWSz8Vp_L0o/s1600/click.jpg"
+  },
+  {
+    "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+    "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+    "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it su…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 01 Sep 2026 14:35:30 +0530",
+    "timestamp": 1788253530.0,
+    "isoDate": "2026-09-01T09:05:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b-1gQHvYc7ZLc86QFtZ2LoJ7zFalpJtSy_e_laxiM_f4Ftnhuvp5eCJZRSk2NL_0tZAZAl2z1UPYfOBSTbdGOPOZexgt3GkuUqsrZPgFB2F-qG2Ir_c7Ioj6zcJVdWjzBo90HpcObPWan5eID2df6OXyn3F7-LRpdOvO8TfiZSp8L2j89p2UbsDi3zM4/s1600/metr.jpg"
+  },
+  {
+    "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+    "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+    "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-as…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 01 Sep 2026 13:56:24 +0530",
+    "timestamp": 1788251184.0,
+    "isoDate": "2026-09-01T08:26:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1600/russian.jpg"
+  },
+  {
+    "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+    "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 01 Sep 2026 12:52:30 +0530",
+    "timestamp": 1788247350.0,
+    "isoDate": "2026-09-01T07:22:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s1600/lang.jpg"
+  },
+  {
     "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
     "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
     "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected work…",
@@ -273,60 +328,5 @@
     "timestamp": 1787843536.0,
     "isoDate": "2026-08-27T15:12:16+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1600/threats.jpg"
-  },
-  {
-    "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-    "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 27 Aug 2026 19:09:56 +0530",
-    "timestamp": 1787837996.0,
-    "isoDate": "2026-08-27T13:39:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUdyQnHdjoEXFnc-5nB-6oglAbvpOYwuWqfjYkgeKH6HaqUjosKOHhmEQ_7StMkMBv53gz27Ilg-15yRaQ-hxoYi0ASuRMOCuPTHa8gP6a6PzYSewTWsDkKAx8dsMByZXDYDlRE1wRYoCvE7NuYqXdCpZ8_Y4E4tAUy0SBFl0S_XxLvpnjFRbqat0EwggW/s1600/kiro-amazon.jpg"
-  },
-  {
-    "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-    "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-    "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 27 Aug 2026 17:26:30 +0530",
-    "timestamp": 1787831790.0,
-    "isoDate": "2026-08-27T11:56:30+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg"
-  },
-  {
-    "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-    "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-    "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners T…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 27 Aug 2026 17:26:26 +0530",
-    "timestamp": 1787831786.0,
-    "isoDate": "2026-08-27T11:56:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Ze_JyLo4PQxJMbwu8Mn_aCoLWiD2dgbGmzOPcYcdrN8wunKZu2SZll2fiHcAOFoA0h9N5TYPOY_IvrPpGqTpnXdyd5bXHRtyHqb3t3junXDMotOAD43Y0jzA9wkCSjoOIo1knFjtTVRAeOSjpHqLzfMGceCcHYGb6cE1HD-Y5mtY9hyphenhyphenHT9PeUk3TV68/s1600/TeamPCP-arrest.gif"
-  },
-  {
-    "title": "What the Data Says About AI in Security Operations in 2026",
-    "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-    "summary": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI daily. Another 56% …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 27 Aug 2026 17:00:00 +0530",
-    "timestamp": 1787830200.0,
-    "isoDate": "2026-08-27T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYbYBAkf_-8-lUShFafJ32AYAo_yzwmPmpMcUgd5i9SUaCA8V0t-66WEu2B5U8KLbJ1ie3T-IudVRd73Arprc2iNUqTweYzHN_POtzXr-nJICrNkK_R5dDKr3k5sklozyuO11Y9Av55Git8fvydO3HAAcwgT6sk2gvXzmH5qz-qTMuzQfAmu7EedWV9dE/s1600/pro.jpg"
-  },
-  {
-    "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-    "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-    "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effort to appeal to a br…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 27 Aug 2026 16:30:57 +0530",
-    "timestamp": 1787828457.0,
-    "isoDate": "2026-08-27T11:00:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqqkrFYi_Np3w-hHvDbFZqWnf1qCrkS6zwJARAyiKX99YdH2w37pqvD-Zy1HPAYdbJbFu3Tztap9lcuv-lkq8wd9elTkfK0NWN5a9J8218OE9btcQHMdyM93GiuYLuj5mC_TPFBXnVZkUEckgARKceSsJKRqHDeW-U_tsDcPscO3-s2Oid28OEZTz7cIw/s1600/combo-malware.jpg"
   }
 ]
