@@ -1,5 +1,16 @@
 [
   {
+    "title": "Bitmovin enhances streaming intelligence with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/media/bitmovin-enhances-streaming-intelligence-with-amazon-bedrock/",
+    "summary": "In this blog, learn how Amazon Web Services (AWS) Partner Bitmovin has developed the AI Session Interpreter powered by the Mistral 7B foundation model (FM) on Amazon Bedrock, a fully managed service that offers a choice of industry-leading …",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 01 Sep 2026 21:49:22 +0000",
+    "timestamp": 1788299362.0,
+    "isoDate": "2026-09-01T21:49:22+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/30/Bitmovin.jpg"
+  },
+  {
     "title": "Build redundant live video workflows with AWS Elemental MediaConnect Router",
     "link": "https://aws.amazon.com/blogs/media/build-redundant-live-video-workflows-with-aws-elemental-mediaconnect-router/",
     "summary": "In this post, we assume that you’re familiar with MediaConnect Router inputs, outputs, and network interfaces. If you need a refresher, see Using the MediaConnect Router.",
@@ -207,16 +218,5 @@
     "timestamp": 1779372220.0,
     "isoDate": "2026-05-21T14:03:40+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/15/Amazon-IVS-SSAI-architecture-overview.png"
-  },
-  {
-    "title": "S4C on Freely: How a local broadcaster delivered a complex live TV workflow with AWS Elemental Media Services",
-    "link": "https://aws.amazon.com/blogs/media/s4c-on-freely-how-a-local-broadcaster-delivered-a-complex-live-tv-workflow-with-aws-elemental-media-services/",
-    "summary": "S4C has been the home of Welsh-language television since 1982. In its recent “digital first” strategy, the public service broadcaster describes itself as being “more than a TV channel,” and its mission is clear: to show the world through th…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Fri, 15 May 2026 19:08:47 +0000",
-    "timestamp": 1778872127.0,
-    "isoDate": "2026-05-15T19:08:47+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/04/30/video1_S4c.png"
   }
 ]
