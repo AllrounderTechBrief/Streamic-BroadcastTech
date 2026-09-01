@@ -1,5 +1,27 @@
 [
   {
+    "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+    "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authen…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 01 Sep 2026 23:23:11 +0530",
+    "timestamp": 1788285191.0,
+    "isoDate": "2026-09-01T17:53:11+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg"
+  },
+  {
+    "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+    "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+    "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 01 Sep 2026 22:49:24 +0530",
+    "timestamp": 1788283164.0,
+    "isoDate": "2026-09-01T17:19:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGVdje0roDTqKcU541FTx34ODDmuBU-qtwYwoW0-qAYscD9yX5stIs8EhQtC7gnwM4WpqNTjYFRRwXm7w97C5tY7eEhCQJ89Y_uesRzrbbuR7knHdEkoDetSlRpfa8XOD_rdChE5yFh3VtBPlChgYRKp9ZDon-0B1_VAM9NOd0_xvgw9gD_YF7lSBXiPI/s1600/brazil.jpg"
+  },
+  {
     "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
     "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
     "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deploy…",
@@ -306,27 +328,5 @@
     "timestamp": 1787905259.0,
     "isoDate": "2026-08-28T08:20:59+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhjJnzm1UIfq8P7glIadtS8dGFvdsASot4sviMtZtFwpKL5B_2upZBcjMdYEBDcSnGmxpKP5LPUQ4XTpao-qCCbe6hQYF9qQBF7bhcPcZJkaz8KY9CCaKBRe-iu3ovbkZWjjtWEs_XJ9hl7D9ZRdKK9LqJynEh9XQ_7o8HZGi572pfnKyt3Yznk1QA311_/s1600/eu-meeting.jpg"
-  },
-  {
-    "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-    "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-    "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 28 Aug 2026 00:06:19 +0530",
-    "timestamp": 1787855779.0,
-    "isoDate": "2026-08-27T18:36:19+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1600/openai.jpg"
-  },
-  {
-    "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-    "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 27 Aug 2026 20:43:00 +0530",
-    "timestamp": 1787843580.0,
-    "isoDate": "2026-08-27T15:13:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYbQmCgjQOeGU5sXrRRnYNbfxDed_Evv1vYrDL4L4NOguQ5wIxE6glQW7yQvhR1Dzs4Gbddc2ktadXWc2VkaGHE4pvMmjaXHMRuepjwrzefXNHb6B3Shk51VRBQw0etS5WWsS9JuNN4q_Y8lDSFtzKNEgi2X-NvAllwzw5_03HwGdC7iNJc6METEjcUNc/s1600/nodejs.gif"
   }
 ]
