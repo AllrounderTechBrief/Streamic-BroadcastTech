@@ -1,5 +1,60 @@
 [
   {
+    "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+    "link": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+    "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resulted in compromises a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 02 Sep 2026 22:11:06 +0530",
+    "timestamp": 1788367266.0,
+    "isoDate": "2026-09-02T16:41:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKCtgI2bIF4kLY71qjkluS80XAm5YPA9y9GzTxC8XBTaxq1d42jyZ-bxAr7OlZ-wCc4-RDp_NmUPKxd9TS1dvtjt3gysB86SkMuQ5q6vGb7HTh-DVMNC8VJcJFC2sJmiSQ740SX-miCoyiGfkAXLqO1ySH3zenWcAP7g6ilReO9jRsnl3Tnw279K7NYF3/s1600/windows-updates.jpg"
+  },
+  {
+    "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+    "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+    "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at pu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 02 Sep 2026 19:36:59 +0530",
+    "timestamp": 1788358019.0,
+    "isoDate": "2026-09-02T14:06:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrspu4otI5zjtu2q78NDrwnqfbTv4jzqXhH-txAo8pCjXDPRJjLvfWpRyHvbimqVvAOZWI0pMVmu2jWVdETbh2csa2UkMHx0M2uu9cJkB0_E4x1mjjs_1F9RYZjozZQvIYN5Xux43DX1u0jCQE_Pk19yE8BnR_RxXN-QXmP5jf74ZQgE9uQVUONJoQKQ/s1600/aix.gif"
+  },
+  {
+    "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+    "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+    "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 02 Sep 2026 19:14:16 +0530",
+    "timestamp": 1788356656.0,
+    "isoDate": "2026-09-02T13:44:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg"
+  },
+  {
+    "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+    "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+    "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider accou…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 02 Sep 2026 18:42:45 +0530",
+    "timestamp": 1788354765.0,
+    "isoDate": "2026-09-02T13:12:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5HwRa7RftYjoKUzpULa7DXn6tt4sZ7RrL1PNBN0Um5di5vxvgRQvmF3rF9-Xb7URM6YD9t-kEu0e3VBeERcdHio4Bz92EOYUwR2s3dosskPZbfztVyjAQ8p-h9PZ7ns3O8uOJ-DSxWPSIanM7l0lC2AZr71eXzWkSXTb_TjLmyBKvMR1KE97xp8PKJU/s1600/virtualizer.jpg"
+  },
+  {
+    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+    "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 02 Sep 2026 17:52:02 +0530",
+    "timestamp": 1788351722.0,
+    "isoDate": "2026-09-02T12:22:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhCfat7BT6m53utL9Z1iMKYQv6B3QwsQdxZBzkmr1WsJpDDdFGZgHjaLuHSXMBBJSyfxtyR750K33X3GzZwYkHac_3mpIITheSY4lh8LMK-ufnQ9htwhkmfv2MRKfZKtYdROU7VuO0HMmK7BQ7FlttrQiToqHq9zffChgBIOJT8yLL5vT7JY43_FDK-A/s1600/android-trojan.jpg"
+  },
+  {
     "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
     "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
     "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at busine…",
@@ -273,60 +328,5 @@
     "timestamp": 1787952652.0,
     "isoDate": "2026-08-28T21:30:52+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg"
-  },
-  {
-    "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-    "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-    "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rate…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 29 Aug 2026 02:08:47 +0530",
-    "timestamp": 1787949527.0,
-    "isoDate": "2026-08-28T20:38:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg"
-  },
-  {
-    "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-    "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-    "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an un…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 28 Aug 2026 22:42:15 +0530",
-    "timestamp": 1787937135.0,
-    "isoDate": "2026-08-28T17:12:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg"
-  },
-  {
-    "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-    "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-    "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support for Encrypted Client…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 28 Aug 2026 21:50:46 +0530",
-    "timestamp": 1787934046.0,
-    "isoDate": "2026-08-28T16:20:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg"
-  },
-  {
-    "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-    "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weapo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 28 Aug 2026 21:26:55 +0530",
-    "timestamp": 1787932615.0,
-    "isoDate": "2026-08-28T15:56:55+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg"
-  },
-  {
-    "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-    "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-    "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 28 Aug 2026 20:57:26 +0530",
-    "timestamp": 1787930846.0,
-    "isoDate": "2026-08-28T15:27:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg"
   }
 ]
