@@ -1,5 +1,38 @@
 [
   {
+    "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+    "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+    "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcod…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 02 Sep 2026 13:17:13 +0530",
+    "timestamp": 1788335233.0,
+    "isoDate": "2026-09-02T07:47:13+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlWf4d2lnMsRXbG_XpDaQ8uxTM9SD8QBArFea3LdD93t2xnpO4Bw2K_iBewRfrscbj2Kfe6DSkFozbxWnHwMeR5p1cx2XksAyZD5_avLwxqx5L6tvTf_Z807niMu_uqzbslMMgMx8M1IVY9y20gbuDwbWAco96weFLycq2JCQMQ2hpcTnd2yanypqsj4k/s1600/claude.jpg"
+  },
+  {
+    "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+    "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a crit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 02 Sep 2026 12:38:50 +0530",
+    "timestamp": 1788332930.0,
+    "isoDate": "2026-09-02T07:08:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb9lLZ-CHEFECU3vn2ObupuzweLn7l23dnUcs2Qd1H5hsxut3nQKqe6W3lbh_cSyVF4PDgdfuSauhpeMKmW6wZGYW3kpVdhTfWhfpISTtfRzw25VOSvJNR8dnh_WWKwyZ0VnWe8nndwwfnWN-gPSdqmLBhJW2vkqjCkfMo8Eo-sucoSIr6JMT-7HxHnsCw/s1600/admin.jpg"
+  },
+  {
+    "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+    "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authori…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 02 Sep 2026 12:26:30 +0530",
+    "timestamp": 1788332190.0,
+    "isoDate": "2026-09-02T06:56:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDpXbKu79XC2ObZuqgBEMG9E1VR-SyLdDwhylzbIupomfXEbDe_gUT29NNntDVz9NtiGLhnHJdrq1GyC5RbPHozyzmCVov6JJIg2sCiCb5Jp8SHEInYNR5PRE06TrBh4Oqy8WT7GbTtGOZisMrKuCWaUWn5vaJkbHPmhTEb7O0voiiBDdYHcxc02YhLBb1/s1600/botnet-malware.jpg"
+  },
+  {
     "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
     "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
     "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authen…",
@@ -295,38 +328,5 @@
     "timestamp": 1787914709.0,
     "isoDate": "2026-08-28T10:58:29+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i2viN2zKBeSxzTqoxZkPNq_6lPMDBLb18zbLPwufsY4mFm494ydDDAWi6gGwy6PsmRGublHFmdmcEiGKViLuUgaJwWux_YUW7HQHuGbbf04HGNpoZa6QLmvf1IHE04TeTT89Yc1_jo0z6mptCbX-fIhVEVQzg5GnfU2Uya4HHASHbttTBGMxl7KMkbM/s1600/router-malware.jpg"
-  },
-  {
-    "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-    "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-    "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier C…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 28 Aug 2026 15:15:15 +0530",
-    "timestamp": 1787910315.0,
-    "isoDate": "2026-08-28T09:45:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKp2lGcxPfp8ymA88FIBXB0Bn9fcUSaU_UIl1pfAjDSC2usRwUE73vhQEeP6jar9U9k10yotgyYl_tIk6dQA-MFIr2bJ3LN_azGt9kDU6hpW448HgmBuJbc6TWSo1vfpmhoK0J3_5rhF6VIpWd7NYf0G1YSYHdqKubWgQwa1yU6KRAL-bnDGd8HmCmPk/s1600/cpanel-root.jpg"
-  },
-  {
-    "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-    "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-    "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 28 Aug 2026 13:55:36 +0530",
-    "timestamp": 1787905536.0,
-    "isoDate": "2026-08-28T08:25:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3avAnoYOOKqF8JpZv9Lng1lKE0AqmHOqM-Mq2T297NQrtDBM90yMYIzzVMHgzqytcCvFz7LuBXoPp-d9mRh0_dywBaM8NxZaiKPG0gDuYbSt2oRJdxSkHG5tWjxAMKvWUYZe6YINf_-7i5zUS7xGrDcaXulRvT5jVihWDJzAHSlaXQ6UYlHa6cPMpxbDC/s1600/papercut.jpg"
-  },
-  {
-    "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-    "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-    "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt G…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 28 Aug 2026 13:50:59 +0530",
-    "timestamp": 1787905259.0,
-    "isoDate": "2026-08-28T08:20:59+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhjJnzm1UIfq8P7glIadtS8dGFvdsASot4sviMtZtFwpKL5B_2upZBcjMdYEBDcSnGmxpKP5LPUQ4XTpao-qCCbe6hQYF9qQBF7bhcPcZJkaz8KY9CCaKBRe-iu3ovbkZWjjtWEs_XJ9hl7D9ZRdKK9LqJynEh9XQ_7o8HZGi572pfnKyt3Yznk1QA311_/s1600/eu-meeting.jpg"
   }
 ]
