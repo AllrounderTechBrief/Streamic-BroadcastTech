@@ -1,5 +1,16 @@
 [
   {
+    "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+    "link": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+    "summary": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identif…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 03 Sep 2026 21:03:02 GMT",
+    "timestamp": 1788469382.0,
+    "isoDate": "2026-09-03T21:03:02+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png"
+  },
+  {
     "title": "Bitmovin enhances streaming intelligence with Amazon Bedrock",
     "link": "https://aws.amazon.com/blogs/media/bitmovin-enhances-streaming-intelligence-with-amazon-bedrock/",
     "summary": "In this blog, learn how Amazon Web Services (AWS) Partner Bitmovin has developed the AI Session Interpreter powered by the Mistral 7B foundation model (FM) on Amazon Bedrock, a fully managed service that offers a choice of industry-leading …",
@@ -295,17 +306,6 @@
     "timestamp": 1786107600.0,
     "isoDate": "2026-08-07T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZCB5TGPAH6A73FHJ2QHFR7T.png"
-  },
-  {
-    "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
-    "link": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
-    "summary": "Cloudflare is unifying AI Gateway and Workers AI into a single control plane, giving developers observability, billing, and dynamic routing across both managed GPUs and external providers. Learn how unified bindings and model-first routing …",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 07 Aug 2026 13:00:00 GMT",
-    "timestamp": 1786107600.0,
-    "isoDate": "2026-08-07T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZA5VCX2R70YMT8M56D89B37.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
