@@ -1,5 +1,27 @@
 [
   {
+    "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
+    "link": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/",
+    "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascin…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 03 Sep 2026 04:05:00 +0000",
+    "timestamp": 1788408300.0,
+    "isoDate": "2026-09-03T04:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/eclipse_stork.jpg?w=1638&h=2048&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Peatland Fires Darken Skies in Indonesia",
+    "link": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/",
+    "summary": "With Indonesia gripped by drought, fires are smoldering on the surface and underground.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 03 Sep 2026 04:01:00 +0000",
+    "timestamp": 1788408060.0,
+    "isoDate": "2026-09-03T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/peatland-fires-darken-skies-in-indonesia/indonesiafires_amo_20260901.jpg"
+  },
+  {
     "title": "Trump’s Threat Against An NBC Journalist Is An Attack On Reality",
     "link": "https://tvnewscheck.com/journalism/article/trumps-threat-against-an-nbc-journalist-is-an-attack-on-reality/",
     "summary": "Margaret Sullivan: The president’s call for the FCC to scrutinize Kristen Welker’s innocuous remarks is a sign of desperation. The post Trump’s Threat Against An NBC Journalist Is An Attack On Reality appeared first on TV News Check.",
@@ -416,28 +438,6 @@
     "timestamp": 1788283835.0,
     "isoDate": "2026-09-01T17:30:35+00:00",
     "imageUrl": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
-    "link": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/",
-    "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinat…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 01 Sep 2026 04:05:00 +0000",
-    "timestamp": 1788235500.0,
-    "isoDate": "2026-09-01T04:05:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneEclipse_Ferreira_1059.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Ice Island Survives Run-In With Joe Island",
-    "link": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
-    "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 01 Sep 2026 04:00:00 +0000",
-    "timestamp": 1788235200.0,
-    "isoDate": "2026-09-01T04:00:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824.jpg"
   },
   {
     "title": "From compliance to confidence: How modern organizations are rethinking accessible communication",
