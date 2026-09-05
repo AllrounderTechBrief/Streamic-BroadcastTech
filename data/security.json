@@ -1,5 +1,16 @@
 [
   {
+    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+    "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+    "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone nu…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 05 Sep 2026 19:47:02 +0530",
+    "timestamp": 1788617822.0,
+    "isoDate": "2026-09-05T14:17:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg"
+  },
+  {
     "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
     "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
     "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool…",
@@ -317,16 +328,5 @@
     "timestamp": 1788340223.0,
     "isoDate": "2026-09-02T09:10:23+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg"
-  },
-  {
-    "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-    "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-    "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcod…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 02 Sep 2026 13:17:13 +0530",
-    "timestamp": 1788335233.0,
-    "isoDate": "2026-09-02T07:47:13+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlWf4d2lnMsRXbG_XpDaQ8uxTM9SD8QBArFea3LdD93t2xnpO4Bw2K_iBewRfrscbj2Kfe6DSkFozbxWnHwMeR5p1cx2XksAyZD5_avLwxqx5L6tvTf_Z807niMu_uqzbslMMgMx8M1IVY9y20gbuDwbWAco96weFLycq2JCQMQ2hpcTnd2yanypqsj4k/s1600/claude.jpg"
   }
 ]
