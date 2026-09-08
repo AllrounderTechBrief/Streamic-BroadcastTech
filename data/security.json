@@ -1,5 +1,49 @@
 [
   {
+    "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+    "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+    "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster un…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 08 Sep 2026 21:50:23 +0530",
+    "timestamp": 1788884423.0,
+    "isoDate": "2026-09-08T16:20:23+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6TzHNI7Stg7pvo_Pu0vMltU2jmnIr922wxLWIYFfaRpN3G7rVZCy76FgWwyZUCT36dRygtzxVmZPFTPSm1FuRrmqXwuvTjJhxwJE7zl34ZHuwZUEDdlrnunlem-Xo7KS6Buy1xlHYYxf-0u-d3qWer-o64MrNvrsh5V1WC7dVtGVwubINEgB1AtfQBNC/s1600/brazil-hackers.jpg"
+  },
+  {
+    "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+    "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+    "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain that holds real bitcoin…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 08 Sep 2026 20:24:30 +0530",
+    "timestamp": 1788879270.0,
+    "isoDate": "2026-09-08T14:54:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlEWa8ED8DuOxP9Vi4gKvvtQeWC12LKU4yrjFMJYIczxkqLbjqcHpBHMu4hOHp7zjSLNzbQW8SXMR-3YS0PNgVlVEe-ZgYFfaOPdFYkduxEMls-mRWHx85_WNm8Xli0sGVifFjz4mZ1YjEzHs1DNHFZzzY16ZBZxvi77GmI-mtE3_xiilQo7pfRM_0g8M/s1600/liquid.jpg"
+  },
+  {
+    "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+    "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+    "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the company's proof of co…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 08 Sep 2026 19:49:17 +0530",
+    "timestamp": 1788877157.0,
+    "isoDate": "2026-09-08T14:19:17+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jB-6O69dYNeqBTcSFXPcSQCqwabmHwmdGzC_ne5LyuUH-9v0MpLbJ1cgApFSqTuGG0Z_fKAD4A7gLcBcTdw6oUIv0nh_Pmyb5Obv7XhRY0jVGwPQ50S7rUnYZR8FUvYntVxL03GYJ010-iagkPkeZJ8oV6gvbEaVJPGw-L2rabD5pqOOu2HYW9g_nFcT/s1600/chatgpt-gmail.jpg"
+  },
+  {
+    "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+    "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+    "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential h…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 08 Sep 2026 19:18:16 +0530",
+    "timestamp": 1788875296.0,
+    "isoDate": "2026-09-08T13:48:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVKt_UmqEYNHNt0K516skza4MoV47hITqzcoC3WLLI3QkQ_jUEffHvaL7VHVtzRqvdt6k2bZwGAFVif-hRkoiTQva6JM95w3NgNRU_WpuTaZfhLGXAcOdLQXy_sMWU1dxAunMAsf7J8PEDG2AKvkFuXbOFyOmIQcaocMIBhNpaYscCUeJElKDXu6xGhkX/s1600/ai-agent.jpg"
+  },
+  {
     "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
     "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
     "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or touch their phone for i…",
@@ -284,49 +328,5 @@
     "timestamp": 1788511725.0,
     "isoDate": "2026-09-04T08:48:45+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg"
-  },
-  {
-    "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-    "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-    "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 04 Sep 2026 13:05:14 +0530",
-    "timestamp": 1788507314.0,
-    "isoDate": "2026-09-04T07:35:14+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg"
-  },
-  {
-    "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-    "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-    "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 04 Sep 2026 12:48:47 +0530",
-    "timestamp": 1788506327.0,
-    "isoDate": "2026-09-04T07:18:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjelmC2UuYemuI1nBeaecfPBZ1Bfb5nz6T51_OhCUPHJivX8ioIjrYMVtVsjsrcA0xbEe_O4iMthJ2xwXWJVhAb5CCJlhnJS4McM9IpmPww86RSznT3h7pg5DYOXlnwon616y-1s2qwbWbmR40B5JCvYbtwM8lD5Fk5yLHWS7IKmH5pXQ8qO4SfEasBhhsq/s1600/chrome-v8-exploit.jpg"
-  },
-  {
-    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-    "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-    "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 04 Sep 2026 12:17:52 +0530",
-    "timestamp": 1788504472.0,
-    "isoDate": "2026-09-04T06:47:52+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1600/gpt6.jpg"
-  },
-  {
-    "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-    "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-    "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 03 Sep 2026 23:32:47 +0530",
-    "timestamp": 1788458567.0,
-    "isoDate": "2026-09-03T18:02:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg"
   }
 ]
