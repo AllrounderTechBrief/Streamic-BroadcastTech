@@ -1,5 +1,104 @@
 [
   {
+    "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
+    "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+    "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventorie…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 09 Sep 2026 17:27:36 +0530",
+    "timestamp": 1788955056.0,
+    "isoDate": "2026-09-09T11:57:36+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s1600/tines-webinar.jpg"
+  },
+  {
+    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+    "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+    "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-syste…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 09 Sep 2026 16:47:07 +0530",
+    "timestamp": 1788952627.0,
+    "isoDate": "2026-09-09T11:17:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fUTc6rz4ZeeaMmjDLOfb2qNhnJf_TdNHK3F3qbNCQLLJbaF-nbSw5YPdeSAwg1HjoGwfQJZaXBpwvEbasFDhQb5ZkUm158shateq7uubMyrlejW4SDZAAzNQGUYkYdsxHupipxzRA7dQwTwTt9ArVJgU-wA5bGxIXduJj3CdyBF69Ixp6_qAU1LGzfI/s1600/deepseek.jpg"
+  },
+  {
+    "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+    "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+    "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Li…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 09 Sep 2026 16:13:04 +0530",
+    "timestamp": 1788950584.0,
+    "isoDate": "2026-09-09T10:43:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg"
+  },
+  {
+    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+    "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+    "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillat…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 09 Sep 2026 15:02:26 +0530",
+    "timestamp": 1788946346.0,
+    "isoDate": "2026-09-09T09:32:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL63HDvTiCn3B33K6DsfIbMLjHqXlJAUtoh6euiAwcooJCTdK4Zdkoh8rZ93iQsAAkscB3CmOH6TUQJPor4yH4wN97ABinyCN_5hcHNZ2gAMZH4YtTO3kon5Ws7MZGI5CULnH4SpafnrFsfZO_8j8wfaOFEinAnLIP-LHom_9LNQRJ2wrlYy66bO1RNpwg/s1600/ai-china.jpg"
+  },
+  {
+    "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+    "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+    "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), h…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 09 Sep 2026 14:41:03 +0530",
+    "timestamp": 1788945063.0,
+    "isoDate": "2026-09-09T09:11:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg"
+  },
+  {
+    "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+    "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+    "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, fro…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 09 Sep 2026 13:49:32 +0530",
+    "timestamp": 1788941972.0,
+    "isoDate": "2026-09-09T08:19:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM_YdNiqGpEWkDm5hEkF-RhZ94vv84sJmONomdRsksJ65GwI388Va-uVIzXWhwZtHmBTF3oze2l4Sscj2zpTsn6lqdPWPKAeL1iP6SSyzvNBOA4dLAKxfSmfThhmQgIc_1AYGWG9dbrCLFg_dk4m8pCHxFcJBRnThru8PtB7UJqUy3VjW15-vQlRvuwpc/s1600/cpanel-bug.jpg"
+  },
+  {
+    "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+    "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+    "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the three appliances' own …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 09 Sep 2026 13:06:49 +0530",
+    "timestamp": 1788939409.0,
+    "isoDate": "2026-09-09T07:36:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIA552mINL2oyFm7mf9nHTwjJGJUVAtfYnMXbqYsowSEsDMzVsAgHG8MHKn5_EmwZ9bgRmhEndE20FhQAN4rvOLv5ESSAu0kHTV4QyygvUePYCJ1fvda0bU0Mzi5B9J8LHhULDeRRI9HGC84dntx8jaLu6WFLOz6OOhEwKNnSf6zzFRyAtlLKDQzHvygg/s1600/f5-malware.jpg"
+  },
+  {
+    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+    "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+    "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score:…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 09 Sep 2026 12:17:27 +0530",
+    "timestamp": 1788936447.0,
+    "isoDate": "2026-09-09T06:47:27+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtPq88H-iuD1vEn_DT-1UgFvWXy-P5eKMUm280xVsPt3_Dja1q22icfvF49OduVCGmazXmVmi51Oj58t-2H6JMA4e89X_-obRVRVORjeAZoQzNnw3Io6ad_LofQ1kfum9XeiHC9cijCgAiRL-RsRYjECDVPD_ZT3w61CFj1lkwe2sSZ_1_eSn6Oruh9MJ/s1600/windows-poc.jpg"
+  },
+  {
+    "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+    "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the ap…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 09 Sep 2026 11:55:45 +0530",
+    "timestamp": 1788935145.0,
+    "isoDate": "2026-09-09T06:25:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUnFS6EAvkjYM7AC_3-k8C6QSAmpatuThkiXaa1WxvtiZU7M-n384kpPN4-VSAQfwL8PCTPUVd3iYeTDn_V5ZoZGEfuizJSZghdAw4Ldq_wFg7rxWyKBbwdMctiiBaykAmL40L6wappUeeyIr58u8SFFSszCP-rszf5ioHsaz0dtKilEpkw1LTEmtaCtZ/s1600/sap-flaws.jpg"
+  },
+  {
     "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
     "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
     "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Wi…",
@@ -229,104 +328,5 @@
     "timestamp": 1788687158.0,
     "isoDate": "2026-09-06T09:32:38+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg"
-  },
-  {
-    "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-    "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-    "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Wind…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 06 Sep 2026 14:04:20 +0530",
-    "timestamp": 1788683660.0,
-    "isoDate": "2026-09-06T08:34:20+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg"
-  },
-  {
-    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-    "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-    "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 06 Sep 2026 01:44:47 +0530",
-    "timestamp": 1788639287.0,
-    "isoDate": "2026-09-05T20:14:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghsT_skiIfdOHK2B0WWDfWnSK0G5Ih7BqsX98tKrY4TH7I77oLEmnldtVHuUMEQaIiZZBSPJGI2t8Me7h9kDtE4YGZ9-5NypnAu2-yFFrXsWYkR6OJPlbqkZDEHBAXCmRjWm6Mk4h0Ni48JT0nrDWMYygztjoi4HuHPbe2y-2jreFVkzrxO8r4IhHIEU/s1600/adobe-exploit.jpg"
-  },
-  {
-    "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-    "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-    "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environm…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 05 Sep 2026 22:22:33 +0530",
-    "timestamp": 1788627153.0,
-    "isoDate": "2026-09-05T16:52:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg"
-  },
-  {
-    "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-    "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-    "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 05 Sep 2026 21:35:08 +0530",
-    "timestamp": 1788624308.0,
-    "isoDate": "2026-09-05T16:05:08+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg"
-  },
-  {
-    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-    "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-    "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone nu…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 05 Sep 2026 19:47:02 +0530",
-    "timestamp": 1788617822.0,
-    "isoDate": "2026-09-05T14:17:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg"
-  },
-  {
-    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-    "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-    "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 05 Sep 2026 13:25:10 +0530",
-    "timestamp": 1788594910.0,
-    "isoDate": "2026-09-05T07:55:10+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg"
-  },
-  {
-    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-    "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting C…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 05 Sep 2026 13:01:53 +0530",
-    "timestamp": 1788593513.0,
-    "isoDate": "2026-09-05T07:31:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
-  },
-  {
-    "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-    "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-    "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the atta…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 04 Sep 2026 21:27:15 +0530",
-    "timestamp": 1788537435.0,
-    "isoDate": "2026-09-04T15:57:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
-  },
-  {
-    "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-    "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-    "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score:…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 04 Sep 2026 20:50:19 +0530",
-    "timestamp": 1788535219.0,
-    "isoDate": "2026-09-04T15:20:19+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg"
   }
 ]
