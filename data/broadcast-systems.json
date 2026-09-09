@@ -1,5 +1,49 @@
 [
   {
+    "title": "ARRI brings SMPTE ST 2110 support to ALEXA 35 Live with LPS-1 SUP 1.5.0",
+    "link": "https://www.newsshooter.com/2026/09/09/arri-brings-smpte-st-2110-support-to-alexa-35-live-with-lps-1-sup-1-5-0/?utm_source=rss&utm_medium=rss&utm_campaign=arri-brings-smpte-st-2110-support-to-alexa-35-live-with-lps-1-sup-1-5-0",
+    "summary": "ARRI is bringing SMPTE ST 2110 support for the ALEXA 35 Live Multicam System. This opens the system up to fully IP-based broadcast studios, stadiums, high-end flypacks, and remote productions. It comes in the form of Software Update Package…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 09 Sep 2026 15:26:21 +0000",
+    "timestamp": 1788967581.0,
+    "isoDate": "2026-09-09T15:26:21+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "ZineControl_X– Simultaneous RED & Nikon Control",
+    "link": "https://www.newsshooter.com/2026/09/09/zinecontrol_x-simultaneous-red-nikon-control/?utm_source=rss&utm_medium=rss&utm_campaign=zinecontrol_x-simultaneous-red-nikon-control",
+    "summary": "ZineControl_X is a multicamera version of ZineControl, and at least to my knowledge, it is the first app that allows you to control RED cameras alongside Nikon cameras at the same time. While it’s built for a RED and Nikon ZR combo, it isn’…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 09 Sep 2026 15:19:26 +0000",
+    "timestamp": 1788967166.0,
+    "isoDate": "2026-09-09T15:19:26+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Leitz iD Mount",
+    "link": "https://www.newsshooter.com/2026/09/09/leitz-id-mount/?utm_source=rss&utm_medium=rss&utm_campaign=leitz-id-mount",
+    "summary": "Leitz Cine has introduced the Leitz iD Mount, an optional mount with a metadata interface for the Leitz HUGO and Leitz SUMMILUX-C lenses. With the iD Mount, compatible cameras can recognize the lens and record a package of static /i metadat…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 09 Sep 2026 15:04:34 +0000",
+    "timestamp": 1788966274.0,
+    "isoDate": "2026-09-09T15:04:34+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Top tips for navigating IBC2026",
+    "link": "https://www.tvbeurope.com/ibc/top-tips-for-navigating-ibc2026",
+    "summary": "Previous attendees share their essential advice for IBC2026, covering everything from comfortable footwear to making the most of the networking opportunities The post Top tips for navigating IBC2026 appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 09 Sep 2026 13:30:53 +0000",
+    "timestamp": 1788960653.0,
+    "isoDate": "2026-09-09T13:30:53+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/03/IBC2025-ACCELERATORS-ZONE-5-726x485.jpg"
+  },
+  {
     "title": "Forecasting the next evolution of media integration",
     "link": "https://www.tvbeurope.com/ibc/forecasting-the-next-evolution-of-media-integration",
     "summary": "Centred on a Hurricane Melissa case study, the 2026 Incubator highlights how The Weather Company integrates meteorological expertise directly into the news ecosystem—guiding real-time editorial decisions The post Forecasting the next evolut…",
@@ -143,39 +187,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Canon Firmware Updates for the EOS R1 & EOS R5 Mark II",
-    "link": "https://www.newsshooter.com/2026/09/08/canon-firmware-updates-for-the-eos-r1-eos-r5-mark-ii/?utm_source=rss&utm_medium=rss&utm_campaign=canon-firmware-updates-for-the-eos-r1-eos-r5-mark-ii",
-    "summary": "Canon has released firmware Version 1.3.2 for the EOS R1 and EOS R5 Mark II. These are minor updates, but they do rectify a few bugs. EOS R1 Firmware Version 1.3.2 Fixed an issue where the Live View display would sometimes experience lag wh…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 09 Sep 2026 01:01:52 +0000",
-    "timestamp": 1788915712.0,
-    "isoDate": "2026-09-09T01:01:52+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Hollyland LARK A2",
-    "link": "https://www.newsshooter.com/2026/09/08/hollyland-lark-a2/?utm_source=rss&utm_medium=rss&utm_campaign=hollyland-lark-a2",
-    "summary": "Hollyland has introduced its new LARK A2, a low-cost wireless microphone system designed for content creators. It was designed to be small and compact so it can be clipped on and used quickly. The system has a claimed operating range of up …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 09 Sep 2026 00:24:31 +0000",
-    "timestamp": 1788913471.0,
-    "isoDate": "2026-09-09T00:24:31+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Creamsource C3– 3000W full-color LED Fresnel",
-    "link": "https://www.newsshooter.com/2026/09/08/creamsource-c3-3000w-full-color-led-fresnel/?utm_source=rss&utm_medium=rss&utm_campaign=creamsource-c3-3000w-full-color-led-fresnel",
-    "summary": "Creamsource has announced its new C3, a 3000W full-color LED Fresnel, which is the first fixture in a new product line. The C3 is fundamentally different from a lot of other options on the market, as it was designed as a dedicated Fresnel, …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 08 Sep 2026 15:00:37 +0000",
-    "timestamp": 1788879637.0,
-    "isoDate": "2026-09-08T15:00:37+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Groundhog Day at 5?",
     "link": "https://www.tvbeurope.com/media-management/groundhog-day-at-5",
     "summary": "The broadcaster appeared to experience playout issues last night with content repeating several times The post Groundhog Day at 5? appeared first on TVBEurope.",
@@ -262,16 +273,5 @@
     "timestamp": 1788777124.0,
     "isoDate": "2026-09-07T10:32:04+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2025/03/uktv-bergerac-726x483.jpg"
-  },
-  {
-    "title": "Calrec keeps Cloudbass onside with OB fleet audio upgrade",
-    "link": "https://www.tvbeurope.com/audio/calrec-keeps-cloudbass-onside-with-ob-fleet-audio-upgrade",
-    "summary": "The hybrid OB20 unit includes a 48-fader Argo M with dual Calrec ImPulse1 cores and an RP1 remote production audio processing engine The post Calrec keeps Cloudbass onside with OB fleet audio upgrade appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 07 Sep 2026 09:56:50 +0000",
-    "timestamp": 1788775010.0,
-    "isoDate": "2026-09-07T09:56:50+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Argo-M-48-Fader-726x545.jpeg"
   }
 ]
