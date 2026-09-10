@@ -1,5 +1,60 @@
 [
   {
+    "title": "TVU Networks introduces transmitter for teams working entirely with IP-based video sources",
+    "link": "https://www.tvbeurope.com/media-delivery/tvu-networks-introduces-transmitter-for-teams-working-entirely-with-ip-based-video-sources",
+    "summary": "The company has also announced TVU Cortex, a platform for news organisations that aims to help them find content faster The post TVU Networks introduces transmitter for teams working entirely with IP-based video sources appeared first on TV…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 10 Sep 2026 08:26:22 +0000",
+    "timestamp": 1789028782.0,
+    "isoDate": "2026-09-10T08:26:22+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/TVU-One-IP.jpg"
+  },
+  {
+    "title": "Techex and Skyline boost DMF adoption with partnership extension",
+    "link": "https://www.tvbeurope.com/media-management/techex-and-skyline-boost-dmf-adoption-with-partnership-extension",
+    "summary": "Integrating Techex's tx darwin processing platform with the DataMiner xOps platform, the solution aims to provide users with a clear path to DMF adoption The post Techex and Skyline boost DMF adoption with partnership extension appeared fir…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 10 Sep 2026 08:23:09 +0000",
+    "timestamp": 1789028589.0,
+    "isoDate": "2026-09-10T08:23:09+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/DM_tx-Darwin-726x408.png"
+  },
+  {
+    "title": "Bitmovin adds HEVC, AV1 and MoQ capabilities to Encoder",
+    "link": "https://www.tvbeurope.com/media-management/bitmovin-adds-hevc-av1-and-moq-capabilities-to-encoder",
+    "summary": "The latest ugrade includes more HDR formats, lower latency, and AI-native tooling built directly into the encoding pipeline The post Bitmovin adds HEVC, AV1 and MoQ capabilities to Encoder appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 10 Sep 2026 08:16:15 +0000",
+    "timestamp": 1789028175.0,
+    "isoDate": "2026-09-10T08:16:15+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Opinion: Why MXL is the defining trend to watch at IBC2026—and beyond",
+    "link": "https://www.tvbeurope.com/media-management/opinion-why-mxl-is-the-defining-trend-to-watch-at-ibc2026-and-beyond",
+    "summary": "Costa Nikols, strategy advisor, M&E at Telos Alliance explains why conversations around MXL will shape the next generation of production The post Opinion: Why MXL is the defining trend to watch at IBC2026—and beyond appeared first on TVBEur…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 10 Sep 2026 08:13:31 +0000",
+    "timestamp": 1789028011.0,
+    "isoDate": "2026-09-10T08:13:31+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Costa-Nikols-Headshot.jpg"
+  },
+  {
+    "title": "MooM landing for Globecast",
+    "link": "https://www.tvbeurope.com/media-management/moom-landing-for-globecast",
+    "summary": "The company will unveil its Media Orchestration and Operations Management Platform at IBC The post MooM landing for Globecast appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 10 Sep 2026 07:58:55 +0000",
+    "timestamp": 1789027135.0,
+    "isoDate": "2026-09-10T07:58:55+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/MOON_LINE_STREAMS_BG_WHITE_BY_GC.jpg"
+  },
+  {
     "title": "ARRI brings SMPTE ST 2110 support to ALEXA 35 Live with LPS-1 SUP 1.5.0",
     "link": "https://www.newsshooter.com/2026/09/09/arri-brings-smpte-st-2110-support-to-alexa-35-live-with-lps-1-sup-1-5-0/?utm_source=rss&utm_medium=rss&utm_campaign=arri-brings-smpte-st-2110-support-to-alexa-35-live-with-lps-1-sup-1-5-0",
     "summary": "ARRI is bringing SMPTE ST 2110 support for the ALEXA 35 Live Multicam System. This opens the system up to fully IP-based broadcast studios, stadiums, high-end flypacks, and remote productions. It comes in the form of Software Update Package…",
@@ -218,60 +273,5 @@
     "timestamp": 1788858021.0,
     "isoDate": "2026-09-08T09:00:21+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Riedel-OnAir_500_Series-copy-726x451.jpg"
-  },
-  {
-    "title": "MC-IF aims to accelerate VVC decoder set adoption",
-    "link": "https://www.tvbeurope.com/media-management/mc-if-aims-to-accelerate-vvc-decoder-set-adoption",
-    "summary": "The project is expected to provide a practical baseline for application developers, device ecosystem participants, service providers, and technology vendors seeking to experiment with and deploy VVC in real-world workflows The post MC-IF ai…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 08 Sep 2026 08:04:33 +0000",
-    "timestamp": 1788854673.0,
-    "isoDate": "2026-09-08T08:04:33+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2025/02/vvc-726x408-1.jpeg"
-  },
-  {
-    "title": "A+E Global Media boosts global distribution with Comcast agreement",
-    "link": "https://www.tvbeurope.com/media-delivery/ae-global-media-boosts-global-distribution-with-comcast-agreement",
-    "summary": "The multi-year agreement aims to enhance global content distribution across a number of A+E brands The post A+E Global Media boosts global distribution with Comcast agreement appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 08 Sep 2026 07:23:01 +0000",
-    "timestamp": 1788852181.0,
-    "isoDate": "2026-09-08T07:23:01+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/AE-PR-1080x1080-1-726x726.png"
-  },
-  {
-    "title": "Grass Valley updates Framelight X to connect acquisition, management, editing and publishing within a unified workflow",
-    "link": "https://www.tvbeurope.com/media-management/grass-valley-updates-framelight-x-to-connect-acquisition-management-editing-and-publishing-within-a-unified-workflow",
-    "summary": "Updates include integration with EDIUS, Adobe Premiere Pro and Digital Joy Newsroom NRCS, as well as a preview of TAMS Store support The post Grass Valley updates Framelight X to connect acquisition, management, editing and publishing withi…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 08 Sep 2026 07:19:45 +0000",
-    "timestamp": 1788851985.0,
-    "isoDate": "2026-09-08T07:19:45+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/content_management_1-726x442.jpg"
-  },
-  {
-    "title": "‘For me, technology has never been an abstract thing’: Thomas Riedel’s independent vision",
-    "link": "https://www.tvbeurope.com/business/for-me-technology-has-never-been-an-abstract-thing-thomas-riedels-indepent-vision",
-    "summary": "Thomas Riedel sits down with Jenny Priestley to discuss industry independence, the ARRI acquisition, and why connecting technology is vital for future live production The post ‘For me, technology has never been an abstract thing’: Thomas Ri…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 07 Sep 2026 10:33:49 +0000",
-    "timestamp": 1788777229.0,
-    "isoDate": "2026-09-07T10:33:49+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Thomas-Riedel-726x466.jpg"
-  },
-  {
-    "title": "full season springs into action with BBC and UKTV",
-    "link": "https://www.tvbeurope.com/media-management/full-season-springs-into-action-with-bbc-and-uktv",
-    "summary": "The media services company has entered a multi-year agreement to support global distribution of 53 channels The post full season springs into action with BBC and UKTV appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 07 Sep 2026 10:32:04 +0000",
-    "timestamp": 1788777124.0,
-    "isoDate": "2026-09-07T10:32:04+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2025/03/uktv-bergerac-726x483.jpg"
   }
 ]
