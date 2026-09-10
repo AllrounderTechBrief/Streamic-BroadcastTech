@@ -1,5 +1,38 @@
 [
   {
+    "title": "Insta360 Luna Pro",
+    "link": "https://www.newsshooter.com/2026/09/10/insta360-luna-pro/?utm_source=rss&utm_medium=rss&utm_campaign=insta360-luna-pro",
+    "summary": "Insta360 has announced the Luna Pro gimbal camera that was co-engineered with Leica. The Luna Pro can record native 4K vertical video, allowing it to capture high-quality content for short-form social media platforms. It also features AI-po…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 10 Sep 2026 13:10:56 +0000",
+    "timestamp": 1789045856.0,
+    "isoDate": "2026-09-10T13:10:56+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Dalet appoints Brian Doheny as new CEO",
+    "link": "https://www.tvbeurope.com/business/people/daley-appoints-brian-doheny-as-new-ceo",
+    "summary": "Following a 30 year career in senior leadership positions at a number of technology organisations, Doheny joined Dalet in April 2026 The post Dalet appoints Brian Doheny as new CEO appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 10 Sep 2026 09:49:35 +0000",
+    "timestamp": 1789033775.0,
+    "isoDate": "2026-09-10T09:49:35+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Brian-Doheny_Hero-copy.jpg"
+  },
+  {
+    "title": "NVIDIA AI for Media boosts multilingual content production at scale",
+    "link": "https://www.tvbeurope.com/artificial-intelligence/nvidia-ai-for-media-boosts-multilingual-content-production-at-scale",
+    "summary": "Integrating with existing production workflows, the solution enables the immediate availability of localised content across live news, sports and more The post NVIDIA AI for Media boosts multilingual content production at scale appeared fir…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 10 Sep 2026 09:11:10 +0000",
+    "timestamp": 1789031470.0,
+    "isoDate": "2026-09-10T09:11:10+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/ndi.png"
+  },
+  {
     "title": "TVU Networks introduces transmitter for teams working entirely with IP-based video sources",
     "link": "https://www.tvbeurope.com/media-delivery/tvu-networks-introduces-transmitter-for-teams-working-entirely-with-ip-based-video-sources",
     "summary": "The company has also announced TVU Cortex, a platform for news organisations that aims to help them find content faster The post TVU Networks introduces transmitter for teams working entirely with IP-based video sources appeared first on TV…",
@@ -231,17 +264,6 @@
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/LiveU-and-AP-September-2026-726x449.jpg"
   },
   {
-    "title": "Aputure STORM CS32 Officially Announced",
-    "link": "https://www.newsshooter.com/2026/09/08/aputure-storm-cs32-officially-announced/?utm_source=rss&utm_medium=rss&utm_campaign=aputure-storm-cs32-officially-announced",
-    "summary": "Aputure has officially announced its STORM CS32, which was first shown back at NAB in April. Aputure claims that it is the brightest fully tunable color fixture in its point source line of LED lights. The STORM CS32 features Aputure’s BLAIR…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 09 Sep 2026 02:29:53 +0000",
-    "timestamp": 1788920993.0,
-    "isoDate": "2026-09-09T02:29:53+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Groundhog Day at 5?",
     "link": "https://www.tvbeurope.com/media-management/groundhog-day-at-5",
     "summary": "The broadcaster appeared to experience playout issues last night with content repeating several times The post Groundhog Day at 5? appeared first on TVBEurope.",
@@ -251,27 +273,5 @@
     "timestamp": 1788862228.0,
     "isoDate": "2026-09-08T10:10:28+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Screenshot-16.png"
-  },
-  {
-    "title": "Sony, Reuters partner on ‘world-first’ near-live workflow integrating C2PA metadata and TAMS",
-    "link": "https://www.tvbeurope.com/live-production/sony-reuters-partner-on-world-first-near-live-workflow-integrating-c2pa-metadata-and-tams",
-    "summary": "According to the two partners, the workflow establishes a trusted chain of authenticity across editing, packaging and distribution The post Sony, Reuters partner on ‘world-first’ near-live workflow integrating C2PA metadata and TAMS appeare…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 08 Sep 2026 09:03:23 +0000",
-    "timestamp": 1788858203.0,
-    "isoDate": "2026-09-08T09:03:23+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2025/07/image002.jpg"
-  },
-  {
-    "title": "Riedel launches new range of live production headsets",
-    "link": "https://www.tvbeurope.com/audio/riedel-launches-new-range-of-live-production-headsets",
-    "summary": "Designed to meet the needs of broadcast, sports and entertainment, the headsets focus on speech intelligibility, integration, ergonomics and serviceability The post Riedel launches new range of live production headsets appeared first on TVB…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 08 Sep 2026 09:00:21 +0000",
-    "timestamp": 1788858021.0,
-    "isoDate": "2026-09-08T09:00:21+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Riedel-OnAir_500_Series-copy-726x451.jpg"
   }
 ]

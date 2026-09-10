@@ -1,5 +1,16 @@
 [
   {
+    "title": "Personalize live viewing, monetize every impression, and reach every device with AWS Elemental at IBC 2026",
+    "link": "https://aws.amazon.com/blogs/media/personalize-live-viewing-monetize-every-impression-and-reach-every-device-with-aws-elemental-at-ibc-2026-2/",
+    "summary": "We're announcing four new capabilities across AWS Elemental that bring AI, personalization, and intelligent monetization to the live video workflow, launching in time for IBC 2026 in Amsterdam.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 10 Sep 2026 12:24:02 +0000",
+    "timestamp": 1789043042.0,
+    "isoDate": "2026-09-10T12:24:02+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/02/Multi-feed-live-experiences-with-MediaPackage-Dynamic-Multiview.jpg"
+  },
+  {
     "title": "How 5 runs live pop-up events from a browser with AWS Elemental MediaLive",
     "link": "https://aws.amazon.com/blogs/media/how-5-runs-live-pop-up-events-from-a-browser-with-aws-elemental-medialive/",
     "summary": "In this post, we describe how, on top of that pipeline, 5 built a browser-based console where a single remote operator can run a live pop-up event (with monitoring, input switching, ad signaling, and graphics) using the control capabilities…",
@@ -207,16 +218,5 @@
     "timestamp": 1780318610.0,
     "isoDate": "2026-06-01T12:56:50+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/25/Figure-1_2.png"
-  },
-  {
-    "title": "Customize ad workflows with AWS Elemental MediaTailor Monetization Functions",
-    "link": "https://aws.amazon.com/blogs/media/customize-ad-workflows-with-aws-elemental-mediatailor-monetization-functions/",
-    "summary": "This post explains the framework and walks through an end-to-end example using LiveRamp identity enrichment.",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 28 May 2026 12:25:36 +0000",
-    "timestamp": 1779971136.0,
-    "isoDate": "2026-05-28T12:25:36+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/27/Hook-reference-table1.png"
   }
 ]
