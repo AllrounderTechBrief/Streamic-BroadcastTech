@@ -1,5 +1,16 @@
 [
   {
+    "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+    "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+    "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the official Android app ma…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 10 Sep 2026 20:06:47 +0530",
+    "timestamp": 1789051007.0,
+    "isoDate": "2026-09-10T14:36:47+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg"
+  },
+  {
     "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
     "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
     "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditi…",
@@ -317,16 +328,5 @@
     "timestamp": 1788857031.0,
     "isoDate": "2026-09-08T08:43:51+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rKrsCwJpZOS1Cu2htzFszKn4OgjK2p5A43OUaQJsmlbjsaLfGHtgyqQPfOu3IFWqRBoj2J6hIiqv6CVr56ZLyyf73-E71iaDRB2nrO9qaGOg92EbOcutMu8M8i1uimwkC-GPcc9oGDgFNNLB4kkgfDB3MbcjPuAn_gsml3FyThlEyI3Pg8E-udYq175m/s1600/bing.jpg"
-  },
-  {
-    "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-    "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-    "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 08 Sep 2026 12:30:43 +0530",
-    "timestamp": 1788850843.0,
-    "isoDate": "2026-09-08T07:00:43+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGUJMPbCbes7NM-EpNPWOUc7bYX5pznAZZjAl29ELdnhrIFzOBqkVtUsiDgxWvImd-yqpnCi5E4EaA1SCbnqY-_1qOwv2RnBTrjOHwn738A5TVUyZV6uX9TQyjF2EmPsJhyxHc1IcqV0jH3JraUU5s3Yw64WOCoE4WawhfajZhq7X-XvWQtVfw-S2QxbkU/s1600/grindr.jpg"
   }
 ]
