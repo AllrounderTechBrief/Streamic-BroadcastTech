@@ -1,5 +1,60 @@
 [
   {
+    "title": "EVS aims to give live production teams more flexibility with XT-S",
+    "link": "https://www.tvbeurope.com/live-production/evs-aims-to-give-live-production-teams-more-flexibility-with-xt-s",
+    "summary": "According to EVS, XT-S takes a different approach to live production infrastructure by providing a common platform that runs multiple applications The post EVS aims to give live production teams more flexibility with XT-S appeared first on …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 05:24:20 +0000",
+    "timestamp": 1789104260.0,
+    "isoDate": "2026-09-11T05:24:20+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Vizrt adds AI keying and AR graphics capabilities to TriCaster portfolio",
+    "link": "https://www.tvbeurope.com/live-production/vizrt-adds-ai-keying-and-ar-graphics-capabilities-to-tricaster-portfolio",
+    "summary": "The update enables the creation of immersive graphics and environments, elevates replay and slow-motion capture, and modernises the full control of live productions, said the company The post Vizrt adds AI keying and AR graphics capabilitie…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 05:17:30 +0000",
+    "timestamp": 1789103850.0,
+    "isoDate": "2026-09-11T05:17:30+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Nicolas-Damuni-operating-Vizrts-new-LivePanel-Pro-at-the-IBC2026-booth-Hall-10-stand-A.41-726x544.jpeg"
+  },
+  {
+    "title": "Under Pressure",
+    "link": "https://www.tvbeurope.com/production-post/under-pressure",
+    "summary": "As Pressure opens in cinemas, director of photography, Jamie D Ramsay BSC SASC tells Robert Shepherd about blending high-resolution archival masters with a clean, unromanticised visual language for the D-Day drama The post Under Pressure ap…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 05:06:19 +0000",
+    "timestamp": 1789103179.0,
+    "isoDate": "2026-09-11T05:06:19+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Credit_-Alex-Bailey_Focus-Features_STUDIOCANAL-copy-726x484.jpg"
+  },
+  {
+    "title": "Teradek launches ‘significant’ upgrade to Bolt",
+    "link": "https://www.tvbeurope.com/production-post/teradek-launches-significant-upgrade-to-bolt",
+    "summary": "The upgrade enables wireless camera control, colour management, telemetry, and more without a Wi-Fi network, said Teradek The post Teradek launches ‘significant’ upgrade to Bolt appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 05:00:33 +0000",
+    "timestamp": 1789102833.0,
+    "isoDate": "2026-09-11T05:00:33+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Bolt-7_Press-Kit-11_10-2720-V-MAX-Deluxe-Set_In-The-Box-copy-726x589.jpg"
+  },
+  {
+    "title": "AWS adds multiview, AI capabilities to Elemental",
+    "link": "https://www.tvbeurope.com/media-delivery/aws-adds-multiview-ai-capabilities-to-elemental",
+    "summary": "The new capabilities enable multi-feed viewing, real-time content metadata, and ad monetisation for live streams The post AWS adds multiview, AI capabilities to Elemental appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 04:57:51 +0000",
+    "timestamp": 1789102671.0,
+    "isoDate": "2026-09-11T04:57:51+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Multiview-Option-1_1920x1080-726x408.jpg"
+  },
+  {
     "title": "OWC USB4 Hub",
     "link": "https://www.newsshooter.com/2026/09/10/owc-usb4-hub/?utm_source=rss&utm_medium=rss&utm_campaign=owc-usb4-hub",
     "summary": "Other World Computing has announced a new USB4 Hub and USB4 40Gb/s Active Optical Cables in 3-Meter and 5-Meter lengths. The OWC USB4 Hub is a 6-port USB4 essential connectivity solution with two USB4 downstream ports, two USB-C ports, an H…",
@@ -66,9 +121,9 @@
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Brian-Doheny_Hero-copy.jpg"
   },
   {
-    "title": "NVIDIA AI for Media boosts multilingual content production at scale",
+    "title": "NDI and NVIDIA AI enable localisation and distribution at scale",
     "link": "https://www.tvbeurope.com/artificial-intelligence/nvidia-ai-for-media-boosts-multilingual-content-production-at-scale",
-    "summary": "Integrating with existing production workflows, the solution enables the immediate availability of localised content across live news, sports and more The post NVIDIA AI for Media boosts multilingual content production at scale appeared fir…",
+    "summary": "Integrating with existing production workflows, the solution enables the immediate availability of localised content across live news, sports and more The post NDI and NVIDIA AI enable localisation and distribution at scale appeared first o…",
     "source": "TVBEurope",
     "category": "broadcast-systems",
     "timeAgo": "Thu, 10 Sep 2026 09:11:10 +0000",
@@ -218,60 +273,5 @@
     "timestamp": 1788942252.0,
     "isoDate": "2026-09-09T08:24:12+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Autoscript unlocks the power of speech with new prompting solution",
-    "link": "https://www.tvbeurope.com/live-production/autoscript-unlocks-the-power-of-speech-with-new-prompting-solution",
-    "summary": "Voice Controller allows presenters to control script movement by speech, without the need for manual operation The post Autoscript unlocks the power of speech with new prompting solution appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 09 Sep 2026 08:23:34 +0000",
-    "timestamp": 1788942214.0,
-    "isoDate": "2026-09-09T08:23:34+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/AS-Voice_Controller_01-copy-726x500.jpg"
-  },
-  {
-    "title": "Channel 4 announces biggest round of job cuts in broadcaster’s history",
-    "link": "https://www.tvbeurope.com/business/channel-4-expected-to-announce-biggest-round-of-job-cuts-in-broadcasters-history",
-    "summary": "According to the broadcaster, the proposed changes focus on reducing management layers, simplifying decision-making and removing duplication to create \"a leaner, more efficient operating model\" The post Channel 4 announces biggest round of …",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 09 Sep 2026 07:46:12 +0000",
-    "timestamp": 1788939972.0,
-    "isoDate": "2026-09-09T07:46:12+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2021/08/channel-4-726x436.jpeg"
-  },
-  {
-    "title": "Appear X5 drives live golf production in its first international deployment",
-    "link": "https://www.tvbeurope.com/live-production/appear-x5-drives-live-golf-production-in-its-first-international-deployment",
-    "summary": "The processing platform will be used by Cingularity, IMG's broadcast fibre service provider, to contribute HEVC video from DP World Tour tournaments to its Stockley Park studio The post Appear X5 drives live golf production in its first int…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 09 Sep 2026 07:20:10 +0000",
-    "timestamp": 1788938410.0,
-    "isoDate": "2026-09-09T07:20:10+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/X5-Final-Front-Black-Persp-25102025-copy-726x366.jpg"
-  },
-  {
-    "title": "AP deploys ‘industry’s largest’ LU900Q fleet",
-    "link": "https://www.tvbeurope.com/live-production/ap-deploys-industrys-largest-lu900q-fleet",
-    "summary": "The deployment aims to enhance connectivity for AP's operators in the field, streamlining content distribution The post AP deploys ‘industry’s largest’ LU900Q fleet appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 09 Sep 2026 07:17:38 +0000",
-    "timestamp": 1788938258.0,
-    "isoDate": "2026-09-09T07:17:38+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/LiveU-and-AP-September-2026-726x449.jpg"
-  },
-  {
-    "title": "Groundhog Day at 5?",
-    "link": "https://www.tvbeurope.com/media-management/groundhog-day-at-5",
-    "summary": "The broadcaster appeared to experience playout issues last night with content repeating several times The post Groundhog Day at 5? appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 08 Sep 2026 10:10:28 +0000",
-    "timestamp": 1788862228.0,
-    "isoDate": "2026-09-08T10:10:28+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Screenshot-16.png"
   }
 ]
