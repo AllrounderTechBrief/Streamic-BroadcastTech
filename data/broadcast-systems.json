@@ -1,5 +1,60 @@
 [
   {
+    "title": "Atomos Ground Control desktop app that mounts ATOMOSphere workspaces as local drives",
+    "link": "https://www.newsshooter.com/2026/09/11/atomos-ground-control-desktop-app-that-mounts-atomosphere-workspaces-as-local-drives/?utm_source=rss&utm_medium=rss&utm_campaign=atomos-ground-control-desktop-app-that-mounts-atomosphere-workspaces-as-local-drives",
+    "summary": "Atomos has announced the Ground Control desktop app that mounts ATOMOSphere workspaces as local drives, allowing users to browse, organize, and access cloud media just like local files. Alongside Ground Control, Atomos is also introducing B…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 07:05:15 +0000",
+    "timestamp": 1789110315.0,
+    "isoDate": "2026-09-11T07:05:15+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Atomos ATOMOSphere Integrates with ShotPut Studio",
+    "link": "https://www.newsshooter.com/2026/09/11/atomos-atomosphere-integrates-with-shotput-studio/?utm_source=rss&utm_medium=rss&utm_campaign=atomos-atomosphere-integrates-with-shotput-studio",
+    "summary": "Atomos ATOMOSphere now features an integration with ShotPut Studio to help automate cloud media workflows. The new integration sends camera originals and proxies directly to ATOMOSphere while adding certified Apple ProRes RAW decoding. This…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 07:04:51 +0000",
+    "timestamp": 1789110291.0,
+    "isoDate": "2026-09-11T07:04:51+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Flanders Scientific & Pomfort Bring Four-Camera Live Grading to XMP Series Monitors",
+    "link": "https://www.newsshooter.com/2026/09/11/flanders-scientific-pomfort-bring-four-camera-live-grading-to-xmp-series-monitors/?utm_source=rss&utm_medium=rss&utm_campaign=flanders-scientific-pomfort-bring-four-camera-live-grading-to-xmp-series-monitors",
+    "summary": "Flanders Scientific and Pomfort are bringing four-camera live grading to XMP series monitors. Pomfort Livegrade 7.2 adds four simultaneous LUT channels for streamlined multi-camera grading, quad-view monitoring, and independent processed ou…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 07:04:30 +0000",
+    "timestamp": 1789110270.0,
+    "isoDate": "2026-09-11T07:04:30+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Atomos Shogun AV-19M– 19-inch 4K HDR Hybrid IP & Video Monitor",
+    "link": "https://www.newsshooter.com/2026/09/11/atomos-shogun-av-19m-19-inch-4k-hdr-hybrid-ip-video-monitor/?utm_source=rss&utm_medium=rss&utm_campaign=atomos-shogun-av-19m-19-inch-4k-hdr-hybrid-ip-video-monitor",
+    "summary": "Atomos has unveiled its new Shogun AV-19M, a 19-inch 4K HDR rackmount monitor that combines quad-view NDI HX3 monitoring with SDI and HDMI connectivity. The Shogun AV-19M was designed for live production, broadcast, studio, and on-set monit…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 07:03:59 +0000",
+    "timestamp": 1789110239.0,
+    "isoDate": "2026-09-11T07:03:59+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Atomos Shinobi 7 II – 7-inch, ultra-slim 2800nit HDR monitor with USB-C camera control",
+    "link": "https://www.newsshooter.com/2026/09/11/atomos-shinobi-7-ii-7-inch-ultra-slim-2800nit-hdr-monitor-with-usb-c-camera-control/?utm_source=rss&utm_medium=rss&utm_campaign=atomos-shinobi-7-ii-7-inch-ultra-slim-2800nit-hdr-monitor-with-usb-c-camera-control",
+    "summary": "Atomos has announced the Shinobi 7 II, a 7-inch, ultra-slim 2800nit HDR monitor with USB-C camera control. The USB-C camera control allows users to adjust camera settings, including aperture, shutter speed/angle, ISO, and white balance dire…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 11 Sep 2026 07:00:28 +0000",
+    "timestamp": 1789110028.0,
+    "isoDate": "2026-09-11T07:00:28+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "EVS aims to give live production teams more flexibility with XT-S",
     "link": "https://www.tvbeurope.com/live-production/evs-aims-to-give-live-production-teams-more-flexibility-with-xt-s",
     "summary": "According to EVS, XT-S takes a different approach to live production infrastructure by providing a common platform that runs multiple applications The post EVS aims to give live production teams more flexibility with XT-S appeared first on …",
@@ -53,61 +108,6 @@
     "timestamp": 1789102671.0,
     "isoDate": "2026-09-11T04:57:51+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Multiview-Option-1_1920x1080-726x408.jpg"
-  },
-  {
-    "title": "OWC USB4 Hub",
-    "link": "https://www.newsshooter.com/2026/09/10/owc-usb4-hub/?utm_source=rss&utm_medium=rss&utm_campaign=owc-usb4-hub",
-    "summary": "Other World Computing has announced a new USB4 Hub and USB4 40Gb/s Active Optical Cables in 3-Meter and 5-Meter lengths. The OWC USB4 Hub is a 6-port USB4 essential connectivity solution with two USB4 downstream ports, two USB-C ports, an H…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 10 Sep 2026 15:05:04 +0000",
-    "timestamp": 1789052704.0,
-    "isoDate": "2026-09-10T15:05:04+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "SIRUI Saturn V2 35mm, 50mm & 75mm T2.9 1.6x Full-Frame Anamorphic Lenses",
-    "link": "https://www.newsshooter.com/2026/09/10/sirui-saturn-v2-35mm-50mm-75mm-t2-9-1-6x-full-frame-anamorphic-lenses/?utm_source=rss&utm_medium=rss&utm_campaign=sirui-saturn-v2-35mm-50mm-75mm-t2-9-1-6x-full-frame-anamorphic-lenses",
-    "summary": "SIRUI has announced its new Saturn V2 35mm, 50mm & 75mm T2.9 1.6x Full-Frame Anamorphic Lenses that are available in Sony E, Leica L, and Canon RF mounts. The Saturn V2 T2.9 1.6x Full-Frame Anamorphic lenses are claimed to provide a classic…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 10 Sep 2026 14:46:48 +0000",
-    "timestamp": 1789051608.0,
-    "isoDate": "2026-09-10T14:46:48+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Teradek Ace Micro TX",
-    "link": "https://www.newsshooter.com/2026/09/10/teradek-ace-micro-tx/?utm_source=rss&utm_medium=rss&utm_campaign=teradek-ace-micro-tx",
-    "summary": "Teradek has officially announced the Ace Micro TX, a compact wireless transmitter that provides zero-delay video to your iPhone with a single USB-C cable. It allows you to monitor your iPhone camera feed with the speed and image quality of …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 10 Sep 2026 14:29:33 +0000",
-    "timestamp": 1789050573.0,
-    "isoDate": "2026-09-10T14:29:33+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Angelbird AV PRO CFexpress Type A v4 800GB Review",
-    "link": "https://www.newsshooter.com/2026/09/10/angelbird-av-pro-cfexpress-type-a-v4-800gb-review/?utm_source=rss&utm_medium=rss&utm_campaign=angelbird-av-pro-cfexpress-type-a-v4-800gb-review",
-    "summary": "Angelbird has a new series of AV PRO CFexpress Type A v4 cards that were designed to be able to record 8K RAW & Sony X-OCN video without breaking a sweat. They look like a good option for use with the new Sony FX5. Media cards are not the m…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 10 Sep 2026 14:12:15 +0000",
-    "timestamp": 1789049535.0,
-    "isoDate": "2026-09-10T14:12:15+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Movcam SRC‑1 Digital Servo Lens Controller",
-    "link": "https://www.newsshooter.com/2026/09/10/movcam-src%e2%80%911-digital-servo-lens-controller/?utm_source=rss&utm_medium=rss&utm_campaign=movcam-src%25e2%2580%25911-digital-servo-lens-controller",
-    "summary": "Movcam has announced the SRC-1 Digital Servo Lens Controller for Fujinon and Canon Lenses. The SRC-1 is a compact digital servo lens controller designed for camera operators who need direct control over lens focus, zoom, and iris from a var…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 10 Sep 2026 13:25:35 +0000",
-    "timestamp": 1789046735.0,
-    "isoDate": "2026-09-10T13:25:35+00:00",
-    "imageUrl": ""
   },
   {
     "title": "Dalet appoints Brian Doheny as new CEO",
