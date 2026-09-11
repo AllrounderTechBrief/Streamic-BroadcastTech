@@ -1,5 +1,16 @@
 [
   {
+    "title": "Introducing automatic remediation policies with Cloudflare CASB",
+    "link": "https://blog.cloudflare.com/casb-policies/",
+    "summary": "Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send w…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 11 Sep 2026 13:00:00 GMT",
+    "timestamp": 1789131600.0,
+    "isoDate": "2026-09-11T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2842WCZ10Q81ZNG6FHF2FAJ.01M2842X2Z3B513P6VHC1SXMTC.png"
+  },
+  {
     "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
     "link": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
     "summary": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
@@ -317,17 +328,6 @@
     "timestamp": 1786386850.0,
     "isoDate": "2026-08-10T18:34:10+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZEF2H4G3BD74C5TP4BWMS76.png"
-  },
-  {
-    "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
-    "link": "https://blog.cloudflare.com/fedramp-class-d-certification/",
-    "summary": "Cloudflare for Government achieves FedRAMP Class D (High) Certified status. We also announce our commitment to pursue DoD IL4 authorization. Cloudflare brings world-class security, performance, and developer products to the public sector.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 10 Aug 2026 13:00:00 GMT",
-    "timestamp": 1786366800.0,
-    "isoDate": "2026-08-10T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KWJ8S81EFDW5RYDPNZEQSX7A.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
