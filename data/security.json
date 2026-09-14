@@ -1,5 +1,60 @@
 [
   {
+    "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+    "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+    "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 14 Sep 2026 22:28:42 +0530",
+    "timestamp": 1789405122.0,
+    "isoDate": "2026-09-14T16:58:42+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif"
+  },
+  {
+    "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+    "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+    "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scann…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 14 Sep 2026 22:26:30 +0530",
+    "timestamp": 1789404990.0,
+    "isoDate": "2026-09-14T16:56:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvj2lBIP05rWNCbhHf0wzhfJ35HBSL0rrr99VOwBa-AzBrvlz0hpopABC1zCHMLj6mqJTNSiij7cFcocgbHUyRbh1QV3V7OCWDLXn3fJ_fRJQxaj63BC8UOjjNlcBdwZ0jdD3zWDA6XpA3Xt2an-6vAE-kyo3sPOpjNa5tzWnntDxaeia-0zzKa-PuywC/s1600/gitea-hacked.jpg"
+  },
+  {
+    "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+    "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+    "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 14 Sep 2026 21:30:04 +0530",
+    "timestamp": 1789401604.0,
+    "isoDate": "2026-09-14T16:00:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NRxf0-3Ca12cwdQVS-bicsxwk-06KQZJaLMbd2d217NkuO82Bld3P_E96WP8OEqZXSjDoLtW0JfnRYkQSyl0BlQDNkQoBOf7x-Q5wOmpc59Z4v1ycux0YWShQpPIyvYmMmIRJ0c5Zv_38VFrhwtdcdoxycqIm0b5Df7AeYjbr-8KCJlbujHVhmpvdtrk/s1600/wordpress-auto.jpg"
+  },
+  {
+    "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+    "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+    "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is mo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 14 Sep 2026 20:10:34 +0530",
+    "timestamp": 1789396834.0,
+    "isoDate": "2026-09-14T14:40:34+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubijVX34VFFHDXzT2j2iTTWrHaElVXjylLKHKAjeSU59q3jTZvRM_O35zw5QOCnrT8ejrYHTG-kjYyt0-R127H_2qEgIWJNuKynEL1FcM9JLyPbsJPY5OZW9rrkJpRprrxpWP8oAGZA2ARZ3xg_0DvBw1I2wbIoXKItcVEjNXQH-CXCMRyuqp1u53ALj7/s1600/recap-cyber.jpg"
+  },
+  {
+    "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+    "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+    "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 14 Sep 2026 17:28:00 +0530",
+    "timestamp": 1789387080.0,
+    "isoDate": "2026-09-14T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_ratIPK3F0IGyzyDTTPaV26Nnh4gQoFjS0ejR49J_tbGb92GgukT-Mnr9xv9mK7h0QSdeXujxiEtD0AqVKNmrKoG9BMEuut7CB1368iyt3Gr6Xu5mAdkDsUQC86K9GZ-Uw6qfPvYYr9BUvHzn014_rzQeMS5dCVXEwkRLs3eViylo5ChmZs6QQygxE4/s1600/picus-main.jpg"
+  },
+  {
     "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
     "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
     "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHI…",
@@ -273,60 +328,5 @@
     "timestamp": 1788963835.0,
     "isoDate": "2026-09-09T14:23:55+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYP_zrhRTZRWnPPcDkUrE7dBh2Bf5eaQmlBxyl7euTRGjS0C8boQppnrmjY0CIVjGrS_PF13V1W3BPVI3RDPZY59s_7xIkI8LnFkg3Tn_Q0x7_tbCs_sMkvhZMREtFLW3IOJSNNmQrKCDI88FCWhfymdWkEWtdMMRzivv3lZXImjreAz0d74VXt2K80ipH/s1600/tokens.jpg"
-  },
-  {
-    "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-    "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-    "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventorie…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 09 Sep 2026 17:27:36 +0530",
-    "timestamp": 1788955056.0,
-    "isoDate": "2026-09-09T11:57:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s1600/tines-webinar.jpg"
-  },
-  {
-    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-    "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-    "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-syste…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 09 Sep 2026 16:47:07 +0530",
-    "timestamp": 1788952627.0,
-    "isoDate": "2026-09-09T11:17:07+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fUTc6rz4ZeeaMmjDLOfb2qNhnJf_TdNHK3F3qbNCQLLJbaF-nbSw5YPdeSAwg1HjoGwfQJZaXBpwvEbasFDhQb5ZkUm158shateq7uubMyrlejW4SDZAAzNQGUYkYdsxHupipxzRA7dQwTwTt9ArVJgU-wA5bGxIXduJj3CdyBF69Ixp6_qAU1LGzfI/s1600/deepseek.jpg"
-  },
-  {
-    "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-    "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-    "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Li…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 09 Sep 2026 16:13:04 +0530",
-    "timestamp": 1788950584.0,
-    "isoDate": "2026-09-09T10:43:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg"
-  },
-  {
-    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-    "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-    "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillat…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 09 Sep 2026 15:02:26 +0530",
-    "timestamp": 1788946346.0,
-    "isoDate": "2026-09-09T09:32:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL63HDvTiCn3B33K6DsfIbMLjHqXlJAUtoh6euiAwcooJCTdK4Zdkoh8rZ93iQsAAkscB3CmOH6TUQJPor4yH4wN97ABinyCN_5hcHNZ2gAMZH4YtTO3kon5Ws7MZGI5CULnH4SpafnrFsfZO_8j8wfaOFEinAnLIP-LHom_9LNQRJ2wrlYy66bO1RNpwg/s1600/ai-china.jpg"
-  },
-  {
-    "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-    "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-    "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), ha…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 09 Sep 2026 14:41:03 +0530",
-    "timestamp": 1788945063.0,
-    "isoDate": "2026-09-09T09:11:03+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg"
   }
 ]
