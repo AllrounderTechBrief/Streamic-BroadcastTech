@@ -5,15 +5,37 @@
     "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Mon, 14 Sep 2026 22:28:42 +0530",
-    "timestamp": 1789405122.0,
-    "isoDate": "2026-09-14T16:58:42+00:00",
+    "timeAgo": "Mon, 14 Sep 2026 23:32:13 +0530",
+    "timestamp": 1789408933.0,
+    "isoDate": "2026-09-14T18:02:13+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif"
+  },
+  {
+    "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+    "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+    "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io s…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 14 Sep 2026 23:31:49 +0530",
+    "timestamp": 1789408909.0,
+    "isoDate": "2026-09-14T18:01:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9khzZCrFkNfQ1fOYHT8A4LJrIsfc52ppe6xZffdUrfRacqTVQ76P0VPDZhqC2UfKM32jdbEiQfaCZDbrV2F0_dssOM8V8nT3ZZYvwhflLdfEhJhdNa0-UntK9XHkFJ4R5RthFMOM2X5kDZxUKW1RnRLmmQ0xLh5foMldMZovB0ZPdafoRf9cEb_w9Hwk/s1600/3bb.jpg"
+  },
+  {
+    "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+    "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+    "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, wi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 14 Sep 2026 23:28:16 +0530",
+    "timestamp": 1789408696.0,
+    "isoDate": "2026-09-14T17:58:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7YYT-Mf718wZ9kLasqkkPZ1Drw4dlLUMaHtOPuWRltuG7bOcA-d4bFr4GRmer0MMohBwgv7HFVFADi-EeDvIMcbEaJUiyn8t-iLxtR8PVRDWHLmxKnofrZgoPOH_RS7qaUkzd0Ery8Rr7oWlgoPJligCMSSywXmXdMHgzuER6M77sWisfdMOo_rqudmk/s1600/telehgram.jpg"
   },
   {
     "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
     "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-    "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scann…",
+    "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red H…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Mon, 14 Sep 2026 22:26:30 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1788978365.0,
     "isoDate": "2026-09-09T18:26:05+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg"
-  },
-  {
-    "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-    "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-    "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wil…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 09 Sep 2026 22:04:05 +0530",
-    "timestamp": 1788971645.0,
-    "isoDate": "2026-09-09T16:34:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxouoVfK0MjZpruL0J1chmWnC7avUov1fOLbgX-XyFGrTcXeOh08tVntBjzJ7wBMmOB3P-PpxMr6E868Wpsaky-b-Nrf1LajzoQFfmjnkI1KHQzGXrCcVnC57nF2ndYZHCLx5WA3dENCWmCbZlSAb5TC-p8DXCGWxWB7I3iRIsdMMk6SS6IV03722lZIS4/s1600/spy.jpg"
-  },
-  {
-    "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-    "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-    "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Information stealers li…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 09 Sep 2026 19:53:55 +0530",
-    "timestamp": 1788963835.0,
-    "isoDate": "2026-09-09T14:23:55+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYP_zrhRTZRWnPPcDkUrE7dBh2Bf5eaQmlBxyl7euTRGjS0C8boQppnrmjY0CIVjGrS_PF13V1W3BPVI3RDPZY59s_7xIkI8LnFkg3Tn_Q0x7_tbCs_sMkvhZMREtFLW3IOJSNNmQrKCDI88FCWhfymdWkEWtdMMRzivv3lZXImjreAz0d74VXt2K80ipH/s1600/tokens.jpg"
   }
 ]
