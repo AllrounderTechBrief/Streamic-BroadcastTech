@@ -1,5 +1,27 @@
 [
   {
+    "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+    "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "summary": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 15 Sep 2026 13:00:00 GMT",
+    "timestamp": 1789477200.0,
+    "isoDate": "2026-09-15T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2H2Z9EEQXN77GRVF484P66A.01M2H2ZAMANYA3DTBA92G3WQ5X.png"
+  },
+  {
+    "title": "Give every teammate and agent the right level of access to your Workers",
+    "link": "https://blog.cloudflare.com/workers-granular-authorization/",
+    "summary": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 15 Sep 2026 13:00:00 GMT",
+    "timestamp": 1789477200.0,
+    "isoDate": "2026-09-15T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW448A863P1CW4V1VXP9CBBR.png"
+  },
+  {
     "title": "Introducing automatic remediation policies with Cloudflare CASB",
     "link": "https://blog.cloudflare.com/casb-policies/",
     "summary": "Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send w…",
@@ -209,7 +231,7 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0TDC1Q5KWFS3GWEG7SHYMEP.png"
   },
   {
-    "title": "Say it once: Introducing Bot Preference Sync",
+    "title": "Say it once: introducing Bot Preference Sync",
     "link": "https://blog.cloudflare.com/bot-preference-sync/",
     "summary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
     "source": "Cloudflare Blog",
@@ -306,28 +328,6 @@
     "timestamp": 1786626000.0,
     "isoDate": "2026-08-13T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZQPYFA4V0A6ZGSYZDJGASME.png"
-  },
-  {
-    "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
-    "link": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
-    "summary": "In the first half of 2026, Cloudflare detected a 519% surge in hyper-volumetric DDos attacks across its network. These attacks were driven heavily by DNS and CLDAP reflection vectors. This report breaks down how major geopolitical conflicts…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 11 Aug 2026 13:00:00 GMT",
-    "timestamp": 1786453200.0,
-    "isoDate": "2026-08-11T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZQNQBJ1WH5E5QSQP8KFDVJV.png"
-  },
-  {
-    "title": "Everything we launched during Agents Week",
-    "link": "https://blog.cloudflare.com/agents-week-review-august-2026/",
-    "summary": "Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 10 Aug 2026 18:34:10 GMT",
-    "timestamp": 1786386850.0,
-    "isoDate": "2026-08-10T18:34:10+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZEF2H4G3BD74C5TP4BWMS76.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
