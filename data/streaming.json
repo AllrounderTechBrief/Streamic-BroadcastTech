@@ -1,5 +1,16 @@
 [
   {
+    "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+    "link": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+    "summary": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 16 Sep 2026 20:06:17 GMT",
+    "timestamp": 1789589177.0,
+    "isoDate": "2026-09-16T20:06:17+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2KND4WW7J8M4KCQSHWGS28X.01M2KND6MD5RWBZG4CTV12T33B.png"
+  },
+  {
     "title": "Have it both ways: stay discoverable in search while disallowing AI training",
     "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
     "summary": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
@@ -317,17 +328,6 @@
     "timestamp": 1786631448.0,
     "isoDate": "2026-08-13T14:30:48+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/09/AWS-knowledge-logo.png"
-  },
-  {
-    "title": "Certificate Transparency Monitoring is now generally available",
-    "link": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
-    "summary": "Cloudflare's Certificate Transparency Monitoring is now generally available. The biggest change: we no longer email you about certificates Cloudflare issued for your domain, so when an alert lands in your inbox, it's worth a look.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 13 Aug 2026 13:00:00 GMT",
-    "timestamp": 1786626000.0,
-    "isoDate": "2026-08-13T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZQPYFA4V0A6ZGSYZDJGASME.png"
   },
   {
     "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
