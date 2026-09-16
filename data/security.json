@@ -1,5 +1,27 @@
 [
   {
+    "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+    "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload ar…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 16 Sep 2026 11:18:28 +0530",
+    "timestamp": 1789537708.0,
+    "isoDate": "2026-09-16T05:48:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg"
+  },
+  {
+    "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+    "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+    "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a c…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 16 Sep 2026 10:48:06 +0530",
+    "timestamp": 1789535886.0,
+    "isoDate": "2026-09-16T05:18:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg"
+  },
+  {
     "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
     "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
     "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at lea…",
@@ -306,27 +328,5 @@
     "timestamp": 1789110849.0,
     "isoDate": "2026-09-11T07:14:09+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg"
-  },
-  {
-    "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-    "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
-    "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The software development comp…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 11 Sep 2026 12:16:18 +0530",
-    "timestamp": 1789109178.0,
-    "isoDate": "2026-09-11T06:46:18+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6b7k7Y60TgLLmuruqSocYNfZoYEmONgga8CidWSXIdOZLWlgCYLuXOe9bWQRi_3BRkOmJvPNANZAOS85Xx6RtuQTVCg2-QNi3dXfELQm8bglTMUK9rn54e-sLoslCkVYlPGiyGSnsu58yxo9EkC3PvXDWVTYhTRgDQqTDAQTs69vPBh7xjq0Fwm7bY40/s1600/papercut-flaws.jpg"
-  },
-  {
-    "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-    "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-    "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 11 Sep 2026 11:49:59 +0530",
-    "timestamp": 1789107599.0,
-    "isoDate": "2026-09-11T06:19:59+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1600/cisco-ransomware.jpg"
   }
 ]
