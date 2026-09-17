@@ -1,5 +1,27 @@
 [
   {
+    "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
+    "link": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
+    "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascina…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 17 Sep 2026 04:05:00 +0000",
+    "timestamp": 1789617900.0,
+    "isoDate": "2026-09-17T04:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/JWST_Treasure_Chest.jpg?w=8200&h=11220&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Summer Goes Out With a Heat Dome",
+    "link": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
+    "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 17 Sep 2026 04:01:00 +0000",
+    "timestamp": 1789617660.0,
+    "isoDate": "2026-09-17T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/summer-goes-out-with-a-heat-dome/heatdome_geos5_20260915.jpg?w=2160&h=1700&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "Passion Meets Precision at NASA’s Flight Research Lab",
     "link": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
     "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby eve…",
@@ -306,28 +328,6 @@
     "timestamp": 1789570818.0,
     "isoDate": "2026-09-16T15:00:18+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/nhq20260401-admin-0007large.jpg?w=1279"
-  },
-  {
-    "title": "NASA’s Integrated Medical Model (IMM)",
-    "link": "https://www.nasa.gov/general/nasas-integrated-medical-model-imm/",
-    "summary": "Planning crewed missions to the Moon and Mars involves preparing for the medical realities of long-duration space travel. Factors like cosmic radiation, microgravity, and distance from Earth create unique health considerations for astronaut…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 16 Sep 2026 14:50:23 +0000",
-    "timestamp": 1789570223.0,
-    "isoDate": "2026-09-16T14:50:23+00:00",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss075e0088825/iss075e0088825~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World",
-    "link": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/",
-    "summary": "Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives. Called Elias 2-24 b, the baby planet is still whirling in its natal disk of dust and gas. “Our plane…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 16 Sep 2026 14:34:47 +0000",
-    "timestamp": 1789569287.0,
-    "isoDate": "2026-09-16T14:34:47+00:00",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/09/elias-00.jpg?w=1536"
   },
   {
     "title": "NBC Sports California Names Natalie Noury Sharks Host",
