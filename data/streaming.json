@@ -1,5 +1,16 @@
 [
   {
+    "title": "Introducing the Updated AWS Well-Architected Streaming Media Lens",
+    "link": "https://aws.amazon.com/blogs/media/introducing-the-updated-aws-well-architected-streaming-media-lens/",
+    "summary": "At Amazon Web Services (AWS), we are excited to introduce the next revision to the AWS Well-Architected Streaming Media Lens. The Streaming Media Lens consists of a comprehensive Lens whitepaper and a custom lens, which will become availabl…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 17 Sep 2026 16:10:39 +0000",
+    "timestamp": 1789661439.0,
+    "isoDate": "2026-09-17T16:10:39+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
     "link": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
     "summary": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.",
@@ -427,16 +438,5 @@
     "timestamp": 1780443255.0,
     "isoDate": "2026-06-02T23:34:15+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/01/Stacked-bar-chart-showing-monthly-Amazon-EC2-costs.png"
-  },
-  {
-    "title": "How Bundesliga built Captain, an AI agent for fans, using Amazon Bedrock",
-    "link": "https://aws.amazon.com/blogs/media/how-bundesliga-built-captain-an-ai-agent-for-fans-using-amazon-bedrock/",
-    "summary": "Learn more about Captain, an agentic AI companion built by Bundesliga Media and embedded inside the official Bundesliga app.",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 01 Jun 2026 12:56:50 +0000",
-    "timestamp": 1780318610.0,
-    "isoDate": "2026-06-01T12:56:50+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/05/25/Figure-1_2.png"
   }
 ]
