@@ -1,5 +1,49 @@
 [
   {
+    "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+    "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+    "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS scor…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 18 Sep 2026 18:17:04 +0530",
+    "timestamp": 1789735624.0,
+    "isoDate": "2026-09-18T12:47:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg"
+  },
+  {
+    "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+    "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+    "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thous…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 18 Sep 2026 16:31:16 +0530",
+    "timestamp": 1789729276.0,
+    "isoDate": "2026-09-18T11:01:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg"
+  },
+  {
+    "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+    "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+    "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 18 Sep 2026 16:31:01 +0530",
+    "timestamp": 1789729261.0,
+    "isoDate": "2026-09-18T11:01:01+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg"
+  },
+  {
+    "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+    "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+    "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 18 Sep 2026 16:10:06 +0530",
+    "timestamp": 1789728006.0,
+    "isoDate": "2026-09-18T10:40:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg"
+  },
+  {
     "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
     "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
     "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a larg…",
@@ -284,49 +328,5 @@
     "timestamp": 1789535886.0,
     "isoDate": "2026-09-16T05:18:06+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg"
-  },
-  {
-    "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-    "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-    "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at lea…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 16 Sep 2026 00:24:14 +0530",
-    "timestamp": 1789498454.0,
-    "isoDate": "2026-09-15T18:54:14+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg"
-  },
-  {
-    "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-    "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-    "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world. The malwa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 15 Sep 2026 21:59:51 +0530",
-    "timestamp": 1789489791.0,
-    "isoDate": "2026-09-15T16:29:51+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTZstgI7jZKSq2kVj82ewI26neoU-YsSa1z0LIJdjqdsCSk8zS3VYdvhFyfE0rq75UOlst77oTDBZ-mVzRDaqljLl-jJrvxWzLBmj74k8kWFjld5o2uTB59tskHlBqM0JTuf5yuTMsWMBuE-Y_2LtkIfKT-l9C-h5Y5rvkAJKlIGD5rQLbUuWRNx8y5k/s1600/iran-malware.jpg"
-  },
-  {
-    "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-    "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-    "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emerging malware family, c…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 15 Sep 2026 20:53:19 +0530",
-    "timestamp": 1789485799.0,
-    "isoDate": "2026-09-15T15:23:19+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hFIl_GRAlPuegwLGZ2PzXVsPEUTEevpEYhkU2Va9isB7aC8a0jJCLVszVOUc_CAIb4IkIkmRjkvyaTIadUizNNEhHTxvzlPX0EUN6UQutjyrauyi35fzRtBjFudyOW4HlAnTRNC9XDj39uNBMKUWHUV2g0Rt8o3aSADZAeAIYgLN-dT0q8gIH9cWUDBF/s1600/windows-linux.jpg"
-  },
-  {
-    "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-    "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-    "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly af…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 15 Sep 2026 17:22:28 +0530",
-    "timestamp": 1789473148.0,
-    "isoDate": "2026-09-15T11:52:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWVpv5OsfVGAYPz4or_uMgVNDXTSzyXpTB8XLtCFHdzk9IliH8Aydez_Zo9hDGSj7__A0cFwnjKUpRWn5nn4CSd5wlaIJ1-BpU29tUyeh3pC63H_kXIn9ANQna1FBENp-td6TCC6z50ZEcAeNjAZMA-tIA9_x9nYrlHqbnJOijQpbeHsQmW5tKMczy4ek/s1600/marimo%20%281%29.jpg"
   }
 ]
