@@ -1,5 +1,27 @@
 [
   {
+    "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+    "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+    "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a larg…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 18 Sep 2026 14:48:03 +0530",
+    "timestamp": 1789723083.0,
+    "isoDate": "2026-09-18T09:18:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg"
+  },
+  {
+    "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+    "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+    "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 18 Sep 2026 11:47:25 +0530",
+    "timestamp": 1789712245.0,
+    "isoDate": "2026-09-18T06:17:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg"
+  },
+  {
     "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
     "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
     "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that control…",
@@ -306,27 +328,5 @@
     "timestamp": 1789473148.0,
     "isoDate": "2026-09-15T11:52:28+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWVpv5OsfVGAYPz4or_uMgVNDXTSzyXpTB8XLtCFHdzk9IliH8Aydez_Zo9hDGSj7__A0cFwnjKUpRWn5nn4CSd5wlaIJ1-BpU29tUyeh3pC63H_kXIn9ANQna1FBENp-td6TCC6z50ZEcAeNjAZMA-tIA9_x9nYrlHqbnJOijQpbeHsQmW5tKMczy4ek/s1600/marimo%20%281%29.jpg"
-  },
-  {
-    "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-    "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-    "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 15 Sep 2026 16:56:36 +0530",
-    "timestamp": 1789471596.0,
-    "isoDate": "2026-09-15T11:26:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5FtIC97mlzzBT1tKZW7igSSWnJsEI-gEDuUjX-_smFr3Q-loPw-bYG2rEqPBOFPOm0SeL3Go5NvyiJo_DbqnF7ECWdg1EA0DaUML5koDFnXi_lTpJ_Vuow5bsBeQvqLTN25x3O0seE7Qxv5o3S9KoIKuQAVIu7FTPPoZm6ly5XtS97tng5LAaw3tCCY/s1600/live.jpg"
-  },
-  {
-    "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-    "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-    "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to st…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 15 Sep 2026 16:42:32 +0530",
-    "timestamp": 1789470752.0,
-    "isoDate": "2026-09-15T11:12:32+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvoBVfJIN7YwGuf64F0CQWt9GrAVzaxDWGJetCrAGM_QgGEfpZm_I7f3FTkWBydY7v_iV4n8RWPAr4jfp7ZhN9DVbVZGDryBYlZiL6dn5RuYzLd811NH_sARdjbwWIpf9kOj-jtXfLzb7BTuy-iMpHbsgB9n8J5T7Hx0qp0D1_XeJR-ANcGQ5p88YH3fE/s1600/vite.jpg"
   }
 ]
