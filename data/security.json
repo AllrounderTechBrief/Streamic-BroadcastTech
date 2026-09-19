@@ -1,5 +1,16 @@
 [
   {
+    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+    "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+    "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 20 Sep 2026 00:06:53 +0530",
+    "timestamp": 1789843013.0,
+    "isoDate": "2026-09-19T18:36:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
+  },
+  {
     "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
     "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
     "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure an…",
@@ -20,17 +31,6 @@
     "timestamp": 1789824521.0,
     "isoDate": "2026-09-19T13:28:41+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg"
-  },
-  {
-    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-    "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-    "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 19 Sep 2026 18:58:35 +0530",
-    "timestamp": 1789824515.0,
-    "isoDate": "2026-09-19T13:28:35+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
   },
   {
     "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
