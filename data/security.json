@@ -1,5 +1,49 @@
 [
   {
+    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+    "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthe…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 19 Sep 2026 13:48:54 +0530",
+    "timestamp": 1789805934.0,
+    "isoDate": "2026-09-19T08:18:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg"
+  },
+  {
+    "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+    "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+    "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The inci…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 19 Sep 2026 13:21:34 +0530",
+    "timestamp": 1789804294.0,
+    "isoDate": "2026-09-19T07:51:34+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
+  },
+  {
+    "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+    "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+    "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18. The French security company had kept his GitHub access open. CrowdSec says h…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 19 Sep 2026 12:44:54 +0530",
+    "timestamp": 1789802094.0,
+    "isoDate": "2026-09-19T07:14:54+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg"
+  },
+  {
+    "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabiliti…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 19 Sep 2026 11:54:10 +0530",
+    "timestamp": 1789799050.0,
+    "isoDate": "2026-09-19T06:24:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg"
+  },
+  {
     "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
     "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
     "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system …",
@@ -284,49 +328,5 @@
     "timestamp": 1789565827.0,
     "isoDate": "2026-09-16T13:37:07+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg"
-  },
-  {
-    "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-    "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-    "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine as a normal user, s…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 16 Sep 2026 18:44:05 +0530",
-    "timestamp": 1789564445.0,
-    "isoDate": "2026-09-16T13:14:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg"
-  },
-  {
-    "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-    "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-    "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 16 Sep 2026 17:28:00 +0530",
-    "timestamp": 1789559880.0,
-    "isoDate": "2026-09-16T11:58:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg"
-  },
-  {
-    "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-    "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-    "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 16 Sep 2026 16:45:58 +0530",
-    "timestamp": 1789557358.0,
-    "isoDate": "2026-09-16T11:15:58+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVCezHTU2PU4DuL9ysF0nQFJLLR2QyxyexdJN5iv1QQnl4-mFFupADzryOhW_lsM_nI5OgHH5krMBLOErLl9GNmyJeaGEDGQNnhhyphenhyphenNs2ZXIwBLTIY8poIVxLKPNRRAipPFbKv_a7CPzE86rB_nItrsiirydPRuCZrvkDymktX28d1O7kSbEhIgmEPh6oy/s1600/pixel.jpg"
-  },
-  {
-    "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-    "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-    "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that ki…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 16 Sep 2026 16:45:48 +0530",
-    "timestamp": 1789557348.0,
-    "isoDate": "2026-09-16T11:15:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
   }
 ]
