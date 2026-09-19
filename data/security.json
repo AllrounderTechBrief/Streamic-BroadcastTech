@@ -1,5 +1,27 @@
 [
   {
+    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+    "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+    "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 19 Sep 2026 15:31:10 +0530",
+    "timestamp": 1789812070.0,
+    "isoDate": "2026-09-19T10:01:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
+  },
+  {
+    "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+    "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 19 Sep 2026 15:01:17 +0530",
+    "timestamp": 1789810277.0,
+    "isoDate": "2026-09-19T09:31:17+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg"
+  },
+  {
     "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
     "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
     "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthe…",
@@ -306,27 +328,5 @@
     "timestamp": 1789572469.0,
     "isoDate": "2026-09-16T15:27:49+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg"
-  },
-  {
-    "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-    "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-    "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 16 Sep 2026 20:06:44 +0530",
-    "timestamp": 1789569404.0,
-    "isoDate": "2026-09-16T14:36:44+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg"
-  },
-  {
-    "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-    "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-    "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recom…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 16 Sep 2026 19:07:07 +0530",
-    "timestamp": 1789565827.0,
-    "isoDate": "2026-09-16T13:37:07+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg"
   }
 ]
