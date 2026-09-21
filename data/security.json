@@ -1,5 +1,27 @@
 [
   {
+    "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+    "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+    "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 21 Sep 2026 14:09:38 +0530",
+    "timestamp": 1789979978.0,
+    "isoDate": "2026-09-21T08:39:38+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg"
+  },
+  {
+    "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+    "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+    "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 21 Sep 2026 11:36:44 +0530",
+    "timestamp": 1789970804.0,
+    "isoDate": "2026-09-21T06:06:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg"
+  },
+  {
     "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
     "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
     "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with …",
@@ -306,27 +328,5 @@
     "timestamp": 1789627180.0,
     "isoDate": "2026-09-17T06:39:40+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKC3hrw_VedPPLj2lAD6qhUn-7eJuJ8dqSBMAOwTEjUdYxlwnOla9dFF4pwOBNr-QsjzJPuXEtkA6orbkLHUqHI3RbWMBR0VeNaYvZqSnkNnM5HH-T9ofLeBzrZcOXn5nbZyNC2YeQjANmTzBAhaAwhDoGoXLJOeB1nFbIr-TJuFTHM8y0TAzj6Hxd0MYM/s1600/cisco-0-day.jpg"
-  },
-  {
-    "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-    "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nigh…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 17 Sep 2026 10:43:46 +0530",
-    "timestamp": 1789622026.0,
-    "isoDate": "2026-09-17T05:13:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiizrhUTj3tjdgb7IhljezkW3bnwYpTrYnUKKPyx7s7RWalycDu2JiqKhRZDgnpZdafbKxkyBrx4kjkpGTNSNXYZ-nL2wFQ_kKcRBVo14lJ5Da5SF2sq2-eOzHeRXxuJ3skSWSn5AC0XA4NjwQrhTWFOuFxvSRsmOC63AIKBxV-9bfmABkLGW4BgyfV3CSM/s1600/domain.jpg"
-  },
-  {
-    "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-    "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 16 Sep 2026 21:20:59 +0530",
-    "timestamp": 1789573859.0,
-    "isoDate": "2026-09-16T15:50:59+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg"
   }
 ]
