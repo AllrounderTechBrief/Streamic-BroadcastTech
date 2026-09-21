@@ -1,5 +1,16 @@
 [
   {
+    "title": "Evaluate your content with AWS Elemental Inference using the sample clipping portal",
+    "link": "https://aws.amazon.com/blogs/media/evaluate-your-content-with-aws-elemental-inference-using-the-sample-clipping-portal/",
+    "summary": "In this post, we introduce a sample application that helps you answer that question for AWS Elemental Inference. The sample is a deployable video clipping portal for live sports. You run it in your own AWS account, point it at your own cont…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 21 Sep 2026 16:22:06 +0000",
+    "timestamp": 1790007726.0,
+    "isoDate": "2026-09-21T16:22:06+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/18/Figure-1-Architecture-diagram_elemental.png"
+  },
+  {
     "title": "Python Workers are now generally available",
     "link": "https://blog.cloudflare.com/python-workers-ga/",
     "summary": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writin…",
@@ -427,16 +438,5 @@
     "timestamp": 1781182975.0,
     "isoDate": "2026-06-11T13:02:55+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/09/Figure-1-Smart-Subtitles-process.png"
-  },
-  {
-    "title": "How Bedrock Streaming optimizes its AWS costs",
-    "link": "https://aws.amazon.com/blogs/media/how-bedrock-streaming-optimizes-its-aws-costs/",
-    "summary": "Learn how Bedrock Streaming hosts their solutions on Amazon Web Services (AWS) to serve major European broadcasters such as M6+, Videoland, and RTL+. With an AWS budget of several million dollars per year, each percentage point of optimizat…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 02 Jun 2026 23:34:15 +0000",
-    "timestamp": 1780443255.0,
-    "isoDate": "2026-06-02T23:34:15+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/01/Stacked-bar-chart-showing-monthly-Amazon-EC2-costs.png"
   }
 ]
