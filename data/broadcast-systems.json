@@ -1,8 +1,41 @@
 [
   {
+    "title": "ZineControl 1.8.0– New supported cameras, cinematic zoom & focus jog",
+    "link": "https://www.newsshooter.com/2026/09/22/zinecontrol-1-8-0-new-supported-cameras-cinematic-zoom-focus-jog/?utm_source=rss&utm_medium=rss&utm_campaign=zinecontrol-1-8-0-new-supported-cameras-cinematic-zoom-focus-jog",
+    "summary": "ZineControl 1.8.0 has been released, and it adds support for more cameras, as well as cinematic zoom, focus jog, and a few other features. If you are not familiar with ZineControl, it allows you to fully control select Nikon cameras remotel…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 22 Sep 2026 14:10:11 +0000",
+    "timestamp": 1790086211.0,
+    "isoDate": "2026-09-22T14:10:11+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Viltrox Brings Its Air Series to L-Mount with Four Compact Autofocus Primes",
+    "link": "https://www.newsshooter.com/2026/09/22/viltrox-brings-its-air-series-to-l-mount-with-four-compact-autofocus-primes/?utm_source=rss&utm_medium=rss&utm_campaign=viltrox-brings-its-air-series-to-l-mount-with-four-compact-autofocus-primes",
+    "summary": "Viltrox has launched four full-frame autofocus primes for L-Mount, bringing its compact, budget-focused Air series to Leica and Panasonic cameras for the first time. The four lenses, AF 14mm F4.0, AF 20mm F2.8, AF 40mm F2.5, and AF 50mm F2.…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 22 Sep 2026 13:35:06 +0000",
+    "timestamp": 1790084106.0,
+    "isoDate": "2026-09-22T13:35:06+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "BBC R&D unveils Time-Addressable Data Store",
+    "link": "https://www.tvbeurope.com/media-management/bbc-rd-unveils-time-addressable-data-store",
+    "summary": "The Time-Addressable Data Store (TADS) is an open, interoperable and cloud-native API specification for reading, writing and editing timeline data in a store The post BBC R&D unveils Time-Addressable Data Store appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 22 Sep 2026 09:14:54 +0000",
+    "timestamp": 1790068494.0,
+    "isoDate": "2026-09-22T09:14:54+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Sýn selects Open Broadcast Systems for low-latency IP broadcast feeds",
     "link": "https://www.tvbeurope.com/ip-migration/syn-selects-open-broadcast-systems-for-low-latency-ip-broadcast-feeds",
-    "summary": "A range of Open Broadcast Systems' encoders and decoders aim to enable the transport of feeds across Iceland's varying environmental condition The post Sýn selects Open Broadcast Systems for low-latency IP broadcast feeds appeared first on …",
+    "summary": "A range of Open Broadcast Systems' encoders and decoders aim to enable the transport of feeds across Iceland's varying environmental conditions The post Sýn selects Open Broadcast Systems for low-latency IP broadcast feeds appeared first on…",
     "source": "TVBEurope",
     "category": "broadcast-systems",
     "timeAgo": "Tue, 22 Sep 2026 08:38:25 +0000",
@@ -63,28 +96,6 @@
     "timeAgo": "Tue, 22 Sep 2026 04:53:34 +0000",
     "timestamp": 1790052814.0,
     "isoDate": "2026-09-22T04:53:34+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Insta360 Luna Ultra Firmware Update 1.1.8",
-    "link": "https://www.newsshooter.com/2026/09/21/insta360-luna-ultra-firmware-update-1-1-8/?utm_source=rss&utm_medium=rss&utm_campaign=insta360-luna-ultra-firmware-update-1-1-8",
-    "summary": "Insta360 has released firmware update 1.1.8 for its Luna Ultra gimbal camera that includes support for the new Luna Ultra Super-Telephoto Lens. The Luna Ultra Super-Telephoto Lens ($49.99 USD) was designed to be attached to the front of the…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 22 Sep 2026 04:41:39 +0000",
-    "timestamp": 1790052099.0,
-    "isoDate": "2026-09-22T04:41:39+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Tilta Khronos Core for iPhone 18 Pro / Pro Max",
-    "link": "https://www.newsshooter.com/2026/09/21/tilta-khronos-core-for-iphone-18-pro-pro-max/?utm_source=rss&utm_medium=rss&utm_campaign=tilta-khronos-core-for-iphone-18-pro-pro-max",
-    "summary": "Tilta has announced its new Khronos Core for iPhone 18 Pro / Pro Max. It was machined from a single block of aluminum, and it is claimed to provide, modular functionality and a premium design. You can pre-order now for 10% off, available th…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 22 Sep 2026 01:26:05 +0000",
-    "timestamp": 1790040365.0,
-    "isoDate": "2026-09-22T01:26:05+00:00",
     "imageUrl": ""
   },
   {
@@ -262,16 +273,5 @@
     "timestamp": 1789546123.0,
     "isoDate": "2026-09-16T08:08:43+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/1-arri-alexa-35-live-multicam-system-complete-system-core-2026-726x457.jpg"
-  },
-  {
-    "title": "SES introduces ‘first-of-its-kind’ content orchestration and hybrid delivery platform",
-    "link": "https://www.tvbeurope.com/media-delivery/ses-introduces-first-of-its-kind-content-orchestration-and-hybrid-delivery-platform",
-    "summary": "The platform provides a single user interface for content delivery, enabling users to select the most effective content delivery path The post SES introduces ‘first-of-its-kind’ content orchestration and hybrid delivery platform appeared fi…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 16 Sep 2026 07:31:01 +0000",
-    "timestamp": 1789543861.0,
-    "isoDate": "2026-09-16T07:31:01+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/SES-CORE_image-726x395.png"
   }
 ]

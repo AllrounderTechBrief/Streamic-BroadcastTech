@@ -1,5 +1,27 @@
 [
   {
+    "title": "We just shipped support for the ugliest part of HTTP: Vary",
+    "link": "https://blog.cloudflare.com/vary-support/",
+    "summary": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 22 Sep 2026 14:04:31 GMT",
+    "timestamp": 1790085871.0,
+    "isoDate": "2026-09-22T14:04:31+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2RH1BWX8086HXJT21CBD9PE.01M2RH1CGYTGNVA73ZP6Z4GJBR.png"
+  },
+  {
+    "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+    "link": "https://blog.cloudflare.com/worker-previews/",
+    "summary": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 22 Sep 2026 13:00:00 GMT",
+    "timestamp": 1790082000.0,
+    "isoDate": "2026-09-22T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M31XD8PJ2SDSWTWFPP0GSF3Z.01M31XD9GVMHJJD2RAVT50XFTF.png"
+  },
+  {
     "title": "Evaluate your content with AWS Elemental Inference using the sample clipping portal",
     "link": "https://aws.amazon.com/blogs/media/evaluate-your-content-with-aws-elemental-inference-using-the-sample-clipping-portal/",
     "summary": "In this post, we introduce a sample application that helps you answer that question for AWS Elemental Inference. The sample is a deployable video clipping portal for live sports. You run it in your own AWS account, point it at your own cont…",
@@ -317,28 +339,6 @@
     "timestamp": 1787155228.0,
     "isoDate": "2026-08-19T16:00:28+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M00XZZC7473CXRW6EF1Z69ZW.png"
-  },
-  {
-    "title": "BGP Role model: tracking the adoption of RFC 9234",
-    "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
-    "summary": "RFC 9234 lets routers reject route leaks on their own, using BGP Roles and the Only to Customer attribute. We measured who has deployed it, and found two Tier 1 networks unexpectedly stripping OTC.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 18 Aug 2026 15:21:32 GMT",
-    "timestamp": 1787066492.0,
-    "isoDate": "2026-08-18T15:21:32+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0AP04HK7ZM02ZWP3G59W4DP.png"
-  },
-  {
-    "title": "How Cloudflare detects MCP traffic and helps secure it",
-    "link": "https://blog.cloudflare.com/mcp-security-updates/",
-    "summary": "Cloudflare Gateway identifies MCP requests using protocol-level heuristics. Security teams can use that signal to find shadow MCP traffic, enforce Portal-only access for approved servers, and block direct connections on managed network path…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 14 Aug 2026 13:12:12 GMT",
-    "timestamp": 1786713132.0,
-    "isoDate": "2026-08-14T13:12:12+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M005HG1H0K802B4Y17SX9NQ5.png"
   },
   {
     "title": "Announcing AI-Powered Video Advertising & Operations knowledge badge on AWS Skill Builder",
