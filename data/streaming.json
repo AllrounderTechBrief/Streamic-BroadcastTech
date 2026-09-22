@@ -11,7 +11,7 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M2RH1BWX8086HXJT21CBD9PE.01M2RH1CGYTGNVA73ZP6Z4GJBR.png"
   },
   {
-    "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+    "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
     "link": "https://blog.cloudflare.com/worker-previews/",
     "summary": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.",
     "source": "Cloudflare Blog",

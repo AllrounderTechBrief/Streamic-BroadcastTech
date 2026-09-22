@@ -1,5 +1,38 @@
 [
   {
+    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+    "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+    "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 22 Sep 2026 22:33:31 +0530",
+    "timestamp": 1790096611.0,
+    "isoDate": "2026-09-22T17:03:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg"
+  },
+  {
+    "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+    "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+    "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, trac…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 22 Sep 2026 22:11:12 +0530",
+    "timestamp": 1790095272.0,
+    "isoDate": "2026-09-22T16:41:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg"
+  },
+  {
+    "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+    "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+    "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 22 Sep 2026 21:44:04 +0530",
+    "timestamp": 1790093644.0,
+    "isoDate": "2026-09-22T16:14:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg"
+  },
+  {
     "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
     "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
     "summary": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has? A person may try sever…",
@@ -295,38 +328,5 @@
     "timestamp": 1789750579.0,
     "isoDate": "2026-09-18T16:56:19+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
-  },
-  {
-    "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-    "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-    "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 18 Sep 2026 20:54:16 +0530",
-    "timestamp": 1789745056.0,
-    "isoDate": "2026-09-18T15:24:16+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
-  },
-  {
-    "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-    "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-    "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS scor…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 18 Sep 2026 18:17:04 +0530",
-    "timestamp": 1789735624.0,
-    "isoDate": "2026-09-18T12:47:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg"
-  },
-  {
-    "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-    "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-    "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thous…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 18 Sep 2026 16:31:16 +0530",
-    "timestamp": 1789729276.0,
-    "isoDate": "2026-09-18T11:01:16+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg"
   }
 ]
