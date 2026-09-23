@@ -88,17 +88,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Hollyland LARK M3",
-    "link": "https://www.newsshooter.com/2026/09/22/hollyland-lark-m3/?utm_source=rss&utm_medium=rss&utm_campaign=hollyland-lark-m3",
-    "summary": "Hollyland has announced the LARK M3, the latest iteration of its LARK compact wireless microphone system series. The Hollyland LARK M3 could be used for interviews, multi-person shoots, and other applications where a quick and easy wireless…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 23 Sep 2026 01:30:12 +0000",
-    "timestamp": 1790127012.0,
-    "isoDate": "2026-09-23T01:30:12+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "BBC R&D unveils Time-Addressable Data Store",
     "link": "https://www.tvbeurope.com/media-management/bbc-rd-unveils-time-addressable-data-store",
     "summary": "The Time-Addressable Data Store (TADS) is an open, interoperable and cloud-native API specification for reading, writing and editing timeline data in a store The post BBC R&D unveils Time-Addressable Data Store appeared first on TVBEurope.",
@@ -229,6 +218,17 @@
     "timestamp": 1789718721.0,
     "isoDate": "2026-09-18T08:05:21+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/SP24_Pic_Michael-G_10-726x484.jpg"
+  },
+  {
+    "title": "DJI SDR Transmission 2– a powerful & accessible wireless video transmission tool",
+    "link": "https://www.newsshooter.com/2026/09/17/dji-sdr-transmission-2-a-powerful-accessible-wireless-video-transmission-tool/?utm_source=rss&utm_medium=rss&utm_campaign=dji-sdr-transmission-2-a-powerful-accessible-wireless-video-transmission-tool",
+    "summary": "Sponsored Article The new DJI SDR Transmission 2 is an accessible yet immensely powerful wireless video transmission tool that empowers the imaging, filming, and entertainment sectors. Having the ability to send high-quality, low-latency im…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 17 Sep 2026 12:01:54 +0000",
+    "timestamp": 1789646514.0,
+    "isoDate": "2026-09-17T12:01:54+00:00",
+    "imageUrl": ""
   },
   {
     "title": "Opinion: broadcast technology must move with audiences",
