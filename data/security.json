@@ -1,5 +1,27 @@
 [
   {
+    "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+    "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+    "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highe…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 24 Sep 2026 23:40:18 +0530",
+    "timestamp": 1790273418.0,
+    "isoDate": "2026-09-24T18:10:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg"
+  },
+  {
+    "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+    "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+    "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths ge…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 24 Sep 2026 23:22:43 +0530",
+    "timestamp": 1790272363.0,
+    "isoDate": "2026-09-24T17:52:43+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
+  },
+  {
     "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
     "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
     "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a generic documentatio…",
@@ -306,27 +328,5 @@
     "timestamp": 1790080200.0,
     "isoDate": "2026-09-22T12:30:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ivhHLwWwT7Ptbr537Fd2CV3d_maDSNRmH0up0x67UPpc5x45Uuz0Bg8EnLkjrtB3DYXldW7aKbzx5uljQSF7IhQlzHHA1HR0F16Eaxs8Y3tgURkizSrA79L3EqyD5RDlqPGljbXCTQj0tFFG2EOVueksvhyrmdmC-v6VFjs76KdzZlCg1juWiVOPDnU/s1600/token.jpg"
-  },
-  {
-    "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-    "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-    "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow a remote attacker w…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 22 Sep 2026 17:59:00 +0530",
-    "timestamp": 1790080140.0,
-    "isoDate": "2026-09-22T12:29:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5Up_REU7_SnA-Ce9D8UGRsM8WbkkcjR6kjirzb-tSFejrL-qnZkXrp2gNa3OA-4PgvkUqHs59j9Qc8srbfm2JOUIOvEa1c_d8Il3kUDAGyr49FuXwq_n438Vf9txfq1fVwcpykkZAKz1o2QFGUJDLF4wnXzNWLdH1tYft3bd-vJywPppGjEfoikG22s/s1600/VeloCloud.jpg"
-  },
-  {
-    "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-    "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-    "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-pa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 22 Sep 2026 17:15:00 +0530",
-    "timestamp": 1790077500.0,
-    "isoDate": "2026-09-22T11:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfPPym5AUNkyGqTS_emtDBNfEzrtWQJSHGSMl0V3KkDS2_hMcu_cpDslIX9LUv9nvHbQzY9hnwDEKjdlxe6vFS3N2_PHkTk_0TdKBE7RrAdniL9dObHd24tudc-Ymy8FTsV9y6Io68EhjR6fRrRwMEJhdKczg6vpRP2Bp06cxX_EqgmqXps8ih3Tfq08/s1600/core.jpg"
   }
 ]
