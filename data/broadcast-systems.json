@@ -1,5 +1,49 @@
 [
   {
+    "title": "Host Broadcast Services announces new CEO",
+    "link": "https://www.tvbeurope.com/business/host-broadcast-services-announces-new-ceo",
+    "summary": "Ronald den Hollander has been with the company for over 20 years, working on areas such as broadcaster infrastucture and the design, delivery and operation of international broadcast centres and facilities The post Host Broadcast Services a…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 25 Sep 2026 10:18:39 +0000",
+    "timestamp": 1790331519.0,
+    "isoDate": "2026-09-25T10:18:39+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Ronald-den-Hollander-726x363.jpg"
+  },
+  {
+    "title": "Bringing Danse Macabre to life with live-action and AI",
+    "link": "https://www.tvbeurope.com/production-post/bringing-danse-macabre-to-life-with-live-action-and-ai",
+    "summary": "Director Hisko Hulsing explains how he blended live-action editing, multi-country collaboration, and AI-assisted texturing to create the animated short film The post Bringing Danse Macabre to life with live-action and AI appeared first on T…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 25 Sep 2026 08:33:12 +0000",
+    "timestamp": 1790325192.0,
+    "isoDate": "2026-09-25T08:33:12+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Danse-Macabre-1-726x475.jpg"
+  },
+  {
+    "title": "Viaplay migrates to AI-enabled scheduling-as-a-service",
+    "link": "https://www.tvbeurope.com/media-management/viaplay-migrates-to-ai-enabled-scheduling-as-a-service",
+    "summary": "Viaplay migrated to Altitude Scheduling as part of its ongoing strategy to modernise operations across its free-to-air portfolio The post Viaplay migrates to AI-enabled scheduling-as-a-service appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 25 Sep 2026 08:31:42 +0000",
+    "timestamp": 1790325102.0,
+    "isoDate": "2026-09-25T08:31:42+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/284752f2-ad1c-4192-9342-5b964b326583-726x408.png"
+  },
+  {
+    "title": "AFP and Dalet add C2PA standard to video and encoding workflows",
+    "link": "https://www.tvbeurope.com/media-delivery/afp-and-dalet-add-c2pa-standard-to-video-and-encoding-workflows",
+    "summary": "Engineers from both organisations will develop a PoC to demonstrate how news agencies can apply C2PA Content Credentials to video for onward delivery The post AFP and Dalet add C2PA standard to video and encoding workflows appeared first on…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 25 Sep 2026 07:46:52 +0000",
+    "timestamp": 1790322412.0,
+    "isoDate": "2026-09-25T07:46:52+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Save $200 USD on the Manfrotto Befree Advanced Aluminum Travel Tripod with Ball Head and Advanced Gear Backpack III Kit",
     "link": "https://www.newsshooter.com/2026/09/24/save-200-usd-on-the-manfrotto-befree-advanced-aluminum-travel-tripod-with-ball-head-and-advanced-gear-backpack-iii-kit/?utm_source=rss&utm_medium=rss&utm_campaign=save-200-usd-on-the-manfrotto-befree-advanced-aluminum-travel-tripod-with-ball-head-and-advanced-gear-backpack-iii-kit",
     "summary": "For a limited time, you can save $200 USD on the Manfrotto Befree Advanced Aluminum Travel Tripod with Ball Head and Advanced Gear Backpack III Kit and purchase it for $179.90 USD. The Manfrotto Befree Advanced Aluminum Travel Tripod with B…",
@@ -229,49 +273,5 @@
     "timestamp": 1789980000.0,
     "isoDate": "2026-09-21T08:40:00+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/IMG_8187-726x964.jpg"
-  },
-  {
-    "title": "TVU Networks and vivo launch phone-sized broadcast solution",
-    "link": "https://www.tvbeurope.com/live-production/tvu-networks-and-vivo-launch-phone-sized-broadcast-solution",
-    "summary": "Dual SIMs and active Wi-Fi bands carry the stream in parallel over four live data paths The post TVU Networks and vivo launch phone-sized broadcast solution appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 18 Sep 2026 10:39:25 +0000",
-    "timestamp": 1789727965.0,
-    "isoDate": "2026-09-18T10:39:25+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/VIVO.png"
-  },
-  {
-    "title": "Peering over the edge",
-    "link": "https://www.tvbeurope.com/media-delivery/peering-over-the-edge",
-    "summary": "TVBEurope sits down with industry leaders to discuss how edge technology and cloud workflows can coexist to create more resilient, cost-effective, and scalable media operations The post Peering over the edge appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 18 Sep 2026 09:07:04 +0000",
-    "timestamp": 1789722424.0,
-    "isoDate": "2026-09-18T09:07:04+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/Ian-Wagdin-copy-726x529.jpg"
-  },
-  {
-    "title": "LNK Group accelerates ST 2110 transition across 5 networks with AMPP",
-    "link": "https://www.tvbeurope.com/ip-migration/lnk-group-accelerates-st-2110-transition-across-5-networks-with-ampp",
-    "summary": "The deployment combines on-premises software-defined playout with cloud-based disaster recovery for the Lithuanian TV group The post LNK Group accelerates ST 2110 transition across 5 networks with AMPP appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 18 Sep 2026 08:43:17 +0000",
-    "timestamp": 1789720997.0,
-    "isoDate": "2026-09-18T08:43:17+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/LNK_PR-726x340.jpg"
-  },
-  {
-    "title": "Starting Pixel Live returns with AI focus",
-    "link": "https://www.tvbeurope.com/virtual-production/starting-pixel-live-2026-returns-with-ai-focus",
-    "summary": "Featuring talks from talks from producers, directors and more, the event will explore the impacts of AI on virtual production's pipeline, productivity, and creativity The post Starting Pixel Live returns with AI focus appeared first on TVBE…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 18 Sep 2026 08:05:21 +0000",
-    "timestamp": 1789718721.0,
-    "isoDate": "2026-09-18T08:05:21+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/09/SP24_Pic_Michael-G_10-726x484.jpg"
   }
 ]

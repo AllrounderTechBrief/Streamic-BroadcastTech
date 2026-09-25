@@ -1,5 +1,16 @@
 [
   {
+    "title": "Agents can now set up your website’s security with Turnstile Spin",
+    "link": "https://blog.cloudflare.com/turnstile-spin/",
+    "summary": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 25 Sep 2026 13:00:00 GMT",
+    "timestamp": 1790341200.0,
+    "isoDate": "2026-09-25T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M39NWTASMSZ5QNR34B69DE9W.01M39NWV0E5V2VQFG38NH7SPK8.png"
+  },
+  {
     "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
     "link": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
     "summary": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to …",
@@ -328,17 +339,6 @@
     "timestamp": 1787354397.0,
     "isoDate": "2026-08-21T23:19:57+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GECYRV44NP1WR229SCRK7E.png"
-  },
-  {
-    "title": "From all-or-nothing to task-based OAuth consent",
-    "link": "https://blog.cloudflare.com/task-based-oauth-consent/",
-    "summary": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 20 Aug 2026 17:03:03 GMT",
-    "timestamp": 1787245383.0,
-    "isoDate": "2026-08-20T17:03:03+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0E2VFX1WXFF6TK51VFNP5V3.png"
   },
   {
     "title": "Announcing AI-Powered Video Advertising & Operations knowledge badge on AWS Skill Builder",

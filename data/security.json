@@ -1,5 +1,38 @@
 [
   {
+    "title": "The SOC Doesn't Need to Start Over with Every Alert",
+    "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+    "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker land…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 25 Sep 2026 17:00:00 +0530",
+    "timestamp": 1790335800.0,
+    "isoDate": "2026-09-25T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0sz5D5hiSWYuUfbRDYDloMNzbx5dpvVQjC5ZVoYzIgvWL_Tkyx8AjNHjZ27RAwaPbCIQXNWB6o_FYzxjimFYHY2pHfp6m6b97tARxhdhqSHBkp2lYpfekwVLvUIm63ruwsHR7RlQkR-2jfOPELG2hjZrrYr9JYr4ndSfVaYIajhTpmB6Ud0DIXz1D_uI/s1600/soc-1.jpg"
+  },
+  {
+    "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+    "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+    "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 25 Sep 2026 16:05:55 +0530",
+    "timestamp": 1790332555.0,
+    "isoDate": "2026-09-25T10:35:55+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg"
+  },
+  {
+    "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+    "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL inject…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 25 Sep 2026 15:44:02 +0530",
+    "timestamp": 1790331242.0,
+    "isoDate": "2026-09-25T10:14:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg"
+  },
+  {
     "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
     "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
     "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier co…",
@@ -295,38 +328,5 @@
     "timestamp": 1790100190.0,
     "isoDate": "2026-09-22T18:03:10+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFso-nJC2Re_gThOMTjPhyphenhyphenaOti1Mpn2_nb6NYGitzjVHTtvHN_q4oKg_FGa4IrTt81BAuA4qWzeJJZkxdV7F0-iSBR3ZwSUmqfBhvBX2ArxLTZqYjbtCPhu2Gw7PLSmOS5kOGQ9f0I46xPwhp5VCflFSN8YEm-z8VXdk1XRJwCvbqbljSZqorD4MpbQc/s1600/wp-update.jpg"
-  },
-  {
-    "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-    "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-    "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 22 Sep 2026 23:28:15 +0530",
-    "timestamp": 1790099895.0,
-    "isoDate": "2026-09-22T17:58:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMlDL6W0FZvq8_gscr2M3UZIVnCYorB-Ip2G6To6-eZ04gFyOMsf-mvbqtMkYv484O3XnKhzySe0-UQjCOMm99fUhzrpkMD-QaZkn2UIUozJ5hLwrm7kXgLkODdkUUJk4GFXEkgrg7MlXKzcQ7kKtug2RmT80RROQfVRbQQm3HdeHBzAzhAjQ9bUf5eaT/s1600/twilio.jpg"
-  },
-  {
-    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-    "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-    "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 22 Sep 2026 22:33:31 +0530",
-    "timestamp": 1790096611.0,
-    "isoDate": "2026-09-22T17:03:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg"
-  },
-  {
-    "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-    "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-    "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, trac…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 22 Sep 2026 22:11:12 +0530",
-    "timestamp": 1790095272.0,
-    "isoDate": "2026-09-22T16:41:12+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg"
   }
 ]
