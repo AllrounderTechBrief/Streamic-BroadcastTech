@@ -1,5 +1,27 @@
 [
   {
+    "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+    "link": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+    "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Sat, 26 Sep 2026 04:05:00 +0000",
+    "timestamp": 1790395500.0,
+    "isoDate": "2026-09-26T04:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=2000&h=1334&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "NASA, Boeing to Provide Update on Starliner Development",
+    "link": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+    "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https:/…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 25 Sep 2026 22:06:50 +0000",
+    "timestamp": 1790374010.0,
+    "isoDate": "2026-09-25T22:06:50+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg?w=2048"
+  },
+  {
     "title": "Dow Jumps 479, Nasdaq Gains 129, S&P 500 Adds 39",
     "link": "https://tvnewscheck.com/business/article/dow-jumps-479-nasdaq-gains-129-sp-500-adds-39/",
     "summary": "A reprieve from rising oil prices helped U.S. stocks finish the week higher. The post Dow Jumps 479, Nasdaq Gains 129, S&P 500 Adds 39 appeared first on TV News Check.",
@@ -9,6 +31,28 @@
     "timestamp": 1790368334.0,
     "isoDate": "2026-09-25T20:32:14+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+    "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+    "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing coalition of like-minded nat…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 25 Sep 2026 19:53:03 +0000",
+    "timestamp": 1790365983.0,
+    "isoDate": "2026-09-25T19:53:03+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg?w=1600"
+  },
+  {
+    "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+    "link": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+    "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, A…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 25 Sep 2026 19:36:10 +0000",
+    "timestamp": 1790364970.0,
+    "isoDate": "2026-09-25T19:36:10+00:00",
+    "imageUrl": "https://images-assets.nasa.gov/image/933/933~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "Networks Resume White House Coverage After Standoff",
@@ -66,6 +110,28 @@
     "imageUrl": ""
   },
   {
+    "title": "2026-2027 DWU: Middle School Design Challenge",
+    "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+    "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partner…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 25 Sep 2026 17:20:51 +0000",
+    "timestamp": 1790356851.0,
+    "isoDate": "2026-09-25T17:20:51+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg?w=2048"
+  },
+  {
+    "title": "2026-2027 DWU: High School Engineering Challenge",
+    "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
+    "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 25 Sep 2026 17:19:42 +0000",
+    "timestamp": 1790356782.0,
+    "isoDate": "2026-09-25T17:19:42+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-hs-web.jpg?w=2048"
+  },
+  {
     "title": "WWAY Wilmington, N.C., To Launch Sunday Morning Block From Just Do Good Entertainment On Sept. 27",
     "link": "https://tvnewscheck.com/programming/article/wway-wilmington-n-c-to-launch-sunday-morning-block-from-just-do-good-entertainment-on-sept-27/",
     "summary": "Morris Multimedia’s WWAY Wilmington, N.C., and Just Do Good Entertainment are launching The Just Do Good Channel this Sunday, Sept. 27, at 10 a.m. on WWAY. The weekly programming block … The post WWAY Wilmington, N.C., To Launch Sunday Morn…",
@@ -75,6 +141,28 @@
     "timestamp": 1790353286.0,
     "isoDate": "2026-09-25T16:21:26+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "Hubble Spots Chaotic Secret in Galaxy",
+    "link": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
+    "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl …",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 25 Sep 2026 15:54:10 +0000",
+    "timestamp": 1790351650.0,
+    "isoDate": "2026-09-25T15:54:10+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg?w=2018"
+  },
+  {
+    "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
+    "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
+    "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects tha…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 25 Sep 2026 14:45:51 +0000",
+    "timestamp": 1790347551.0,
+    "isoDate": "2026-09-25T14:45:51+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/tb-26-07-figure-12.png?w=674"
   },
   {
     "title": "MeTV Celebrates 75 Years Of ‘I Love Lucy’ On Oct. 4",
@@ -229,6 +317,28 @@
     "timestamp": 1790331187.0,
     "isoDate": "2026-09-25T10:13:07+00:00",
     "imageUrl": ""
+  },
+  {
+    "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+    "link": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+    "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 25 Sep 2026 04:05:00 +0000",
+    "timestamp": 1790309100.0,
+    "isoDate": "2026-09-25T04:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/NGC5139CadenasParra.jpg?w=2048&h=1542&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Explosive Intensification for Hurricane Polo",
+    "link": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
+    "summary": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 25 Sep 2026 04:01:00 +0000",
+    "timestamp": 1790308860.0,
+    "isoDate": "2026-09-25T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg"
   },
   {
     "title": "WSCV Miami, Liga Contra el Cáncer Set 28th Telethon",

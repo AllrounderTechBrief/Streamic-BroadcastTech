@@ -1,5 +1,27 @@
 [
   {
+    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+    "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+    "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 26 Sep 2026 17:16:40 +0530",
+    "timestamp": 1790423200.0,
+    "isoDate": "2026-09-26T11:46:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg"
+  },
+  {
+    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+    "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+    "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could prom…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 26 Sep 2026 16:00:00 +0530",
+    "timestamp": 1790418600.0,
+    "isoDate": "2026-09-26T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbfTXTCeNSvaPIRWOUJJxKPfYp45QnSjl24XZ1Set210zScJhg03o_TYX0QKPQdcSq-vkiWnymSqBu-bSwcCm1Kb2Te5do1VIcbCQjc_-TOOR6VwqRiHu5LE-tBb0gdrDjmPuDADfUraASQenGh-1gI4PF_xa2GwREsDM4vq4_C-aEU8EJsBBvhykJ1E0/s1600/sans-article.jpg"
+  },
+  {
     "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
     "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
     "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-s…",
@@ -306,27 +328,5 @@
     "timestamp": 1790164033.0,
     "isoDate": "2026-09-23T11:47:13+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ytuRh_WTu4R3TBnroGXO6IUgATMIi9vgx8DA7j0JJ0e_cTfAjlUIS6zAjb2q9EPdTI8gLwby7r2fijYkH83j2SwisKf-ANFKr6YTdwAHeds99dYrng0QN3nmkqDtIvSHoK8m47e_V0x01B0PuzIezcqtnc2VZlUCVYErOkaKQF7pbk0l35uLwmTl8Is1/s1600/CLAUDE-CHATGPT.jpg"
-  },
-  {
-    "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-    "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-    "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026-80521 (CVSS score: …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 23 Sep 2026 16:42:18 +0530",
-    "timestamp": 1790161938.0,
-    "isoDate": "2026-09-23T11:12:18+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZjw_aCdQxMfwTv_-KFLK5KRCd96MoivCQPTAZcAWJal5_84FgCny9Um8csMgDDqta40CUGMPDO14hdbUo9CRk-FMJwY70MsDfV25AC8VmL-8_yDO_UWHYXbmeJ9jZANptIeHqJX9axqzxxn68AHEj8zFhYbh8coIbxWAVC9XbtG9CjxMBpQqclG14QuM/s1600/linux.gif"
-  },
-  {
-    "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-    "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-    "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authori…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 23 Sep 2026 13:59:48 +0530",
-    "timestamp": 1790152188.0,
-    "isoDate": "2026-09-23T08:29:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_ZqCwuuKS7TqNWQ7GpeE07JLzHNn4Jdb2O6iQAlY34SiP2it2VwgmeVm5OjAzoAEHFQRVJENdDNGQL94ibPy1AiB9qkpNxZ3ILA89tYlwqm2OO9tEOH_BZ9HZzObw0nrzszQoKnaCQ-Q8ez5DPsnrKjq40qhm2tu_DhMSFunkVRsHeEIc0IA2NL-yZ5g/s1600/f5-zero-day.jpg"
   }
 ]
