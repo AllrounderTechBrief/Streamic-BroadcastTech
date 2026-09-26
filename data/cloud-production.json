@@ -1,5 +1,16 @@
 [
   {
+    "title": "Streamlining content compliance: Automating media analysis with AWS Bedrock – Part 2",
+    "link": "https://aws.amazon.com/blogs/media/streamlining-content-compliance-automating-media-analysis-with-aws-bedrock/",
+    "summary": "In this post, we extend that foundation by providing a complete reference implementation on GitHub with deployment instructions so you can run the solution with your own content.",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Sat, 26 Sep 2026 21:22:16 +0000",
+    "timestamp": 1790457736.0,
+    "isoDate": "2026-09-26T21:22:16+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/23/Figure2-1.png"
+  },
+  {
     "title": "Evaluate your content with AWS Elemental Inference using the sample clipping portal",
     "link": "https://aws.amazon.com/blogs/media/evaluate-your-content-with-aws-elemental-inference-using-the-sample-clipping-portal/",
     "summary": "In this post, we introduce a sample application that helps you answer that question for AWS Elemental Inference. The sample is a deployable video clipping portal for live sports. You run it in your own AWS account, point it at your own cont…",
@@ -207,16 +218,5 @@
     "timestamp": 1781201156.0,
     "isoDate": "2026-06-11T18:05:56+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-The-FOX-One-highlights-experience.jpg"
-  },
-  {
-    "title": "Generate live subtitles with AWS Elemental Inference Smart Subtitles",
-    "link": "https://aws.amazon.com/blogs/media/generate-live-subtitles-with-aws-elemental-inference-smart-subtitles/",
-    "summary": "This post walks through what the feature does, how to enable it, and where it fits in a typical live streaming workflow.",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 11 Jun 2026 13:02:55 +0000",
-    "timestamp": 1781182975.0,
-    "isoDate": "2026-06-11T13:02:55+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/09/Figure-1-Smart-Subtitles-process.png"
   }
 ]
