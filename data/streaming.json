@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cloudflare’s 2026 Annual Founders’ Letter",
+    "link": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+    "summary": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, …",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Sun, 27 Sep 2026 17:00:00 GMT",
+    "timestamp": 1790528400.0,
+    "isoDate": "2026-09-27T17:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3G3F5ZSHVH0CSDBN2M4A43T.01M3G3F6KFD00H82BMWC8VN4TP.png"
+  },
+  {
     "title": "Streamlining content compliance: Automating media analysis with AWS Bedrock – Part 2",
     "link": "https://aws.amazon.com/blogs/media/streamlining-content-compliance-automating-media-analysis-with-aws-bedrock/",
     "summary": "In this post, we extend that foundation by providing a complete reference implementation on GitHub with deployment instructions so you can run the solution with your own content.",
@@ -339,17 +350,6 @@
     "timestamp": 1787598000.0,
     "isoDate": "2026-08-24T19:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0TDC1Q5KWFS3GWEG7SHYMEP.png"
-  },
-  {
-    "title": "Say it once: introducing Bot Preference Sync",
-    "link": "https://blog.cloudflare.com/bot-preference-sync/",
-    "summary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 21 Aug 2026 23:19:57 GMT",
-    "timestamp": 1787354397.0,
-    "isoDate": "2026-08-21T23:19:57+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GECYRV44NP1WR229SCRK7E.png"
   },
   {
     "title": "Announcing AI-Powered Video Advertising & Operations knowledge badge on AWS Skill Builder",
