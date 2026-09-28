@@ -1,5 +1,60 @@
 [
   {
+    "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+    "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+    "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface. …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 28 Sep 2026 19:30:53 +0530",
+    "timestamp": 1790604053.0,
+    "isoDate": "2026-09-28T14:00:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1600/c-recap.jpg"
+  },
+  {
+    "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+    "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+    "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users. According …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 28 Sep 2026 17:28:00 +0530",
+    "timestamp": 1790596680.0,
+    "isoDate": "2026-09-28T11:58:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibRtgg2jeMV3szE5OkdAQtqtUYgPjYEf96vKrzXPpd8_9XDiXOC9iTBfh-neWto1RsFBY0qXpLpc71bz9OwQQ8agSkvr6zYzcqwI157keOyKgX-_L-mwGdLJxLrGhbV_yK4wQn2Jc4E72zhY7XPa05O61GOgFR3-9cpbgYbACE-dR9CqqHuavdrJV8GVg/s1600/webinar-agents.jpg"
+  },
+  {
+    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+    "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+    "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. \"The implant instal…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 28 Sep 2026 17:16:00 +0530",
+    "timestamp": 1790595960.0,
+    "isoDate": "2026-09-28T11:46:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O4ih8J3-A5sGh57xyYKMGbnSqaXbWhu2g9HBE_mG11gEdedMUmYyeeYpA9TnNPwRsB4t-5V9UTW54iOR0VNzyaaa0fWhOG4Oi46KwGvrrVQRdWIDS7GX6YxjaMrA6sF9RHWNyO8gBttCQ7Nc8LUmrhhH24jSp1lPDuhok9r3CfKxgGJRObZRqRTW-5Gf/s1600/hermes-telegram.jpg"
+  },
+  {
+    "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+    "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+    "summary": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has cal…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 28 Sep 2026 14:38:21 +0530",
+    "timestamp": 1790586501.0,
+    "isoDate": "2026-09-28T09:08:21+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1600/azure-ai.jpg"
+  },
+  {
+    "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+    "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnera…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 28 Sep 2026 12:51:49 +0530",
+    "timestamp": 1790580109.0,
+    "isoDate": "2026-09-28T07:21:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1pBfETB-EOlAvKfZwROp5B3Nr3d00xBbxRPhsq5hDBvK8QTVYmc2r8tR8RNz7omvXWoufetWbVk1S-tZ74b-z0nxsHS_Zz7XnN4Vs7VGvDtlnOhsfG0ecx-LX_kuRwBLJwkIMN-26auGXjzdcAS2Yz8sdQ2U_kDtKpQOnOYD18r6WEu1twQ79p_ZJGhD/s1600/ct.jpg"
+  },
+  {
     "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
     "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
     "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of th…",
@@ -273,60 +328,5 @@
     "timestamp": 1790186790.0,
     "isoDate": "2026-09-23T18:06:30+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg"
-  },
-  {
-    "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-    "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-    "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 23 Sep 2026 22:23:10 +0530",
-    "timestamp": 1790182390.0,
-    "isoDate": "2026-09-23T16:53:10+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg"
-  },
-  {
-    "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-    "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-    "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, c…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 23 Sep 2026 21:36:41 +0530",
-    "timestamp": 1790179601.0,
-    "isoDate": "2026-09-23T16:06:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg"
-  },
-  {
-    "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-    "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-    "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 23 Sep 2026 19:47:58 +0530",
-    "timestamp": 1790173078.0,
-    "isoDate": "2026-09-23T14:17:58+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZdSpi6aqUlY2q-T-3eJ4YCn7G3jYa9Exo6BMffjdRLuqg9Gdn4ImZXKjcYX8s5Swz3W_WhxMZ_Z7qbu0Z60KrCk8EUhRV8bJ7l1mXOoDCo-XAXyq69_rtFDoVhvAiuJP1rCdSf9KixTqgAA52iwqWsqB5T0uJaRGFz1hpBcpfQuvPMYd17UcrfrnUV0c/s1600/closed.jpg"
-  },
-  {
-    "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-    "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-    "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS.…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 23 Sep 2026 19:22:46 +0530",
-    "timestamp": 1790171566.0,
-    "isoDate": "2026-09-23T13:52:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFThFSFsti-2SIka75bNuMKpyJHtOW2ZPrZtcSjbjFQ64GCNn0WtdssYuWlVTbhaLB5cAJ0vu8FgyNmNsDa8g0Ijy-D1zP4FW7ihVfAjk9xWMYDMMdfZPICGyVdjeDwH3-jyKLHOUnjfaXBJIMxGn_3ngeXFsbb4CLnOibRd4fbwXHYpBkMQTcBQAf0edq/s1600/npm-pypi.jpg"
-  },
-  {
-    "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-    "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-    "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, used to install and man…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 23 Sep 2026 17:46:00 +0530",
-    "timestamp": 1790165760.0,
-    "isoDate": "2026-09-23T12:16:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5quc0dmRWhh6WOC80Gx9QoHTMYyq5srnXBXjybOKZk_qoUn1Q2nKLE9MifqCEyRIha_NFvRsyr8Nx5EyxGIREXaTb5Fh59cz4Ln8yZj9Zv7piqM49wmm7rfmchW1cVlss1wn47qNypaYarZUVNHBO8rzXaYTvRMi9u1phgfXVd8OZx8_Vjxm34684BE/s1600/cpanel-0day.jpg"
   }
 ]
