@@ -1,5 +1,16 @@
 [
   {
+    "title": "Automate streaming content refresh with Amazon CloudFront cache tags",
+    "link": "https://aws.amazon.com/blogs/media/automate-streaming-content-refresh-with-amazon-cloudfront-cache-tags/",
+    "summary": "This post walks through the architecture and implementation of an event-driven content refresh pipeline for media workflows.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 29 Sep 2026 22:42:26 +0000",
+    "timestamp": 1790721746.0,
+    "isoDate": "2026-09-29T22:42:26+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/29/architecture-diagram.png"
+  },
+  {
     "title": "Using AI to chart a course for our post-quantum migration",
     "link": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
     "summary": "We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far.",
@@ -427,16 +438,5 @@
     "timestamp": 1781286921.0,
     "isoDate": "2026-06-12T17:55:21+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-Solution-architecture-_-elemental-inference.png"
-  },
-  {
-    "title": "How FOX fuels innovation with AI on AWS",
-    "link": "https://aws.amazon.com/blogs/media/how-fox-fuels-innovation-with-ai-on-aws/",
-    "summary": "Learn how by partnering with Amazon Web Services (AWS), FOX transformed how news, sports, and entertainment content gets created, produced and distributed. FOX consolidated into a unified cloud platform that now powers content operations ac…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 11 Jun 2026 18:05:56 +0000",
-    "timestamp": 1781201156.0,
-    "isoDate": "2026-06-11T18:05:56+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-The-FOX-One-highlights-experience.jpg"
   }
 ]
