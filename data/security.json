@@ -1,5 +1,16 @@
 [
   {
+    "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+    "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+    "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker gr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 29 Sep 2026 14:05:10 +0530",
+    "timestamp": 1790670910.0,
+    "isoDate": "2026-09-29T08:35:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWsGNpV8Y5_YLcyxRYju8E3caiN3I3Zttrlvxhz5iXfzVIR_Ayp_d_Zn2Wk12ZBkz5nW4eYfKeEs-xxs9kYuS_paAwO3wJleeUxdMRbrbU_lXwWVuG7ajiFH0UOEcoj3almps5b54DXt-mGy73GhXjCQzGsNNDJkhdfJXRI9XWeFF5hfsr4zjQty-Wued5/s1600/1000111943.jpg"
+  },
+  {
     "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
     "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
     "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent th…",
@@ -317,16 +328,5 @@
     "timestamp": 1790272363.0,
     "isoDate": "2026-09-24T17:52:43+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
-  },
-  {
-    "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-    "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-    "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a generic documentatio…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 24 Sep 2026 20:57:32 +0530",
-    "timestamp": 1790263652.0,
-    "isoDate": "2026-09-24T15:27:32+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg"
   }
 ]
