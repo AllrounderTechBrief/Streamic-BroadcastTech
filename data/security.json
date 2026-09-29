@@ -1,5 +1,60 @@
 [
   {
+    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+    "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+    "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 29 Sep 2026 23:17:01 +0530",
+    "timestamp": 1790704021.0,
+    "isoDate": "2026-09-29T17:47:01+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg"
+  },
+  {
+    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+    "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system ke…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 29 Sep 2026 22:50:17 +0530",
+    "timestamp": 1790702417.0,
+    "isoDate": "2026-09-29T17:20:17+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
+  },
+  {
+    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+    "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+    "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft. The campaigns, aimed at people and organizations tied to Ukra…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 29 Sep 2026 22:50:08 +0530",
+    "timestamp": 1790702408.0,
+    "isoDate": "2026-09-29T17:20:08+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg"
+  },
+  {
+    "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+    "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+    "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown, this activity led …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 29 Sep 2026 19:43:20 +0530",
+    "timestamp": 1790691200.0,
+    "isoDate": "2026-09-29T14:13:20+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg"
+  },
+  {
+    "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+    "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+    "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp open source project t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 29 Sep 2026 19:15:10 +0530",
+    "timestamp": 1790689510.0,
+    "isoDate": "2026-09-29T13:45:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg"
+  },
+  {
     "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
     "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
     "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker gr…",
@@ -273,60 +328,5 @@
     "timestamp": 1790332555.0,
     "isoDate": "2026-09-25T10:35:55+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg"
-  },
-  {
-    "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-    "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-    "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL inject…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 25 Sep 2026 15:44:02 +0530",
-    "timestamp": 1790331242.0,
-    "isoDate": "2026-09-25T10:14:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg"
-  },
-  {
-    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-    "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-    "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier co…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 25 Sep 2026 10:19:22 +0530",
-    "timestamp": 1790311762.0,
-    "isoDate": "2026-09-25T04:49:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuj6tshfElqbwJCAvJf00nvl1Tng8D3yBW5uZZyVpwOqXJuzBB1df67IlNM1OSkHdGH11R6G8rseykpeXWUBu24sJvyxDL-uiqA7NC2ItwUUN2fMdaTWhqcHR2WYfpI6ihc0EVpEXfep1VFBygmh2-F6cAL1lwin0qQbmSebV5OmhqFmgBs3i0_WtdGI/s1600/cf-escape.jpg"
-  },
-  {
-    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-    "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 25 Sep 2026 10:16:34 +0530",
-    "timestamp": 1790311594.0,
-    "isoDate": "2026-09-25T04:46:34+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg"
-  },
-  {
-    "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-    "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-    "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highe…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 24 Sep 2026 23:40:18 +0530",
-    "timestamp": 1790273418.0,
-    "isoDate": "2026-09-24T18:10:18+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg"
-  },
-  {
-    "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-    "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-    "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths ge…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 24 Sep 2026 23:22:43 +0530",
-    "timestamp": 1790272363.0,
-    "isoDate": "2026-09-24T17:52:43+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
   }
 ]
