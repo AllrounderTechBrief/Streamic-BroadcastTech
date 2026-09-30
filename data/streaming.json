@@ -1,5 +1,104 @@
 [
   {
+    "title": "Cloudflare Impact reaches $100 million in donations",
+    "link": "https://blog.cloudflare.com/100-million-donations/",
+    "summary": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public s…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 30 Sep 2026 13:01:55 GMT",
+    "timestamp": 1790773315.0,
+    "isoDate": "2026-09-30T13:01:55+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3RZ3WTX78RCB7KKEB1T8J44.01M3RZ3XRZSENAMJGQMGNWZDHZ.png"
+  },
+  {
+    "title": "Cut your AI spend with AI Gateway's Auto Router",
+    "link": "https://blog.cloudflare.com/auto-router/",
+    "summary": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut …",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
+    "timestamp": 1790773200.0,
+    "isoDate": "2026-09-30T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QZK4P6A5H0YYAEW0QN6YNC.png"
+  },
+  {
+    "title": "Detect and send production issues straight to your agent",
+    "link": "https://blog.cloudflare.com/real-time-issue-detection/",
+    "summary": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
+    "timestamp": 1790773200.0,
+    "isoDate": "2026-09-30T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QYSQZS2E3XN2KS33WWKWGT.png"
+  },
+  {
+    "title": "Simplifying domains for people and agents",
+    "link": "https://blog.cloudflare.com/simplifying-domains/",
+    "summary": "Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
+    "timestamp": 1790773200.0,
+    "isoDate": "2026-09-30T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QWRFBJBT102QWDWVC9917P.png"
+  },
+  {
+    "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+    "link": "https://blog.cloudflare.com/monetization-gateway-beta/",
+    "summary": "Cloudflare’s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
+    "timestamp": 1790773200.0,
+    "isoDate": "2026-09-30T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QKS7979PTKRYVR2CN111JZ.01M3QKS7ZDZ74AXKMWXG7F3C2K.png"
+  },
+  {
+    "title": "Pay Per Use: when AI uses your work, you should get paid",
+    "link": "https://blog.cloudflare.com/pay-per-use/",
+    "summary": "Pay Per Use is now in beta. AI companies report when they use publishers’ content, and Cloudflare handles billing, payouts, and reporting, so our customers are paid according to use.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
+    "timestamp": 1790773200.0,
+    "isoDate": "2026-09-30T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Q8WBK852SB7AAAY4NK4NYB.png"
+  },
+  {
+    "title": "Identify AI model overuse with User Insights",
+    "link": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
+    "summary": "AI Gateway User Insights now adds task, model, turn, and user categories to help teams understand AI adoption and make better model decisions. This is available free to AI Gateway users.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
+    "timestamp": 1790773200.0,
+    "isoDate": "2026-09-30T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7B4V2YNVJJXE8VE6E5ZK5E.png"
+  },
+  {
+    "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+    "link": "https://blog.cloudflare.com/faster-agent-sandboxes/",
+    "summary": "Cloudflare Containers now start 6x faster, let your agent choose each sandbox's image and instance type at runtime, and support filesystem snapshots in public beta, all controlled from a Durable Object.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 30 Sep 2026 12:58:00 GMT",
+    "timestamp": 1790773080.0,
+    "isoDate": "2026-09-30T12:58:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW46H9N3ZPBVM99CMTJZRPF3.png"
+  },
+  {
+    "title": "The Internet has a second audience",
+    "link": "https://blog.cloudflare.com/agentic-web/",
+    "summary": "More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We're giving site owners the tools to see who's visiting, decide who gets in, and charge for access.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 30 Sep 2026 12:58:00 GMT",
+    "timestamp": 1790773080.0,
+    "isoDate": "2026-09-30T12:58:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Q3ZZ59Z3P49M2FX7R7F4WQ.png"
+  },
+  {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",
     "link": "https://aws.amazon.com/blogs/media/automate-streaming-content-refresh-with-amazon-cloudfront-cache-tags/",
     "summary": "This post walks through the architecture and implementation of an event-driven content refresh pipeline for media workflows.",
@@ -132,94 +231,6 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3AZQWQ4KAE58XPW65NKJGT5.01M3AZQXMAQ87JD2W3YGR0KQ2P.png"
   },
   {
-    "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
-    "link": "https://blog.cloudflare.com/how-fast-is-the-web/",
-    "summary": "Cloudflare is open-sourcing the BEACON dataset, making billions of anonymized Real User Monitoring (RUM) performance records publicly available on Google BigQuery. Explore real-world Core Web Vitals, soft navigation metrics, and performance…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 28 Sep 2026 14:43:05 GMT",
-    "timestamp": 1790606585.0,
-    "isoDate": "2026-09-28T14:43:05+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3CVZZ7QXKD0CNS4EEKTKC2Q.png"
-  },
-  {
-    "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
-    "link": "https://blog.cloudflare.com/voidzero-update/",
-    "summary": "Since joining Cloudflare, VoidZero has delivered more than 80 releases that drastically speed up JavaScript compilation, linting, and testing. From a 10x faster React compiler to Vite+ 1.0, here’s how we are building faster tools for develo…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 28 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790600400.0,
-    "isoDate": "2026-09-28T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3JF39Y5YKC8AHHGD706PRKV.png"
-  },
-  {
-    "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
-    "link": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
-    "summary": "Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions. By shifting generation upstream into individual team repositories, Forge keeps developer tools continuously …",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 28 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790600400.0,
-    "isoDate": "2026-09-28T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3J4EWN0BM1HFWCRCV3ND3H8.png"
-  },
-  {
-    "title": "The road to the agentic browser: A Kitesurf update",
-    "link": "https://blog.cloudflare.com/kitesurf-update/",
-    "summary": "We’ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 28 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790600400.0,
-    "isoDate": "2026-09-28T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3D844E5W4TPG1FPT4HBJP16.png"
-  },
-  {
-    "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
-    "link": "https://blog.cloudflare.com/introducing-the-cold-start/",
-    "summary": "Cloudflare is launching The Cold Start, a startup competition giving five early-stage companies five minutes on stage at Cloudflare Connect. Grand Prize winner receives $500,000 in credits, a San Francisco billboard, and an invitation to ou…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 28 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790600400.0,
-    "isoDate": "2026-09-28T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3D7BTCXF494DCFFTBT7SWHK.png"
-  },
-  {
-    "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
-    "link": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
-    "summary": "EmDash 1.0 is a stable, open source CMS built for Astro, with agent-friendly workflows, secure sandboxed plugins, and a decentralized registry that keeps publishers in control.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 28 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790600400.0,
-    "isoDate": "2026-09-28T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3D0T7XHPBZM8YB0PX5W78EQ.png"
-  },
-  {
-    "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
-    "link": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
-    "summary": "With the new experimental support for the Emscripten target in Rust Workers, many previously unsupported Rust libraries and applications can now be built and deployed directly to Cloudflare’s global Workers platform, including upcoming supp…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 28 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790600400.0,
-    "isoDate": "2026-09-28T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3AJHGRFR0ZE6MB7TYYXX16K.01M3AJHKNFWTPGSZVRX4VC9KM0.png"
-  },
-  {
-    "title": "Cloudflare’s 2026 Annual Founders’ Letter",
-    "link": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
-    "summary": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, …",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Sun, 27 Sep 2026 17:00:00 GMT",
-    "timestamp": 1790528400.0,
-    "isoDate": "2026-09-27T17:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3G3F5ZSHVH0CSDBN2M4A43T.01M3G3F6KFD00H82BMWC8VN4TP.png"
-  },
-  {
     "title": "Streamlining content compliance: Automating media analysis with AWS Bedrock – Part 2",
     "link": "https://aws.amazon.com/blogs/media/streamlining-content-compliance-automating-media-analysis-with-aws-bedrock/",
     "summary": "In this post, we extend that foundation by providing a complete reference implementation on GitHub with deployment instructions so you can run the solution with your own content.",
@@ -229,17 +240,6 @@
     "timestamp": 1790457736.0,
     "isoDate": "2026-09-26T21:22:16+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/23/Figure2-1.png"
-  },
-  {
-    "title": "Agents can now set up your website’s security with Turnstile Spin",
-    "link": "https://blog.cloudflare.com/turnstile-spin/",
-    "summary": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 25 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790341200.0,
-    "isoDate": "2026-09-25T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3CQMQWGC7WBK8ZR7DG13PFE.01M3CQMRMEBSVS7GAD6GNHZ9JD.png"
   },
   {
     "title": "Evaluate your content with AWS Elemental Inference using the sample clipping portal",
