@@ -1,5 +1,38 @@
 [
   {
+    "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+    "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+    "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects a GitLab instance to…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 02 Oct 2026 23:03:31 +0530",
+    "timestamp": 1790962411.0,
+    "isoDate": "2026-10-02T17:33:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg"
+  },
+  {
+    "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+    "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+    "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cam…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 02 Oct 2026 23:03:16 +0530",
+    "timestamp": 1790962396.0,
+    "isoDate": "2026-10-02T17:33:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE3s79KuB4kHE3Kf6kjA84HqdcQ2TTVyJCgIkLcSnpbMr6vCwjaLjJVE1KiXT2lZfcx_CbKlHjiX9PrEppf53uaTvQ_Vyicl447mGIkdz1ZOzmGR1hPJzgODM2J_lnsbKPhTBvvTgdDcSS4V1JzJ-feSpyJFDyDkKS0BfK7AXTCNWaL9DZ60tmWVysyVo0/s1600/ms-cyber.jpg"
+  },
+  {
+    "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+    "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+    "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are listed below - CVE-2026-6…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 02 Oct 2026 22:32:12 +0530",
+    "timestamp": 1790960532.0,
+    "isoDate": "2026-10-02T17:02:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiypcfC3W6keUc31zSJympZfpI6eLwDhyphenhyphen4uy_0M3VFljfoSn2pjzBmS3yyAZTzILPxi_sXeOx2jyeu6mdSPKqjiFv7LAMd2mn6Q8GvIRq6yVXUoQm5MiXeEs96i9IT-ZCP2W7hAzR08B9JOuOJv8NNI7o7DfCSa7cplzrsT_x_0R0dPVSQxKmdLP8NvAsnp/s1600/dell.jpg"
+  },
+  {
     "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
     "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
     "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on…",
@@ -295,38 +328,5 @@
     "timestamp": 1790702417.0,
     "isoDate": "2026-09-29T17:20:17+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
-  },
-  {
-    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-    "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-    "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft. The campaigns, aimed at people and organizations tied to Ukra…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 29 Sep 2026 22:50:08 +0530",
-    "timestamp": 1790702408.0,
-    "isoDate": "2026-09-29T17:20:08+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg"
-  },
-  {
-    "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-    "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-    "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown, this activity led …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 29 Sep 2026 19:43:20 +0530",
-    "timestamp": 1790691200.0,
-    "isoDate": "2026-09-29T14:13:20+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg"
-  },
-  {
-    "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-    "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-    "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp open source project t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 29 Sep 2026 19:15:10 +0530",
-    "timestamp": 1790689510.0,
-    "isoDate": "2026-09-29T13:45:10+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg"
   }
 ]

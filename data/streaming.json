@@ -1,5 +1,16 @@
 [
   {
+    "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+    "link": "https://blog.cloudflare.com/streamline/",
+    "summary": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 16:13:45 GMT",
+    "timestamp": 1790957625.0,
+    "isoDate": "2026-10-02T16:13:45+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XKCAN8X5Q5KQ1Q5EW20NBG.01M3XKCB43AH4EZPQE0QQ7MNND.png"
+  },
+  {
     "title": "Introducing Web Search API via AI Gateway",
     "link": "https://blog.cloudflare.com/introducing-web-search-api/",
     "summary": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.",
@@ -207,17 +218,6 @@
     "timestamp": 1790773315.0,
     "isoDate": "2026-09-30T13:01:55+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3RZ3WTX78RCB7KKEB1T8J44.01M3RZ3XRZSENAMJGQMGNWZDHZ.png"
-  },
-  {
-    "title": "Cut your AI spend with AI Gateway's Auto Router",
-    "link": "https://blog.cloudflare.com/auto-router/",
-    "summary": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut …",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790773200.0,
-    "isoDate": "2026-09-30T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QZK4P6A5H0YYAEW0QN6YNC.png"
   },
   {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",
