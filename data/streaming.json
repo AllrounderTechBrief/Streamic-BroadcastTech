@@ -1,5 +1,104 @@
 [
   {
+    "title": "Introducing Web Search API via AI Gateway",
+    "link": "https://blog.cloudflare.com/introducing-web-search-api/",
+    "summary": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 13:28:10 GMT",
+    "timestamp": 1790947690.0,
+    "isoDate": "2026-10-02T13:28:10+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XMA3KN5CDQCSF0YHZ0WFBH.01M3XMA452ZT41JBXKRPY1HH3F.png"
+  },
+  {
+    "title": "8 major updates to Cloudflare Observability",
+    "link": "https://blog.cloudflare.com/one-observability-platform/",
+    "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
+    "timestamp": 1790946000.0,
+    "isoDate": "2026-10-02T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XHE6D45CDHQVM71QYA6EEJ.01M3XHE6YHC44V1DZB0VG3DCGV.png"
+  },
+  {
+    "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+    "link": "https://blog.cloudflare.com/cloudflare-tracing/",
+    "summary": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
+    "timestamp": 1790946000.0,
+    "isoDate": "2026-10-02T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XE9TZRDPWVKPPQNAVJDCYT.01M3XE9W5HREEF8Q70M7G034M2.png"
+  },
+  {
+    "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+    "link": "https://blog.cloudflare.com/enterprise-for-all-update/",
+    "summary": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
+    "timestamp": 1790946000.0,
+    "isoDate": "2026-10-02T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XD0DHYHB54G3RT6GBMY2W5.png"
+  },
+  {
+    "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+    "summary": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
+    "timestamp": 1790946000.0,
+    "isoDate": "2026-10-02T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3WRXEHESBYZBGWPN9T2Z19C.png"
+  },
+  {
+    "title": "Follow the thread: a new dashboard to investigate account abuse",
+    "link": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+    "summary": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
+    "timestamp": 1790946000.0,
+    "isoDate": "2026-10-02T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png"
+  },
+  {
+    "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+    "link": "https://blog.cloudflare.com/protected-quick-tunnels/",
+    "summary": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
+    "timestamp": 1790946000.0,
+    "isoDate": "2026-10-02T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3WEQNPRWNJ6R5MEB2300BRQ.png"
+  },
+  {
+    "title": "Building for good: How civil society organizations are automating on Cloudflare",
+    "link": "https://blog.cloudflare.com/civil-society-automation/",
+    "summary": "Some of the world's leading organizations are building the future of non-profit work with Cloudflare.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
+    "timestamp": 1790946000.0,
+    "isoDate": "2026-10-02T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3W896Z08YJWZG5GH6T03D67.png"
+  },
+  {
+    "title": "2026 Birthday week: network performance update",
+    "link": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
+    "summary": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
+    "timestamp": 1790946000.0,
+    "isoDate": "2026-10-02T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3T5G957VG05271ET71MQ7TS.png"
+  },
+  {
     "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
     "link": "https://blog.cloudflare.com/clef-decision-models/",
     "summary": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision…",
@@ -121,83 +220,6 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QZK4P6A5H0YYAEW0QN6YNC.png"
   },
   {
-    "title": "Detect and send production issues straight to your agent",
-    "link": "https://blog.cloudflare.com/real-time-issue-detection/",
-    "summary": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790773200.0,
-    "isoDate": "2026-09-30T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QYSQZS2E3XN2KS33WWKWGT.png"
-  },
-  {
-    "title": "Simplifying domains for people and agents",
-    "link": "https://blog.cloudflare.com/simplifying-domains/",
-    "summary": "Cloudflare Registrar’s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790773200.0,
-    "isoDate": "2026-09-30T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QWRFBJBT102QWDWVC9917P.png"
-  },
-  {
-    "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
-    "link": "https://blog.cloudflare.com/monetization-gateway-beta/",
-    "summary": "Cloudflare’s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790773200.0,
-    "isoDate": "2026-09-30T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3QKS7979PTKRYVR2CN111JZ.01M3QKS7ZDZ74AXKMWXG7F3C2K.png"
-  },
-  {
-    "title": "Pay Per Use: when AI uses your work, you should get paid",
-    "link": "https://blog.cloudflare.com/pay-per-use/",
-    "summary": "Pay Per Use is now in beta. AI companies report when they use publishers’ content, and Cloudflare handles billing, payouts, and reporting, so our customers are paid according to use.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790773200.0,
-    "isoDate": "2026-09-30T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Q8WBK852SB7AAAY4NK4NYB.png"
-  },
-  {
-    "title": "Identify AI model overuse with User Insights",
-    "link": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
-    "summary": "AI Gateway User Insights now adds task, model, turn, and user categories to help teams understand AI adoption and make better model decisions. This is available free to AI Gateway users.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 30 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790773200.0,
-    "isoDate": "2026-09-30T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7B4V2YNVJJXE8VE6E5ZK5E.png"
-  },
-  {
-    "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
-    "link": "https://blog.cloudflare.com/faster-agent-sandboxes/",
-    "summary": "Cloudflare Containers now start 6x faster, let your agent choose each sandbox's image and instance type at runtime, and support filesystem snapshots in public beta, all controlled from a Durable Object.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 30 Sep 2026 12:58:00 GMT",
-    "timestamp": 1790773080.0,
-    "isoDate": "2026-09-30T12:58:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW46H9N3ZPBVM99CMTJZRPF3.png"
-  },
-  {
-    "title": "The Internet has a second audience",
-    "link": "https://blog.cloudflare.com/agentic-web/",
-    "summary": "More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We're giving site owners the tools to see who's visiting, decide who gets in, and charge for access.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 30 Sep 2026 12:58:00 GMT",
-    "timestamp": 1790773080.0,
-    "isoDate": "2026-09-30T12:58:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Q3ZZ59Z3P49M2FX7R7F4WQ.png"
-  },
-  {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",
     "link": "https://aws.amazon.com/blogs/media/automate-streaming-content-refresh-with-amazon-cloudfront-cache-tags/",
     "summary": "This post walks through the architecture and implementation of an event-driven content refresh pipeline for media workflows.",
@@ -207,28 +229,6 @@
     "timestamp": 1790721746.0,
     "isoDate": "2026-09-29T22:42:26+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/29/architecture-diagram.png"
-  },
-  {
-    "title": "Using AI to chart a course for our post-quantum migration",
-    "link": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-    "summary": "We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 29 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790686800.0,
-    "isoDate": "2026-09-29T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3NF5CE1NWTNNCSR9EKXSF87.01M3NF5CZVBP4EQSN6G4FQQC3S.png"
-  },
-  {
-    "title": "Building a certificate authority for the whole Internet",
-    "link": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
-    "summary": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open web…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 29 Sep 2026 13:00:00 GMT",
-    "timestamp": 1790686800.0,
-    "isoDate": "2026-09-29T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3NDS17PAN9XKW88493GE864.01M3NDS24T3Y1A90FZDRFXYHZD.png"
   },
   {
     "title": "Streamlining content compliance: Automating media analysis with AWS Bedrock – Part 2",
