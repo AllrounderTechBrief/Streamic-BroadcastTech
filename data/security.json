@@ -1,5 +1,16 @@
 [
   {
+    "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+    "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+    "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrast…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 03 Oct 2026 16:30:00 +0530",
+    "timestamp": 1791025200.0,
+    "isoDate": "2026-10-03T11:00:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6JJFsgFmlQyQC0ZFye5jB8OydQuNv7BQYFdVh0meweGiJD5bXisFLalhMTHPTfkPkbOewEeAepAz9Pd1mOIRy_1q67d4J-ougj5reZ4j9PjmpzIgk7wAr8HGlY4Mk8o3js2s_6Wpa0z4IC55ozyl4Yc60OEFjU1U8FXz8562V3IYFnoikN16KsrVu1w/s1600/py-report.jpg"
+  },
+  {
     "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
     "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
     "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects a GitLab instance to…",
@@ -317,16 +328,5 @@
     "timestamp": 1790704021.0,
     "isoDate": "2026-09-29T17:47:01+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg"
-  },
-  {
-    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-    "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system ke…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 29 Sep 2026 22:50:17 +0530",
-    "timestamp": 1790702417.0,
-    "isoDate": "2026-09-29T17:20:17+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
   }
 ]
