@@ -1,5 +1,27 @@
 [
   {
+    "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+    "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+    "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 04 Oct 2026 12:52:05 +0530",
+    "timestamp": 1791098525.0,
+    "isoDate": "2026-10-04T07:22:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLNgAfzHHwGX_2W-2iGuIMpKX_ZOPM0xFYMFDUp5kxBp3XfaRHV0EUwHsbvh45q8wVSYvblXfru1NzEKovvRqXHDNA82iWx6IbY_ihCrucvF5Bkr1JU8bVJ9KDzUi0wG1GRYvyPNb-1LcXTWzBhqLS5kRo9o2zf3DnqqcTNqk5gTtfbdC57w5SZnomx5U/s1600/shinyhunters-arrested.jpg"
+  },
+  {
+    "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+    "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+    "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sun, 04 Oct 2026 12:50:32 +0530",
+    "timestamp": 1791098432.0,
+    "isoDate": "2026-10-04T07:20:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR69JnEBkz8N6_Nd5K75adIWh8xVmxW8FB21gsKinx9HBzgXQSLWL5sYdKMe9d-cbTSrgc45ZtYhmvhLZJII1H-tPXKn4AiRvj4KrU8ayeZskmMCfiV-mUc2pz10MumKyXKH6ybJ2RsVj9ZZ67l-4u0Y2f5Dl3kX7PLEzCAqogMfHTSfD7gM7QypHi-yos/s1600/china-ms.jpg"
+  },
+  {
     "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
     "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
     "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" i…",
@@ -306,27 +328,5 @@
     "timestamp": 1790765100.0,
     "isoDate": "2026-09-30T10:45:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5fq_zpvT8d0bG8IIotVRgIHIXCNOTPBhfIBUIWxLlg1X4bDmzf0PRgt_0UaHhvTIznPU4nOCCuLJ6JbJ3Tx22FPY2Ox93L_HNhA7XjQEvOcsXfw3NIixeGcy9DywlAx_SuEhCM6DRjgP3NBQrdHnJrFOCEFHFR8bFyF4YFWYtYEuPbG7kvWrgAsotLWI/s1600/rmm.jpg"
-  },
-  {
-    "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-    "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting an…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 30 Sep 2026 13:54:35 +0530",
-    "timestamp": 1790756675.0,
-    "isoDate": "2026-09-30T08:24:35+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgjeU_A9ijIuOqFirHL74nU4k_HktRhcj5hx3goc6SfQKIeG9XA_GpZaZQVpCdUYbho_gZT4LoB-MjNJO0FZrV3q6MxXoUzg8bdbHmr2r-8rKxP1_XCMUVKq3IntFoR4aFFSdDPyBQI4Z1-jn8uNaWn4c4ohpPflBYx8M0GPFnAVziUo3Mtap0fzBBU9f_/s1600/citrix-shell.jpg"
-  },
-  {
-    "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-    "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-    "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 30 Sep 2026 13:39:28 +0530",
-    "timestamp": 1790755768.0,
-    "isoDate": "2026-09-30T08:09:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Po53IuyRAhsYzbs5KKPp_UBpklONBiOzoLWgXrklvrgDn5xnpjuRjU8UYoyLuImSmiPtOHQK3ExgQk5zhxlqsAcUmTLRFowkQXzan2RD955Gw-sumsvmwzLBTViUBRhyphenhyphenHCnETV23Qbt01RwaovTe1ogMeMYDSGxmF5n84NKZOB3EiWz6VAHUlfDm5YE/s1600/openssl-memory.jpg"
   }
 ]
