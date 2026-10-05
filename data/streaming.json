@@ -1,5 +1,27 @@
 [
   {
+    "title": "Everything we launched during Birthday Week 2026",
+    "link": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+    "summary": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 05 Oct 2026 13:00:00 GMT",
+    "timestamp": 1791205200.0,
+    "isoDate": "2026-10-05T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M45M6F7F4N2RT9KMZ0Q5DRQT.png"
+  },
+  {
+    "title": "One year later: the power of 1.1.1.1 interns",
+    "link": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+    "summary": "A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies …",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 05 Oct 2026 13:00:00 GMT",
+    "timestamp": 1791205200.0,
+    "isoDate": "2026-10-05T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M40BZTRXM8420FKPHKZ2HBJT.png"
+  },
+  {
     "title": "8 major updates to Cloudflare Observability",
     "link": "https://blog.cloudflare.com/one-observability-platform/",
     "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
@@ -196,28 +218,6 @@
     "timestamp": 1790859600.0,
     "isoDate": "2026-10-01T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KYQH7SRKMQZ9Z5K1ZQ41N12X.png"
-  },
-  {
-    "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
-    "link": "https://blog.cloudflare.com/cloudflare-basin/",
-    "summary": "Cloudflare Basin is built on Apache Iceberg and R2 Object Storage. With general availability, developers can ingest, manage, and query large datasets at scale without paying data egress fees.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 01 Oct 2026 12:58:00 GMT",
-    "timestamp": 1790859480.0,
-    "isoDate": "2026-10-01T12:58:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TBHN0F85Z2NSDVC4T3HF05.png"
-  },
-  {
-    "title": "Cloudflare Impact reaches $100 million in donations",
-    "link": "https://blog.cloudflare.com/100-million-donations/",
-    "summary": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public s…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 30 Sep 2026 13:01:55 GMT",
-    "timestamp": 1790773315.0,
-    "isoDate": "2026-09-30T13:01:55+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3RZ3WTX78RCB7KKEB1T8J44.01M3RZ3XRZSENAMJGQMGNWZDHZ.png"
   },
   {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",
