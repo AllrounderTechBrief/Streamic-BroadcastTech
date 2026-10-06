@@ -1,5 +1,27 @@
 [
   {
+    "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+    "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+    "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry said on Octo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 06 Oct 2026 11:30:30 +0530",
+    "timestamp": 1791266430.0,
+    "isoDate": "2026-10-06T06:00:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyl-dsAiVrN_a0ie2xM1-2S8GDtnp-OYIAY1Cd_nhYhGkY3q0VeVEvEInjHAYCJTtnRYkXag2mY_iFjcEkFjeLQ7LrF6JqbTQ6eLZQM7aVzTHQsZ37a7PMIWPNkPvc8yTvHgWRLhdnoXbHZSlYfXJMAgfKkPcgSWD6JVb6kBYfzz9LB3SQPx357xqsr8o/s1600/cpr.jpg"
+  },
+  {
+    "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+    "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+    "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack pattern, in this at…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 06 Oct 2026 10:52:55 +0530",
+    "timestamp": 1791264175.0,
+    "isoDate": "2026-10-06T05:22:55+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1600/clickfix.jpg"
+  },
+  {
     "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
     "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
     "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is …",
@@ -306,27 +328,5 @@
     "timestamp": 1790832070.0,
     "isoDate": "2026-10-01T05:21:10+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg"
-  },
-  {
-    "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-    "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-    "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination with external partners …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 01 Oct 2026 10:40:09 +0530",
-    "timestamp": 1790831409.0,
-    "isoDate": "2026-10-01T05:10:09+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg"
-  },
-  {
-    "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-    "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-    "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Oper…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 01 Oct 2026 10:05:34 +0530",
-    "timestamp": 1790829334.0,
-    "isoDate": "2026-10-01T04:35:34+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg"
   }
 ]
