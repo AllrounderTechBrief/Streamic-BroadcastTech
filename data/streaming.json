@@ -1,5 +1,16 @@
 [
   {
+    "title": "The keys to the Internet change on October 11. Are you ready?",
+    "link": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+    "summary": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 06 Oct 2026 17:50:11 GMT",
+    "timestamp": 1791309011.0,
+    "isoDate": "2026-10-06T17:50:11+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M490CTJ7YDMNAYZRST2FH35F.png"
+  },
+  {
     "title": "Everything we launched during Birthday Week 2026",
     "link": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
     "summary": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped.",
@@ -207,17 +218,6 @@
     "timestamp": 1790859600.0,
     "isoDate": "2026-10-01T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3SPF381A5ZFP5JJT0DGXF1T.png"
-  },
-  {
-    "title": "Support for modern cryptographic algorithms in Workers",
-    "link": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
-    "summary": "Cloudflare Workers is adding opt-in support for post-quantum-resistant algorithms ML-KEM and ML-DSA. You can try it today.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 01 Oct 2026 13:00:00 GMT",
-    "timestamp": 1790859600.0,
-    "isoDate": "2026-10-01T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KYQH7SRKMQZ9Z5K1ZQ41N12X.png"
   },
   {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",
