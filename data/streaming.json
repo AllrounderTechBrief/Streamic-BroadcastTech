@@ -1,5 +1,16 @@
 [
   {
+    "title": "AWS AI shines at IBC 2026",
+    "link": "https://aws.amazon.com/blogs/media/aws-ai-shines-at-ibc-2026/",
+    "summary": "From the halls of the RAI to local gatherings in Amsterdam, conversations around this year’s International Broadcasting Convention (IBC Show) centered on AI and collaboration. A reported 41,225 attendees from 170 countries and 1,300 exhibit…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 07 Oct 2026 20:45:43 +0000",
+    "timestamp": 1791405943.0,
+    "isoDate": "2026-10-07T20:45:43+00:00",
+    "imageUrl": "https://industrypartnermarketing.s3.us-east-2.amazonaws.com/Innovative-Dreams.mp4"
+  },
+  {
     "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
     "link": "https://blog.cloudflare.com/agentic-security-operations/",
     "summary": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded rec…",
@@ -427,16 +438,5 @@
     "timestamp": 1781555698.0,
     "isoDate": "2026-06-15T20:34:58+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/12/NBA-Draft-image-1.png"
-  },
-  {
-    "title": "Using AWS Elemental Inference with MediaLive",
-    "link": "https://aws.amazon.com/blogs/media/using-aws-elemental-inference-with-medialive/",
-    "summary": "In this post, I show you how to enable Elemental Inference on an AWS Elemental MediaLive channel and use the Smart Crop (vertical video) feature to automatically convert landscape broadcast content into vertical 9:16 format.",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 12 Jun 2026 17:55:21 +0000",
-    "timestamp": 1781286921.0,
-    "isoDate": "2026-06-12T17:55:21+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-Solution-architecture-_-elemental-inference.png"
   }
 ]
