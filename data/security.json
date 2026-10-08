@@ -1,5 +1,16 @@
 [
   {
+    "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+    "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+    "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The malicious version 0.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 08 Oct 2026 11:16:20 +0530",
+    "timestamp": 1791438380.0,
+    "isoDate": "2026-10-08T05:46:20+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg"
+  },
+  {
     "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
     "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
     "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Gha…",
@@ -317,16 +328,5 @@
     "timestamp": 1791098525.0,
     "isoDate": "2026-10-04T07:22:05+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLNgAfzHHwGX_2W-2iGuIMpKX_ZOPM0xFYMFDUp5kxBp3XfaRHV0EUwHsbvh45q8wVSYvblXfru1NzEKovvRqXHDNA82iWx6IbY_ihCrucvF5Bkr1JU8bVJ9KDzUi0wG1GRYvyPNb-1LcXTWzBhqLS5kRo9o2zf3DnqqcTNqk5gTtfbdC57w5SZnomx5U/s1600/shinyhunters-arrested.jpg"
-  },
-  {
-    "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-    "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-    "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 04 Oct 2026 12:50:32 +0530",
-    "timestamp": 1791098432.0,
-    "isoDate": "2026-10-04T07:20:32+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR69JnEBkz8N6_Nd5K75adIWh8xVmxW8FB21gsKinx9HBzgXQSLWL5sYdKMe9d-cbTSrgc45ZtYhmvhLZJII1H-tPXKn4AiRvj4KrU8ayeZskmMCfiV-mUc2pz10MumKyXKH6ybJ2RsVj9ZZ67l-4u0Y2f5Dl3kX7PLEzCAqogMfHTSfD7gM7QypHi-yos/s1600/china-ms.jpg"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+    "link": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
+    "summary": "APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinat…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 08 Oct 2026 04:05:00 +0000",
+    "timestamp": 1791432300.0,
+    "isoDate": "2026-10-08T04:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=2296&h=1500&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Fighting Drought in Texas Cotton Country",
+    "link": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
+    "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 08 Oct 2026 04:01:00 +0000",
+    "timestamp": 1791432060.0,
+    "isoDate": "2026-10-08T04:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg"
+  },
+  {
     "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
     "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
     "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space statio…",
@@ -416,28 +438,6 @@
     "timestamp": 1791345600.0,
     "isoDate": "2026-10-07T04:00:00+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-sea-ice-shrinks-to-its-2026-minimum/arctic_nsidc_20260912.jpg?w=720&h=545&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
-    "link": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
-    "summary": "After delivering more than 11,000 pounds of supplies, science experiments, and other cargo to the International Space Station for NASA, Northrop Grumman’s Cygnus XL spacecraft is scheduled to depart Friday, Oct. 9, as part of the company’s …",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 06 Oct 2026 18:31:40 +0000",
-    "timestamp": 1791311500.0,
-    "isoDate": "2026-10-06T18:31:40+00:00",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss074e0458241/iss074e0458241~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "October 2026 Satellite Puzzler",
-    "link": "https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/",
-    "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 06 Oct 2026 18:27:38 +0000",
-    "timestamp": 1791311258.0,
-    "isoDate": "2026-10-06T18:27:38+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_octoberpuzzler.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "How Ross Video turns your studio into a strategic business asset",
