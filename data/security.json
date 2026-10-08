@@ -1,5 +1,49 @@
 [
   {
+    "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+    "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+    "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that deliver…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 08 Oct 2026 16:00:00 +0530",
+    "timestamp": 1791455400.0,
+    "isoDate": "2026-10-08T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlTrJzuyuM3FgdyTkx-JLieOXeR9fK_hENZFrdItZ09E4ZFhk8UYOPslpbGGidTUGCDgcTHqY7wvYrThg-Hwl24MQhL63GIfmRsBLy9MJ7iDXn1XbbX1W_EgGFw9eRyT4LOJq0aoyWhmOHF3O5a9L5LcKNS1IJxQqs_UBwmOnPRmx3fXwUPpKeYdARVE/s1600/anyrun.jpg"
+  },
+  {
+    "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+    "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+    "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet portals, desktop utili…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 08 Oct 2026 15:16:32 +0530",
+    "timestamp": 1791452792.0,
+    "isoDate": "2026-10-08T09:46:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1600/firefox-plugins.jpg"
+  },
+  {
+    "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+    "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+    "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks kno…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 08 Oct 2026 13:12:04 +0530",
+    "timestamp": 1791445324.0,
+    "isoDate": "2026-10-08T07:42:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s1600/reward.jpg"
+  },
+  {
+    "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+    "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use prop…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 08 Oct 2026 13:11:44 +0530",
+    "timestamp": 1791445304.0,
+    "isoDate": "2026-10-08T07:41:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg"
+  },
+  {
     "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
     "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
     "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The malicious version 0.…",
@@ -284,49 +328,5 @@
     "timestamp": 1791200785.0,
     "isoDate": "2026-10-05T11:46:25+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s1600/botnet.jpg"
-  },
-  {
-    "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-    "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-    "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk Access in ways that…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 05 Oct 2026 16:08:50 +0530",
-    "timestamp": 1791196730.0,
-    "isoDate": "2026-10-05T10:38:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBg5lUcW7uXfKt2vo4Pq5MQUxOty2Xq3pApCIyhUAuSpTzu1jR_CGkNNS2UkAKxYvqk4KCyP1Ehr0PYcW6xVolcSuSdfRPx4rSDDnkuAKaCkgBii_l7kH-s9u7oEhyK2FpvAnaTRWDV48t9XBXEv-MpUIWhBaZYIBx3CFY_zSUXxdw-3C5rB_30Y0VEtf/s1600/macos-ai.jpg"
-  },
-  {
-    "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-    "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-    "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 05 Oct 2026 13:39:23 +0530",
-    "timestamp": 1791187763.0,
-    "isoDate": "2026-10-05T08:09:23+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s1600/hfs-rce-main.jpg"
-  },
-  {
-    "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-    "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-    "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score o…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 05 Oct 2026 12:10:19 +0530",
-    "timestamp": 1791182419.0,
-    "isoDate": "2026-10-05T06:40:19+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg"
-  },
-  {
-    "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-    "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-    "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 04 Oct 2026 12:52:05 +0530",
-    "timestamp": 1791098525.0,
-    "isoDate": "2026-10-04T07:22:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLNgAfzHHwGX_2W-2iGuIMpKX_ZOPM0xFYMFDUp5kxBp3XfaRHV0EUwHsbvh45q8wVSYvblXfru1NzEKovvRqXHDNA82iWx6IbY_ihCrucvF5Bkr1JU8bVJ9KDzUi0wG1GRYvyPNb-1LcXTWzBhqLS5kRo9o2zf3DnqqcTNqk5gTtfbdC57w5SZnomx5U/s1600/shinyhunters-arrested.jpg"
   }
 ]
