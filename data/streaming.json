@@ -1,5 +1,27 @@
 [
   {
+    "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+    "link": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+    "summary": "On-demand CPU and memory profiling for Cloudflare Workers and Durable Objects is now available. Now you can generate interactive flamegraphs directly in production to quickly track down memory leaks and performance bottlenecks.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 09 Oct 2026 13:00:00 GMT",
+    "timestamp": 1791550800.0,
+    "isoDate": "2026-10-09T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M497X1XKZ8XG2FXKMTKEX5F4.png"
+  },
+  {
+    "title": "Deno is joining Cloudflare",
+    "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+    "summary": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 09 Oct 2026 12:50:00 GMT",
+    "timestamp": 1791550200.0,
+    "isoDate": "2026-10-09T12:50:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4EN399YDFNQMGM5VG6EHTNS.01M4EN39V1RNGJ3FBS356QEAB5.png"
+  },
+  {
     "title": "Introducing File Mover Express: Open source, high-performance file transfer to Amazon S3 for media workflows",
     "link": "https://aws.amazon.com/blogs/media/introducing-file-mover-express-open-source-high-performance-file-transfer-to-amazon-s3-for-media-workflows/",
     "summary": "In this post, we introduce File Mover Express, explain the value it delivers for media workflows, and show you how to get started with your first transfer.",
@@ -218,28 +240,6 @@
     "timestamp": 1790859600.0,
     "isoDate": "2026-10-01T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3VEKFJ2MXMCNB0J008305V4.01M3VEKGPXTJDYC3F5AM7MC3FW.png"
-  },
-  {
-    "title": "Cloudflare OS: your company’s agent workspace, managed for you",
-    "link": "https://blog.cloudflare.com/managed-cloudflare-os/",
-    "summary": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We’re opening the waitlist for fully managed deployments that you’ll be able to launch in a few cli…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 01 Oct 2026 13:00:00 GMT",
-    "timestamp": 1790859600.0,
-    "isoDate": "2026-10-01T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3T6WYAVKCKFV4H283DB38WS.png"
-  },
-  {
-    "title": "Announcing Cloudflare K2: serverless event streams",
-    "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-    "summary": "Cloudflare K2 is a serverless event streaming service built directly on top of R2 object storage for high-scale data movement and long-term retention. By decoupling producers and consumers at the edge, K2 enables durable, ordered log stream…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 01 Oct 2026 13:00:00 GMT",
-    "timestamp": 1790859600.0,
-    "isoDate": "2026-10-01T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3SXWMA7TC0H6D9G217A3327.png"
   },
   {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",
