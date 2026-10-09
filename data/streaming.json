@@ -1,5 +1,16 @@
 [
   {
+    "title": "Introducing File Mover Express: Open source, high-performance file transfer to Amazon S3 for media workflows",
+    "link": "https://aws.amazon.com/blogs/media/introducing-file-mover-express-open-source-high-performance-file-transfer-to-amazon-s3-for-media-workflows/",
+    "summary": "In this post, we introduce File Mover Express, explain the value it delivers for media workflows, and show you how to get started with your first transfer.",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 08 Oct 2026 22:29:20 +0000",
+    "timestamp": 1791498560.0,
+    "isoDate": "2026-10-08T22:29:20+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/10/01/Figure-1-File-Mover-Express-GUI-handling-a-live-transfer-of-a-camera-upload-with-a-running-throughput-and-ETA-summary.jpg"
+  },
+  {
     "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
     "link": "https://blog.cloudflare.com/radar-redesign/",
     "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized compo…",
@@ -427,16 +438,5 @@
     "timestamp": 1781730872.0,
     "isoDate": "2026-06-17T21:14:32+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-System-architecture-showing-MediaConnect-Router.png"
-  },
-  {
-    "title": "Inside the AWS NBA Draft Combine Hub: How AWS turned decades of prospect data into a new fan experience",
-    "link": "https://aws.amazon.com/blogs/media/inside-the-aws-nba-draft-combine-hub-how-aws-turned-decades-of-prospect-data-into-a-new-fan-experience/",
-    "summary": "This blog discusses how the Amazon Web Services (AWS) NBA Draft Combine gives teams one of their first concentrated looks at the next generation of NBA talent. Over several days, prospects undergo a wide range of basketball activities and e…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 15 Jun 2026 20:34:58 +0000",
-    "timestamp": 1781555698.0,
-    "isoDate": "2026-06-15T20:34:58+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/12/NBA-Draft-image-1.png"
   }
 ]
