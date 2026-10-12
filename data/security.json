@@ -1,5 +1,60 @@
 [
   {
+    "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+    "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+    "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty muc…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 12 Oct 2026 17:25:00 +0530",
+    "timestamp": 1791806100.0,
+    "isoDate": "2026-10-12T11:55:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg"
+  },
+  {
+    "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+    "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+    "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via Cryptobilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating reports of loss of …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 12 Oct 2026 16:51:48 +0530",
+    "timestamp": 1791804108.0,
+    "isoDate": "2026-10-12T11:21:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nzJQQovkKtR-dl3ihW4VRAfIxiKwNwwVEHyH06we8iIkQbaxVqhryWIwB9MflLHfBYAd_opklCfnkLxg-GKqB2yt4CisdNcf2lRvOoaYHo9Pa6m1OWatzNsFHmY1ICBH_0P2XX4ykgFE7Gqviz0C0_8J0Qqz36_3gygDyHbot9z5obuYEHunIFsZmPQV/s1600/ledgers.jpg"
+  },
+  {
+    "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+    "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+    "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 12 Oct 2026 16:06:56 +0530",
+    "timestamp": 1791801416.0,
+    "isoDate": "2026-10-12T10:36:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglEbu7YOWX4lrTm_x8p2FnL6B7z2hhGC0fKWPBSCVJqTt8l0rbcXFhQinT3ja0sVyx7hObbCQlmem9y4-wsxrwU6mtgsBIJjvH7rgC8n5w8DpEcv7G1N_u4dtOzA3qxVk22FPvly-ZmjsLJKdJqgTsKPtMHpit1oq-fk7jPFN1gTHLeJdF2JQRZ8yuwjxv/s1600/sonics.jpg"
+  },
+  {
+    "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+    "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 12 Oct 2026 14:32:14 +0530",
+    "timestamp": 1791795734.0,
+    "isoDate": "2026-10-12T09:02:14+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg"
+  },
+  {
+    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+    "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+    "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 12 Oct 2026 12:56:12 +0530",
+    "timestamp": 1791789972.0,
+    "isoDate": "2026-10-12T07:26:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
+  },
+  {
     "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
     "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
     "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychai…",
@@ -24,7 +79,7 @@
   {
     "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
     "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-    "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websit…",
+    "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Sat, 10 Oct 2026 14:48:45 +0530",
@@ -273,60 +328,5 @@
     "timestamp": 1791438380.0,
     "isoDate": "2026-10-08T05:46:20+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg"
-  },
-  {
-    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-    "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-    "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Gha…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 08 Oct 2026 00:18:17 +0530",
-    "timestamp": 1791398897.0,
-    "isoDate": "2026-10-07T18:48:17+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg"
-  },
-  {
-    "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-    "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-    "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 07 Oct 2026 23:13:20 +0530",
-    "timestamp": 1791395000.0,
-    "isoDate": "2026-10-07T17:43:20+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopANe3MXyNNOXog__x1pF53wYoQxinI47tN9gLrZSzJfumz-Dg05ZfyjiGsqF47Pugj71iZ1buX7OEiupWYa09xVQdu7DKOMX5NO-uGKCF0UjNila0x5fNiYw5NWEX1TUQTPidjT5NnGmPwM_6mGfKcOxqcjZuPAZLdzRX5u_TXJM76GQ6mQOkikw_kxo/s1600/npm-malware.jpg"
-  },
-  {
-    "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-    "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-    "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests throug…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 07 Oct 2026 21:47:44 +0530",
-    "timestamp": 1791389864.0,
-    "isoDate": "2026-10-07T16:17:44+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93cv3mDcrVCz0IYIpCH3eRNzbDYkM2Z_N2acg9D6bCFGvE3cr3eJ1uGJblGasKplvyvuO6pSuMCxamTwHJSP2ztJ7WBswe1igBdzoadRJPZSDfs5K2og83_iMDMZYuh-LpFdA4qb4Pv7SyJ1A4EQtO_gi6nuxV5ioid32rXABiS0Il9t8boUATp2lTes/s1600/sonicwall.png"
-  },
-  {
-    "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-    "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-    "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LM…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 07 Oct 2026 21:04:53 +0530",
-    "timestamp": 1791387293.0,
-    "isoDate": "2026-10-07T15:34:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMSiFF8XNm1OpF4uWou7e4nt4fqsuPc0IXyUXhHky9w8ydKkauWm_j0yxdpMsRFlDx-5PHhtAxYNg3Z-rYqvexgILhokXO8tARRTtDHn2P83GOlUhiD6jN7rtkf3Ul1-Hp7O4VyvwV6EGNUgjmcC-B_o_P-xQy9eD7RaTnO_RoDpDwgjTePDvkjC9xso/s1600/lm.jpg"
-  },
-  {
-    "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-    "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-    "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and furt…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 07 Oct 2026 21:03:51 +0530",
-    "timestamp": 1791387231.0,
-    "isoDate": "2026-10-07T15:33:51+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s1600/crypto.jpg"
   }
 ]
