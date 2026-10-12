@@ -1,5 +1,16 @@
 [
   {
+    "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
+    "link": "https://aws.amazon.com/blogs/media/finding-the-perfect-moment-how-formula-1-uses-aws-ai-to-search-archives-in-seconds/",
+    "summary": "F1 worked with AWS to migrate petabytes of footage from ageing tape robots, in multiple formats and proxy files, into Amazon Simple Storage Service (Amazon S3) alongside the live footage from every new race. That gave the sport one durable …",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Mon, 12 Oct 2026 15:17:56 +0000",
+    "timestamp": 1791818276.0,
+    "isoDate": "2026-10-12T15:17:56+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/10/11/Figure-1-scaled.jpg"
+  },
+  {
     "title": "Introducing File Mover Express: Open source, high-performance file transfer to Amazon S3 for media workflows",
     "link": "https://aws.amazon.com/blogs/media/introducing-file-mover-express-open-source-high-performance-file-transfer-to-amazon-s3-for-media-workflows/",
     "summary": "In this post, we introduce File Mover Express, explain the value it delivers for media workflows, and show you how to get started with your first transfer.",
@@ -207,16 +218,5 @@
     "timestamp": 1782770680.0,
     "isoDate": "2026-06-29T22:04:40+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/28/How-5-migrated-to-AWS-Elemental-MediaPackage-v2.png"
-  },
-  {
-    "title": "Sony Marketing Inc. built Cloud-based live video production for sports events with AWS Elemental MediaConnect Router",
-    "link": "https://aws.amazon.com/blogs/media/cloud-based-live-video-production-for-sports-events-with-aws-elemental-mediaconnect-router/",
-    "summary": "In this post, we walk through how Sony extended their on-premises video production environment into the cloud, and how AWS Elemental MediaConnect Router solved a key technical constraint that made the hybrid architecture possible.",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 17 Jun 2026 21:14:32 +0000",
-    "timestamp": 1781730872.0,
-    "isoDate": "2026-06-17T21:14:32+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/11/Figure-1-System-architecture-showing-MediaConnect-Router.png"
   }
 ]
