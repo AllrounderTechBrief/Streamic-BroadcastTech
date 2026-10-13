@@ -1,5 +1,27 @@
 [
   {
+    "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+    "link": "https://blog.cloudflare.com/d1-control-plane/",
+    "summary": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 13 Oct 2026 16:20:18 GMT",
+    "timestamp": 1791908418.0,
+    "isoDate": "2026-10-13T16:20:18+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW45ADESEJPK73KY57K3T0NX.png"
+  },
+  {
+    "title": "Rewinding the exponential: How we keep hardware usage down",
+    "link": "https://blog.cloudflare.com/rewinding-the-exponential/",
+    "summary": "Our strategies to optimize our data pipeline throughput without compromising data quality.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 13 Oct 2026 15:51:41 GMT",
+    "timestamp": 1791906701.0,
+    "isoDate": "2026-10-13T15:51:41+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4RYXQ3HHM0NCXGK8DBW1JR3.01M4RYXQR4R5Q48PG2RZ86HSR5.png"
+  },
+  {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
     "link": "https://aws.amazon.com/blogs/media/finding-the-perfect-moment-how-formula-1-uses-aws-ai-to-search-archives-in-seconds/",
     "summary": "F1 worked with AWS to migrate petabytes of footage from ageing tape robots, in multiple formats and proxy files, into Amazon Simple Storage Service (Amazon S3) alongside the live footage from every new race. That gave the sport one durable …",
@@ -229,28 +251,6 @@
     "timestamp": 1790946000.0,
     "isoDate": "2026-10-02T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3W896Z08YJWZG5GH6T03D67.png"
-  },
-  {
-    "title": "2026 Birthday week: network performance update",
-    "link": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
-    "summary": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
-    "timestamp": 1790946000.0,
-    "isoDate": "2026-10-02T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3T5G957VG05271ET71MQ7TS.png"
-  },
-  {
-    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-    "link": "https://blog.cloudflare.com/clef-decision-models/",
-    "summary": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 01 Oct 2026 15:34:02 GMT",
-    "timestamp": 1790868842.0,
-    "isoDate": "2026-10-01T15:34:02+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJPKAE7MFBW626XHNC9QVA.png"
   },
   {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",

@@ -1,5 +1,60 @@
 [
   {
+    "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+    "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+    "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 13 Oct 2026 21:48:18 +0530",
+    "timestamp": 1791908298.0,
+    "isoDate": "2026-10-13T16:18:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg"
+  },
+  {
+    "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+    "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
+    "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers. The administrative penalty is the large…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 13 Oct 2026 18:42:32 +0530",
+    "timestamp": 1791897152.0,
+    "isoDate": "2026-10-13T13:12:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGjfJJaKUMdLoNBTH2AYUmelL_XonLcf93p8hSgMXRbLGJwReAYV-BUZ2jpBPuvUQktW0PTKi1-21oFnBJF8PfECgT7t5r-S-iMUxjrdoWPf3EDxa2IVrQYjT98HG6s-LfPlJqm8mArrfEOEZS_scT7EYG8eXxMrUaII0UaQ3kAmWDJ3mRTR4JyIJhj-5S/s1600/grindr-data.jpg"
+  },
+  {
+    "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+    "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+    "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 13 Oct 2026 17:27:06 +0530",
+    "timestamp": 1791892626.0,
+    "isoDate": "2026-10-13T11:57:06+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhyphenhyphenHu3P6G99-W2G5NryBVw_aHrwdzZeMvGjoMkyUiKFOtwD_fqUvdytUAQuhg9gPZzpsWSFatNS2LcMylaW4jsMmRR-tmAXkZxokH4WcEqnXTlFnBFgg8-20j4LsTCQMaKRJY-ysNuH8uXg_D3Zb626eqIdGeTkkmvyh95PERJ_mnaPNnnv2maV0q4F2-/s1600/silverfort.jpg"
+  },
+  {
+    "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+    "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+    "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an advisory published by SS…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 13 Oct 2026 16:39:10 +0530",
+    "timestamp": 1791889750.0,
+    "isoDate": "2026-10-13T11:09:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg"
+  },
+  {
+    "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+    "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+    "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads a local model runtim…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 13 Oct 2026 16:00:00 +0530",
+    "timestamp": 1791887400.0,
+    "isoDate": "2026-10-13T10:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLz0n_kNY4YMLYNTi1KElj3dkaig5LqA6Koy92X4ndKfwBO8ctC5bNVyII81TUHljc7MGrpMZBsUX5j4126sBd3Sk5fX_DGjIo-yz5qGrRsHgi2qiLNUUbfCSvOHcE-KoYqGzNLBvTVzwEKDt2hZ4dvGK8YYOTeA-f6FHX49GA0myiau9Mqgc_LT7D1k/s1600/bit.jpg"
+  },
+  {
     "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
     "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
     "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the contr…",
@@ -273,60 +328,5 @@
     "timestamp": 1791527969.0,
     "isoDate": "2026-10-09T06:39:29+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SUqM44FwmONOU6YH1yTi4I8iGU_UiDk42WA2vB_qjqzCN3xtWE_AVyF2xXmlrP68vAXN3Pe_J6f8h9B6M8vgEmcImGt55z2FRc0638eta0V-P2FvbI6O0h3TWBaOlxw72-0cnMH91J2wNykDTSpQM8cvKYPbQ-YBrnb7e2xxSJuC7B9sU4hoGBXs8KnO/s1600/china-hacker.jpg"
-  },
-  {
-    "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-    "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-    "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 09 Oct 2026 00:02:21 +0530",
-    "timestamp": 1791484341.0,
-    "isoDate": "2026-10-08T18:32:21+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyj_ek8VTEYw5CpVqkAK63I01D84oGBvRsHmwpjeAfat3TCDqzhXqRWXWCGkNZKwH3rF0uyeuowCSGcBT-mLkdw-174FA0gGh8ZIVKOXUbXt9w0eTZZTlMGE-ySkZIIkswfxe0-cEU9ww6E8iIpWI2eDQU_NrsezDxIoE2WNBt8mDtG6nYeke9Ut17_JY/s1600/china-email.jpg"
-  },
-  {
-    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-    "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-    "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 08 Oct 2026 23:28:02 +0530",
-    "timestamp": 1791482282.0,
-    "isoDate": "2026-10-08T17:58:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1600/t-day.jpg"
-  },
-  {
-    "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-    "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-    "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, which takes incident rep…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 08 Oct 2026 21:15:56 +0530",
-    "timestamp": 1791474356.0,
-    "isoDate": "2026-10-08T15:45:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1600/japan.jpg"
-  },
-  {
-    "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-    "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-    "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use in attacks targeting…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 08 Oct 2026 20:56:56 +0530",
-    "timestamp": 1791473216.0,
-    "isoDate": "2026-10-08T15:26:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg"
-  },
-  {
-    "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-    "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-    "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdSt…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 08 Oct 2026 19:42:34 +0530",
-    "timestamp": 1791468754.0,
-    "isoDate": "2026-10-08T14:12:34+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg"
   }
 ]
