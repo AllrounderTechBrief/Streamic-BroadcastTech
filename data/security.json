@@ -1,5 +1,16 @@
 [
   {
+    "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+    "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 14 Oct 2026 22:04:31 +0530",
+    "timestamp": 1791995671.0,
+    "isoDate": "2026-10-14T16:34:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRY0Y0x4bBS7xZHNvUUjosK6tuvOhbBbE9XvaoyiONRttpSxhIwBaCgDpNKo9kMR37n1_8wKUXzpzL6KhmNC0OJsGZapzAaAteSFlbasNFzCM6XZXsSU99yOk6e2oR7tzG_3p_1-V04tnDyhhtGaBUJSviR-xaJh6mg4E-KT5gwR7_x3JmO-DDfM6-7ic/s1600/laptop-farm.jpg"
+  },
+  {
     "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
     "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure …",
@@ -317,16 +328,5 @@
     "timestamp": 1791789972.0,
     "isoDate": "2026-10-12T07:26:12+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
-  },
-  {
-    "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-    "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-    "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychai…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 11 Oct 2026 09:54:34 +0530",
-    "timestamp": 1791692674.0,
-    "isoDate": "2026-10-11T04:24:34+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg"
   }
 ]
