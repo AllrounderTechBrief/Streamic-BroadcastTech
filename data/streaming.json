@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+    "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+    "summary": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 15 Oct 2026 13:00:00 GMT",
+    "timestamp": 1792069200.0,
+    "isoDate": "2026-10-15T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4YQC03MMFYZ10P30YWNWGG4.png"
+  },
+  {
     "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
     "link": "https://blog.cloudflare.com/yandex-outage/",
     "summary": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks.",
@@ -240,17 +251,6 @@
     "timestamp": 1790946000.0,
     "isoDate": "2026-10-02T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3WRXEHESBYZBGWPN9T2Z19C.png"
-  },
-  {
-    "title": "Follow the thread: a new dashboard to investigate account abuse",
-    "link": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
-    "summary": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 02 Oct 2026 13:00:00 GMT",
-    "timestamp": 1790946000.0,
-    "isoDate": "2026-10-02T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png"
   },
   {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",

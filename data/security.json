@@ -1,14 +1,91 @@
 [
   {
+    "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+    "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+    "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core al…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 15 Oct 2026 17:37:20 +0530",
+    "timestamp": 1792066040.0,
+    "isoDate": "2026-10-15T12:07:20+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s1600/drupal.jpg"
+  },
+  {
+    "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+    "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+    "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campai…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 15 Oct 2026 17:16:59 +0530",
+    "timestamp": 1792064819.0,
+    "isoDate": "2026-10-15T11:46:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvF5TcwT7nwh6xcCiXS3I0m6qmvF6EorwitA-7ETGlXzpc89JG-rPZye0FkJfFwunfKHXMTkGyg_pBRkBdJv_qaGX32cUdiqoTAA-sjGmsSlKJsL5LUFpyZLiho955h3EtKUCWvtnHyIJgzG1INTIwkqKsCmv3-vsxGXQq8QH-ue0Vl358XyE33wUhxWs/s1600/fake.jpg"
+  },
+  {
     "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
     "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
     "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution i…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Thu, 15 Oct 2026 11:47:58 +0530",
-    "timestamp": 1792045078.0,
-    "isoDate": "2026-10-15T06:17:58+00:00",
+    "timeAgo": "Thu, 15 Oct 2026 17:16:49 +0530",
+    "timestamp": 1792064809.0,
+    "isoDate": "2026-10-15T11:46:49+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg"
+  },
+  {
+    "title": "Why AI Confidence Is Not Validation",
+    "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+    "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliab…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 15 Oct 2026 16:34:35 +0530",
+    "timestamp": 1792062275.0,
+    "isoDate": "2026-10-15T11:04:35+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMcD8RJr4YbArE7ir74w0wFobrcZI94oJ41w_VwSIFPeQMqG4Ofa6xgtcUqD9op38axL3iAMYu-Y0zv0CEc7LrZAmj7lWLdzZ29ZbL5TD6Up2nGRqJkHGoUF6Hs_QA-A8TVz8f1dfuCcnB4kvzzYrZOu1JqVUE2s2JEkP4E0WjvKptVmvsbyfl4uBwas/s1600/sans-ai.jpg"
+  },
+  {
+    "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+    "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+    "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 15 Oct 2026 16:12:16 +0530",
+    "timestamp": 1792060936.0,
+    "isoDate": "2026-10-15T10:42:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyJOEj0MfpVvrP-qAXhuoM2BBSjZ6TwPYR-nMG_g-tBvu7Er2cMlvMoVkJOUP1qE2sleu3a21YjvdCQ9u80FSBTx7NNP3cZNfradprnGu-EnIURCxZK4sA0cXbROZpdW8CJxZcxRfhJyhbIXa_Au_sha3mh5pFe-7k5EIimZQlUGIs_mGGKHGKArej6il7/s1600/4g.jpg"
+  },
+  {
+    "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+    "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+    "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 15 Oct 2026 14:15:10 +0530",
+    "timestamp": 1792053910.0,
+    "isoDate": "2026-10-15T08:45:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiddFchlm_nV3vywI0BM2-8IaZb-wHXwE8DplGqZYkRmcYkeXiSLfVmnVAU-jM4yikWW7SWokanh_S4hq88cVHjAnaWDGkl3VVAtPdv9SHWp0MNb0CIOAA-I73EuwwUSE-wNMnXEzbIdDYorJn2hIuBZQ5Jh_5I2IntiXuUYZz3sKax-wfRoaxy_pD9kGx0/s1600/ghost-git.jpg"
+  },
+  {
+    "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+    "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+    "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 15 Oct 2026 12:37:05 +0530",
+    "timestamp": 1792048025.0,
+    "isoDate": "2026-10-15T07:07:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tlAL_zc7Hg-gD5PRFa08hoOp2KRDu9kNSJk8nhZ91us8q-K7qGfnoasa6gONBjZoEtGJqPEZY3rKMy4Uqozk89X-L7IQBV8IrDqnJYdtAsCC4d08mmQUI4r_zACmvDVdey82w7FC4lTIoYfqdwYYu2Bp_Ql0AwOB54KRYrHk9ixjo27rKLWEK0dwsfw3/s1600/langflow.jpg"
+  },
+  {
+    "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+    "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+    "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 15 Oct 2026 12:13:08 +0530",
+    "timestamp": 1792046588.0,
+    "isoDate": "2026-10-15T06:43:08+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_5A4EPZ4VVdF4dve5fMe4BwreUmtWCJQrgMiBdiZyoFInoZK_nO6ouOwLMCyyQPrXWE4_n3NE39b4C2UQi-G4uE3ufyv7A9IEYEp9O3ggTu7AyDRzOqwVqhLjISLvOTasPiAcdFafFtL7B5uoKtm8GPeFFxrKDupGCoqZJ2o88sUmaGbjKk6E3sJgIKD/s1600/backup.jpg"
   },
   {
     "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
@@ -251,82 +328,5 @@
     "timestamp": 1791889750.0,
     "isoDate": "2026-10-13T11:09:10+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg"
-  },
-  {
-    "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-    "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-    "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads a local model runtim…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 13 Oct 2026 16:00:00 +0530",
-    "timestamp": 1791887400.0,
-    "isoDate": "2026-10-13T10:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLz0n_kNY4YMLYNTi1KElj3dkaig5LqA6Koy92X4ndKfwBO8ctC5bNVyII81TUHljc7MGrpMZBsUX5j4126sBd3Sk5fX_DGjIo-yz5qGrRsHgi2qiLNUUbfCSvOHcE-KoYqGzNLBvTVzwEKDt2hZ4dvGK8YYOTeA-f6FHX49GA0myiau9Mqgc_LT7D1k/s1600/bit.jpg"
-  },
-  {
-    "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-    "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-    "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the contr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 13 Oct 2026 14:18:41 +0530",
-    "timestamp": 1791881321.0,
-    "isoDate": "2026-10-13T08:48:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg"
-  },
-  {
-    "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-    "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-    "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 13 Oct 2026 14:14:01 +0530",
-    "timestamp": 1791881041.0,
-    "isoDate": "2026-10-13T08:44:01+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGRzVYOU1S12WE6ja5ZSrhInOGaNdwCGGwWch1oJn_SDtoy90ycGVjd-JeDjwSSH8XDzKlkoKsu_vlND1iW0aWJgEqf3Ti18goDI0yXeaLbF2DHrokj8Qdvm1kHEi8wqdm6_axRi17PVBqtlgFWLpZnv6Eufx_bFMkpWcnz6ymbQI4IDB7lgYi3QrZ7w/s1600/amrk.jpg"
-  },
-  {
-    "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-    "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-    "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue that, under certain co…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 13 Oct 2026 14:13:37 +0530",
-    "timestamp": 1791881017.0,
-    "isoDate": "2026-10-13T08:43:37+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg"
-  },
-  {
-    "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-    "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-    "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets An…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 13 Oct 2026 11:30:11 +0530",
-    "timestamp": 1791871211.0,
-    "isoDate": "2026-10-13T06:00:11+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-    "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-    "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 12 Oct 2026 20:46:26 +0530",
-    "timestamp": 1791818186.0,
-    "isoDate": "2026-10-12T15:16:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg"
-  },
-  {
-    "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-    "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-    "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty muc…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 12 Oct 2026 17:25:00 +0530",
-    "timestamp": 1791806100.0,
-    "isoDate": "2026-10-12T11:55:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg"
   }
 ]
