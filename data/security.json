@@ -1,5 +1,38 @@
 [
   {
+    "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+    "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+    "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 16 Oct 2026 12:25:55 +0530",
+    "timestamp": 1792133755.0,
+    "isoDate": "2026-10-16T06:55:55+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg"
+  },
+  {
+    "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+    "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+    "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned ta…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 16 Oct 2026 12:23:09 +0530",
+    "timestamp": 1792133589.0,
+    "isoDate": "2026-10-16T06:53:09+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyMnLMgZNuoh6c41MPT17IsrvbfocknmRb8sxaolFmTpU9h0b-jyJAe9Ods3iCWligbpcd1a1IThvmpUts5llDkKkScffnItGGrGcneDJ8oUJjuc76syHF8g31ZeTWMunD7LDJjviCRFMf8Zugkg8Z4kgXyhDW4bfrCHtV8Xkt-wJlnUd78z-ab28LrfV5/s1600/certin.jpg"
+  },
+  {
+    "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+    "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+    "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 16 Oct 2026 10:29:36 +0530",
+    "timestamp": 1792126776.0,
+    "isoDate": "2026-10-16T04:59:36+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg"
+  },
+  {
     "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
     "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
     "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The …",
@@ -295,38 +328,5 @@
     "timestamp": 1791957148.0,
     "isoDate": "2026-10-14T05:52:28+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg"
-  },
-  {
-    "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-    "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-    "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 14 Oct 2026 10:04:43 +0530",
-    "timestamp": 1791952483.0,
-    "isoDate": "2026-10-14T04:34:43+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1600/windows-patch.jpg"
-  },
-  {
-    "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-    "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-    "summary": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfoza…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 14 Oct 2026 07:29:25 +0530",
-    "timestamp": 1791943165.0,
-    "isoDate": "2026-10-14T01:59:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg"
-  },
-  {
-    "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-    "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-    "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said smal…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 13 Oct 2026 23:50:57 +0530",
-    "timestamp": 1791915657.0,
-    "isoDate": "2026-10-13T18:20:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg"
   }
 ]
