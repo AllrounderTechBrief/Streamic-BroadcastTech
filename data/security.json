@@ -1,5 +1,38 @@
 [
   {
+    "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+    "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+    "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardw…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 16 Oct 2026 23:18:45 +0530",
+    "timestamp": 1792172925.0,
+    "isoDate": "2026-10-16T17:48:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg"
+  },
+  {
+    "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+    "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+    "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 16 Oct 2026 22:13:39 +0530",
+    "timestamp": 1792169019.0,
+    "isoDate": "2026-10-16T16:43:39+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg"
+  },
+  {
+    "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+    "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+    "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (Ait…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 16 Oct 2026 21:46:44 +0530",
+    "timestamp": 1792167404.0,
+    "isoDate": "2026-10-16T16:16:44+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg"
+  },
+  {
     "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
     "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
     "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurre…",
@@ -295,38 +328,5 @@
     "timestamp": 1791978600.0,
     "isoDate": "2026-10-14T11:50:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg"
-  },
-  {
-    "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-    "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-    "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by dire…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 14 Oct 2026 16:49:02 +0530",
-    "timestamp": 1791976742.0,
-    "isoDate": "2026-10-14T11:19:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg"
-  },
-  {
-    "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-    "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-    "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 14 Oct 2026 16:38:22 +0530",
-    "timestamp": 1791976102.0,
-    "isoDate": "2026-10-14T11:08:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg"
-  },
-  {
-    "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-    "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-    "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insur…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 14 Oct 2026 16:30:00 +0530",
-    "timestamp": 1791975600.0,
-    "isoDate": "2026-10-14T11:00:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg"
   }
 ]
