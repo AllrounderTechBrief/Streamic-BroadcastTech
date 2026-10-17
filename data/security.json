@@ -1,5 +1,16 @@
 [
   {
+    "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+    "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+    "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 17 Oct 2026 16:41:56 +0530",
+    "timestamp": 1792235516.0,
+    "isoDate": "2026-10-17T11:11:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg"
+  },
+  {
     "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
     "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
     "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unautho…",
@@ -317,16 +328,5 @@
     "timestamp": 1791981042.0,
     "isoDate": "2026-10-14T12:30:42+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg"
-  },
-  {
-    "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-    "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-    "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on Oct…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 14 Oct 2026 17:43:36 +0530",
-    "timestamp": 1791980016.0,
-    "isoDate": "2026-10-14T12:13:36+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg"
   }
 ]
