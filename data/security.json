@@ -1,5 +1,16 @@
 [
   {
+    "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+    "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+    "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unautho…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 17 Oct 2026 11:46:46 +0530",
+    "timestamp": 1792217806.0,
+    "isoDate": "2026-10-17T06:16:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg"
+  },
+  {
     "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
     "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
     "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardw…",
@@ -317,16 +328,5 @@
     "timestamp": 1791980016.0,
     "isoDate": "2026-10-14T12:13:36+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg"
-  },
-  {
-    "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-    "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-    "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:4…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 14 Oct 2026 17:20:00 +0530",
-    "timestamp": 1791978600.0,
-    "isoDate": "2026-10-14T11:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg"
   }
 ]
