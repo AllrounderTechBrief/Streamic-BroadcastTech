@@ -1,5 +1,27 @@
 [
   {
+    "title": "Introducing Clairic, a new System One class of extraction models",
+    "link": "https://blog.cloudflare.com/clairic-extraction-model/",
+    "summary": "Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 19 Oct 2026 17:48:26 GMT",
+    "timestamp": 1792432106.0,
+    "isoDate": "2026-10-19T17:48:26+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCGDJHDMM9AVJKV73MJGX.png"
+  },
+  {
+    "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+    "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+    "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 19 Oct 2026 13:00:00 GMT",
+    "timestamp": 1792414800.0,
+    "isoDate": "2026-10-19T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M537RBT01XNYZ0RR0CP9PS55.png"
+  },
+  {
     "title": "Continuous accountability for Verified bots",
     "link": "https://blog.cloudflare.com/verified-bots-accountability/",
     "summary": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
@@ -229,28 +251,6 @@
     "timestamp": 1790964000.0,
     "isoDate": "2026-10-02T18:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XHE6D45CDHQVM71QYA6EEJ.01M3XHE6YHC44V1DZB0VG3DCGV.png"
-  },
-  {
-    "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-    "link": "https://blog.cloudflare.com/streamline/",
-    "summary": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 02 Oct 2026 16:13:45 GMT",
-    "timestamp": 1790957625.0,
-    "isoDate": "2026-10-02T16:13:45+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XKCAN8X5Q5KQ1Q5EW20NBG.01M3XKCB43AH4EZPQE0QQ7MNND.png"
-  },
-  {
-    "title": "Introducing Web Search API via AI Gateway",
-    "link": "https://blog.cloudflare.com/introducing-web-search-api/",
-    "summary": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 02 Oct 2026 13:28:10 GMT",
-    "timestamp": 1790947690.0,
-    "isoDate": "2026-10-02T13:28:10+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XMA3KN5CDQCSF0YHZ0WFBH.01M3XMA452ZT41JBXKRPY1HH3F.png"
   },
   {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",
