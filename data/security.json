@@ -1,5 +1,38 @@
 [
   {
+    "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+    "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+    "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an at…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 20 Oct 2026 12:41:45 +0530",
+    "timestamp": 1792480305.0,
+    "isoDate": "2026-10-20T07:11:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg"
+  },
+  {
+    "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+    "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+    "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secret…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 20 Oct 2026 11:23:16 +0530",
+    "timestamp": 1792475596.0,
+    "isoDate": "2026-10-20T05:53:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg"
+  },
+  {
+    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+    "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+    "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware deliv…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Tue, 20 Oct 2026 09:35:58 +0530",
+    "timestamp": 1792469158.0,
+    "isoDate": "2026-10-20T04:05:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg"
+  },
+  {
     "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
     "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
     "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the onli…",
@@ -295,38 +328,5 @@
     "timestamp": 1792066040.0,
     "isoDate": "2026-10-15T12:07:20+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s1600/drupal.jpg"
-  },
-  {
-    "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-    "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-    "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campai…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 15 Oct 2026 17:16:59 +0530",
-    "timestamp": 1792064819.0,
-    "isoDate": "2026-10-15T11:46:59+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvF5TcwT7nwh6xcCiXS3I0m6qmvF6EorwitA-7ETGlXzpc89JG-rPZye0FkJfFwunfKHXMTkGyg_pBRkBdJv_qaGX32cUdiqoTAA-sjGmsSlKJsL5LUFpyZLiho955h3EtKUCWvtnHyIJgzG1INTIwkqKsCmv3-vsxGXQq8QH-ue0Vl358XyE33wUhxWs/s1600/fake.jpg"
-  },
-  {
-    "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-    "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-    "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution i…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 15 Oct 2026 17:16:49 +0530",
-    "timestamp": 1792064809.0,
-    "isoDate": "2026-10-15T11:46:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg"
-  },
-  {
-    "title": "Why AI Confidence Is Not Validation",
-    "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-    "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliab…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 15 Oct 2026 16:34:35 +0530",
-    "timestamp": 1792062275.0,
-    "isoDate": "2026-10-15T11:04:35+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMcD8RJr4YbArE7ir74w0wFobrcZI94oJ41w_VwSIFPeQMqG4Ofa6xgtcUqD9op38axL3iAMYu-Y0zv0CEc7LrZAmj7lWLdzZ29ZbL5TD6Up2nGRqJkHGoUF6Hs_QA-A8TVz8f1dfuCcnB4kvzzYrZOu1JqVUE2s2JEkP4E0WjvKptVmvsbyfl4uBwas/s1600/sans-ai.jpg"
   }
 ]
