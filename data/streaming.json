@@ -1,6 +1,6 @@
 [
   {
-    "title": "Introducing tsrs: a Port of TypeScript to Rust",
+    "title": "Introducing tsrs: A port of TypeScript to Rust",
     "link": "https://blog.cloudflare.com/typescript-rust-port/",
     "summary": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory.",
     "source": "Cloudflare Blog",
