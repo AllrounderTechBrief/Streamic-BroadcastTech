@@ -1,5 +1,27 @@
 [
   {
+    "title": "Introducing full transaction detection for Cloudflare WAF",
+    "link": "https://blog.cloudflare.com/full-transaction-waf/",
+    "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 21 Oct 2026 14:10:42 GMT",
+    "timestamp": 1792591842.0,
+    "isoDate": "2026-10-21T14:10:42+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png"
+  },
+  {
+    "title": "Cloudflare deploys protections against php2shell vulnerability",
+    "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+    "summary": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from r…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 21 Oct 2026 13:56:45 GMT",
+    "timestamp": 1792591005.0,
+    "isoDate": "2026-10-21T13:56:45+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KXQSMGN3Z955B45GCJR4REK3.png"
+  },
+  {
     "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
     "link": "https://blog.cloudflare.com/webmcp-commerce/",
     "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.",
@@ -220,17 +242,6 @@
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/10/01/Figure-1-File-Mover-Express-GUI-handling-a-live-transfer-of-a-camera-upload-with-a-running-throughput-and-ETA-summary.jpg"
   },
   {
-    "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
-    "link": "https://blog.cloudflare.com/radar-redesign/",
-    "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized compo…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 08 Oct 2026 13:00:00 GMT",
-    "timestamp": 1791464400.0,
-    "isoDate": "2026-10-08T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4DWXM8QH1FEK7XDTCR1RVA5.01M4DWXN5TGFT9XA1WXDCVYJ4B.png"
-  },
-  {
     "title": "AWS AI shines at IBC 2026",
     "link": "https://aws.amazon.com/blogs/media/aws-ai-shines-at-ibc-2026/",
     "summary": "From the halls of the RAI to local gatherings in Amsterdam, conversations around this year’s International Broadcasting Convention (IBC Show) centered on AI and collaboration. A reported 41,225 attendees from 170 countries and 1,300 exhibit…",
@@ -240,17 +251,6 @@
     "timestamp": 1791405943.0,
     "isoDate": "2026-10-07T20:45:43+00:00",
     "imageUrl": "https://industrypartnermarketing.s3.us-east-2.amazonaws.com/Innovative-Dreams.mp4"
-  },
-  {
-    "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-    "link": "https://blog.cloudflare.com/agentic-security-operations/",
-    "summary": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded rec…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 07 Oct 2026 16:30:36 GMT",
-    "timestamp": 1791390636.0,
-    "isoDate": "2026-10-07T16:30:36+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png"
   },
   {
     "title": "Automate streaming content refresh with Amazon CloudFront cache tags",
