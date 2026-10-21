@@ -1,14 +1,135 @@
 [
   {
-    "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-    "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-    "summary": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. Security researchers at watchTowr say the two…",
+    "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+    "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+    "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick use…",
     "source": "The Hacker News",
     "category": "security",
-    "timeAgo": "Wed, 21 Oct 2026 10:27:50 +0530",
-    "timestamp": 1792558670.0,
-    "isoDate": "2026-10-21T04:57:50+00:00",
+    "timeAgo": "Wed, 21 Oct 2026 18:45:09 +0530",
+    "timestamp": 1792588509.0,
+    "isoDate": "2026-10-21T13:15:09+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkkBWQk1mVx_ybLuq6r6miCGLiZJUyA_-tPpzi5cyWpcmN_WX43NqfOoH-Tc5VaAh1rVA78waqQ9hx4j-jNwq1GX9bbZjezpx1Q28YcxlBPqnxMbbHd15spg63hSVS0sidhyR9wTg6Aq7ijZJdNIfdY_jev1_K4KJR-6yIoCLlD6cbkGwVY3SUke5IuXS5/s1600/chrome-clickfix-warning.jpg"
+  },
+  {
+    "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+    "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+    "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive te…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 17:35:00 +0530",
+    "timestamp": 1792584300.0,
+    "isoDate": "2026-10-21T12:05:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png"
+  },
+  {
+    "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+    "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+    "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behav…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 17:23:34 +0530",
+    "timestamp": 1792583614.0,
+    "isoDate": "2026-10-21T11:53:34+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg"
+  },
+  {
+    "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+    "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+    "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 16:06:53 +0530",
+    "timestamp": 1792579013.0,
+    "isoDate": "2026-10-21T10:36:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg"
+  },
+  {
+    "title": "The Harness Is the Hard Part of Agentic Pentesting",
+    "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+    "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on af…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 16:02:40 +0530",
+    "timestamp": 1792578760.0,
+    "isoDate": "2026-10-21T10:32:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg"
+  },
+  {
+    "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+    "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+    "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic leave…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 16:00:27 +0530",
+    "timestamp": 1792578627.0,
+    "isoDate": "2026-10-21T10:30:27+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg"
+  },
+  {
+    "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+    "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+    "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security r…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 14:35:17 +0530",
+    "timestamp": 1792573517.0,
+    "isoDate": "2026-10-21T09:05:17+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg"
+  },
+  {
+    "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+    "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+    "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. TeamUpdraft is the dev…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 14:31:12 +0530",
+    "timestamp": 1792573272.0,
+    "isoDate": "2026-10-21T09:01:12+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdsSYB_dpfRL3wD0MeCT_VyPyFJS8HjQAW0VuBHSTviFY4WBOQfa8MCP79qyJR3zYyMBesIXiCtL8XwwtjjLGm9Stxdv_qoIkf3_Rpc7YGFwZuzVS974TbuDfF5GkLRJX2DxFaDudlMlXSDyiZ8fvoVGaKaA-tpCr_eAvvEsfQr1uyfdBk-8KyK4aisYgC/s1600/wp-backdoor.jpg"
+  },
+  {
+    "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+    "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+    "summary": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security orde…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 13:34:17 +0530",
+    "timestamp": 1792569857.0,
+    "isoDate": "2026-10-21T08:04:17+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjAZGBcWVyeZELPmEq7fujTJPeDgQoEZQpt7sD2rB1EO9fXByN2kmezefmvfihwR7fDE-77o-JVKB8bASzvKamkZB9kx9SstR2PA529wjrAWiSr1IBHEfrShRbiOd3PG2OP3iqygUb_ZeXYBSzrTN86MY5pjngL6WsqwoqJYYzUXSSVCJNKihe8F7FKsA/s1600/deepseek-dhs.jpg"
+  },
+  {
+    "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+    "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+    "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 13:14:22 +0530",
+    "timestamp": 1792568662.0,
+    "isoDate": "2026-10-21T07:44:22+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlQofjstTN3Rpma_akZslqH5L5GLXJ6yhYDWwr5R-rK78jnhUq0L0jk3Ds7sYrlCMjyV8SPGb9PqOr1n46ssgdRRdSdFxPVHc-uxVaVm_l-atc0RXV2MTG6Y5AmIivnljGOMRIKNxeOlIfzIuDdZGl7CHP_Xplctaz8YkiWvriWkCgQ8GyKkR804LI0KQ/s1600/sbi-data-breach.jpg"
+  },
+  {
+    "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+    "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively call…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 12:56:49 +0530",
+    "timestamp": 1792567609.0,
+    "isoDate": "2026-10-21T07:26:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg"
+  },
+  {
+    "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+    "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+    "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dub…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 21 Oct 2026 11:35:15 +0530",
+    "timestamp": 1792562715.0,
+    "isoDate": "2026-10-21T06:05:15+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg"
   },
   {
     "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
@@ -207,126 +328,5 @@
     "timestamp": 1792415145.0,
     "isoDate": "2026-10-19T13:05:45+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg"
-  },
-  {
-    "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-    "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-    "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound c…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 19 Oct 2026 17:20:00 +0530",
-    "timestamp": 1792410600.0,
-    "isoDate": "2026-10-19T11:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uAZRypeHl_8TjAU-3mwmvjdbCH0SZJwZBZOoEXcehaQfod9rpBvAl72JCjV8xF2KF4VbSVzWezAmkXjmbaxdIkK854Pa-yV4nkkRNe-l82mPM_VW1fLSE5Ib-RhyphenhypheneGga3KZ_9wQu76clTABJwGp_3N_M-6QBZMXFSISC56JWHVHpylO-uTenNO3kRlg/s1600/reco.gif"
-  },
-  {
-    "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-    "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-    "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 19 Oct 2026 15:36:40 +0530",
-    "timestamp": 1792404400.0,
-    "isoDate": "2026-10-19T10:06:40+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg"
-  },
-  {
-    "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-    "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-    "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showe…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 19 Oct 2026 11:59:44 +0530",
-    "timestamp": 1792391384.0,
-    "isoDate": "2026-10-19T06:29:44+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKR22_EY_V4kc68OQN7vGigoOrsBiy_aMnJVifzUg15itznrR-KdvcSdcaVSGnA6A2kAgMCSUNbIoqzh10gy8wQzkpK55LJPTjPPoV73VzoJlNCtZOn0LltkE7gq8PwH29hLNlUn41qQV8A7fTGkCwHu2LQ0OtvvTFtNRHll7xY0_PUfQ5K08JtCWriXg/s1600/wifi.gif"
-  },
-  {
-    "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-    "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-    "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a wo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 19 Oct 2026 11:37:08 +0530",
-    "timestamp": 1792390028.0,
-    "isoDate": "2026-10-19T06:07:08+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzRSuvywT7bfHRl45krYywOIqL__Cw1hXchChbx5ylDNZaHxVDEf8O1pmzajCnItG1rwxKq0k2GHdMeDW_DvQP8Wk5MEiwlE2dZXn9grvDpAOpViWonNWsFMkTXoKpcFj8lk0UuMrGx-xVHRU_KufidsDcY7e0RUSG62aapDC9y9opt8V_rmgxkCG9v6A/s1600/opencode.jpg"
-  },
-  {
-    "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-    "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-    "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromis…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sun, 18 Oct 2026 13:53:02 +0530",
-    "timestamp": 1792311782.0,
-    "isoDate": "2026-10-18T08:23:02+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTJ5xsWsmrBmF1q18Gi5uaokNeC6-M0VbSf0T5X3KMQH7QGMhC7mz4XB6TUJuE7P9tjknMAqaGQ-Iz_7UuQ-NdKKXJTgqLhHMipRcd57VUOpwfJ2xxO8Hq_PX8hotdp_KZddNDzfQFw3bLHbYYLasThNbqGlidzhZ485ApBIKh2KUgn4g6PeBbhMwhc0T/s1600/ms-connect.jpg"
-  },
-  {
-    "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-    "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-    "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30,…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 17 Oct 2026 16:41:56 +0530",
-    "timestamp": 1792235516.0,
-    "isoDate": "2026-10-17T11:11:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg"
-  },
-  {
-    "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-    "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-    "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unautho…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 17 Oct 2026 11:46:46 +0530",
-    "timestamp": 1792217806.0,
-    "isoDate": "2026-10-17T06:16:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg"
-  },
-  {
-    "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-    "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-    "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardw…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 16 Oct 2026 23:18:45 +0530",
-    "timestamp": 1792172925.0,
-    "isoDate": "2026-10-16T17:48:45+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg"
-  },
-  {
-    "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-    "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-    "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 16 Oct 2026 22:13:39 +0530",
-    "timestamp": 1792169019.0,
-    "isoDate": "2026-10-16T16:43:39+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg"
-  },
-  {
-    "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-    "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-    "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (Ait…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 16 Oct 2026 21:46:44 +0530",
-    "timestamp": 1792167404.0,
-    "isoDate": "2026-10-16T16:16:44+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg"
-  },
-  {
-    "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-    "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-    "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurre…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 16 Oct 2026 19:33:04 +0530",
-    "timestamp": 1792159384.0,
-    "isoDate": "2026-10-16T14:03:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg"
   }
 ]
