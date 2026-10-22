@@ -1,5 +1,82 @@
 [
   {
+    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+    "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+    "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 22 Oct 2026 17:15:00 +0530",
+    "timestamp": 1792669500.0,
+    "isoDate": "2026-10-22T11:45:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg"
+  },
+  {
+    "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+    "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+    "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 22 Oct 2026 16:45:42 +0530",
+    "timestamp": 1792667742.0,
+    "isoDate": "2026-10-22T11:15:42+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi5yuPoipCkAL6joBpDL5htNkHWi_rU5i5dAyspyjSrdDORYgV_LRNO4pVG_c1P0S7bnZFWHft8recxLiFRSiLsPxx3ZL-v8fzlYRuzxxG_P_ocKdJbGWzXFtoEjPszyKNUOS86HCylk0LPV1YZS7U9qZcfonBVeLEuRKioCXVbbzUySEvWGI0IaBJ8U/s1600/rail.jpg"
+  },
+  {
+    "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+    "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+    "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside too…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 22 Oct 2026 16:14:05 +0530",
+    "timestamp": 1792665845.0,
+    "isoDate": "2026-10-22T10:44:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg"
+  },
+  {
+    "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+    "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+    "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 22 Oct 2026 13:58:48 +0530",
+    "timestamp": 1792657728.0,
+    "isoDate": "2026-10-22T08:28:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg"
+  },
+  {
+    "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+    "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+    "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow r…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 22 Oct 2026 13:17:22 +0530",
+    "timestamp": 1792655242.0,
+    "isoDate": "2026-10-22T07:47:22+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s1600/nodejs-rce.jpg"
+  },
+  {
+    "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+    "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+    "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 22 Oct 2026 12:08:31 +0530",
+    "timestamp": 1792651111.0,
+    "isoDate": "2026-10-22T06:38:31+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidksxeLP_h5vpqmr62J_72yOAmQIRsZDLE6bpclFaHY1yQX6Dv-omiTvu_j49FuvXUOwxQT8levg89_AGRMiPNidANkEn1PSGSaNFoCVnY_VQ2Ny9D7FhLwtd9VDboOjxPi6Ssg78CdLFUzShhEt8oK6x0obKcHCZbbIMWBylnQCVCbQGUqjfbBJAKCew/s1600/http3.jpg"
+  },
+  {
+    "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+    "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+    "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 22 Oct 2026 12:04:10 +0530",
+    "timestamp": 1792650850.0,
+    "isoDate": "2026-10-22T06:34:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg"
+  },
+  {
     "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
     "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
     "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI…",
@@ -251,82 +328,5 @@
     "timestamp": 1792496466.0,
     "isoDate": "2026-10-20T11:41:06+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtrA7WSHbxSgTUKrOz8Swz6vdK1sarnVj8fCSEjFPdIMyLbOCOIytF60D82szAQpXLHR0mXI3j4zcIobCRS2g8ZI6GkbuLTHkoM4OmkUAWD0P1D1KyYuYrSxWvbq7Yy6zJ-B03VGWxy49q1BUF4owk5gUAVBBd6g2v7xl28TT_ax7Il5ixELfwcBawpA/s1600/whatsapp-chatbot.jpg"
-  },
-  {
-    "title": "What Security Teams Can Do To Tame Wild Code",
-    "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-    "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 20 Oct 2026 17:03:04 +0530",
-    "timestamp": 1792495984.0,
-    "isoDate": "2026-10-20T11:33:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg"
-  },
-  {
-    "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-    "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-    "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connection…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 20 Oct 2026 17:02:59 +0530",
-    "timestamp": 1792495979.0,
-    "isoDate": "2026-10-20T11:32:59+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s1600/go-certs.jpg"
-  },
-  {
-    "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-    "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 20 Oct 2026 16:36:25 +0530",
-    "timestamp": 1792494385.0,
-    "isoDate": "2026-10-20T11:06:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNLZ-1vEmoCyztDVMziqJlhZPTZfW4mOe-qDn6OxDQ-K2LVZTvqhoOe3MIip5bDJfiJd7e3HLcq4S-0xb2SlfWbEqp4vlvbOnQDSP5edsQIxHFtYSCt1qM7XZksq0NPZ9AGesx0YzqHsTeWUuPUTysC5dbuDOvKIjQW0DJvkg1UG9KLH2Doglq7WtgyiRM/s1600/russia-nato.jpg"
-  },
-  {
-    "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-    "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-    "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 20 Oct 2026 16:26:08 +0530",
-    "timestamp": 1792493768.0,
-    "isoDate": "2026-10-20T10:56:08+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN8mboHojdAmthr-jUWvIgg5BgmRsrAFJRQFz-nEuPEAIGTqwVKwnf9c7E8jGzdpHfWZuDENURbDFFADIJ76Tf7h5lamLTOUoY5ui438ugfOJYw-2vkAuITMBMxt-0CWFxj43bdgDY19exYceRvJEScmPpWoYXBjkIHLOilUSF1wWmSta5o9ocPpLywQn/s1600/connect.jpg"
-  },
-  {
-    "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-    "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-    "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to stea…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 20 Oct 2026 13:51:29 +0530",
-    "timestamp": 1792484489.0,
-    "isoDate": "2026-10-20T08:21:29+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRX5Jjz6vqh8EcVVYoXU8S9qh0rFzQ3DDnjNIlkRrBq97brmk6hUw0u2pbLqyTAG1_mYfG9bGHCnMkgSMEPFu6fIR67F1jZMmS7G7-DFe6i7PtG_LzdTgHLCTXSwE5hCa2EApQeAIYGIMYATwbLEp-2FcPmV9aAHVqrRRBYk_wY7ZTuES0frFAPGjhnU/s1600/ovhcloud.jpg"
-  },
-  {
-    "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-    "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-    "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an at…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 20 Oct 2026 12:41:45 +0530",
-    "timestamp": 1792480305.0,
-    "isoDate": "2026-10-20T07:11:45+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg"
-  },
-  {
-    "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-    "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-    "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secret…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 20 Oct 2026 11:23:16 +0530",
-    "timestamp": 1792475596.0,
-    "isoDate": "2026-10-20T05:53:16+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg"
   }
 ]
