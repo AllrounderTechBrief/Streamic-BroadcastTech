@@ -1,5 +1,16 @@
 [
   {
+    "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+    "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 22 Oct 2026 09:51:26 +0530",
+    "timestamp": 1792642886.0,
+    "isoDate": "2026-10-22T04:21:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBGpr0x4Dn4VV8YVCO_s3CzzGvwmVUceHbt0llcvrzvBmWFaJcu9E9v3WntJGdez3PZ-53GAVSRiYc5FdSOgmyeCSXvpL2t5nCjhzJC50kTLhQygW8cCeFHqtZtDYHsG7Vx2uf1vVdobBbKJ5fcCKSNZDKpV00GRQKVlD444srM9L4rcPnTe28nABZ3pon/s1600/chinese-ai.jpg"
+  },
+  {
     "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
     "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
     "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administra…",
@@ -24,7 +35,7 @@
   {
     "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
     "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-    "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the i…",
+    "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incid…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Wed, 21 Oct 2026 22:03:47 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1792475596.0,
     "isoDate": "2026-10-20T05:53:16+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg"
-  },
-  {
-    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-    "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-    "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware deliv…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 20 Oct 2026 09:35:58 +0530",
-    "timestamp": 1792469158.0,
-    "isoDate": "2026-10-20T04:05:58+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg"
   }
 ]
