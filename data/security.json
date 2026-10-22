@@ -1,5 +1,27 @@
 [
   {
+    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+    "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+    "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 23 Oct 2026 00:35:35 +0530",
+    "timestamp": 1792695935.0,
+    "isoDate": "2026-10-22T19:05:35+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg"
+  },
+  {
+    "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+    "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+    "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets anyone who can log in…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 23 Oct 2026 00:35:17 +0530",
+    "timestamp": 1792695917.0,
+    "isoDate": "2026-10-22T19:05:17+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5jLAiZnSHOwYGjf-F6s4HR4ileDOwAkHiX9NyW30mGUqSzgdwGVdTzCTYkgmeoGtTRaSVm-h2IBwvJ9xd84OU2t3YXd8hf5PwlGdjh6VlcYZoCNkx6Yt0FY_JlVcM3AtXI4LQyidnOE86NMVwOGcztaFtV2Qq21X1pRQi6jxiITnQIoO14XLiOWaufI/s1600/velo.jpg"
+  },
+  {
     "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
     "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
     "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its in…",
@@ -53,17 +75,6 @@
     "timestamp": 1792676302.0,
     "isoDate": "2026-10-22T13:38:22+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg"
-  },
-  {
-    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-    "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-    "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 22 Oct 2026 17:15:00 +0530",
-    "timestamp": 1792669500.0,
-    "isoDate": "2026-10-22T11:45:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg"
   },
   {
     "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
@@ -317,16 +328,5 @@
     "timestamp": 1792562715.0,
     "isoDate": "2026-10-21T06:05:15+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg"
-  },
-  {
-    "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-    "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-    "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so any…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 20 Oct 2026 22:39:53 +0530",
-    "timestamp": 1792516193.0,
-    "isoDate": "2026-10-20T17:09:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s1600/ecert.jpg"
   }
 ]
