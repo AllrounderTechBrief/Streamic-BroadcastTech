@@ -1,5 +1,16 @@
 [
   {
+    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+    "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+    "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkme…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Sat, 24 Oct 2026 00:20:13 +0530",
+    "timestamp": 1792781413.0,
+    "isoDate": "2026-10-23T18:50:13+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg"
+  },
+  {
     "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
     "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
     "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found …",
@@ -317,16 +328,5 @@
     "timestamp": 1792584300.0,
     "isoDate": "2026-10-21T12:05:00+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png"
-  },
-  {
-    "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-    "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-    "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behav…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 21 Oct 2026 17:23:34 +0530",
-    "timestamp": 1792583614.0,
-    "isoDate": "2026-10-21T11:53:34+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg"
   }
 ]

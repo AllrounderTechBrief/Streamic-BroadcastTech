@@ -1,5 +1,93 @@
 [
   {
+    "title": "Dow Drops 653, Nasdaq Falls 54, S&P 500 Falls 40",
+    "link": "https://tvnewscheck.com/business/article/dow-drops-653-nasdaq-falls-54-sp-500-falls-40/",
+    "summary": "Wall Street lost ground Friday under pressure from rising oil prices. The post Dow Drops 653, Nasdaq Falls 54, S&P 500 Falls 40 appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 20:44:54 +0000",
+    "timestamp": 1792788294.0,
+    "isoDate": "2026-10-23T20:44:54+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Meta Quietly Delays Controversial Update That Critics Say Will Allow Website Scraping",
+    "link": "https://tvnewscheck.com/business/article/meta-quietly-delays-controversial-update-that-critics-say-will-allow-website-scraping/",
+    "summary": "Following outrage from news publishers, the tech giant pushed back an update for business accounts by three weeks. It still plans to move forward with it. The post Meta Quietly Delays Controversial Update That Critics Say Will Allow Website…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 19:03:06 +0000",
+    "timestamp": 1792782186.0,
+    "isoDate": "2026-10-23T19:03:06+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Jon Tower Takes Executive Producer Role At Revamped ‘CBS Mornings’",
+    "link": "https://tvnewscheck.com/journalism/article/jon-tower-takes-executive-producer-role-at-revamped-cbs-mornings/",
+    "summary": "Jon Tower, a morning news veteran who has been filling in as an interim manager at CBS News‘ A.M. program, is now the official supervisor of the show. The post Jon Tower Takes Executive Producer Role At Revamped ‘CBS Mornings’ appeared firs…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 18:59:27 +0000",
+    "timestamp": 1792781967.0,
+    "isoDate": "2026-10-23T18:59:27+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "RS-25 Engine Tests at NASA Stennis",
+    "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+    "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire duri…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 18:57:04 +0000",
+    "timestamp": 1792781824.0,
+    "isoDate": "2026-10-23T18:57:04+00:00",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048"
+  },
+  {
+    "title": "NPR To Move Public Editor Partnership To University Of Maryland",
+    "link": "https://tvnewscheck.com/journalism/article/npr-to-move-public-editor-partnership-to-university-of-maryland/",
+    "summary": "Kelly McBride, who has served as the network’s public editor since 2020, will leave the role at the end of the year, she announced in her column Thursday. She said that NPR CEO Katherine Maher decided to move the partnership to UMD. The pos…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 18:55:41 +0000",
+    "timestamp": 1792781741.0,
+    "isoDate": "2026-10-23T18:55:41+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Apple Is Revving Up Its Ads Business With Formula 1",
+    "link": "https://tvnewscheck.com/business/article/apple-is-revving-up-its-ads-business-with-formula-1/",
+    "summary": "The tech giant does not have an ad tier on its Apple TV streaming service, but one of the company's top ad execs says that F1 is growing its share of the pie. The post Apple Is Revving Up Its Ads Business With Formula 1 appeared first on TV…",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 18:44:29 +0000",
+    "timestamp": 1792781069.0,
+    "isoDate": "2026-10-23T18:44:29+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Bravo’s ‘In The City’ Renewed For Season 2",
+    "link": "https://tvnewscheck.com/programming/article/bravos-in-the-city-renewed-for-season-2/",
+    "summary": "The Summer House spinoff is currently filming in New York. The post Bravo’s ‘In The City’ Renewed For Season 2 appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 18:40:10 +0000",
+    "timestamp": 1792780810.0,
+    "isoDate": "2026-10-23T18:40:10+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Fox Adds 4K, 8K Nucleus Cameras To World Series Coverage",
+    "link": "https://tvnewscheck.com/tech/article/fox-adds-4k-8k-nucleus-cameras-to-world-series-coverage/",
+    "summary": "The network also plans expanded use of AR to keep fans engaged and informed. The post Fox Adds 4K, 8K Nucleus Cameras To World Series Coverage appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 18:34:16 +0000",
+    "timestamp": 1792780456.0,
+    "isoDate": "2026-10-23T18:34:16+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "NASA, Virginia Launch Power Partnership for Energy Security",
     "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
     "summary": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delive…",
@@ -308,83 +396,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Dow Adds 12, Nasdaq Tumbles 694, S&P 500 Falls 94",
-    "link": "https://tvnewscheck.com/business/article/dow-adds-12-nasdaq-tumbles-694-sp-500-falls-94/",
-    "summary": "Sharp drops for AI stocks overwhelmed markets worldwide Thursday as oil prices jumped. The post Dow Adds 12, Nasdaq Tumbles 694, S&P 500 Falls 94 appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 22 Oct 2026 20:36:41 +0000",
-    "timestamp": 1792701401.0,
-    "isoDate": "2026-10-22T20:36:41+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Gabriel Awards Open Submissions for 61st Competition",
-    "link": "https://tvnewscheck.com/journalism/article/gabriel-awards-open-submissions-for-61st-competition/",
-    "summary": "Submissions for the 61st Gabriel Awards open Nov. 2, with a refreshed lineup of 28 categories spanning film and theatrical releases, television and streaming series, audio and podcasting, and digital … The post Gabriel Awards Open Submissio…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 22 Oct 2026 19:26:00 +0000",
-    "timestamp": 1792697160.0,
-    "isoDate": "2026-10-22T19:26:00+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "‘Alien’ & ‘Picket Fences’ Star Tom Skerritt Dies At 93",
-    "link": "https://extratv.com/2026/10/22/alien-and-picket-fences-star-tom-skerritt-dies-at-93/",
-    "summary": "The post ‘Alien’ & ‘Picket Fences’ Star Tom Skerritt Dies At 93 appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 22 Oct 2026 19:20:05 +0000",
-    "timestamp": 1792696805.0,
-    "isoDate": "2026-10-22T19:20:05+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Politico Corrects Story On Susie Wiles After White House Threatens ‘Consequences’",
-    "link": "https://tvnewscheck.com/journalism/article/politico-corrects-story-on-susie-wiles-after-white-house-threatens-consequences/",
-    "summary": "Politico issued a correction late Wednesday to a story it published about White House chief of staff Susie Wiles and the backstory on what led to ousted press secretary Katie Zacharia’s firing last week. The post Politico Corrects Story On …",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 22 Oct 2026 19:01:53 +0000",
-    "timestamp": 1792695713.0,
-    "isoDate": "2026-10-22T19:01:53+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Why A Pillar Of Christian Journalism Is In Turmoil",
-    "link": "https://tvnewscheck.com/journalism/article/why-a-pillar-of-christian-journalism-is-in-turmoil/",
-    "summary": "Former employees of Christianity Today say new leadership has been pushing back on independent journalism. About half of its staff members have left or been laid off over 14 months. The post Why A Pillar Of Christian Journalism Is In Turmoi…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 22 Oct 2026 18:58:24 +0000",
-    "timestamp": 1792695504.0,
-    "isoDate": "2026-10-22T18:58:24+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Stage 32 Launches Marketplace To Combat AI Slop",
-    "link": "https://tvnewscheck.com/ai/article/stage-32-launches-marketplace-to-combat-ai-slop/",
-    "summary": "Script platform Stage 32 has launched an official marketplace to partly help combat an influx of AI-written projects. The Stage 32 Marketplace, which launched yesterday, allows executives to discover TV and film projects that have been full…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 22 Oct 2026 18:46:23 +0000",
-    "timestamp": 1792694783.0,
-    "isoDate": "2026-10-22T18:46:23+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "FIFA Opens Bids For 2030 World Cup U.S. Media Rights — With Option For 2034",
-    "link": "https://tvnewscheck.com/business/article/fifa-opens-bids-for-2030-world-cup-u-s-media-rights-with-option-for-2034/",
-    "summary": "The international governing body behind the popular global tournament is opening the bidding process for rights to the event for 2030 in the U.S. and Puerto Rico, and will offer an option for interesting parties to also try to secure rights…",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Thu, 22 Oct 2026 18:38:26 +0000",
-    "timestamp": 1792694306.0,
-    "isoDate": "2026-10-22T18:38:26+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
     "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
     "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
@@ -427,17 +438,6 @@
     "timestamp": 1792627216.0,
     "isoDate": "2026-10-22T00:00:16+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-    "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-    "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 21 Oct 2026 20:51:50 +0000",
-    "timestamp": 1792615910.0,
-    "isoDate": "2026-10-21T20:51:50+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024"
   },
   {
     "title": "How Ross Video turns your studio into a strategic business asset",
