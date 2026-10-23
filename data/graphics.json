@@ -1,5 +1,27 @@
 [
   {
+    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+    "link": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+    "summary": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 04:05:00 +0000",
+    "timestamp": 1792728300.0,
+    "isoDate": "2026-10-23T04:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg?w=2048&h=1368&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "El Niño Then and Now",
+    "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+    "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Fri, 23 Oct 2026 04:00:00 +0000",
+    "timestamp": 1792728000.0,
+    "isoDate": "2026-10-23T04:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_19971013.jpg"
+  },
+  {
     "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
     "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
     "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return t…",
@@ -416,28 +438,6 @@
     "timestamp": 1792607756.0,
     "isoDate": "2026-10-21T18:35:56+00:00",
     "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048"
-  },
-  {
-    "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
-    "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
-    "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fight…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 21 Oct 2026 16:31:11 +0000",
-    "timestamp": 1792600271.0,
-    "isoDate": "2026-10-21T16:31:11+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920"
-  },
-  {
-    "title": "Tracks Along the Longest Drive on Another World",
-    "link": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-    "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reach…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 21 Oct 2026 15:50:44 +0000",
-    "timestamp": 1792597844.0,
-    "isoDate": "2026-10-21T15:50:44+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_NLF_2006_0845030184_441ECM_N0911496NCAM03006_04_195J.jpg?w=1288&h=968&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "How Ross Video turns your studio into a strategic business asset",
