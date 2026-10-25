@@ -1,5 +1,16 @@
 [
   {
+    "title": "How the NBA future-proofed its digital infrastructure in 6 months",
+    "link": "https://aws.amazon.com/blogs/media/how-the-nba-future-proofed-its-digital-infrastructure-in-6-months/",
+    "summary": "Every July, National Basketball Association (NBA) rookies make their debut at Summer League in Las Vegas. When the basketball universe made its annual pilgrimage to Vegas in 2025, the players weren't the only ones stepping into a new system…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Sun, 25 Oct 2026 21:22:07 +0000",
+    "timestamp": 1792963327.0,
+    "isoDate": "2026-10-25T21:22:07+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
     "link": "https://aws.amazon.com/blogs/media/finding-the-perfect-moment-how-formula-1-uses-aws-ai-to-search-archives-in-seconds/",
     "summary": "F1 worked with AWS to migrate petabytes of footage from ageing tape robots, in multiple formats and proxy files, into Amazon Simple Storage Service (Amazon S3) alongside the live footage from every new race. That gave the sport one durable …",
@@ -207,16 +218,5 @@
     "timestamp": 1784560942.0,
     "isoDate": "2026-07-20T15:22:22+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/07/19/figure_01d.png"
-  },
-  {
-    "title": "How 5 migrated to AWS Elemental MediaPackage v2",
-    "link": "https://aws.amazon.com/blogs/media/how-5-migrated-to-aws-elemental-mediapackage-v2/",
-    "summary": "In this blog, learn how 5, part of Paramount, migrated from a dual-pipeline packaging architecture to AWS Elemental MediaPackage v2—consolidating infrastructure, eliminating manual failover, and expanding to new platforms across a 12-month …",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 29 Jun 2026 22:04:40 +0000",
-    "timestamp": 1782770680.0,
-    "isoDate": "2026-06-29T22:04:40+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/06/28/How-5-migrated-to-AWS-Elemental-MediaPackage-v2.png"
   }
 ]
