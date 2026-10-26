@@ -1,5 +1,38 @@
 [
   {
+    "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+    "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+    "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 org…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 26 Oct 2026 14:05:51 +0530",
+    "timestamp": 1793003751.0,
+    "isoDate": "2026-10-26T08:35:51+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg"
+  },
+  {
+    "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+    "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+    "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private reposit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 26 Oct 2026 13:19:46 +0530",
+    "timestamp": 1793000986.0,
+    "isoDate": "2026-10-26T07:49:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg"
+  },
+  {
+    "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+    "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+    "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the at…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 26 Oct 2026 11:33:48 +0530",
+    "timestamp": 1792994628.0,
+    "isoDate": "2026-10-26T06:03:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png"
+  },
+  {
     "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
     "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
     "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to al…",
@@ -11,9 +44,9 @@
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg"
   },
   {
-    "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+    "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
     "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-    "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the atta…",
+    "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an a…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Sun, 25 Oct 2026 22:49:46 +0530",
@@ -35,7 +68,7 @@
   {
     "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
     "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-    "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-1114…",
+    "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracke…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Sat, 24 Oct 2026 16:39:29 +0530",
@@ -74,7 +107,7 @@
     "timeAgo": "Sat, 24 Oct 2026 14:34:24 +0530",
     "timestamp": 1792832664.0,
     "isoDate": "2026-10-24T09:04:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg"
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0sIO412EzdDtlngPmg_icDaIn3Mb1ODDcIEPLJMLpatt8TkMHFUFK63rBJVBb72s6uV_KvpRPfKISPfLtznJpsy7_HLaxigKAZP3hvqiGF-gkqKqYi-6tEvyPV_UhUpRGf1bREenTlzt7o9OIs4LfdXy9VekUesPsb5OWcVr7X-JlCeieU0V419GJ3rNY/s1600/popcorn-botnet.jpg"
   },
   {
     "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
@@ -295,38 +328,5 @@
     "timestamp": 1792665845.0,
     "isoDate": "2026-10-22T10:44:05+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg"
-  },
-  {
-    "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-    "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-    "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 22 Oct 2026 13:58:48 +0530",
-    "timestamp": 1792657728.0,
-    "isoDate": "2026-10-22T08:28:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg"
-  },
-  {
-    "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-    "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-    "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow r…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 22 Oct 2026 13:17:22 +0530",
-    "timestamp": 1792655242.0,
-    "isoDate": "2026-10-22T07:47:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s1600/nodejs-rce.jpg"
-  },
-  {
-    "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-    "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-    "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 22 Oct 2026 12:08:31 +0530",
-    "timestamp": 1792651111.0,
-    "isoDate": "2026-10-22T06:38:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidksxeLP_h5vpqmr62J_72yOAmQIRsZDLE6bpclFaHY1yQX6Dv-omiTvu_j49FuvXUOwxQT8levg89_AGRMiPNidANkEn1PSGSaNFoCVnY_VQ2Ny9D7FhLwtd9VDboOjxPi6Ssg78CdLFUzShhEt8oK6x0obKcHCZbbIMWBylnQCVCbQGUqjfbBJAKCew/s1600/http3.jpg"
   }
 ]
