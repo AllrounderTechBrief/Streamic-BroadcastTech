@@ -1,5 +1,49 @@
 [
   {
+    "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+    "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+    "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attack…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 26 Oct 2026 19:36:13 +0530",
+    "timestamp": 1793023573.0,
+    "isoDate": "2026-10-26T14:06:13+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1600/recap2monday.jpg"
+  },
+  {
+    "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+    "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+    "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first nee…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 26 Oct 2026 17:22:41 +0530",
+    "timestamp": 1793015561.0,
+    "isoDate": "2026-10-26T11:52:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xq9w5oCep_lu7UpdVExPO7yRQ1tMz0YkxljYR_LmwG3WKowZ2CtLPh4F6kASJ7Xu0xJKy4uVzlwj7fPEO3fgKUELS4BqUtDZvGh1P-iqRslXNCLdkcJMCBGSKvJeqrrkeZdfPO9Wmv_v2VqdYEZVavTHw-QHUhli9QYGVhASuSRt3DETy8JMBz1D-kE/s1600/wasm.jpg"
+  },
+  {
+    "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+    "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+    "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeli…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 26 Oct 2026 16:53:56 +0530",
+    "timestamp": 1793013836.0,
+    "isoDate": "2026-10-26T11:23:56+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg"
+  },
+  {
+    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+    "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+    "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread o…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 26 Oct 2026 15:24:02 +0530",
+    "timestamp": 1793008442.0,
+    "isoDate": "2026-10-26T09:54:02+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg"
+  },
+  {
     "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
     "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
     "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 org…",
@@ -284,49 +328,5 @@
     "timestamp": 1792688513.0,
     "isoDate": "2026-10-22T17:01:53+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg"
-  },
-  {
-    "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-    "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-    "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 22 Oct 2026 21:42:31 +0530",
-    "timestamp": 1792685551.0,
-    "isoDate": "2026-10-22T16:12:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg"
-  },
-  {
-    "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-    "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-    "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 22 Oct 2026 19:08:22 +0530",
-    "timestamp": 1792676302.0,
-    "isoDate": "2026-10-22T13:38:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg"
-  },
-  {
-    "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-    "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-    "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 22 Oct 2026 16:45:42 +0530",
-    "timestamp": 1792667742.0,
-    "isoDate": "2026-10-22T11:15:42+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi5yuPoipCkAL6joBpDL5htNkHWi_rU5i5dAyspyjSrdDORYgV_LRNO4pVG_c1P0S7bnZFWHft8recxLiFRSiLsPxx3ZL-v8fzlYRuzxxG_P_ocKdJbGWzXFtoEjPszyKNUOS86HCylk0LPV1YZS7U9qZcfonBVeLEuRKioCXVbbzUySEvWGI0IaBJ8U/s1600/rail.jpg"
-  },
-  {
-    "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-    "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-    "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside too…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 22 Oct 2026 16:14:05 +0530",
-    "timestamp": 1792665845.0,
-    "isoDate": "2026-10-22T10:44:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg"
   }
 ]
