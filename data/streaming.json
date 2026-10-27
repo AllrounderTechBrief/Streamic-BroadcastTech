@@ -1,5 +1,16 @@
 [
   {
+    "title": "AI-enriched ingestion pipelines for searchable live and VOD media on AWS",
+    "link": "https://aws.amazon.com/blogs/media/ai-enriched-ingestion-pipelines-for-searchable-live-and-vod-media-on-aws/",
+    "summary": "As organizations adopt TAMS and cloud-centered workflows through the Amazon Web Services (AWS) Cloud-Native Agile Production (CNAP) program, the opportunity is clear: Make content discoverable by what it contains rather than how it was tagg…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 27 Oct 2026 23:23:57 +0000",
+    "timestamp": 1793143437.0,
+    "isoDate": "2026-10-27T23:23:57+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/10/27/image1.jpg"
+  },
+  {
     "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
     "link": "https://blog.cloudflare.com/php-ctf/",
     "summary": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
@@ -427,16 +438,5 @@
     "timestamp": 1784687586.0,
     "isoDate": "2026-07-22T02:33:06+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/07/17/Figure-1-PSNR-compared-to-bitrate-–-1920x1080-generation-1.png"
-  },
-  {
-    "title": "Introducing KNFSD File Cache: Extending your NFS storage into the cloud",
-    "link": "https://aws.amazon.com/blogs/media/introducing-knfsd-file-cache-extending-your-nfs-storage-into-the-cloud/",
-    "summary": "In this post, you'll learn how KNFSD File Cache (KNFSD) works and where it fits alongside any NFS-compliant storage (whether that's an on-premises filer, a third-party, or an AWS service like Amazon FSx). We also cover how to deploy a produ…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 20 Jul 2026 15:22:22 +0000",
-    "timestamp": 1784560942.0,
-    "isoDate": "2026-07-20T15:22:22+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/07/19/figure_01d.png"
   }
 ]
