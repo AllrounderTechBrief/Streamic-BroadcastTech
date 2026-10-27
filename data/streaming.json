@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "summary": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 26 Oct 2026 22:01:23 GMT",
+    "timestamp": 1793052083.0,
+    "isoDate": "2026-10-26T22:01:23+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2P2KSNBX6J13E3B4219PW.png"
+  },
+  {
     "title": "How the NBA future-proofed its digital infrastructure in 6 months",
     "link": "https://aws.amazon.com/blogs/media/how-the-nba-future-proofed-its-digital-infrastructure-in-6-months/",
     "summary": "Every July, National Basketball Association (NBA) rookies make their debut at Summer League in Las Vegas. When the basketball universe made its annual pilgrimage to Vegas in 2025, the players weren't the only ones stepping into a new system…",
@@ -229,17 +240,6 @@
     "timestamp": 1791818276.0,
     "isoDate": "2026-10-12T15:17:56+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/10/11/Figure-1-scaled.jpg"
-  },
-  {
-    "title": "Filter, reshape, and redact logs before export with Transformers",
-    "link": "https://blog.cloudflare.com/transformers-on-logpush/",
-    "summary": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 12 Oct 2026 14:44:59 GMT",
-    "timestamp": 1791816299.0,
-    "isoDate": "2026-10-12T14:44:59+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4HA4PM499GF25H969ZFXCA3.png"
   },
   {
     "title": "Introducing File Mover Express: Open source, high-performance file transfer to Amazon S3 for media workflows",
