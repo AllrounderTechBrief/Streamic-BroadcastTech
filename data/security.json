@@ -1,5 +1,71 @@
 [
   {
+    "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+    "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+    "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 28 Oct 2026 13:45:07 +0530",
+    "timestamp": 1793175307.0,
+    "isoDate": "2026-10-28T08:15:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMl2C6S6mb-smamI35fLYotcPaercI_2PIgtuF78Q7PtQcFvFUKXkModTW4nRCh6FC7Xht2BltSGImRS2QNR4Lnc22S7UBU9V_0UDcZi2iDNXSlCJDqD4ApmJPqA_boFokj_9dTWKdzhjIgNt_Y47zumx_c5vrcJn5Vd-Xaowafv4HGCzCcqgDV4GGpo/s1600/hacker-chain.jpg"
+  },
+  {
+    "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+    "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific cr…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 28 Oct 2026 13:07:50 +0530",
+    "timestamp": 1793173070.0,
+    "isoDate": "2026-10-28T07:37:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAdfKblTUCEDUoHzYpHPcEPzHO6qKTr01uG2-x7YyIT5t_-xeFc27zuZ3yOK76rkhz-J8y_Z4MqmydEQUtiCEvry_2H43qaSJXDrWRbM1gs8wDVTBgi_NzxIXsGBMoX8zlzISFlvcJ8NdNSyeMIZh8z-aHkXCyBDPJ2l195Ji1XgnVu_A0Yhh3H2QvEyiA/s1600/servers.jpg"
+  },
+  {
+    "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+    "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+    "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 an…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 28 Oct 2026 12:43:21 +0530",
+    "timestamp": 1793171601.0,
+    "isoDate": "2026-10-28T07:13:21+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDDZZalFBPLgf4YxDU_9FK46XXVkU3x0GKHeZHFd2WTdJ0cK5n1KCWDEOIvSgzHP4R14xmwLygLnnmyuBEVcHRVO7b9nIUZVcp5ehxIgFGrPyXZ3hZGwNa2bg8k4e_kkSHa2tyo05yPortQqRR_9g3yr-T0k0Tga9_26Pr0rs_MNIU8RndHMeq9r5Rr0/s1600/gmo.jpg"
+  },
+  {
+    "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+    "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+    "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 28 Oct 2026 11:50:37 +0530",
+    "timestamp": 1793168437.0,
+    "isoDate": "2026-10-28T06:20:37+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4t7YUY-idhgGJFpEuulM5zELQR4QNB-UKmsh7cyB5cdMH4AU_zumf3K27WBWgAw6ra28TvALm5fFeLrV_1wHJXeYy3azE1TcblP-1JSCPLF3mq-WKjUOXy3K-pfjhHtiwGkCoYhxfEMZGielHz2Bit6mLoNlnElmauP0RNcbXelNkAHIWI4s92qrymUQ/s1600/tailscale-patches.jpg"
+  },
+  {
+    "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+    "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+    "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 28 Oct 2026 11:34:58 +0530",
+    "timestamp": 1793167498.0,
+    "isoDate": "2026-10-28T06:04:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgiU-iVEycp9z-2dprGJhgl046M9ZvG7kGGwaXNzgFJg7XDubOoWWLvEuKAOczIcGuXU04db46Xa6pRMKO36ZS7Fu8Xkv7mNuPjHUS0zLTHkGlNWNRD2DLCznPf6jqvqamZSZGMBXSzh9gMYm-9sR-y7OgN7i7n6x0dfYxyl9QftWlfuQw0mpTteHy57k/s1600/sh.jpg"
+  },
+  {
+    "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+    "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 28 Oct 2026 11:12:26 +0530",
+    "timestamp": 1793166146.0,
+    "isoDate": "2026-10-28T05:42:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s1600/cisa-warning.jpg"
+  },
+  {
     "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
     "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
     "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analy…",
@@ -262,71 +328,5 @@
     "timestamp": 1792911269.0,
     "isoDate": "2026-10-25T06:54:29+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg"
-  },
-  {
-    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-    "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracke…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 24 Oct 2026 16:39:29 +0530",
-    "timestamp": 1792840169.0,
-    "isoDate": "2026-10-24T11:09:29+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg"
-  },
-  {
-    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-    "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-    "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 20…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 24 Oct 2026 16:33:33 +0530",
-    "timestamp": 1792839813.0,
-    "isoDate": "2026-10-24T11:03:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg"
-  },
-  {
-    "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-    "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-    "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google se…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 24 Oct 2026 16:06:33 +0530",
-    "timestamp": 1792838193.0,
-    "isoDate": "2026-10-24T10:36:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg"
-  },
-  {
-    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-    "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-    "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machin…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 24 Oct 2026 14:34:24 +0530",
-    "timestamp": 1792832664.0,
-    "isoDate": "2026-10-24T09:04:24+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0sIO412EzdDtlngPmg_icDaIn3Mb1ODDcIEPLJMLpatt8TkMHFUFK63rBJVBb72s6uV_KvpRPfKISPfLtznJpsy7_HLaxigKAZP3hvqiGF-gkqKqYi-6tEvyPV_UhUpRGf1bREenTlzt7o9OIs4LfdXy9VekUesPsb5OWcVr7X-JlCeieU0V419GJ3rNY/s1600/popcorn-botnet.jpg"
-  },
-  {
-    "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-    "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citin…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 24 Oct 2026 11:55:57 +0530",
-    "timestamp": 1792823157.0,
-    "isoDate": "2026-10-24T06:25:57+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg"
-  },
-  {
-    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-    "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-    "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkme…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Sat, 24 Oct 2026 00:20:13 +0530",
-    "timestamp": 1792781413.0,
-    "isoDate": "2026-10-23T18:50:13+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg"
   }
 ]
