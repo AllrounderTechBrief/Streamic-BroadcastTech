@@ -1,5 +1,16 @@
 [
   {
+    "title": "Unified multimodal search across live events and VOD assets on AWS",
+    "link": "https://aws.amazon.com/blogs/media/unified-multimodal-search-across-live-events-and-vod-assets-on-aws/",
+    "summary": "This post describes how a multi-leg hybrid search architecture solves this problem by combining vector similarity and keyword matching across multiple embedding channels in a single query, with results spanning both live events (searchable …",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 29 Oct 2026 20:42:08 +0000",
+    "timestamp": 1793306528.0,
+    "isoDate": "2026-10-29T20:42:08+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/10/27/image1_pt2.jpg"
+  },
+  {
     "title": "How broadcasters are navigating the satellite transition with AWS",
     "link": "https://aws.amazon.com/blogs/media/how-broadcasters-are-navigating-the-satellite-transition-with-aws/",
     "summary": "For decades, C-band satellite has been the backbone of primary distribution of live linear content to distribution partners and affiliates in the United States. The frequency range offered rain-fade resistance, continental reach from a sing…",
@@ -427,16 +438,5 @@
     "timestamp": 1788099998.0,
     "isoDate": "2026-08-30T14:26:38+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/27/Figure-1-XytechMCP-architecture-diagram.png"
-  },
-  {
-    "title": "Building audio provenance for AI-generated content at the source with AWS",
-    "link": "https://aws.amazon.com/blogs/media/building-audio-provenance-for-ai-generated-content-at-the-source-with-aws/",
-    "summary": "In this post, we show how to build SENTINEL, an Amazon Web Services (AWS) pipeline that embeds a cryptographic provenance watermark into AI-generated audio at the point of synthesis and carries a verifiable chain of custody through a live-s…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 27 Aug 2026 17:36:05 +0000",
-    "timestamp": 1787852165.0,
-    "isoDate": "2026-08-27T17:36:05+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/25/Figure-1-SENTINEL-four-plane-architecture.png"
   }
 ]

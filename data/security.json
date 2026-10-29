@@ -1,5 +1,27 @@
 [
   {
+    "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+    "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+    "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 30 Oct 2026 00:41:58 +0530",
+    "timestamp": 1793301118.0,
+    "isoDate": "2026-10-29T19:11:58+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoNTh5CKLvFJeeXzWn1LVT-e9435oFtUz4jT-4TmZaWkRUY_RY8EAtijUWxQztoK3K_tU_csSw54MuVeX8UzeT6ZWNLtTMex5pMS4z4Npz-aYAN9qIfWk2bUsei5nswh3UkzycVlKznVjK7n1I_knJ-p1I59RoX_TECTfr-NPej9LWoDt2UuwvLY4heSip/s1600/t-day.jpg"
+  },
+  {
+    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+    "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+    "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said on October …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 21:27:05 +0530",
+    "timestamp": 1793289425.0,
+    "isoDate": "2026-10-29T15:57:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCJ0ttE8v4hkDjJRqbTvxlxFcoNtFJhbYCQ-o8NtaiyFLImEyA8aSO967eeZG9fRebhc8oVA-OloE9X9KVVAxM-H3wKvUlh8XmN6bGlEz2IJwMgcssmA7yIRi7YNOwVQYD6nhQCaWUg6fPy-QXVjfw6rV55LueKlLvZLazjKjTL94KJMMUZ2uZ3R019Km/s1600/linux-flaw.jpg"
+  },
+  {
     "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
     "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
     "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves c…",
@@ -35,7 +57,7 @@
   {
     "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
     "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-    "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the f…",
+    "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegra…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Thu, 29 Oct 2026 17:09:18 +0530",
@@ -306,27 +328,5 @@
     "timestamp": 1793125606.0,
     "isoDate": "2026-10-27T18:26:46+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg"
-  },
-  {
-    "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
-    "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-    "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 19:29:48 +0530",
-    "timestamp": 1793109588.0,
-    "isoDate": "2026-10-27T13:59:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ae8TupuVJ4B0uHZJxwQnaqstuuA42Jwt_Zh7m9RwCBp_IrCYuChUaac6fUphOhpalVEC8tfhGsYGxt1lmswBobM-r-ds6t0uEMSV9HZKT_dYcigHPxGJQo7dcJte96ymjxwSREmiGulG6xPIX4Hx3visDSuyaX2DJ3HRcctAz0Jw1T9ALkCEwZUlMsQ/s1600/goahead.jpg"
-  },
-  {
-    "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-    "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-    "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGrap…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 19:29:09 +0530",
-    "timestamp": 1793109549.0,
-    "isoDate": "2026-10-27T13:59:09+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg"
   }
 ]
