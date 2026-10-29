@@ -1,5 +1,38 @@
 [
   {
+    "title": "How broadcasters are navigating the satellite transition with AWS",
+    "link": "https://aws.amazon.com/blogs/media/how-broadcasters-are-navigating-the-satellite-transition-with-aws/",
+    "summary": "For decades, C-band satellite has been the backbone of primary distribution of live linear content to distribution partners and affiliates in the United States. The frequency range offered rain-fade resistance, continental reach from a sing…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 29 Oct 2026 14:52:05 +0000",
+    "timestamp": 1793285525.0,
+    "isoDate": "2026-10-29T14:52:05+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Preparing for large-scale live streaming events on AWS — Part 2",
+    "link": "https://aws.amazon.com/blogs/media/preparing-for-large-scale-live-streaming-events-on-aws-part-2/",
+    "summary": "This post is part 2 in a two-part blog post series. Part 1 covers strategy, architecture evaluation, and capacity planning. Part 2 covers content delivery, nonfunctional testing, chaos engineering, and Amazon Web Services (AWS) support mode…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 29 Oct 2026 14:36:46 +0000",
+    "timestamp": 1793284606.0,
+    "isoDate": "2026-10-29T14:36:46+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Preparing for large-scale live streaming events on AWS — Part 1",
+    "link": "https://aws.amazon.com/blogs/media/preparing-for-large-scale-live-streaming-events-on-aws-part-1/",
+    "summary": "This post is part 1 in a two-part blog post series. Part 1 covers strategy, architecture evaluation, and capacity planning. Part 2 covers content delivery, nonfunctional testing, chaos engineering, and Amazon Web Services (AWS) support mode…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 29 Oct 2026 14:36:20 +0000",
+    "timestamp": 1793284580.0,
+    "isoDate": "2026-10-29T14:36:20+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "AI-enriched ingestion pipelines for searchable live and VOD media on AWS",
     "link": "https://aws.amazon.com/blogs/media/ai-enriched-ingestion-pipelines-for-searchable-live-and-vod-media-on-aws/",
     "summary": "As organizations adopt TAMS and cloud-centered workflows through the Amazon Web Services (AWS) Cloud-Native Agile Production (CNAP) program, the opportunity is clear: Make content discoverable by what it contains rather than how it was tagg…",
@@ -185,38 +218,5 @@
     "timestamp": 1787852165.0,
     "isoDate": "2026-08-27T17:36:05+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/25/Figure-1-SENTINEL-four-plane-architecture.png"
-  },
-  {
-    "title": "How CNN Weather is reimagining forecasts with AWS AI",
-    "link": "https://aws.amazon.com/blogs/media/how-cnn-weather-is-reimaging-forecasts-with-aws-ai/",
-    "summary": "In this blog, learn how the CNN Weather app delivers real-time weather summaries using AI/ML, alongside its trusted journalism.",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 27 Aug 2026 12:15:33 +0000",
-    "timestamp": 1787832933.0,
-    "isoDate": "2026-08-27T12:15:33+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/27/CNN-Weather-Image.png"
-  },
-  {
-    "title": "Announcing AI-Powered Video Advertising & Operations knowledge badge on AWS Skill Builder",
-    "link": "https://aws.amazon.com/blogs/media/announcing-ai-powered-video-advertising-operations-knowledge-badge-on-aws-skill-builder/",
-    "summary": "Learn more about the new AI-Powered Video Advertising & Operations knowledge badge readiness path, available at no cost on AWS Skill Builder, gives you structured training across the full programmatic advertising stack, from foundational co…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 13 Aug 2026 14:30:48 +0000",
-    "timestamp": 1786631448.0,
-    "isoDate": "2026-08-13T14:30:48+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/09/AWS-knowledge-logo.png"
-  },
-  {
-    "title": "Benchmarking video codec quality by comparing NDI SpeedHQ and JPEG XS",
-    "link": "https://aws.amazon.com/blogs/media/benchmarking-video-codec-quality-by-comparing-ndi-speedhq-and-jpeg-xs/",
-    "summary": "Learn more about two codecs frequently used in production workflows are Network Digital Interface (NDI) SpeedHQ and JPEG XS.",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Wed, 22 Jul 2026 02:33:06 +0000",
-    "timestamp": 1784687586.0,
-    "isoDate": "2026-07-22T02:33:06+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/07/17/Figure-1-PSNR-compared-to-bitrate-–-1920x1080-generation-1.png"
   }
 ]

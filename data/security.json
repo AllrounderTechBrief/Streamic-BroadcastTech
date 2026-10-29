@@ -1,5 +1,104 @@
 [
   {
+    "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+    "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+    "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves c…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 20:50:29 +0530",
+    "timestamp": 1793287229.0,
+    "isoDate": "2026-10-29T15:20:29+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ij0gwe-L1jDZxdoUPZ6hpSJnJgMHh2bG8bFF2y8y-dJA9nY0Fr2JOU2i4NaCetGqvTZOtvaRXbZONR6d8ajjMR6DNm_X7OwaVCiH7dPycEN9xGI0psNvPYbwDhpGmUQ4Qyhp5x9fqQ_sgzjcReslK-a-gRS3kFr5_JOns1kkuC6UheDHVb2yaV8EAhIF/s1600/claude-hack.jpg"
+  },
+  {
+    "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+    "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+    "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 19:12:40 +0530",
+    "timestamp": 1793281360.0,
+    "isoDate": "2026-10-29T13:42:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1600/google-gemini.jpg"
+  },
+  {
+    "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+    "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+    "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move t…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 17:09:41 +0530",
+    "timestamp": 1793273981.0,
+    "isoDate": "2026-10-29T11:39:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg"
+  },
+  {
+    "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+    "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+    "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the f…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 17:09:18 +0530",
+    "timestamp": 1793273958.0,
+    "isoDate": "2026-10-29T11:39:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzUg6G-A4KdRvBuhj9LZ93cFfXfvMNkg3dJO0H9sfNJ3MTlecsgLEMIk5TnIrdl2N6UGB8D9rlqLduGEZVm7X-XrWZr6Xh5ZrVp38x5uTd1vHyHGcjRR2N3gctNen-CBSz8JihnNL57galBoeOVKwG5w3qsOZnqmGYdkxzjurrI3QWolmS1Qfz_E_Wog/s1600/telegram.jpg"
+  },
+  {
+    "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+    "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+    "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 17:03:41 +0530",
+    "timestamp": 1793273621.0,
+    "isoDate": "2026-10-29T11:33:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDZvKBLpFrPhWNRvVvRjmTtgwdpGykJjCmzNWNaytIUO2C9VadEDZjeY35hq6H33jHDxV7kAOMTyOV7RO_YUG2caQ75nA_NstH_GxfRJo57n970u4ACXwZXoKl8mizESwgP9wulusqUmSnZwjFNHIJZ2hk_VzrlCJ5HBD9_8zs8Fj1WZULiZoZMD9G9D8/s1600/conf.jpg"
+  },
+  {
+    "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+    "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+    "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann foun…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 17:03:15 +0530",
+    "timestamp": 1793273595.0,
+    "isoDate": "2026-10-29T11:33:15+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVszv5076OudfiraNA4yh_XuzZZof-jYaklwUgiY700oPMvBHQfKHx-8yLNwhF9NVXahFRvWwU7c0mPCsIG-GUo45Fi_LT6ecZMsaRUfaLIL6eK16qeku1PO5aMTQRV0VKJh-pjKG4rC-RyajCGjL4R_A5W6YPsps4B4-GhEbstuAN7AnelVJPwIFK5W-/s1600/gite.jpg"
+  },
+  {
+    "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+    "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+    "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerabili…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 16:14:46 +0530",
+    "timestamp": 1793270686.0,
+    "isoDate": "2026-10-29T10:44:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqTkl_DfXdrvaLinBOu5OU0NISVo_mPJfqRmnHL-m8efFXEijbxOVsFgrSPparCspKfoUtxDtfA7gu8myFTfvWCFJfse3BQakKGOZCA54pWh371KyXdluHyqjckIBFjZ36Ogv1EI42yDCO2dt02noigEyL2RKJ8lEivH3PCWJURryc1JtNO9djpeW88tJ/s1600/cisco-flaws.jpg"
+  },
+  {
+    "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+    "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+    "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malic…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 15:56:33 +0530",
+    "timestamp": 1793269593.0,
+    "isoDate": "2026-10-29T10:26:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7hXo0MoiQiXCSLnOj0h2YUqDhIHl13Le4XxOU3UxV7X2mm4_YGJKOT6akyW58uRaMhslGN6NY9B_1u7V-y_fy0kYJHKoVA-yBWVt53xqBk06_syRpASgWezvnVIZs9goRlwNrp_HMVj_Pu8rzXmIsfJBV1YzhJ8IAd-1g7FFVhFWqc9HegTk4Jok5kR9/s1600/github.gif"
+  },
+  {
+    "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+    "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+    "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attack…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 29 Oct 2026 14:35:39 +0530",
+    "timestamp": 1793264739.0,
+    "isoDate": "2026-10-29T09:05:39+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65eroK1pQacKJwqeGmgp2sDta1mgCrPuNMXiwAgTi-FVZNc1V4D7qooFFc-V-XNOJzYpjYk28Y_kIkoHMNJfnQ5h2gI0-bOWlVOt9VJ9oZUpRsBzYLsSMe3oNRTfZe53dtpezOOq1MHmWhEhAigbyOMLx4jWAbcvvImY39jY1h4FMS4_OUqSDF-kZJvQ/s1600/linux-gitlab.jpg"
+  },
+  {
     "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
     "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
     "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt tr…",
@@ -229,104 +328,5 @@
     "timestamp": 1793109549.0,
     "isoDate": "2026-10-27T13:59:09+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg"
-  },
-  {
-    "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-    "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-    "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 17:39:50 +0530",
-    "timestamp": 1793102990.0,
-    "isoDate": "2026-10-27T12:09:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg"
-  },
-  {
-    "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-    "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-    "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 17:16:00 +0530",
-    "timestamp": 1793101560.0,
-    "isoDate": "2026-10-27T11:46:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg"
-  },
-  {
-    "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-    "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-    "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organiza…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 17:02:46 +0530",
-    "timestamp": 1793100766.0,
-    "isoDate": "2026-10-27T11:32:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCX1RKz1isf0HwbYOFkKneC7maFNTVr0q0LTVHBsoGhEN5w7ZOfSLYqfq_6-oKzf51Vb3FJTVla21T-RrWus7Dxadw81UmqDBbw8rIWxfbBhPdI5tyAUQZSYwYaq9JetgW4_4yl1qbWU7ScrdxYjoTCot6v9gXMIyjsk4W66Z531z5oHaHHEguj6_EISU/s1600/keeper-password.jpg"
-  },
-  {
-    "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-    "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-    "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment ma…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 17:02:31 +0530",
-    "timestamp": 1793100751.0,
-    "isoDate": "2026-10-27T11:32:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg"
-  },
-  {
-    "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-    "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-    "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 15:03:06 +0530",
-    "timestamp": 1793093586.0,
-    "isoDate": "2026-10-27T09:33:06+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg"
-  },
-  {
-    "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-    "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-    "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem be…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 13:52:43 +0530",
-    "timestamp": 1793089363.0,
-    "isoDate": "2026-10-27T08:22:43+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsIWTk2-hgeO3hAG2ohh1yrK20QoX_O0WDYRc83Q9qg-Igk4mEbzap014Pya2lSNiYEvbRIzilTYToybQVVtR3sQH84nJj-kd8tGWOqW3D-ylLpwcxOfvONGVSzjNuu5piwltyECtuezAw4Q8R7S3lvH_g2z3EpDT_EuOOEJg1-FRrChaADA4S6scQkU/s1600/chatgpt-compact.jpg"
-  },
-  {
-    "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-    "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video str…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 12:04:47 +0530",
-    "timestamp": 1793082887.0,
-    "isoDate": "2026-10-27T06:34:47+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg"
-  },
-  {
-    "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-    "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, b…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 10:07:59 +0530",
-    "timestamp": 1793075879.0,
-    "isoDate": "2026-10-27T04:37:59+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg"
-  },
-  {
-    "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-    "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-    "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 26 Oct 2026 23:42:22 +0530",
-    "timestamp": 1793038342.0,
-    "isoDate": "2026-10-26T18:12:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh3aURB79okzf_mo3sPzJy6vKRiWdPc4gyrE93xmMW-MRgYHrOuJ5yya0TpovJvi-2ol3GubNo5ir76ui-2jBo1jUvOd45Z8f98YeGVAECGcwgpRetuyxFxGWY8bBOB4a0G1H5YiYoYJ3Kd8YauFJGUIVTKYVHsLrvDElRe8sOuD4Y8CKMrAtCA6eJazr/s1600/m-code.jpg"
   }
 ]
