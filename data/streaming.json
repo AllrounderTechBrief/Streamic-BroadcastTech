@@ -1,5 +1,16 @@
 [
   {
+    "title": "Cloudflare services for private origins is now generally available",
+    "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
+    "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 30 Oct 2026 14:23:43 GMT",
+    "timestamp": 1793370223.0,
+    "isoDate": "2026-10-30T14:23:43+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW44TXMXRJ1NFA38CJB0MT3A.png"
+  },
+  {
     "title": "Experience the future of Media and Entertainment, Sports, and Advertising Technology at AWS re:Invent 2026",
     "link": "https://aws.amazon.com/blogs/media/experience-the-future-of-media-and-entertainment-sports-and-advertising-technology-at-aws-reinvent-2026/",
     "summary": "The biggest week in cloud and AI is quickly approaching, with the Amazon Web Services (AWS) re:Invent conference set for November 30-December 4, 2026 in Las Vegas, NV. This year, attendees can experience how the cloud and AI are fundamental…",
@@ -284,17 +295,6 @@
     "timestamp": 1792069200.0,
     "isoDate": "2026-10-15T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4YQC03MMFYZ10P30YWNWGG4.png"
-  },
-  {
-    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-    "link": "https://blog.cloudflare.com/yandex-outage/",
-    "summary": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 14 Oct 2026 20:24:19 GMT",
-    "timestamp": 1792009459.0,
-    "isoDate": "2026-10-14T20:24:19+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4Y142SWPQXA8GMMX3DTNYBY.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
