@@ -1,5 +1,27 @@
 [
   {
+    "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+    "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 30 Oct 2026 12:57:05 +0530",
+    "timestamp": 1793345225.0,
+    "isoDate": "2026-10-30T07:27:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1600/github-cisco.jpg"
+  },
+  {
+    "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+    "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+    "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 30 Oct 2026 09:44:59 +0530",
+    "timestamp": 1793333699.0,
+    "isoDate": "2026-10-30T04:14:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1600/Binance.jpg"
+  },
+  {
     "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
     "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
     "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and…",
@@ -306,27 +328,5 @@
     "timestamp": 1793167498.0,
     "isoDate": "2026-10-28T06:04:58+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgiU-iVEycp9z-2dprGJhgl046M9ZvG7kGGwaXNzgFJg7XDubOoWWLvEuKAOczIcGuXU04db46Xa6pRMKO36ZS7Fu8Xkv7mNuPjHUS0zLTHkGlNWNRD2DLCznPf6jqvqamZSZGMBXSzh9gMYm-9sR-y7OgN7i7n6x0dfYxyl9QftWlfuQw0mpTteHy57k/s1600/sh.jpg"
-  },
-  {
-    "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-    "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 28 Oct 2026 11:12:26 +0530",
-    "timestamp": 1793166146.0,
-    "isoDate": "2026-10-28T05:42:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s1600/cisa-warning.jpg"
-  },
-  {
-    "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
-    "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-    "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analy…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 27 Oct 2026 23:56:46 +0530",
-    "timestamp": 1793125606.0,
-    "isoDate": "2026-10-27T18:26:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg"
   }
 ]

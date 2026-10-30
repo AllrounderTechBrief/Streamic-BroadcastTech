@@ -1,5 +1,16 @@
 [
   {
+    "title": "Experience the future of Media and Entertainment, Sports, and Advertising Technology at AWS re:Invent 2026",
+    "link": "https://aws.amazon.com/blogs/media/experience-the-future-of-media-and-entertainment-sports-and-advertising-technology-at-aws-reinvent-2026/",
+    "summary": "The biggest week in cloud and AI is quickly approaching, with the Amazon Web Services (AWS) re:Invent conference set for November 30-December 4, 2026 in Las Vegas, NV. This year, attendees can experience how the cloud and AI are fundamental…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 30 Oct 2026 02:52:43 +0000",
+    "timestamp": 1793328763.0,
+    "isoDate": "2026-10-30T02:52:43+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Unified multimodal search across live events and VOD assets on AWS",
     "link": "https://aws.amazon.com/blogs/media/unified-multimodal-search-across-live-events-and-vod-assets-on-aws/",
     "summary": "This post describes how a multi-leg hybrid search architecture solves this problem by combining vector similarity and keyword matching across multiple embedding channels in a single query, with results spanning both live events (searchable …",
@@ -427,16 +438,5 @@
     "timestamp": 1788185347.0,
     "isoDate": "2026-08-31T14:09:07+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/30/Figure-1-Live-profanity-detection-and-filtering-architecture.png"
-  },
-  {
-    "title": "How Xytech AI cut media production scheduling from hours to minutes with AWS",
-    "link": "https://aws.amazon.com/blogs/media/how-xytech-ai-cut-media-production-scheduling-from-hours-to-minutes-with-aws/",
-    "summary": "Launched at NAB Show 2026, Xytech AI is the first step in a much larger vision: making the full depth of the Xytech media operations platform accessible through natural language.",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Sun, 30 Aug 2026 14:26:38 +0000",
-    "timestamp": 1788099998.0,
-    "isoDate": "2026-08-30T14:26:38+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/27/Figure-1-XytechMCP-architecture-diagram.png"
   }
 ]
