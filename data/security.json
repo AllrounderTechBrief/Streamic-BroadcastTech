@@ -1,5 +1,71 @@
 [
   {
+    "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+    "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+    "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 02 Nov 2026 21:20:26 +0530",
+    "timestamp": 1793634626.0,
+    "isoDate": "2026-11-02T15:50:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbU6vLZjF0nlz7vqN6UVf3kN1IcdUfIpAmVWlh2II4gGbMMmSuiE1S8HLzP4JV-ImeCa64hU-cEaa-yGXWqUO_XHOurKtEw61DFvjGOJhM7gHpRPpegBcCFYrXkd59wGX-PoV6zm7z7uq6PpXjc4GLhDRzcinR5IIjcOVZEVl8FMQ0v0Dt3CV9sRxZNk/s1600/android-tv-botnet.jpg"
+  },
+  {
+    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+    "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+    "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 02 Nov 2026 20:16:05 +0530",
+    "timestamp": 1793630765.0,
+    "isoDate": "2026-11-02T14:46:05+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nIwDn7LIoF8OUZdj0NRjq4ZMu-xjzcOPQJDwouwkwqwVe618e77am9iyAIez63Q8jVqZi7OtU43gJlhbZT-_4l_4pUq3tYpDUe4ErouPlkNi8YTNZiPQ6KmX2Ci028oT24DRcPtCdKv_zZ33_ZHOodARrbmcwxYWCAx4r45Qc0qVOQNmCCoWZmAWJnzt/s1600/shelby-hacker.png"
+  },
+  {
+    "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+    "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+    "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 02 Nov 2026 17:20:00 +0530",
+    "timestamp": 1793620200.0,
+    "isoDate": "2026-11-02T11:50:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg"
+  },
+  {
+    "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+    "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+    "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 02 Nov 2026 17:00:00 +0530",
+    "timestamp": 1793619000.0,
+    "isoDate": "2026-11-02T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZbG_0dst_8ctvKrGx37rAninLXS6SIcKT4YjziNbu7bPmTPAsYvWo-Jkwj0UqT493VwmYVtvkthnEGLqTusFvJFo9fPth_VWjI2XNev9SKY-sePLY12rM5yWoQOzrvEXG0DWOWBb7N8GcdHNPqv6skeqGx2r2zGVlDeWkPnt5drMe_R2yh8TB8-kOCug/s1600/pro.jpg"
+  },
+  {
+    "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+    "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+    "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged acco…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 02 Nov 2026 16:38:45 +0530",
+    "timestamp": 1793617725.0,
+    "isoDate": "2026-11-02T11:08:45+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv88EM1ZSjaeI7bH9DVpg2mGdkwXWUuir0S_p9IfiWG49_TgRalFdK4oQ6e7UE_JYOnNH70Z6wcftnjhcYHRY-Xc0o8GYp9r1uNzxdC_1bnXZgvon74cXkWgKpHZtwJg3IKLsqGC2HS2tcMfQS8BZu7kfrW1vAaaIA316LRzgCOn8zeGZ1WvALgJmyM4/s1600/ms-ad.jpg"
+  },
+  {
+    "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+    "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+    "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 02 Nov 2026 16:19:59 +0530",
+    "timestamp": 1793616599.0,
+    "isoDate": "2026-11-02T10:49:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHKbP_7yOsvpwAldBMCL3QkCJ9SbUVrJz1Tr_RB6m3O99Gj73H0fX20hIbzKujRWB-1qkBCWv1UEJEbrTe1NFYpPkTm0OoNqJe7OdJoZa1HcZDT2On3mUT0igQeCOsMnWw_ZfT-HsLx6B8R84XYHHg4mUI2hPzM15ggddQCFAAmzChzC5Of90LInW8RB8/s1600/artex.jpg"
+  },
+  {
     "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
     "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
     "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical ste…",
@@ -262,71 +328,5 @@
     "timestamp": 1793273981.0,
     "isoDate": "2026-10-29T11:39:41+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg"
-  },
-  {
-    "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-    "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-    "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegra…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 29 Oct 2026 17:09:18 +0530",
-    "timestamp": 1793273958.0,
-    "isoDate": "2026-10-29T11:39:18+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzUg6G-A4KdRvBuhj9LZ93cFfXfvMNkg3dJO0H9sfNJ3MTlecsgLEMIk5TnIrdl2N6UGB8D9rlqLduGEZVm7X-XrWZr6Xh5ZrVp38x5uTd1vHyHGcjRR2N3gctNen-CBSz8JihnNL57galBoeOVKwG5w3qsOZnqmGYdkxzjurrI3QWolmS1Qfz_E_Wog/s1600/telegram.jpg"
-  },
-  {
-    "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-    "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-    "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 29 Oct 2026 17:03:41 +0530",
-    "timestamp": 1793273621.0,
-    "isoDate": "2026-10-29T11:33:41+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDZvKBLpFrPhWNRvVvRjmTtgwdpGykJjCmzNWNaytIUO2C9VadEDZjeY35hq6H33jHDxV7kAOMTyOV7RO_YUG2caQ75nA_NstH_GxfRJo57n970u4ACXwZXoKl8mizESwgP9wulusqUmSnZwjFNHIJZ2hk_VzrlCJ5HBD9_8zs8Fj1WZULiZoZMD9G9D8/s1600/conf.jpg"
-  },
-  {
-    "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-    "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-    "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann foun…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 29 Oct 2026 17:03:15 +0530",
-    "timestamp": 1793273595.0,
-    "isoDate": "2026-10-29T11:33:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVszv5076OudfiraNA4yh_XuzZZof-jYaklwUgiY700oPMvBHQfKHx-8yLNwhF9NVXahFRvWwU7c0mPCsIG-GUo45Fi_LT6ecZMsaRUfaLIL6eK16qeku1PO5aMTQRV0VKJh-pjKG4rC-RyajCGjL4R_A5W6YPsps4B4-GhEbstuAN7AnelVJPwIFK5W-/s1600/gite.jpg"
-  },
-  {
-    "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-    "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-    "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerabili…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 29 Oct 2026 16:14:46 +0530",
-    "timestamp": 1793270686.0,
-    "isoDate": "2026-10-29T10:44:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqTkl_DfXdrvaLinBOu5OU0NISVo_mPJfqRmnHL-m8efFXEijbxOVsFgrSPparCspKfoUtxDtfA7gu8myFTfvWCFJfse3BQakKGOZCA54pWh371KyXdluHyqjckIBFjZ36Ogv1EI42yDCO2dt02noigEyL2RKJ8lEivH3PCWJURryc1JtNO9djpeW88tJ/s1600/cisco-flaws.jpg"
-  },
-  {
-    "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-    "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-    "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malic…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 29 Oct 2026 15:56:33 +0530",
-    "timestamp": 1793269593.0,
-    "isoDate": "2026-10-29T10:26:33+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7hXo0MoiQiXCSLnOj0h2YUqDhIHl13Le4XxOU3UxV7X2mm4_YGJKOT6akyW58uRaMhslGN6NY9B_1u7V-y_fy0kYJHKoVA-yBWVt53xqBk06_syRpASgWezvnVIZs9goRlwNrp_HMVj_Pu8rzXmIsfJBV1YzhJ8IAd-1g7FFVhFWqc9HegTk4Jok5kR9/s1600/github.gif"
-  },
-  {
-    "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-    "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-    "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attack…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 29 Oct 2026 14:35:39 +0530",
-    "timestamp": 1793264739.0,
-    "isoDate": "2026-10-29T09:05:39+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65eroK1pQacKJwqeGmgp2sDta1mgCrPuNMXiwAgTi-FVZNc1V4D7qooFFc-V-XNOJzYpjYk28Y_kIkoHMNJfnQ5h2gI0-bOWlVOt9VJ9oZUpRsBzYLsSMe3oNRTfZe53dtpezOOq1MHmWhEhAigbyOMLx4jWAbcvvImY39jY1h4FMS4_OUqSDF-kZJvQ/s1600/linux-gitlab.jpg"
   }
 ]
