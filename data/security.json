@@ -1,5 +1,16 @@
 [
   {
+    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+    "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+    "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical ste…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 02 Nov 2026 11:21:07 +0530",
+    "timestamp": 1793598667.0,
+    "isoDate": "2026-11-02T05:51:07+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5V8QVweKn56_SnTCKZkhmOip6paz9noBrJn7znyZqUtFbOEaLuALQUNlmjcSAb7RIUW8GDETB6J0kFpQQe6vq7wAjk3ogxKUeQ0-2rKeO6TveLdqHNs9KnTN6zC6rwPzWE2IBWMokqQOUzAA0XPM2BWHTUTE7_U7XDfUGKTDIC1PYttxHGnAq_Kr_hMq/s1600/hacker-ai.jpg"
+  },
+  {
     "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
     "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
     "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's publi…",
@@ -24,7 +35,7 @@
   {
     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
     "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG…",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Choll…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Sun, 01 Nov 2026 12:33:00 +0530",
@@ -317,16 +328,5 @@
     "timestamp": 1793264739.0,
     "isoDate": "2026-10-29T09:05:39+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65eroK1pQacKJwqeGmgp2sDta1mgCrPuNMXiwAgTi-FVZNc1V4D7qooFFc-V-XNOJzYpjYk28Y_kIkoHMNJfnQ5h2gI0-bOWlVOt9VJ9oZUpRsBzYLsSMe3oNRTfZe53dtpezOOq1MHmWhEhAigbyOMLx4jWAbcvvImY39jY1h4FMS4_OUqSDF-kZJvQ/s1600/linux-gitlab.jpg"
-  },
-  {
-    "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-    "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-    "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt tr…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 29 Oct 2026 13:54:22 +0530",
-    "timestamp": 1793262262.0,
-    "isoDate": "2026-10-29T08:24:22+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuVB5nQJHwAnAATDQxAqD8KtWk7IpNvBqXQq6RPkqJ72joLVDp5dUDDdYmRHlrbUhJQpaQQ59p245XjotvW2DNx_fKk7cPp0wJUsK0z5IQY2jXA1oP-YcYKLtSdBXnZJDNECWOzX9tP3-12cKXJm2A1KKoBsu9CEiOYKbgJDVqvQt7YRF8Fzd706YumA/s1600/cisco-sdwan.jpg"
   }
 ]
