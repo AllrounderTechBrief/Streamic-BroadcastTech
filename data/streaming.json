@@ -1,5 +1,16 @@
 [
   {
+    "title": "See the agents, set the terms: new visibility and control for personal agents",
+    "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+    "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 04 Nov 2026 14:00:00 GMT",
+    "timestamp": 1793800800.0,
+    "isoDate": "2026-11-04T14:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1ZE3ZTGF9NEGGPF8SZNS.png"
+  },
+  {
     "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
     "link": "https://blog.cloudflare.com/zero-wire/",
     "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
@@ -284,17 +295,6 @@
     "timestamp": 1792414800.0,
     "isoDate": "2026-10-19T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M537RBT01XNYZ0RR0CP9PS55.png"
-  },
-  {
-    "title": "Continuous accountability for Verified bots",
-    "link": "https://blog.cloudflare.com/verified-bots-accountability/",
-    "summary": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 16 Oct 2026 13:00:00 GMT",
-    "timestamp": 1792155600.0,
-    "isoDate": "2026-10-16T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M51ZPERWNWYTD7Z36YMY80A8.01M51ZPFH7VV8EHQTMPJG9FHZ4.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
