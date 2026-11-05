@@ -1,5 +1,16 @@
 [
   {
+    "title": "Agents aren’t humans (but they kinda are)",
+    "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
+    "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 05 Nov 2026 17:03:04 GMT",
+    "timestamp": 1793898184.0,
+    "isoDate": "2026-11-05T17:03:04+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HXVQ0MH26TMB3HFFHA31DK.png"
+  },
+  {
     "title": "See the agents, set the terms: new visibility and control for personal agents",
     "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
     "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
@@ -284,17 +295,6 @@
     "timestamp": 1792432106.0,
     "isoDate": "2026-10-19T17:48:26+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCGDJHDMM9AVJKV73MJGX.png"
-  },
-  {
-    "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
-    "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
-    "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 19 Oct 2026 13:00:00 GMT",
-    "timestamp": 1792414800.0,
-    "isoDate": "2026-10-19T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M537RBT01XNYZ0RR0CP9PS55.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
