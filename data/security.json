@@ -1,5 +1,71 @@
 [
   {
+    "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+    "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+    "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Nov 2026 15:36:19 +0530",
+    "timestamp": 1793873179.0,
+    "isoDate": "2026-11-05T10:06:19+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg"
+  },
+  {
+    "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+    "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+    "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, su…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Nov 2026 14:43:28 +0530",
+    "timestamp": 1793870008.0,
+    "isoDate": "2026-11-05T09:13:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN85K3W5zv5BioRQjCRpIAYT4K8MjZxx0bP0wNETp_eeBQ8Rj_iScHZ0PVnak7dJnJB_tZs06nxCn3YB70aQrULSZVbcn_gLqAsRoN08bSj__9UGZ38PzHTeSqe1IdqZEvdY8fogrjg3xPvg4Kohb2lFGdIveD4jIZQYKugtN5dIc0nTDjlVZJeQBzASx/s1600/icloud.jpg"
+  },
+  {
+    "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+    "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+    "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) se…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Nov 2026 14:12:03 +0530",
+    "timestamp": 1793868123.0,
+    "isoDate": "2026-11-05T08:42:03+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1600/docker-ai.jpg"
+  },
+  {
+    "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+    "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+    "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Nov 2026 12:36:33 +0530",
+    "timestamp": 1793862393.0,
+    "isoDate": "2026-11-05T07:06:33+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg"
+  },
+  {
+    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Nov 2026 10:47:04 +0530",
+    "timestamp": 1793855824.0,
+    "isoDate": "2026-11-05T05:17:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg"
+  },
+  {
+    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+    "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+    "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype i…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Nov 2026 10:01:16 +0530",
+    "timestamp": 1793853076.0,
+    "isoDate": "2026-11-05T04:31:16+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg"
+  },
+  {
     "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
     "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
     "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and A…",
@@ -35,7 +101,7 @@
   {
     "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
     "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-    "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytic…",
+    "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web anal…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Wed, 04 Nov 2026 19:57:52 +0530",
@@ -262,71 +328,5 @@
     "timestamp": 1793684081.0,
     "isoDate": "2026-11-03T05:34:41+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLg0QvfH0SD_sz2pFnyrG6Zcs-ltrKaf42ZY7PYKTsA26Nu4alNeqarZZ9HGEjO0UJFr5Wfsb7WBSDYoRnGi6X1jXZ8_4xx1VJtYshtPXYX9DVJYu4lln_IqEhf-NQJC7MKWI1JVzzR5heu6O_OnWezfKsj3AnBs5NKVp5dOVgR-7XuKMIAiyiKflPlT9E/s1600/siemens-hack.jpg"
-  },
-  {
-    "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-    "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-    "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which car…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Nov 2026 11:04:37 +0530",
-    "timestamp": 1793684077.0,
-    "isoDate": "2026-11-03T05:34:37+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tflB6yfzJv3UijqJlfCikzOQx0NHz9AVTh13vDvWu-LfAfFfBDjGbKI79Cb3dd2Ca_ck2KNP46WwYKcuweVD9Wc1srFpRkBimsG-EQS567tR92Yyg1DKPWqhhZHc1sP71qHWQoUxndY2VzDlqVsd2gx2GPcMx7pjVG8ws13bfMKXDtqz5q7EiJ22Mmr_/s1600/wp.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-    "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-    "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Nov 2026 22:27:56 +0530",
-    "timestamp": 1793638676.0,
-    "isoDate": "2026-11-02T16:57:56+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03NmPVHpoxRjXKDh7s6v2Dav4D-MCSLBTLalEb9ScH_lLc4yQJWOW8QfTIBePp7Pcgo1qrq6MYuQvNeyb0LCvWO4E4e7BLQKEj-g3Z2LImj4CXV-UUGfVd-vVL0NGtxMMn50klhOLlyI3p6DXhIFf-LkMsST7LK4kh3gIjqlvBwOUgbKTq8-hRdvmfz46/s1600/rcap.jpg"
-  },
-  {
-    "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-    "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-    "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdo…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Nov 2026 21:20:26 +0530",
-    "timestamp": 1793634626.0,
-    "isoDate": "2026-11-02T15:50:26+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbU6vLZjF0nlz7vqN6UVf3kN1IcdUfIpAmVWlh2II4gGbMMmSuiE1S8HLzP4JV-ImeCa64hU-cEaa-yGXWqUO_XHOurKtEw61DFvjGOJhM7gHpRPpegBcCFYrXkd59wGX-PoV6zm7z7uq6PpXjc4GLhDRzcinR5IIjcOVZEVl8FMQ0v0Dt3CV9sRxZNk/s1600/android-tv-botnet.jpg"
-  },
-  {
-    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-    "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-    "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Nov 2026 20:16:05 +0530",
-    "timestamp": 1793630765.0,
-    "isoDate": "2026-11-02T14:46:05+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nIwDn7LIoF8OUZdj0NRjq4ZMu-xjzcOPQJDwouwkwqwVe618e77am9iyAIez63Q8jVqZi7OtU43gJlhbZT-_4l_4pUq3tYpDUe4ErouPlkNi8YTNZiPQ6KmX2Ci028oT24DRcPtCdKv_zZ33_ZHOodARrbmcwxYWCAx4r45Qc0qVOQNmCCoWZmAWJnzt/s1600/shelby-hacker.png"
-  },
-  {
-    "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-    "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-    "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Nov 2026 17:20:00 +0530",
-    "timestamp": 1793620200.0,
-    "isoDate": "2026-11-02T11:50:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg"
-  },
-  {
-    "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-    "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-    "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 02 Nov 2026 17:00:00 +0530",
-    "timestamp": 1793619000.0,
-    "isoDate": "2026-11-02T11:30:00+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZbG_0dst_8ctvKrGx37rAninLXS6SIcKT4YjziNbu7bPmTPAsYvWo-Jkwj0UqT493VwmYVtvkthnEGLqTusFvJFo9fPth_VWjI2XNev9SKY-sePLY12rM5yWoQOzrvEXG0DWOWBb7N8GcdHNPqv6skeqGx2r2zGVlDeWkPnt5drMe_R2yh8TB8-kOCug/s1600/pro.jpg"
   }
 ]
