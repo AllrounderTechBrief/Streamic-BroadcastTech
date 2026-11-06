@@ -1,5 +1,27 @@
 [
   {
+    "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+    "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+    "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Nov 2026 22:12:46 +0530",
+    "timestamp": 1793896966.0,
+    "isoDate": "2026-11-05T16:42:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg"
+  },
+  {
+    "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+    "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+    "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Thu, 05 Nov 2026 22:12:32 +0530",
+    "timestamp": 1793896952.0,
+    "isoDate": "2026-11-05T16:42:32+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif"
+  },
+  {
     "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
     "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
     "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And …",
@@ -306,27 +328,5 @@
     "timestamp": 1793703645.0,
     "isoDate": "2026-11-03T11:00:45+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyPfrBB7GYTnYsvVj2TxCv0pPwFh_PkVpdQcxuspKgQfbsX1p2kDSdokIyPqLsxSfBCkFPiTATfZxZRbouqkoqfEESL7CgA-MyXD61eQFluiQtdFZDyXQc_3EUAg71JWIHxq9MPVLrwwegvUVuiViE8AxsKH6iBVypWazO0wmCoaC3-D1Ih9Yw3vwN1FJ/s1600/russia-hackers.jpg"
-  },
-  {
-    "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-    "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running olde…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Nov 2026 14:01:48 +0530",
-    "timestamp": 1793694708.0,
-    "isoDate": "2026-11-03T08:31:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrr1rJlr2nztz8jEunAWtVXHyOHkJY2_KdeweNWBqwF18rmhPiFItEQ-yCex1vVsps856ArIDl7unaWJNiribZ9DgkmQ3o4pLa1BKQrjKEeFR63z4csXnBHah5wIp7H5xuUB7b1UIp06nk6BzLuxFW5aWh2g-PoLoZ74RjMOEUX7XdrDsHM1yFbjGHBzK8/s1600/btcpay.jpg"
-  },
-  {
-    "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-    "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-    "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability p…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Nov 2026 13:13:07 +0530",
-    "timestamp": 1793691787.0,
-    "isoDate": "2026-11-03T07:43:07+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg18lSM19IJpBCuAofy8CZNsJ-05CtvqxdL8BcHUS65fn_Oph-FAXqpdDE9c11G78nq7I1pVtt4XAotc_hszgea-QpNDTt-RzstD3k7yfXHP3JUnBViplsRzL_4q_LM-jujcv6NbMUUYBMWtJKSdKcBYlbSkm7Mx9LaTbVRW88uFh723nDOGYYDxiwkfYFr/s1600/synology-ransomware.jpg"
   }
 ]
