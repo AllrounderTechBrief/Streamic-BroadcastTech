@@ -1,5 +1,49 @@
 [
   {
+    "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+    "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+    "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 06 Nov 2026 17:36:43 +0530",
+    "timestamp": 1793966803.0,
+    "isoDate": "2026-11-06T12:06:43+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFEFFUv1MUNRoFx03Jcw0k5NZCU0EOf5qEpbvAEQoTSTzoxHWPk1rc7XgQeG1USPP9vVB0ePI_lzQLqBU5bHdQ7-YrwEXFo8gJwayqwCvCtcDrw1JYMxKYxieV3bcQeCRAJAxt8CRfifzMzL22_ab0Z0OxwWrNckC36gPEOnubZnzagv6DkV7iY4AQJfA/s1600/paint-rce.jpg"
+  },
+  {
+    "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+    "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+    "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature th…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 06 Nov 2026 17:36:35 +0530",
+    "timestamp": 1793966795.0,
+    "isoDate": "2026-11-06T12:06:35+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil2RWGFxPYdzFDr1Tl0G6604dLCacXJDMaR-i0nSdrR7vBGgK-lUkZbE5eZYMbWO0Geqw_rDbN2qUkWpEadukl6gccv-xuUWJfEOx2_FWFiZxjVs4uNPiRK3JYOBo0QI1Lx08xd9Iz3-8TFN_kf-njbCQ-AFDcLNNRy6JcwsZyoM12qLt99OzNQNhmaGs/s1600/claude-dispatch.jpg"
+  },
+  {
+    "title": "The Flood is Coming And The Pipes Were Already Full",
+    "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+    "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find,…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 06 Nov 2026 17:00:00 +0530",
+    "timestamp": 1793964600.0,
+    "isoDate": "2026-11-06T11:30:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhRlCxdfW4sb5-1zEBHpFyJfxetSva89fr67wc8zSfvidW5W4KQKckoTrRxOAUbjM94U2ydFjiXybLJPrp6pm1V-WUuC4IpkJjhIT56OG8go8E_8fR8cK-llV0UtXdRIxZS5XxuVwEbRj1G_zAErMjpkMHVdzkGBQrB46VErPyE7MBaW6sj0N64pRd3_A/s1600/FLOOD.jpg"
+  },
+  {
+    "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+    "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+    "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we re…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 06 Nov 2026 13:34:49 +0530",
+    "timestamp": 1793952289.0,
+    "isoDate": "2026-11-06T08:04:49+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSpb8lu1ytakNne4rJ58nWfLFrYtdR7MCyZ2prSaLKiAb2Bt_upvfAHl-slDTt_3h7zxFdhbPcLwzAkcHDjnvu2TNcVp6JsgJU6GI5GMvZrrmzZTUZDyeOhS0GnFV-YtazzzcgMFnUvkqKmpSr9FBrCXQhlyPZM9E8c7LPSxACwPhfJ4nFzIANqdaVXUd/s1600/chain-breach.jpg"
+  },
+  {
     "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
     "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
     "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers …",
@@ -284,49 +328,5 @@
     "timestamp": 1793724958.0,
     "isoDate": "2026-11-03T16:55:58+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZCMCR8h3YCPcfY8Fbe54ckYKh_YUt_Yd7v82dAHobZtMNlQl_JVKWUX4OUPwR0dEmYsLNfeKsW6rUthk8pYRVhIddbPXx86sHCcNBRL9E-9LJTPrYSYwJ_V66EwGJNFeoWgDPbjcGfeJ4w2qn_gfTjXBoNAnfWq4GZ8rq7VOhnqt4QlItYEBr3Zar7XL1/s1600/bin.jpg"
-  },
-  {
-    "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-    "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-    "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authe…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Nov 2026 21:29:19 +0530",
-    "timestamp": 1793721559.0,
-    "isoDate": "2026-11-03T15:59:19+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCvGJCkYjldhAvsjMo47UqxGOTfVY1zCcjZQzgebkO8j1__fa0cFOn3CAV1jPTUpzwDDISQKPQP5eVGOl9BzRLBX7KlWuU2HMpzuHRWV2wyaItDwYgPu0X7m3qE5V1kgFzKZ1QYcRBcZyDqkUTFberiOWXBfV_-suYC1QQWq_TwBMeyme4F0FsOZnpijhC/s1600/barracuda.png"
-  },
-  {
-    "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-    "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-    "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Nov 2026 21:11:53 +0530",
-    "timestamp": 1793720513.0,
-    "isoDate": "2026-11-03T15:41:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png"
-  },
-  {
-    "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-    "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-    "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Nov 2026 20:46:32 +0530",
-    "timestamp": 1793718992.0,
-    "isoDate": "2026-11-03T15:16:32+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png"
-  },
-  {
-    "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-    "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-    "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in test…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 03 Nov 2026 16:53:53 +0530",
-    "timestamp": 1793705033.0,
-    "isoDate": "2026-11-03T11:23:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdf8UfDHsjH9VaJGtYT5WgjtJ1G5YRMkjPWNeKn-hw05sM9ny0kW9L2eIc3UCiIQ7qmc_TmfrenS1WH8KiRBjln2hQS0X7DUlykxdHrzDgg4uoiHpiOf3fVTOnUuOt4618z3PN7hw1AfUch_y0Tot3ubTga5LEfyWnATkzegfQBSWxMbzNzJaGY18QqC8/s1600/linux-rce.jpg"
   }
 ]
