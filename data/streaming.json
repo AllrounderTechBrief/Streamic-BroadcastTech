@@ -1,5 +1,16 @@
 [
   {
+    "title": "Launching the Vite Ecosystem Fund",
+    "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+    "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Mon, 09 Nov 2026 13:00:00 GMT",
+    "timestamp": 1794229200.0,
+    "isoDate": "2026-11-09T13:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6SMAP95G344HRNFK6NRMGZN.png"
+  },
+  {
     "title": "The post-quantum future of web privacy",
     "link": "https://blog.cloudflare.com/vole-mole/",
     "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
@@ -22,7 +33,7 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HXVQ0MH26TMB3HFFHA31DK.png"
   },
   {
-    "title": "See the agents, set the terms: new visibility and control for personal agents",
+    "title": "See the agents, set the terms: New visibility and control for personal agents",
     "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
     "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
     "source": "Cloudflare Blog",
@@ -220,7 +231,7 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MYF3Y4CXM47ZAN16JYM04W.png"
   },
   {
-    "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+    "title": "Localizing compliance at scale: Achieving South Korea’s ISMS certification",
     "link": "https://blog.cloudflare.com/k-isms/",
     "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
     "source": "Cloudflare Blog",
@@ -284,17 +295,6 @@
     "timestamp": 1792501200.0,
     "isoDate": "2026-10-20T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5C82VPWPDDZ7P6P0G4H7KB3.png"
-  },
-  {
-    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-    "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-    "summary": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 19 Oct 2026 19:12:53 GMT",
-    "timestamp": 1792437173.0,
-    "isoDate": "2026-10-19T19:12:53+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M58N5J1Y9HY8N3R115KEY6NE.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",

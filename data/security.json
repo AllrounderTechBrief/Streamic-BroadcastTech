@@ -1,5 +1,93 @@
 [
   {
+    "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+    "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qub…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 23:21:21 +0530",
+    "timestamp": 1794246681.0,
+    "isoDate": "2026-11-09T17:51:21+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg"
+  },
+  {
+    "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+    "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+    "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 23:06:28 +0530",
+    "timestamp": 1794245788.0,
+    "isoDate": "2026-11-09T17:36:28+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg"
+  },
+  {
+    "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+    "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+    "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapR…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 20:01:29 +0530",
+    "timestamp": 1794234689.0,
+    "isoDate": "2026-11-09T14:31:29+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg"
+  },
+  {
+    "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+    "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+    "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become par…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 18:58:25 +0530",
+    "timestamp": 1794230905.0,
+    "isoDate": "2026-11-09T13:28:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s1600/rr.jpg"
+  },
+  {
+    "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+    "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+    "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engin…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 16:57:53 +0530",
+    "timestamp": 1794223673.0,
+    "isoDate": "2026-11-09T11:27:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI85M0pHHPiXe5ar2VpaGsBVRzxoYfZhpQTKgWqd8YGjK9Nyaca-z6XrGT3jT0lqh41qe-cAjb33_r7JErd7rB1CfuWkgTP_z-_IJkpQPWebz1GeEvSu9QpE5XYWRMOfhYTHmzhbkFB07hzSuV1FYARdaIWjfB_mUoX1_eMjl_3dOaSUFpTQvjt-34eQo/s1600/login-car.jpg"
+  },
+  {
+    "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+    "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+    "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that compa…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 16:26:25 +0530",
+    "timestamp": 1794221785.0,
+    "isoDate": "2026-11-09T10:56:25+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtevfYXrRQrcU5FKn33bfyWpqN9O6FlI2b1eWOTjNWWslLIM1wwUfpzedZdMvdw6BXqmYqM1PwO-8GH3_IpKOGa15uoiXx5yDTkAal7JOFSKisSYOAHBdRk9XImTowXaCyJlTwX-chPd7uJFCDEq8u9sKY7jW6UYxorQKUSyuH9pF3szdwejvN_HGhno/s1600/kep.jpg"
+  },
+  {
+    "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+    "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+    "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be ca…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 15:31:21 +0530",
+    "timestamp": 1794218481.0,
+    "isoDate": "2026-11-09T10:01:21+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg"
+  },
+  {
+    "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+    "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+    "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 14:31:50 +0530",
+    "timestamp": 1794214910.0,
+    "isoDate": "2026-11-09T09:01:50+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd53Ql49F0iuQEtdvfoxOLNTuQnYM5oGQkqnQ3ym4aIW-HVZuHtOqzyi0IdwUxpFj5qU_jbUEKzPXG4Wx7Uj7g2-UKDotvOh0_AlNlkEIpgLbEBDuQxDkuxDFlukNKKbWXXZv1xCeHEtoOQ_Z1XQUshkJmlBaOmGQzMbryg6KHbOdt8IR7MNQ5oADM-GM/s1600/CYBER-AI.jpg"
+  },
+  {
     "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
     "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
     "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made a…",
@@ -240,93 +328,5 @@
     "timestamp": 1793862393.0,
     "isoDate": "2026-11-05T07:06:33+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg"
-  },
-  {
-    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 05 Nov 2026 10:47:04 +0530",
-    "timestamp": 1793855824.0,
-    "isoDate": "2026-11-05T05:17:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg"
-  },
-  {
-    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-    "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-    "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and A…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 22:30:46 +0530",
-    "timestamp": 1793811646.0,
-    "isoDate": "2026-11-04T17:00:46+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPaNgRQEg3TU6-9BBgKse77CGVpbBFbn48cBnN1aanKvaMzk_mT74RxyWZA3_NbcrYe0UnRAQlELRYKGiGNrLUDcBMSKXFgRNxaND7RoaVFOs1Q7rkFFtlpoAzYQ7C8i6RAY4bNNTarEMUI-iFR4A_IfjIkFE9vpyQjG-0QFngy5cRE8f2GhGfTltkaI/s1600/linux-apt.jpg"
-  },
-  {
-    "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-    "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-    "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 22:30:38 +0530",
-    "timestamp": 1793811638.0,
-    "isoDate": "2026-11-04T17:00:38+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg"
-  },
-  {
-    "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-    "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-    "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomeno…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 21:36:43 +0530",
-    "timestamp": 1793808403.0,
-    "isoDate": "2026-11-04T16:06:43+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO7-xs-0dO1uqFLbfphgPbe8T7cbCLkrab6XhAjlNPVo-bLQOFw4mkcArqglQOvhuIYif4ohTAub-TNWlket6iguifshMRo3zBrYvM4G_IwFTtbh8ifIqh1Vuf8GuNmqDg_PB2Roy7yzYuTFhRrFM8wxOo8HVwfG9Y2eqJnq82LGYHnAKI5S6TuvZ_Q95A/s1600/ai-adware.jpg"
-  },
-  {
-    "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-    "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-    "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web anal…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 19:57:52 +0530",
-    "timestamp": 1793802472.0,
-    "isoDate": "2026-11-04T14:27:52+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1cus2o8fkYGLhQu9BfPgGtAUwnmTAMucLagfAodBuRoYnyxGIJKgpqtKFyCSV-WSG3pDqmPujhj-iwoOZB-zF8JjbQMrLzDHYtdTPA3hD3Kc3rqYQM4CQwkICwZkh8K6O8ZSt-WAA_PBoUA6lHwh_55dbDlKizsjzcTN847c9BSHsWHmrAP42JHRHIYS/s1600/ios-exploit.jpg"
-  },
-  {
-    "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-    "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-    "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advi…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 17:37:04 +0530",
-    "timestamp": 1793794024.0,
-    "isoDate": "2026-11-04T12:07:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJWnScdkMx0R5_Zt00NtYVNjNavBR7IMrLzJM_tZGMTpZtAvV7uNWt6BQbBrlUzH-aBoj_ZmMEOG__aTA8VmfTeiHUR9gfqNe2eYf9fSM-sYQkmCOg10qZ3ZaKyM_RS1QUQhm8s5NMw-xnYaWMDgDakmFyp9tbJgQ4hOZTf0cxe9E6x7uWt3JeN6bS3k/s1600/ruby-rails.jpg"
-  },
-  {
-    "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-    "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-    "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 17:16:27 +0530",
-    "timestamp": 1793792787.0,
-    "isoDate": "2026-11-04T11:46:27+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAVPXiuTBfhBnpwaZHMfSDWymKJrXbS88kOEO1Xuh5t11qAnwSKeFTHGQy6ZG9Sr2N-wRYrJg58x3lKFbybvU9p1a85lxaCHfBa61vO1DfjEhUi5Yzf6bQS1eN7Mu-s_sUwkE-JGc-UznJ1p0qfmwMDusXFzWawXKXMt6jj-vENxyQG12uAUDUe0p0gtg/s1600/xen.jpg"
-  },
-  {
-    "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-    "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-    "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never t…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 17:04:20 +0530",
-    "timestamp": 1793792060.0,
-    "isoDate": "2026-11-04T11:34:20+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqFIm3V3DsL6rHtjhkN8qVT2sU-caHUEuPgeepdZ6lLsIJ-09GFg_HVVBgeHP36W0abqUeCuaNuAOIheSGYB9hxmHbQGcgREBBxStEFLijgx-Cd8C8Z8wLuxgFFu75O8hAAOcdjAxgCZ-iYoBvYS09AcITdqMnmLZOn2JdGaEp04SPrgYkgQ14dl1S0JS/s1600/reco.gif"
   }
 ]
