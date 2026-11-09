@@ -1,5 +1,38 @@
 [
   {
+    "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+    "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+    "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 12:35:48 +0530",
+    "timestamp": 1794207948.0,
+    "isoDate": "2026-11-09T07:05:48+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MuMJQQRaLilGnzYMqgighbIcm726E965P9JqACVPbah4ID7WePGRjwdlaYG3BUIUPB3vkX9Xzs7sXIEuU9ZoEcPo-2N__SwxcCk_IhbrH-9IhJjeW0Go2d9TGw2ZJcqMLquHLOfQVn0JCQhDrKsZujSFFsenYB28oTBnFyUWBQNmS_DVmjaxUWxXxgjT/s1600/openai.jpg"
+  },
+  {
+    "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+    "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+    "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors ma…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 11:45:10 +0530",
+    "timestamp": 1794204910.0,
+    "isoDate": "2026-11-09T06:15:10+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg"
+  },
+  {
+    "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+    "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploite…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Mon, 09 Nov 2026 11:35:24 +0530",
+    "timestamp": 1794204324.0,
+    "isoDate": "2026-11-09T06:05:24+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg"
+  },
+  {
     "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
     "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
     "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant c…",
@@ -295,38 +328,5 @@
     "timestamp": 1793792060.0,
     "isoDate": "2026-11-04T11:34:20+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqFIm3V3DsL6rHtjhkN8qVT2sU-caHUEuPgeepdZ6lLsIJ-09GFg_HVVBgeHP36W0abqUeCuaNuAOIheSGYB9hxmHbQGcgREBBxStEFLijgx-Cd8C8Z8wLuxgFFu75O8hAAOcdjAxgCZ-iYoBvYS09AcITdqMnmLZOn2JdGaEp04SPrgYkgQ14dl1S0JS/s1600/reco.gif"
-  },
-  {
-    "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-    "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-    "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign de…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 16:54:31 +0530",
-    "timestamp": 1793791471.0,
-    "isoDate": "2026-11-04T11:24:31+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMawvNNOvRYRm-k7ii9yDdw214v4kwQ7h5fAfOaUVkvMetNwArral8qumlObtaftjOcBsibL9vkqM1UT0-9l9jYPjj3M3C9NcPfg5pdIuENUfdKlK7lyseCS30AVhgLLs6a-2fdXlSDymSVeyIziO7IC13HFCaOf1v4sjbgmkeKfewWNsbTJCJ0WR2zLBZ/s1600/key.jpg"
-  },
-  {
-    "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-    "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-    "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international compa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 13:47:11 +0530",
-    "timestamp": 1793780231.0,
-    "isoDate": "2026-11-04T08:17:11+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvVXRk9XWLvV5V7-gF-fqxa3YEEGpquE2Q8rML0rLK7ieZAbLJLqsHS6Sk012cwUslyYApJRP4b8SvmPCyATY2SbWpuhWILK0MRglNFqH5l5rVhTjSaJunpjWvbt8O9_UUnZnuxMJ26k5S4aQNj6pMBJLhY0gfn4zIY0Ot6m-gkntqxJiU4qgoAL3641pw/s1600/russia-hackerss.jpg"
-  },
-  {
-    "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-    "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-    "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with securit…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Wed, 04 Nov 2026 13:16:15 +0530",
-    "timestamp": 1793778375.0,
-    "isoDate": "2026-11-04T07:46:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm9fDI_lHL64S1r-eoB5-99WagZJBIjKDF-bEJ9egJw_EiLUomXSakGnV0vdq9Fqu2j6KVWM4upLmOwweDCKQ32f21W8CTsQHnoGMhFm-ISPNQEg1Jq5WbDujqLHVkGSEsox0Xd3Yc5Dd-v4-6rdzU4akd97y7cBhRYFO2ofmxpf3HYspJ6MkJs2RtfC4/s1600/android-patch.jpg"
   }
 ]

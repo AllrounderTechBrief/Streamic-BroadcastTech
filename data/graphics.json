@@ -1,5 +1,27 @@
 [
   {
+    "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+    "summary": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 09 Nov 2026 05:05:00 +0000",
+    "timestamp": 1794200700.0,
+    "isoDate": "2026-11-09T05:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=2048&h=1359&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "Ozone Hole Reaches Its 2026 Maximum",
+    "link": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+    "summary": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Mon, 09 Nov 2026 05:00:00 +0000",
+    "timestamp": 1794200400.0,
+    "isoDate": "2026-11-09T05:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg?w=1440&h=1480&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
     "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
     "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
     "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.…",
@@ -374,17 +396,6 @@
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=2048&h=1460&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
-    "title": "Taking a Gander at Utah’s Goosenecks",
-    "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
-    "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Fri, 06 Nov 2026 05:01:00 +0000",
-    "timestamp": 1793941260.0,
-    "isoDate": "2026-11-06T05:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/ISS075-E-188830.jpg?w=2048&h=1365&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
     "title": "New York Times Enters Exclusive Talks To Buy Letterboxd For $330M",
     "link": "https://tvnewscheck.com/business/article/new-york-times-enters-exclusive-talks-to-buy-letterboxd-for-330m/",
     "summary": "The potential deal would expand the New York Times Co.’s digital portfolio with a film-focused social platform. The post New York Times Enters Exclusive Talks To Buy Letterboxd For $330M appeared first on TV News Check.",
@@ -427,17 +438,6 @@
     "timestamp": 1793922836.0,
     "isoDate": "2026-11-05T23:53:56+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Midwestern City Lights",
-    "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-    "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and th…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Thu, 05 Nov 2026 15:17:19 +0000",
-    "timestamp": 1793891839.0,
-    "isoDate": "2026-11-05T15:17:19+00:00",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg?w=2048"
   },
   {
     "title": "How Carbonite HyperMax gives sports broadcasters a shared resource pool",
