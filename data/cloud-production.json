@@ -1,5 +1,16 @@
 [
   {
+    "title": "Scaling real-time bidding and publisher monetization with the AWS Video Streaming Advertising Lens",
+    "link": "https://aws.amazon.com/blogs/media/scaling-real-time-bidding-and-publisher-monetization-with-the-aws-video-streaming-advertising-lens/",
+    "summary": "At Amazon Web Services (AWS), we’re excited to announce our next evolution of the AWS Well-Architected Video Streaming Advertising (VSA) Lens. A Well-Architected Lens extends the AWS Well-Architected Framework with industry-specific or tech…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 10 Nov 2026 18:51:51 +0000",
+    "timestamp": 1794336711.0,
+    "isoDate": "2026-11-10T18:51:51+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Experience the future of Media and Entertainment, Sports, and Advertising Technology at AWS re:Invent 2026",
     "link": "https://aws.amazon.com/blogs/media/experience-the-future-of-media-and-entertainment-sports-and-advertising-technology-at-aws-reinvent-2026/",
     "summary": "The biggest week in cloud and AI is quickly approaching, with the Amazon Web Services (AWS) re:Invent conference set for November 30-December 4, 2026 in Las Vegas, NV. This year, attendees can experience how the cloud and AI are fundamental…",
@@ -207,16 +218,5 @@
     "timestamp": 1788210016.0,
     "isoDate": "2026-08-31T21:00:16+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "How PGA TOUR automated live profanity detection with AWS using Amazon Transcribe",
-    "link": "https://aws.amazon.com/blogs/media/how-pga-tour-automated-live-profanity-detection-with-aws-using-amazon-transcribe/",
-    "summary": "In this post, we share how the PGA TOUR automated their approach with an AI-powered profanity detection and filtering system built on Amazon Transcribe. The solution meant that experienced production staff could take on higher value creativ…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 31 Aug 2026 14:09:07 +0000",
-    "timestamp": 1788185347.0,
-    "isoDate": "2026-08-31T14:09:07+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/30/Figure-1-Live-profanity-detection-and-filtering-architecture.png"
   }
 ]

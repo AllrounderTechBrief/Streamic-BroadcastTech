@@ -1,5 +1,60 @@
 [
   {
+    "title": "Adobe upgrades creative suite",
+    "link": "https://www.tvbeurope.com/production-post/adobe-upgrades-creative-suite",
+    "summary": "In addition to new tools, Adobe Creative Agent is available across Creative Cloud and Adobe Firefly, aiming to widen access for creators at all levels The post Adobe upgrades creative suite appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 10 Nov 2026 16:58:34 +0000",
+    "timestamp": 1794329914.0,
+    "isoDate": "2026-11-10T16:58:34+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/FF-AIA-No-Logo-4-copy-726x408.jpg"
+  },
+  {
+    "title": "RØDE Capture now available for Android",
+    "link": "https://www.newsshooter.com/2026/11/10/rode-capture-now-available-for-android/",
+    "summary": "RØDE has released RØDE Capture for Android. The free video recording app, which launched on iOS in 2023, combines basic camera controls with in-app control of compatible RØDE microphones. It’s now available on the Google Play Store. Feature…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 10 Nov 2026 14:48:28 +0000",
+    "timestamp": 1794322108.0,
+    "isoDate": "2026-11-10T14:48:28+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Hollyland PYRO 7 Ultra Review",
+    "link": "https://www.newsshooter.com/2026/11/10/hollyland-pyro-7-ultra-review/",
+    "summary": "The Hollyland PYRO 7 Ultra is a professional all-in-one 7-inch wireless monitor that integrates wireless connectivity and monitoring into a single, highly portable device. The 7″ TX/RX monitor will work with the Pyro Ultra, Pyro H, Pyro S w…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 10 Nov 2026 14:23:06 +0000",
+    "timestamp": 1794320586.0,
+    "isoDate": "2026-11-10T14:23:06+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "OWC Upgrades ThunderBay 4 with Thunderbolt 5 & up to 128TB of capacity",
+    "link": "https://www.newsshooter.com/2026/11/10/owc-upgrades-thunderbay-4-with-thunderbolt-5-up-to-128tb-of-capacity/",
+    "summary": "OWC has announced that it has added Thunderbolt 5 capabilities to its flagship OWC ThunderBay 4 RAID solution. Capacity has also been expanded up to 128TB. Key features “OWC ThunderBay 4 has been a customer favorite for over a decade – and …",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 10 Nov 2026 14:20:07 +0000",
+    "timestamp": 1794320407.0,
+    "isoDate": "2026-11-10T14:20:07+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Avid Ready to Play",
+    "link": "https://www.newsshooter.com/2026/11/10/avid-ready-to-play/",
+    "summary": "Avid has announced Ready to Play, which brings new AI creative capabilities to Media Composer. It was designed to give editors new ways to experiment and test ideas while still keeping creative control. I think a lot of companies are trying…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 10 Nov 2026 14:00:53 +0000",
+    "timestamp": 1794319253.0,
+    "isoDate": "2026-11-10T14:00:53+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Film and TV Charity: more than half of workers feel industry harmful to their mental health",
     "link": "https://www.tvbeurope.com/business/film-and-tv-charity-more-than-half-of-workers-feel-industry-harmful-to-their-mental-health",
     "summary": "The latest Looking Glass report found while some positive changes were reported, there is still room for progress in industry mental health The post Film and TV Charity: more than half of workers feel industry harmful to their mental health…",
@@ -297,50 +352,6 @@
     "imageUrl": ""
   },
   {
-    "title": "FxFactory PhotoAwake 3D for Final Cut Pro",
-    "link": "https://www.newsshooter.com/2026/11/05/fxfactory-photoawake-3d-for-final-cut-pro/",
-    "summary": "FxFactory PhotoAwake 3D for Final Cut Pro is a plug-in that can transform flat, 2D still photographs into immersive 3D-style scenes using AI-driven depth mapping and parallax camera movements. AI Depth Analysis provides tools that let you a…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 06 Nov 2026 00:32:51 +0000",
-    "timestamp": 1793925171.0,
-    "isoDate": "2026-11-06T00:32:51+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Avid Pro Tools 2026.11",
-    "link": "https://www.newsshooter.com/2026/11/05/avid-pro-tools-2026-11/",
-    "summary": "Avid has released Pro Tools 2026.11, which features AI-powered stem separation and a new Extensions format that brings third-party sound libraries and creative tools directly into Pro Tools. Pro Tools Extensions lets users access tools that…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 06 Nov 2026 00:20:36 +0000",
-    "timestamp": 1793924436.0,
-    "isoDate": "2026-11-06T00:20:36+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "iZotope Photon GPU-powered audio processing software",
-    "link": "https://www.newsshooter.com/2026/11/05/izotope-photon-gpu-powered-audio-processing-software/",
-    "summary": "iZotope has announced Photon, GPU-powered audio processing software that features 12 machine learning models and performs high-speed processing for noise removal and audio separation. It also supports direct input and output of video files.…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 05 Nov 2026 23:57:45 +0000",
-    "timestamp": 1793923065.0,
-    "isoDate": "2026-11-05T23:57:45+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "New Bluetooth HDT Standard",
-    "link": "https://www.newsshooter.com/2026/11/05/new-bluetooth-hdt-standard/",
-    "summary": "A new Bluetooth HDT Standard that provides approximately four times the data transfer rate, increased capacity, better energy efficiency, and enhanced reliability has been officially approved. The Bluetooth SIG (Bluetooth Special Interest G…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 05 Nov 2026 23:38:46 +0000",
-    "timestamp": 1793921926.0,
-    "isoDate": "2026-11-05T23:38:46+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Futureproofing the tech stack—investing in what matters",
     "link": "https://www.tvbeurope.com/production-post/futureproofing-the-tech-stack-investing-in-what-matters",
     "summary": "With cloud migration, AI and software-defined workflows expanding, Helen Dugdale hears from industry leaders about the importance of investing in the right technology The post Futureproofing the tech stack—investing in what matters appeared…",
@@ -427,16 +438,5 @@
     "timestamp": 1793788703.0,
     "isoDate": "2026-11-04T10:38:23+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Manchester Met and Versa Studios partner to drive future production expertise",
-    "link": "https://www.tvbeurope.com/business/manchester-met-and-versa-studios-partner-to-drive-future-production-expertise",
-    "summary": "The collaboration aims to explore the future of screen production in the age of immersive technologies and AI The post Manchester Met and Versa Studios partner to drive future production expertise appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 04 Nov 2026 09:42:48 +0000",
-    "timestamp": 1793785368.0,
-    "isoDate": "2026-11-04T09:42:48+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/High-Res_Manchester-Studios_198-726x408-1.jpg"
   }
 ]

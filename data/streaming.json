@@ -1,5 +1,16 @@
 [
   {
+    "title": "Scaling real-time bidding and publisher monetization with the AWS Video Streaming Advertising Lens",
+    "link": "https://aws.amazon.com/blogs/media/scaling-real-time-bidding-and-publisher-monetization-with-the-aws-video-streaming-advertising-lens/",
+    "summary": "At Amazon Web Services (AWS), we’re excited to announce our next evolution of the AWS Well-Architected Video Streaming Advertising (VSA) Lens. A Well-Architected Lens extends the AWS Well-Architected Framework with industry-specific or tech…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 10 Nov 2026 18:51:51 +0000",
+    "timestamp": 1794336711.0,
+    "isoDate": "2026-11-10T18:51:51+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Launching the Vite Ecosystem Fund",
     "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
     "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare.",
@@ -427,16 +438,5 @@
     "timestamp": 1788210016.0,
     "isoDate": "2026-08-31T21:00:16+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "How PGA TOUR automated live profanity detection with AWS using Amazon Transcribe",
-    "link": "https://aws.amazon.com/blogs/media/how-pga-tour-automated-live-profanity-detection-with-aws-using-amazon-transcribe/",
-    "summary": "In this post, we share how the PGA TOUR automated their approach with an AI-powered profanity detection and filtering system built on Amazon Transcribe. The solution meant that experienced production staff could take on higher value creativ…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Mon, 31 Aug 2026 14:09:07 +0000",
-    "timestamp": 1788185347.0,
-    "isoDate": "2026-08-31T14:09:07+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/30/Figure-1-Live-profanity-detection-and-filtering-architecture.png"
   }
 ]
