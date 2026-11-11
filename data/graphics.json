@@ -1,5 +1,38 @@
 [
   {
+    "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+    "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascin…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 11 Nov 2026 05:05:00 +0000",
+    "timestamp": 1794373500.0,
+    "isoDate": "2026-11-11T05:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "title": "HONORING ALL WHO SERVED",
+    "link": "https://tvnewscheck.com/business/article/honoring-all-who-served-5/",
+    "summary": "In honor of our veterans, TVNewsCheck will not publish our AM and PM newsletters today. They will return tomorrow. The post HONORING ALL WHO SERVED appeared first on TV News Check.",
+    "source": "TV News Check",
+    "category": "graphics",
+    "timeAgo": "Wed, 11 Nov 2026 05:01:00 +0000",
+    "timestamp": 1794373260.0,
+    "isoDate": "2026-11-11T05:01:00+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Water Surges Into Navajo Reservoir",
+    "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+    "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Wed, 11 Nov 2026 05:01:00 +0000",
+    "timestamp": 1794373260.0,
+    "isoDate": "2026-11-11T05:01:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg"
+  },
+  {
     "title": "Trump’s FCC Nominee Faces Questions On Brendan Carr’s War With ABC, Kimmel",
     "link": "https://tvnewscheck.com/regulation/article/trumps-fcc-nominee-faces-questions-on-brendan-carrs-war-with-abc-kimmel/",
     "summary": "Danielle Thumann Severs pledges to protect broadcasters’ free speech rights but declines to criticize the FCC chairman. The post Trump’s FCC Nominee Faces Questions On Brendan Carr’s War With ABC, Kimmel appeared first on TV News Check.",
@@ -363,17 +396,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Tom Brady & Jim Harbaugh Exec Produce ‘The Team: Michigan Football,’ Set To Debut On Fox This Month",
-    "link": "https://variety.com/2026/tv/news/tom-brady-jim-harbaugh-the-team-michigan-football-fox-1236942904/",
-    "summary": "The post Tom Brady & Jim Harbaugh Exec Produce ‘The Team: Michigan Football,’ Set To Debut On Fox This Month appeared first on TV News Check.",
-    "source": "TV News Check",
-    "category": "graphics",
-    "timeAgo": "Tue, 10 Nov 2026 11:31:47 +0000",
-    "timestamp": 1794310307.0,
-    "isoDate": "2026-11-10T11:31:47+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
     "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
     "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinatin…",
@@ -416,28 +438,6 @@
     "timestamp": 1794272748.0,
     "isoDate": "2026-11-10T01:05:48+00:00",
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05050_mcam_5050MR1101700012601677E01_DXXX.jpg?w=1328&h=1184&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Rubies on Mars?",
-    "link": "https://science.nasa.gov/blog/rubies-on-mars/",
-    "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studyin…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 09 Nov 2026 22:27:12 +0000",
-    "timestamp": 1794263232.0,
-    "isoDate": "2026-11-09T22:27:12+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846549705_738EBY_N0930000SRLC02503_0000LMJ.jpg?w=1648&h=1200&fit=clip&crop=faces%2Cfocalpoint"
-  },
-  {
-    "title": "Newest Sample, Oldest Rock?",
-    "link": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
-    "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previ…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Mon, 09 Nov 2026 22:25:52 +0000",
-    "timestamp": 1794263152.0,
-    "isoDate": "2026-11-09T22:25:52+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg?w=1648&h=1200&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "title": "How Carbonite HyperMax gives sports broadcasters a shared resource pool",
