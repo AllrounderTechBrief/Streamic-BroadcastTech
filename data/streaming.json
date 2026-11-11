@@ -1,5 +1,16 @@
 [
   {
+    "title": "Choosing QuePaxa, an unusual consensus algorithm",
+    "link": "https://blog.cloudflare.com/choosing-quepaxa/",
+    "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 11 Nov 2026 14:24:46 GMT",
+    "timestamp": 1794407086.0,
+    "isoDate": "2026-11-11T14:24:46+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M73MMXB6M86NA1F97GH7Q8TG.png"
+  },
+  {
     "title": "NFL and AWS Big Data Bowl will bridge the gap from college to the pros",
     "link": "https://aws.amazon.com/blogs/media/nfl-and-aws-big-data-bowl-will-bridge-the-gap-from-college-to-the-pros/",
     "summary": "The ninth annual Big Data Bowl, the NFL's flagship analytics competition, is taking a new direction. For the first time, participants will work with data that spans the full arc of a player's journey into the NFL, combining college statisti…",
@@ -306,17 +317,6 @@
     "timestamp": 1792534816.0,
     "isoDate": "2026-10-20T22:20:16+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5DK5FY53PEFH46MT990YMSR.png"
-  },
-  {
-    "title": "Introducing tsrs: A port of TypeScript to Rust",
-    "link": "https://blog.cloudflare.com/typescript-rust-port/",
-    "summary": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 20 Oct 2026 13:00:00 GMT",
-    "timestamp": 1792501200.0,
-    "isoDate": "2026-10-20T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5C82VPWPDDZ7P6P0G4H7KB3.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",

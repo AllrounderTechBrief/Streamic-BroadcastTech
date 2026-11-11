@@ -1,5 +1,60 @@
 [
   {
+    "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+    "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+    "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised enviro…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Nov 2026 21:04:27 +0530",
+    "timestamp": 1794411267.0,
+    "isoDate": "2026-11-11T15:34:27+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi08pEbJ7-HNwC0kJf517wnB6y8HwgKhMU-vxbhnCEh9KpWk1kmIjp_bb71k7GYfiTZNep3bcejvN7RmriF9_0RJnGGe9T5WB_nihCgxiDYOMl8mgDmI0Pm6ZFmPzf8HulQUxHjX3TncwmvqJIDPLyZBoHZpOahcMl7fehtwvT-oCxLzPec-KRtiScHT7wk/s1600/aws-secrets.jpg"
+  },
+  {
+    "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+    "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+    "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious ac…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Nov 2026 19:31:00 +0530",
+    "timestamp": 1794405660.0,
+    "isoDate": "2026-11-11T14:01:00+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5L1m-CqPOrgk9otByC4blBWuqDylovaSyHYhirRHQvzjjSUB0DBWbxnF_8cNIsONC6yoL3h-ydX61vmnsctKr_IbcnvmwRLAMqch16Ru5oMVuDWy1bilEt6EAgEerB7mUxICRgck1NkoJeA7Y2lvV0oqLkw12-f1xMhC7Dw5F1aK35NhVf3oZwj4WbfOT/s1600/qliksense.jpg"
+  },
+  {
+    "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+    "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+    "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Nov 2026 17:49:40 +0530",
+    "timestamp": 1794399580.0,
+    "isoDate": "2026-11-11T12:19:40+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54t26Pk-bNbcIXgu8KrKpT_zN1KxEov16xTFlJ8kiPJ3-btXjGUE1lb0ZpamQU5jUHwmxzxHpYLsAQfiaHQUu3gxCIUw2gsEYNwMjL6nRm_jWm6t_VdHJkz6xj3fAsmTZKP8Bbax1qdT98a_PY4ynv81njiDyPXvIIihl4dqXxxC9pMMf8-Mn9dziy_A/s1600/grokai.jpg"
+  },
+  {
+    "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+    "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+    "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an age…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Nov 2026 17:31:59 +0530",
+    "timestamp": 1794398519.0,
+    "isoDate": "2026-11-11T12:01:59+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB22NtEOE6ioVcc92S5bLfFX3tbKyjNkx0j8OmHekqWq6Od4h9DtFmbmdd74VzwHCh5h6NbWnBgHgKzC49DwS7QAgA0uH3eL7BvBnN9QJu3U5-oiy5ZFMN7PvaJTBqjP7TR5VMjzrGxjfOfjgBqs3lecFZnWGEYNDp_BJgklco1L_acBqGm1M_CvtfLaY/s1600/AI-AGENT.png"
+  },
+  {
+    "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+    "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+    "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, wh…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Nov 2026 17:30:53 +0530",
+    "timestamp": 1794398453.0,
+    "isoDate": "2026-11-11T12:00:53+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONLgT6piRm0O75Y6dzQY4L2RO8OQTlWaJbwSTHFDeh82Qiadl2PT9KI9r2jC1JbwS-TqPm3g1Ea0Q8I91FalXu2GZ0fBBnfId6-8ZWKABrBQZWg7nA1X6cHq7wgHK3rc2Y5YW4yb61TjxVyywyWprml6yhBgH-SBaTvXZF-50J8-mR5Q6cGhSgfuMUdk/s1600/emudhra.jpg"
+  },
+  {
     "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
     "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
     "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in…",
@@ -273,60 +328,5 @@
     "timestamp": 1794230905.0,
     "isoDate": "2026-11-09T13:28:25+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s1600/rr.jpg"
-  },
-  {
-    "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-    "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-    "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engin…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Nov 2026 16:57:53 +0530",
-    "timestamp": 1794223673.0,
-    "isoDate": "2026-11-09T11:27:53+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI85M0pHHPiXe5ar2VpaGsBVRzxoYfZhpQTKgWqd8YGjK9Nyaca-z6XrGT3jT0lqh41qe-cAjb33_r7JErd7rB1CfuWkgTP_z-_IJkpQPWebz1GeEvSu9QpE5XYWRMOfhYTHmzhbkFB07hzSuV1FYARdaIWjfB_mUoX1_eMjl_3dOaSUFpTQvjt-34eQo/s1600/login-car.jpg"
-  },
-  {
-    "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-    "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-    "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that compa…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Nov 2026 16:26:25 +0530",
-    "timestamp": 1794221785.0,
-    "isoDate": "2026-11-09T10:56:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtevfYXrRQrcU5FKn33bfyWpqN9O6FlI2b1eWOTjNWWslLIM1wwUfpzedZdMvdw6BXqmYqM1PwO-8GH3_IpKOGa15uoiXx5yDTkAal7JOFSKisSYOAHBdRk9XImTowXaCyJlTwX-chPd7uJFCDEq8u9sKY7jW6UYxorQKUSyuH9pF3szdwejvN_HGhno/s1600/kep.jpg"
-  },
-  {
-    "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-    "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-    "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be ca…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Nov 2026 15:31:21 +0530",
-    "timestamp": 1794218481.0,
-    "isoDate": "2026-11-09T10:01:21+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg"
-  },
-  {
-    "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-    "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-    "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Nov 2026 14:31:50 +0530",
-    "timestamp": 1794214910.0,
-    "isoDate": "2026-11-09T09:01:50+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd53Ql49F0iuQEtdvfoxOLNTuQnYM5oGQkqnQ3ym4aIW-HVZuHtOqzyi0IdwUxpFj5qU_jbUEKzPXG4Wx7Uj7g2-UKDotvOh0_AlNlkEIpgLbEBDuQxDkuxDFlukNKKbWXXZv1xCeHEtoOQ_Z1XQUshkJmlBaOmGQzMbryg6KHbOdt8IR7MNQ5oADM-GM/s1600/CYBER-AI.jpg"
-  },
-  {
-    "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-    "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-    "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made a…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Nov 2026 12:35:48 +0530",
-    "timestamp": 1794207948.0,
-    "isoDate": "2026-11-09T07:05:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MuMJQQRaLilGnzYMqgighbIcm726E965P9JqACVPbah4ID7WePGRjwdlaYG3BUIUPB3vkX9Xzs7sXIEuU9ZoEcPo-2N__SwxcCk_IhbrH-9IhJjeW0Go2d9TGw2ZJcqMLquHLOfQVn0JCQhDrKsZujSFFsenYB28oTBnFyUWBQNmS_DVmjaxUWxXxgjT/s1600/openai.jpg"
   }
 ]
