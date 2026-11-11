@@ -1,5 +1,16 @@
 [
   {
+    "title": "NFL and AWS Big Data Bowl will bridge the gap from college to the pros",
+    "link": "https://aws.amazon.com/blogs/media/nfl-and-aws-big-data-bowl-will-bridge-the-gap-from-college-to-the-pros/",
+    "summary": "The ninth annual Big Data Bowl, the NFL's flagship analytics competition, is taking a new direction. For the first time, participants will work with data that spans the full arc of a player's journey into the NFL, combining college statisti…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 11 Nov 2026 00:04:01 +0000",
+    "timestamp": 1794355441.0,
+    "isoDate": "2026-11-11T00:04:01+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Scaling real-time bidding and publisher monetization with the AWS Video Streaming Advertising Lens",
     "link": "https://aws.amazon.com/blogs/media/scaling-real-time-bidding-and-publisher-monetization-with-the-aws-video-streaming-advertising-lens/",
     "summary": "At Amazon Web Services (AWS), we’re excited to announce our next evolution of the AWS Well-Architected Video Streaming Advertising (VSA) Lens. A Well-Architected Lens extends the AWS Well-Architected Framework with industry-specific or tech…",
@@ -207,16 +218,5 @@
     "timestamp": 1788270696.0,
     "isoDate": "2026-09-01T13:51:36+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/26/Figure-1-Single-pipeline.png"
-  },
-  {
-    "title": "AWS at IBC 2026: How AI is transforming the way media gets made",
-    "link": "https://aws.amazon.com/blogs/media/aws-at-ibc-2026-how-ai-is-transforming-the-way-media-gets-made/",
-    "summary": "Check out the AWS IBC 2026 Attendee Guide for full demo details and a few programming highlights below.",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Mon, 31 Aug 2026 21:00:16 +0000",
-    "timestamp": 1788210016.0,
-    "isoDate": "2026-08-31T21:00:16+00:00",
-    "imageUrl": ""
   }
 ]
