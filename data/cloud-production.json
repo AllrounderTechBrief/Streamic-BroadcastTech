@@ -1,5 +1,16 @@
 [
   {
+    "title": "Implement a generative AI Andon Cord for live media workflows on AWS",
+    "link": "https://aws.amazon.com/blogs/media/implement-a-generative-ai-andon-cord-for-live-media-workflows-on-aws/",
+    "summary": "The generative AI Andon Cord pattern gives operators runtime controls to disable, roll back, or constrain AI features in live media workflows in seconds, without redeploying. This post shows how to implement it on AWS using AWS Lambda envir…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 12 Nov 2026 20:29:57 +0000",
+    "timestamp": 1794515397.0,
+    "isoDate": "2026-11-12T20:29:57+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/11/12/MEDIA-467-1.png"
+  },
+  {
     "title": "NFL and AWS Introduce Next Gen Trends",
     "link": "https://aws.amazon.com/blogs/media/nfl-and-aws-introduce-next-gen-trends/",
     "summary": "A first-of-its-kind interactive platform, Next Gen Trends is free to all fans, and goes beyond the box score to show the strategic identity of every team and the trends reshaping the league. Every NFL team has a fingerprint, a play style al…",
@@ -207,16 +218,5 @@
     "timestamp": 1788893968.0,
     "isoDate": "2026-09-08T18:59:28+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/08/5-live-event-channel-architecture-full@4x-2.png"
-  },
-  {
-    "title": "Bitmovin enhances streaming intelligence with Amazon Bedrock",
-    "link": "https://aws.amazon.com/blogs/media/bitmovin-enhances-streaming-intelligence-with-amazon-bedrock/",
-    "summary": "In this blog, learn how Amazon Web Services (AWS) Partner Bitmovin has developed the AI Session Interpreter powered by the Mistral 7B foundation model (FM) on Amazon Bedrock, a fully managed service that offers a choice of industry-leading …",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 01 Sep 2026 21:49:22 +0000",
-    "timestamp": 1788299362.0,
-    "isoDate": "2026-09-01T21:49:22+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/30/Bitmovin.jpg"
   }
 ]
