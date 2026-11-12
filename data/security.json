@@ -1,5 +1,16 @@
 [
   {
+    "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+    "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+    "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-1…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 11 Nov 2026 21:42:46 +0530",
+    "timestamp": 1794413566.0,
+    "isoDate": "2026-11-11T16:12:46+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhox0GUms6IXvet2jPVoQ5VlUIZ_V7C3iT4HI3qV-Pi7_KRybDyGKGlb2S0Z4uvih4ERjjnGOn9Prav0HpvqNNR3_HVs7W5o0wM0-XsTdp6ploM2Optp5ls97C0JU5DIqubY-lNcLvLia25Z2c__IZt8Ws1OjX0tGavbyvb_dXrltSKj-HJHijQJ9AdDxEB/s1600/zoom-prv.jpg"
+  },
+  {
     "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
     "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
     "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised enviro…",
@@ -317,16 +328,5 @@
     "timestamp": 1794234689.0,
     "isoDate": "2026-11-09T14:31:29+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-    "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-    "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become par…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 09 Nov 2026 18:58:25 +0530",
-    "timestamp": 1794230905.0,
-    "isoDate": "2026-11-09T13:28:25+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s1600/rr.jpg"
   }
 ]
