@@ -1,5 +1,16 @@
 [
   {
+    "title": "NFL and AWS Introduce Next Gen Trends",
+    "link": "https://aws.amazon.com/blogs/media/nfl-and-aws-introduce-next-gen-trends/",
+    "summary": "A first-of-its-kind interactive platform, Next Gen Trends is free to all fans, and goes beyond the box score to show the strategic identity of every team and the trends reshaping the league. Every NFL team has a fingerprint, a play style al…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 12 Nov 2026 15:01:33 +0000",
+    "timestamp": 1794495693.0,
+    "isoDate": "2026-11-12T15:01:33+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/11/11/Trends_Desktop_League-scaled.jpg"
+  },
+  {
     "title": "Choosing QuePaxa, an unusual consensus algorithm",
     "link": "https://blog.cloudflare.com/choosing-quepaxa/",
     "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it.",
@@ -427,16 +438,5 @@
     "timestamp": 1788299362.0,
     "isoDate": "2026-09-01T21:49:22+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/30/Bitmovin.jpg"
-  },
-  {
-    "title": "Build redundant live video workflows with AWS Elemental MediaConnect Router",
-    "link": "https://aws.amazon.com/blogs/media/build-redundant-live-video-workflows-with-aws-elemental-mediaconnect-router/",
-    "summary": "In this post, we assume that you’re familiar with MediaConnect Router inputs, outputs, and network interfaces. If you need a refresher, see Using the MediaConnect Router.",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 01 Sep 2026 13:51:36 +0000",
-    "timestamp": 1788270696.0,
-    "isoDate": "2026-09-01T13:51:36+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/08/26/Figure-1-Single-pipeline.png"
   }
 ]
