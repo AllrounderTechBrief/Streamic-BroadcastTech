@@ -1,5 +1,27 @@
 [
   {
+    "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+    "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+    "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 13 Nov 2026 19:26:07 GMT",
+    "timestamp": 1794597967.0,
+    "isoDate": "2026-11-13T19:26:07+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YN6VXD98D313GQ0MHPM2.png"
+  },
+  {
+    "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+    "link": "https://blog.cloudflare.com/spend-management/",
+    "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 13 Nov 2026 14:00:00 GMT",
+    "timestamp": 1794578400.0,
+    "isoDate": "2026-11-13T14:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M79507GNA08VSCSPAXM0NCC3.png"
+  },
+  {
     "title": "Implement a generative AI Andon Cord for live media workflows on AWS",
     "link": "https://aws.amazon.com/blogs/media/implement-a-generative-ai-andon-cord-for-live-media-workflows-on-aws/",
     "summary": "The generative AI Andon Cord pattern gives operators runtime controls to disable, roll back, or constrain AI features in live media workflows in seconds, without redeploying. This post shows how to implement it on AWS using AWS Lambda envir…",
@@ -317,28 +339,6 @@
     "timestamp": 1792591005.0,
     "isoDate": "2026-10-21T13:56:45+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KXQSMGN3Z955B45GCJR4REK3.png"
-  },
-  {
-    "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-    "link": "https://blog.cloudflare.com/webmcp-commerce/",
-    "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 21 Oct 2026 13:00:00 GMT",
-    "timestamp": 1792587600.0,
-    "isoDate": "2026-10-21T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AYSA5Z4MMJ6XYBSMECP05T.png"
-  },
-  {
-    "title": "8 eMudhra certificates are compromised. Here's what you need to know",
-    "link": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
-    "summary": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 20 Oct 2026 22:20:16 GMT",
-    "timestamp": 1792534816.0,
-    "isoDate": "2026-10-20T22:20:16+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5DK5FY53PEFH46MT990YMSR.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
