@@ -1,5 +1,38 @@
 [
   {
+    "title": "Blue Lucy adds AI capabilities to orchestration engine",
+    "link": "https://www.tvbeurope.com/media-management/blue-lucy-adds-ai-capabilities-to-orchestration-engine",
+    "summary": "The integration with Comcast Technology Solutions means that Blue Lucy users can pick the capabilities relevant to their content and connect them to the parts of their workflow where they will be of most use The post Blue Lucy adds AI capab…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 13 Nov 2026 09:46:56 +0000",
+    "timestamp": 1794563216.0,
+    "isoDate": "2026-11-13T09:46:56+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Blackmagic enters ambisonic sphere with true spatial audio mic",
+    "link": "https://www.tvbeurope.com/audio/blackmagic-enters-ambisonic-sphere-with-true-spatial-audio-mic",
+    "summary": "Featuring 108 digital mems mics, the solution aims to capture true spatial audio for immersive video production The post Blackmagic enters ambisonic sphere with true spatial audio mic appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 13 Nov 2026 09:44:47 +0000",
+    "timestamp": 1794563087.0,
+    "isoDate": "2026-11-13T09:44:47+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Blackmagic-Ambisonic-Microphone-With-Windshield-copy-726x834.jpg"
+  },
+  {
+    "title": "Yamaha acquires virtual production specialist Disguise",
+    "link": "https://www.tvbeurope.com/business/yamaha-acquires-virtual-production-specialist-disguise",
+    "summary": "The Disguise brand, identity and relationships with customers and partners will be preserved, said its new owners The post Yamaha acquires virtual production specialist Disguise appeared first on TVBEurope.",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Fri, 13 Nov 2026 09:01:57 +0000",
+    "timestamp": 1794560517.0,
+    "isoDate": "2026-11-13T09:01:57+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2022/07/disguise-meptik-726x484.jpg"
+  },
+  {
     "title": "Vizrt acquires digital broadcast titling and graphics systems company Chyron",
     "link": "https://www.tvbeurope.com/business/vizrt-acquires-digital-broadcast-titling-and-graphics-systems-company-chyron",
     "summary": "The deal will see Chyron's customers gain access to Vizrt's AI platform and agentic capabilities The post Vizrt acquires digital broadcast titling and graphics systems company Chyron appeared first on TVBEurope.",
@@ -405,38 +438,5 @@
     "timestamp": 1794216231.0,
     "isoDate": "2026-11-09T09:23:51+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Sumit-Rai-Blackbird-726x493.png"
-  },
-  {
-    "title": "RTE, Sky News targeted by bomb threats",
-    "link": "https://www.tvbeurope.com/business/irish-broadcasters-targeted-by-bomb-threats",
-    "summary": "Staff at RTÉ's offices in Dublin were evacuated with the broadcaster initially moving to pre-recorded programmes before resuming live shows from its Cork offices The post RTE, Sky News targeted by bomb threats appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 06 Nov 2026 10:03:11 +0000",
-    "timestamp": 1793959391.0,
-    "isoDate": "2026-11-06T10:03:11+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Pro Tools adds new AI-powered extension for separating audio into individual elements",
-    "link": "https://www.tvbeurope.com/audio/pro-tools-adds-new-ai-powered-extension-for-separating-audio-into-individual-elements",
-    "summary": "Using AI, it separates recordings into up to six stems which Avid said opens up new possibilities for editing, sound design, and repurposing existing audio The post Pro Tools adds new AI-powered extension for separating audio into individua…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 06 Nov 2026 09:31:48 +0000",
-    "timestamp": 1793957508.0,
-    "isoDate": "2026-11-06T09:31:48+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Pro-Tools-2026.11-726x400.png"
-  },
-  {
-    "title": "Satellite distribution in Germany to continue into the 2030s",
-    "link": "https://www.tvbeurope.com/media-delivery/satellite-distribution-in-germany-to-continue-into-the-2030s",
-    "summary": "The agreement with SES extends WELT TV's coverage into the next decade via the company's satellites at 19.2 degrees East The post Satellite distribution in Germany to continue into the 2030s appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 06 Nov 2026 09:29:17 +0000",
-    "timestamp": 1793957357.0,
-    "isoDate": "2026-11-06T09:29:17+00:00",
-    "imageUrl": ""
   }
 ]
