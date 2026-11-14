@@ -1,5 +1,16 @@
 [
   {
+    "title": "Kitesurf is now open source",
+    "link": "https://blog.cloudflare.com/kitesurf-open-source/",
+    "summary": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 13 Nov 2026 20:20:21 GMT",
+    "timestamp": 1794601221.0,
+    "isoDate": "2026-11-13T20:20:21+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B8M53647Q1KNRABY8VM2G7.png"
+  },
+  {
     "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
     "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
     "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures.",
@@ -328,17 +339,6 @@
     "timestamp": 1792591842.0,
     "isoDate": "2026-10-21T14:10:42+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png"
-  },
-  {
-    "title": "Cloudflare deploys protections against php2shell vulnerability",
-    "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-    "summary": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from r…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 21 Oct 2026 13:56:45 GMT",
-    "timestamp": 1792591005.0,
-    "isoDate": "2026-10-21T13:56:45+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KXQSMGN3Z955B45GCJR4REK3.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
