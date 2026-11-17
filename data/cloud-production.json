@@ -1,5 +1,16 @@
 [
   {
+    "title": "EPG-enriched ad requests with CloudFront Functions and AWS Elemental MediaTailor",
+    "link": "https://aws.amazon.com/blogs/media/epg-enriched-ad-requests-with-cloudfront-functions-and-aws-elemental-mediatailor/",
+    "summary": "Linear TV ad requests often carry stale program metadata because viewer sessions stay open for hours while programs change. We show how to enrich every ad break with current EPG metadata using Amazon CloudFront Functions, CloudFront KeyValu…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Tue, 17 Nov 2026 00:04:49 +0000",
+    "timestamp": 1794873889.0,
+    "isoDate": "2026-11-17T00:04:49+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/11/16/MEDIA-444-1-1.png"
+  },
+  {
     "title": "Implement a generative AI Andon Cord for live media workflows on AWS",
     "link": "https://aws.amazon.com/blogs/media/implement-a-generative-ai-andon-cord-for-live-media-workflows-on-aws/",
     "summary": "The generative AI Andon Cord pattern gives operators runtime controls to disable, roll back, or constrain AI features in live media workflows in seconds, without redeploying. This post shows how to implement it on AWS using AWS Lambda envir…",
@@ -207,16 +218,5 @@
     "timestamp": 1789043042.0,
     "isoDate": "2026-09-10T12:24:02+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/02/Multi-feed-live-experiences-with-MediaPackage-Dynamic-Multiview.jpg"
-  },
-  {
-    "title": "How 5 runs live pop-up events from a browser with AWS Elemental MediaLive",
-    "link": "https://aws.amazon.com/blogs/media/how-5-runs-live-pop-up-events-from-a-browser-with-aws-elemental-medialive/",
-    "summary": "In this post, we describe how, on top of that pipeline, 5 built a browser-based console where a single remote operator can run a live pop-up event (with monitoring, input switching, ad signaling, and graphics) using the control capabilities…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Tue, 08 Sep 2026 18:59:28 +0000",
-    "timestamp": 1788893968.0,
-    "isoDate": "2026-09-08T18:59:28+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/08/5-live-event-channel-architecture-full@4x-2.png"
   }
 ]
