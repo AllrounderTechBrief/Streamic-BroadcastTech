@@ -1,5 +1,16 @@
 [
   {
+    "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+    "link": "https://blog.cloudflare.com/java4shell-waf-protection/",
+    "summary": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtime…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 18 Nov 2026 14:52:10 GMT",
+    "timestamp": 1795013530.0,
+    "isoDate": "2026-11-18T14:52:10+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7QEX0WPTPFDDEE77HAVYYGB.01M7QEX1A784VKSE3C9SPC0P30.png"
+  },
+  {
     "title": "Quad9’s withdrawal from France: A canary in the coal mine",
     "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
     "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
@@ -339,17 +350,6 @@
     "timestamp": 1792778816.0,
     "isoDate": "2026-10-23T18:06:56+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MYF3Y4CXM47ZAN16JYM04W.png"
-  },
-  {
-    "title": "Localizing compliance at scale: Achieving South Korea’s ISMS certification",
-    "link": "https://blog.cloudflare.com/k-isms/",
-    "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 22 Oct 2026 13:00:00 GMT",
-    "timestamp": 1792674000.0,
-    "isoDate": "2026-10-22T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5G8JRPS2ZR304ZH695BQBTD.01M5G8JS8D86H6MQHCQERAW2XC.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
