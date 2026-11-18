@@ -1,5 +1,16 @@
 [
   {
+    "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+    "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Tue, 17 Nov 2026 20:24:27 GMT",
+    "timestamp": 1794947067.0,
+    "isoDate": "2026-11-17T20:24:27+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7NJ9YQG0JNP2HSE7YEGCHJB.png"
+  },
+  {
     "title": "EPG-enriched ad requests with CloudFront Functions and AWS Elemental MediaTailor",
     "link": "https://aws.amazon.com/blogs/media/epg-enriched-ad-requests-with-cloudfront-functions-and-aws-elemental-mediatailor/",
     "summary": "Linear TV ad requests often carry stale program metadata because viewer sessions stay open for hours while programs change. We show how to enrich every ad break with current EPG metadata using Amazon CloudFront Functions, CloudFront KeyValu…",
@@ -339,17 +350,6 @@
     "timestamp": 1792674000.0,
     "isoDate": "2026-10-22T13:00:00+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5G8JRPS2ZR304ZH695BQBTD.01M5G8JS8D86H6MQHCQERAW2XC.png"
-  },
-  {
-    "title": "Introducing full transaction detection for Cloudflare WAF",
-    "link": "https://blog.cloudflare.com/full-transaction-waf/",
-    "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can…",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Wed, 21 Oct 2026 14:10:42 GMT",
-    "timestamp": 1792591842.0,
-    "isoDate": "2026-10-21T14:10:42+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
