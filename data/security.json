@@ -1,5 +1,38 @@
 [
   {
+    "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+    "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+    "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versi…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Nov 2026 12:15:26 +0530",
+    "timestamp": 1794984326.0,
+    "isoDate": "2026-11-18T06:45:26+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LozO7RAz13Jr3eqWHIjlAF6M0Cs-mJXX2mKUqU0TxVS02piD1na92TAZjICmeySD4z0zS-Y_BFvceERBdk-UZvV1DUh1LGN6wK-T-yt_TROJ5fcuvROu807jqESQo93CFP3faBbReKMZQxvgYOAGl_vS2VzfO67O24NdAgh6d9jMO2mTSy2jaNJMPD9T/s1600/ms-python.jpg"
+  },
+  {
+    "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+    "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+    "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Goo…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Nov 2026 11:28:04 +0530",
+    "timestamp": 1794981484.0,
+    "isoDate": "2026-11-18T05:58:04+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbxlzqi-uBPlDXGecxrfXQ8kZLpAKsDO5c7KmTTyYyNQQE6bdI0TqT7Rk_JrKRie2pMB_xrLRKy1Cksp1GYHfUGHXz7UGg5nWOAQmPmiRKoUJkMCHrMvW7A72W9x7_I7KESMQmJLQVrJth_Ozj7i1nF7IPB4W_WV-NQyy0afEMgGVbGdaSNfIjolqtC4-/s1600/cloud.jpg"
+  },
+  {
+    "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+    "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+    "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is pres…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Wed, 18 Nov 2026 09:57:41 +0530",
+    "timestamp": 1794976061.0,
+    "isoDate": "2026-11-18T04:27:41+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8B-Vf6puS0vOs9mEVup755KXy8y59KD72B5VQb8SyhO1JDHkYcvg42Y1rh1xg3seyml7j2vZn5Dq1OEnFYVzD_97osoZXWkxVVOBxM48InZPbaVgV7Lo64odzPVKNPEtPeLlEAm2AFfShOFVGtypVUJAJdt07qqik_Yde9X6BxLECPH7Gekbkzl2GBDK/s1600/java4shell-flaw.jpg"
+  },
+  {
     "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
     "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
     "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, …",
@@ -295,38 +328,5 @@
     "timestamp": 1794567303.0,
     "isoDate": "2026-11-13T10:55:03+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsu6ZFyYFr1dxp2XHIaG_pyTwkoH58ICgyXLuTthkuYSJVcqAwX_O_bEJYfheyxpYmI7nnok1xrj97q7s-9l8JHFt1ogBAOJAEUqM8_vf6H3a8eYPKzB34d6XrvnkRu8zGaoKMgSJqWsE6u2zYXLdJKTtcDvk3beN6_o40ygJ4MVSMomS3Q1aEFV_jSq8/s1600/gootloader.jpg"
-  },
-  {
-    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-    "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a b…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Nov 2026 13:35:49 +0530",
-    "timestamp": 1794557149.0,
-    "isoDate": "2026-11-13T08:05:49+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg"
-  },
-  {
-    "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-    "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Fri, 13 Nov 2026 11:13:28 +0530",
-    "timestamp": 1794548608.0,
-    "isoDate": "2026-11-13T05:43:28+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4jxlXpPBPhD5o3IHy80Fn7fSHUtcqH3iXQlU-jDUL5C3zJcf1_Zb-GAYxuW6P6q647p9JAT_opImlj-v-USDNhZ_z83mYC3ISKtN72pe_3XLwf5EyMRuK4OdXCFnYxGMhOAvN_i4UFqk5vJLriRnkbRRwILuT5JUpExx9Tm74sXSCQ0g7jjsOzWV1cqk/s1600/nable-hacks.jpg"
-  },
-  {
-    "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-    "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-    "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login migh…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Thu, 12 Nov 2026 23:37:15 +0530",
-    "timestamp": 1794506835.0,
-    "isoDate": "2026-11-12T18:07:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj765JyAl658UR5d1raKFLJmZpxXuof0-wBCobeJwnWjWZROTa4wtMyPvTTjBr4-ccE0cmKpIyGT1BetlqUPkPS_omcKVWz7RcCv6sUl2h6KxXrem_X26kzrp7kwq8bSezUsYMa6h2JNh-rPglsuNnRzt6i3IdzBjkLFNBNy5-Y0jId2B6Zhyir_jdm8O4/s1600/sails.jpg"
   }
 ]
