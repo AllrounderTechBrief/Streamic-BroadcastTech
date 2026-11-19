@@ -1,5 +1,27 @@
 [
   {
+    "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+    "summary": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascin…",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 19 Nov 2026 05:05:00 +0000",
+    "timestamp": 1795064700.0,
+    "isoDate": "2026-11-19T05:05:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&h=4800&fit=clip"
+  },
+  {
+    "title": "El Niño Rains Paint the Atacama",
+    "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "summary": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+    "source": "NASA",
+    "category": "graphics",
+    "timeAgo": "Thu, 19 Nov 2026 05:00:00 +0000",
+    "timestamp": 1795064400.0,
+    "isoDate": "2026-11-19T05:00:00+00:00",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg"
+  },
+  {
     "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
     "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
     "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a…",
@@ -396,17 +418,6 @@
     "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=2048&h=2048&fit=clip"
   },
   {
-    "title": "Sierra Snow Season Spins Up",
-    "link": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-    "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Wed, 18 Nov 2026 05:01:00 +0000",
-    "timestamp": 1794978060.0,
-    "isoDate": "2026-11-18T05:01:00+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg"
-  },
-  {
     "title": "Debbie Presser Joins Spectrum Reach",
     "link": "https://tvnewscheck.com/business/article/debbie-presser-joins-spectrum-reach/",
     "summary": "Debbie Presser is joining Spectrum Reach as VP National Sales Adlink New York. She joins from Nexstar Media Group, where she helped build its national sales organization as vice president … The post Debbie Presser Joins Spectrum Reach appea…",
@@ -427,17 +438,6 @@
     "timestamp": 1794971408.0,
     "isoDate": "2026-11-18T03:10:08+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "NASA Launches Nuclear Power Systems Student Contest",
-    "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
-    "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear…",
-    "source": "NASA",
-    "category": "graphics",
-    "timeAgo": "Tue, 17 Nov 2026 22:02:48 +0000",
-    "timestamp": 1794952968.0,
-    "isoDate": "2026-11-17T22:02:48+00:00",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg?w=1201&h=676&fit=clip"
   },
   {
     "title": "How Carbonite HyperMax gives sports broadcasters a shared resource pool",
