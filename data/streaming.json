@@ -1,8 +1,19 @@
 [
   {
+    "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+    "link": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+    "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 19 Nov 2026 14:00:00 GMT",
+    "timestamp": 1795096800.0,
+    "isoDate": "2026-11-19T14:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R61QF048WWQ6F9XZ3TXEG9.01M7R61R40AS8MPD7CDPFJVBQG.png"
+  },
+  {
     "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
     "link": "https://blog.cloudflare.com/open-clairic/",
-    "summary": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic graduates from preview, while Clairic-flash joins the repertoire on Wo…",
+    "summary": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models.",
     "source": "Cloudflare Blog",
     "category": "streaming",
     "timeAgo": "Wed, 18 Nov 2026 22:00:00 GMT",
@@ -350,17 +361,6 @@
     "timestamp": 1792963327.0,
     "isoDate": "2026-10-25T21:22:07+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Origin Range Requests: Serving large files without range-request tuning",
-    "link": "https://blog.cloudflare.com/origin-range-requests/",
-    "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 23 Oct 2026 18:22:59 GMT",
-    "timestamp": 1792779779.0,
-    "isoDate": "2026-10-23T18:22:59+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MZP89Y10XGACD5T6G2F398.png"
   },
   {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
