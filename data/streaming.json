@@ -1,5 +1,27 @@
 [
   {
+    "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+    "link": "https://blog.cloudflare.com/open-clairic/",
+    "summary": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic graduates from preview, while Clairic-flash joins the repertoire on Wo…",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 18 Nov 2026 22:00:00 GMT",
+    "timestamp": 1795039200.0,
+    "isoDate": "2026-11-18T22:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R8CJQT5KFR9NBMZB2FTDQ3.01M7R8CK3P86K910EXDKQFBE6N.png"
+  },
+  {
+    "title": "Meet the Anzellans: Inside Imagineering R&D’s newest robotic characters",
+    "link": "https://aws.amazon.com/blogs/media/meet-the-anzellans-inside-imagineering-rds-newest-robotic-characters/",
+    "summary": "Meet the Anzellans — Vilo Vele, Kado Bre'a, and Jibu Bre'a — the newest Audio-Animatronics character prototype from Walt Disney Imagineering R&D. Built with AWS, these autonomous characters don't run a fixed loop. They perceive guests in re…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 18 Nov 2026 20:03:05 +0000",
+    "timestamp": 1795032185.0,
+    "isoDate": "2026-11-18T20:03:05+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/11/18/Anzellan-Group.jpg"
+  },
+  {
     "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
     "link": "https://blog.cloudflare.com/java4shell-waf-protection/",
     "summary": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtime…",
@@ -341,17 +363,6 @@
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MZP89Y10XGACD5T6G2F398.png"
   },
   {
-    "title": "Bringing post-quantum cryptography to geographically fenced key management",
-    "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-    "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 23 Oct 2026 18:06:56 GMT",
-    "timestamp": 1792778816.0,
-    "isoDate": "2026-10-23T18:06:56+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MYF3Y4CXM47ZAN16JYM04W.png"
-  },
-  {
     "title": "Finding the perfect moment: How Formula 1® uses AWS AI to search archives in seconds",
     "link": "https://aws.amazon.com/blogs/media/finding-the-perfect-moment-how-formula-1-uses-aws-ai-to-search-archives-in-seconds/",
     "summary": "F1 worked with AWS to migrate petabytes of footage from ageing tape robots, in multiple formats and proxy files, into Amazon Simple Storage Service (Amazon S3) alongside the live footage from every new race. That gave the sport one durable …",
@@ -427,16 +438,5 @@
     "timestamp": 1789661439.0,
     "isoDate": "2026-09-17T16:10:39+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Personalize live viewing, monetize every impression, and reach every device with AWS Elemental at IBC 2026",
-    "link": "https://aws.amazon.com/blogs/media/personalize-live-viewing-monetize-every-impression-and-reach-every-device-with-aws-elemental-at-ibc-2026-2/",
-    "summary": "We're announcing four new capabilities across AWS Elemental that bring AI, personalization, and intelligent monetization to the live video workflow, launching in time for IBC 2026 in Amsterdam.",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 10 Sep 2026 12:24:02 +0000",
-    "timestamp": 1789043042.0,
-    "isoDate": "2026-09-10T12:24:02+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/02/Multi-feed-live-experiences-with-MediaPackage-Dynamic-Multiview.jpg"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "title": "Meet the Anzellans: Inside Imagineering R&D’s newest robotic characters",
+    "link": "https://aws.amazon.com/blogs/media/meet-the-anzellans-inside-imagineering-rds-newest-robotic-characters/",
+    "summary": "Meet the Anzellans — Vilo Vele, Kado Bre'a, and Jibu Bre'a — the newest Audio-Animatronics character prototype from Walt Disney Imagineering R&D. Built with AWS, these autonomous characters don't run a fixed loop. They perceive guests in re…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Wed, 18 Nov 2026 20:03:05 +0000",
+    "timestamp": 1795032185.0,
+    "isoDate": "2026-11-18T20:03:05+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/11/18/Anzellan-Group.jpg"
+  },
+  {
     "title": "EPG-enriched ad requests with CloudFront Functions and AWS Elemental MediaTailor",
     "link": "https://aws.amazon.com/blogs/media/epg-enriched-ad-requests-with-cloudfront-functions-and-aws-elemental-mediatailor/",
     "summary": "Linear TV ad requests often carry stale program metadata because viewer sessions stay open for hours while programs change. We show how to enrich every ad break with current EPG metadata using Amazon CloudFront Functions, CloudFront KeyValu…",
@@ -207,16 +218,5 @@
     "timestamp": 1789661439.0,
     "isoDate": "2026-09-17T16:10:39+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "Personalize live viewing, monetize every impression, and reach every device with AWS Elemental at IBC 2026",
-    "link": "https://aws.amazon.com/blogs/media/personalize-live-viewing-monetize-every-impression-and-reach-every-device-with-aws-elemental-at-ibc-2026-2/",
-    "summary": "We're announcing four new capabilities across AWS Elemental that bring AI, personalization, and intelligent monetization to the live video workflow, launching in time for IBC 2026 in Amsterdam.",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 10 Sep 2026 12:24:02 +0000",
-    "timestamp": 1789043042.0,
-    "isoDate": "2026-09-10T12:24:02+00:00",
-    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/02/Multi-feed-live-experiences-with-MediaPackage-Dynamic-Multiview.jpg"
   }
 ]
