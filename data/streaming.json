@@ -1,5 +1,16 @@
 [
   {
+    "title": "Automate live video failover with MediaConnect content quality events",
+    "link": "https://aws.amazon.com/blogs/media/automate-live-video-failover-with-mediaconnect-content-quality-events/",
+    "summary": "Learn how to automate live video failover with AWS Elemental MediaConnect content quality events. When frozen frames are detected on a router input, an Amazon EventBridge rule invokes an AWS Lambda function that fails over to the backup sou…",
+    "source": "AWS for M&E Blog",
+    "category": "streaming",
+    "timeAgo": "Thu, 19 Nov 2026 23:59:47 +0000",
+    "timestamp": 1795132787.0,
+    "isoDate": "2026-11-19T23:59:47+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/11/19/MEDIA-438-1.png"
+  },
+  {
     "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
     "link": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
     "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
@@ -427,16 +438,5 @@
     "timestamp": 1790007726.0,
     "isoDate": "2026-09-21T16:22:06+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/18/Figure-1-Architecture-diagram_elemental.png"
-  },
-  {
-    "title": "Introducing the Updated AWS Well-Architected Streaming Media Lens",
-    "link": "https://aws.amazon.com/blogs/media/introducing-the-updated-aws-well-architected-streaming-media-lens/",
-    "summary": "At Amazon Web Services (AWS), we are excited to introduce the next revision to the AWS Well-Architected Streaming Media Lens. The Streaming Media Lens consists of a comprehensive Lens whitepaper and a custom lens, which will become availabl…",
-    "source": "AWS for M&E Blog",
-    "category": "streaming",
-    "timeAgo": "Thu, 17 Sep 2026 16:10:39 +0000",
-    "timestamp": 1789661439.0,
-    "isoDate": "2026-09-17T16:10:39+00:00",
-    "imageUrl": ""
   }
 ]

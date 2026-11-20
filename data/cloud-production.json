@@ -1,5 +1,16 @@
 [
   {
+    "title": "Automate live video failover with MediaConnect content quality events",
+    "link": "https://aws.amazon.com/blogs/media/automate-live-video-failover-with-mediaconnect-content-quality-events/",
+    "summary": "Learn how to automate live video failover with AWS Elemental MediaConnect content quality events. When frozen frames are detected on a router input, an Amazon EventBridge rule invokes an AWS Lambda function that fails over to the backup sou…",
+    "source": "AWS for M&E Blog",
+    "category": "cloud-production",
+    "timeAgo": "Thu, 19 Nov 2026 23:59:47 +0000",
+    "timestamp": 1795132787.0,
+    "isoDate": "2026-11-19T23:59:47+00:00",
+    "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/11/19/MEDIA-438-1.png"
+  },
+  {
     "title": "Meet the Anzellans: Inside Imagineering R&D’s newest robotic characters",
     "link": "https://aws.amazon.com/blogs/media/meet-the-anzellans-inside-imagineering-rds-newest-robotic-characters/",
     "summary": "Meet the Anzellans — Vilo Vele, Kado Bre'a, and Jibu Bre'a — the newest Audio-Animatronics character prototype from Walt Disney Imagineering R&D. Built with AWS, these autonomous characters don't run a fixed loop. They perceive guests in re…",
@@ -207,16 +218,5 @@
     "timestamp": 1790007726.0,
     "isoDate": "2026-09-21T16:22:06+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/09/18/Figure-1-Architecture-diagram_elemental.png"
-  },
-  {
-    "title": "Introducing the Updated AWS Well-Architected Streaming Media Lens",
-    "link": "https://aws.amazon.com/blogs/media/introducing-the-updated-aws-well-architected-streaming-media-lens/",
-    "summary": "At Amazon Web Services (AWS), we are excited to introduce the next revision to the AWS Well-Architected Streaming Media Lens. The Streaming Media Lens consists of a comprehensive Lens whitepaper and a custom lens, which will become availabl…",
-    "source": "AWS for M&E Blog",
-    "category": "cloud-production",
-    "timeAgo": "Thu, 17 Sep 2026 16:10:39 +0000",
-    "timestamp": 1789661439.0,
-    "isoDate": "2026-09-17T16:10:39+00:00",
-    "imageUrl": ""
   }
 ]
