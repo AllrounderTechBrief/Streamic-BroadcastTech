@@ -1,5 +1,27 @@
 [
   {
+    "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+    "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+    "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 20 Nov 2026 20:24:38 GMT",
+    "timestamp": 1795206278.0,
+    "isoDate": "2026-11-20T20:24:38+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X91CB1DQF7DRZ96WG5VETW.png"
+  },
+  {
+    "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+    "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+    "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Fri, 20 Nov 2026 20:00:45 GMT",
+    "timestamp": 1795204845.0,
+    "isoDate": "2026-11-20T20:00:45+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X76DTFTZ4PHVTH5XWJ37KT.png"
+  },
+  {
     "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
     "link": "https://blog.cloudflare.com/nginx2root/",
     "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
@@ -350,28 +372,6 @@
     "timestamp": 1793143437.0,
     "isoDate": "2026-10-27T23:23:57+00:00",
     "imageUrl": "https://d2908q01vomqb2.cloudfront.net/fb644351560d8296fe6da332236b1f8d61b2828a/2026/10/27/image1.jpg"
-  },
-  {
-    "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
-    "link": "https://blog.cloudflare.com/php-ctf/",
-    "summary": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 27 Oct 2026 13:00:00 GMT",
-    "timestamp": 1793106000.0,
-    "isoDate": "2026-10-27T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png"
-  },
-  {
-    "title": "What took the Internet offline in Q3 2026",
-    "link": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-    "summary": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Tue, 27 Oct 2026 13:00:00 GMT",
-    "timestamp": 1793106000.0,
-    "isoDate": "2026-10-27T13:00:00+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW453HMZRQX1BZKZQMN21EG8.png"
   },
   {
     "title": "How the NBA future-proofed its digital infrastructure in 6 months",
