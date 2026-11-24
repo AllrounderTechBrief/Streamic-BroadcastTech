@@ -1,5 +1,115 @@
 [
   {
+    "title": "CineTwin 1.0– a visualizer and digital twin for film & still photo productions",
+    "link": "https://www.newsshooter.com/2026/11/24/cinetwin-1-0-a-visualizer-and-digital-twin-for-film-still-photo-productions/",
+    "summary": "CineTwin 1.0 is a visualizer and digital twin for film and still photo productions. It is the brainchild of Nicklas Gustafsson. For a long time, he had an idea for a pre-production application for film and television, designed specifically …",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 13:24:04 +0000",
+    "timestamp": 1795526644.0,
+    "isoDate": "2026-11-24T13:24:04+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "ARRI 2026 Clearance Sale",
+    "link": "https://www.newsshooter.com/2026/11/24/arri-2026-clearance-sale/",
+    "summary": "ARRI has a 2026 clearance sale where you can find a bargain on many older or discontinued products from the ARRI product lineup. ARRI states that there are new and exciting products coming in 2027, so they are making space in their warehous…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 13:15:06 +0000",
+    "timestamp": 1795526106.0,
+    "isoDate": "2026-11-24T13:15:06+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "There’s no place like home for Ted Lasso",
+    "link": "https://www.tvbeurope.com/production-post/theres-no-place-like-home",
+    "summary": "Bella Gonzales tells Robert Shepherd how she brought a fresh perspective to Ted Lasso’s Kansas chapter, balancing visual continuity with warmth, restraint and a distinctly American sense of home. The post There’s no place like home for Ted …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 11:03:16 +0000",
+    "timestamp": 1795518196.0,
+    "isoDate": "2026-11-24T11:03:16+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Ted_Lasso_Photo_040108-copy-726x481.jpg"
+  },
+  {
+    "title": "Grass Valley leverages MXL to simplify remote contribution",
+    "link": "https://www.tvbeurope.com/live-production/grass-valley-leverages-mxl-to-simplify-remote-contribution",
+    "summary": "Designed to simplify remote videoconferencing contribution, the integration of Zoom represents one of the first commercial MXL implementations, said Grass Valley The post Grass Valley leverages MXL to simplify remote contribution appeared f…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 09:45:46 +0000",
+    "timestamp": 1795513546.0,
+    "isoDate": "2026-11-24T09:45:46+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Zoom-20-11-26-726x420.png"
+  },
+  {
+    "title": "Google wants to launch My Channel, featuring AI-created shows",
+    "link": "https://www.tvbeurope.com/artificial-intelligence/google-wants-to-launch-my-channel-featuring-ai-created-shows",
+    "summary": "The company has filed a patent for a new service that would use AI to create shows and adverts, as well as put the viewer into the show they're watching The post Google wants to launch My Channel, featuring AI-created shows appeared first o…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 09:41:15 +0000",
+    "timestamp": 1795513275.0,
+    "isoDate": "2026-11-24T09:41:15+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-09.06.10-726x555.png"
+  },
+  {
+    "title": "CinemaLAB 1.0– a film laboratory simulator for Resolve, Final Cut Pro, After Effects & Premiere Pro",
+    "link": "https://www.newsshooter.com/2026/11/23/cinemalab-1-0-a-film-laboratory-simulator-for-resolve-final-cut-pro-after-effects-premiere-pro/",
+    "summary": "CinemaLAB 1.0 is a new film laboratory simulator that has just been released for DaVinci Resolve, Final Cut Pro, After Effects, and Premiere Pro, and it works on Mac and Windows. I can hear people saying, “Not another film emulation plugin!…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 07:37:07 +0000",
+    "timestamp": 1795505827.0,
+    "isoDate": "2026-11-24T07:37:07+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Canon EOS C300 Mark III Digital Cinema Camera Body (EF Lens Mount) on sale for $2,999 USD",
+    "link": "https://www.newsshooter.com/2026/11/23/canon-eos-c300-mark-iii-digital-cinema-camera-body-ef-lens-mount-on-sale-for-2999-usd-2/",
+    "summary": "B&H has the Canon EOS C300 Mark III Digital Cinema Camera Body (EF Lens Mount) on sale for $2,999 USD, which is a discount of $3,500 USD. Now, this isn’t the first time this camera has been at this price. B&H had it on sale back in January …",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 07:21:15 +0000",
+    "timestamp": 1795504875.0,
+    "isoDate": "2026-11-24T07:21:15+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "ARRI Reference Tool Viewer Version 0.10.0",
+    "link": "https://www.newsshooter.com/2026/11/23/arri-reference-tool-viewer-version-0-10-0/",
+    "summary": "ARRI has released ART Viewer Version 0.10.0 for their ARRI Reference Tool Viewer (ART), which brings new tools for taking a closer look at your images. New features include a Viewer Navigator so you move around zoomed-in images easily. A Pi…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 06:59:22 +0000",
+    "timestamp": 1795503562.0,
+    "isoDate": "2026-11-24T06:59:22+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Pelican Vault V525 Rolling Case with Padded Dividers (Gray, 25L) on sale for $99.95 USD",
+    "link": "https://www.newsshooter.com/2026/11/23/pelican-vault-v525-rolling-case-with-padded-dividers-gray-25l-on-sale-for-99-95-usd/",
+    "summary": "The Pelican Vault V525 Rolling Case with Padded Dividers (Gray, 25L) on sale for $99.95 USD, which is a discount of $90 USD. Key features Tthe 25L Vault V525 Rolling Case with Padded Dividers fis weather resistant, crush and dustproof, its …",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 05:24:08 +0000",
+    "timestamp": 1795497848.0,
+    "isoDate": "2026-11-24T05:24:08+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Save $4,950 USD on the Blackmagic Design 8TB Cloud Store Mini (4 x 2TB)",
+    "link": "https://www.newsshooter.com/2026/11/23/save-4950-usd-on-the-blackmagic-design-8tb-cloud-store-mini-4-x-2tb/",
+    "summary": "You can save a whopping Save $4,950 USD on the Blackmagic Design 8TB Cloud Store Mini (4 x 2TB) and purchase it for just $559 USD. Key features The 8TB Cloud Store Mini is well suited for editing, color correction, audio, and VFX work. It h…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Tue, 24 Nov 2026 05:17:20 +0000",
+    "timestamp": 1795497440.0,
+    "isoDate": "2026-11-24T05:17:20+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Nikon ZR firmware Version 2.00 Now Available to Download",
     "link": "https://www.newsshooter.com/2026/11/23/nikon-zr-firmware-version-2-00-now-available-to-download/",
     "summary": "The Nikon ZR firmware Version 2.00 is now available to download. Below are the changes from Firmware Version 1.11 to 2.00: Video Recording Still Photography Controls Other Changes Nikon announced Firmware Version 2.00 for the Nikon ZR a few…",
@@ -198,39 +308,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Sekonic L-878D Light Meter First Look at Inter BEE 2026",
-    "link": "https://www.newsshooter.com/2026/11/20/sekonic-l-878d-light-meter-first-look-at-inter-bee-2026/",
-    "summary": "At Inter BEE 2026 in Japan, Sekonic announced its new flagship L-878D light meter, which will be available from December 15th. The Sekonic L-878D (L-878D-U in the U.S.) succeeds the L-858D as Sekonic’s flagship light meter for photographers…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Sat, 21 Nov 2026 00:41:21 +0000",
-    "timestamp": 1795221681.0,
-    "isoDate": "2026-11-21T00:41:21+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "IDX VL-PD1 USB-C V-Mount Charger First Look at Inter BEE 2026",
-    "link": "https://www.newsshooter.com/2026/11/20/idx-vl-pd1-usb-c-v-mount-charger-first-look-at-inter-bee-2026/",
-    "summary": "At Inter BEE 2026 in Japan, IDX was showcasing its new VL-PD1 USB-C V-Mount Charger, which allows you to charge a V-mount battery (regardless of whether it features a USB-C input or not) via USB-C PD. It looks to be an interesting solution …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 20 Nov 2026 23:49:44 +0000",
-    "timestamp": 1795218584.0,
-    "isoDate": "2026-11-20T23:49:44+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Laowa ACRIS 35mm f/2.8 1X AF Macro APO First Look at Inter BEE 2026",
-    "link": "https://www.newsshooter.com/2026/11/20/laowa-acris-35mm-f-2-8-1x-af-macro-apo-first-look-at-inter-bee-2026/",
-    "summary": "At Inter BEE 2026 in Japan, Laowa was showing its recently announced ACRIS 35mm f/2.8 1X AF Macro APO. According to the company, it is the world’s first full-frame autofocus 35mm lens with 1:1 macro magnification. The lens is available in S…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 20 Nov 2026 23:27:58 +0000",
-    "timestamp": 1795217278.0,
-    "isoDate": "2026-11-20T23:27:58+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "wTVision integrates NEOiD PTZ range to boost AR and virtual production workflows",
     "link": "https://www.tvbeurope.com/virtual-production/wtvision-integrates-neoid-ptz-range-to-boost-ar-and-virtual-production-workflows",
     "summary": "The integration uses built-in tracking data, aiming to simplify multi-camera virtual studio and augmented reality production The post wTVision integrates NEOiD PTZ range to boost AR and virtual production workflows appeared first on TVBEuro…",
@@ -273,50 +350,6 @@
     "timestamp": 1795164970.0,
     "isoDate": "2026-11-20T08:56:10+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2019/01/bbccorp482-2.jpg"
-  },
-  {
-    "title": "Audio-Technica ATV-AD1USB First Look at Inter BEE 2026",
-    "link": "https://www.newsshooter.com/2026/11/20/audio-technica-atv-ad1usb-first-look-at-inter-bee-2026/",
-    "summary": "At Inter BEE 2026 in Japan, Audio-Technica was showing its upcoming ATV-AD1USB audio interface that can transform a 3.5mm analog audio signal into a USB-C digital audio signal. This small adapter allows you to use any microphone that has a …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 20 Nov 2026 08:01:57 +0000",
-    "timestamp": 1795161717.0,
-    "isoDate": "2026-11-20T08:01:57+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Libec Q30B/Q50B Lightweight, High-Load-Capacity Tripods with new Quick Deploy System First Look at Inter BEE 2026",
-    "link": "https://www.newsshooter.com/2026/11/19/libec-q30b-q50b-lightweight-high-load-capacity-tripods-with-new-quick-deploy-system-first-look-at-inter-bee-2026/",
-    "summary": "At Inter BEE 2026 in Japan, Libec was showcasing its new Q30B/Q50B lightweight, high-load-capacity tripods that feature a new quick-deploy system. The tripods were specifically designed for run-and-gun and fast shooting environments such as…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 20 Nov 2026 06:30:27 +0000",
-    "timestamp": 1795156227.0,
-    "isoDate": "2026-11-20T06:30:27+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "NEXTORAGE 8TB SSD RAID Prototype at Inter BEE 2026",
-    "link": "https://www.newsshooter.com/2026/11/19/nextorage-8tb-ssd-raid-prototype-at-inter-bee-2026/",
-    "summary": "At Inter BEE 2026 in Japan, NEXTORAGE was showing a prototype 8TB SSD RAID solution. The SSD has two 4TB NVMe drives, and it can be set to RAID 0 or striping depending on your requirements. The drive has a variety of different security feat…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 20 Nov 2026 01:55:46 +0000",
-    "timestamp": 1795139746.0,
-    "isoDate": "2026-11-20T01:55:46+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "GL Optics Canon FD-X65 First Look at Inter BEE 2026",
-    "link": "https://www.newsshooter.com/2026/11/19/gl-optics-canon-fd-x65-first-look-at-inter-bee-2026/",
-    "summary": "At Inter BEE 2026 in Japan, lens rehousing specialists GL Optics were showing their new Canon FD-X65 series that was designed to cover 65mm image sensors. The set consists of the following focal lengths: The lenses are claimed to retain the…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 20 Nov 2026 00:56:25 +0000",
-    "timestamp": 1795136185.0,
-    "isoDate": "2026-11-20T00:56:25+00:00",
-    "imageUrl": ""
   },
   {
     "title": "NEP strikes a perfect balance at the Artistic Gymnastic World Championships",
@@ -405,38 +438,5 @@
     "timestamp": 1794995746.0,
     "isoDate": "2026-11-18T09:55:46+00:00",
     "imageUrl": ""
-  },
-  {
-    "title": "LIGR introduces self-serve cloud production platform",
-    "link": "https://www.tvbeurope.com/live-production/ligr-introduces-self-serve-cloud-production-platform",
-    "summary": "Users can employ one of the available modules or all four, and either plug them into their existing workflow or move the whole broadcast onto LIGR The post LIGR introduces self-serve cloud production platform appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 18 Nov 2026 09:23:36 +0000",
-    "timestamp": 1794993816.0,
-    "isoDate": "2026-11-18T09:23:36+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/17_UI_Control_Room_dark-726x380.png"
-  },
-  {
-    "title": "Signiant acquires AI-powered media asset management platform Cevio",
-    "link": "https://www.tvbeurope.com/business/signiant-acquires-ai-powered-media-asset-management-platform-cevio",
-    "summary": "The platform connects popular cloud and on-premises storage into a single searchable view The post Signiant acquires AI-powered media asset management platform Cevio appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 18 Nov 2026 09:02:41 +0000",
-    "timestamp": 1794992561.0,
-    "isoDate": "2026-11-18T09:02:41+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Sky brings visual podcasts to its platforms",
-    "link": "https://www.tvbeurope.com/media-consumption/sky-brings-visual-podcasts-to-its-platforms",
-    "summary": "Platform Media's podcasts will be available on the company's Sky Glass, Sky Stream, Sky Q, Sky Go and NOW platforms The post Sky brings visual podcasts to its platforms appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 17 Nov 2026 10:33:32 +0000",
-    "timestamp": 1794911612.0,
-    "isoDate": "2026-11-17T10:33:32+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Screenshot-of-Joe-Marler-726x411.png"
   }
 ]
