@@ -1,5 +1,16 @@
 [
   {
+    "title": "Introducing Search for Agents",
+    "link": "https://blog.cloudflare.com/search-for-agents/",
+    "summary": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.",
+    "source": "Cloudflare Blog",
+    "category": "streaming",
+    "timeAgo": "Wed, 25 Nov 2026 14:00:00 GMT",
+    "timestamp": 1795615200.0,
+    "isoDate": "2026-11-25T14:00:00+00:00",
+    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M87EH6J3AHBJGMX9NR8JGR2V.png"
+  },
+  {
     "title": "Probing DNS at Cloudflare",
     "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
     "summary": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
@@ -295,17 +306,6 @@
     "timestamp": 1793381930.0,
     "isoDate": "2026-10-30T17:38:50+00:00",
     "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYHSQQJRRA4097AJD12PN.png"
-  },
-  {
-    "title": "Cloudflare services for private origins is now generally available",
-    "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
-    "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity.",
-    "source": "Cloudflare Blog",
-    "category": "streaming",
-    "timeAgo": "Fri, 30 Oct 2026 14:23:43 GMT",
-    "timestamp": 1793370223.0,
-    "isoDate": "2026-10-30T14:23:43+00:00",
-    "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KW44TXMXRJ1NFA38CJB0MT3A.png"
   },
   {
     "title": "Experience the future of Media and Entertainment, Sports, and Advertising Technology at AWS re:Invent 2026",

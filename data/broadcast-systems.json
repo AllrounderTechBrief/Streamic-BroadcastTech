@@ -1,8 +1,41 @@
 [
   {
+    "title": "BBC ‘planning to open iPlayer to ads and other content’",
+    "link": "https://www.tvbeurope.com/media-delivery/bbc-planning-to-open-iplayer-to-ads-and-other-content",
+    "summary": "The plan would require a significant update to iPlayer's technology, which could be funded by the BBC's commercial arm, with third-party content creators paying for their content to be included The post BBC ‘planning to open iPlayer to ads …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 25 Nov 2026 16:03:36 +0000",
+    "timestamp": 1795622616.0,
+    "isoDate": "2026-11-25T16:03:36+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/BBC-iplayer-726x414.png"
+  },
+  {
+    "title": "Giving video professionals greater speed, flexibility and control",
+    "link": "https://www.tvbeurope.com/production-post/giving-video-professionals-greater-speed-flexibility-and-control",
+    "summary": "Adobe’s latest Premiere Pro and After Effects updates introduce powerful agentic workflows and AI-driven tools designed to eliminate repetitive tasks and give video professionals greater speed, flexibility, and control The post Giving video…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 25 Nov 2026 15:10:54 +0000",
+    "timestamp": 1795619454.0,
+    "isoDate": "2026-11-25T15:10:54+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Premiere_Enhance-Audio-726x484.jpg"
+  },
+  {
+    "title": "Opinion: five things we learned moving to SMPTE ST 2110",
+    "link": "https://www.tvbeurope.com/ip-migration/opinion-five-things-we-learned-moving-to-smpte-st-2110",
+    "summary": "Two years after going live with SMPTE ST 2110, Pål Rune Hansen, head of operations at Schibsted Media Production Technology, explains what he would tell a team starting the move today The post Opinion: five things we learned moving to SMPTE…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Wed, 25 Nov 2026 11:21:40 +0000",
+    "timestamp": 1795605700.0,
+    "isoDate": "2026-11-25T11:21:40+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/08-pal-in-equipment-room-726x408.jpg"
+  },
+  {
     "title": "BFI Collections Fund launched to preserve thousands of hours of TV-am",
     "link": "https://www.tvbeurope.com/business/bfi-collections-fund-launched-to-preserve-thousands-of-hours-of-tv-am",
-    "summary": "The campaign aims to enable the BFI National Archive team to ensure the preservation and curation of historically significant content, and Roland Rat The post BFI Collections Fund launched to preserve thousands of hours of TV-am appeared fi…",
+    "summary": "The campaign aims to enable the BFI National Archive team to ensure the preservation and curation of historically significant content. And Roland Rat The post BFI Collections Fund launched to preserve thousands of hours of TV-am appeared fi…",
     "source": "TVBEurope",
     "category": "broadcast-systems",
     "timeAgo": "Wed, 25 Nov 2026 09:53:18 +0000",
@@ -405,38 +438,5 @@
     "timestamp": 1795082009.0,
     "isoDate": "2026-11-19T09:53:29+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/26-10-30_EITB_mc_2_56-726x545.jpg"
-  },
-  {
-    "title": "NDI adds recording and playback APIs, support for HEVC 4:4:4 and synthesised timecode",
-    "link": "https://www.tvbeurope.com/ip-migration/ndi-adds-recording-and-playback-apis-support-for-hevc-444-and-synthesised-timecode",
-    "summary": "The update aims to help users with issues such as frames dropped on wireless links, graphics that turn soft in transit and recordings that keep the picture but lose nearly everything else The post NDI adds recording and playback APIs, suppo…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 19 Nov 2026 09:49:36 +0000",
-    "timestamp": 1795081776.0,
-    "isoDate": "2026-11-19T09:49:36+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2025/03/NDI-LOGO@5x-726x298.png"
-  },
-  {
-    "title": "SkyShowtime to wind down in 2027",
-    "link": "https://www.tvbeurope.com/media-consumption/skyshowtime-to-wind-down-in-2027",
-    "summary": "In a memo to staff, the board said it had become \"increasingly difficult\" for regional streaming services to \"achieve the scale needed for long-term success\" The post SkyShowtime to wind down in 2027 appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 19 Nov 2026 09:06:03 +0000",
-    "timestamp": 1795079163.0,
-    "isoDate": "2026-11-19T09:06:03+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2022/09/skyshowtime-726x408.jpeg"
-  },
-  {
-    "title": "Shure expands range of immersive capture with new MV360 Spatial Audio Microphone",
-    "link": "https://www.tvbeurope.com/audio/shure-expands-range-of-immersive-capture-with-new-mv360-spatial-audio-microphone",
-    "summary": "The solution aims to extend access to advanced audio capture, from instant immersive binaural to full 360° spatial audio The post Shure expands range of immersive capture with new MV360 Spatial Audio Microphone appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Wed, 18 Nov 2026 11:12:58 +0000",
-    "timestamp": 1795000378.0,
-    "isoDate": "2026-11-18T11:12:58+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Shure-immersive-microphone.png"
   }
 ]
