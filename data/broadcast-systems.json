@@ -1,5 +1,82 @@
 [
   {
+    "title": "Opinion: agentic AI still needs all the boring ‘-ilities’",
+    "link": "https://www.tvbeurope.com/artificial-intelligence/opinion-agentic-ai-needs-all-the-boring-ilities",
+    "summary": "Agentic AI can deliver real value in media operations, but only when it rests on the unglamorous qualities that make any critical system dependable, argues Ivan Verbesselt, chief strategy officer at Mediagenix The post Opinion: agentic AI s…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 26 Nov 2026 10:54:59 +0000",
+    "timestamp": 1795690499.0,
+    "isoDate": "2026-11-26T10:54:59+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/IvanVerbesselt-copy-726x636.jpg"
+  },
+  {
+    "title": "Blue Lucy announces integration with Moments Lab AI platform",
+    "link": "https://www.tvbeurope.com/media-management/blue-lucy-announces-integration-with-moments-lab-ai-platform",
+    "summary": "Combining Blue Lucy's rights-aware content management platform with Moments Lab, the integration aims to turn archives into searchable, rights-cleared content for social and digital platforms The post Blue Lucy announces integration with Mo…",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 26 Nov 2026 10:15:33 +0000",
+    "timestamp": 1795688133.0,
+    "isoDate": "2026-11-26T10:15:33+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Moments-Lab-Metadata-726x390.png"
+  },
+  {
+    "title": "AIMS targets latest IPMX developments with January testing and certification event",
+    "link": "https://www.tvbeurope.com/ip-migration/aims-targets-latest-ipmx-developments-with-january-testing-and-certification-event",
+    "summary": "The first two events led to the certification of more than 80 products, expanding the range of IPMX products and boosting interoperability The post AIMS targets latest IPMX developments with January testing and certification event appeared …",
+    "source": "TVBEurope",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 26 Nov 2026 09:30:23 +0000",
+    "timestamp": 1795685423.0,
+    "isoDate": "2026-11-26T09:30:23+00:00",
+    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2023/06/IPMX-logo-726x508.jpg"
+  },
+  {
+    "title": "The Making Of Tenzing",
+    "link": "https://www.newsshooter.com/2026/11/26/the-making-of-tenzing/",
+    "summary": "Apple TV has a nice BTS of the making of Tenzing. Tenzing is a biographical drama directed by Jennifer Peedom that is based on a true story. It stars Genden Phuntsok, Tom Hiddleston, and Willem Dafoe and follows the true story of Tenzing No…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 26 Nov 2026 08:30:12 +0000",
+    "timestamp": 1795681812.0,
+    "isoDate": "2026-11-26T08:30:12+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Shure VP83F LensHopper Shotgun Microphone with Integrated Audio Recorder on sale for $59 USD",
+    "link": "https://www.newsshooter.com/2026/11/25/shure-vp83f-lenshopper-shotgun-microphone-with-integrated-audio-recorder-on-sale-for-59-usd/",
+    "summary": "The Shure VP83F LensHopper Shotgun Microphone with Integrated Audio Recorder is on sale for $59 USD, which is a big discount of $270 USD. Key features The Shure VP83F LensHopper merges all the functionality of the VP83 camera-mount shotgun …",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 26 Nov 2026 05:29:31 +0000",
+    "timestamp": 1795670971.0,
+    "isoDate": "2026-11-26T05:29:31+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Save up to $500 USD on the Apple Mac mini with M4 Pro Chip",
+    "link": "https://www.newsshooter.com/2026/11/25/save-up-to-500-usd-on-the-apple-mac-mini-with-m4-pro-chip/",
+    "summary": "You can save up to $500 USD on the Apple Mac mini with M4 Pro Chip. There are two options to choose from. One has 24GB of unified RAM and a 1TB SSD, and the other has 48GB of unified RAM and a 512GB SSD. The Apple Mac mini is less than half…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 26 Nov 2026 05:23:02 +0000",
+    "timestamp": 1795670582.0,
+    "isoDate": "2026-11-26T05:23:02+00:00",
+    "imageUrl": ""
+  },
+  {
+    "title": "Save $650 USD on the SmallHD CINE 5 Touchscreen On-Camera Monitor",
+    "link": "https://www.newsshooter.com/2026/11/25/save-650-usd-on-the-smallhd-cine-5-touchscreen-on-camera-monitor/",
+    "summary": "You can save $650 USD on the SmallHD CINE 5 Touchscreen On-Camera Monitor and purchase it for $949 USD. Key features The CINE 5 Touchscreen On-Camera Monitor features a sharp 5″ display suitable for indoor or outdoor use. The monitor suppor…",
+    "source": "Newsshooter",
+    "category": "broadcast-systems",
+    "timeAgo": "Thu, 26 Nov 2026 05:11:48 +0000",
+    "timestamp": 1795669908.0,
+    "isoDate": "2026-11-26T05:11:48+00:00",
+    "imageUrl": ""
+  },
+  {
     "title": "Panasonic SHX1 to start shipping in late January",
     "link": "https://www.newsshooter.com/2026/11/25/panasonic-shx1-to-start-shipping-in-late-january/",
     "summary": "I was originally told that new Panasonic SHX1 was originally supposed to be shipping in December, but B&H now has the estimated shipping date listed as Tuesday January 19th, 2027. Panasonic is also listing it as being available late January…",
@@ -275,28 +352,6 @@
     "imageUrl": ""
   },
   {
-    "title": "Nikon ZR firmware Version 2.00 Now Available to Download",
-    "link": "https://www.newsshooter.com/2026/11/23/nikon-zr-firmware-version-2-00-now-available-to-download/",
-    "summary": "The Nikon ZR firmware Version 2.00 is now available to download. Below are the changes from Firmware Version 1.11 to 2.00: Video Recording Still Photography Controls Other Changes Nikon announced Firmware Version 2.00 for the Nikon ZR a few…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Tue, 24 Nov 2026 04:19:09 +0000",
-    "timestamp": 1795493949.0,
-    "isoDate": "2026-11-24T04:19:09+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "FUJIFILM GFX ETERNA 55 Cinema Camera (Body Only Version) now available for $9,999 USD",
-    "link": "https://www.newsshooter.com/2026/11/23/fujifilm-gfx-eterna-55-cinema-camera-body-only-version-now-available-for-9999-usd/",
-    "summary": "FUJIFILM is now selling a body-only version of the GFX ETERNA 55 Cinema Camera (FUJIFILM G/ARRI PL) for $9,999 USD, which is $6,500 USD less than the existing version that comes with accessories. B&H and other vendors are showing the camera…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 23 Nov 2026 22:52:21 +0000",
-    "timestamp": 1795474341.0,
-    "isoDate": "2026-11-23T22:52:21+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "Bauer Academy helps TV professionals gain skills in podcasting",
     "link": "https://www.tvbeurope.com/audio/bauer-academy-helps-tv-professionals-gain-skills-in-podcasting",
     "summary": "Designed to widen Scotland’s creative talent pool, The Pod aims to strengthen professional networks and create potential pathways into podcasting for established workers in the TV industry and more The post Bauer Academy helps TV profession…",
@@ -352,28 +407,6 @@
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Media-Entertainment_Best-in-Market-Awards_Creative_Assets_2027_Sep26_1200x627_TW_24-726x379.png"
   },
   {
-    "title": "Tamron HEAD Link & SLIDER Link at Inter BEE 2026",
-    "link": "https://www.newsshooter.com/2026/11/23/tamron-head-link-slider-link-at-inter-bee-2026/",
-    "summary": "At Inter BEE 2026 in Japan, Tamron was showing a prototype of its upcoming HEAD Link & SLIDER Link that allows you to set up multiple preset focus points using a compatible Tamron AF lens. By utilizing an app, you select various focus point…",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 23 Nov 2026 08:06:16 +0000",
-    "timestamp": 1795421176.0,
-    "isoDate": "2026-11-23T08:06:16+00:00",
-    "imageUrl": ""
-  },
-  {
-    "title": "Nextorage 1920GB NX-A1SE CFexpress Type A Memory Card on sale for $449.99 USD",
-    "link": "https://www.newsshooter.com/2026/11/22/nextorage-1920gb-nx-a1se-cfexpress-type-a-memory-card-on-sale-for-449-99-usd/",
-    "summary": "The Nextorage 1920GB NX-A1SE CFexpress Type A Memory Card is on sale for $449.99 USD, which is a sizable discount of $250 USD. If you just bought a new Sony FX5, then this will provide you with a lot of capacity at an affordable price. Key …",
-    "source": "Newsshooter",
-    "category": "broadcast-systems",
-    "timeAgo": "Mon, 23 Nov 2026 07:36:10 +0000",
-    "timestamp": 1795419370.0,
-    "isoDate": "2026-11-23T07:36:10+00:00",
-    "imageUrl": ""
-  },
-  {
     "title": "wTVision integrates NEOiD PTZ range to boost AR and virtual production workflows",
     "link": "https://www.tvbeurope.com/virtual-production/wtvision-integrates-neoid-ptz-range-to-boost-ar-and-virtual-production-workflows",
     "summary": "The integration uses built-in tracking data, aiming to simplify multi-camera virtual studio and augmented reality production The post wTVision integrates NEOiD PTZ range to boost AR and virtual production workflows appeared first on TVBEuro…",
@@ -405,38 +438,5 @@
     "timestamp": 1795167232.0,
     "isoDate": "2026-11-20T09:33:52+00:00",
     "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Top-View-camera-angle-726x414.jpg"
-  },
-  {
-    "title": "Report warns of risks to BBC’s tech infrastructure from proposed savings",
-    "link": "https://www.tvbeurope.com/business/report-warns-of-risks-to-bbcs-tech-infrastructure-from-proposed-savings",
-    "summary": "A report from the National Audit Office warns the broadcaster's efforts to achieve further savings could reduce its data and cyber capability as well as delay investment in replacing ageing technology The post Report warns of risks to BBC’s…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Fri, 20 Nov 2026 08:56:10 +0000",
-    "timestamp": 1795164970.0,
-    "isoDate": "2026-11-20T08:56:10+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2019/01/bbccorp482-2.jpg"
-  },
-  {
-    "title": "NEP strikes a perfect balance at the Artistic Gymnastic World Championships",
-    "link": "https://www.tvbeurope.com/live-production/nep-strikes-a-perfect-balance-at-the-artistic-gymnastic-world-championships",
-    "summary": "Deployed aboard its EU-01 OB vehicle, the NEP Platform enabled a broad range of production applications to be integrated, aiming to provide enhanced viewing experiences for the international audience The post NEP strikes a perfect balance a…",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 19 Nov 2026 11:00:16 +0000",
-    "timestamp": 1795086016.0,
-    "isoDate": "2026-11-19T11:00:16+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/Gymnastics-WC-2026-1638-726x484.jpg"
-  },
-  {
-    "title": "Spain’s Euskal Irrati Telebista begins audio over IP upgrade",
-    "link": "https://www.tvbeurope.com/audio/spains-euskal-irrati-telebista-begins-audio-over-ip-upgrade",
-    "summary": "Establishing a software-defined foundation at EITB's Bilbao headquarters, the deployment aligns with the EBU's DMF principles The post Spain’s Euskal Irrati Telebista begins audio over IP upgrade appeared first on TVBEurope.",
-    "source": "TVBEurope",
-    "category": "broadcast-systems",
-    "timeAgo": "Thu, 19 Nov 2026 09:53:29 +0000",
-    "timestamp": 1795082009.0,
-    "isoDate": "2026-11-19T09:53:29+00:00",
-    "imageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/11/26-10-30_EITB_mc_2_56-726x545.jpg"
   }
 ]
