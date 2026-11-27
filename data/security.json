@@ -1,5 +1,60 @@
 [
   {
+    "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+    "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+    "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Nov 2026 17:19:34 +0530",
+    "timestamp": 1795780174.0,
+    "isoDate": "2026-11-27T11:49:34+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpD815FTK1v-12AKbFYOz3fplAY5EWVRrb1mh5LOUSmUmG7u7mdgGnppCpL9-ZaG-3CyWm_2KP4icW3UY1Q3AYG6lEe03ezqY9Jx49mW9SC4D0JqiUhT-Rmet7lin7u1bHdyppzeay-bTKDty53IDUI_P9md3iUp5xaY-ko1U2uBRTkNdPhAVTYuW9hDmO/s1600/ms-store.png"
+  },
+  {
+    "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+    "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+    "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is a…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Nov 2026 16:02:18 +0530",
+    "timestamp": 1795775538.0,
+    "isoDate": "2026-11-27T10:32:18+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjmF6SycZfBA1Red5jxgerBNr4pe7i8jIwZyZkF20Kxvw__-2oD3cO1hKSCGGQRqncukvouxIx-6KBQdRf5jz9eXb80yFmNyTo2sOsmW2TEXS4irdH7uPvWfZh66zxIa9h0RixfLZtaKO3rSo_riHT9hfbyBGC1m_Y0_FWRu_M0EADEFFZmXFB_NG72Q/s1600/anecdotes.jpg"
+  },
+  {
+    "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+    "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+    "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious files were …",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Nov 2026 14:59:30 +0530",
+    "timestamp": 1795771770.0,
+    "isoDate": "2026-11-27T09:29:30+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg"
+  },
+  {
+    "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted crit…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Nov 2026 11:34:20 +0530",
+    "timestamp": 1795759460.0,
+    "isoDate": "2026-11-27T06:04:20+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjviiPK0v6Kpjxjo_jDNE9vaZ8-JKiq6Oct4uU6qPDfTXq66QnxuV2iExRo2Rx2FyHhyphenhyphenDquMIoxmlfo5GwxfKoEXRG8Pj38FDOzEKitDdhXBNOGN7b6sddsMozMuhI44c-3mimoE4OxU-Xg7h8IzhDiyrXmP6qBO-wW6xmitkIEv_EkU-FJUJBTNtQ8uY/s1600/swiss.jpg"
+  },
+  {
+    "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+    "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+    "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE ident…",
+    "source": "The Hacker News",
+    "category": "security",
+    "timeAgo": "Fri, 27 Nov 2026 11:18:20 +0530",
+    "timestamp": 1795758500.0,
+    "isoDate": "2026-11-27T05:48:20+00:00",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4kFFGLYGbyvO7M_M1gKBjBUm5TF_eT6dIHtCmXKz_cGyC6orRw9XupBLbcQlJTQEEqjZ3q73Cv_Sn9ncPKxOJYU8Poi8Q54-bWKIro4Sp4JYi9hjUjYy71OR1LOV6B5nX8dHK0jYSRJ1p4O1pdMWomZGhCiTKE7MkvrC-gfeINrM-GOab64Bw_MzxA6Z/s1600/cacti.png"
+  },
+  {
     "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
     "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
     "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what i…",
@@ -13,7 +68,7 @@
   {
     "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
     "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-    "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils pac…",
+    "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have started as fa…",
     "source": "The Hacker News",
     "category": "security",
     "timeAgo": "Thu, 26 Nov 2026 20:43:41 +0530",
@@ -273,60 +328,5 @@
     "timestamp": 1795500177.0,
     "isoDate": "2026-11-24T06:02:57+00:00",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg"
-  },
-  {
-    "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critica…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Tue, 24 Nov 2026 11:32:45 +0530",
-    "timestamp": 1795500165.0,
-    "isoDate": "2026-11-24T06:02:45+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrPCPwSotVSX8IYSgpSrVceRAIYqba8YSZSlNwD5RjetEhPG6vLRhk_NKkatjg1h-fulZJDm4CucsLvQrEtCO6v0NtuJGo3nZD3mXSHyKpgPrUZMpq7YNpheStYC_AqyMWRfWIFiK9bcHJNAw6pwK9JqirhO8JESKdmsI5Pl8UgtsVsRivmMmMenQ01ClW/s1600/cisa-kev.jpg"
-  },
-  {
-    "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-    "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-    "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring so…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Nov 2026 23:15:15 +0530",
-    "timestamp": 1795455915.0,
-    "isoDate": "2026-11-23T17:45:15+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg"
-  },
-  {
-    "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-    "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-    "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already ope…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Nov 2026 20:40:48 +0530",
-    "timestamp": 1795446648.0,
-    "isoDate": "2026-11-23T15:10:48+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBkXdg7nYK3nVTpBuC9FL7mGBvzvUxU0VxYplArVFYSTg2d_6tFITemHBYRAOD29pVBKzfo2aZ9Jsy8avRdACCMqrVdlEER0zn2xIWDBdswcH_nZpnJYkfORK6CEaWwX3f-B8AvkUqbR2TLNa7odUG4PFu1uTk_cwsUt8DPGJBSjjF2wd8VPIa5ATJ4fo3/s1600/crecap.jpg"
-  },
-  {
-    "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-    "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-    "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), …",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Nov 2026 18:52:20 +0530",
-    "timestamp": 1795440140.0,
-    "isoDate": "2026-11-23T13:22:20+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_LYD1NyoPDf8MFXggODpgd2hvazxjShSZltgrLUVic7V-ZIQSjXIzFrkUx0FNoUjlxlIYocEd1AZwGx66uqGWEUyd1TMSlDmxUu8M_r6jdYkmWDZjbszL2WsK7LJzrwI-NgsI7EaLe9WkLwNLGKj8ww3tTOY4X4JPug3RWQqoypUiEpZjVXgBhhcLuZG/s1600/js-cve.jpg"
-  },
-  {
-    "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-    "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that…",
-    "source": "The Hacker News",
-    "category": "security",
-    "timeAgo": "Mon, 23 Nov 2026 18:11:04 +0530",
-    "timestamp": 1795437664.0,
-    "isoDate": "2026-11-23T12:41:04+00:00",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAI03mMW-UNs2bdUuZEiugVBMZq3speEoo8tbQ7TZVITD4fnXiK4l657Tn4-G9fX2w8xLz2zkP9-RTrg3QZPtNMHL_Lg7YRoruCnp8TJA4tbA5bW1YsBZU8QR2FIqSb3_IpN1Le-Xoq2MQ82ZQyRNmYxr8q70PPzijzypDcIDKMIOjrzBweBUiKJ_nuJY/s1600/screens.jpg"
   }
 ]
